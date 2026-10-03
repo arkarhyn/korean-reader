@@ -6,6 +6,7 @@ Raw XML is cached so each lemma hits the API once.
 """
 
 import re
+import time
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
 
@@ -32,6 +33,7 @@ KIWI_TO_KRDICT_POS: dict[str, set[str]] = {
     "MM": {"관형사"},
     "IC": {"감탄사"},
 }
+MIN_INTERVAL = 0.5  # seconds between live requests
 GRADE_RANK = {"초급": 0, "중급": 1, "고급": 2}
 _CJK = re.compile(r"[㐀-鿿豈-﫿]+")
 
@@ -124,20 +126,39 @@ class KrdictClient:
         self._key = api_key
         self._cache = cache
         self._http = http or httpx.Client(timeout=15)
+        self._last_request = 0.0
 
     def search(self, word: str) -> list[KrdictEntry]:
         xml = self._cache.get(word)
         if xml is None:
-            resp = self._http.get(API_URL, params={
-                "key": self._key, "q": word, "part": "word", "translated": "y",
-                "trans_lang": "1,2", "advanced": "y", "method": "exact", "num": 20,
-            })
-            resp.raise_for_status()
+            resp = self._get(word)
             xml = resp.text
             entries = parse_search(xml)  # raises on API error -> nothing cached
             self._cache.put(word, xml)
             return entries
         return parse_search(xml)
 
+    def _get(self, word: str, attempts: int = 4) -> httpx.Response:
+        """GET with backoff; the API drops connections under bursts of lookups."""
+        params = {"key": self._key, "q": word, "part": "word", "translated": "y",
+                  "trans_lang": "1,2", "advanced": "y", "method": "exact", "num": 20}
+        for i in range(attempts):
+            time.sleep(max(0.0, self._last_request + MIN_INTERVAL - time.monotonic()))
+            self._last_request = time.monotonic()
+            try:
+                resp = self._http.get(API_URL, params=params)
+                resp.raise_for_status()
+                return resp
+            except (httpx.TransportError, httpx.HTTPStatusError):
+                if i == attempts - 1:
+                    raise
+                time.sleep(2 ** i)
+        raise AssertionError("unreachable")
+
     def lookup(self, lemma: str, pos: str | None = None) -> KrdictEntry | None:
         return pick_entry(self.search(lemma), lemma, pos)
+
+    def lookup_cached(self, lemma: str, pos: str | None = None) -> KrdictEntry | None:
+        """Like lookup, but never hits the network; uncached lemmas return None."""
+        xml = self._cache.get(lemma)
+        return pick_entry(parse_search(xml), lemma, pos) if xml is not None else None

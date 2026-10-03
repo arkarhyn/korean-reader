@@ -93,17 +93,57 @@ Do not reverse an entry without asking Austin.
 30. **krdict glosses picked by POS match, then easiest grade, then lowest
     sup_no.** Hanja comes from `origin` (CJK characters only).
 
+## 2026-10-03 (Stage 3, Claude Code)
+
+31. **O1 resolved: `tailscale cert`** for `arka18-desktop.tail91f88.ts.net`;
+    uvicorn serves TLS on :8443 from `C:\ProgramData\korean-reader\certs\`.
+    Renewed every 4 weeks by a SYSTEM scheduled task (`renew_cert.ps1`).
+    Rejected: `tailscale serve` (changes the URL/port, another moving part);
+    home-CA cert (iPhone profile + trust toggle). Reason: publicly trusted,
+    nothing to install on the phone.
+32. **O4 resolved: native Windows service via NSSM** (`install_service.ps1`),
+    running `server\.venv\Scripts\python.exe scripts\serve.py` as
+    LocalSystem; firewall allows :8443 from `100.64.0.0/10` only.
+    Rejected: WSL + systemd, Docker. Reason: no extra runtime; the analyzer
+    and DB already run natively.
+33. **Parchment theme built from scratch** (Gowun Batang body, Nanum Myeongjo
+    titles, dark "lamp-lit" variant via `prefers-color-scheme`).
+    Rejected: porting legacy `static/index.html` (GitHub-dark, not the
+    intended look). Reason: `korean_graded_readers.jsx` was never copied into
+    `legacy/`.
+34. **Fonts self-hosted via @fontsource**, cached at runtime by the service
+    worker (CacheFirst), not precached. Rejected: Google Fonts (offline
+    breaks); precaching all ~700 unicode-range slices (~29 MB). Reason: only
+    slices actually rendered get cached.
+35. **Schema additions to DATA_MODEL:** `episode.updated_at`,
+    `lexeme_state.updated_at`, `grammar_state.updated_at` (sync cursor),
+    `event.received_at`, `episode.source`, `question.idx`;
+    `grammar_point.ja_parallel` nullable until SYLLABUS_MAP;
+    `lexeme.gloss_source = none` when krdict has no entry (retried on
+    re-ingest). Rejected: separate sync-version table. Reason: single user,
+    timestamps suffice.
+36. **Paragraph token JSON:** `{s, e, lex}` for content, `{s, e, g}` for coded
+    grammar; uncoded grammar morphemes are not stored. The client widens a
+    content token's tap target over trailing endings up to the next content
+    token or word boundary (키우고 -> 키우다).
+37. **API under `/api`, web served same-origin by FastAPI** (SPA fallback).
+    Rejected: separate static host + CORS. Reason: one process, one cert.
+38. **Sync protocol:** client pushes queued events (`POST /api/events/batch`,
+    insert-or-ignore on UUID, returns accepted + duplicate ids, client deletes
+    both), then pulls `GET /api/sync/pull?since=<server_time>` (full episode
+    payloads + lexeme states). Single-flight on the client.
+39. **"Sounds off" flags a sentence from the word popover** (sentence around
+    the tapped word). Rejected: per-paragraph flag button. Reason: SPEC 8 is
+    per sentence and it keeps the reading page uncluttered.
+40. **Ingest without `--publish` keeps an episode's current status.**
+    Reason: a re-ingest to refresh glosses must not unpublish.
+41. **krdict client throttles live requests (0.5 s) and retries with
+    backoff.** Reason: a burst during the first ingest got this machine's IP
+    timed out by krdict.
+
 ## OPEN
 
-- **O1 HTTPS for the PWA.** iOS requires a secure context for service
-  workers (offline mode); plain `http://<ip>` will not work offline.
-  Option A (preferred): `tailscale cert` for the desktop's tailnet hostname
-  (publicly trusted, no iPhone profile needed).
-  Option B: server cert issued from Austin's existing home CA; root installed
-  as an iOS profile AND enabled under Settings > General > About >
-  Certificate Trust Settings. Decide in Stage 3.
-- **O4 Desktop deploy target.** Desktop is always on (confirmed). Need: OS
-  (assumed Windows) and run method (WSL + systemd, Docker, or native Windows
-  service via NSSM). Decide in Stage 3.
+- ~~O1 HTTPS~~ -> resolved, see 31.
+- ~~O4 deploy target~~ -> resolved, see 32.
 - **O2 Story bible details** (names, city, cast) -- next Project design session.
 - **O3 Kanji set for Sino-Korean transparency weighting** -- off until built.

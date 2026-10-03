@@ -1,0 +1,107 @@
+@import "tailwindcss";
+@import "@fontsource/gowun-batang/400.css";
+@import "@fontsource/gowun-batang/700.css";
+@import "@fontsource/nanum-myeongjo/700.css";
+@import "@fontsource/nanum-myeongjo/800.css";
+
+/* Parchment (light) and lamp-lit (dark). Components only use the tokens below. */
+:root {
+  --paper: #f4ecd8;
+  --paper-deep: #ebdfc3;
+  --card: #fbf6e9;
+  --ink: #2b2118;
+  --ink-soft: #6a5642;
+  --rule: #d9c9a3;
+  --accent: #8a5a2b;
+  --seal: #a23b2a;
+  --seal-wash: #a23b2a1f;
+  --good: #4f6b2f;
+  --bad: #a23b2a;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #1d1813;
+    --paper-deep: #262019;
+    --card: #2a231b;
+    --ink: #ebe0c9;
+    --ink-soft: #b3a38a;
+    --rule: #43392c;
+    --accent: #d39b5f;
+    --seal: #e0745e;
+    --seal-wash: #e0745e26;
+    --good: #a3bf72;
+    --bad: #e0745e;
+    color-scheme: dark;
+  }
+}
+
+@theme {
+  --color-paper: var(--paper);
+  --color-paper-deep: var(--paper-deep);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-rule: var(--rule);
+  --color-accent: var(--accent);
+  --color-seal: var(--seal);
+  --color-seal-wash: var(--seal-wash);
+  --color-good: var(--good);
+  --color-bad: var(--bad);
+  --font-body: "Gowun Batang", "AppleMyungjo", "Batang", serif;
+  --font-title: "Nanum Myeongjo", "AppleMyungjo", "Batang", serif;
+  --font-ui: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html,
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Faint laid-paper texture: two soft gradients, no image asset. */
+body {
+  background-image:
+    radial-gradient(ellipse at top, #ffffff14, transparent 60%),
+    radial-gradient(ellipse at bottom, #00000010, transparent 70%);
+  background-attachment: fixed;
+  min-height: 100dvh;
+}
+
+.word {
+  border-radius: 3px;
+  cursor: pointer;
+  transition: background-color 120ms;
+}
+.word:hover {
+  background: var(--paper-deep);
+}
+.word.tapped {
+  background: var(--seal-wash);
+  box-shadow: inset 0 -1px 0 var(--seal);
+}
+.word.active {
+  background: var(--seal);
+  color: var(--card);
+}
+
+.rule-ornament {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  color: var(--accent);
+}
+.rule-ornament::before,
+.rule-ornament::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid var(--rule);
+}
+
+.safe-bottom {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+}

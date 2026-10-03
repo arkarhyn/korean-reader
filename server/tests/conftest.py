@@ -16,3 +16,32 @@ def episode(ep_id: str) -> Episode:
 @pytest.fixture(params=LEGACY_EPISODES)
 def legacy_episode(request) -> Episode:
     return episode(request.param)
+
+
+@pytest.fixture
+def engine(tmp_path):
+    from app.db import make_engine
+    from app.db.migrate import upgrade
+
+    eng = make_engine(tmp_path / "test.db")
+    upgrade(eng)
+    yield eng
+    eng.dispose()
+
+
+@pytest.fixture
+def session(engine):
+    from app.db import make_sessionmaker
+
+    with make_sessionmaker(engine)() as s:
+        yield s
+
+
+def fake_lookup(lemma: str, pos: str):
+    """Stand-in for KrdictClient.lookup: every lemma glosses except 초코 (proper noun)."""
+    from app.krdict.client import KrdictEntry, Sense
+
+    if lemma == "초코":
+        return None
+    return KrdictEntry(target_code=f"t-{lemma}", word=lemma, sup_no=0, pos="명사", origin=None, grade=None,
+                       senses=[Sense("", f"en:{lemma}", "", f"ja:{lemma}", "")])

@@ -1,0 +1,62 @@
+// Mirrors server/app/api/schemas.py.
+
+export type Token = { s: number; e: number; lex?: number; g?: string };
+
+export type Lexeme = {
+  lemma: string;
+  pos: string;
+  gloss_en: string;
+  gloss_ja: string | null;
+  hanja: string | null;
+};
+
+export type Question = {
+  id: number;
+  kind: "comprehension" | "meaning_check" | "grammar_check";
+  prompt_ko: string;
+  prompt_en: string;
+  options: string[];
+  answer_idx: number;
+  target_ref: string | null;
+};
+
+export type Paragraph = { idx: number; ko: string; en: string; tokens: Token[] };
+
+export type Episode = {
+  id: string;
+  series: string;
+  title_ko: string;
+  title_en: string;
+  register_tags: string[];
+  target_grammar: string | null;
+  coverage: number | null;
+  updated_at: string;
+  paragraphs: Paragraph[];
+  questions: Question[];
+  lexemes: Record<string, Lexeme>;
+};
+
+export type LexemeState = { lexeme_id: number; state: string; updated_at: string };
+
+export type SyncPull = { server_time: string; episodes: Episode[]; lexeme_states: LexemeState[] };
+
+export type EventType =
+  | "episode_open"
+  | "word_tap"
+  | "episode_complete"
+  | "question_answer"
+  | "mine_word"
+  | "flag_sentence"
+  | "placement_answer"
+  | "grammar_drill_answer"
+  | "set_state";
+
+export type Device = "laptop" | "iphone";
+
+export type QueuedEvent = {
+  id: string;
+  ts: string;
+  device: Device;
+  type: EventType;
+  payload: Record<string, unknown>;
+};

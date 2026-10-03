@@ -1,5 +1,53 @@
 # STATUS
 
+## 2026-10-03 -- Stage 3 (Claude Code)
+**Done:**
+- SQLite schema (`server/app/db/models.py`) per DATA_MODEL + Alembic
+  (`server/migrations/`, revision 0001). Additions logged in DECISIONS 35.
+- Ingest (`app/ingest.py`, `scripts/ingest_episodes.py`): analyzer tokens ->
+  lexeme ids, krdict glosses, coverage, questions; seed loads grammar points
+  + 12 flagged lexemes (learning) + 2 particle grammar states (introduced).
+  Both legacy episodes published in `server/data/korean_reader.db`.
+- API: `GET /api/episodes`, `GET /api/episodes/{id}`, `POST /api/events/batch`
+  (idempotent), `GET /api/sync/pull?since=`; FastAPI serves `web/dist` with
+  SPA fallback.
+- `web/`: Vite + React 19 + TS 7 + Tailwind 4 + vite-plugin-pwa + Dexie.
+  Library, reader (tap popover with EN/JP/Hanja/TTS, per-paragraph English
+  toggle, "sounds off" sentence flag), tap-only questions, finish ->
+  `episode_complete`. Offline event queue + sync (open / foreground / online /
+  5 min / manual). Parchment theme + dark variant, PWA icons.
+- `scripts/serve.py` (migrate + uvicorn, TLS from env),
+  `scripts/install_service.ps1` (NSSM service, tailscale cert, firewall,
+  renewal task), `scripts/renew_cert.ps1`.
+- Tests: server 67 passed (offline); web 9 passed; `tsc` clean; build OK.
+- Verified in Chrome on laptop: library + reader + taps; server stopped ->
+  page loads from service worker, taps queue; server restarted -> queue
+  flushed in one batch, `event` rows == distinct ids.
+
+- Service installed (NSSM `korean-reader`, https on :8443, tailscale cert,
+  renewal task). **Acceptance passed on iPhone:** offline taps landed once
+  after reconnect (Austin, 2026-10-03).
+
+**Next:** Stage 4 (placement).
+
+**Open issues:**
+- **krdict glosses missing:** krdict started timing out from this machine
+  mid-ingest (other sites fine; likely a temporary IP block from the burst).
+  It also refused connections from Anthropic's fetch servers, so likely an
+  outage or wide block; the API key is fine (32 chars, worked in Stage 2).
+  31 lexemes filled from the local cache (`--cache-only`); 136 still
+  `gloss_source=none`. Once krdict answers:
+  `cd server; uv run python scripts/ingest_episodes.py --seed` (fills them,
+  keeps published status; phones get them on next sync). The live krdict
+  pytest fails until then.
+- Coverage shows 0% everywhere: no lexeme is `known` until placement (Stage 4).
+- `legacy_vocab.json` still not imported (DECISIONS 28).
+- Light theme not yet eyeballed (dev machine is in dark mode).
+- iOS: Web Speech ko-KR voice availability on the iPhone untested.
+- Font slices are cached only after first render online; a never-seen glyph
+  falls back to the system serif offline.
+- The krdict key was pasted in chat on 2026-10-03; consider regenerating it.
+
 ## 2026-10-03 -- Stage 2 (Claude Code)
 **Done:**
 - `server/` uv project (Python 3.12; kiwipiepy 0.24, fastapi, sqlalchemy,

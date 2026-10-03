@@ -20,7 +20,7 @@ SPEC.md, DATA_MODEL.md, DECISIONS.md, ROADMAP.md, CLAUDE.md written.
 the correct (lemma, pos); 했어요 / 했어요. resolve to 하다; coverage function
 returns a number for each reader. `pytest` green.
 
-## Stage 3 -- Server API + DB + reader UI with tap logging  <- CURRENT
+## Stage 3 -- Server API + DB + reader UI with tap logging  DONE
 - SQLite schema per DATA_MODEL; Alembic migrations.
 - Endpoints: episodes list/get, events batch POST (idempotent), sync pull.
 - Web: port legacy design (parchment palette, Nanum Myeongjo / Gowun Batang),
@@ -30,7 +30,7 @@ returns a number for each reader. `pytest` green.
 **Accept:** read an episode on iPhone over VPN, go offline, tap words,
 reconnect, events land once on server.
 
-## Stage 4 -- Placement
+## Stage 4 -- Placement  <- CURRENT
 - Grammar check (HTSK 1-28 points), frequency-band yes/no with pseudowords,
   3-4 calibration passages.
 - Fit initial lexeme / grammar states.

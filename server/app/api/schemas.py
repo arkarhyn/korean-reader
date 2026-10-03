@@ -1,0 +1,82 @@
+from datetime import datetime
+from typing import Any, Literal
+from uuid import UUID
+
+from pydantic import AwareDatetime, BaseModel, ConfigDict, Field
+
+EventType = Literal[
+    "episode_open", "word_tap", "episode_complete", "question_answer", "mine_word",
+    "flag_sentence", "placement_answer", "grammar_drill_answer", "set_state",
+]
+
+
+class EpisodeSummary(BaseModel):
+    id: str
+    series: str
+    title_ko: str
+    title_en: str
+    register_tags: list[str]
+    target_grammar: str | None
+    coverage: float | None
+    updated_at: datetime
+
+
+class ParagraphOut(BaseModel):
+    idx: int
+    ko: str
+    en: str
+    tokens: list[dict[str, Any]]
+
+
+class QuestionOut(BaseModel):
+    id: int
+    kind: str
+    prompt_ko: str
+    prompt_en: str
+    options: list[str]
+    answer_idx: int
+    target_ref: str | None
+
+
+class LexemeOut(BaseModel):
+    lemma: str
+    pos: str
+    gloss_en: str
+    gloss_ja: str | None
+    hanja: str | None
+
+
+class EpisodeFull(EpisodeSummary):
+    paragraphs: list[ParagraphOut]
+    questions: list[QuestionOut]
+    lexemes: dict[int, LexemeOut]
+
+
+class EventIn(BaseModel):
+    model_config = ConfigDict(extra="forbid")
+    id: UUID
+    ts: AwareDatetime
+    device: Literal["laptop", "iphone"]
+    type: EventType
+    payload: dict[str, Any] = {}
+
+
+class EventBatch(BaseModel):
+    events: list[EventIn] = Field(max_length=1000)
+
+
+class EventBatchResult(BaseModel):
+    accepted: list[str]
+    duplicate: list[str]
+
+
+class LexemeStateOut(BaseModel):
+    lexeme_id: int
+    state: str
+    updated_at: datetime
+
+
+class SyncPull(BaseModel):
+    server_time: datetime
+    episodes: list[EpisodeFull]
+    lexeme_states: list[LexemeStateOut]
