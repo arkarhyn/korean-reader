@@ -28,18 +28,22 @@
   renewal task). **Acceptance passed on iPhone:** offline taps landed once
   after reconnect (Austin, 2026-10-03).
 
-**Next:** Stage 4 (placement).
+- Added after acceptance: local krdict dump index
+  (`scripts/build_krdict_local.py`, `app/krdict/local.py`), gloss lookup
+  chain in ingest; 73 server tests pass.
+
+**Next:** Stage 4 (placement). Inputs already chosen (DECISIONS 43):
+Claude drafts HTSK 1-28 SYLLABUS_MAP rows -> Austin reviews -> test
+sentences; vocab bands from the NIKL learner list (needs download + parser);
+Claude writes 3-4 calibration passages.
 
 **Open issues:**
-- **krdict glosses missing:** krdict started timing out from this machine
-  mid-ingest (other sites fine; likely a temporary IP block from the burst).
-  It also refused connections from Anthropic's fetch servers, so likely an
-  outage or wide block; the API key is fine (32 chars, worked in Stage 2).
-  31 lexemes filled from the local cache (`--cache-only`); 136 still
-  `gloss_source=none`. Once krdict answers:
-  `cd server; uv run python scripts/ingest_episodes.py --seed` (fills them,
-  keeps published status; phones get them on next sync). The live krdict
-  pytest fails until then.
+- krdict API unreachable since mid-ingest on 2026-10-03 (refused from
+  outside too, so not our setup). Glosses now come from the local krdict
+  dump (DECISIONS 42): 161/167 lexemes glossed. Remaining 6 have no usable
+  entry: compounds/derived (산책시키다, 애견용품), 초코 (name), 알람, and
+  contraction-only entries (그래도, 어떡하다). Compounds could fall back to
+  component glosses later. The live krdict pytest fails while the API is down.
 - Coverage shows 0% everywhere: no lexeme is `known` until placement (Stage 4).
 - `legacy_vocab.json` still not imported (DECISIONS 28).
 - Light theme not yet eyeballed (dev machine is in dark mode).

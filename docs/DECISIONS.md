@@ -141,6 +141,25 @@ Do not reverse an entry without asking Austin.
     backoff.** Reason: a burst during the first ingest got this machine's IP
     timed out by krdict.
 
+42. **Glosses from a local copy of the krdict dump** (2019 LMF XML export,
+    50,031 word entries, mirror github.com/spellcheck-ko/korean-dict-nikl-krdict),
+    indexed into `server/data/krdict_local.sqlite` by
+    `scripts/build_krdict_local.py`. Lookup order: local dump -> cached API
+    responses -> live API (`--live` only). Same target_codes and POS labels
+    as the API, so DECISIONS 30's picking rule is unchanged. License:
+    CC BY-SA 2.0 KR, (c) 국립국어원; dictionary data is not redistributed
+    from this repo (data/ is gitignored). Rejected: live API only (krdict was
+    unreachable for hours on 2026-10-03); Wiktionary (no Japanese); stdict
+    (Korean-only definitions); LLM glosses (SPEC 5). Reason: same data,
+    no runtime dependency on krdict.korean.go.kr.
+43. **Stage 4 inputs (chosen by Austin before planning):** the HTSK 1-28
+    grammar-point list is drafted by Claude as SYLLABUS_MAP rows (map only,
+    no HTSK text) and reviewed by Austin before test sentences are written;
+    vocab yes/no bands come from the NIKL learner vocabulary list (A/B/C);
+    calibration passages are written by Claude in-session. Rejected: a
+    design session first; krdict 초급/중급/고급 levels; corpus frequency
+    lists; Austin-supplied passages.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

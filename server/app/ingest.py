@@ -29,6 +29,19 @@ GRAMMAR_LABELS: dict[str, str] = {
 }
 
 
+def first_of(*lookups: Lookup | None) -> Lookup:
+    """Try each gloss source in order (local dump, API cache, live API); first hit wins."""
+    sources = [lk for lk in lookups if lk is not None]
+
+    def lookup(lemma: str, pos: str) -> KrdictEntry | None:
+        for lk in sources:
+            if (entry := lk(lemma, pos)) is not None:
+                return entry
+        return None
+
+    return lookup
+
+
 @dataclass
 class IngestReport:
     episode_id: str

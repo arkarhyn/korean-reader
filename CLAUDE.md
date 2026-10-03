@@ -42,12 +42,13 @@ Reference as needed: `docs/SPEC.md`, `docs/DATA_MODEL.md`,
   `cd server; $env:SERVER_PORT=8000; uv run python scripts/serve.py`)
 - web build: `cd web; npm run build` (FastAPI serves `web/dist` at `/`)
 - web tests: `cd web; npm test`
-- ingest episodes: `cd server; uv run python scripts/ingest_episodes.py [paths] --publish [--seed] [--offline | --cache-only]`
+- ingest episodes: `cd server; uv run python scripts/ingest_episodes.py [paths] --publish [--seed] [--live | --offline]`
 - serve (migrates first; TLS if cert env set): `cd server; uv run python scripts/serve.py`
 - new migration: `cd server; uv run alembic revision --autogenerate -m <msg>`
 - install / update Windows service (elevated): `powershell -ExecutionPolicy Bypass -File server\scripts\install_service.ps1`
 - tests: `cd server; uv run pytest` (live krdict test runs only if `KRDICT_API_KEY` is set)
 - export legacy vocab: `cd server; uv run python scripts/export_legacy_vocab.py`
+- build local krdict dictionary (once, ~390 MB download): `cd server; uv run python scripts/build_krdict_local.py`
 - record krdict fixtures: `cd server; uv run python scripts/record_krdict_fixtures.py [words...]`
 - coverage check: `TBD` (Stage 5)
 
