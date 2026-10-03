@@ -1,0 +1,5310 @@
+{
+ "_note": "Exported from legacy/Graded-Reader-Project/data/vocab.db by server/scripts/export_legacy_vocab.py. Not imported yet; state: learning = legacy 'studying', else seen. Review 'unresolved' by hand.",
+ "lexemes": [
+  {
+   "lemma": "하다",
+   "pos": "VV",
+   "lookups": 17,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:46:25",
+   "last_seen": "2026-07-08 01:00:23",
+   "surfaces": [
+    "해",
+    "하다"
+   ]
+  },
+  {
+   "lemma": "아침",
+   "pos": "NNG",
+   "lookups": 13,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:46:15",
+   "last_seen": "2026-06-10 14:52:59",
+   "surfaces": [
+    "아침"
+   ]
+  },
+  {
+   "lemma": "가다",
+   "pos": "VV",
+   "lookups": 12,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 14:54:20",
+   "surfaces": [
+    "가다"
+   ]
+  },
+  {
+   "lemma": "돌",
+   "pos": "NNG",
+   "lookups": 12,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:40:01",
+   "last_seen": "2026-07-08 00:51:24",
+   "surfaces": [
+    "돌"
+   ]
+  },
+  {
+   "lemma": "일어나다",
+   "pos": "VV",
+   "lookups": 12,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:46:42",
+   "last_seen": "2026-06-10 14:53:04",
+   "surfaces": [
+    "일어나다"
+   ]
+  },
+  {
+   "lemma": "닦다",
+   "pos": "VV",
+   "lookups": 11,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:18",
+   "last_seen": "2026-05-27 10:41:42",
+   "surfaces": [
+    "닦다"
+   ]
+  },
+  {
+   "lemma": "세수",
+   "pos": "NNG",
+   "lookups": 11,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:02",
+   "last_seen": "2026-06-10 14:53:52",
+   "surfaces": [
+    "세수"
+   ]
+  },
+  {
+   "lemma": "애견",
+   "pos": "NNG",
+   "lookups": 11,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:43:44",
+   "last_seen": "2026-07-08 00:44:58",
+   "surfaces": [
+    "애견"
+   ]
+  },
+  {
+   "lemma": "있다",
+   "pos": "VA",
+   "lookups": 11,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:15:59",
+   "last_seen": "2026-05-27 11:27:52",
+   "surfaces": [
+    "있다"
+   ]
+  },
+  {
+   "lemma": "저",
+   "pos": "NP",
+   "lookups": 11,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:25:46",
+   "last_seen": "2026-07-08 01:03:40",
+   "surfaces": [
+    "저는",
+    "저의",
+    "제가",
+    "저를",
+    "저한테",
+    "제"
+   ]
+  },
+  {
+   "lemma": "듣다",
+   "pos": "VV",
+   "lookups": 8,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:46:20",
+   "last_seen": "2026-07-08 01:11:10",
+   "surfaces": [
+    "듣다",
+    "안 듣다"
+   ]
+  },
+  {
+   "lemma": "용품",
+   "pos": "NNG",
+   "lookups": 8,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:44:34",
+   "last_seen": "2026-07-08 00:44:55",
+   "surfaces": [
+    "용품"
+   ]
+  },
+  {
+   "lemma": "주소",
+   "pos": "NNG",
+   "lookups": 8,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:15:09",
+   "last_seen": "2026-06-10 14:53:55",
+   "surfaces": [
+    "주소"
+   ]
+  },
+  {
+   "lemma": "침대",
+   "pos": "NNG",
+   "lookups": 8,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:14:20",
+   "last_seen": "2026-06-10 14:53:09",
+   "surfaces": [
+    "침대"
+   ]
+  },
+  {
+   "lemma": "경복궁",
+   "pos": "NNP",
+   "lookups": 7,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:44",
+   "surfaces": [
+    "경복궁"
+   ]
+  },
+  {
+   "lemma": "곳",
+   "pos": "NNG",
+   "lookups": 7,
+   "state": "seen",
+   "first_seen": "2026-05-26 23:31:23",
+   "last_seen": "2026-05-27 11:04:16",
+   "surfaces": [
+    "곳"
+   ]
+  },
+  {
+   "lemma": "날씨",
+   "pos": "NNG",
+   "lookups": 7,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-11 15:51:40",
+   "surfaces": [
+    "날씨"
+   ]
+  },
+  {
+   "lemma": "말",
+   "pos": "NNG",
+   "lookups": 7,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:41:59",
+   "last_seen": "2026-07-08 01:01:11",
+   "surfaces": [
+    "말"
+   ]
+  },
+  {
+   "lemma": "오다",
+   "pos": "VV",
+   "lookups": 7,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:02:26",
+   "surfaces": [
+    "오다"
+   ]
+  },
+  {
+   "lemma": "이사",
+   "pos": "NNG",
+   "lookups": 7,
+   "state": "seen",
+   "first_seen": "2026-05-26 23:21:15",
+   "last_seen": "2026-05-27 10:41:48",
+   "surfaces": [
+    "이사"
+   ]
+  },
+  {
+   "lemma": "좋다",
+   "pos": "VA",
+   "lookups": 7,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 14:54:53",
+   "surfaces": [
+    "좋다"
+   ]
+  },
+  {
+   "lemma": "포기",
+   "pos": "NNG",
+   "lookups": 7,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:40:27",
+   "last_seen": "2026-07-08 00:40:47",
+   "surfaces": [
+    "포기"
+   ]
+  },
+  {
+   "lemma": "공원",
+   "pos": "NNG",
+   "lookups": 6,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 14:54:17",
+   "surfaces": [
+    "공원"
+   ]
+  },
+  {
+   "lemma": "떨리다",
+   "pos": "VV",
+   "lookups": 6,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:23:22",
+   "last_seen": "2026-07-08 01:05:40",
+   "surfaces": [
+    "떨리다"
+   ]
+  },
+  {
+   "lemma": "먹다",
+   "pos": "VV",
+   "lookups": 6,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-07-08 01:06:26",
+   "surfaces": [
+    "먹다"
+   ]
+  },
+  {
+   "lemma": "친구",
+   "pos": "NNG",
+   "lookups": 6,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:10:34",
+   "surfaces": [
+    "친구"
+   ]
+  },
+  {
+   "lemma": "강아지",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-07-07 22:01:53",
+   "last_seen": "2026-07-08 00:42:23",
+   "surfaces": [
+    "강아지"
+   ]
+  },
+  {
+   "lemma": "교복",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:59:52",
+   "last_seen": "2026-05-27 10:41:49",
+   "surfaces": [
+    "교복"
+   ]
+  },
+  {
+   "lemma": "기억",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:15:23",
+   "last_seen": "2026-05-27 10:41:46",
+   "surfaces": [
+    "기억"
+   ]
+  },
+  {
+   "lemma": "도서관",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:46",
+   "surfaces": [
+    "도서관"
+   ]
+  },
+  {
+   "lemma": "뜨다",
+   "pos": "VV",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:25:30",
+   "last_seen": "2026-05-27 11:40:45",
+   "surfaces": [
+    "떴습니다",
+    "뜨다"
+   ]
+  },
+  {
+   "lemma": "물",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:51",
+   "surfaces": [
+    "물"
+   ]
+  },
+  {
+   "lemma": "식사",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:18:13",
+   "last_seen": "2026-05-27 11:01:56",
+   "surfaces": [
+    "식사"
+   ]
+  },
+  {
+   "lemma": "옷",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 14:53:48",
+   "surfaces": [
+    "옷"
+   ]
+  },
+  {
+   "lemma": "이마",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:23:17",
+   "last_seen": "2026-05-27 11:23:13",
+   "surfaces": [
+    "이마"
+   ]
+  },
+  {
+   "lemma": "주말",
+   "pos": "NNG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:45",
+   "surfaces": [
+    "주말"
+   ]
+  },
+  {
+   "lemma": "함께",
+   "pos": "MAG",
+   "lookups": 5,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:18:24",
+   "last_seen": "2026-06-10 15:40:36",
+   "surfaces": [
+    "함께"
+   ]
+  },
+  {
+   "lemma": "가족",
+   "pos": "NNG",
+   "lookups": 4,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:43",
+   "surfaces": [
+    "가족"
+   ]
+  },
+  {
+   "lemma": "깨어나다",
+   "pos": "VV",
+   "lookups": 4,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:01:17",
+   "last_seen": "2026-06-10 14:53:17",
+   "surfaces": [
+    "깨어나다"
+   ]
+  },
+  {
+   "lemma": "놀다",
+   "pos": "VV",
+   "lookups": 4,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:25:54",
+   "last_seen": "2026-06-10 15:21:50",
+   "surfaces": [
+    "놀다"
+   ]
+  },
+  {
+   "lemma": "부르다",
+   "pos": "VV",
+   "lookups": 4,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:25:15",
+   "surfaces": [
+    "부르다"
+   ]
+  },
+  {
+   "lemma": "아니다",
+   "pos": "VCN",
+   "lookups": 4,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:24:06",
+   "last_seen": "2026-07-08 01:07:30",
+   "surfaces": [
+    "아니다"
+   ]
+  },
+  {
+   "lemma": "즐기다",
+   "pos": "VV",
+   "lookups": 4,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:05:22",
+   "last_seen": "2026-06-10 15:24:51",
+   "surfaces": [
+    "즐기다"
+   ]
+  },
+  {
+   "lemma": "출근",
+   "pos": "NNG",
+   "lookups": 4,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:18:44",
+   "last_seen": "2026-05-27 10:41:50",
+   "surfaces": [
+    "출근"
+   ]
+  },
+  {
+   "lemma": "키우다",
+   "pos": "VV",
+   "lookups": 4,
+   "state": "seen",
+   "first_seen": "2026-07-07 22:01:17",
+   "last_seen": "2026-07-08 00:42:28",
+   "surfaces": [
+    "키우다"
+   ]
+  },
+  {
+   "lemma": "항상",
+   "pos": "MAG",
+   "lookups": 4,
+   "state": "learning",
+   "first_seen": "2026-06-10 14:53:27",
+   "last_seen": "2026-07-08 00:29:20",
+   "surfaces": [
+    "항상"
+   ]
+  },
+  {
+   "lemma": "걷다",
+   "pos": "VV",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 12:04:03",
+   "surfaces": [
+    "걷다",
+    "걸으면서",
+    "걸으며",
+    "걷기"
+   ]
+  },
+  {
+   "lemma": "그곳",
+   "pos": "NP",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 23:33:26",
+   "last_seen": "2026-05-27 11:03:49",
+   "surfaces": [
+    "그곳은"
+   ]
+  },
+  {
+   "lemma": "그리고",
+   "pos": "MAJ",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:08",
+   "last_seen": "2026-05-27 10:37:36",
+   "surfaces": [
+    "그리고"
+   ]
+  },
+  {
+   "lemma": "나",
+   "pos": "NP",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:13:17",
+   "last_seen": "2026-05-27 12:03:40",
+   "surfaces": [
+    "난",
+    "나는",
+    "나"
+   ]
+  },
+  {
+   "lemma": "나중",
+   "pos": "NNG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:24:19",
+   "last_seen": "2026-05-27 10:41:56",
+   "surfaces": [
+    "나중"
+   ]
+  },
+  {
+   "lemma": "늦다",
+   "pos": "VA",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:44:16",
+   "surfaces": [
+    "늦다"
+   ]
+  },
+  {
+   "lemma": "다",
+   "pos": "MAG",
+   "lookups": 3,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:39:56",
+   "last_seen": "2026-07-08 00:40:46",
+   "surfaces": [
+    "다"
+   ]
+  },
+  {
+   "lemma": "덥다",
+   "pos": "VA",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:22:29",
+   "surfaces": [
+    "덥다",
+    "더운데",
+    "덥지만"
+   ]
+  },
+  {
+   "lemma": "마시다",
+   "pos": "VV",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:52",
+   "surfaces": [
+    "마시다"
+   ]
+  },
+  {
+   "lemma": "매우",
+   "pos": "MAG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 23:33:34",
+   "last_seen": "2026-05-27 10:53:57",
+   "surfaces": [
+    "매우"
+   ]
+  },
+  {
+   "lemma": "보다",
+   "pos": "MAG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:57",
+   "surfaces": [
+    "보다"
+   ]
+  },
+  {
+   "lemma": "비",
+   "pos": "NNG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:53",
+   "surfaces": [
+    "비"
+   ]
+  },
+  {
+   "lemma": "산책",
+   "pos": "NNG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:05:01",
+   "last_seen": "2026-06-10 14:54:25",
+   "surfaces": [
+    "산책"
+   ]
+  },
+  {
+   "lemma": "생각",
+   "pos": "NNG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:43:28",
+   "last_seen": "2026-07-08 01:01:50",
+   "surfaces": [
+    "생각"
+   ]
+  },
+  {
+   "lemma": "이",
+   "pos": "NP",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:12",
+   "last_seen": "2026-07-08 00:47:27",
+   "surfaces": [
+    "이를",
+    "이다"
+   ]
+  },
+  {
+   "lemma": "일찍",
+   "pos": "MAG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:01:10",
+   "last_seen": "2026-07-08 01:00:21",
+   "surfaces": [
+    "일찍"
+   ]
+  },
+  {
+   "lemma": "준비",
+   "pos": "NNG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:22:12",
+   "last_seen": "2026-07-08 00:42:31",
+   "surfaces": [
+    "준비"
+   ]
+  },
+  {
+   "lemma": "지",
+   "pos": "NP",
+   "lookups": 3,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:41:44",
+   "last_seen": "2026-07-08 00:49:15",
+   "surfaces": [
+    "지"
+   ]
+  },
+  {
+   "lemma": "학교",
+   "pos": "NNG",
+   "lookups": 3,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:26:20",
+   "last_seen": "2026-05-26 23:32:02",
+   "surfaces": [
+    "학교"
+   ]
+  },
+  {
+   "lemma": "가게",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:44:48",
+   "last_seen": "2026-07-08 00:44:50",
+   "surfaces": [
+    "가게"
+   ]
+  },
+  {
+   "lemma": "거",
+   "pos": "NP",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:23:56",
+   "last_seen": "2026-05-27 10:37:59",
+   "surfaces": [
+    "건"
+   ]
+  },
+  {
+   "lemma": "거",
+   "pos": "IC",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:51:04",
+   "last_seen": "2026-05-27 10:52:03",
+   "surfaces": [
+    "거"
+   ]
+  },
+  {
+   "lemma": "거기",
+   "pos": "NP",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:15:41",
+   "last_seen": "2026-05-27 11:06:26",
+   "surfaces": [
+    "거기에는",
+    "거기서"
+   ]
+  },
+  {
+   "lemma": "걱정하다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-09 19:09:21",
+   "last_seen": "2026-07-09 19:13:59",
+   "surfaces": [
+    "걱정하다"
+   ]
+  },
+  {
+   "lemma": "결과",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:06:01",
+   "last_seen": "2026-07-08 01:07:10",
+   "surfaces": [
+    "결과"
+   ]
+  },
+  {
+   "lemma": "공연",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:51:52",
+   "last_seen": "2026-06-10 15:41:52",
+   "surfaces": [
+    "공연"
+   ]
+  },
+  {
+   "lemma": "그러다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:07:34",
+   "last_seen": "2026-07-09 18:58:07",
+   "surfaces": [
+    "그러다"
+   ]
+  },
+  {
+   "lemma": "기다리다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:40:30",
+   "last_seen": "2026-05-27 10:42:03",
+   "surfaces": [
+    "기다리다"
+   ]
+  },
+  {
+   "lemma": "기분",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:03:37",
+   "last_seen": "2026-06-10 15:22:42",
+   "surfaces": [
+    "기분"
+   ]
+  },
+  {
+   "lemma": "긴장",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:00:59",
+   "last_seen": "2026-07-08 01:12:05",
+   "surfaces": [
+    "긴장"
+   ]
+  },
+  {
+   "lemma": "날",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:51:08",
+   "last_seen": "2026-05-27 11:41:18",
+   "surfaces": [
+    "날"
+   ]
+  },
+  {
+   "lemma": "넘어가다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:03:24",
+   "last_seen": "2026-07-09 19:13:44",
+   "surfaces": [
+    "넘어가다"
+   ]
+  },
+  {
+   "lemma": "노래",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:42:00",
+   "surfaces": [
+    "노래"
+   ]
+  },
+  {
+   "lemma": "노래방",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:59",
+   "surfaces": [
+    "노래방"
+   ]
+  },
+  {
+   "lemma": "돌보다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:40:15",
+   "last_seen": "2026-07-08 00:51:32",
+   "surfaces": [
+    "돌보다"
+   ]
+  },
+  {
+   "lemma": "돌아오다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:22:34",
+   "last_seen": "2026-06-10 15:24:11",
+   "surfaces": [
+    "돌아오다"
+   ]
+  },
+  {
+   "lemma": "드리다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:42:03",
+   "surfaces": [
+    "드리다"
+   ]
+  },
+  {
+   "lemma": "따뜻하다",
+   "pos": "VA",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 16:08:07",
+   "surfaces": [
+    "따뜻하다",
+    "따뜻하니깐",
+    "따뜻해지면서"
+   ]
+  },
+  {
+   "lemma": "만약",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:41:20",
+   "last_seen": "2026-07-08 01:07:07",
+   "surfaces": [
+    "만약"
+   ]
+  },
+  {
+   "lemma": "많다",
+   "pos": "VA",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 23:27:39",
+   "surfaces": [
+    "많다"
+   ]
+  },
+  {
+   "lemma": "말씀",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:39:43",
+   "last_seen": "2026-07-08 00:40:44",
+   "surfaces": [
+    "말씀"
+   ]
+  },
+  {
+   "lemma": "방법",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:40:56",
+   "last_seen": "2026-05-27 10:42:04",
+   "surfaces": [
+    "방법"
+   ]
+  },
+  {
+   "lemma": "벌써",
+   "pos": "MAG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-05-27 11:40:30",
+   "last_seen": "2026-07-08 00:27:54",
+   "surfaces": [
+    "벌써",
+    "벌써부터"
+   ]
+  },
+  {
+   "lemma": "보내다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:43:33",
+   "last_seen": "2026-06-10 14:54:49",
+   "surfaces": [
+    "보내다"
+   ]
+  },
+  {
+   "lemma": "부모",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:14:04",
+   "last_seen": "2026-07-08 00:40:41",
+   "surfaces": [
+    "부모"
+   ]
+  },
+  {
+   "lemma": "생기다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:15:37",
+   "last_seen": "2026-07-08 00:50:40",
+   "surfaces": [
+    "생기다"
+   ]
+  },
+  {
+   "lemma": "시험",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:59:35",
+   "last_seen": "2026-07-09 19:09:32",
+   "surfaces": [
+    "시험"
+   ]
+  },
+  {
+   "lemma": "아름답다",
+   "pos": "VA",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:54:01",
+   "last_seen": "2026-06-10 15:39:52",
+   "surfaces": [
+    "아름답습니다",
+    "아름답기도"
+   ]
+  },
+  {
+   "lemma": "아빠",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:23:34",
+   "last_seen": "2026-07-08 00:23:40",
+   "surfaces": [
+    "아빠"
+   ]
+  },
+  {
+   "lemma": "안",
+   "pos": "MAG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:24:14",
+   "last_seen": "2026-07-08 01:07:40",
+   "surfaces": [
+    "안"
+   ]
+  },
+  {
+   "lemma": "알리다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:41:07",
+   "last_seen": "2026-05-27 10:42:04",
+   "surfaces": [
+    "알리다"
+   ]
+  },
+  {
+   "lemma": "어리다",
+   "pos": "VA",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-07-07 22:01:35",
+   "last_seen": "2026-07-08 00:22:28",
+   "surfaces": [
+    "어리다"
+   ]
+  },
+  {
+   "lemma": "여기",
+   "pos": "NP",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:25:10",
+   "surfaces": [
+    "여기",
+    "여기서",
+    "여기는"
+   ]
+  },
+  {
+   "lemma": "여름",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 14:55:23",
+   "surfaces": [
+    "여름"
+   ]
+  },
+  {
+   "lemma": "영화",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 10:41:56",
+   "surfaces": [
+    "영화"
+   ]
+  },
+  {
+   "lemma": "예약",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:40:53",
+   "last_seen": "2026-05-27 10:42:04",
+   "surfaces": [
+    "예약"
+   ]
+  },
+  {
+   "lemma": "오히려",
+   "pos": "MAG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:02:15",
+   "last_seen": "2026-07-09 19:14:11",
+   "surfaces": [
+    "오히려"
+   ]
+  },
+  {
+   "lemma": "음식",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:40:08",
+   "last_seen": "2026-05-27 10:42:02",
+   "surfaces": [
+    "음식"
+   ]
+  },
+  {
+   "lemma": "이렇다",
+   "pos": "VA",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:43:57",
+   "last_seen": "2026-07-08 00:45:35",
+   "surfaces": [
+    "이렇게",
+    "이렇다"
+   ]
+  },
+  {
+   "lemma": "입다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 14:53:48",
+   "surfaces": [
+    "입다",
+    "입고"
+   ]
+  },
+  {
+   "lemma": "장관",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:11:07",
+   "last_seen": "2026-05-27 10:11:38",
+   "surfaces": [
+    "장관"
+   ]
+  },
+  {
+   "lemma": "저기",
+   "pos": "NP",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:25:27",
+   "last_seen": "2026-06-10 15:40:59",
+   "surfaces": [
+    "저기에",
+    "저기서는"
+   ]
+  },
+  {
+   "lemma": "정말",
+   "pos": "MAG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-07-07 22:01:48",
+   "surfaces": [
+    "정말"
+   ]
+  },
+  {
+   "lemma": "좋아하다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:51:41",
+   "last_seen": "2026-05-27 11:42:46",
+   "surfaces": [
+    "좋아하다"
+   ]
+  },
+  {
+   "lemma": "주문",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:40:07",
+   "last_seen": "2026-05-27 10:42:02",
+   "surfaces": [
+    "주문"
+   ]
+  },
+  {
+   "lemma": "챙기다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-07 22:00:44",
+   "last_seen": "2026-07-08 00:50:52",
+   "surfaces": [
+    "챙기다"
+   ]
+  },
+  {
+   "lemma": "춤",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:50:52",
+   "last_seen": "2026-06-10 15:42:05",
+   "surfaces": [
+    "춤"
+   ]
+  },
+  {
+   "lemma": "춥다",
+   "pos": "VA",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 12:04:00",
+   "surfaces": [
+    "춥다",
+    "추운",
+    "추워"
+   ]
+  },
+  {
+   "lemma": "편안",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-06-10 14:53:39",
+   "last_seen": "2026-06-10 15:43:41",
+   "surfaces": [
+    "편안"
+   ]
+  },
+  {
+   "lemma": "풀다",
+   "pos": "VV",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:02:37",
+   "last_seen": "2026-07-08 01:03:32",
+   "surfaces": [
+    "풀다"
+   ]
+  },
+  {
+   "lemma": "필요",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:24:08",
+   "last_seen": "2026-07-08 00:41:13",
+   "surfaces": [
+    "필요"
+   ]
+  },
+  {
+   "lemma": "하지만",
+   "pos": "MAJ",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-07-07 22:00:43",
+   "last_seen": "2026-07-08 00:41:05",
+   "surfaces": [
+    "하지만"
+   ]
+  },
+  {
+   "lemma": "훈련",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:46:17",
+   "last_seen": "2026-07-08 00:46:20",
+   "surfaces": [
+    "훈련"
+   ]
+  },
+  {
+   "lemma": "흥미진진하다",
+   "pos": "VA",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:08:06",
+   "last_seen": "2026-06-10 15:42:34",
+   "surfaces": [
+    "흥미진진한",
+    "흥미진진했죠"
+   ]
+  },
+  {
+   "lemma": "힙합",
+   "pos": "NNG",
+   "lookups": 2,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:51:31",
+   "last_seen": "2026-06-10 15:23:42",
+   "surfaces": [
+    "힙합"
+   ]
+  },
+  {
+   "lemma": "가르치다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-07-08 01:03:48",
+   "surfaces": [
+    "가르치다"
+   ]
+  },
+  {
+   "lemma": "가수",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:07:38",
+   "surfaces": [
+    "가수"
+   ]
+  },
+  {
+   "lemma": "가장",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:06:44",
+   "last_seen": "2026-05-27 11:06:44",
+   "surfaces": [
+    "가장"
+   ]
+  },
+  {
+   "lemma": "갈색",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:27:41",
+   "last_seen": "2026-07-08 00:27:41",
+   "surfaces": [
+    "갈색"
+   ]
+  },
+  {
+   "lemma": "같다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:52:31",
+   "last_seen": "2026-05-27 10:52:31",
+   "surfaces": [
+    "같다"
+   ]
+  },
+  {
+   "lemma": "같이",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:25:45",
+   "last_seen": "2026-06-10 15:25:45",
+   "surfaces": [
+    "같이"
+   ]
+  },
+  {
+   "lemma": "개",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:04:31",
+   "last_seen": "2026-07-08 01:04:31",
+   "surfaces": [
+    "개"
+   ]
+  },
+  {
+   "lemma": "거리",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:23:33",
+   "last_seen": "2026-05-27 11:23:33",
+   "surfaces": [
+    "거리"
+   ]
+  },
+  {
+   "lemma": "걱정",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:01:59",
+   "last_seen": "2026-07-08 01:01:59",
+   "surfaces": [
+    "걱정"
+   ]
+  },
+  {
+   "lemma": "건강",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:48:06",
+   "last_seen": "2026-07-08 00:48:06",
+   "surfaces": [
+    "건강"
+   ]
+  },
+  {
+   "lemma": "것",
+   "pos": "NNB",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:52:28",
+   "last_seen": "2026-05-27 10:52:28",
+   "surfaces": [
+    "것"
+   ]
+  },
+  {
+   "lemma": "겨울",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:06:58",
+   "last_seen": "2026-05-27 11:06:58",
+   "surfaces": [
+    "겨울"
+   ]
+  },
+  {
+   "lemma": "계속",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:47:32",
+   "last_seen": "2026-07-08 00:47:32",
+   "surfaces": [
+    "계속"
+   ]
+  },
+  {
+   "lemma": "계획",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:43:04",
+   "last_seen": "2026-06-10 15:43:04",
+   "surfaces": [
+    "계획"
+   ]
+  },
+  {
+   "lemma": "공부",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:07:33",
+   "last_seen": "2026-05-27 11:07:33",
+   "surfaces": [
+    "공부"
+   ]
+  },
+  {
+   "lemma": "그",
+   "pos": "IC",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:39:05",
+   "last_seen": "2026-05-27 10:39:05",
+   "surfaces": [
+    "그"
+   ]
+  },
+  {
+   "lemma": "그냥",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:01:27",
+   "last_seen": "2026-07-08 01:01:28",
+   "surfaces": [
+    "그냥"
+   ]
+  },
+  {
+   "lemma": "그때",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:40:01",
+   "last_seen": "2026-05-27 10:40:01",
+   "surfaces": [
+    "그때"
+   ]
+  },
+  {
+   "lemma": "그래도",
+   "pos": "MAJ",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:26:11",
+   "last_seen": "2026-07-08 00:26:11",
+   "surfaces": [
+    "그래도"
+   ]
+  },
+  {
+   "lemma": "그래서",
+   "pos": "MAJ",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:51:43",
+   "last_seen": "2026-05-27 10:51:43",
+   "surfaces": [
+    "그래서"
+   ]
+  },
+  {
+   "lemma": "그렇다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 15:43:34",
+   "surfaces": [
+    "그럼",
+    "그렇게"
+   ]
+  },
+  {
+   "lemma": "기쁘다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:41:27",
+   "last_seen": "2026-07-08 00:41:27",
+   "surfaces": [
+    "기쁘다"
+   ]
+  },
+  {
+   "lemma": "길",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:39:19",
+   "last_seen": "2026-06-10 15:39:19",
+   "surfaces": [
+    "길"
+   ]
+  },
+  {
+   "lemma": "깽",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:53:08",
+   "last_seen": "2026-05-27 10:53:08",
+   "surfaces": [
+    "깽니다"
+   ]
+  },
+  {
+   "lemma": "끝나다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:06:14",
+   "last_seen": "2026-07-08 01:06:14",
+   "surfaces": [
+    "끝나다"
+   ]
+  },
+  {
+   "lemma": "나가다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:43:19",
+   "last_seen": "2026-05-27 11:43:19",
+   "surfaces": [
+    "나가다"
+   ]
+  },
+  {
+   "lemma": "나누다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:23:32",
+   "last_seen": "2026-06-10 15:23:32",
+   "surfaces": [
+    "나누다"
+   ]
+  },
+  {
+   "lemma": "나오다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:03:12",
+   "last_seen": "2026-07-08 01:03:12",
+   "surfaces": [
+    "나오다"
+   ]
+  },
+  {
+   "lemma": "내일",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:28:42",
+   "last_seen": "2026-07-08 00:28:42",
+   "surfaces": [
+    "내일"
+   ]
+  },
+  {
+   "lemma": "노력",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:52:16",
+   "last_seen": "2026-05-27 10:52:16",
+   "surfaces": [
+    "노력"
+   ]
+  },
+  {
+   "lemma": "놓다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:04:40",
+   "last_seen": "2026-07-08 01:04:40",
+   "surfaces": [
+    "놓다"
+   ]
+  },
+  {
+   "lemma": "놓치다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:05:17",
+   "last_seen": "2026-07-08 01:05:17",
+   "surfaces": [
+    "놓치다"
+   ]
+  },
+  {
+   "lemma": "늦잠",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:04:01",
+   "last_seen": "2026-07-08 01:04:01",
+   "surfaces": [
+    "늦잠"
+   ]
+  },
+  {
+   "lemma": "다른",
+   "pos": "MM",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:04:56",
+   "last_seen": "2026-07-08 01:04:56",
+   "surfaces": [
+    "다른"
+   ]
+  },
+  {
+   "lemma": "다시",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:23:21",
+   "last_seen": "2026-07-08 00:23:21",
+   "surfaces": [
+    "다시"
+   ]
+  },
+  {
+   "lemma": "대학교",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:00:07",
+   "last_seen": "2026-07-08 01:00:07",
+   "surfaces": [
+    "대학교"
+   ]
+  },
+  {
+   "lemma": "더",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:47:58",
+   "last_seen": "2026-07-08 00:47:58",
+   "surfaces": [
+    "더"
+   ]
+  },
+  {
+   "lemma": "데려가다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:47:36",
+   "last_seen": "2026-07-08 00:47:36",
+   "surfaces": [
+    "데려가다"
+   ]
+  },
+  {
+   "lemma": "데리다",
+   "pos": "NNP",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:23:00",
+   "last_seen": "2026-05-27 11:23:00",
+   "surfaces": [
+    "데리다"
+   ]
+  },
+  {
+   "lemma": "데이트",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:21:38",
+   "last_seen": "2026-06-10 15:21:38",
+   "surfaces": [
+    "데이트"
+   ]
+  },
+  {
+   "lemma": "동네",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:40:11",
+   "last_seen": "2026-06-10 15:40:11",
+   "surfaces": [
+    "동네"
+   ]
+  },
+  {
+   "lemma": "동안",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:22:06",
+   "last_seen": "2026-05-27 11:22:06",
+   "surfaces": [
+    "동안"
+   ]
+  },
+  {
+   "lemma": "되다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:24:17",
+   "last_seen": "2026-07-08 00:24:17",
+   "surfaces": [
+    "되다"
+   ]
+  },
+  {
+   "lemma": "되다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:10:49",
+   "last_seen": "2026-07-08 01:10:49",
+   "surfaces": [
+    "안 되다"
+   ]
+  },
+  {
+   "lemma": "두다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:22:17",
+   "last_seen": "2026-06-10 15:22:17",
+   "surfaces": [
+    "두다"
+   ]
+  },
+  {
+   "lemma": "드디어",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:41:39",
+   "last_seen": "2026-07-08 00:41:39",
+   "surfaces": [
+    "드디어"
+   ]
+  },
+  {
+   "lemma": "들르다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:41:18",
+   "last_seen": "2026-06-10 15:41:18",
+   "surfaces": [
+    "들르다"
+   ]
+  },
+  {
+   "lemma": "들리다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:22:57",
+   "last_seen": "2026-06-10 15:22:57",
+   "surfaces": [
+    "들리다"
+   ]
+  },
+  {
+   "lemma": "때",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-07-07 22:01:41",
+   "surfaces": [
+    "때"
+   ]
+  },
+  {
+   "lemma": "떠나다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 14:54:04",
+   "last_seen": "2026-06-10 14:54:04",
+   "surfaces": [
+    "떠나다"
+   ]
+  },
+  {
+   "lemma": "마을",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:06:36",
+   "last_seen": "2026-05-27 11:06:36",
+   "surfaces": [
+    "마을"
+   ]
+  },
+  {
+   "lemma": "많이",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:15:34",
+   "last_seen": "2026-07-08 00:15:34",
+   "surfaces": [
+    "많이"
+   ]
+  },
+  {
+   "lemma": "맛있다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:02:08",
+   "surfaces": [
+    "맛있다"
+   ]
+  },
+  {
+   "lemma": "맞다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:01:41",
+   "last_seen": "2026-07-08 01:01:41",
+   "surfaces": [
+    "맞다"
+   ]
+  },
+  {
+   "lemma": "맞추다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:04:37",
+   "last_seen": "2026-07-08 01:04:37",
+   "surfaces": [
+    "맞추다"
+   ]
+  },
+  {
+   "lemma": "먼저",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:26:25",
+   "last_seen": "2026-07-08 00:26:25",
+   "surfaces": [
+    "먼저"
+   ]
+  },
+  {
+   "lemma": "멋있다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:25:20",
+   "last_seen": "2026-05-27 11:25:20",
+   "surfaces": [
+    "멋있다"
+   ]
+  },
+  {
+   "lemma": "멋지다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:03:57",
+   "last_seen": "2026-05-27 11:03:57",
+   "surfaces": [
+    "멋지다"
+   ]
+  },
+  {
+   "lemma": "몇",
+   "pos": "MM",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 23:22:08",
+   "surfaces": [
+    "몇"
+   ]
+  },
+  {
+   "lemma": "못",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:00:38",
+   "last_seen": "2026-07-08 01:00:38",
+   "surfaces": [
+    "못"
+   ]
+  },
+  {
+   "lemma": "문제",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:02:43",
+   "last_seen": "2026-07-08 01:02:43",
+   "surfaces": [
+    "문제"
+   ]
+  },
+  {
+   "lemma": "뭐",
+   "pos": "NP",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:27:19",
+   "last_seen": "2026-07-08 00:27:19",
+   "surfaces": [
+    "뭐라고"
+   ]
+  },
+  {
+   "lemma": "믿다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-09 18:58:01",
+   "last_seen": "2026-07-09 18:58:01",
+   "surfaces": [
+    "믿다"
+   ]
+  },
+  {
+   "lemma": "바로",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:06:03",
+   "last_seen": "2026-05-27 11:06:03",
+   "surfaces": [
+    "바로"
+   ]
+  },
+  {
+   "lemma": "밤",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:00:15",
+   "last_seen": "2026-07-08 01:00:15",
+   "surfaces": [
+    "밤"
+   ]
+  },
+  {
+   "lemma": "밥",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:10:27",
+   "last_seen": "2026-05-27 11:10:27",
+   "surfaces": [
+    "밥"
+   ]
+  },
+  {
+   "lemma": "방문",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:38:25",
+   "last_seen": "2026-06-10 15:38:25",
+   "surfaces": [
+    "방문"
+   ]
+  },
+  {
+   "lemma": "벗어나다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:38:45",
+   "last_seen": "2026-06-10 15:38:45",
+   "surfaces": [
+    "벗어나다"
+   ]
+  },
+  {
+   "lemma": "병원",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:46:05",
+   "last_seen": "2026-07-08 00:46:05",
+   "surfaces": [
+    "병원"
+   ]
+  },
+  {
+   "lemma": "보이다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:29:08",
+   "last_seen": "2026-07-08 00:29:08",
+   "surfaces": [
+    "보이다"
+   ]
+  },
+  {
+   "lemma": "볼",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:42:09",
+   "last_seen": "2026-05-27 11:42:09",
+   "surfaces": [
+    "볼"
+   ]
+  },
+  {
+   "lemma": "살다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 23:24:05",
+   "surfaces": [
+    "살다"
+   ]
+  },
+  {
+   "lemma": "새롭다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:47:47",
+   "last_seen": "2026-07-08 00:47:47",
+   "surfaces": [
+    "새롭다"
+   ]
+  },
+  {
+   "lemma": "선생",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:03:44",
+   "last_seen": "2026-07-08 01:03:44",
+   "surfaces": [
+    "선생"
+   ]
+  },
+  {
+   "lemma": "설레다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:48:29",
+   "last_seen": "2026-07-08 00:48:29",
+   "surfaces": [
+    "설레다"
+   ]
+  },
+  {
+   "lemma": "세",
+   "pos": "MM",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:04:28",
+   "last_seen": "2026-07-08 01:04:28",
+   "surfaces": [
+    "세"
+   ]
+  },
+  {
+   "lemma": "세우다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:43:11",
+   "last_seen": "2026-06-10 15:43:11",
+   "surfaces": [
+    "세우다"
+   ]
+  },
+  {
+   "lemma": "소리",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:41:32",
+   "last_seen": "2026-07-08 00:41:32",
+   "surfaces": [
+    "소리"
+   ]
+  },
+  {
+   "lemma": "솔직히",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:05:33",
+   "last_seen": "2026-07-08 01:05:33",
+   "surfaces": [
+    "솔직히"
+   ]
+  },
+  {
+   "lemma": "수",
+   "pos": "NNB",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:25:35",
+   "last_seen": "2026-05-27 11:25:35",
+   "surfaces": [
+    "수"
+   ]
+  },
+  {
+   "lemma": "수도",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:52:23",
+   "last_seen": "2026-05-27 10:52:23",
+   "surfaces": [
+    "수도"
+   ]
+  },
+  {
+   "lemma": "쉬다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:06:52",
+   "last_seen": "2026-07-08 01:06:52",
+   "surfaces": [
+    "쉬다"
+   ]
+  },
+  {
+   "lemma": "쉽다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:45:57",
+   "last_seen": "2026-07-08 00:45:57",
+   "surfaces": [
+    "쉽다"
+   ]
+  },
+  {
+   "lemma": "시간",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-06-10 14:54:48",
+   "surfaces": [
+    "시간"
+   ]
+  },
+  {
+   "lemma": "시작",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 23:24:11",
+   "last_seen": "2026-05-26 23:24:11",
+   "surfaces": [
+    "시작"
+   ]
+  },
+  {
+   "lemma": "시키다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:39:36",
+   "last_seen": "2026-07-08 00:39:36",
+   "surfaces": [
+    "시키다"
+   ]
+  },
+  {
+   "lemma": "실수",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:02:12",
+   "last_seen": "2026-07-08 01:02:12",
+   "surfaces": [
+    "실수"
+   ]
+  },
+  {
+   "lemma": "아",
+   "pos": "IC",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:25:08",
+   "last_seen": "2026-05-27 11:25:08",
+   "surfaces": [
+    "아"
+   ]
+  },
+  {
+   "lemma": "아무",
+   "pos": "MM",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:06:36",
+   "last_seen": "2026-07-08 01:06:36",
+   "surfaces": [
+    "아무"
+   ]
+  },
+  {
+   "lemma": "아이",
+   "pos": "IC",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:51:26",
+   "last_seen": "2026-05-27 10:51:26",
+   "surfaces": [
+    "아이"
+   ]
+  },
+  {
+   "lemma": "아주",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:03:44",
+   "last_seen": "2026-05-27 11:03:44",
+   "surfaces": [
+    "아주"
+   ]
+  },
+  {
+   "lemma": "안녕",
+   "pos": "IC",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:21:56",
+   "last_seen": "2026-05-27 11:21:56",
+   "surfaces": [
+    "안녕"
+   ]
+  },
+  {
+   "lemma": "애견용품",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:48:45",
+   "last_seen": "2026-07-08 00:48:45",
+   "surfaces": [
+    "애견용품"
+   ]
+  },
+  {
+   "lemma": "야외",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 14:54:43",
+   "last_seen": "2026-06-10 14:54:43",
+   "surfaces": [
+    "야외"
+   ]
+  },
+  {
+   "lemma": "어떡하다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:07:19",
+   "last_seen": "2026-07-08 01:07:19",
+   "surfaces": [
+    "어떡하다"
+   ]
+  },
+  {
+   "lemma": "어렵다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:03:04",
+   "last_seen": "2026-07-08 01:03:04",
+   "surfaces": [
+    "어렵다"
+   ]
+  },
+  {
+   "lemma": "얼른",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:38:58",
+   "last_seen": "2026-06-10 15:38:58",
+   "surfaces": [
+    "얼른"
+   ]
+  },
+  {
+   "lemma": "여유",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:41:23",
+   "last_seen": "2026-06-10 15:41:23",
+   "surfaces": [
+    "여유"
+   ]
+  },
+  {
+   "lemma": "열다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:24:42",
+   "last_seen": "2026-06-10 15:24:42",
+   "surfaces": [
+    "열다"
+   ]
+  },
+  {
+   "lemma": "열심히",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:05:47",
+   "last_seen": "2026-07-08 01:05:47",
+   "surfaces": [
+    "열심히"
+   ]
+  },
+  {
+   "lemma": "오래",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:02:56",
+   "last_seen": "2026-07-08 01:02:56",
+   "surfaces": [
+    "오래"
+   ]
+  },
+  {
+   "lemma": "요리",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:42:23",
+   "last_seen": "2026-05-27 11:42:23",
+   "surfaces": [
+    "요리"
+   ]
+  },
+  {
+   "lemma": "요즘",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:52:05",
+   "last_seen": "2026-05-27 10:52:05",
+   "surfaces": [
+    "요즘"
+   ]
+  },
+  {
+   "lemma": "요청",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:07:51",
+   "last_seen": "2026-05-27 11:07:51",
+   "surfaces": [
+    "요청"
+   ]
+  },
+  {
+   "lemma": "우리",
+   "pos": "NP",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:16:19",
+   "last_seen": "2026-07-08 00:27:44",
+   "surfaces": [
+    "우리는",
+    "우리"
+   ]
+  },
+  {
+   "lemma": "울리다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:05:05",
+   "last_seen": "2026-07-08 01:05:05",
+   "surfaces": [
+    "울리다"
+   ]
+  },
+  {
+   "lemma": "웃다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:41:51",
+   "last_seen": "2026-07-08 00:41:51",
+   "surfaces": [
+    "웃다"
+   ]
+  },
+  {
+   "lemma": "원하다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:59:58",
+   "last_seen": "2026-07-08 00:59:58",
+   "surfaces": [
+    "원하다"
+   ]
+  },
+  {
+   "lemma": "음악",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:42:11",
+   "last_seen": "2026-06-10 15:42:11",
+   "surfaces": [
+    "음악"
+   ]
+  },
+  {
+   "lemma": "이",
+   "pos": "IC",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:30",
+   "last_seen": "2026-05-26 22:49:30",
+   "surfaces": [
+    "이"
+   ]
+  },
+  {
+   "lemma": "이것",
+   "pos": "NP",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:03:37",
+   "last_seen": "2026-07-08 01:03:37",
+   "surfaces": [
+    "이게"
+   ]
+  },
+  {
+   "lemma": "이런",
+   "pos": "MM",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:11:29",
+   "last_seen": "2026-07-08 01:11:29",
+   "surfaces": [
+    "이런"
+   ]
+  },
+  {
+   "lemma": "이번",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:25:35",
+   "last_seen": "2026-06-10 15:25:35",
+   "surfaces": [
+    "이번"
+   ]
+  },
+  {
+   "lemma": "이야기",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:23:25",
+   "last_seen": "2026-06-10 15:23:25",
+   "surfaces": [
+    "이야기"
+   ]
+  },
+  {
+   "lemma": "일",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:52:19",
+   "last_seen": "2026-05-27 10:52:19",
+   "surfaces": [
+    "일"
+   ]
+  },
+  {
+   "lemma": "일단",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:03:19",
+   "last_seen": "2026-07-08 01:03:19",
+   "surfaces": [
+    "일단"
+   ]
+  },
+  {
+   "lemma": "잊어버리다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:05:35",
+   "last_seen": "2026-05-27 11:05:35",
+   "surfaces": [
+    "잊어버리다"
+   ]
+  },
+  {
+   "lemma": "자다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-07-08 01:00:22",
+   "surfaces": [
+    "자다"
+   ]
+  },
+  {
+   "lemma": "자라다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:48:15",
+   "last_seen": "2026-07-08 00:48:15",
+   "surfaces": [
+    "자라다"
+   ]
+  },
+  {
+   "lemma": "자신",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:46:30",
+   "last_seen": "2026-07-08 00:46:30",
+   "surfaces": [
+    "자신"
+   ]
+  },
+  {
+   "lemma": "잔",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:41:56",
+   "last_seen": "2026-05-27 11:41:56",
+   "surfaces": [
+    "잔"
+   ]
+  },
+  {
+   "lemma": "잘",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:24:00",
+   "last_seen": "2026-07-08 00:24:00",
+   "surfaces": [
+    "잘"
+   ]
+  },
+  {
+   "lemma": "잠깐",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:27:00",
+   "last_seen": "2026-07-08 00:27:00",
+   "surfaces": [
+    "잠깐"
+   ]
+  },
+  {
+   "lemma": "재미있다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:41:39",
+   "last_seen": "2026-05-27 11:41:39",
+   "surfaces": [
+    "재미있다"
+   ]
+  },
+  {
+   "lemma": "저",
+   "pos": "IC",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:25:52",
+   "last_seen": "2026-05-26 22:25:52",
+   "surfaces": [
+    "저"
+   ]
+  },
+  {
+   "lemma": "저기",
+   "pos": "IC",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-07-08 00:29:00",
+   "surfaces": [
+    "저기요",
+    "저기"
+   ]
+  },
+  {
+   "lemma": "저번",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:41:39",
+   "last_seen": "2026-06-10 15:41:39",
+   "surfaces": [
+    "저번"
+   ]
+  },
+  {
+   "lemma": "저희",
+   "pos": "NP",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:40:16",
+   "last_seen": "2026-06-10 15:40:16",
+   "surfaces": [
+    "저희"
+   ]
+  },
+  {
+   "lemma": "정리",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:29:45",
+   "last_seen": "2026-05-27 11:29:45",
+   "surfaces": [
+    "정리"
+   ]
+  },
+  {
+   "lemma": "제의",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:22:48",
+   "last_seen": "2026-05-27 11:22:48",
+   "surfaces": [
+    "제의"
+   ]
+  },
+  {
+   "lemma": "제일",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:02:26",
+   "last_seen": "2026-07-08 01:02:26",
+   "surfaces": [
+    "제일"
+   ]
+  },
+  {
+   "lemma": "조금",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:39:14",
+   "last_seen": "2026-07-08 00:39:14",
+   "surfaces": [
+    "조금"
+   ]
+  },
+  {
+   "lemma": "주",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 23:22:17",
+   "last_seen": "2026-05-26 23:22:17",
+   "surfaces": [
+    "주"
+   ]
+  },
+  {
+   "lemma": "주차장",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:06:09",
+   "surfaces": [
+    "주차장"
+   ]
+  },
+  {
+   "lemma": "중간",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:41:01",
+   "last_seen": "2026-07-08 00:41:01",
+   "surfaces": [
+    "중간"
+   ]
+  },
+  {
+   "lemma": "중요",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:59:45",
+   "last_seen": "2026-07-08 00:59:45",
+   "surfaces": [
+    "중요"
+   ]
+  },
+  {
+   "lemma": "중요하다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-09 18:55:36",
+   "last_seen": "2026-07-09 18:55:36",
+   "surfaces": [
+    "중요하다"
+   ]
+  },
+  {
+   "lemma": "지나다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:38:05",
+   "last_seen": "2026-06-10 15:38:05",
+   "surfaces": [
+    "지나다"
+   ]
+  },
+  {
+   "lemma": "지난주",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:23:16",
+   "last_seen": "2026-07-08 00:23:16",
+   "surfaces": [
+    "지난주"
+   ]
+  },
+  {
+   "lemma": "지르다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:41:36",
+   "last_seen": "2026-07-08 00:41:36",
+   "surfaces": [
+    "지르다"
+   ]
+  },
+  {
+   "lemma": "지하철역",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:53:43",
+   "last_seen": "2026-05-27 10:53:43",
+   "surfaces": [
+    "지하철역"
+   ]
+  },
+  {
+   "lemma": "집",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:22:09",
+   "surfaces": [
+    "집"
+   ]
+  },
+  {
+   "lemma": "짓다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:48:19",
+   "last_seen": "2026-07-08 00:48:19",
+   "surfaces": [
+    "짓다"
+   ]
+  },
+  {
+   "lemma": "차갑다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:57:32",
+   "last_seen": "2026-05-26 22:57:32",
+   "surfaces": [
+    "차갑습니다"
+   ]
+  },
+  {
+   "lemma": "착용",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:23:20",
+   "last_seen": "2026-05-27 11:23:20",
+   "surfaces": [
+    "착용"
+   ]
+  },
+  {
+   "lemma": "창문",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-06-10 15:24:32",
+   "last_seen": "2026-06-10 15:24:32",
+   "surfaces": [
+    "창문"
+   ]
+  },
+  {
+   "lemma": "찾다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-27 11:06:14",
+   "surfaces": [
+    "찾다"
+   ]
+  },
+  {
+   "lemma": "찾아가다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:23:43",
+   "last_seen": "2026-05-27 11:23:43",
+   "surfaces": [
+    "찾아가다"
+   ]
+  },
+  {
+   "lemma": "책임",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:15:30",
+   "last_seen": "2026-07-08 00:15:30",
+   "surfaces": [
+    "책임"
+   ]
+  },
+  {
+   "lemma": "초코",
+   "pos": "NNP",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:27:29",
+   "last_seen": "2026-07-08 00:27:29",
+   "surfaces": [
+    "초코"
+   ]
+  },
+  {
+   "lemma": "최근",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:22:00",
+   "last_seen": "2026-05-27 11:22:00",
+   "surfaces": [
+    "최근"
+   ]
+  },
+  {
+   "lemma": "추다",
+   "pos": "VV",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:50:57",
+   "last_seen": "2026-05-27 10:50:57",
+   "surfaces": [
+    "추다"
+   ]
+  },
+  {
+   "lemma": "커피숍",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:41:54",
+   "last_seen": "2026-05-27 11:41:54",
+   "surfaces": [
+    "커피숍"
+   ]
+  },
+  {
+   "lemma": "큰일",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:04:11",
+   "last_seen": "2026-07-08 01:04:11",
+   "surfaces": [
+    "큰일"
+   ]
+  },
+  {
+   "lemma": "터",
+   "pos": "NNB",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:42:36",
+   "last_seen": "2026-05-27 11:42:36",
+   "surfaces": [
+    "터"
+   ]
+  },
+  {
+   "lemma": "평소",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:05:23",
+   "last_seen": "2026-07-08 01:05:23",
+   "surfaces": [
+    "평소"
+   ]
+  },
+  {
+   "lemma": "푹",
+   "pos": "MAG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 01:06:48",
+   "last_seen": "2026-07-08 01:06:48",
+   "surfaces": [
+    "푹"
+   ]
+  },
+  {
+   "lemma": "하나",
+   "pos": "NR",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:04:48",
+   "last_seen": "2026-07-08 01:04:48",
+   "surfaces": [
+    "하나를"
+   ]
+  },
+  {
+   "lemma": "한",
+   "pos": "MM",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:52:01",
+   "last_seen": "2026-05-27 10:52:01",
+   "surfaces": [
+    "한"
+   ]
+  },
+  {
+   "lemma": "행복",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 11:43:30",
+   "last_seen": "2026-05-27 11:43:30",
+   "surfaces": [
+    "행복"
+   ]
+  },
+  {
+   "lemma": "행복하다",
+   "pos": "VA",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-07-09 18:57:50",
+   "last_seen": "2026-07-09 18:57:50",
+   "surfaces": [
+    "행복하다"
+   ]
+  },
+  {
+   "lemma": "허락",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "learning",
+   "first_seen": "2026-07-08 00:26:40",
+   "last_seen": "2026-07-08 00:26:40",
+   "surfaces": [
+    "허락"
+   ]
+  },
+  {
+   "lemma": "후",
+   "pos": "NNG",
+   "lookups": 1,
+   "state": "seen",
+   "first_seen": "2026-05-27 10:53:17",
+   "last_seen": "2026-05-27 10:53:17",
+   "surfaces": [
+    "후"
+   ]
+  },
+  {
+   "lemma": "가능하다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "가능하다"
+   ]
+  },
+  {
+   "lemma": "가방",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "가방"
+   ]
+  },
+  {
+   "lemma": "가을",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "가을"
+   ]
+  },
+  {
+   "lemma": "가져가다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "가져가다"
+   ]
+  },
+  {
+   "lemma": "감사하다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "감사하다"
+   ]
+  },
+  {
+   "lemma": "강남",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "강남"
+   ]
+  },
+  {
+   "lemma": "계단",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "계단"
+   ]
+  },
+  {
+   "lemma": "계절",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "계절"
+   ]
+  },
+  {
+   "lemma": "고기",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "고기"
+   ]
+  },
+  {
+   "lemma": "고맙다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "고마워하다"
+   ]
+  },
+  {
+   "lemma": "골프",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "골프"
+   ]
+  },
+  {
+   "lemma": "공부하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "공부하다"
+   ]
+  },
+  {
+   "lemma": "괜찮다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "괜찮다"
+   ]
+  },
+  {
+   "lemma": "교통카드",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "교통카드"
+   ]
+  },
+  {
+   "lemma": "그런데",
+   "pos": "MAJ",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:07:04",
+   "last_seen": "2026-07-08 01:07:04",
+   "surfaces": [
+    "그런데"
+   ]
+  },
+  {
+   "lemma": "근처",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "근처"
+   ]
+  },
+  {
+   "lemma": "기억하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "기억하다"
+   ]
+  },
+  {
+   "lemma": "길다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "길다"
+   ]
+  },
+  {
+   "lemma": "김밥",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "김밥"
+   ]
+  },
+  {
+   "lemma": "나쁘다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "나쁘다"
+   ]
+  },
+  {
+   "lemma": "날다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "날다"
+   ]
+  },
+  {
+   "lemma": "남동생",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "남동생"
+   ]
+  },
+  {
+   "lemma": "너",
+   "pos": "NP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:26:46",
+   "last_seen": "2026-07-08 00:26:46",
+   "surfaces": [
+    "네가"
+   ]
+  },
+  {
+   "lemma": "너무",
+   "pos": "MAG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:26:30",
+   "last_seen": "2026-07-08 00:26:30",
+   "surfaces": [
+    "너무"
+   ]
+  },
+  {
+   "lemma": "눈",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "눈"
+   ]
+  },
+  {
+   "lemma": "다음",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "다음"
+   ]
+  },
+  {
+   "lemma": "달다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "달다"
+   ]
+  },
+  {
+   "lemma": "대표",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "대표"
+   ]
+  },
+  {
+   "lemma": "독서하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "독서하다"
+   ]
+  },
+  {
+   "lemma": "돕다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "돕다"
+   ]
+  },
+  {
+   "lemma": "동생",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "동생"
+   ]
+  },
+  {
+   "lemma": "드라마",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "드라마"
+   ]
+  },
+  {
+   "lemma": "드시다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "드시다"
+   ]
+  },
+  {
+   "lemma": "딸기",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "딸기"
+   ]
+  },
+  {
+   "lemma": "뛰다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "뛰다"
+   ]
+  },
+  {
+   "lemma": "롯데월드",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "롯데월드"
+   ]
+  },
+  {
+   "lemma": "만나다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "만나다"
+   ]
+  },
+  {
+   "lemma": "만들다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "만들다"
+   ]
+  },
+  {
+   "lemma": "말하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "말하다"
+   ]
+  },
+  {
+   "lemma": "맛없다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "맛없다"
+   ]
+  },
+  {
+   "lemma": "매일",
+   "pos": "MAG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:22:38",
+   "last_seen": "2026-07-08 00:22:38",
+   "surfaces": [
+    "매일"
+   ]
+  },
+  {
+   "lemma": "머리",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "머리"
+   ]
+  },
+  {
+   "lemma": "명동",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "명동"
+   ]
+  },
+  {
+   "lemma": "모레",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "모레"
+   ]
+  },
+  {
+   "lemma": "모자",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "모자"
+   ]
+  },
+  {
+   "lemma": "목걸이",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "목걸이"
+   ]
+  },
+  {
+   "lemma": "무슨",
+   "pos": "MM",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "무슨"
+   ]
+  },
+  {
+   "lemma": "물건",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "물건"
+   ]
+  },
+  {
+   "lemma": "미국",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "미국"
+   ]
+  },
+  {
+   "lemma": "바나나",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "바나나"
+   ]
+  },
+  {
+   "lemma": "바람",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "바람"
+   ]
+  },
+  {
+   "lemma": "반갑다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "반갑다"
+   ]
+  },
+  {
+   "lemma": "반지",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "반지"
+   ]
+  },
+  {
+   "lemma": "받다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "받다"
+   ]
+  },
+  {
+   "lemma": "배",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "배"
+   ]
+  },
+  {
+   "lemma": "배우",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "배우다"
+   ]
+  },
+  {
+   "lemma": "백화점",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "백화점"
+   ]
+  },
+  {
+   "lemma": "버리다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "버리다"
+   ]
+  },
+  {
+   "lemma": "버스",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "버스"
+   ]
+  },
+  {
+   "lemma": "번데기",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "번데기"
+   ]
+  },
+  {
+   "lemma": "보다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "봄"
+   ]
+  },
+  {
+   "lemma": "보라색",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "보라색"
+   ]
+  },
+  {
+   "lemma": "봉투",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "봉투"
+   ]
+  },
+  {
+   "lemma": "뵙다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "뵙다"
+   ]
+  },
+  {
+   "lemma": "부탁하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "부탁하다"
+   ]
+  },
+  {
+   "lemma": "분",
+   "pos": "NNB",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "분"
+   ]
+  },
+  {
+   "lemma": "비싸다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "비싸다"
+   ]
+  },
+  {
+   "lemma": "빠르다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "빠르다"
+   ]
+  },
+  {
+   "lemma": "빨간색",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "빨간색"
+   ]
+  },
+  {
+   "lemma": "빨리",
+   "pos": "MAG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:25:59",
+   "last_seen": "2026-07-08 00:25:59",
+   "surfaces": [
+    "빨리"
+   ]
+  },
+  {
+   "lemma": "사과",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "사과"
+   ]
+  },
+  {
+   "lemma": "사다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "사다"
+   ]
+  },
+  {
+   "lemma": "사람",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "사람"
+   ]
+  },
+  {
+   "lemma": "사랑",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:26:20",
+   "last_seen": "2026-07-08 00:26:20",
+   "surfaces": [
+    "사랑"
+   ]
+  },
+  {
+   "lemma": "사무실",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "사무실"
+   ]
+  },
+  {
+   "lemma": "산책하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "산책하다"
+   ]
+  },
+  {
+   "lemma": "살",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "살"
+   ]
+  },
+  {
+   "lemma": "상품",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "상품"
+   ]
+  },
+  {
+   "lemma": "생각하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "생각하다"
+   ]
+  },
+  {
+   "lemma": "생선",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "생선"
+   ]
+  },
+  {
+   "lemma": "설명하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "설명하다"
+   ]
+  },
+  {
+   "lemma": "소개하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "소개하다"
+   ]
+  },
+  {
+   "lemma": "수고하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "수고하다"
+   ]
+  },
+  {
+   "lemma": "수박",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "수박"
+   ]
+  },
+  {
+   "lemma": "수영하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "수영하다"
+   ]
+  },
+  {
+   "lemma": "숙제하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "숙제하다"
+   ]
+  },
+  {
+   "lemma": "숟가락",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "숟가락"
+   ]
+  },
+  {
+   "lemma": "술",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "술"
+   ]
+  },
+  {
+   "lemma": "시원하다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "시원하다"
+   ]
+  },
+  {
+   "lemma": "식당",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "식당"
+   ]
+  },
+  {
+   "lemma": "신발",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "신발"
+   ]
+  },
+  {
+   "lemma": "싱겁다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "싱겁다"
+   ]
+  },
+  {
+   "lemma": "싸다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "싸다"
+   ]
+  },
+  {
+   "lemma": "쓰다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "쓰다"
+   ]
+  },
+  {
+   "lemma": "아버지",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "아버지"
+   ]
+  },
+  {
+   "lemma": "아이스티",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "아이스티"
+   ]
+  },
+  {
+   "lemma": "아프다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "아프다"
+   ]
+  },
+  {
+   "lemma": "아홉",
+   "pos": "NR",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "아홉"
+   ]
+  },
+  {
+   "lemma": "안녕하다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "안녕하다"
+   ]
+  },
+  {
+   "lemma": "앉다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "앉다"
+   ]
+  },
+  {
+   "lemma": "알람",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 01:04:20",
+   "last_seen": "2026-07-08 01:04:20",
+   "surfaces": [
+    "알람"
+   ]
+  },
+  {
+   "lemma": "앞",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:28:25",
+   "last_seen": "2026-07-08 00:28:25",
+   "surfaces": [
+    "앞"
+   ]
+  },
+  {
+   "lemma": "어디",
+   "pos": "NP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "어디"
+   ]
+  },
+  {
+   "lemma": "어떻다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "어떻다"
+   ]
+  },
+  {
+   "lemma": "어머니",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "어머니"
+   ]
+  },
+  {
+   "lemma": "어제",
+   "pos": "MAG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "어제"
+   ]
+  },
+  {
+   "lemma": "어지럽다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "어지럽다"
+   ]
+  },
+  {
+   "lemma": "언니",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "언니"
+   ]
+  },
+  {
+   "lemma": "얼마",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "얼마"
+   ]
+  },
+  {
+   "lemma": "엄마",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-07-08 00:28:01",
+   "last_seen": "2026-07-08 00:28:01",
+   "surfaces": [
+    "엄마"
+   ]
+  },
+  {
+   "lemma": "에스컬레이터",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "에스컬레이터"
+   ]
+  },
+  {
+   "lemma": "엘리베이터",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "엘리베이터"
+   ]
+  },
+  {
+   "lemma": "여동생",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "여동생"
+   ]
+  },
+  {
+   "lemma": "여보세요",
+   "pos": "IC",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "여보세요"
+   ]
+  },
+  {
+   "lemma": "여행",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "여행"
+   ]
+  },
+  {
+   "lemma": "영수증",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "영수증"
+   ]
+  },
+  {
+   "lemma": "영어",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "영어"
+   ]
+  },
+  {
+   "lemma": "예쁘다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "예쁘다"
+   ]
+  },
+  {
+   "lemma": "예약하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "예약하다"
+   ]
+  },
+  {
+   "lemma": "오늘",
+   "pos": "MAG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "오늘"
+   ]
+  },
+  {
+   "lemma": "오빠",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "오빠"
+   ]
+  },
+  {
+   "lemma": "오전",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "오전"
+   ]
+  },
+  {
+   "lemma": "오후",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "오후"
+   ]
+  },
+  {
+   "lemma": "요리하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "요리하다"
+   ]
+  },
+  {
+   "lemma": "우산",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "우산"
+   ]
+  },
+  {
+   "lemma": "우유",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "우유"
+   ]
+  },
+  {
+   "lemma": "운동하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "운동하다"
+   ]
+  },
+  {
+   "lemma": "운전하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "운전하다"
+   ]
+  },
+  {
+   "lemma": "원피스",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "원피스"
+   ]
+  },
+  {
+   "lemma": "이름",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "이름"
+   ]
+  },
+  {
+   "lemma": "이사하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "이사하다"
+   ]
+  },
+  {
+   "lemma": "이태원",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "이태원"
+   ]
+  },
+  {
+   "lemma": "인턴",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "인턴"
+   ]
+  },
+  {
+   "lemma": "일본어",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "일본어"
+   ]
+  },
+  {
+   "lemma": "일하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "일하다"
+   ]
+  },
+  {
+   "lemma": "읽다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "읽다"
+   ]
+  },
+  {
+   "lemma": "자동차",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "자동차"
+   ]
+  },
+  {
+   "lemma": "자전거",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "자전거"
+   ]
+  },
+  {
+   "lemma": "작년",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "작년"
+   ]
+  },
+  {
+   "lemma": "작다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "작다"
+   ]
+  },
+  {
+   "lemma": "잠시",
+   "pos": "MAG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "잠시"
+   ]
+  },
+  {
+   "lemma": "저녁",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "저녁"
+   ]
+  },
+  {
+   "lemma": "점심",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "점심"
+   ]
+  },
+  {
+   "lemma": "젓가락",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "젓가락"
+   ]
+  },
+  {
+   "lemma": "정리하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "정리하다"
+   ]
+  },
+  {
+   "lemma": "젤리",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "젤리"
+   ]
+  },
+  {
+   "lemma": "주다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "주다"
+   ]
+  },
+  {
+   "lemma": "주문하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "주문하다"
+   ]
+  },
+  {
+   "lemma": "지금",
+   "pos": "MAG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "지금"
+   ]
+  },
+  {
+   "lemma": "지하철",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "지하철"
+   ]
+  },
+  {
+   "lemma": "직업",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "직업"
+   ]
+  },
+  {
+   "lemma": "직원",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "직원"
+   ]
+  },
+  {
+   "lemma": "짜다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "짜다"
+   ]
+  },
+  {
+   "lemma": "짜장면",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "짜장면"
+   ]
+  },
+  {
+   "lemma": "짬뽕",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "짬뽕"
+   ]
+  },
+  {
+   "lemma": "채소",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "채소"
+   ]
+  },
+  {
+   "lemma": "책",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "책"
+   ]
+  },
+  {
+   "lemma": "처음",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "처음"
+   ]
+  },
+  {
+   "lemma": "초록색",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "초록색"
+   ]
+  },
+  {
+   "lemma": "출근하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "출근하다"
+   ]
+  },
+  {
+   "lemma": "취미",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "취미"
+   ]
+  },
+  {
+   "lemma": "카페",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "카페"
+   ]
+  },
+  {
+   "lemma": "커피",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "커피"
+   ]
+  },
+  {
+   "lemma": "컵라면",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "컵라면"
+   ]
+  },
+  {
+   "lemma": "콘서트",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "콘서트"
+   ]
+  },
+  {
+   "lemma": "콜라",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "콜라"
+   ]
+  },
+  {
+   "lemma": "크다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "크다"
+   ]
+  },
+  {
+   "lemma": "타다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "타다"
+   ]
+  },
+  {
+   "lemma": "탑승하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "탑승하다"
+   ]
+  },
+  {
+   "lemma": "탕수육",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "탕수육"
+   ]
+  },
+  {
+   "lemma": "퇴근하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "퇴근하다"
+   ]
+  },
+  {
+   "lemma": "팀장",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "팀장"
+   ]
+  },
+  {
+   "lemma": "팔찌",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "팔찌"
+   ]
+  },
+  {
+   "lemma": "편지",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "편지"
+   ]
+  },
+  {
+   "lemma": "포도",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "포도"
+   ]
+  },
+  {
+   "lemma": "학생",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "학생"
+   ]
+  },
+  {
+   "lemma": "한국",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "한국"
+   ]
+  },
+  {
+   "lemma": "한국어",
+   "pos": "NNP",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "한국어"
+   ]
+  },
+  {
+   "lemma": "한식",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "한식"
+   ]
+  },
+  {
+   "lemma": "화장실",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "화장실"
+   ]
+  },
+  {
+   "lemma": "환승하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "환승하다"
+   ]
+  },
+  {
+   "lemma": "회사",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "회사"
+   ]
+  },
+  {
+   "lemma": "회의하다",
+   "pos": "VV",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "회의하다"
+   ]
+  },
+  {
+   "lemma": "휴가",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "휴가"
+   ]
+  },
+  {
+   "lemma": "휴게실",
+   "pos": "NNG",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "휴게실"
+   ]
+  },
+  {
+   "lemma": "흐리다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "흐리다"
+   ]
+  },
+  {
+   "lemma": "힘들다",
+   "pos": "VA",
+   "lookups": 0,
+   "state": "seen",
+   "first_seen": "2026-05-26 22:49:59",
+   "last_seen": "2026-05-26 22:49:59",
+   "surfaces": [
+    "힘들다"
+   ]
+  }
+ ],
+ "unresolved": [
+  {
+   "word": "감기에 걸리다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "공연을 보다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "기침을 하다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "노래를 부르다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "매워요 → 맵다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "바빠요 → 바쁘다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "사인을 받다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "사진을 찍다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "열이 나다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "요가를 하다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "지난 주",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "춤을 추다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "휴식을 취하다",
+   "lookups": 0,
+   "legacy_status": ""
+  },
+  {
+   "word": "싶다",
+   "lookups": 4,
+   "legacy_status": ""
+  },
+  {
+   "word": "그분이",
+   "lookups": 2,
+   "legacy_status": ""
+  },
+  {
+   "word": "이사동까지",
+   "lookups": 2,
+   "legacy_status": ""
+  },
+  {
+   "word": "그리近些데",
+   "lookups": 1,
+   "legacy_status": ""
+  },
+  {
+   "word": "않다",
+   "lookups": 1,
+   "legacy_status": ""
+  }
+ ]
+}

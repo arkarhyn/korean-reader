@@ -1,0 +1,59 @@
+{
+  "id": "legacy-002",
+  "series": "legacy",
+  "title_ko": "시험 날 아침",
+  "title_en": "The Morning of the Exam",
+  "register_tags": ["haeyo", "banmal"],
+  "target_grammar": null,
+  "status": "draft",
+  "source": "legacy:passage/21",
+  "paragraphs": [
+    {
+      "ko": "내일은 중요한 시험이 있어요. 이 시험을 잘 보면 원하는 대학교에 갈 수 있어요. 그래서 오늘 밤에는 일찍 자야 해요. 늦게 자면 내일 아침에 못 일어나거든요.",
+      "en": "I have an important exam tomorrow. If I do well on it, I can get into the university I want. So I have to go to bed early tonight. If I go to bed late, I won't be able to get up tomorrow morning."
+    },
+    {
+      "ko": "엄마가 저한테 말했어요. \"긴장하지 마. 준비를 많이 했으니까 괜찮을 거야. 그냥 아는 것만 잘 쓰면 돼.\" 저는 엄마 말이 맞다고 생각했어요. 너무 걱정하면 오히려 실수를 하니까요.",
+      "en": "Mom said to me, \"Don't be nervous. You've prepared a lot, so you'll be fine. Just write down what you know.\" I thought Mom was right. If you worry too much, you actually end up making mistakes."
+    },
+    {
+      "ko": "시험을 볼 때 제일 중요한 것은 시간이에요. 문제를 풀 때 한 문제에 너무 오래 있으면 안 돼요. 어려운 문제가 나오면 일단 넘어가고, 나중에 다시 풀면 돼요. 이게 제 선생님이 가르쳐 주신 방법이에요.",
+      "en": "The most important thing when taking an exam is time. When you're solving problems, you shouldn't stay on one problem too long. If a hard problem comes up, skip it for now and come back to it later. That's the method my teacher taught me."
+    },
+    {
+      "ko": "아침에 늦잠을 자면 큰일이니까, 저는 알람을 세 개나 맞춰 놨어요. 만약에 하나를 못 들으면 다른 알람이 울릴 거예요. 버스도 놓치면 안 되니까 평소보다 일찍 나갈 거예요.",
+      "en": "Oversleeping in the morning would be a disaster, so I set three alarms. If I miss one, another one will go off. I can't miss the bus either, so I'll leave earlier than usual."
+    },
+    {
+      "ko": "솔직히 조금 떨려요. 하지만 열심히 공부했으니까 좋은 결과가 있었으면 좋겠어요. 시험이 끝나면 친구들하고 맛있는 걸 먹으러 갈 거예요. 그때는 아무 생각도 안 하고 그냥 푹 쉬고 싶어요.",
+      "en": "Honestly, I'm a little nervous. But I studied hard, so I hope I get a good result. When the exam is over, I'm going to go eat something delicious with my friends. Then I just want to rest and not think about anything."
+    },
+    {
+      "ko": "시험이 잘 끝나면 정말 행복할 것 같아요. 그런데 만약에 결과가 안 좋으면 어떡하죠? 아니에요, 그런 생각은 하면 안 돼요. 지금은 그냥 저를 믿으면 돼요.",
+      "en": "If the exam goes well, I think I'll be really happy. But what if the result is bad? No, I shouldn't think like that. Right now I just need to believe in myself."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "왜 오늘 밤에 일찍 자야 해요?",
+      "prompt_en": "Why does the narrator have to sleep early tonight?",
+      "options": ["친구를 만나야 해서", "내일 중요한 시험이 있어서", "아침에 버스가 없어서"],
+      "answer_idx": 1
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "선생님이 가르쳐 주신 방법은 뭐예요?",
+      "prompt_en": "What method did the teacher teach?",
+      "options": ["어려운 문제는 일단 넘어가기", "모든 문제를 천천히 풀기", "쉬운 문제를 나중에 풀기", "시험 전에 푹 자기"],
+      "answer_idx": 0
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "알람을 몇 개 맞춰 놨어요?",
+      "prompt_en": "How many alarms did the narrator set?",
+      "options": ["한 개", "두 개", "세 개"],
+      "answer_idx": 2
+    }
+  ]
+}

@@ -1,0 +1,2383 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>한국어 Graded Reader</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #0f1117;
+  --sidebar-bg: #161b22;
+  --panel-bg: #1c2128;
+  --border: #30363d;
+  --text: #e6edf3;
+  --text-muted: #8b949e;
+  --accent: #58a6ff;
+  --accent-bg: #1f3c5e;
+  --accent-hover: #79c0ff;
+  --word-hover: #21262d;
+  --word-known: #1a2f4a;
+  --word-new: #2d2000;
+  --word-new-text: #c9922a;
+  --word-studying: #3b2350;
+  --word-studying-text: #c79bf2;
+  --word-active-bg: #1f6feb;
+  --danger: #f85149;
+  --danger-bg: #3d1f1f;
+  --danger-border: #6e2b2b;
+  --success: #3fb950;
+  --nav-h: 52px;
+  --badge-bg: #162032;
+  --badge-text: #58a6ff;
+  --pos-bg: #21262d;
+  --pos-text: #8b949e;
+  --grade-bg: #1a3a1a;
+  --grade-text: #3fb950;
+  --beg-bg: #1a3a1a; --beg-text: #3fb950;
+  --int-bg: #3d2e00; --int-text: #d29922;
+  --adv-bg: #3d1f1f; --adv-text: #f85149;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Nav ── */
+nav {
+  height: var(--nav-h);
+  background: var(--panel-bg);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+.nav-logo {
+  font-size: 17px;
+  font-weight: 700;
+  font-family: 'Noto Sans KR', sans-serif;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.nav-tabs { display: flex; gap: 2px; }
+
+.nav-tab {
+  padding: 6px 14px;
+  border: none;
+  background: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-family: inherit;
+  transition: all 0.12s;
+}
+.nav-tab:hover { background: var(--word-hover); color: var(--text); }
+.nav-tab.active { background: var(--accent-bg); color: var(--accent); }
+
+.nav-badge {
+  margin-left: auto;
+  font-size: 12px;
+  background: var(--accent);
+  color: #0d1117;
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+/* ── Views ── */
+.view { display: none; flex: 1; overflow: hidden; }
+.view.active { display: flex; }
+#view-reader  { flex-direction: row; }
+#view-vocab   { flex-direction: column; }
+#view-review  { flex-direction: column; overflow-y: auto; }
+#view-stats   { flex-direction: column; overflow-y: auto; }
+#view-lessons { flex-direction: column; overflow-y: auto; }
+
+/* ── Lessons view ── */
+#lessons-body { padding: 20px 24px 60px; max-width: 860px; width: 100%; margin: 0 auto; }
+.lesson-section { margin-bottom: 30px; }
+.lesson-section-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 4px; }
+.lesson-section-title { font-size: 16px; font-weight: 700; color: var(--text); }
+.lesson-section-tag {
+  font-size: 10px; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase;
+  padding: 2px 8px; border-radius: 10px; background: var(--accent-bg); color: var(--accent);
+}
+.lesson-section-blurb { font-size: 13px; color: var(--text-muted); margin-bottom: 12px; line-height: 1.5; }
+.lesson-card {
+  display: block; text-decoration: none; color: inherit;
+  background: var(--panel-bg); border: 1px solid var(--border); border-radius: 10px;
+  padding: 13px 15px; margin-bottom: 8px; transition: border-color 0.12s, background 0.12s;
+}
+.lesson-card:hover { border-color: var(--accent); background: var(--word-hover); }
+.lesson-card-top { display: flex; align-items: center; gap: 10px; margin-bottom: 4px; }
+.lesson-code {
+  font-size: 11px; font-weight: 700; color: var(--accent); background: var(--badge-bg);
+  padding: 2px 8px; border-radius: 6px; white-space: nowrap;
+}
+.lesson-title { font-weight: 600; font-size: 14px; color: var(--text); }
+.kr { font-family: 'Noto Sans KR', sans-serif; }
+.lesson-arrow { margin-left: auto; color: var(--text-muted); font-size: 15px; }
+.lesson-card:hover .lesson-arrow { color: var(--accent); }
+.lesson-why { font-size: 12.5px; color: var(--text-muted); line-height: 1.55; }
+.lesson-why .kr { font-family: 'Noto Sans KR', sans-serif; color: var(--word-new-text); }
+.lessons-intro { font-size: 13px; color: var(--text-muted); line-height: 1.6; margin-bottom: 22px; padding: 12px 15px; background: var(--panel-bg); border: 1px solid var(--border); border-radius: 10px; }
+
+/* ── Sidebar ── */
+#sidebar {
+  width: 240px;
+  background: var(--sidebar-bg);
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+
+#sidebar-header {
+  padding: 10px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.sidebar-btn {
+  width: 100%;
+  padding: 7px;
+  border: none;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.12s;
+}
+#btn-new-passage {
+  background: var(--accent);
+  color: #0d1117;
+}
+#btn-new-passage:hover { background: var(--accent-hover); }
+
+#btn-generate-passage {
+  background: var(--word-hover);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+#btn-generate-passage:hover { background: var(--accent-bg); color: var(--accent); border-color: var(--accent); }
+
+#passage-list { overflow-y: auto; flex: 1; padding: 6px; }
+
+.passage-item {
+  padding: 9px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.1s;
+  margin-bottom: 2px;
+}
+.passage-item:hover { background: var(--word-hover); }
+.passage-item.active { background: var(--accent-bg); }
+
+.passage-item-title {
+  font-size: 13px;
+  font-weight: 500;
+  font-family: 'Noto Sans KR', sans-serif;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--text);
+}
+
+.passage-item-meta { display: flex; align-items: center; gap: 6px; margin-top: 3px; }
+
+.level-badge {
+  font-size: 10px;
+  font-weight: 600;
+  padding: 1px 6px;
+  border-radius: 10px;
+  text-transform: capitalize;
+}
+.level-badge.beginner     { background: var(--beg-bg); color: var(--beg-text); }
+.level-badge.intermediate { background: var(--int-bg); color: var(--int-text); }
+.level-badge.advanced     { background: var(--adv-bg); color: var(--adv-text); }
+.level-badge.none         { background: var(--word-hover); color: var(--text-muted); }
+
+/* ── Reader main ── */
+#reader-main { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+
+#reader-header {
+  padding: 14px 24px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 54px;
+  flex-shrink: 0;
+}
+
+#reader-title {
+  font-size: 17px;
+  font-weight: 700;
+  font-family: 'Noto Sans KR', sans-serif;
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.reader-action-btn {
+  padding: 5px 10px;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  font-size: 12px;
+  font-family: inherit;
+  cursor: pointer;
+  background: var(--panel-bg);
+  color: var(--text-muted);
+  transition: all 0.12s;
+  white-space: nowrap;
+}
+.reader-action-btn:hover { background: var(--word-hover); color: var(--text); }
+#btn-delete-passage { color: var(--danger); border-color: var(--danger-border); }
+#btn-delete-passage:hover { background: var(--danger-bg); }
+
+#reader-body { flex: 1; overflow-y: auto; padding: 36px 44px; }
+
+#passage-content {
+  max-width: 660px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 20px;
+  line-height: 2.4;
+  color: var(--text);
+}
+
+.passage-line { margin-bottom: 6px; }
+
+.word-token {
+  display: inline;
+  cursor: pointer;
+  border-radius: 3px;
+  padding: 1px 2px;
+  transition: background 0.1s;
+}
+.word-token:hover { background: var(--word-hover); }
+.word-token.known { background: var(--word-known); }
+.word-token.new-word { background: var(--word-new); color: var(--word-new-text); }
+.word-token.new-word:hover { background: #3d2e00; }
+.word-token.studying { background: var(--word-studying); color: var(--word-studying-text); }
+.word-token.studying:hover { background: #4b2d66; }
+.word-token.active { background: var(--word-active-bg); color: #fff; }
+
+#empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--text-muted);
+  gap: 10px;
+  text-align: center;
+}
+#empty-state h2 { font-size: 20px; font-family: 'Noto Sans KR', sans-serif; color: var(--text); }
+#empty-state p  { font-size: 14px; max-width: 300px; line-height: 1.6; }
+
+/* ── Definition panel ── */
+#def-panel {
+  width: 296px;
+  background: var(--panel-bg);
+  border-left: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+#def-panel-header {
+  display: flex;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.def-tab {
+  flex: 1;
+  padding: 10px 8px;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: none;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  cursor: pointer;
+  font-family: inherit;
+  margin-bottom: -1px;
+  transition: color 0.12s, border-color 0.12s;
+}
+.def-tab:hover { color: var(--text); }
+.def-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+.def-pane { display: none; flex: 1; flex-direction: column; overflow-y: auto; padding: 20px 16px; }
+.def-pane.active { display: flex; }
+
+#def-content { }  /* inherits .def-pane */
+
+#def-placeholder { color: var(--text-muted); font-size: 13px; text-align: center; padding-top: 48px; line-height: 1.7; }
+
+#def-loading {
+  display: none;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-muted);
+  font-size: 14px;
+  padding: 20px 0;
+}
+
+.spinner {
+  width: 16px; height: 16px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+  flex-shrink: 0;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+#def-result { display: none; }
+
+#def-word {
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Noto Sans KR', sans-serif;
+  line-height: 1.2;
+  margin-bottom: 4px;
+}
+
+#def-reading { font-size: 14px; color: var(--text-muted); font-family: 'Noto Sans KR', sans-serif; margin-bottom: 6px; }
+#def-analyzed-note { font-size: 11px; color: var(--accent); margin-bottom: 8px; font-style: italic; }
+
+.def-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+
+.def-badge { font-size: 11px; padding: 2px 8px; border-radius: 10px; font-weight: 500; }
+.def-badge.pos   { background: var(--pos-bg); color: var(--pos-text); }
+.def-badge.grade { background: var(--grade-bg); color: var(--grade-text); }
+
+#def-definition {
+  font-size: 14px;
+  line-height: 1.75;
+  padding: 12px;
+  background: var(--bg);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  margin-bottom: 14px;
+}
+
+#def-japanese-section {
+  border-top: 1px solid var(--border);
+  padding-top: 12px;
+  margin-bottom: 14px;
+}
+
+.def-section-label {
+  font-size: 10px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 8px;
+}
+
+#def-ja-word {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: 'Noto Sans KR', sans-serif;
+  line-height: 1.2;
+  margin-bottom: 2px;
+}
+
+#def-ja-reading {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-family: 'Noto Sans KR', sans-serif;
+  margin-bottom: 6px;
+}
+
+#def-ja-note {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.55;
+  padding: 7px 10px;
+  background: var(--bg);
+  border-radius: 6px;
+  border-left: 2px solid var(--border);
+}
+
+.def-relookup { display: flex; gap: 6px; margin-top: 4px; }
+
+#def-grammar-hints { margin-bottom: 14px; }
+.grammar-chips { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 6px; }
+.grammar-chip {
+  padding: 3px 10px;
+  background: var(--pos-bg);
+  color: var(--accent);
+  border: 1px solid var(--accent-bg);
+  border-radius: 12px;
+  font-size: 12px;
+  font-family: 'Noto Sans KR', sans-serif;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.12s, border-color 0.12s;
+}
+.grammar-chip:hover { background: var(--accent-bg); border-color: var(--accent); }
+
+#grammar-input-wrap {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+#grammar-input {
+  flex: 1;
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: 'Noto Sans KR', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-width: 0;
+}
+#grammar-input:focus { outline: none; border-color: var(--accent); }
+
+#grammar-placeholder { color: var(--text-muted); font-size: 13px; text-align: center; padding-top: 32px; line-height: 2; }
+
+#grammar-loading {
+  display: none;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-muted);
+  font-size: 13px;
+  padding: 8px 0;
+}
+
+#grammar-result { display: none; margin-top: 12px; }
+
+.gr-pattern {
+  font-size: 22px;
+  font-weight: 700;
+  font-family: 'Noto Sans KR', sans-serif;
+  margin-bottom: 2px;
+}
+
+.gr-meaning { font-size: 13px; color: var(--text-muted); margin-bottom: 10px; }
+
+.gr-formation {
+  font-size: 12px;
+  line-height: 1.6;
+  padding: 8px 10px;
+  background: var(--bg);
+  border-radius: 6px;
+  border-left: 2px solid var(--accent);
+  margin-bottom: 10px;
+}
+
+.gr-examples { display: flex; flex-direction: column; gap: 8px; margin-bottom: 10px; }
+
+.gr-ex-ko {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.gr-ex-en { font-size: 12px; color: var(--text-muted); }
+
+.gr-japanese {
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+  margin-bottom: 10px;
+}
+
+.gr-notes {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  font-style: italic;
+}
+
+#def-lookup-input {
+  flex: 1;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: 'Noto Sans KR', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-width: 0;
+}
+#def-lookup-input:focus { outline: none; border-color: var(--accent); }
+
+#def-lookup-btn {
+  padding: 6px 10px;
+  background: var(--accent);
+  color: #0d1117;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: 700;
+  transition: background 0.12s;
+}
+#def-lookup-btn:hover { background: var(--accent-hover); }
+
+/* ── Vocab view ── */
+.view-header {
+  padding: 18px 24px 14px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-shrink: 0;
+}
+.view-header h1 { font-size: 20px; font-weight: 700; }
+
+#vocab-search {
+  margin-left: auto;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: inherit;
+  width: 220px;
+  background: var(--sidebar-bg);
+  color: var(--text);
+}
+#vocab-search:focus { outline: none; border-color: var(--accent); }
+
+#vocab-table-wrap { flex: 1; overflow-y: auto; }
+
+table { width: 100%; border-collapse: collapse; }
+
+thead { position: sticky; top: 0; background: var(--sidebar-bg); z-index: 1; }
+
+th {
+  padding: 9px 16px;
+  text-align: left;
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid var(--border);
+}
+
+td { padding: 11px 16px; border-bottom: 1px solid var(--border); font-size: 14px; vertical-align: middle; }
+tr:hover td { background: var(--word-hover); }
+
+.vocab-word { font-size: 18px; font-family: 'Noto Sans KR', sans-serif; font-weight: 500; line-height: 1.3; }
+.vocab-reading { font-size: 11px; color: var(--text-muted); font-family: 'Noto Sans KR', sans-serif; }
+.vocab-def { max-width: 280px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--text-muted); font-size: 13px; }
+.status-chip {
+  font-size: 11px; padding: 2px 9px; border-radius: 10px; cursor: pointer;
+  border: 1px solid var(--border); background: transparent; color: var(--text-muted);
+}
+.status-chip.studying { background: var(--word-studying); color: var(--word-studying-text); border-color: #5a3a78; }
+.status-chip:hover { border-color: var(--accent); }
+#btn-mark-known {
+  width: 100%; margin: 2px 0 12px; padding: 7px 10px; border-radius: 6px;
+  font-size: 13px; font-weight: 600; cursor: pointer;
+  border: 1px solid var(--border); background: var(--word-hover); color: var(--text);
+}
+#btn-mark-known.is-known { background: var(--word-known); border-color: #2d4a6b; color: var(--accent-hover); }
+#btn-mark-known:hover { border-color: var(--accent); }
+.def-badge.studying { background: var(--word-studying); color: var(--word-studying-text); }
+.lookup-count { font-weight: 700; color: var(--accent); font-size: 15px; }
+
+.btn-del {
+  padding: 3px 8px;
+  background: none;
+  border: 1px solid var(--danger-border);
+  border-radius: 4px;
+  color: var(--danger);
+  font-size: 11px;
+  font-family: inherit;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.12s;
+}
+tr:hover .btn-del { opacity: 1; }
+.btn-del:hover { background: var(--danger-bg); }
+
+#vocab-empty { text-align: center; padding: 60px 20px; color: var(--text-muted); font-size: 14px; line-height: 1.7; }
+
+/* ── Stats view ── */
+.stats-body { padding: 24px; max-width: 860px; }
+
+.stat-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 28px; }
+
+.stat-card { background: var(--panel-bg); border: 1px solid var(--border); border-radius: 10px; padding: 18px 20px; }
+.stat-label { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px; }
+.stat-value { font-size: 34px; font-weight: 700; color: var(--accent); }
+.stat-sub { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+.chart-section { background: var(--panel-bg); border: 1px solid var(--border); border-radius: 10px; padding: 20px; margin-bottom: 18px; }
+.chart-title { font-size: 14px; font-weight: 600; margin-bottom: 16px; }
+
+.top-words-list { display: flex; flex-direction: column; gap: 10px; }
+.top-word-row { display: flex; align-items: center; gap: 12px; }
+.top-word-label { font-family: 'Noto Sans KR', sans-serif; font-size: 15px; font-weight: 500; min-width: 110px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.top-word-bar-wrap { flex: 1; height: 18px; background: var(--accent-bg); border-radius: 4px; overflow: hidden; }
+.top-word-bar { height: 100%; background: var(--accent); border-radius: 4px; transition: width 0.5s ease; }
+.top-word-count { font-size: 13px; font-weight: 700; color: var(--accent); min-width: 28px; text-align: right; }
+
+/* ── Modals (shared) ── */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 100;
+  align-items: center;
+  justify-content: center;
+}
+.modal-overlay.open { display: flex; }
+
+.modal-box {
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 24px;
+  width: 560px;
+  max-height: 88vh;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  box-shadow: 0 24px 64px rgba(0,0,0,0.5);
+}
+
+.modal-heading { font-size: 17px; font-weight: 700; }
+
+.form-group { display: flex; flex-direction: column; gap: 5px; }
+.form-label { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+
+.form-input {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: inherit;
+  background: var(--bg);
+  color: var(--text);
+  transition: border-color 0.12s;
+}
+.form-input:focus { outline: none; border-color: var(--accent); }
+
+.modal-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 4px; }
+
+.btn-secondary {
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  background: var(--word-hover);
+  color: var(--text-muted);
+  transition: all 0.12s;
+}
+.btn-secondary:hover { color: var(--text); }
+
+.btn-primary {
+  padding: 8px 18px;
+  background: var(--accent);
+  color: #0d1117;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.btn-primary:hover { background: var(--accent-hover); }
+.btn-primary:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* ── Passage modal specifics ── */
+#modal-content {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+  line-height: 1.9;
+  min-height: 180px;
+  resize: vertical;
+}
+
+/* ── Generate modal specifics ── */
+.gen-controls {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.gen-controls .form-group:last-child { grid-column: 1 / -1; }
+
+.btn-gen {
+  padding: 9px 18px;
+  background: linear-gradient(135deg, #1f6feb, #58a6ff);
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: inherit;
+  cursor: pointer;
+  transition: opacity 0.12s;
+  align-self: flex-end;
+}
+.btn-gen:hover { opacity: 0.85; }
+.btn-gen:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.gen-divider {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 0;
+}
+
+#gen-preview-wrap { display: none; flex-direction: column; gap: 14px; }
+
+#gen-preview {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 15px;
+  line-height: 2;
+  min-height: 120px;
+  max-height: 240px;
+  resize: vertical;
+  overflow-y: auto;
+}
+
+.gen-footer { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.gen-footer-left { display: flex; gap: 8px; }
+
+/* ── Example sentence ──────────────────────────────────────────────────── */
+#def-example-section {
+  margin-top: 10px;
+  padding: 8px 10px;
+  background: var(--word-hover);
+  border-left: 2px solid var(--border);
+  border-radius: 0 4px 4px 0;
+}
+#def-example-text {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--text);
+}
+
+/* ── Import text modal ──────────────────────────────────────────────────── */
+#btn-import-passage {
+  background: var(--word-hover);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+#btn-import-passage:hover { background: var(--accent-bg); color: var(--accent); border-color: var(--accent); }
+
+/* ── Review tab ─────────────────────────────────────────────────────────── */
+#view-review {
+  align-items: center;
+  padding: 40px 20px;
+  gap: 20px;
+}
+#review-progress-bar {
+  width: 100%;
+  max-width: 560px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+#review-progress-track {
+  flex: 1;
+  height: 4px;
+  background: var(--border);
+  border-radius: 2px;
+}
+#review-progress-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+#review-card {
+  width: 100%;
+  max-width: 560px;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 36px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-height: 260px;
+}
+#review-front { display: flex; flex-direction: column; align-items: center; gap: 12px; }
+#review-korean {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  color: var(--text);
+  text-align: center;
+}
+#review-reading-front {
+  font-size: 16px;
+  color: var(--text-muted);
+  text-align: center;
+}
+#btn-reveal {
+  margin-top: 8px;
+  padding: 10px 28px;
+  background: var(--accent-bg);
+  color: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
+#btn-reveal:hover { background: var(--accent); color: #fff; }
+#review-back { display: none; flex-direction: column; gap: 14px; }
+#review-definition-back {
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text);
+  border-top: 1px solid var(--border);
+  padding-top: 14px;
+}
+#review-pos-back { font-size: 12px; color: var(--text-muted); }
+#review-ja-back {
+  font-size: 13px;
+  color: var(--text-muted);
+  padding: 6px 10px;
+  background: var(--word-hover);
+  border-radius: 4px;
+  display: none;
+}
+#review-example-back {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 13px;
+  color: var(--text-muted);
+  font-style: italic;
+  display: none;
+}
+#review-actions {
+  display: flex;
+  gap: 12px;
+  margin-top: 6px;
+}
+#btn-wrong {
+  flex: 1;
+  padding: 11px;
+  background: var(--danger-bg);
+  color: var(--danger);
+  border: 1px solid var(--danger-border);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
+#btn-wrong:hover { background: var(--danger); color: #fff; }
+#btn-correct {
+  flex: 2;
+  padding: 11px;
+  background: linear-gradient(135deg, #1a3d1a, #1f6b1f);
+  color: var(--success);
+  border: 1px solid #2d5a2d;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+}
+#btn-correct:hover { background: var(--success); color: #fff; }
+#review-done {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 15px;
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  padding: 40px;
+}
+#review-done-big { font-size: 48px; }
+</style>
+</head>
+<body>
+
+<!-- Nav -->
+<nav>
+  <span class="nav-logo">한국어 Reader</span>
+  <div class="nav-tabs">
+    <button class="nav-tab active" data-tab="reader">Reader</button>
+    <button class="nav-tab" data-tab="vocab">Vocabulary</button>
+    <button class="nav-tab" data-tab="review">Review</button>
+    <button class="nav-tab" data-tab="lessons">Lessons</button>
+    <button class="nav-tab" data-tab="stats">Stats</button>
+  </div>
+  <span class="nav-badge" id="vocab-badge">0 words</span>
+</nav>
+
+<!-- Reader View -->
+<div id="view-reader" class="view active">
+  <aside id="sidebar">
+    <div id="sidebar-header">
+      <button id="btn-new-passage" class="sidebar-btn">+ New Passage</button>
+      <button id="btn-generate-passage" class="sidebar-btn">✨ Generate with AI</button>
+      <button id="btn-import-passage" class="sidebar-btn">↓ Import Text</button>
+    </div>
+    <div id="passage-list"></div>
+  </aside>
+
+  <main id="reader-main">
+    <div id="reader-header">
+      <span id="reader-title" style="color:var(--text-muted); font-weight:400; font-size:15px;">Select a passage</span>
+      <button id="btn-edit-passage" class="reader-action-btn" style="display:none">Edit</button>
+      <button id="btn-delete-passage" class="reader-action-btn" style="display:none">Delete</button>
+    </div>
+    <div id="reader-body">
+      <div id="empty-state">
+        <h2>한국어 Graded Reader</h2>
+        <p>Select a passage from the sidebar, add one manually, or use <strong>✨ Generate with AI</strong> to create one.</p>
+      </div>
+      <div id="passage-content" style="display:none"></div>
+    </div>
+  </main>
+
+  <div id="def-panel">
+    <div id="def-panel-header">
+      <button class="def-tab active" data-def-tab="word">Word</button>
+      <button class="def-tab" data-def-tab="grammar">Grammar</button>
+    </div>
+
+    <!-- Word pane -->
+    <div id="def-content" class="def-pane active">
+      <div id="def-placeholder">Click any word in the passage to look it up and add it to your vocab bank.<br><br>Already know a word? <b>Right-click</b> it to mark it known without looking it up.</div>
+      <div id="def-loading"><div class="spinner"></div><span>Looking up…</span></div>
+      <div id="def-result">
+        <div id="def-word"></div>
+        <div id="def-reading"></div>
+        <div class="def-badges" id="def-badges"></div>
+        <button id="btn-mark-known" style="display:none"></button>
+        <div id="def-analyzed-note"></div>
+        <div id="def-definition"></div>
+        <div id="def-japanese-section" style="display:none">
+          <div class="def-section-label">Japanese</div>
+          <div id="def-ja-word"></div>
+          <div id="def-ja-reading"></div>
+          <div id="def-ja-note"></div>
+        </div>
+        <div id="def-example-section" style="display:none">
+          <div class="def-section-label">Example</div>
+          <div id="def-example-text"></div>
+        </div>
+        <div id="def-grammar-hints" style="display:none">
+          <div class="def-section-label">Grammar in this word</div>
+          <div class="grammar-chips" id="grammar-chips"></div>
+        </div>
+        <div class="def-relookup">
+          <input type="text" id="def-lookup-input" placeholder="Edit term & regenerate definition…">
+          <button id="def-lookup-btn" title="Regenerate definition (ignores saved copy)">↺</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grammar pane -->
+    <div id="grammar-content" class="def-pane">
+      <div id="grammar-input-wrap">
+        <input type="text" id="grammar-input" placeholder="-아서/어서, -(으)면, -겠-…">
+        <button id="grammar-btn" class="def-lookup-btn" title="Look up">↺</button>
+      </div>
+      <div id="grammar-placeholder">Type a pattern to look it up.<br><span style="color:var(--text)">-아서/어서 &nbsp; -(으)면 &nbsp; -겠-</span></div>
+      <div id="grammar-loading"><div class="spinner"></div><span>Looking up…</span></div>
+      <div id="grammar-result"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Vocab View -->
+<div id="view-vocab" class="view">
+  <div class="view-header">
+    <h1>Vocabulary Bank</h1>
+    <button class="btn-secondary" id="btn-vocab-import">↓ Import List</button>
+    <input type="text" id="vocab-search" placeholder="Search…">
+  </div>
+  <div id="vocab-table-wrap">
+    <div id="vocab-empty" style="display:none"></div>
+    <table id="vocab-table">
+      <thead>
+        <tr>
+          <th>Word</th>
+          <th>Definition</th>
+          <th>Part of Speech</th>
+          <th>Status</th>
+          <th>Lookups</th>
+          <th>First Seen</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="vocab-tbody"></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- Review View -->
+<div id="view-review" class="view">
+  <div id="review-progress-bar" style="display:none">
+    <span id="review-count-label">0 / 0</span>
+    <div id="review-progress-track"><div id="review-progress-fill" style="width:0%"></div></div>
+  </div>
+  <div id="review-card" style="display:none">
+    <div id="review-front">
+      <div id="review-korean"></div>
+      <div id="review-reading-front"></div>
+      <button id="btn-reveal">Show Answer</button>
+    </div>
+    <div id="review-back">
+      <div id="review-pos-back"></div>
+      <div id="review-definition-back"></div>
+      <div id="review-ja-back"></div>
+      <div id="review-example-back"></div>
+      <div id="review-actions">
+        <button id="btn-wrong">Missed it</button>
+        <button id="btn-correct">Got it!</button>
+      </div>
+    </div>
+  </div>
+  <div id="review-done">
+    <div id="review-done-big">🎉</div>
+    <div id="review-done-msg"></div>
+    <button class="btn-secondary" id="btn-review-again">Review Again</button>
+  </div>
+  <div id="review-empty-msg" style="color:var(--text-muted); font-size:15px; text-align:center; padding:60px 20px; display:none">
+    No words due for review.<br><span style="font-size:13px">Keep reading and looking up words — they'll appear here!</span>
+  </div>
+</div>
+
+<!-- Import Text Modal -->
+<div id="import-overlay" class="modal-overlay">
+  <div class="modal-box">
+    <h2 class="modal-heading">Import Text</h2>
+    <div class="gen-controls" style="grid-template-columns: 1fr;">
+      <div class="form-group">
+        <label class="form-label">Paste Korean text</label>
+        <textarea class="form-input" id="import-text" style="min-height:140px; font-family:'Noto Sans KR',sans-serif; font-size:14px; line-height:1.8; resize:vertical;" placeholder="Paste any Korean text here — a KakaoTalk message, song lyrics, webtoon caption…"></textarea>
+      </div>
+      <div class="form-group">
+        <label class="form-label">Title</label>
+        <input type="text" class="form-input" id="import-title" placeholder="Give this a name…">
+      </div>
+    </div>
+    <div style="display:flex; justify-content:flex-end; gap:8px; margin-top:16px;">
+      <button class="btn-secondary" id="btn-import-cancel">Cancel</button>
+      <button class="btn-primary" id="btn-import-save">Import</button>
+    </div>
+  </div>
+</div>
+
+<!-- Import Vocab List Modal -->
+<div id="vocab-import-overlay" class="modal-overlay">
+  <div class="modal-box">
+    <h2 class="modal-heading">Import Word List</h2>
+    <div class="form-group" style="margin-top:12px;">
+      <label class="form-label">Paste a vocab list, a textbook page, or a Korean passage</label>
+      <textarea class="form-input" id="vocab-import-text" style="min-height:180px; font-family:'Noto Sans KR',sans-serif; font-size:14px; line-height:1.8; resize:vertical;" placeholder="음식 = food&#10;먹다 = to eat&#10;저는 음식을 먹었어요 = I ate food&#10;&#10;…word = definition lines are imported directly (example sentences attach to their word). Plain Korean text is analysed and unknown dictionary words are looked up."></textarea>
+    </div>
+    <label style="display:flex; align-items:center; gap:8px; font-size:13px; color:var(--text-muted); margin-top:10px; cursor:pointer;">
+      <input type="checkbox" id="vocab-import-lookup" checked style="accent-color:var(--accent); width:14px; height:14px;">
+      Look up definitions for passage words not in your bank (AI)
+    </label>
+    <div id="vocab-import-result" style="display:none; margin-top:12px; font-size:13px; line-height:1.7; color:var(--text-muted); max-height:160px; overflow-y:auto;"></div>
+    <div class="modal-actions" style="margin-top:14px;">
+      <button class="btn-secondary" id="btn-vocab-import-cancel">Close</button>
+      <button class="btn-primary" id="btn-vocab-import-go">Import → Studying</button>
+    </div>
+  </div>
+</div>
+
+<!-- Stats View -->
+<div id="view-stats" class="view">
+  <div class="stats-body">
+    <div class="stat-cards">
+      <div class="stat-card">
+        <div class="stat-label">Total Words</div>
+        <div class="stat-value" id="stat-total">—</div>
+        <div class="stat-sub">in your vocab bank</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">This Week</div>
+        <div class="stat-value" id="stat-week">—</div>
+        <div class="stat-sub">new words added</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Passages</div>
+        <div class="stat-value" id="stat-passages">—</div>
+        <div class="stat-sub">saved</div>
+      </div>
+    </div>
+    <div class="chart-section" id="days-chart-section">
+      <div class="chart-title">Words Added Over Time</div>
+      <canvas id="chart-days" height="140"></canvas>
+    </div>
+    <div class="chart-section">
+      <div class="chart-title">Most Looked Up Words</div>
+      <div class="top-words-list" id="top-words-list"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Lessons View -->
+<div id="view-lessons" class="view">
+  <div class="view-header">
+    <h1>Lessons</h1>
+    <span style="margin-left:auto; font-size:12px; color:var(--text-muted)">Curated for your level · links open howtostudykorean.com</span>
+  </div>
+  <div id="lessons-body"></div>
+</div>
+
+<!-- Add / Edit Passage Modal -->
+<div id="modal-overlay" class="modal-overlay">
+  <div class="modal-box">
+    <h2 class="modal-heading" id="modal-heading">New Passage</h2>
+    <div class="form-group">
+      <label class="form-label">Title</label>
+      <input type="text" class="form-input" id="modal-title" placeholder="e.g. 첫 번째 이야기">
+    </div>
+    <div class="form-group">
+      <label class="form-label">Level</label>
+      <select class="form-input" id="modal-level">
+        <option value="">— no level —</option>
+        <option value="beginner">Beginner (초급)</option>
+        <option value="intermediate">Intermediate (중급)</option>
+        <option value="advanced">Advanced (고급)</option>
+      </select>
+    </div>
+    <div class="form-group" style="flex:1; display:flex; flex-direction:column;">
+      <label class="form-label">Korean Text</label>
+      <textarea class="form-input" id="modal-content" placeholder="Paste Korean passage here…"></textarea>
+    </div>
+    <div class="modal-actions">
+      <button class="btn-secondary" id="btn-modal-cancel">Cancel</button>
+      <button class="btn-primary" id="btn-modal-save">Save Passage</button>
+    </div>
+  </div>
+</div>
+
+<!-- Generate Passage Modal -->
+<div id="gen-overlay" class="modal-overlay">
+  <div class="modal-box">
+    <h2 class="modal-heading">✨ Generate Passage</h2>
+
+    <div class="gen-controls">
+      <div class="form-group">
+        <label class="form-label">Level</label>
+        <select class="form-input" id="gen-level">
+          <option value="beginner">Beginner (초급)</option>
+          <option value="intermediate" selected>Intermediate (중급)</option>
+          <option value="advanced">Advanced (고급)</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label class="form-label">Topic <span style="font-weight:400;text-transform:none;letter-spacing:0">(optional)</span></label>
+        <input type="text" class="form-input" id="gen-topic" placeholder="e.g. 여행, 음식, 학교">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Grammar Focus <span style="font-weight:400;text-transform:none;letter-spacing:0">(optional)</span></label>
+        <input type="text" class="form-input" id="gen-grammar" placeholder="e.g. -아서/어서, 이/가 particles, -겠-">
+      </div>
+      <div class="form-group">
+        <label class="form-label">Speech Register</label>
+        <select class="form-input" id="gen-register">
+          <option value="formal">Formal — 합쇼체 (imnida/seumnida)</option>
+          <option value="polite" selected>Polite — 해요체 (haeyo)</option>
+          <option value="casual">Casual — 해체 (banmal, for close friends/girlfriend)</option>
+          <option value="mixed">Mixed — narrator polite, dialogue casual</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+      <button class="btn-gen" id="btn-gen-go">Generate</button>
+      <label style="display:flex; align-items:center; gap:6px; font-size:13px; color:var(--text-muted); cursor:pointer; user-select:none;">
+        <input type="checkbox" id="gen-use-vocab" checked style="accent-color:var(--accent); width:14px; height:14px;">
+        Personalize to my vocab bank
+      </label>
+      <label style="display:flex; align-items:center; gap:6px; font-size:13px; color:var(--text-muted); cursor:pointer; user-select:none;">
+        <input type="checkbox" id="gen-refine" style="accent-color:var(--accent); width:14px; height:14px;">
+        Refine for naturalness
+      </label>
+      <span id="gen-status" style="font-size:13px; color:var(--text-muted)"></span>
+    </div>
+
+    <hr class="gen-divider">
+
+    <div id="gen-preview-wrap">
+      <div class="form-group">
+        <label class="form-label">Generated text <span style="font-weight:400;text-transform:none;letter-spacing:0">(editable)</span></label>
+        <textarea class="form-input" id="gen-preview"></textarea>
+        <div id="gen-coverage" style="display:none; margin-top:6px; font-size:12px; line-height:1.8; flex-wrap:wrap; gap:4px;"></div>
+      </div>
+      <div class="form-group">
+        <label class="form-label">Passage Title</label>
+        <input type="text" class="form-input" id="gen-title" placeholder="Give this passage a name…">
+      </div>
+      <div class="gen-footer">
+        <div class="gen-footer-left">
+          <button class="btn-secondary" id="btn-gen-regen">↺ Regenerate</button>
+        </div>
+        <div style="display:flex; gap:8px;">
+          <button class="btn-secondary" id="btn-gen-cancel">Cancel</button>
+          <button class="btn-primary" id="btn-gen-save">Save Passage</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="gen-cancel-before" style="display:flex; justify-content:flex-end;">
+      <button class="btn-secondary" id="btn-gen-cancel2">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── State ──────────────────────────────────────────────────────────────────
+const S = {
+  passages: [],
+  currentId: null,
+  currentPassage: null,
+  vocabWords: new Set(),
+  studyingWords: new Set(),
+  vocabData: [],
+  activeToken: null,
+  editingId: null,
+};
+
+// ── API ────────────────────────────────────────────────────────────────────
+const api = {
+  async get(path) {
+    const r = await fetch(path);
+    if (!r.ok) throw new Error(await r.text());
+    return r.json();
+  },
+  async post(path, body) {
+    const r = await fetch(path, { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) });
+    if (!r.ok) throw new Error(await r.text());
+    return r.json();
+  },
+  async put(path, body) {
+    const r = await fetch(path, { method:'PUT', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) });
+    if (!r.ok) throw new Error(await r.text());
+    return r.json();
+  },
+  async del(path) {
+    const r = await fetch(path, { method:'DELETE' });
+    if (!r.ok) throw new Error(await r.text());
+    return r.json();
+  },
+};
+
+// ── Helpers ────────────────────────────────────────────────────────────────
+function esc(s) {
+  return String(s ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function cleanLookup(token) {
+  return token.replace(/^[^가-힣ㄱ-ㅎㅏ-ㅣa-zA-Z0-9]+|[^가-힣ㄱ-ㅎㅏ-ㅣa-zA-Z0-9]+$/g, '');
+}
+
+// ── Passage list ───────────────────────────────────────────────────────────
+async function loadPassages() {
+  S.passages = await api.get('/api/passages');
+  renderPassageList();
+}
+
+function renderPassageList() {
+  const el = document.getElementById('passage-list');
+  if (!S.passages.length) {
+    el.innerHTML = '<div style="padding:12px;font-size:13px;color:var(--text-muted)">No passages yet</div>';
+    return;
+  }
+  el.innerHTML = '';
+  for (const p of S.passages) {
+    const div = document.createElement('div');
+    div.className = 'passage-item' + (p.id === S.currentId ? ' active' : '');
+    const date = new Date(p.created_at).toLocaleDateString('en-US', {month:'short', day:'numeric'});
+    div.innerHTML = `
+      <div class="passage-item-title">${esc(p.title)}</div>
+      <div class="passage-item-meta">
+        <span class="level-badge ${p.level || 'none'}">${p.level || 'no level'}</span>
+        <span style="font-size:11px;color:var(--text-muted)">${date}</span>
+      </div>`;
+    div.addEventListener('click', () => selectPassage(p.id));
+    el.appendChild(div);
+  }
+}
+
+async function selectPassage(id) {
+  S.currentId = id;
+  S.activeToken = null;
+  renderPassageList();
+  const passage = await api.get(`/api/passages/${id}`);
+  S.currentPassage = passage;
+  const titleEl = document.getElementById('reader-title');
+  titleEl.textContent = passage.title;
+  titleEl.style.cssText = '';
+  document.getElementById('btn-edit-passage').style.display = '';
+  document.getElementById('btn-delete-passage').style.display = '';
+  document.getElementById('empty-state').style.display = 'none';
+  document.getElementById('passage-content').style.display = 'block';
+  renderPassage(passage.content);
+  resolvePassageLemmas();
+  document.getElementById('def-placeholder').style.display = 'block';
+  document.getElementById('def-loading').style.display = 'none';
+  document.getElementById('def-result').style.display = 'none';
+}
+
+// ── Passage renderer ───────────────────────────────────────────────────────
+function wordClass(lookup) {
+  if (S.studyingWords.has(lookup)) return ' studying';
+  return S.vocabWords.has(lookup) ? ' known' : ' new-word';
+}
+
+function renderPassage(text) {
+  const container = document.getElementById('passage-content');
+  container.innerHTML = '';
+  let lineStart = 0;  // absolute char offset of the current line in `text`
+  for (const line of text.split('\n')) {
+    const div = document.createElement('div');
+    div.className = 'passage-line';
+    if (!line.trim()) { div.innerHTML = '&nbsp;'; }
+    else {
+      let col = 0;  // char offset within the line
+      for (const part of line.split(/(\s+)/)) {
+        if (!part) continue;
+        const partStart = lineStart + col;
+        col += part.length;
+        if (/^\s+$/.test(part)) {
+          div.appendChild(document.createTextNode(part));
+        } else {
+          const lookup = cleanLookup(part);
+          if (!lookup) { div.appendChild(document.createTextNode(part)); continue; }
+          const span = document.createElement('span');
+          span.dataset.lookup = lookup;
+          span.dataset.lemma = lookup;  // provisional; resolvePassageLemmas() sets the true dictionary form
+          span.dataset.start = partStart;
+          span.dataset.len = part.length;
+          span.className = 'word-token' + wordClass(lookup);
+          span.textContent = part;
+          span.title = 'Click to look up · Right-click if you already know it';
+          span.addEventListener('click', () => onWordClick(span));
+          span.addEventListener('contextmenu', (e) => { e.preventDefault(); onWordMarkKnown(span); });
+          div.appendChild(span);
+        }
+      }
+    }
+    container.appendChild(div);
+    lineStart += line.length + 1;  // +1 for the '\n' separator
+  }
+}
+
+// ── Word click & definition ────────────────────────────────────────────────
+async function onWordClick(span) {
+  if (S.activeToken) S.activeToken.classList.remove('active');
+  S.activeToken = span;
+  span.classList.add('active');
+  // Prefer the context-resolved dictionary form so the lookup + stored key match
+  // how the passage is highlighted (handles irregulars and particle-fused nouns)
+  const word = span.dataset.lemma || span.dataset.lookup;
+  // Grammar constructions (e.g. -지 말다, -지 못하다) are marked with a leading "-";
+  // send those to the grammar explainer instead of the word dictionary.
+  if (word.startsWith('-')) {
+    document.getElementById('grammar-input').value = word;
+    switchDefTab('grammar');
+    lookupGrammar(word);
+    return;
+  }
+  document.getElementById('def-lookup-input').value = word;
+  // Capture the full line as example sentence context
+  const lineDiv = span.closest('#passage-content > div');
+  const exampleSentence = lineDiv ? lineDiv.textContent.trim() : '';
+  await lookupWord(word, exampleSentence);
+}
+
+async function lookupWord(word, exampleSentence = '', refresh = false) {
+  switchDefTab('word');
+  document.getElementById('def-placeholder').style.display = 'none';
+  document.getElementById('def-result').style.display = 'none';
+  document.getElementById('def-loading').style.display = 'flex';
+  try {
+    const result = await api.post('/api/define', { word, example_sentence: exampleSentence, refresh });
+    showDefinition(result);
+    if (!result.not_found) {
+      // Store by dictionary form so all conjugations of this word light up
+      const lemma = result.word || word;
+      S.vocabWords.add(lemma);
+      // Respect the status the server returns — a lookup no longer forces 'studying',
+      // so peeking at a known (blue) word leaves it known.
+      if ((result.status || '') === 'studying') S.studyingWords.add(lemma);
+      else S.studyingWords.delete(lemma);
+      if (S.activeToken) S.activeToken.dataset.lemma = lemma;
+      updateVocabBadge();
+      refreshPassageHighlights();
+    }
+  } catch (err) {
+    document.getElementById('def-loading').style.display = 'none';
+    document.getElementById('def-result').style.display = 'block';
+    document.getElementById('def-word').textContent = word;
+    document.getElementById('def-reading').textContent = '';
+    document.getElementById('def-badges').innerHTML = '';
+    document.getElementById('def-definition').textContent = 'Error: ' + err.message;
+  }
+}
+
+function showDefinition(r) {
+  document.getElementById('def-loading').style.display = 'none';
+  document.getElementById('def-result').style.display = 'block';
+  document.getElementById('def-word').textContent = r.word || '';
+  document.getElementById('def-reading').textContent = r.reading ? `[${r.reading}]` : '';
+  document.getElementById('def-definition').textContent = r.definition || '';
+
+  document.getElementById('def-definition').style.color = r.not_found ? 'var(--text-muted)' : '';
+
+  const badges = document.getElementById('def-badges');
+  badges.innerHTML = '';
+  if (r.pos)   { const b = document.createElement('span'); b.className = 'def-badge pos';   b.textContent = r.pos;   badges.appendChild(b); }
+  if (r.grade) { const b = document.createElement('span'); b.className = 'def-badge grade'; b.textContent = r.grade; badges.appendChild(b); }
+  if (r.status === 'studying') { const b = document.createElement('span'); b.className = 'def-badge studying'; b.textContent = 'studying'; badges.appendChild(b); }
+
+  // "Mark as known" toggle — lets you flag confidence right after reading the definition
+  const markBtn = document.getElementById('btn-mark-known');
+  if (r.not_found) {
+    markBtn.style.display = 'none';
+  } else {
+    markBtn.style.display = '';
+    // Mark by the context-resolved dictionary form so every conjugation updates
+    markBtn.dataset.word = (S.activeToken && S.activeToken.dataset.lemma) || r.word || '';
+    setMarkBtnState((r.status || '') !== 'studying');
+  }
+
+  // Show auto-lemmatisation note
+  const note = document.getElementById('def-analyzed-note');
+  if (r.analyzed_from) {
+    note.textContent = `↳ auto-analysed from "${r.analyzed_from}"`;
+  } else {
+    note.textContent = '';
+  }
+
+  // Japanese equivalent section
+  const jaSec = document.getElementById('def-japanese-section');
+  const ja = r.japanese;
+  if (ja && ja.word) {
+    document.getElementById('def-ja-word').textContent = ja.word;
+    document.getElementById('def-ja-reading').textContent = ja.reading || '';
+    const noteEl = document.getElementById('def-ja-note');
+    noteEl.textContent = ja.note || '';
+    noteEl.style.display = ja.note ? '' : 'none';
+    jaSec.style.display = '';
+  } else {
+    jaSec.style.display = 'none';
+  }
+
+  // Example sentence
+  const exSec = document.getElementById('def-example-section');
+  const exText = document.getElementById('def-example-text');
+  if (r.example_sentence) {
+    exText.textContent = r.example_sentence;
+    exSec.style.display = '';
+  } else {
+    exSec.style.display = 'none';
+  }
+
+  // Grammar hint chips
+  const hintsWrap = document.getElementById('def-grammar-hints');
+  const chipsEl = document.getElementById('grammar-chips');
+  if (r.grammar_hints && r.grammar_hints.length) {
+    chipsEl.innerHTML = '';
+    for (const hint of r.grammar_hints) {
+      const chip = document.createElement('button');
+      chip.className = 'grammar-chip';
+      chip.textContent = hint;
+      chip.addEventListener('click', () => {
+        document.getElementById('grammar-input').value = hint;
+        switchDefTab('grammar');
+        lookupGrammar(hint);
+      });
+      chipsEl.appendChild(chip);
+    }
+    hintsWrap.style.display = '';
+  } else {
+    hintsWrap.style.display = 'none';
+  }
+
+  // If a suggested lemma exists but lookup still failed, pre-fill the input
+  if (r.suggested_lemma) {
+    document.getElementById('def-lookup-input').value = r.suggested_lemma;
+  }
+
+  // When not found, focus the re-lookup input
+  if (r.not_found) {
+    setTimeout(() => { const i = document.getElementById('def-lookup-input'); i.select(); i.focus(); }, 50);
+  }
+}
+
+// ── Vocab ──────────────────────────────────────────────────────────────────
+async function loadVocab() {
+  S.vocabData = await api.get('/api/vocab');
+  // Merge DB words in — never shrink the set so session highlights persist
+  for (const v of S.vocabData) {
+    S.vocabWords.add(v.word);
+    if ((v.status || '') === 'studying') S.studyingWords.add(v.word);
+    else S.studyingWords.delete(v.word);
+  }
+  updateVocabBadge();
+  renderVocabTable(S.vocabData);
+  refreshPassageHighlights();
+}
+
+function updateVocabBadge() {
+  const n = S.vocabData.length;
+  document.getElementById('vocab-badge').textContent = `${n} word${n !== 1 ? 's' : ''}`;
+}
+
+// Resolve each token to its dictionary form via Kiwi, then highlight by lemma.
+// One round-trip per passage; after this, marking any word relights all its
+// conjugations client-side with no further server calls.
+async function resolvePassageLemmas() {
+  const text = S.currentPassage && S.currentPassage.content;
+  if (!text) return;
+  try {
+    const { spans } = await api.post('/api/lemmatize', { text });
+    const sorted = (spans || []).slice().sort((a, b) => a.start - b.start);
+    document.querySelectorAll('.word-token').forEach(s => {
+      const start = +s.dataset.start, end = start + (+s.dataset.len);
+      // first content word whose span begins inside this on-screen token
+      const hit = sorted.find(sp => sp.start >= start && sp.start < end);
+      s.dataset.lemma = hit ? hit.lemma : s.dataset.lookup;
+    });
+  } catch (_) {}
+  refreshPassageHighlights();
+}
+
+function refreshPassageHighlights() {
+  // Highlight by dictionary form (lemma) so every conjugation of a word shares one state
+  document.querySelectorAll('.word-token').forEach(s => {
+    const key = s.dataset.lemma || s.dataset.lookup;
+    const studying = S.studyingWords.has(key);
+    const known = !studying && S.vocabWords.has(key);
+    s.classList.toggle('studying', studying);
+    s.classList.toggle('known', known);
+    s.classList.toggle('new-word', !studying && !known);
+  });
+}
+
+// Set a word's status by surface form (inline marking while reading).
+// status: '' = known/confident, 'studying' = still learning.
+async function markWord(word, status) {
+  try {
+    const r = await api.post('/api/vocab/mark', { word, status });
+    const lemma = r.word || word;  // canonical dictionary form
+    S.vocabWords.add(lemma);
+    if (status === 'studying') S.studyingWords.add(lemma);
+    else S.studyingWords.delete(lemma);
+    refreshPassageHighlights();
+    return lemma;
+  } catch (_) { return null; }
+}
+
+// Right-click a word: mark it (and every conjugation of it) known instantly.
+async function onWordMarkKnown(span) {
+  await markWord(span.dataset.lemma || span.dataset.lookup, '');
+}
+
+function setMarkBtnState(isKnown) {
+  const btn = document.getElementById('btn-mark-known');
+  btn.classList.toggle('is-known', isKnown);
+  btn.textContent = isKnown ? '✓ Known — click to study again' : '✓ I already know this word';
+}
+
+document.getElementById('btn-mark-known').addEventListener('click', async () => {
+  const btn = document.getElementById('btn-mark-known');
+  const word = btn.dataset.word;
+  if (!word) return;
+  const makeKnown = !btn.classList.contains('is-known');
+  await markWord(word, makeKnown ? '' : 'studying');
+  setMarkBtnState(makeKnown);
+  // keep the def-panel 'studying' badge in sync with the toggle
+  const badges = document.getElementById('def-badges');
+  const existing = badges.querySelector('.def-badge.studying');
+  if (makeKnown) { if (existing) existing.remove(); }
+  else if (!existing) {
+    const b = document.createElement('span'); b.className = 'def-badge studying'; b.textContent = 'studying'; badges.appendChild(b);
+  }
+});
+
+function renderVocabTable(data) {
+  const tbody = document.getElementById('vocab-tbody');
+  const empty = document.getElementById('vocab-empty');
+  if (!data.length) {
+    tbody.innerHTML = '';
+    empty.style.display = 'block';
+    empty.innerHTML = 'No words yet.<br>Click words while reading to add them to your vocab bank.';
+    return;
+  }
+  empty.style.display = 'none';
+  tbody.innerHTML = '';
+  for (const v of data) {
+    const tr = document.createElement('tr');
+    const date = new Date(v.first_seen).toLocaleDateString('en-US', {month:'short', day:'numeric', year:'numeric'});
+    tr.innerHTML = `
+      <td>
+        <div class="vocab-word">${esc(v.word)}</div>
+        ${v.reading ? `<div class="vocab-reading">[${esc(v.reading)}]</div>` : ''}
+      </td>
+      <td><div class="vocab-def" title="${esc(v.definition)}">${esc(v.definition)}</div></td>
+      <td>${v.part_of_speech ? `<span class="def-badge pos">${esc(v.part_of_speech)}</span>` : '<span style="color:var(--text-muted)">—</span>'}</td>
+      <td><button class="status-chip${v.status === 'studying' ? ' studying' : ''}" data-id="${v.id}" data-status="${v.status || ''}" title="Click to toggle studying/known">${v.status === 'studying' ? 'studying' : 'known'}</button></td>
+      <td><span class="lookup-count">${v.lookup_count}</span></td>
+      <td style="color:var(--text-muted);font-size:13px">${date}</td>
+      <td><button class="btn-del" data-id="${v.id}">Remove</button></td>`;
+    tbody.appendChild(tr);
+  }
+}
+
+document.getElementById('vocab-tbody').addEventListener('click', async (e) => {
+  const chip = e.target.closest('.status-chip');
+  if (chip) {
+    const next = chip.dataset.status === 'studying' ? '' : 'studying';
+    await api.put(`/api/vocab/${chip.dataset.id}/status`, { status: next });
+    await loadVocab();
+    return;
+  }
+  const btn = e.target.closest('.btn-del');
+  if (!btn) return;
+  if (!confirm('Remove this word from your vocab bank?')) return;
+  await api.del(`/api/vocab/${btn.dataset.id}`);
+  await loadVocab();
+});
+
+document.getElementById('vocab-search').addEventListener('input', (e) => {
+  const q = e.target.value.toLowerCase();
+  renderVocabTable(S.vocabData.filter(v =>
+    v.word.includes(q) || (v.definition || '').toLowerCase().includes(q)
+  ));
+});
+
+// ── Stats ──────────────────────────────────────────────────────────────────
+async function loadStats() {
+  const stats = await api.get('/api/stats');
+  document.getElementById('stat-total').textContent = stats.total_words;
+  document.getElementById('stat-week').textContent = stats.this_week;
+  document.getElementById('stat-passages').textContent = stats.passage_count;
+  drawDaysChart(stats.by_day);
+  renderTopWords(stats.top_words);
+}
+
+function fillDateGaps(byDay) {
+  if (!byDay.length) return [];
+  const map = {};
+  for (const d of byDay) map[d.date] = d.count;
+  const start = new Date(byDay[0].date), end = new Date(byDay[byDay.length-1].date);
+  const result = [], cur = new Date(start);
+  while (cur <= end) {
+    const key = cur.toISOString().slice(0,10);
+    result.push({ date: key, count: map[key] || 0 });
+    cur.setDate(cur.getDate() + 1);
+  }
+  return result;
+}
+
+function drawDaysChart(byDay) {
+  const canvas = document.getElementById('chart-days');
+  const section = document.getElementById('days-chart-section');
+  const dpr = window.devicePixelRatio || 1;
+  const W = section.clientWidth - 40;
+  const H = 140;
+  canvas.width = W * dpr; canvas.height = H * dpr;
+  canvas.style.width = W + 'px'; canvas.style.height = H + 'px';
+  const ctx = canvas.getContext('2d');
+  ctx.scale(dpr, dpr);
+
+  if (!byDay.length) {
+    ctx.fillStyle = '#8b949e';
+    ctx.font = '13px Inter, sans-serif';
+    ctx.textAlign = 'center';
+    ctx.fillText('No data yet — start looking up words!', W / 2, H / 2);
+    return;
+  }
+
+  const filled = fillDateGaps(byDay);
+  const max = Math.max(...filled.map(d => d.count), 1);
+  const pad = { l:32, r:8, t:8, b:28 };
+  const cW = W - pad.l - pad.r, cH = H - pad.t - pad.b;
+  const slot = cW / filled.length;
+  const barW = Math.max(2, Math.min(slot * 0.7, 32));
+
+  ctx.strokeStyle = '#30363d'; ctx.lineWidth = 1;
+  ctx.beginPath(); ctx.moveTo(pad.l, pad.t); ctx.lineTo(W - pad.r, pad.t); ctx.stroke();
+
+  ctx.fillStyle = '#8b949e'; ctx.font = '10px Inter, sans-serif'; ctx.textAlign = 'right';
+  ctx.fillText(max, pad.l - 4, pad.t + 4);
+
+  filled.forEach((d, i) => {
+    const barH = d.count === 0 ? 1 : (d.count / max) * cH;
+    const x = pad.l + i * slot + (slot - barW) / 2;
+    const y = pad.t + cH - barH;
+    ctx.fillStyle = d.count === 0 ? '#21262d' : '#58a6ff';
+    ctx.fillRect(x, y, barW, barH);
+  });
+
+  ctx.fillStyle = '#8b949e'; ctx.font = '10px Inter, sans-serif';
+  ctx.textAlign = 'left'; ctx.fillText(filled[0].date.slice(5), pad.l, H - 6);
+  if (filled.length > 1) { ctx.textAlign = 'right'; ctx.fillText(filled[filled.length-1].date.slice(5), W - pad.r, H - 6); }
+}
+
+function renderTopWords(words) {
+  const list = document.getElementById('top-words-list');
+  if (!words.length) { list.innerHTML = '<div style="color:var(--text-muted);font-size:13px">Look up words to see them here</div>'; return; }
+  const max = words[0].lookup_count;
+  list.innerHTML = '';
+  for (const w of words) {
+    const pct = (w.lookup_count / max) * 100;
+    const row = document.createElement('div');
+    row.className = 'top-word-row';
+    row.innerHTML = `
+      <span class="top-word-label">${esc(w.word)}</span>
+      <div class="top-word-bar-wrap"><div class="top-word-bar" style="width:${pct}%"></div></div>
+      <span class="top-word-count">${w.lookup_count}</span>`;
+    list.appendChild(row);
+  }
+}
+
+// ── Tab switching ──────────────────────────────────────────────────────────
+const VIEWS = { reader: 'view-reader', vocab: 'view-vocab', review: 'view-review', lessons: 'view-lessons', stats: 'view-stats' };
+
+function switchTab(tab) {
+  document.querySelectorAll('.nav-tab').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
+  document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+  document.getElementById(VIEWS[tab]).classList.add('active');
+  if (tab === 'vocab') loadVocab();
+  if (tab === 'stats') loadStats();
+  if (tab === 'reader') refreshPassageHighlights();
+  if (tab === 'review') startReviewSession();
+  if (tab === 'lessons') renderLessons();
+}
+
+document.querySelectorAll('.nav-tab').forEach(btn => {
+  btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+});
+
+// ── Lessons (curated HTSK path for your level & gaps) ────────────────────────
+const HTSK = 'https://www.howtostudykorean.com';
+const LESSONS = [
+  {
+    theme: 'Start here — Conjugation', tag: 'Foundation',
+    blurb: 'Everything else builds on these. Your lookups of conjugated forms like <span class="kr">떴습니다</span>, <span class="kr">차갑습니다</span> show these aren’t automatic yet.',
+    items: [
+      { code: 'HTSK L5', title: 'Conjugation: past / present / future', url: `${HTSK}/unit1/unit-1-lessons-1-8/unit-1-lesson-5/`,
+        why: 'HTSK calls this “the hardest step” — and the one everything after depends on. Do this before anything else.' },
+      { code: 'HTSK L6', title: 'Honorifics & politeness levels', url: `${HTSK}/unit1/unit-1-lessons-1-8/unit-1-lesson-6/`,
+        why: 'Your passages mix <span class="kr">해요체 / 합니다체 / 반말</span> — this gives you the system so you can pick one and stay consistent.' },
+    ],
+  },
+  {
+    theme: 'Irregulars', tag: 'Your #1 gap',
+    blurb: 'This is what made <span class="kr">걸어서, 추워, 떴어요, 불러</span> show up as “unknown words” in your history — they’re just conjugated irregulars.',
+    items: [
+      { code: 'HTSK L7', title: 'ㅂ / ㄷ / ㅡ / 르 / ㅅ / ㄹ irregulars', url: `${HTSK}/unit1/unit-1-lessons-1-8/unit-1-lesson-7/`,
+        why: 'The big one. Keep its quick-reference table open while you read. Fixes <span class="kr">춥→추워</span>, <span class="kr">걷→걸어서</span>, <span class="kr">뜨→떴어요</span>, <span class="kr">부르→불러</span>.' },
+      { code: 'HTSK L23', title: 'ㅎ irregular (colors, 이런/그런)', url: `${HTSK}/unit1/unit-1-lessons-17-25-2/lesson-23/`,
+        why: 'The last irregular family, plus the <span class="kr">그렇다</span>-type words you looked up.' },
+    ],
+  },
+  {
+    theme: 'Negation & commands', tag: 'You just asked about these',
+    blurb: 'Directly the <span class="kr">안 돼요</span> and <span class="kr">긴장하지 마</span> cases you hit while reading.',
+    items: [
+      { code: 'HTSK L8', title: 'Negatives: 안, ~지 않다, adverbs', url: `${HTSK}/unit1/unit-1-lessons-1-8/unit-1-lesson-8/`,
+        why: 'Short vs long negation — the <span class="kr">안</span> in <span class="kr">안 돼요</span> (“not allowed”).' },
+      { code: 'HTSK L20', title: 'Well / poorly: 잘 and 못', url: `${HTSK}/unit1/unit-1-lessons-17-25-2/lesson-20/`,
+        why: 'The <span class="kr">못</span> negation (<span class="kr">못 먹다</span> = can’t eat) — inability vs simple negation.' },
+      { code: 'HTSK L40', title: 'Imperative mood, incl. ~지 말다', url: `${HTSK}/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-40/`,
+        why: 'Exactly your <span class="kr">긴장하지 마</span> — the negative command “don’t …” from <span class="kr">~지 말다</span>.' },
+    ],
+  },
+  {
+    theme: 'Particles', tag: 'Stops fused-word lookups',
+    blurb: 'You looked up <span class="kr">거기서</span> and <span class="kr">이사동까지</span> as whole words — these separate the particle from the noun.',
+    items: [
+      { code: 'HTSK L12', title: '에서 · 부터 · 까지 · (으)로 · 만', url: `${HTSK}/unit1/unit-1-lessons-9-16/lesson-12/`,
+        why: 'Location/from/until/by/only — fixes <span class="kr">거기서</span>, <span class="kr">…까지</span> fused lookups.' },
+      { code: 'HTSK L13', title: 'and / with / to / from / for / about', url: `${HTSK}/unit1/unit-1-lessons-9-16/lesson-13/`,
+        why: '<span class="kr">와/과, 하고, 한테/에게</span> — the rest of the everyday particle set.' },
+    ],
+  },
+  {
+    theme: 'Connective endings', tag: 'All over your passages',
+    blurb: 'These four appear constantly in your generated passages — learning them turns walls of text into parsable clauses.',
+    items: [
+      { code: 'HTSK L37', title: 'Because — ~아/어서', url: `${HTSK}/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-34-41/lesson-37/`,
+        why: 'As in <span class="kr">늦어서…</span> — “because / and so.”' },
+      { code: 'HTSK L47', title: 'But — ~지만', url: `${HTSK}/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-47/`,
+        why: 'As in <span class="kr">덥지만…</span> — connecting two contrasting clauses.' },
+      { code: 'HTSK L62', title: 'While — ~(으)면서 / ~(으)며', url: `${HTSK}/unit-3-intermediate-korean-grammar/unit-3-lessons-59-66/lesson-62/`,
+        why: '<span class="kr">걸으면서 / 걸으며</span> caused four of your lookups. (Taught late by HTSK — worth reading early.)' },
+      { code: 'HTSK L81', title: 'Because / since — ~(으)니까', url: `${HTSK}/upper-intermediate-korean-grammar/unit-4-lessons-76-83/lesson-81/`,
+        why: '<span class="kr">좋으니까, 따뜻하니까</span> in your passages. (Also taught late — keep as a reference.)' },
+    ],
+  },
+  {
+    theme: 'The lower-intermediate leap', tag: 'Next horizon',
+    blurb: 'Once conjugation and particles feel solid, these open up real intermediate Korean. Your passages already use several of them.',
+    items: [
+      { code: 'HTSK L26', title: '~는 것 — describing nouns with verbs', url: `${HTSK}/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-26/`,
+        why: 'HTSK’s gateway to intermediate grammar. The single highest-leverage lesson here.' },
+      { code: 'HTSK L32', title: '~려고 / ~아어 보다 — in order to / try to', url: `${HTSK}/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-26-33/lesson-32/`,
+        why: 'Your passage has <span class="kr">이사를 가려고 해요</span> — you’ve been reading this pattern unparsed.' },
+      { code: 'HTSK L43', title: 'If / when — ~(으)면', url: `${HTSK}/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-43/`,
+        why: '<span class="kr">좋다면, 도착하면</span> in your passages.' },
+      { code: 'HTSK L45', title: 'Can / can’t — ~ㄹ 수 있다', url: `${HTSK}/unit-2-lower-intermediate-korean-grammar/unit-2-lessons-42-50/lesson-45/`,
+        why: 'Your passage has <span class="kr">즐길 수 있는 곳</span> — ability/possibility.' },
+      { code: 'HTSK L14', title: 'Passive verbs', url: `${HTSK}/unit1/unit-1-lessons-9-16/lesson-14-korean-passive-verbs/`,
+        why: 'You’ve hit <span class="kr">들리다, 떨리다, 걸리다</span> blind — this is the system behind them.' },
+    ],
+  },
+];
+
+function renderLessons() {
+  const body = document.getElementById('lessons-body');
+  if (body.dataset.rendered) return;  // static curated content — build once
+  let html = '<div class="lessons-intro">These are hand-picked for where you are right now — high-beginner heading into lower-intermediate — and ordered by priority. Each links straight to the How to Study Korean lesson; the note says why it’s worth your time given what you’ve been reading and looking up.</div>';
+  for (const sec of LESSONS) {
+    html += `<div class="lesson-section"><div class="lesson-section-head"><span class="lesson-section-title">${sec.theme}</span>${sec.tag ? `<span class="lesson-section-tag">${sec.tag}</span>` : ''}</div>`;
+    if (sec.blurb) html += `<div class="lesson-section-blurb">${sec.blurb}</div>`;
+    for (const it of sec.items) {
+      html += `<a class="lesson-card" href="${it.url}" target="_blank" rel="noopener">`
+        + `<div class="lesson-card-top"><span class="lesson-code">${it.code}</span><span class="lesson-title kr">${it.title}</span><span class="lesson-arrow">↗</span></div>`
+        + `<div class="lesson-why">${it.why}</div></a>`;
+    }
+    html += '</div>';
+  }
+  body.innerHTML = html;
+  body.dataset.rendered = '1';
+}
+
+// ── Passage modal ──────────────────────────────────────────────────────────
+function openPassageModal(passage = null) {
+  S.editingId = passage ? passage.id : null;
+  document.getElementById('modal-heading').textContent = passage ? 'Edit Passage' : 'New Passage';
+  document.getElementById('modal-title').value = passage?.title ?? '';
+  document.getElementById('modal-level').value = passage?.level ?? '';
+  document.getElementById('modal-content').value = passage?.content ?? '';
+  document.getElementById('modal-overlay').classList.add('open');
+  setTimeout(() => document.getElementById('modal-title').focus(), 40);
+}
+
+function closePassageModal() { document.getElementById('modal-overlay').classList.remove('open'); }
+
+async function savePassageModal() {
+  const title = document.getElementById('modal-title').value.trim();
+  const level = document.getElementById('modal-level').value;
+  const content = document.getElementById('modal-content').value.trim();
+  if (!title || !content) { alert('Title and text are required.'); return; }
+  const btn = document.getElementById('btn-modal-save');
+  btn.disabled = true; btn.textContent = 'Saving…';
+  try {
+    if (S.editingId) {
+      await api.put(`/api/passages/${S.editingId}`, { title, content, level });
+      await loadPassages();
+      await selectPassage(S.editingId);
+    } else {
+      const res = await api.post('/api/passages', { title, content, level });
+      await loadPassages();
+      await selectPassage(res.id);
+    }
+    closePassageModal();
+  } catch (err) {
+    alert('Save failed: ' + err.message);
+  } finally {
+    btn.disabled = false; btn.textContent = 'Save Passage';
+  }
+}
+
+document.getElementById('btn-new-passage').addEventListener('click', () => openPassageModal());
+document.getElementById('btn-modal-cancel').addEventListener('click', closePassageModal);
+document.getElementById('btn-modal-save').addEventListener('click', savePassageModal);
+document.getElementById('modal-overlay').addEventListener('click', (e) => { if (e.target.id === 'modal-overlay') closePassageModal(); });
+
+document.getElementById('btn-edit-passage').addEventListener('click', () => {
+  if (S.currentPassage) openPassageModal(S.currentPassage);
+});
+
+document.getElementById('btn-delete-passage').addEventListener('click', async () => {
+  if (!S.currentPassage) return;
+  if (!confirm(`Delete "${S.currentPassage.title}"?`)) return;
+  await api.del(`/api/passages/${S.currentId}`);
+  S.currentId = null; S.currentPassage = null; S.activeToken = null;
+  const title = document.getElementById('reader-title');
+  title.textContent = 'Select a passage';
+  title.style.color = 'var(--text-muted)'; title.style.fontWeight = '400'; title.style.fontSize = '15px';
+  document.getElementById('btn-edit-passage').style.display = 'none';
+  document.getElementById('btn-delete-passage').style.display = 'none';
+  document.getElementById('passage-content').style.display = 'none';
+  document.getElementById('empty-state').style.display = '';
+  document.getElementById('def-placeholder').style.display = 'block';
+  document.getElementById('def-result').style.display = 'none';
+  await loadPassages();
+});
+
+// ── Generate modal ─────────────────────────────────────────────────────────
+function openGenModal() {
+  document.getElementById('gen-overlay').classList.add('open');
+  document.getElementById('gen-preview-wrap').style.display = 'none';
+  document.getElementById('gen-cancel-before').style.display = 'flex';
+  document.getElementById('gen-status').textContent = '';
+  document.getElementById('gen-topic').value = '';
+  document.getElementById('gen-grammar').value = '';
+  document.getElementById('gen-register').value = 'polite';
+  document.getElementById('gen-use-vocab').checked = true;
+  document.getElementById('gen-refine').checked = false;
+  document.getElementById('gen-preview').value = '';
+  document.getElementById('gen-coverage').style.display = 'none';
+  document.getElementById('gen-title').value = '';
+}
+
+function closeGenModal() { document.getElementById('gen-overlay').classList.remove('open'); }
+
+async function runGenerate() {
+  const level = document.getElementById('gen-level').value;
+  const topic = document.getElementById('gen-topic').value.trim();
+  const grammar = document.getElementById('gen-grammar').value.trim();
+  const register = document.getElementById('gen-register').value;
+  const useVocab = document.getElementById('gen-use-vocab').checked;
+  const refine = document.getElementById('gen-refine').checked;
+
+  const btn = document.getElementById('btn-gen-go');
+  const regenBtn = document.getElementById('btn-gen-regen');
+  const status = document.getElementById('gen-status');
+  const preview = document.getElementById('gen-preview');
+
+  btn.disabled = true; regenBtn.disabled = true;
+  status.textContent = 'Generating…';
+  preview.value = '';
+  document.getElementById('gen-coverage').style.display = 'none';
+  document.getElementById('gen-preview-wrap').style.display = 'flex';
+  document.getElementById('gen-cancel-before').style.display = 'none';
+
+  try {
+    const resp = await fetch('/api/generate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ level, topic, grammar_focus: grammar, register, use_vocab: useVocab, refine }),
+    });
+    if (!resp.ok) {
+      const err = await resp.json().catch(() => ({ detail: resp.statusText }));
+      throw new Error(err.detail || resp.statusText);
+    }
+
+    const reader = resp.body.getReader();
+    const decoder = new TextDecoder();
+    let buf = '';
+    while (true) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      buf += decoder.decode(value, { stream: true });
+      const lines = buf.split('\n');
+      buf = lines.pop();
+      for (const line of lines) {
+        if (!line.startsWith('data: ')) continue;
+        const data = JSON.parse(line.slice(6));
+        if (data.error) throw new Error(data.error);
+        if (data.status === 'retry') {
+          status.textContent = `Coverage ${data.coverage}% — retrying (${data.attempt}/3)…`;
+          preview.value = '';
+        } else if (data.status === 'refining') {
+          status.textContent = 'Refining for naturalness…';
+          preview.value = '';
+        } else if (data.chunk) {
+          preview.value += data.chunk;
+        }
+      }
+    }
+
+    status.textContent = '';
+
+    // Show vocab coverage for the generated passage
+    if (preview.value.trim()) {
+      try {
+        const cov = await api.post('/api/passage-coverage', { text: preview.value });
+        const covEl = document.getElementById('gen-coverage');
+        if (cov.error || cov.coverage === null) {
+          // Kiwi analysis failed — don't show a misleading number
+        } else {
+          const pct = Math.round(cov.coverage * 100);
+          const color = pct >= 90 ? 'var(--accent)' : pct >= 80 ? '#c9922a' : '#f85149';
+          let html = `<span style="color:${color}; font-weight:600">${pct}% known vocab</span>`;
+          if (cov.unknown_words.length) {
+            html += `<span style="color:var(--text-muted)"> &nbsp;·&nbsp; ${cov.unknown_words.length} new: `;
+            html += cov.unknown_words.map(w =>
+              `<span style="background:var(--word-new);color:var(--word-new-text);padding:1px 6px;border-radius:3px;font-size:11px;white-space:nowrap">${w}</span>`
+            ).join(' ');
+            html += `</span>`;
+          }
+          covEl.innerHTML = html;
+          covEl.style.display = 'block';
+        }
+      } catch (_) {}
+    }
+
+    if (!document.getElementById('gen-title').value) {
+      const topicLabel = topic || (level === 'beginner' ? '초급' : level === 'intermediate' ? '중급' : '고급');
+      document.getElementById('gen-title').value = topicLabel + ' 지문';
+      document.getElementById('gen-title').select();
+      document.getElementById('gen-title').focus();
+    }
+  } catch (err) {
+    status.textContent = '⚠ ' + err.message;
+    if (!preview.value) {
+      document.getElementById('gen-preview-wrap').style.display = 'none';
+      document.getElementById('gen-cancel-before').style.display = 'flex';
+    }
+  } finally {
+    btn.disabled = false; regenBtn.disabled = false;
+  }
+}
+
+async function saveGeneratedPassage() {
+  const title = document.getElementById('gen-title').value.trim();
+  const content = document.getElementById('gen-preview').value.trim();
+  const level = document.getElementById('gen-level').value;
+  if (!title || !content) { alert('Add a title before saving.'); return; }
+  const btn = document.getElementById('btn-gen-save');
+  btn.disabled = true; btn.textContent = 'Saving…';
+  try {
+    const res = await api.post('/api/passages', { title, content, level });
+    await loadPassages();
+    await selectPassage(res.id);
+    closeGenModal();
+  } catch (err) {
+    alert('Save failed: ' + err.message);
+  } finally {
+    btn.disabled = false; btn.textContent = 'Save Passage';
+  }
+}
+
+document.getElementById('btn-generate-passage').addEventListener('click', openGenModal);
+document.getElementById('btn-gen-go').addEventListener('click', runGenerate);
+document.getElementById('btn-gen-regen').addEventListener('click', runGenerate);
+document.getElementById('btn-gen-cancel').addEventListener('click', closeGenModal);
+document.getElementById('btn-gen-cancel2').addEventListener('click', closeGenModal);
+document.getElementById('btn-gen-save').addEventListener('click', saveGeneratedPassage);
+document.getElementById('gen-overlay').addEventListener('click', (e) => { if (e.target.id === 'gen-overlay') closeGenModal(); });
+
+// Allow Enter in grammar/topic fields to trigger generation
+['gen-topic', 'gen-grammar'].forEach(id => {
+  document.getElementById(id).addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') runGenerate();
+  });
+});
+
+// ── Definition re-lookup ───────────────────────────────────────────────────
+// Re-lookup (↺ / Enter) forces a fresh definition, bypassing the cache — this is
+// how you fix a wrong or incomplete stored definition (e.g. a missed homonym).
+document.getElementById('def-lookup-btn').addEventListener('click', () => {
+  const word = document.getElementById('def-lookup-input').value.trim();
+  if (word) lookupWord(word, '', true);
+});
+document.getElementById('def-lookup-input').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    const word = e.target.value.trim();
+    if (word) lookupWord(word, '', true);
+  }
+});
+
+// ── Def panel tab switching ────────────────────────────────────────────────
+function switchDefTab(tab) {
+  document.querySelectorAll('.def-tab').forEach(b => b.classList.toggle('active', b.dataset.defTab === tab));
+  document.getElementById('def-content').classList.toggle('active', tab === 'word');
+  document.getElementById('grammar-content').classList.toggle('active', tab === 'grammar');
+  if (tab === 'grammar') setTimeout(() => document.getElementById('grammar-input').focus(), 40);
+}
+
+document.querySelectorAll('.def-tab').forEach(btn =>
+  btn.addEventListener('click', () => switchDefTab(btn.dataset.defTab))
+);
+
+// ── Grammar lookup ────────────────────────────────────────────────────────
+async function lookupGrammar(pattern) {
+  if (!pattern) return;
+  const loading = document.getElementById('grammar-loading');
+  const result = document.getElementById('grammar-result');
+  document.getElementById('grammar-placeholder').style.display = 'none';
+  loading.style.display = 'flex';
+  result.style.display = 'none';
+  try {
+    const data = await api.post('/api/grammar', { pattern });
+    result.innerHTML = '';
+
+    const patEl = document.createElement('div');
+    patEl.className = 'gr-pattern';
+    patEl.textContent = data.pattern || pattern;
+    result.appendChild(patEl);
+
+    if (data.meaning) {
+      const m = document.createElement('div');
+      m.className = 'gr-meaning';
+      m.textContent = data.meaning;
+      result.appendChild(m);
+    }
+
+    if (data.formation) {
+      const f = document.createElement('div');
+      f.className = 'gr-formation';
+      f.textContent = data.formation;
+      result.appendChild(f);
+    }
+
+    if (data.examples?.length) {
+      const exWrap = document.createElement('div');
+      exWrap.className = 'gr-examples';
+      for (const ex of data.examples) {
+        const exEl = document.createElement('div');
+        exEl.innerHTML = `<div class="gr-ex-ko">${esc(ex.korean)}</div><div class="gr-ex-en">${esc(ex.english)}</div>`;
+        exWrap.appendChild(exEl);
+      }
+      result.appendChild(exWrap);
+    }
+
+    if (data.japanese) {
+      const jaEl = document.createElement('div');
+      jaEl.className = 'gr-japanese';
+      jaEl.innerHTML = `<div class="def-section-label">Japanese equivalent</div><div style="font-size:13px;font-family:'Noto Sans KR',sans-serif">${esc(data.japanese)}</div>`;
+      result.appendChild(jaEl);
+    }
+
+    if (data.notes) {
+      const n = document.createElement('div');
+      n.className = 'gr-notes';
+      n.textContent = data.notes;
+      result.appendChild(n);
+    }
+
+    result.style.display = 'block';
+  } catch (err) {
+    result.innerHTML = `<div style="color:var(--danger);font-size:13px">${esc(err.message)}</div>`;
+    result.style.display = 'block';
+  } finally {
+    loading.style.display = 'none';
+  }
+}
+
+document.getElementById('grammar-btn').addEventListener('click', () => {
+  const p = document.getElementById('grammar-input').value.trim();
+  if (p) lookupGrammar(p);
+});
+document.getElementById('grammar-input').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    const p = e.target.value.trim();
+    if (p) lookupGrammar(p);
+  }
+});
+
+// ── Import Text ────────────────────────────────────────────────────────────
+document.getElementById('btn-import-passage').addEventListener('click', () => {
+  document.getElementById('import-text').value = '';
+  document.getElementById('import-title').value = '';
+  document.getElementById('import-overlay').classList.add('open');
+  setTimeout(() => document.getElementById('import-text').focus(), 40);
+});
+
+document.getElementById('btn-import-cancel').addEventListener('click', () => {
+  document.getElementById('import-overlay').classList.remove('open');
+});
+
+document.getElementById('import-overlay').addEventListener('click', (e) => {
+  if (e.target.id === 'import-overlay') document.getElementById('import-overlay').classList.remove('open');
+});
+
+document.getElementById('btn-import-save').addEventListener('click', async () => {
+  const content = document.getElementById('import-text').value.trim();
+  const titleInput = document.getElementById('import-title').value.trim();
+  if (!content) { alert('Paste some Korean text first.'); return; }
+  const title = titleInput || content.slice(0, 30) + (content.length > 30 ? '…' : '');
+  const btn = document.getElementById('btn-import-save');
+  btn.disabled = true; btn.textContent = 'Saving…';
+  try {
+    const res = await api.post('/api/passages', { title, content, level: '' });
+    await loadPassages();
+    await selectPassage(res.id);
+    document.getElementById('import-overlay').classList.remove('open');
+    switchTab('reader');
+  } catch (err) {
+    alert('Import failed: ' + err.message);
+  } finally {
+    btn.disabled = false; btn.textContent = 'Import';
+  }
+});
+
+// ── Flashcard Review ───────────────────────────────────────────────────────
+const RS = { queue: [], index: 0, total: 0 };
+
+async function startReviewSession() {
+  document.getElementById('review-card').style.display = 'none';
+  document.getElementById('review-progress-bar').style.display = 'none';
+  document.getElementById('review-done').style.display = 'none';
+  document.getElementById('review-empty-msg').style.display = 'none';
+
+  try {
+    RS.queue = await api.get('/api/review/queue');
+  } catch (_) { RS.queue = []; }
+
+  if (!RS.queue.length) {
+    document.getElementById('review-empty-msg').style.display = 'block';
+    return;
+  }
+
+  RS.index = 0;
+  RS.total = RS.queue.length;
+  document.getElementById('review-progress-bar').style.display = 'flex';
+  document.getElementById('review-card').style.display = 'flex';
+  showReviewCard();
+}
+
+function showReviewCard() {
+  if (RS.index >= RS.queue.length) {
+    document.getElementById('review-card').style.display = 'none';
+    document.getElementById('review-progress-bar').style.display = 'none';
+    const done = document.getElementById('review-done');
+    document.getElementById('review-done-msg').textContent =
+      `Session complete — reviewed ${RS.total} word${RS.total !== 1 ? 's' : ''}.`;
+    done.style.display = 'flex';
+    return;
+  }
+
+  const card = RS.queue[RS.index];
+  const remaining = RS.queue.length - RS.index;
+  document.getElementById('review-count-label').textContent = `${RS.total - remaining + 1} / ${RS.total}`;
+  document.getElementById('review-progress-fill').style.width =
+    `${((RS.total - remaining) / RS.total) * 100}%`;
+
+  document.getElementById('review-korean').textContent = card.word;
+  const reading = card.reading && card.reading !== card.word ? `[${card.reading}]` : '';
+  document.getElementById('review-reading-front').textContent = reading;
+
+  // Reset to front face
+  document.getElementById('review-front').style.display = 'flex';
+  document.getElementById('review-back').style.display = 'none';
+}
+
+document.getElementById('btn-reveal').addEventListener('click', () => {
+  const card = RS.queue[RS.index];
+  document.getElementById('review-front').style.display = 'none';
+  document.getElementById('review-back').style.display = 'flex';
+
+  document.getElementById('review-definition-back').textContent = card.definition;
+  const pos = card.part_of_speech ? `${card.part_of_speech}${card.grade ? ' · ' + card.grade : ''}` : '';
+  document.getElementById('review-pos-back').textContent = pos;
+
+  const jaEl = document.getElementById('review-ja-back');
+  if (card.japanese) {
+    try {
+      const ja = typeof card.japanese === 'string' ? JSON.parse(card.japanese) : card.japanese;
+      if (ja && ja.word) {
+        jaEl.textContent = `JP: ${ja.word}${ja.reading ? ' (' + ja.reading + ')' : ''}`;
+        jaEl.style.display = '';
+      } else { jaEl.style.display = 'none'; }
+    } catch { jaEl.style.display = 'none'; }
+  } else { jaEl.style.display = 'none'; }
+
+  const exEl = document.getElementById('review-example-back');
+  if (card.example_sentence) {
+    exEl.textContent = card.example_sentence;
+    exEl.style.display = '';
+  } else { exEl.style.display = 'none'; }
+});
+
+async function submitReviewAnswer(correct) {
+  const card = RS.queue[RS.index];
+  RS.index++;
+  showReviewCard();
+  try {
+    await api.post('/api/review/answer', { word_id: card.id, correct });
+  } catch (_) {}
+}
+
+document.getElementById('btn-correct').addEventListener('click', () => submitReviewAnswer(true));
+document.getElementById('btn-wrong').addEventListener('click', () => submitReviewAnswer(false));
+document.getElementById('btn-review-again').addEventListener('click', () => startReviewSession());
+
+// ── Vocab list import ────────────────────────────────────────────────────────
+document.getElementById('btn-vocab-import').addEventListener('click', () => {
+  document.getElementById('vocab-import-text').value = '';
+  document.getElementById('vocab-import-result').style.display = 'none';
+  document.getElementById('vocab-import-overlay').classList.add('open');
+  setTimeout(() => document.getElementById('vocab-import-text').focus(), 40);
+});
+
+document.getElementById('btn-vocab-import-cancel').addEventListener('click', () => {
+  document.getElementById('vocab-import-overlay').classList.remove('open');
+});
+
+document.getElementById('vocab-import-overlay').addEventListener('click', (e) => {
+  if (e.target.id === 'vocab-import-overlay') e.target.classList.remove('open');
+});
+
+document.getElementById('btn-vocab-import-go').addEventListener('click', async () => {
+  const text = document.getElementById('vocab-import-text').value.trim();
+  if (!text) return;
+  const btn = document.getElementById('btn-vocab-import-go');
+  const resultEl = document.getElementById('vocab-import-result');
+  btn.disabled = true;
+  btn.textContent = 'Importing…';
+  resultEl.style.display = 'block';
+  resultEl.textContent = 'Parsing — AI lookups can take a little while…';
+  try {
+    const r = await api.post('/api/vocab/import', {
+      text,
+      lookup_missing: document.getElementById('vocab-import-lookup').checked,
+    });
+    const parts = [];
+    if (r.pairs_added.length)   parts.push(`<b style="color:var(--success)">${r.pairs_added.length} imported</b>: ${r.pairs_added.map(esc).join(', ')}`);
+    if (r.pairs_updated.length) parts.push(`${r.pairs_updated.length} already in bank — re-tagged studying: ${r.pairs_updated.map(esc).join(', ')}`);
+    if (r.defined.length)       parts.push(`<b style="color:var(--success)">${r.defined.length} looked up & added</b>: ${r.defined.map(esc).join(', ')}`);
+    if (r.skipped.length)       parts.push(`${r.skipped.length} skipped (no definition found): ${r.skipped.map(esc).join(', ')}`);
+    resultEl.innerHTML = parts.length ? parts.join('<br>') : 'Nothing to import — no Korean words found in the text.';
+    await loadVocab();
+  } catch (err) {
+    resultEl.textContent = 'Error: ' + err.message;
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Import → Studying';
+  }
+});
+
+// ── Init ───────────────────────────────────────────────────────────────────
+(async () => {
+  const vocab = await api.get('/api/vocab');
+  S.vocabData = vocab;
+  S.vocabWords = new Set(vocab.map(v => v.word));
+  S.studyingWords = new Set(vocab.filter(v => v.status === 'studying').map(v => v.word));
+  updateVocabBadge();
+  await loadPassages();
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"E:\\\\onedrive\\\\Languages\\\\Korean\\\\Graded-Reader-Project\")",
+      "Bash(New-Item -ItemType Directory -Force \"E:\\\\onedrive\\\\Languages\\\\Korean\\\\Graded-Reader-Project\\\\static\")",
+      "Bash(Out-Null)",
+      "Bash(New-Item -ItemType Directory -Force \"E:\\\\onedrive\\\\Languages\\\\Korean\\\\Graded-Reader-Project\\\\data\")",
+      "Bash(Write-Output \"Done\")",
+      "Bash(where ollama *)",
+      "PowerShell(Get-WmiObject *)",
+      "PowerShell(python .claude\\\\tmp_inspect.py)",
+      "PowerShell(python .claude\\\\tmp_dump.py)",
+      "PowerShell($env:PYTHONIOENCODING='utf-8'; python .claude\\\\tmp_dump.py)",
+      "PowerShell($env:PYTHONIOENCODING='utf-8'; python .claude\\\\tmp_dump2.py)",
+      "Skill(update-config)",
+      "Write",
+      "Edit",
+      "PowerShell(python -c \"import json; json.load\\(open\\(r'.claude\\\\settings.local.json'\\)\\); print\\('valid JSON'\\)\")",
+      "WebFetch(domain:www.howtostudykorean.com)",
+      "WebSearch",
+      "PowerShell($env:PYTHONIOENCODING='utf-8'; python .claude\\\\test_studying.py)",
+      "PowerShell($env:PYTHONIOENCODING='utf-8'; python .claude\\\\fix_clean_word.py; python -m py_compile app.py; if \\($?\\) { 'compile ok' })",
+      "Bash(python -m py_compile app.py)",
+      "Bash(ls -1 *.md)",
+      "Bash(ls -1 .claude/*.py)",
+      "Bash(python -c \"import pydantic, pydantic_core; print\\('pydantic', pydantic.VERSION, '| pydantic_core', pydantic_core.__version__\\)\")",
+      "Bash(pip install *)",
+      "Bash(python -c \"import fastapi; print\\('fastapi imports OK'\\)\")",
+      "Bash(python -c \"import sys; [print\\(p\\) for p in sys.path]\")",
+      "Read(//c/Python314/Lib/site-packages/**)",
+      "Bash(pip show *)",
+      "Bash(python -m site --user-site)",
+      "Bash(echo \"user-site: $\\(python -m site --user-site\\)\")",
+      "Bash(python -m pip install --user --force-reinstall --no-cache-dir --no-deps \"pydantic-core==2.46.4\")",
+      "Bash(python -c \"import pydantic, pydantic_core; print\\('pydantic', pydantic.VERSION, '| pydantic_core', pydantic_core.__version__, 'from', pydantic_core.__file__\\)\")",
+      "Bash(PYTHONIOENCODING=utf-8 python .claude/test_import.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python -c ' *)",
+      "Bash(rm -f .claude/test_vocab.db .claude/fix_clean_word.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python -c \"import sqlite3; print\\('vocab rows:', sqlite3.connect\\('data/vocab.db'\\).execute\\('SELECT COUNT\\(*\\) FROM vocab'\\).fetchone\\(\\)[0]\\)\")"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<channel>
+	<title>한국어 기초사전 개발 지원(Open API) - 사전 검색</title>
+	<link>https://krdict.korean.go.kr</link>
+	<description>한국어 기초사전 개발 지원(Open API) - 사전 검색 결과</description>
+	<lastBuildDate>20261003205536</lastBuildDate>
+	<total>1</total>
+	<start>1</start>
+	<num>20</num>
+	
+	
+	
+	<item>
+		
+		
+		<target_code>64683</target_code>
+		<word>말씀드리다</word>
+		<sup_no>0</sup_no>
+		
+		
+		<pronunciation>말ː씀드리다</pronunciation>
+		
+		
+		<pos>동사</pos>
+		<link>https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=64683</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>자신의 생각이나 느낌을 윗사람에게 말하다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[say; tell; relate]]></trans_word>
+				<trans_dfn><![CDATA[To tell one's thoughts or feelings to a superior.]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				
+				일본어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[もうしあげる【申し上げる・申上げる】。もうしのべる【申し述べる・申述べる】。ごんじょうする【言上する】。もうしおく【申し置く】]]></trans_word>
+				<trans_dfn><![CDATA[自分の考えや感情を目上の人に言う。]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+
+		
+
+		
+
+		
+
+		
+	</item>
+	
+	
+	
+</channel>
+
+

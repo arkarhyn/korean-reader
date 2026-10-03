@@ -1,0 +1,40 @@
+"""Known-word coverage over content tokens (SPEC 7).
+
+Running-token count: particles, endings, copula and auxiliaries are grammar
+tokens and excluded. Retrievability and Hanja weighting arrive with the DB.
+"""
+
+from collections.abc import Collection, Iterable
+
+from .analyzer import Token, analyze
+
+
+def coverage(
+    tokens: Iterable[Token] | str,
+    known: Collection[tuple[str, str]],
+    proper_nouns: Collection[str] = (),
+) -> float:
+    """Fraction of content tokens that are known. No content tokens -> 1.0."""
+    if isinstance(tokens, str):
+        tokens = analyze(tokens)
+    total = hits = 0
+    for t in tokens:
+        if t.kind != "content":
+            continue
+        total += 1
+        if t.key in known or (t.pos == "NNP" and t.lemma in proper_nouns):
+            hits += 1
+    return hits / total if total else 1.0
+
+
+def unknown_lemmas(tokens: Iterable[Token] | str,
+                   known: Collection[tuple[str, str]],
+                   proper_nouns: Collection[str] = ()) -> dict[tuple[str, str], int]:
+    """Unknown (lemma, pos) -> occurrence count, most frequent first."""
+    if isinstance(tokens, str):
+        tokens = analyze(tokens)
+    counts: dict[tuple[str, str], int] = {}
+    for t in tokens:
+        if t.kind == "content" and t.key not in known and not (t.pos == "NNP" and t.lemma in proper_nouns):
+            counts[t.key] = counts.get(t.key, 0) + 1
+    return dict(sorted(counts.items(), key=lambda kv: -kv[1]))

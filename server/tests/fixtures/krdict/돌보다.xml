@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<channel>
+	<title>한국어 기초사전 개발 지원(Open API) - 사전 검색</title>
+	<link>https://krdict.korean.go.kr</link>
+	<description>한국어 기초사전 개발 지원(Open API) - 사전 검색 결과</description>
+	<lastBuildDate>20261003205535</lastBuildDate>
+	<total>1</total>
+	<start>1</start>
+	<num>20</num>
+	
+	
+	
+	<item>
+		
+		
+		<target_code>61310</target_code>
+		<word>돌보다</word>
+		<sup_no>0</sup_no>
+		
+		
+		<pronunciation>돌ː보다</pronunciation>
+		
+		
+		<word_grade>중급</word_grade>
+		
+		<pos>동사</pos>
+		<link>https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=61310</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>어떤 대상에 관심을 가지고 보호하며 살피다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[take care of]]></trans_word>
+				<trans_dfn><![CDATA[To protect and take care of someone or something with interest.]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				
+				일본어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[めんどうをみる【面倒を見る】。せわをする【世話をする】]]></trans_word>
+				<trans_dfn><![CDATA[ある対象に関心を持って保護する。]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		<sense>
+			<sense_order>2</sense_order>
+			<definition>어떤 일에 관심을 가지고 관리하다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[handle; deal with]]></trans_word>
+				<trans_dfn><![CDATA[To manage something with interest.]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				
+				일본어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[めんどうをみる【面倒を見る】。せわをする【世話をする】。かえりみる【顧みる】]]></trans_word>
+				<trans_dfn><![CDATA[何かに関心を持って管理する。]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+
+		
+
+		
+
+		
+
+		
+	</item>
+	
+	
+	
+</channel>
+
+

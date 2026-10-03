@@ -31,12 +31,16 @@ Reference as needed: `docs/SPEC.md`, `docs/DATA_MODEL.md`,
 - `web/`: React + TypeScript + Vite, vite-plugin-pwa, Tailwind,
   Dexie (IndexedDB) for offline client store
 - `content/`: generated episode JSON (input to the ingest pipeline)
-- `legacy/korean_graded_readers.jsx`: original artifact, design reference only
+- `legacy/Graded-Reader-Project/`: previous app (FastAPI + Kiwi + Gemini),
+  design reference only. Its `.env` and `data/vocab.db` are gitignored.
 
 ## Commands (fill in as they exist)
-- server dev: `TBD`
-- web dev: `TBD`
-- tests: `TBD`
+- server setup: `cd server; uv sync` (Python 3.12 pinned via `.python-version`)
+- server dev: `cd server; uv run uvicorn app.main:app --reload`
+- web dev: `TBD` (Stage 3)
+- tests: `cd server; uv run pytest` (live krdict test runs only if `KRDICT_API_KEY` is set)
+- export legacy vocab: `cd server; uv run python scripts/export_legacy_vocab.py`
+- record krdict fixtures: `cd server; uv run python scripts/record_krdict_fixtures.py [words...]`
 - coverage check: `TBD` (Stage 5)
 
 ## Conventions

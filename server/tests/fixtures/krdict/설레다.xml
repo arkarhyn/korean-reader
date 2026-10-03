@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<channel>
+	<title>한국어 기초사전 개발 지원(Open API) - 사전 검색</title>
+	<link>https://krdict.korean.go.kr</link>
+	<description>한국어 기초사전 개발 지원(Open API) - 사전 검색 결과</description>
+	<lastBuildDate>20261003205535</lastBuildDate>
+	<total>1</total>
+	<start>1</start>
+	<num>20</num>
+	
+	
+	
+	<item>
+		
+		
+		<target_code>62645</target_code>
+		<word>설레다</word>
+		<sup_no>0</sup_no>
+		
+		
+		<pronunciation>설레다</pronunciation>
+		
+		
+		<word_grade>중급</word_grade>
+		
+		<pos>동사</pos>
+		<link>https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=62645</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>마음이 차분하지 않고 들떠서 두근거리다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[flutter]]></trans_word>
+				<trans_dfn><![CDATA[For one's heart not to be calm but to flutter because one is excited.]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				
+				일본어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[ときめく。そわつく。どきどきする]]></trans_word>
+				<trans_dfn><![CDATA[心が落ち着かず浮ついてどきどきする。]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+
+		
+
+		
+
+		
+
+		
+	</item>
+	
+	
+	
+</channel>
+
+

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<channel>
+	<title>한국어 기초사전 개발 지원(Open API) - 사전 검색</title>
+	<link>https://krdict.korean.go.kr</link>
+	<description>한국어 기초사전 개발 지원(Open API) - 사전 검색 결과</description>
+	<lastBuildDate>20261003205535</lastBuildDate>
+	<total>1</total>
+	<start>1</start>
+	<num>20</num>
+	
+	
+	
+	<item>
+		
+		
+		<target_code>23394</target_code>
+		<word>공부하다</word>
+		<sup_no>0</sup_no>
+		
+		<origin>工夫하다</origin>
+		
+		
+		<pronunciation>공부하다</pronunciation>
+		
+		
+		<word_grade>초급</word_grade>
+		
+		<pos>동사</pos>
+		<link>https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=23394</link>
+		
+		
+		<sense>
+			<sense_order>1</sense_order>
+			<definition>학문이나 기술을 배워서 지식을 얻다.</definition>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				영어
+				
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[study]]></trans_word>
+				<trans_dfn><![CDATA[To gain knowledge by learning studies or techniques.]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<translation>
+				<trans_lang>
+				
+				
+				
+				
+				
+				
+				
+				일본어
+				
+				
+				
+				
+				
+				</trans_lang>
+				<trans_word><![CDATA[べんきょうする【勉強する】。べんがくする【勉学する】。がくしゅうする【学習する】]]></trans_word>
+				<trans_dfn><![CDATA[学問や技術を習って知識を得る。]]></trans_dfn>
+			</translation>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</sense>
+		
+		
+		
+
+		
+
+		
+
+		
+
+		
+	</item>
+	
+	
+	
+</channel>
+
+

@@ -1,0 +1,59 @@
+{
+  "id": "legacy-001",
+  "series": "legacy",
+  "title_ko": "강아지를 키우고 싶어요",
+  "title_en": "I Want to Raise a Puppy",
+  "register_tags": ["haeyo", "banmal"],
+  "target_grammar": null,
+  "status": "draft",
+  "source": "legacy:passage/20",
+  "paragraphs": [
+    {
+      "ko": "저는 어릴 때부터 강아지를 정말 키우고 싶었어요. 하지만 부모님은 항상 안 된다고 하셨어요. 강아지를 키우면 책임이 많이 생기거든요. 매일 산책도 시켜야 하고, 밥도 챙겨 줘야 해요.",
+      "en": "Ever since I was little, I've really wanted to raise a puppy. But my parents always said no. Raising a puppy comes with a lot of responsibility, you see. You have to take it for walks every day and make sure it gets fed."
+    },
+    {
+      "ko": "지난주에 저는 부모님께 다시 말씀드렸어요. \"제가 다 돌볼게요. 강아지를 키우면 제가 매일 산책시킬게요.\" 아빠는 잠깐 생각하시더니 이렇게 말씀하셨어요. \"네가 책임을 질 수 있으면 키워도 돼. 하지만 중간에 포기하면 안 돼.\"",
+      "en": "Last week I brought it up with my parents again. \"I'll take care of everything. If we get a puppy, I'll walk it every day.\" Dad thought for a moment and then said, \"If you can take responsibility, you can have one. But you can't give up halfway.\""
+    },
+    {
+      "ko": "저는 너무 기뻐서 소리를 질렀어요. 드디어 허락을 받았거든요! 엄마가 웃으면서 말했어요. \"강아지를 키우려면 준비를 잘 해야 해. 필요한 것들을 먼저 사야 하니까 주말에 같이 사러 가자.\"",
+      "en": "I was so happy I shouted. I'd finally gotten permission! Mom smiled and said, \"If you're going to raise a puppy, you need to prepare properly. We have to buy the things it needs first, so let's go shopping together this weekend.\""
+    },
+    {
+      "ko": "주말이 되면 우리는 애견용품 가게에 갈 거예요. 저는 벌써부터 설레요. 강아지가 우리 집에 오면 이름을 뭐라고 지을지 계속 생각하고 있어요. 만약에 갈색 강아지면 '초코'라고 부르고 싶어요.",
+      "en": "When the weekend comes, we're going to a pet supply store. I'm already excited. I keep thinking about what to name the puppy when it comes to our house. If it's a brown puppy, I want to call it 'Choco.'"
+    },
+    {
+      "ko": "강아지를 키우는 것은 쉽지 않을 거예요. 아플 때는 병원에도 데려가야 하고, 말을 안 들으면 훈련도 시켜야 해요. 그래도 저는 자신 있어요. 제가 사랑을 많이 주면 강아지도 저를 좋아할 거예요.",
+      "en": "Raising a puppy won't be easy. When it's sick I'll have to take it to the vet, and if it doesn't listen I'll have to train it. Even so, I'm confident. If I give it lots of love, the puppy will like me too."
+    },
+    {
+      "ko": "빨리 주말이 왔으면 좋겠어요. 새로운 가족이 생기면 우리 집이 더 행복해질 것 같아요. 강아지가 건강하게만 자라면 저는 정말 행복할 거예요.",
+      "en": "I wish the weekend would hurry up and come. I think our home will be happier with a new member of the family. As long as the puppy grows up healthy, I'll be really happy."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "부모님은 왜 처음에 안 된다고 하셨어요?",
+      "prompt_en": "Why did the parents say no at first?",
+      "options": ["강아지가 너무 비싸서", "책임이 많이 생겨서", "집이 너무 작아서", "아빠가 강아지를 싫어해서"],
+      "answer_idx": 1
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "주말에 가족은 어디에 갈 거예요?",
+      "prompt_en": "Where will the family go on the weekend?",
+      "options": ["병원", "공원", "애견용품 가게"],
+      "answer_idx": 2
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "갈색 강아지면 이름을 뭐라고 부르고 싶어요?",
+      "prompt_en": "What does the narrator want to name a brown puppy?",
+      "options": ["초코", "보리", "콩이"],
+      "answer_idx": 0
+    }
+  ]
+}

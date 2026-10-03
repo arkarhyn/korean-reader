@@ -6,19 +6,21 @@ Mark the current stage with `<- CURRENT`.
 ## Stage 1 -- Spec and data model (claude.ai Project)  DONE
 SPEC.md, DATA_MODEL.md, DECISIONS.md, ROADMAP.md, CLAUDE.md written.
 
-## Stage 2 -- Repo scaffold + analyzer pipeline  <- CURRENT
+## Stage 2 -- Repo scaffold + analyzer pipeline  DONE
 - Scaffold `server/`, `web/`, `content/`, `legacy/`, `docs/`.
 - Python env; install kiwipiepy; `analyze(text) -> tokens` returning
   (surface span, lemma, pos) for content words and grammar morphemes.
 - krdict lookup client with local cache (API key in `.env`, gitignored).
 - Port the 2 legacy readers (토요일 아침, 호랑이와 곶감) into episode JSON.
+  (Done with legacy passages #20 강아지를 키우고 싶어요 / #21 시험 날 아침
+  instead; see DECISIONS 23.)
 - Load `content/seed/flagged_vocab.json` (lexemes -> learning; particles ->
   grammar codes).
 **Accept:** golden tests: every content token in both legacy readers maps to
 the correct (lemma, pos); 했어요 / 했어요. resolve to 하다; coverage function
 returns a number for each reader. `pytest` green.
 
-## Stage 3 -- Server API + DB + reader UI with tap logging
+## Stage 3 -- Server API + DB + reader UI with tap logging  <- CURRENT
 - SQLite schema per DATA_MODEL; Alembic migrations.
 - Endpoints: episodes list/get, events batch POST (idempotent), sync pull.
 - Web: port legacy design (parchment palette, Nanum Myeongjo / Gowun Batang),

@@ -63,6 +63,36 @@ Do not reverse an entry without asking Austin.
 22. **Secrets never committed:** krdict key in `.env`; TLS keys and any CA
     material live outside the repo, referenced by path.
 
+## 2026-10-03 (Stage 2, Claude Code)
+
+23. **Legacy readers = Graded-Reader-Project passages #20 (강아지를 키우고
+    싶어요) and #21 (시험 날 아침)** as `legacy-001` / `legacy-002`.
+    Rejected: 토요일 아침 / 호랑이와 곶감 (not in the legacy project); porting
+    all 10 passages (#7-#19 contain ungrammatical LLM output). Reason: cleanest
+    text; all 12 flagged_vocab words come from these two.
+24. **New episode series value `legacy`.** Rejected: reuse `primer`.
+    Reason: keeps ported content distinguishable from generated content.
+25. **Token classification:** VX (auxiliaries), VCP (copula), XSN, J*, E*
+    and short negation 안/못 before a predicate are grammar tokens. VCN
+    (아니다), NNB (것, 수, 때) and MM are content. Rejected: legacy's merged
+    lexemes like "안 되다" / "-지 않다". Reason: lexemes stay pure (lemma, pos).
+26. **Analyzer lemma rules:** compound nouns merge (애견용품), 님 attaches
+    (부모님), XPN attaches (대학교), noun/XR + 하 -> derived VV/VA, noun + 드리
+    -> -드리다 VV, and 있다 is always VA. Rejected: trusting raw Kiwi output.
+    Reason: Kiwi over-splits and tags 있다 inconsistently, which would create
+    duplicate lexemes.
+27. **Coverage counts running content tokens (not unique types).**
+    Rejected: legacy's type-based ratio. Reason: SPEC 7 and reading
+    research measure running words.
+28. **Legacy vocab exported to `content/seed/legacy_vocab.json`, not imported
+    yet.** Legacy LLM glosses dropped; krdict fills glosses on import.
+    Rejected: import now. Reason: no DB until Stage 3; placement (Stage 4)
+    may override states.
+29. **`web/` scaffold deferred to Stage 3.** Rejected: installing Node in
+    Stage 2. Reason: Node not installed and no UI work this stage.
+30. **krdict glosses picked by POS match, then easiest grade, then lowest
+    sup_no.** Hanja comes from `origin` (CJK characters only).
+
 ## OPEN
 
 - **O1 HTTPS for the PWA.** iOS requires a secure context for service
