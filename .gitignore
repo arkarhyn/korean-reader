@@ -1,0 +1,30 @@
+# secrets -- never commit
+.env
+*.pem
+*.key
+*.crt
+*.p12
+certs/
+
+# data
+*.db
+*.db-journal
+*.sqlite
+data/
+content/ingest/
+
+# python
+__pycache__/
+.venv/
+*.pyc
+.pytest_cache/
+
+# node
+node_modules/
+dist/
+.vite/
+
+# os / editor
+.DS_Store
+Thumbs.db
+*.swp

@@ -1,0 +1,10 @@
+{
+  "_note": "Flagged from earlier reader sessions. Import at state=learning, source=manual. Particles route to grammar, not lexemes.",
+  "lexemes": [
+    "놓치다", "들어가다", "맞다", "경치", "생기다", "챙기다", "돌보다",
+    "자라다", "데려가다", "지르다", "설레다", "말씀드리다"
+  ],
+  "grammar": [
+    "한테서", "에게서"
+  ]
+}
