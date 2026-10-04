@@ -6,7 +6,7 @@ from pydantic import AwareDatetime, BaseModel, ConfigDict, Field
 
 EventType = Literal[
     "episode_open", "word_tap", "episode_complete", "question_answer", "mine_word",
-    "flag_sentence", "placement_answer", "grammar_drill_answer", "set_state",
+    "flag_sentence", "placement_answer", "grammar_drill_answer", "set_state", "word_untap",
 ]
 
 

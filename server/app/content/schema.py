@@ -46,6 +46,7 @@ class Episode(BaseModel):
     target_grammar: str | None = None
     status: Literal["draft", "published", "retired"] = "draft"
     source: str | None = None
+    summary: str | None = None  # one line for continuity (generation context)
     paragraphs: list[Paragraph] = Field(min_length=1)
     questions: list[Question] = []
 

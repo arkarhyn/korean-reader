@@ -1,4 +1,4 @@
-"""Reader API under /api. Events are stored as-is; state is derived from the log only by explicit jobs (placement fit; DECISIONS 8)."""
+"""Reader API under /api. Events are stored as-is; state is derived from the log by explicit jobs (placement fit; DECISIONS 8), except manual `set_state` overrides, applied on receipt (DECISIONS 54)."""
 
 from typing import Any
 
@@ -9,6 +9,8 @@ from sqlalchemy.dialects.sqlite import insert
 from sqlalchemy.orm import Session, selectinload
 
 from ..db import get_session
+from ..events import apply_events
+from ..generation import build_context
 from ..db.models import Episode, Event, Lexeme, LexemeState, utcnow
 from ..placement import items as placement_items
 from ..placement import service as placement
@@ -62,6 +64,7 @@ def post_events(batch: EventBatch, session: Session = Depends(get_session)):
         stmt = insert(Event).values(id=ev_id, ts=ev.ts, device=ev.device, type=ev.type,
                                     payload=ev.payload, received_at=now).on_conflict_do_nothing()
         (accepted if session.execute(stmt).rowcount else duplicate).append(ev_id)
+    apply_events(session, session.scalars(select(Event).where(Event.id.in_(accepted))))
     session.commit()
     return EventBatchResult(accepted=accepted, duplicate=duplicate)
 
@@ -81,6 +84,12 @@ def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get
         lexeme_states=[LexemeStateOut.model_validate(s, from_attributes=True) for s in session.scalars(states)],
     )
 
+
+
+@router.get("/export/generation-context")
+def generation_context(session: Session = Depends(get_session)) -> dict[str, Any]:
+    """Input for a /generate-batch session (SPEC 5)."""
+    return build_context(session)
 
 
 @router.get("/placement", response_model=PlacementOut)

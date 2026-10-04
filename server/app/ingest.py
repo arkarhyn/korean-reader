@@ -11,7 +11,7 @@ from dataclasses import dataclass, field
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from .analyzer import analyze, grammar_codes
+from .analyzer import analyze, grammar_codes, proper_nouns
 from .content.schema import Episode as EpisodeDoc
 from .coverage import coverage
 from .db.models import Episode, EpisodeParagraph, GrammarPoint, GrammarState, Lexeme, LexemeState, Question, utcnow
@@ -19,6 +19,9 @@ from .krdict.client import KrdictEntry
 from .seed import load_flagged_vocab, load_grammar_points
 
 Lookup = Callable[[str, str], KrdictEntry | None]
+
+# "Due" until FSRS exists (Stage 6): lexemes the generator should weave back in.
+DUE_STATES = ("learning", "seen")
 
 # Seed rows for the codes the analyzer emits today; SYLLABUS_MAP fills the rest (Stage 8).
 GRAMMAR_LABELS: dict[str, str] = {
@@ -76,6 +79,19 @@ def known_keys(session: Session) -> set[tuple[str, str]]:
     return {(r.lemma, r.pos) for r in rows}
 
 
+def episode_lexeme_sets(session: Session, lexeme_ids: set[int]) -> tuple[list[int], list[int]]:
+    """(new, review) lexeme ids in an episode: review = due state, new = no history (story names excluded)."""
+    if not lexeme_ids:
+        return [], []
+    rows = dict(session.execute(select(LexemeState.lexeme_id, LexemeState.state)
+                                .where(LexemeState.lexeme_id.in_(lexeme_ids))).all())
+    names = set(session.scalars(select(Lexeme.id).where(Lexeme.id.in_(lexeme_ids), Lexeme.pos == "NNP",
+                                                       Lexeme.lemma.in_(proper_nouns()))))
+    new = sorted(i for i in lexeme_ids if rows.get(i, "new") == "new" and i not in names)
+    review = sorted(i for i in lexeme_ids if rows.get(i) in DUE_STATES)
+    return new, review
+
+
 def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, publish: bool = False) -> IngestReport:
     """Insert or replace one episode. Caller commits."""
     ep = session.get(Episode, doc.id)
@@ -87,6 +103,7 @@ def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, pub
     ep.register_tags = list(doc.register_tags)
     ep.target_grammar = doc.target_grammar
     ep.source = doc.source
+    ep.summary = doc.summary
     if publish:
         ep.status = "published"  # re-ingest without --publish keeps the current status
     ep.paragraphs.clear()
@@ -116,8 +133,10 @@ def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, pub
         ep.questions.append(Question(idx=idx, kind=q.kind, prompt_ko=q.prompt_ko, prompt_en=q.prompt_en,
                                      options=list(q.options), answer_idx=q.answer_idx, target_ref=q.target_ref))
 
-    report.coverage = coverage(all_tokens, known_keys(session))
+    report.coverage = coverage(all_tokens, known_keys(session), proper_nouns())
     ep.coverage = report.coverage
+    ep.new_lexemes, ep.review_lexemes = episode_lexeme_sets(
+        session, {t["lex"] for p in ep.paragraphs for t in p.tokens if "lex" in t})
     ep.updated_at = utcnow()
     session.flush()
     return report
@@ -139,6 +158,7 @@ def seed(session: Session, lookup: Lookup | None) -> None:
             session.add(gp)
         gp.label_ko, gp.htsk_lesson = p.label_ko, p.htsk_lesson
         gp.ja_parallel, gp.ja_diff_note = p.ja_parallel, p.ja_diff_note
+        gp.kiwi_pattern = p.kiwi_pattern
     session.flush()
 
     lexemes, grammar = load_flagged_vocab()

@@ -57,6 +57,7 @@ class SeedGrammarPoint:
     label_ko: str
     ja_parallel: str | None
     ja_diff_note: str | None
+    kiwi_pattern: list | None = None
 
 
 def load_grammar_points(path: Path = GRAMMAR_POINTS) -> list[SeedGrammarPoint]:

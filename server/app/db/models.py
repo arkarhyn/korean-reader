@@ -123,6 +123,7 @@ class Episode(Base):
     coverage: Mapped[float | None] = mapped_column(Float)
     status: Mapped[str] = mapped_column(String, index=True)  # draft / published / retired
     source: Mapped[str | None]
+    summary: Mapped[str | None] = mapped_column(Text)  # one-line continuity note for the generator
     created_at: Mapped[datetime] = mapped_column(default=utcnow)
     updated_at: Mapped[datetime] = mapped_column(default=utcnow, index=True)
 

@@ -1,0 +1,7 @@
+{
+  "_note": "Story-bible proper nouns (docs/STORY_BIBLE.md). Registered as Kiwi user words (NNP) so names don't split (서윤아 -> 서윤 + 아), and counted as known for coverage (SPEC 7). Add new canon names here.",
+  "names": [
+    "이선", "서윤", "강서윤", "서현", "강서현", "준수", "강준수",
+    "정호", "강정호", "미숙", "박미숙", "마이클"
+  ]
+}

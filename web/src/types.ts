@@ -49,7 +49,8 @@ export type EventType =
   | "flag_sentence"
   | "placement_answer"
   | "grammar_drill_answer"
-  | "set_state";
+  | "set_state"
+  | "word_untap";
 
 export type Device = "laptop" | "iphone";
 

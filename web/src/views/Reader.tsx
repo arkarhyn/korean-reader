@@ -7,6 +7,7 @@ import { db } from "../db";
 import { segment, sentenceAt } from "../segments";
 import { syncer } from "../sync";
 import type { Episode, Paragraph, Question } from "../types";
+import { markKnown, undoKnown, untap } from "../wordActions";
 
 type Active = { para: number; start: number; end: number; lex: number; surface: string; anchor: DOMRect };
 
@@ -35,7 +36,13 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
   const tappedRef = useRef<Set<number>>(new Set()); // read at finish; state can lag a burst of taps
   const [flagged, setFlagged] = useState<Set<string>>(new Set());
   const [shown, setShown] = useState<Set<number>>(new Set());
+  const markedRef = useRef<Map<number, string>>(new Map()); // lexeme -> state before "알아요" (this visit)
+  const [marked, setMarked] = useState<Map<number, string>>(new Map());
   const opened = useRef(false);
+  const activeState = useLiveQuery(
+    async () => (active ? ((await db.lexemeStates.get(active.lex))?.state ?? "new") : undefined),
+    [active?.lex],
+  );
 
   useEffect(() => {
     if (opened.current) return; // StrictMode re-runs effects; log once per visit
@@ -73,6 +80,34 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
       end: s.end,
       text: s.text,
     });
+  }
+
+  const log = syncer.logEvent;
+
+  async function untapActive() {
+    if (!active) return;
+    await untap(log, tappedRef.current, episode.id, active);
+    setTapped(new Set(tappedRef.current));
+  }
+
+  async function mistap() {
+    await untapActive();
+    setActive(null);
+  }
+
+  async function toggleKnown() {
+    if (!active) return;
+    const lex = active.lex;
+    const prev = markedRef.current.get(lex);
+    if (prev === undefined) {
+      await untapActive(); // knowing it means the tap wasn't a lookup
+      markedRef.current.set(lex, await markKnown(db, log, lex, episode.id));
+      setActive(null);
+    } else {
+      await undoKnown(db, log, lex, prev, episode.id);
+      markedRef.current.delete(lex);
+    }
+    setMarked(new Map(markedRef.current));
   }
 
   function answer(q: Question, choice: number, ms: number) {
@@ -164,6 +199,10 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
           flagged={activeFlagged}
           onFlag={flag}
           onClose={close}
+          tapped={tapped.has(active.lex)}
+          onMistap={() => void mistap()}
+          known={placement ? undefined : { state: activeState, marked: marked.has(active.lex) }}
+          onToggleKnown={() => void toggleKnown()}
         />
       )}
     </div>

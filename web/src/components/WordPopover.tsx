@@ -24,11 +24,18 @@ type Props = {
   flagged: boolean;
   onFlag: () => void;
   onClose: () => void;
+  /** This word was tapped during this visit (so it can be un-tapped as a mistap). */
+  tapped: boolean;
+  onMistap: () => void;
+  /** Omitted in placement mode, where taps mean "don't know". */
+  known?: { state: string | undefined; marked: boolean };
+  onToggleKnown: () => void;
 };
 
 const isPhone = () => window.matchMedia("(max-width: 639px)").matches;
 
-export default function WordPopover({ lexeme, surface, anchor, flagged, onFlag, onClose }: Props) {
+export default function WordPopover(props: Props) {
+  const { lexeme, surface, anchor, flagged, onFlag, onClose, tapped, onMistap, known, onToggleKnown } = props;
   const ref = useRef<HTMLDivElement>(null);
   const [pos, setPos] = useState<{ top: number; left: number } | null>(null);
   const phone = isPhone();
@@ -106,12 +113,31 @@ export default function WordPopover({ lexeme, surface, anchor, flagged, onFlag, 
         )}
       </dl>
 
-      <div className="mt-4 flex justify-end">
+      <div className="mt-4 flex flex-wrap items-center gap-2">
+        {known && (known.marked || known.state !== "known") && (
+          <button
+            type="button"
+            onClick={onToggleKnown}
+            aria-pressed={known.marked}
+            className="min-h-11 rounded-full border border-rule bg-seal-wash px-4 text-sm font-bold active:opacity-80"
+          >
+            {known.marked ? "✓ 알아요 · 취소" : "알아요"}
+          </button>
+        )}
+        {tapped && (
+          <button
+            type="button"
+            onClick={onMistap}
+            className="min-h-11 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep"
+          >
+            잘못 눌렀어요
+          </button>
+        )}
         <button
           type="button"
           onClick={onFlag}
           disabled={flagged}
-          className="min-h-11 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep disabled:text-good"
+          className="ml-auto min-h-11 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep disabled:text-good"
         >
           {flagged ? "✓ Sentence flagged" : "This sentence sounds off"}
         </button>
