@@ -1,4 +1,5 @@
 import { db as defaultDb, type ReaderDB } from "./db";
+import { saveData, type PlacementData } from "./placement";
 import type { Device, EventType, QueuedEvent, SyncPull } from "./types";
 
 // Events go to IndexedDB first, always; the server only ever sees them via sync().
@@ -56,11 +57,21 @@ export function createSync(db: ReaderDB, fetchFn: typeof fetch = (...a) => fetch
     });
   }
 
+  // Best effort: placement items + status cached for offline use; never fails a sync.
+  async function refreshPlacement() {
+    try {
+      await saveData(db, (await call("/api/placement")) as PlacementData);
+    } catch {
+      /* keep the cached copy */
+    }
+  }
+
   async function run(): Promise<boolean> {
     setStatus({ syncing: true });
     try {
       await push();
       await pull();
+      await refreshPlacement();
       const now = new Date().toISOString();
       await db.meta.put({ key: "lastSync", value: now });
       setStatus({ syncing: false, lastSync: now, error: null });
@@ -107,6 +118,7 @@ export function createSync(db: ReaderDB, fetchFn: typeof fetch = (...a) => fetch
   return {
     sync,
     logEvent,
+    request: call,
     start,
     getStatus: () => status,
     subscribe(l: () => void) {

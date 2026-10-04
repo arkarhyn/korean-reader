@@ -80,3 +80,22 @@ class SyncPull(BaseModel):
     server_time: datetime
     episodes: list[EpisodeFull]
     lexeme_states: list[LexemeStateOut]
+
+
+class GrammarItemOut(BaseModel):
+    id: str
+    ko: str
+    en: str
+
+
+class VocabItemOut(BaseModel):
+    id: str
+    word: str  # real/pseudo is not sent to the client
+
+
+class PlacementOut(BaseModel):
+    grammar: list[GrammarItemOut]
+    vocab: list[VocabItemOut]
+    calibration: list[str]  # episode ids (series "placement", delivered by sync pull)
+    completed_attempt: str | None  # latest attempt with a `done` event
+    fitted: bool  # placement states exist

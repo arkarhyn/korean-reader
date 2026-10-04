@@ -1,0 +1,17 @@
+{
+  "id": "placement-cal-3",
+  "series": "placement",
+  "title_ko": "다락방의 일기장",
+  "title_en": "The Diary in the Attic",
+  "register_tags": [],
+  "status": "published",
+  "source": "placement:calibration/3",
+  "paragraphs": [
+    {"ko": "할아버지의 장례식이 끝나고 한 달쯤 지났을 무렵, 어머니는 마침내 시골집을 정리하기로 결심하셨다. 오랫동안 비어 있던 집은 마당에 잡초가 무성했고, 툇마루의 나무는 군데군데 썩어 있었다.",
+     "en": "About a month after Grandfather's funeral, Mother finally decided to clear out the country house. Empty for years, it had a yard overgrown with weeds, and the wood of the narrow porch had rotted in places."},
+    {"ko": "우리는 다락방에서 낡은 궤짝 하나를 발견했다. 그 안에는 누렇게 바랜 편지 묶음과 할아버지가 젊은 시절에 쓰신 일기장이 들어 있었다. 어머니는 한참 동안 말없이 일기장을 넘기시다가 어느 대목에서 손을 멈추셨다.",
+     "en": "In the attic we found an old wooden chest. Inside were a bundle of yellowed letters and a diary Grandfather had kept as a young man. Mother turned the pages in silence for a long while, then stopped at one passage."},
+    {"ko": "거기에는 전쟁 통에 헤어진 형님을 끝내 찾지 못한 회한이 담담하게 적혀 있었다. 어머니는 그 사연을 처음 알았다며 눈시울을 붉히셨다. 나는 할아버지가 평생 가슴에 묻어 두셨을 그리움을 감히 헤아릴 수 없었다.",
+     "en": "There, written calmly, was his regret at never finding the older brother he'd been separated from in the war. Mother said she'd never known the story, and her eyes reddened. I couldn't begin to fathom the longing Grandfather must have kept buried in his heart all his life."}
+  ]
+}

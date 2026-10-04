@@ -28,3 +28,5 @@ TLS_KEY_PATH = os.getenv("TLS_KEY_PATH", "")
 WEB_DIST = REPO_ROOT / "web" / "dist"
 KRDICT_DUMP_DIR = DATA_DIR / "krdict_dump"
 KRDICT_LOCAL_PATH = Path(os.getenv("KRDICT_LOCAL_PATH", DATA_DIR / "krdict_local.sqlite"))
+
+NIKL_VOCAB_PATH = Path(os.getenv("NIKL_VOCAB_PATH", DATA_DIR / "nikl_vocab.txt"))

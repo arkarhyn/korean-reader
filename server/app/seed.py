@@ -8,6 +8,7 @@ from .analyzer import analyze, lemmatize
 from .config import CONTENT_DIR
 
 FLAGGED_VOCAB = CONTENT_DIR / "seed" / "flagged_vocab.json"
+GRAMMAR_POINTS = CONTENT_DIR / "seed" / "grammar_points.json"
 
 
 @dataclass(frozen=True)
@@ -47,3 +48,22 @@ def load_flagged_vocab(path: Path = FLAGGED_VOCAB) -> tuple[list[SeedLexeme], li
             raise ValueError(f"seed grammar {form!r} has no grammar code")
         grammar.append(SeedGrammar(form, toks[0].grammar_code))
     return lexemes, grammar
+
+
+@dataclass(frozen=True)
+class SeedGrammarPoint:
+    code: str
+    htsk_lesson: int | None
+    label_ko: str
+    ja_parallel: str | None
+    ja_diff_note: str | None
+
+
+def load_grammar_points(path: Path = GRAMMAR_POINTS) -> list[SeedGrammarPoint]:
+    """HTSK 1-28 grammar points (docs/SYLLABUS_MAP.md)."""
+    data = json.loads(path.read_text(encoding="utf-8"))
+    points = [SeedGrammarPoint(**p) for p in data["points"]]
+    codes = [p.code for p in points]
+    if len(codes) != len(set(codes)):
+        raise ValueError("duplicate grammar point code")
+    return points

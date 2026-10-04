@@ -15,7 +15,7 @@ subset in IndexedDB (Dexie) and an outbound event queue.
 | gloss_en | TEXT | |
 | gloss_ja | TEXT NULL | |
 | gloss_source | TEXT | `krdict` / `llm` / `manual` / `none` (no entry yet; retried on re-ingest) |
-| freq_rank | INTEGER NULL | from learner/frequency list |
+| freq_rank | INTEGER NULL | NIKL 학습용 어휘 목록 순위 (`scripts/import_nikl.py`) |
 | freq_band | TEXT NULL | A / B / C (NIKL learner list) or numeric band |
 | krdict_id | TEXT NULL | |
 | UNIQUE(lemma, pos) | | never key by surface form |
@@ -66,7 +66,7 @@ Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
 | column | type | notes |
 |---|---|---|
 | id | TEXT PK | e.g. `S01E004` or `side-folk-002` |
-| series | TEXT | `main` / `side-parent` / `side-folk` / `primer` |
+| series | TEXT | `main` / `side-parent` / `side-folk` / `primer` / `legacy` / `placement` (calibration passages, hidden from the library) |
 | title_ko, title_en | TEXT | |
 | register_tags | JSON | e.g. `["banmal","haeyo","hasipsio"]` |
 | target_grammar | TEXT FK NULL | |
@@ -122,6 +122,13 @@ Payloads written by the Stage 3 reader:
 lexeme_id}`, `question_answer {episode_id, question_id, choice_idx, correct, ms}`,
 `episode_complete {episode_id, tapped_lexeme_ids}`, `flag_sentence {episode_id,
 paragraph_idx, start, end, text}`.
+
+Placement (Stage 4) writes `placement_answer {attempt_id, section, ms, ...}`:
+`grammar {item_id, got_it}`, `vocab {item_id, yes}`, `calibration {episode_id,
+tapped_lexeme_ids, rating 1-5}` and `done {}`. Taps inside calibration passages
+also log normal `word_tap` events. `POST /api/placement/fit` derives lexeme and
+grammar states (source `placement`) from the latest attempt with a `done`
+event; within an attempt the last answer per item wins.
 
 Schema is managed by Alembic (`server/migrations/`).
 

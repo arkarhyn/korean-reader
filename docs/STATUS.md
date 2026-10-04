@@ -1,5 +1,52 @@
 # STATUS
 
+## 2026-10-03 -- Stage 4 (Claude Code)
+**Done (branch `stage-4`):**
+- Grammar points for HTSK 1-28 (`content/seed/grammar_points.json`, 54 codes)
+  seeded via `seed()`; SYLLABUS_MAP rows L1-28.
+- NIKL learner list: `scripts/fetch_nikl_vocab.py`, `app/nikl.py`,
+  `scripts/import_nikl.py`. Live DB has 5,712 ranked lexemes (~99% glossed).
+- Placement content: 104 grammar sentences, vocab test
+  (`scripts/build_placement.py`: 96 real + 24 pseudo), 3 calibration passages
+  (`content/placement/calibration/`, easy A -> A+B -> B/C + 23% off-list).
+- `app/placement/` (fit, items, service), `GET /api/placement`,
+  `POST /api/placement/fit`, `scripts/placement_report.py`.
+- Web `/placement`: grammar cards -> vocab cards -> calibration passages in the
+  reader (placement mode) with 1-5 rating -> fit summary. Resume and Undo; the
+  Library shows a start/continue card and later "Redo placement"; placement
+  passages hidden from the Library.
+- Tests: server 90 passed, web 14 passed, `tsc` clean, build OK.
+- Laptop run-through in Chrome against a DB copy: two full attempts, all 328
+  events landed once, fit summary rendered, Library coverage updated after
+  sync. Fixed during the run: the double-tap guard dropped fast taps, and finish
+  could read stale taps.
+- Deployed: calibration passages + grammar points in the live DB, service
+  restarted, `/api/placement` live on :8443, web/dist rebuilt.
+- Acceptance criterion changed to the 95% predictive interval (DECISIONS 50).
+
+**Closed 2026-10-04 (DECISIONS 53):** Austin ran placement on the iPhone.
+States written: 419 known, 79 seen; grammar 31 solid, 17 practicing, 6 new
+(G.DONGAN, G.EOJIDA, G.E_DAEHAE, G.IRREG_H, G.SEUREOPDA, G.WIHAE). Calibration
+missed on 2 of 3 passages, and time ran ~40 min of answering. Accepted: the
+frequency-rank guess is rough for Austin's drama/textbook vocabulary, and
+reading data will correct it.
+
+**Next:** Stage 5. First a claude.ai Project design session for
+STORY_BIBLE.md (O2: names, setting, cast, Season 1 arc). Then the Claude Code
+session: popover "알아요" + un-tap (DECISIONS 54), `GET
+/export/generation-context`, coverage CLI, `/generate-batch`.
+
+**Open issues:**
+- The live DB backup from before the NIKL import is at
+  `%TEMP%\kr_backup_stage4.db` (bash `$TEMP`).
+- Lexemes outside the NIKL list get one "rare" rank, including easy
+  compounds (일기장, 시골집). Could derive a rank from components or krdict grade.
+- Derived forms in the NIKL list that the analyzer splits (-성, -적, -화) never
+  match tokens; only their bases count.
+- 낡다 has no gloss (krdict lookup miss; new lexeme from cal-3).
+- Carried over: krdict API down (local dump in use); light theme not
+  eyeballed; iOS ko-KR voice untested; krdict key rotation.
+
 ## 2026-10-03 -- Stage 3 (Claude Code)
 **Done:**
 - SQLite schema (`server/app/db/models.py`) per DATA_MODEL + Alembic

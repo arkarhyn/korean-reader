@@ -10,7 +10,7 @@ from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
-Series = Literal["main", "side-parent", "side-folk", "primer", "legacy"]
+Series = Literal["main", "side-parent", "side-folk", "primer", "legacy", "placement"]
 Register = Literal["banmal", "haeyo", "hasipsio"]
 
 

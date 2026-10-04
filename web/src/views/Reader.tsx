@@ -24,10 +24,15 @@ export default function Reader() {
   return <EpisodeView key={episode.id} episode={episode} />;
 }
 
-function EpisodeView({ episode }: { episode: Episode }) {
+// Placement calibration (Stage 4): taps mean "don't know"; no English, no questions, and
+// finishing hands the tapped lexemes back instead of logging episode_complete.
+export type PlacementMode = { onDone: (tapped: number[]) => void };
+
+export function EpisodeView({ episode, placement }: { episode: Episode; placement?: PlacementMode }) {
   const navigate = useNavigate();
   const [active, setActive] = useState<Active | null>(null);
   const [tapped, setTapped] = useState<Set<number>>(new Set());
+  const tappedRef = useRef<Set<number>>(new Set()); // read at finish; state can lag a burst of taps
   const [flagged, setFlagged] = useState<Set<string>>(new Set());
   const [shown, setShown] = useState<Set<number>>(new Set());
   const opened = useRef(false);
@@ -45,7 +50,8 @@ function EpisodeView({ episode }: { episode: Episode }) {
           ? null
           : { para, start, end, lex, surface, anchor: el.getBoundingClientRect() },
       );
-      setTapped((s) => new Set(s).add(lex));
+      tappedRef.current.add(lex);
+      setTapped(new Set(tappedRef.current));
       void syncer.logEvent("word_tap", { episode_id: episode.id, paragraph_idx: para, start, end, lexeme_id: lex });
     },
     [episode.id],
@@ -80,7 +86,8 @@ function EpisodeView({ episode }: { episode: Episode }) {
   }
 
   async function finish() {
-    await syncer.logEvent("episode_complete", { episode_id: episode.id, tapped_lexeme_ids: [...tapped] });
+    if (placement) return placement.onDone([...tappedRef.current]);
+    await syncer.logEvent("episode_complete", { episode_id: episode.id, tapped_lexeme_ids: [...tappedRef.current] });
     await db.progress.put({ episode_id: episode.id, completed_at: new Date().toISOString() });
     void syncer.sync();
     navigate("/");
@@ -96,12 +103,17 @@ function EpisodeView({ episode }: { episode: Episode }) {
         <Link to="/" className="-ml-2 flex min-h-11 items-center px-2 text-sm text-ink-soft">
           ← Library
         </Link>
-        <span className="text-xs text-ink-soft">{episode.id}</span>
+        <span className="text-xs text-ink-soft">{placement ? "배치 · placement" : episode.id}</span>
       </nav>
 
       <header className="mt-6 mb-10 text-center">
         <h1 className="font-title text-[28px] leading-snug font-extrabold">{episode.title_ko}</h1>
         <p className="mt-1 text-sm text-ink-soft">{episode.title_en}</p>
+        {placement && (
+          <p className="mx-auto mt-5 max-w-sm rounded-lg bg-seal-wash px-4 py-3 text-sm leading-relaxed text-ink">
+            모르는 단어만 탭하세요. Tap only the words you don't know, then read on.
+          </p>
+        )}
       </header>
 
       <article className="space-y-7">
@@ -112,6 +124,7 @@ function EpisodeView({ episode }: { episode: Episode }) {
             active={active?.para === p.idx ? active.start : null}
             tapped={tapped}
             showEn={shown.has(p.idx)}
+            canShowEn={!placement}
             onToggleEn={() =>
               setShown((s) => {
                 const n = new Set(s);
@@ -124,7 +137,7 @@ function EpisodeView({ episode }: { episode: Episode }) {
         ))}
       </article>
 
-      {episode.questions.length > 0 && (
+      {!placement && episode.questions.length > 0 && (
         <section className="mt-14">
           <div className="rule-ornament mb-8 text-sm">
             <span>❦</span>
@@ -162,11 +175,12 @@ type ParaProps = {
   active: number | null;
   tapped: Set<number>;
   showEn: boolean;
+  canShowEn: boolean;
   onToggleEn: () => void;
   onTap: (para: number, start: number, end: number, lex: number, surface: string, el: HTMLElement) => void;
 };
 
-function ParagraphView({ p, active, tapped, showEn, onToggleEn, onTap }: ParaProps) {
+function ParagraphView({ p, active, tapped, showEn, canShowEn, onToggleEn, onTap }: ParaProps) {
   const segs = useMemo(() => segment(p.ko, p.tokens), [p.ko, p.tokens]);
   return (
     <div>
@@ -188,7 +202,7 @@ function ParagraphView({ p, active, tapped, showEn, onToggleEn, onTap }: ParaPro
           ),
         )}
       </p>
-      <div className="mt-1 flex justify-end">
+      {canShowEn && <div className="mt-1 flex justify-end">
         <button
           type="button"
           onClick={onToggleEn}
@@ -197,8 +211,8 @@ function ParagraphView({ p, active, tapped, showEn, onToggleEn, onTap }: ParaPro
         >
           {showEn ? "Hide English" : "English"}
         </button>
-      </div>
-      {showEn && <p className="mt-1 border-l-2 border-rule pl-3 text-[15px] leading-relaxed text-ink-soft">{p.en}</p>}
+      </div>}
+      {canShowEn && showEn && <p className="mt-1 border-l-2 border-rule pl-3 text-[15px] leading-relaxed text-ink-soft">{p.en}</p>}
     </div>
   );
 }

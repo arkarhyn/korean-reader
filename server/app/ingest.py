@@ -16,7 +16,7 @@ from .content.schema import Episode as EpisodeDoc
 from .coverage import coverage
 from .db.models import Episode, EpisodeParagraph, GrammarPoint, GrammarState, Lexeme, LexemeState, Question, utcnow
 from .krdict.client import KrdictEntry
-from .seed import load_flagged_vocab
+from .seed import load_flagged_vocab, load_grammar_points
 
 Lookup = Callable[[str, str], KrdictEntry | None]
 
@@ -124,10 +124,21 @@ def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, pub
 
 
 def seed(session: Session, lookup: Lookup | None) -> None:
-    """Grammar points for known codes + flagged vocab (DECISIONS 20). Idempotent; caller commits."""
+    """Grammar points (analyzer codes + SYLLABUS_MAP rows) + flagged vocab (DECISIONS 20).
+
+    Idempotent; grammar_points.json fields overwrite earlier values. Caller commits.
+    """
     for code, label in GRAMMAR_LABELS.items():
         if session.get(GrammarPoint, code) is None:
             session.add(GrammarPoint(code=code, label_ko=label))
+    session.flush()
+    for p in load_grammar_points():
+        gp = session.get(GrammarPoint, p.code)
+        if gp is None:
+            gp = GrammarPoint(code=p.code)
+            session.add(gp)
+        gp.label_ko, gp.htsk_lesson = p.label_ko, p.htsk_lesson
+        gp.ja_parallel, gp.ja_diff_note = p.ja_parallel, p.ja_diff_note
     session.flush()
 
     lexemes, grammar = load_flagged_vocab()

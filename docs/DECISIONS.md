@@ -160,6 +160,75 @@ Do not reverse an entry without asking Austin.
     design session first; krdict 초급/중급/고급 levels; corpus frequency
     lists; Austin-supplied passages.
 
+## 2026-10-03 (Stage 4, Claude Code)
+
+44. **HTSK 1-28 = 54 grammar points / 52 checks** (`content/seed/grammar_points.json`,
+    mirrored in SYLLABUS_MAP), approved by Austin with the Stage 4 plan.
+    Left out: 이래로/이내, 들, L15 compound verbs. Rejected: one check per
+    lesson. Reason: lessons bundle unrelated points (e.g. L12 has five particles).
+45. **NIKL list = official korean.go.kr .txt** (cp949 TSV, 5,965 rows),
+    downloaded to `server/data/` (gitignored, not redistributed). POS map
+    명->NNG, 동->VV, 형->VA, 부->MAG, 대->NP, 수->NR, 관->MM, 의->NNB, 감->IC,
+    고->NNP; 보 (auxiliaries) and 불 (contractions) skipped. 있다 -> VA. A noun/adverb
+    homograph also gets Kiwi's tag as a second key (결국, 안, 한참 appear as NNG
+    or MAG in running text). Derived forms the analyzer splits (가능성, 경제적) keep
+    their own key and never match tokens. Imported as 5,712 lexemes with
+    freq_rank/freq_band. Rejected: keying by lemmatize() alone (Kiwi misreads
+    bare forms: 가요 -> 가다).
+46. **Vocab test: 96 real words (16 x 6 rank quantiles, seed 20261003) + 24
+    Claude-written pseudowords**, validated as absent from NIKL and the local
+    krdict index. Only words that surface as themselves in text are sampled.
+47. **Placement model: P(known) = sigmoid(a + b(log rank - log 1000)),
+    penalised MAP on a grid** (prior N(0, 3^2)), with guessing correction
+    P(yes|real) = p + (1-p)fa (fa = Laplace-smoothed pseudoword yes rate) and
+    calibration taps as direct observations. Lexemes outside the list rank at
+    1.5 x the list's max rank. Rejected: per-band rates only (no smooth
+    rank edge); IRT with per-word difficulty (too few answers).
+48. **Known threshold 0.6, not 0.5.** In 60 simulated learners 0.5
+    under-counted unknown tokens by 3.6 pp (many words sit just above 0.5);
+    0.6 was within +1 pp.
+49. **States written by placement:** direct evidence first (calibration
+    untapped -> known, tapped -> `seen`; yes/no "yes" -> known if the
+    guessing-corrected posterior >= threshold), then the model for every ranked
+    lexeme; grammar 2/2 -> solid, 1/2 -> practicing, 0/2 -> new (Austin).
+    Rows with another source (the manual flagged vocab) are never touched; a
+    re-fit replays the latest attempt with a `done` event and resets dropped
+    placement rows to `new` (rows are never deleted, so sync can carry it).
+50. **Stage 4 acceptance changed (Austin): observed tap rate inside the
+    leave-one-out 95% predictive interval for each passage**, instead of
+    +/- 2 pp. Reason: with ~70 tokens per passage, a perfectly specified
+    simulated learner met +/- 2 pp only 21-36% of the time per passage
+    (65% pooled). The interval includes posterior uncertainty in (a, b);
+    simulated coverage is 93-95% per passage (80-88% for all three at once).
+51. **Placement API + flow:** `GET /api/placement` (items without the
+    real/pseudo flag), `POST /api/placement/fit` (fit + states + episode
+    coverage refresh, returns the summary). Calibration passages are episodes
+    with series `placement`, read in the normal reader in a placement mode
+    (no English, no questions). Progress lives in Dexie `meta`, with Undo.
+    Rejected: new placement tables. Reason: DECISIONS 8 (derive from the log).
+52. **`legacy_vocab.json` still not imported.** Its rows are lookups from the
+    legacy app (하다 looked up 17x), not evidence of knowledge; placement
+    supersedes it.
+
+53. **Stage 4 closed with its acceptance not met (Austin, 2026-10-04).**
+    Placement ran on the iPhone over one evening: states written (419 known,
+    79 seen; grammar 31 solid / 17 practicing / 6 new). Time: about 40 min
+    of answering (grammar median 15 s per card vs 6 s planned). Wall clock is
+    meaningless because it was spread across hours. Calibration: 2 of 3
+    passages outside the interval. Austin's vocabulary comes from a textbook
+    and drama/podcast exposure, not frequency order, so a rank model only
+    partly predicts it (taps AUC 0.78 for log rank, 0.72 for krdict grade).
+    The yes/no test ran far more conservative than reading (bare dictionary
+    forms like 같다 marked unknown). Accepted anyway: tested words are exact,
+    and untested-word guesses get corrected by reading (Stage 6). For any
+    redo, shrink to 1 grammar sentence per point and ~60 vocab words.
+    Rejected: a hit-rate parameter (no LOO gain), a passages-only fit (still
+    2 misses), krdict grade as a covariate (no better than rank).
+54. **Stage 5 adds a popover "알아요" (mark known, `set_state` -> manual
+    known) and an un-tap for mistaps.** Reason: Austin's vocabulary is
+    non-frequency-shaped, so the app will often treat known words as new;
+    one tap should fix that rather than waiting for Stage 6 promotion.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

@@ -1,4 +1,6 @@
-"""Reader API under /api. Events are stored as-is; no state is derived here (DECISIONS 8)."""
+"""Reader API under /api. Events are stored as-is; state is derived from the log only by explicit jobs (placement fit; DECISIONS 8)."""
+
+from typing import Any
 
 from fastapi import APIRouter, Depends, HTTPException
 from pydantic import AwareDatetime
@@ -8,8 +10,10 @@ from sqlalchemy.orm import Session, selectinload
 
 from ..db import get_session
 from ..db.models import Episode, Event, Lexeme, LexemeState, utcnow
-from .schemas import (EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, LexemeOut, LexemeStateOut,
-                      QuestionOut, SyncPull)
+from ..placement import items as placement_items
+from ..placement import service as placement
+from .schemas import (EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, GrammarItemOut, LexemeOut,
+                      LexemeStateOut, PlacementOut, QuestionOut, SyncPull, VocabItemOut)
 
 router = APIRouter(prefix="/api")
 
@@ -77,3 +81,26 @@ def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get
         lexeme_states=[LexemeStateOut.model_validate(s, from_attributes=True) for s in session.scalars(states)],
     )
 
+
+
+@router.get("/placement", response_model=PlacementOut)
+def get_placement(session: Session = Depends(get_session)):
+    att = placement.latest_attempt(session)
+    fitted = session.scalar(select(LexemeState.lexeme_id).where(LexemeState.source == "placement").limit(1))
+    return PlacementOut(
+        grammar=[GrammarItemOut(**{k: it[k] for k in ("id", "ko", "en")}) for it in placement_items.grammar_items()],
+        vocab=[VocabItemOut(id=it["id"], word=it["word"]) for it in placement_items.vocab_items()],
+        calibration=placement_items.calibration_ids(),
+        completed_attempt=att.attempt_id if att else None,
+        fitted=fitted is not None,
+    )
+
+
+@router.post("/placement/fit")
+def fit_placement(session: Session = Depends(get_session)) -> dict[str, Any]:
+    """Fit the latest finished placement attempt from the event log and write states."""
+    summary = placement.run(session)
+    if summary is None:
+        raise HTTPException(409, "no finished placement attempt has been synced")
+    session.commit()
+    return summary

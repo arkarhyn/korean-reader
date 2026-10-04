@@ -30,16 +30,17 @@ returns a number for each reader. `pytest` green.
 **Accept:** read an episode on iPhone over VPN, go offline, tap words,
 reconnect, events land once on server.
 
-## Stage 4 -- Placement  <- CURRENT
+## Stage 4 -- Placement  DONE (closed by Austin 2026-10-04; see DECISIONS 53)
 - Grammar check (HTSK 1-28 points), frequency-band yes/no with pseudowords,
   3-4 calibration passages.
 - Fit initial lexeme / grammar states.
 **Accept:** placement completes in <= 25 min on phone; produces states;
-a calibration passage re-scored with the fitted model lands within +/- 2%
-of observed tap rate.
+each calibration passage's observed tap rate falls inside the leave-one-out
+95% predictive interval (changed from +/- 2%, DECISIONS 50).
 
-## Stage 5 -- Generator loop (`/generate-batch` in Claude Code)
+## Stage 5 -- Generator loop (`/generate-batch` in Claude Code)  <- CURRENT
 - Design session first (Project): STORY_BIBLE.md.
+- Popover "알아요" (mark known) and un-tap for mistaps (DECISIONS 54).
 - `GET /export/generation-context`; coverage CLI; swap loop; second-pass
   review prompt; ingest script; "sounds off" flags surfaced.
 **Accept:** batch of 5 episodes all in 95-98% band, target grammar 4-6x each,

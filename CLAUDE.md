@@ -50,6 +50,10 @@ Reference as needed: `docs/SPEC.md`, `docs/DATA_MODEL.md`,
 - export legacy vocab: `cd server; uv run python scripts/export_legacy_vocab.py`
 - build local krdict dictionary (once, ~390 MB download): `cd server; uv run python scripts/build_krdict_local.py`
 - record krdict fixtures: `cd server; uv run python scripts/record_krdict_fixtures.py [words...]`
+- NIKL learner vocab (once): `cd server; uv run python scripts/fetch_nikl_vocab.py; uv run python scripts/import_nikl.py`
+- rebuild placement vocab test: `cd server; uv run python scripts/build_placement.py`
+- ingest calibration passages: `cd server; uv run python scripts/ingest_episodes.py --seed --publish ../content/placement/calibration/*.json`
+- placement report (dry run; `--apply` writes): `cd server; uv run python scripts/placement_report.py`
 - coverage check: `TBD` (Stage 5)
 
 ## Conventions
