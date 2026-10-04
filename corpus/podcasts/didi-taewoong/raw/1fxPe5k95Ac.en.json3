@@ -1,0 +1,5101 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "\u003cYomojomo of Korean Life with Didi and Jeong Tae-woong\u003e"
+    } ]
+  }, {
+    "tStartMs": 9820,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11350,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13550,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "\u003cYomojomo of Korean Life\u003e is a podcast where two people living in Korea"
+    } ]
+  }, {
+    "tStartMs": 16660,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "talk about the various aspects of Korean life."
+    } ]
+  }, {
+    "tStartMs": 20220,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "I came here to talk about the various aspects of May as well,"
+    } ]
+  }, {
+    "tStartMs": 24810,
+    "dDurationMs": 7310,
+    "segs": [ {
+      "utf8": "and before we get into the main conversation today, I thought it would be good to briefly talk about the theme from last time and then move on."
+    } ]
+  }, {
+    "tStartMs": 32120,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Last time the theme was friends, so there was no quiz,"
+    } ]
+  }, {
+    "tStartMs": 36960,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "and I asked everyone to share what they think a friend is."
+    } ]
+  }, {
+    "tStartMs": 42620,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "So there were some interesting comments, and I wanted to read a few of them,"
+    } ]
+  }, {
+    "tStartMs": 47890,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "and there's someone with the nickname @dinoswarleafs,"
+    } ]
+  }, {
+    "tStartMs": 53160,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "who said, \"My definition of a friend is someone who you can happily go with"
+    } ]
+  }, {
+    "tStartMs": 57630,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "when they ask you to go drink together.\""
+    } ]
+  }, {
+    "tStartMs": 61220,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "What do you think about that?"
+    } ]
+  }, {
+    "tStartMs": 63640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Hmm, I've never really thought about it before,"
+    } ]
+  }, {
+    "tStartMs": 66600,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "but when my friends ask me to go drink, I'm always happy to go."
+    } ]
+  }, {
+    "tStartMs": 69860,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "Right, if someone says \"let's grab a drink sometime\" and it feels a bit burdensome,"
+    } ]
+  }, {
+    "tStartMs": 74850,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "and you answer like \"Oh, someday... yeah! Let's do it sometime,\""
+    } ]
+  }, {
+    "tStartMs": 79760,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "then that person might not really be a friend."
+    } ]
+  }, {
+    "tStartMs": 85090,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "So I agree with that too,"
+    } ]
+  }, {
+    "tStartMs": 87140,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "and Moka said, \"A friend is someone you can tell your true feelings to.\""
+    } ]
+  }, {
+    "tStartMs": 94000,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Do you often share your true feelings with your friends? Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 97660,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "I always share my true feelings."
+    } ]
+  }, {
+    "tStartMs": 100610,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "As expected."
+    } ]
+  }, {
+    "tStartMs": 101660,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Yes, I don't hide anything."
+    } ]
+  }, {
+    "tStartMs": 103330,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "I don't hide things and I talk openly, speaking honestly,"
+    } ]
+  }, {
+    "tStartMs": 107560,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "and I think the idea is that a friend is someone you don't have to pretend in front of."
+    } ]
+  }, {
+    "tStartMs": 111650,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "And the comment I found most interesting was"
+    } ]
+  }, {
+    "tStartMs": 115210,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "something like this that appeared several times,"
+    } ]
+  }, {
+    "tStartMs": 119970,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Balcells also said it,"
+    } ]
+  }, {
+    "tStartMs": 122380,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "and it seems like @jesseyu... did too,"
+    } ]
+  }, {
+    "tStartMs": 126890,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "and they seemed surprised when we said \"we're not friends.\""
+    } ]
+  }, {
+    "tStartMs": 133210,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "We were just laughing and talking together like this for so long,"
+    } ]
+  }, {
+    "tStartMs": 137410,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "and they found it strange that we would say \"we're not friends, right?\""
+    } ]
+  }, {
+    "tStartMs": 142270,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "They asked, \"I'm curious about one thing—do Korean people brag about not having friends?"
+    } ]
+  }, {
+    "tStartMs": 147590,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "When you say to each other that you're not friends,"
+    } ]
+  }, {
+    "tStartMs": 150150,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "don't you think the other person might feel hurt?\" they said."
+    } ]
+  }, {
+    "tStartMs": 155720,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "They said, \"It seemed a bit strange to talk about it while laughing,\""
+    } ]
+  }, {
+    "tStartMs": 159630,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "so what do you think about this?"
+    } ]
+  }, {
+    "tStartMs": 163070,
+    "dDurationMs": 8550,
+    "segs": [ {
+      "utf8": "First of all, the point about Korean people talking about not having friends in a boastful way?"
+    } ]
+  }, {
+    "tStartMs": 171620,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "That seems like a really good point,"
+    } ]
+  }, {
+    "tStartMs": 176090,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "and it feels like material we missed a bit when we were talking about the episode."
+    } ]
+  }, {
+    "tStartMs": 183260,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "Because I think there's something like that in my experience too."
+    } ]
+  }, {
+    "tStartMs": 188270,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "I talk like that a lot too, saying \"I don't have friends,\""
+    } ]
+  }, {
+    "tStartMs": 192600,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "and a lot of people say it."
+    } ]
+  }, {
+    "tStartMs": 194020,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Yes, but in my case, there's a certain feeling behind it,"
+    } ]
+  }, {
+    "tStartMs": 199460,
+    "dDurationMs": 7960,
+    "segs": [ {
+      "utf8": "which is that I have so much to do, that I'm busy,"
+    } ]
+  }, {
+    "tStartMs": 207420,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "and also that since I don't have friends, you should be my friend,"
+    } ]
+  }, {
+    "tStartMs": 210820,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "like, am I a lonely person?"
+    } ]
+  }, {
+    "tStartMs": 214370,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Yes, it's like saying \"I'm ready.\""
+    } ]
+  }, {
+    "tStartMs": 219000,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "I see, that makes sense. I think both are true."
+    } ]
+  }, {
+    "tStartMs": 222370,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "I think both exist to some degree."
+    } ]
+  }, {
+    "tStartMs": 224260,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "When I say \"I don't have friends,\" I think it's kind of a boast?"
+    } ]
+  }, {
+    "tStartMs": 229480,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "When I was younger, if I didn't have friends, I felt embarrassed and ashamed,"
+    } ]
+  }, {
+    "tStartMs": 236500,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "like \"I wish I had more friends,\" but as I lived,"
+    } ]
+  }, {
+    "tStartMs": 240470,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "I started to wonder, do I really need friends? Do I need that many?"
+    } ]
+  }, {
+    "tStartMs": 246530,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "and from that point on, I naturally started saying things like \"I don't seem to have many friends,\""
+    } ]
+  }, {
+    "tStartMs": 251830,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "and in that statement, right, it's not that I don't spend time with friends often,"
+    } ]
+  }, {
+    "tStartMs": 257510,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "it's more like saying I have a lot to do."
+    } ]
+  }, {
+    "tStartMs": 261180,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "And there's one more thing that seems most important,"
+    } ]
+  }, {
+    "tStartMs": 266540,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "So Korean people's emotions, Korean people's hearts—should we say there's humility in them?"
+    } ]
+  }, {
+    "tStartMs": 273940,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "I don't just carelessly say that I have a lot, that I'm good at something"
+    } ]
+  }, {
+    "tStartMs": 279900,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Like being 'popular'"
+    } ]
+  }, {
+    "tStartMs": 281540,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Being popular, people are scared to talk about it like that"
+    } ]
+  }, {
+    "tStartMs": 286070,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Like, someone might think \"How much, really?\""
+    } ]
+  }, {
+    "tStartMs": 289280,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes, exactly"
+    } ]
+  }, {
+    "tStartMs": 290880,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So for example, in other places too, in other areas as well"
+    } ]
+  }, {
+    "tStartMs": 295160,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "If someone says \"I'm good at sports\"..."
+    } ]
+  }, {
+    "tStartMs": 298620,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "People who don't know them attack them"
+    } ]
+  }, {
+    "tStartMs": 300800,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Right? \"You're good at it?\" \"You're good at sports?\""
+    } ]
+  }, {
+    "tStartMs": 303640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "\"You can't do it though,\" people say things like that"
+    } ]
+  }, {
+    "tStartMs": 306240,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "So even if I'm actually good at something and I think I'm good at it"
+    } ]
+  }, {
+    "tStartMs": 311000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I say \"I'm not good at it\""
+    } ]
+  }, {
+    "tStartMs": 313500,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "Like that, \"Oh, I'm not popular\" \"I don't have friends\" things like that"
+    } ]
+  }, {
+    "tStartMs": 317830,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "It seems like there's some of that too, as an expression of humility"
+    } ]
+  }, {
+    "tStartMs": 321330,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Yes, yes, I forgot about that"
+    } ]
+  }, {
+    "tStartMs": 323150,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Oh right, right"
+    } ]
+  }, {
+    "tStartMs": 325540,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Yeah, there's loneliness too"
+    } ]
+  }, {
+    "tStartMs": 328530,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Actually, I've kind of brainwashed myself"
+    } ]
+  }, {
+    "tStartMs": 332650,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "\"Do I need to have friends? It's fine not to\""
+    } ]
+  }, {
+    "tStartMs": 335070,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "\"I shouldn't be embarrassed about this,\" so I don't have friends"
+    } ]
+  }, {
+    "tStartMs": 338330,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "That's kind of how I talk about it"
+    } ]
+  }, {
+    "tStartMs": 341600,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "Yes, and also the part where you laughed and said \"We're not friends\""
+    } ]
+  }, {
+    "tStartMs": 347460,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "I think that might be a language difference"
+    } ]
+  }, {
+    "tStartMs": 352930,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "You and I laugh and say to each other \"We're not friends\""
+    } ]
+  }, {
+    "tStartMs": 358320,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "But we don't say \"We're not close\""
+    } ]
+  }, {
+    "tStartMs": 360900,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Oh right, right"
+    } ]
+  }, {
+    "tStartMs": 363170,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "If you said to me while laughing \"We're not that close\""
+    } ]
+  }, {
+    "tStartMs": 367380,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "\"We're not at that level\""
+    } ]
+  }, {
+    "tStartMs": 369310,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "I think I'd feel a bit hurt"
+    } ]
+  }, {
+    "tStartMs": 371160,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "Right, right"
+    } ]
+  }, {
+    "tStartMs": 372730,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "But Korean people"
+    } ]
+  }, {
+    "tStartMs": 375420,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "Rather than thinking of 'friend' simply as someone close"
+    } ]
+  }, {
+    "tStartMs": 383580,
+    "dDurationMs": 8870,
+    "segs": [ {
+      "utf8": "Someone with no particular relationship or connection, just completely unrelated, just a real friend"
+    } ]
+  }, {
+    "tStartMs": 392450,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I think people usually use the word 'friend' mainly for that kind of relationship"
+    } ]
+  }, {
+    "tStartMs": 397450,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "That's what I felt when I read this comment"
+    } ]
+  }, {
+    "tStartMs": 400540,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "Right, the word 'friend' isn't used for just anyone, but really like you said..."
+    } ]
+  }, {
+    "tStartMs": 407580,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Yes, like friends you knew from when you were young, school friends, things like that"
+    } ]
+  }, {
+    "tStartMs": 412380,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Right, right, right"
+    } ]
+  }, {
+    "tStartMs": 413990,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "I think it's an expression that's mainly limited to those kinds of relationships"
+    } ]
+  }, {
+    "tStartMs": 417560,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "Right, yes... In English too, if you say 'We are not friends'"
+    } ]
+  }, {
+    "tStartMs": 422430,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "It sounds like 'we're not close,' and I think it feels like drawing a line"
+    } ]
+  }, {
+    "tStartMs": 427930,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "I think so, yes"
+    } ]
+  }, {
+    "tStartMs": 430060,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "So that's the mindset we were speaking from"
+    } ]
+  }, {
+    "tStartMs": 435710,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 436740,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Thank you for leaving so many comments"
+    } ]
+  }, {
+    "tStartMs": 439500,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "This week we have a quiz"
+    } ]
+  }, {
+    "tStartMs": 441370,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "I'd appreciate it if you'd listen all the way through and enjoy it"
+    } ]
+  }, {
+    "tStartMs": 445020,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "What topic are we going to talk about this week?"
+    } ]
+  }, {
+    "tStartMs": 448730,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "This week's topic is cooking"
+    } ]
+  }, {
+    "tStartMs": 451140,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "Cooking, and Teacher Tae-woong, you're living with your mom right now"
+    } ]
+  }, {
+    "tStartMs": 457560,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "I've been living alone for quite a while, though I go to my parents' place often"
+    } ]
+  }, {
+    "tStartMs": 463470,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "How long has it been? I think it's been about 6 years living alone?"
+    } ]
+  }, {
+    "tStartMs": 470030,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "That's a long time, come to think of it"
+    } ]
+  }, {
+    "tStartMs": 472770,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Yes, but how about you, Teacher Tae-woong? Do you cook a bit?"
+    } ]
+  }, {
+    "tStartMs": 476480,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "There's almost nothing for me to do, really"
+    } ]
+  }, {
+    "tStartMs": 478710,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 479980,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 480520,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "That's so nice"
+    } ]
+  }, {
+    "tStartMs": 481860,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "It really is"
+    } ]
+  }, {
+    "tStartMs": 485140,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "It's not common, so when do you do it?"
+    } ]
+  }, {
+    "tStartMs": 489010,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "That's cooking... in Korean there's the word '요리'"
+    } ]
+  }, {
+    "tStartMs": 494470,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and the word '조리', you know?"
+    } ]
+  }, {
+    "tStartMs": 496450,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Right, that's a good point."
+    } ]
+  }, {
+    "tStartMs": 498880,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "Yes, when you say 요리, it usually feels like you're handling the ingredients from the start yourself?"
+    } ]
+  }, {
+    "tStartMs": 505220,
+    "dDurationMs": 8380,
+    "segs": [ {
+      "utf8": "I cut and prepare all the ingredients that go into the food myself,"
+    } ]
+  }, {
+    "tStartMs": 513600,
+    "dDurationMs": 7900,
+    "segs": [ {
+      "utf8": "but 조리 is when things are already somewhat prepared and I just conveniently boil it"
+    } ]
+  }, {
+    "tStartMs": 521500,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "or just put it in the microwave and heat it up, that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 525580,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "For me, honestly, 요리 is something I rarely do."
+    } ]
+  }, {
+    "tStartMs": 531510,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "At most pasta? Sometimes even that?"
+    } ]
+  }, {
+    "tStartMs": 537030,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Right, right, pasta is good."
+    } ]
+  }, {
+    "tStartMs": 539610,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "조리 is... well, ramen?"
+    } ]
+  }, {
+    "tStartMs": 542750,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Ramen or fried eggs?"
+    } ]
+  }, {
+    "tStartMs": 545820,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "Fried eggs are also 조리... (- egg rice?) I'd say that counts."
+    } ]
+  }, {
+    "tStartMs": 550810,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "You said you eat egg rice a lot, didn't you?"
+    } ]
+  }, {
+    "tStartMs": 553310,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Oh, yes, I make egg rice a lot too."
+    } ]
+  }, {
+    "tStartMs": 555130,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "That one's ambiguous."
+    } ]
+  }, {
+    "tStartMs": 557310,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "It's between 요리 and 조리."
+    } ]
+  }, {
+    "tStartMs": 559150,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Yes, it's ambiguous, but it's so simple"
+    } ]
+  }, {
+    "tStartMs": 562050,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "Simple cooking?"
+    } ]
+  }, {
+    "tStartMs": 563620,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Even if you call it 조리, there's probably no big problem."
+    } ]
+  }, {
+    "tStartMs": 567100,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Simple cooking seems about right."
+    } ]
+  }, {
+    "tStartMs": 568580,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Ah, yes yes, I see."
+    } ]
+  }, {
+    "tStartMs": 571730,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "When I hear the word 요리 now, it feels really grand and fancy, you know?"
+    } ]
+  }, {
+    "tStartMs": 579450,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Like what a real chef would do."
+    } ]
+  }, {
+    "tStartMs": 582250,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "I thought I didn't cook often, but when I think about it,"
+    } ]
+  }, {
+    "tStartMs": 587260,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "these days I don't eat out that often, like once a week or so."
+    } ]
+  }, {
+    "tStartMs": 593090,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "I make something simple one way or another to eat, so how about that?"
+    } ]
+  }, {
+    "tStartMs": 598970,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Is what I eat 요리 or 조리? Let me tell you what I eat—"
+    } ]
+  }, {
+    "tStartMs": 602450,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "I haven't known the taste of natto for that long,"
+    } ]
+  }, {
+    "tStartMs": 608220,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "but I think I eat natto about 3-4 times a week."
+    } ]
+  }, {
+    "tStartMs": 613600,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "I stir the natto like this,"
+    } ]
+  }, {
+    "tStartMs": 615230,
+    "dDurationMs": 6740,
+    "segs": [ {
+      "utf8": "and mix it with raw egg, then just pour it over rice and eat it."
+    } ]
+  }, {
+    "tStartMs": 621970,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "And there's also simple miso soup, you know? Miso?"
+    } ]
+  }, {
+    "tStartMs": 627750,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "I just buy that and dissolve it in water like this and eat it Japanese home-style."
+    } ]
+  }, {
+    "tStartMs": 632860,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "And while watching Japanese anime?"
+    } ]
+  }, {
+    "tStartMs": 636770,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Uh... yeah?"
+    } ]
+  }, {
+    "tStartMs": 639480,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "I'm Korean though..."
+    } ]
+  }, {
+    "tStartMs": 642650,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "That's because!"
+    } ]
+  }, {
+    "tStartMs": 644830,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "I've eaten only Korean food for a really long time,"
+    } ]
+  }, {
+    "tStartMs": 649380,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "so now I want to try something different."
+    } ]
+  }, {
+    "tStartMs": 653760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I cook pasta often too,"
+    } ]
+  }, {
+    "tStartMs": 655840,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "When I make something myself,"
+    } ]
+  }, {
+    "tStartMs": 658340,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "I think I start wanting to try cooking from various different countries."
+    } ]
+  }, {
+    "tStartMs": 662270,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 664910,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Anyway, so eating natto and miso soup like that,"
+    } ]
+  }, {
+    "tStartMs": 668300,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "wouldn't that be 조리?"
+    } ]
+  }, {
+    "tStartMs": 672550,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Is it 조리?"
+    } ]
+  }, {
+    "tStartMs": 674570,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "Isn't it?"
+    } ]
+  }, {
+    "tStartMs": 675900,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Because you're not making the natto,"
+    } ]
+  }, {
+    "tStartMs": 679730,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Right, I'm not using any heat at all."
+    } ]
+  }, {
+    "tStartMs": 682570,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "That's a good point too."
+    } ]
+  }, {
+    "tStartMs": 684870,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "I'm eating it conveniently through 조리."
+    } ]
+  }, {
+    "tStartMs": 687140,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "But it's nice because it's easy."
+    } ]
+  }, {
+    "tStartMs": 689700,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "I think Korean food is really difficult and requires a lot of hands-on work."
+    } ]
+  }, {
+    "tStartMs": 696160,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Among cooking styles."
+    } ]
+  }, {
+    "tStartMs": 697930,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 698760,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 699710,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Yes, there's a lot of ingredient prep usually,"
+    } ]
+  }, {
+    "tStartMs": 703460,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "and it seems like it requires a lot of care."
+    } ]
+  }, {
+    "tStartMs": 706200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Right, when you live alone, things need to be simple anyway."
+    } ]
+  }, {
+    "tStartMs": 710440,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "The ingredients need to be simple too."
+    } ]
+  }, {
+    "tStartMs": 711540,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "And there shouldn't be leftovers, right?"
+    } ]
+  }, {
+    "tStartMs": 714930,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "Oh right, but actually you chose this topic, didn't you, Didi?"
+    } ]
+  }, {
+    "tStartMs": 719710,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 721090,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "There was a reason when you chose it, wasn't there?"
+    } ]
+  }, {
+    "tStartMs": 723860,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 725290,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Would you mind sharing that reason?"
+    } ]
+  }, {
+    "tStartMs": 728000,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Oh yes! The reason I chose cooking was"
+    } ]
+  }, {
+    "tStartMs": 731780,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I don't know what came over me,"
+    } ]
+  }, {
+    "tStartMs": 733860,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "but I suddenly thought about getting a Korean cuisine chef certification."
+    } ]
+  }, {
+    "tStartMs": 739420,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Because, like I mentioned before, I used to eat out or"
+    } ]
+  }, {
+    "tStartMs": 743300,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "order delivery food a lot, but these days I just"
+    } ]
+  }, {
+    "tStartMs": 747070,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "cook simple things at home, and it's not so bad."
+    } ]
+  }, {
+    "tStartMs": 750020,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "And if I learn this more professionally, I think I'll gain confidence,"
+    } ]
+  }, {
+    "tStartMs": 755880,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "and maybe there will come a day when I can use it? Just if I learn it first?"
+    } ]
+  }, {
+    "tStartMs": 760180,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "With that thought, I made that resolution,"
+    } ]
+  }, {
+    "tStartMs": 765010,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "and I thought by around this time I would have learned it,"
+    } ]
+  }, {
+    "tStartMs": 768160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "so I'd have something to talk about regarding cooking,"
+    } ]
+  }, {
+    "tStartMs": 770880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "so I selected Yomojomo as the topic once."
+    } ]
+  }, {
+    "tStartMs": 773280,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "So how did it turn out!"
+    } ]
+  }, {
+    "tStartMs": 776310,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "The way the exam is structured is"
+    } ]
+  }, {
+    "tStartMs": 778810,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "there's a written test and a practical test."
+    } ]
+  }, {
+    "tStartMs": 782100,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "So for the written test, there's an exam, and what kind of content is there?"
+    } ]
+  }, {
+    "tStartMs": 787300,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "What do you think might be on the written test for Korean cuisine?"
+    } ]
+  }, {
+    "tStartMs": 793220,
+    "dDurationMs": 8680,
+    "segs": [ {
+      "utf8": "Like, for example, when you make dak doritang, the salt that goes in is one teaspoon, something like that?"
+    } ]
+  }, {
+    "tStartMs": 801900,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "I thought about things like that too."
+    } ]
+  }, {
+    "tStartMs": 803630,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Like some kind of recipe?"
+    } ]
+  }, {
+    "tStartMs": 805100,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "So I started by looking up how to study first,"
+    } ]
+  }, {
+    "tStartMs": 808800,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "like buying a book or since there are lots of YouTube videos these days,"
+    } ]
+  }, {
+    "tStartMs": 812790,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "they say if you just keep listening to those, you can solve the problems well."
+    } ]
+  }, {
+    "tStartMs": 816540,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "So I listened, and then it turned out to be content"
+    } ]
+  }, {
+    "tStartMs": 820690,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "you learn in home economics class at school."
+    } ]
+  }, {
+    "tStartMs": 824540,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Do you know about 'tandanji mubibi'?"
+    } ]
+  }, {
+    "tStartMs": 826670,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Carbohydrates, protein, fat, minerals, vitamins—"
+    } ]
+  }, {
+    "tStartMs": 830900,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "these kinds of essential nutrients, or"
+    } ]
+  }, {
+    "tStartMs": 834470,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "what exactly the Maillard reaction is,"
+    } ]
+  }, {
+    "tStartMs": 838670,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "when protein changes into sugar, that kind of..."
+    } ]
+  }, {
+    "tStartMs": 842820,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "That's chemistry?"
+    } ]
+  }, {
+    "tStartMs": 843510,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "It is chemistry!"
+    } ]
+  }, {
+    "tStartMs": 845380,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Wow..."
+    } ]
+  }, {
+    "tStartMs": 847280,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "And you have to memorize that, and you have to memorize all the names,"
+    } ]
+  }, {
+    "tStartMs": 850180,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and there are chemical symbols and all,"
+    } ]
+  }, {
+    "tStartMs": 852620,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "so I'm stuck there right now."
+    } ]
+  }, {
+    "tStartMs": 857540,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "Right now I just play that lecture like a podcast whenever I have time, you know?"
+    } ]
+  }, {
+    "tStartMs": 862640,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "I'm still stuck on unit one."
+    } ]
+  }, {
+    "tStartMs": 865090,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Oh so you haven't even moved on to actual cooking yet,"
+    } ]
+  }, {
+    "tStartMs": 870910,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "have you?"
+    } ]
+  }, {
+    "tStartMs": 872100,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Oh so should we have done this episode a few months later?"
+    } ]
+  }, {
+    "tStartMs": 875970,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "But while preparing for the written test, I've been having this thought,"
+    } ]
+  }, {
+    "tStartMs": 880790,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "that exams and certifications don't necessarily mean you can say you're good at something just because you have them, right?"
+    } ]
+  }, {
+    "tStartMs": 887120,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 887900,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "So I keep thinking, 'Do I really need to study this carbohydrates, protein,"
+    } ]
+  }, {
+    "tStartMs": 891390,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "fat... do I need to study this?'"
+    } ]
+  }, {
+    "tStartMs": 893620,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "'Wouldn't it be better to spend that time looking for recipes and actually making them?'"
+    } ]
+  }, {
+    "tStartMs": 898270,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "With that thought, my motivation is kind of broken right now?"
+    } ]
+  }, {
+    "tStartMs": 902290,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "My will got a bit broken."
+    } ]
+  }, {
+    "tStartMs": 905390,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "But then again, once I get past the written test and move on to the practical part,"
+    } ]
+  }, {
+    "tStartMs": 909710,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "I'll need to practice a lot anyway,"
+    } ]
+  }, {
+    "tStartMs": 913050,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "so I think it's still good to keep trying, in my opinion."
+    } ]
+  }, {
+    "tStartMs": 915660,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Writing notes... yes, I kept watching the video"
+    } ]
+  }, {
+    "tStartMs": 919900,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Since it said it wasn't that difficult, I watched it moderately..."
+    } ]
+  }, {
+    "tStartMs": 925140,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "And things like knife skills, actually you can practice those beforehand, right?"
+    } ]
+  }, {
+    "tStartMs": 931440,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Knife skills?"
+    } ]
+  }, {
+    "tStartMs": 932860,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "Yes, like practicing cutting at 1CM, 1MM precision"
+    } ]
+  }, {
+    "tStartMs": 937880,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "I hadn't thought about that at all because I didn't know what I was supposed to do"
+    } ]
+  }, {
+    "tStartMs": 943200,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "That's a good method, practicing knife skills"
+    } ]
+  }, {
+    "tStartMs": 945820,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "But I think the best thing is actually going to a academy"
+    } ]
+  }, {
+    "tStartMs": 950340,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "Right, so I looked into it"
+    } ]
+  }, {
+    "tStartMs": 951730,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "First you do the written exam and then you attend a practical skills academy"
+    } ]
+  }, {
+    "tStartMs": 955840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And you practice for a couple of months and then take the test"
+    } ]
+  }, {
+    "tStartMs": 958880,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 960020,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "So I'm just cooking occasionally on my own"
+    } ]
+  }, {
+    "tStartMs": 966290,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "That's good"
+    } ]
+  }, {
+    "tStartMs": 967880,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "So coming back to reality then"
+    } ]
+  }, {
+    "tStartMs": 971790,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "So you don't make other dishes?"
+    } ]
+  }, {
+    "tStartMs": 975430,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Well, recently anything that counts as cooking"
+    } ]
+  }, {
+    "tStartMs": 978590,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Ah, I made pasta"
+    } ]
+  }, {
+    "tStartMs": 982100,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Usually the pasta people make most often in Korea is aglio e olio"
+    } ]
+  }, {
+    "tStartMs": 986580,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Or cream pasta, or tomato sauce, they all sell it"
+    } ]
+  }, {
+    "tStartMs": 990380,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "So you just pour it in and mix it like that"
+    } ]
+  }, {
+    "tStartMs": 992870,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Right, you just boil the noodles"
+    } ]
+  }, {
+    "tStartMs": 994220,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Yeah, that's what most people do"
+    } ]
+  }, {
+    "tStartMs": 997440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Recently I made cacio e pepe, is that it?"
+    } ]
+  }, {
+    "tStartMs": 1000320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "This is a classic cheese pasta from Italy"
+    } ]
+  }, {
+    "tStartMs": 1006240,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "In Korean it's cheese and pepper pasta"
+    } ]
+  }, {
+    "tStartMs": 1010630,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "I was talking about this with a student"
+    } ]
+  }, {
+    "tStartMs": 1013100,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And they said this is really simple and truly delicious"
+    } ]
+  }, {
+    "tStartMs": 1016380,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "And that it's the most delicious dish they can make, so I told them to try making it"
+    } ]
+  }, {
+    "tStartMs": 1020820,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "So they showed me and I made it once"
+    } ]
+  }, {
+    "tStartMs": 1023360,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "I should try it as a reference too"
+    } ]
+  }, {
+    "tStartMs": 1025250,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "So for this you need pasta noodles"
+    } ]
+  }, {
+    "tStartMs": 1028590,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "And Pecorino cheese"
+    } ]
+  }, {
+    "tStartMs": 1031080,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "You know, the hard kind, Pecorino cheese and Parma..."
+    } ]
+  }, {
+    "tStartMs": 1035200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Parmigiano Reggiano cheese"
+    } ]
+  }, {
+    "tStartMs": 1038600,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "Parmesan cheese?"
+    } ]
+  }, {
+    "tStartMs": 1039970,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Oh really? Is that it?"
+    } ]
+  }, {
+    "tStartMs": 1041800,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1043070,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Parmesan cheese and just that is all you need"
+    } ]
+  }, {
+    "tStartMs": 1045880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Butter and pepper"
+    } ]
+  }, {
+    "tStartMs": 1048680,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "You don't need olive oil?"
+    } ]
+  }, {
+    "tStartMs": 1049840,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "No, no, no, you don't need it"
+    } ]
+  }, {
+    "tStartMs": 1051620,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Wow"
+    } ]
+  }, {
+    "tStartMs": 1052820,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "So what you do is boil the pasta noodles and make the pasta water"
+    } ]
+  }, {
+    "tStartMs": 1057420,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "You put some salt in the water you're boiling the pasta in"
+    } ]
+  }, {
+    "tStartMs": 1061660,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "And in the meantime you grate the cheese like this"
+    } ]
+  }, {
+    "tStartMs": 1063840,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "You grate it with the fine grater like this"
+    } ]
+  }, {
+    "tStartMs": 1066170,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Then you put it in a blender and mix it like that"
+    } ]
+  }, {
+    "tStartMs": 1069930,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Then you pour just a little bit of pasta water to make a cream sauce"
+    } ]
+  }, {
+    "tStartMs": 1074630,
+    "dDurationMs": 7330,
+    "segs": [ {
+      "utf8": "You melt butter and add a lot of pepper to it, heat it slightly, then turn off the heat"
+    } ]
+  }, {
+    "tStartMs": 1081960,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "And you just mix it all together and eat it"
+    } ]
+  }, {
+    "tStartMs": 1085810,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Oh~!"
+    } ]
+  }, {
+    "tStartMs": 1087660,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Was it delicious?"
+    } ]
+  }, {
+    "tStartMs": 1089440,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "This... I actually failed"
+    } ]
+  }, {
+    "tStartMs": 1092370,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1093780,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "Even though it's so easy, I put too much pasta water in it and it was salty"
+    } ]
+  }, {
+    "tStartMs": 1099650,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "Hmm~ but that seems like an important part of cooking"
+    } ]
+  }, {
+    "tStartMs": 1106550,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 1107550,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Usually people fail a lot with their first dishes"
+    } ]
+  }, {
+    "tStartMs": 1110910,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Most of them!"
+    } ]
+  }, {
+    "tStartMs": 1111980,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Yeah, it seems like everything fails."
+    } ]
+  }, {
+    "tStartMs": 1114590,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Even when I was a little kid..."
+    } ]
+  }, {
+    "tStartMs": 1116450,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "The first ramen I ever cooked failed too."
+    } ]
+  }, {
+    "tStartMs": 1118550,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1120100,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "Failed at making fried eggs."
+    } ]
+  }, {
+    "tStartMs": 1121670,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Ah, yeah, so it seems like you improve by doing it a lot."
+    } ]
+  }, {
+    "tStartMs": 1125920,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Right, right, right."
+    } ]
+  }, {
+    "tStartMs": 1128370,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "It's hard to expect perfection at first."
+    } ]
+  }, {
+    "tStartMs": 1132000,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "But these days YouTube tutorials are really well made, so"
+    } ]
+  }, {
+    "tStartMs": 1136390,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "everything is pretty much laid out for you, right?"
+    } ]
+  }, {
+    "tStartMs": 1137920,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "How much to put in, how long to boil it."
+    } ]
+  }, {
+    "tStartMs": 1141860,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "But even if you follow it exactly,"
+    } ]
+  }, {
+    "tStartMs": 1144100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "I found that some small detail causes it to fail."
+    } ]
+  }, {
+    "tStartMs": 1148900,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "The way I think about it is, even if you use the exact same ingredients,"
+    } ]
+  }, {
+    "tStartMs": 1156260,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "the environment where you cook them is a bit different, for example"
+    } ]
+  }, {
+    "tStartMs": 1159950,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "on YouTube they show cooking on a burner with a really high flame,"
+    } ]
+  }, {
+    "tStartMs": 1168030,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "but I'm using an electric induction..."
+    } ]
+  }, {
+    "tStartMs": 1171270,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1172130,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "and that's different from cooking with that small amount of heat."
+    } ]
+  }, {
+    "tStartMs": 1177080,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "Right, medium heat and low heat are shown, but that varies by environment too."
+    } ]
+  }, {
+    "tStartMs": 1182590,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1184100,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "The high heat in my house could be low heat in someone else's house."
+    } ]
+  }, {
+    "tStartMs": 1188060,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1189440,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "So the timing of cooking or baking, and the boiling time,"
+    } ]
+  }, {
+    "tStartMs": 1196240,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "these things don't match my environment,"
+    } ]
+  }, {
+    "tStartMs": 1199820,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "so there are cases where it fails."
+    } ]
+  }, {
+    "tStartMs": 1202320,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "I see, so you try it once and think \"next time in my environment I should do it this way,\""
+    } ]
+  }, {
+    "tStartMs": 1207810,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "and you adjust it like that,"
+    } ]
+  }, {
+    "tStartMs": 1210980,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "and gradually you get better at it."
+    } ]
+  }, {
+    "tStartMs": 1212830,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "Right, so in the end you improve by doing it a lot, don't you think?"
+    } ]
+  }, {
+    "tStartMs": 1219100,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "So that's what it was."
+    } ]
+  }, {
+    "tStartMs": 1220340,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "Next time with pasta I think I'll definitely do a bit better."
+    } ]
+  }, {
+    "tStartMs": 1223770,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Cacio e pepe? Cacio e pepe?"
+    } ]
+  }, {
+    "tStartMs": 1225940,
+    "dDurationMs": 7150,
+    "segs": [ {
+      "utf8": "Yes, yes, anyway, and in the house where I live now,"
+    } ]
+  }, {
+    "tStartMs": 1233090,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "it's either ramen or pasta,"
+    } ]
+  }, {
+    "tStartMs": 1239060,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "and I cook ramen really well now,"
+    } ]
+  }, {
+    "tStartMs": 1241640,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "I've gotten to the point where I cook it at an art level."
+    } ]
+  }, {
+    "tStartMs": 1244930,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1246190,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1247310,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "How delicious must it be?"
+    } ]
+  }, {
+    "tStartMs": 1249420,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "So whenever my sister comes home during breaks, she always asks me to make it..."
+    } ]
+  }, {
+    "tStartMs": 1254060,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Like, \"this guy's ramen tastes the best\"?"
+    } ]
+  }, {
+    "tStartMs": 1256580,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "Yes, and Jjapagetti too."
+    } ]
+  }, {
+    "tStartMs": 1260310,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Really? You cook it amazingly."
+    } ]
+  }, {
+    "tStartMs": 1262940,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "It's a bit different."
+    } ]
+  }, {
+    "tStartMs": 1264830,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "What else do you add?"
+    } ]
+  }, {
+    "tStartMs": 1266750,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "I do add things."
+    } ]
+  }, {
+    "tStartMs": 1268030,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Like green onions or meat,"
+    } ]
+  }, {
+    "tStartMs": 1271300,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Green onions, garlic, eggs,"
+    } ]
+  }, {
+    "tStartMs": 1275980,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "and depending on the mood, fish sauce."
+    } ]
+  }, {
+    "tStartMs": 1279170,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "Wow! Then it's perfect, no wait—"
+    } ]
+  }, {
+    "tStartMs": 1282220,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "\u003cRamen Master Tae-woong's ramen recipe\u003e"
+    } ]
+  }, {
+    "tStartMs": 1286890,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "The perfect ramen recipe."
+    } ]
+  }, {
+    "tStartMs": 1289310,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "The perfect ramen recipe? First of all, (- what kind of ramen?) when you add water,"
+    } ]
+  }, {
+    "tStartMs": 1296370,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "you can't just eyeball it,"
+    } ]
+  }, {
+    "tStartMs": 1298750,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "for Shin Ramyun it says exactly 550ML on the package,"
+    } ]
+  }, {
+    "tStartMs": 1304250,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "if you look at the back of the ramen package,"
+    } ]
+  }, {
+    "tStartMs": 1306940,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "you have to add exactly that amount of water."
+    } ]
+  }, {
+    "tStartMs": 1309700,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Yes, keep the water right,"
+    } ]
+  }, {
+    "tStartMs": 1311430,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and yes, and then you add the noodles..."
+    } ]
+  }, {
+    "tStartMs": 1314040,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Whether you put the noodles in first or the broth first, that's not really important."
+    } ]
+  }, {
+    "tStartMs": 1318620,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "For me, if I put the broth in first, the water boils faster."
+    } ]
+  }, {
+    "tStartMs": 1322560,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "So I put the broth in first and then boil it."
+    } ]
+  }, {
+    "tStartMs": 1326470,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "And back in the day, I used to think time was precious,"
+    } ]
+  }, {
+    "tStartMs": 1331430,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "so I'd boil water in an electric kettle first, then pour the hot water into a pot and start cooking right away."
+    } ]
+  }, {
+    "tStartMs": 1337950,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "But these days I don't do that."
+    } ]
+  }, {
+    "tStartMs": 1340180,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "I just measure out cold water and put it in to start boiling."
+    } ]
+  }, {
+    "tStartMs": 1346590,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "Anyway, once the water and broth are boiling vigorously, I put in the noodles."
+    } ]
+  }, {
+    "tStartMs": 1352320,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "But before that, I prepare things ahead of time."
+    } ]
+  }, {
+    "tStartMs": 1357980,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "First, I crack an egg into a small bowl like this."
+    } ]
+  }, {
+    "tStartMs": 1364940,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And this is just my preference,"
+    } ]
+  }, {
+    "tStartMs": 1367500,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "but I like to break the yolk."
+    } ]
+  }, {
+    "tStartMs": 1369450,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "You mean like, breaking it up? You like to beat the egg?"
+    } ]
+  }, {
+    "tStartMs": 1373250,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1374070,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "So I crack the egg into the bowl and then with these chopsticks,"
+    } ]
+  }, {
+    "tStartMs": 1378020,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I break the yolk and just stir it all around."
+    } ]
+  }, {
+    "tStartMs": 1380740,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "I mix it up."
+    } ]
+  }, {
+    "tStartMs": 1382810,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "And on another side, if I want to use minced garlic conveniently,"
+    } ]
+  }, {
+    "tStartMs": 1387730,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "I just put in a lot of minced garlic—the more you put in, the more delicious it is."
+    } ]
+  }, {
+    "tStartMs": 1393200,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "But I take out about this much."
+    } ]
+  }, {
+    "tStartMs": 1396850,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "And if I want to use fresh garlic, there's a tool to mince it."
+    } ]
+  }, {
+    "tStartMs": 1402260,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You put it in and press like this and it squeezes out in strands."
+    } ]
+  }, {
+    "tStartMs": 1405260,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "So I either mince the garlic directly like that,"
+    } ]
+  }, {
+    "tStartMs": 1408450,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Wow, garlic goes in too?"
+    } ]
+  }, {
+    "tStartMs": 1410440,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Yes, I put in about three cloves of garlic."
+    } ]
+  }, {
+    "tStartMs": 1414020,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Fresh garlic must taste better, right?"
+    } ]
+  }, {
+    "tStartMs": 1415870,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "That's right, and I do it that way."
+    } ]
+  }, {
+    "tStartMs": 1417800,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "And I also cut up as much green onion as I want into big chunks and prepare it."
+    } ]
+  }, {
+    "tStartMs": 1424490,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "About how much?"
+    } ]
+  }, {
+    "tStartMs": 1426860,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "If one green onion is about this much,"
+    } ]
+  }, {
+    "tStartMs": 1430620,
+    "dDurationMs": 7850,
+    "segs": [ {
+      "utf8": "I think I put in about one and a half green onions, about this length—two fingers long."
+    } ]
+  }, {
+    "tStartMs": 1438470,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "The white part? The green part too?"
+    } ]
+  }, {
+    "tStartMs": 1441280,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Both."
+    } ]
+  }, {
+    "tStartMs": 1443070,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Anyway, that's how I do it."
+    } ]
+  }, {
+    "tStartMs": 1445220,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "I put the noodles into the boiling broth..."
+    } ]
+  }, {
+    "tStartMs": 1449710,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "This isn't really that important,"
+    } ]
+  }, {
+    "tStartMs": 1453020,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "but sometimes I put in the garlic and green onion together,"
+    } ]
+  }, {
+    "tStartMs": 1457500,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "or sometimes I put the garlic and green onion in a bit later."
+    } ]
+  }, {
+    "tStartMs": 1460850,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "But as long as I don't put them in too late, it's fine."
+    } ]
+  }, {
+    "tStartMs": 1464670,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "That's how I put everything in and boil it—except the egg."
+    } ]
+  }, {
+    "tStartMs": 1468280,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "When do you put in the flakes?"
+    } ]
+  }, {
+    "tStartMs": 1469170,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "The flakes at the beginning!"
+    } ]
+  }, {
+    "tStartMs": 1470850,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Oh, so the broth and flakes together at the beginning?"
+    } ]
+  }, {
+    "tStartMs": 1473280,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1475160,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "That's how I do it here!"
+    } ]
+  }, {
+    "tStartMs": 1477170,
+    "dDurationMs": 8740,
+    "segs": [ {
+      "utf8": "I take out the noodles one minute earlier than the cooking time shown on the ramen package."
+    } ]
+  }, {
+    "tStartMs": 1485910,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "Oh, this is the key point."
+    } ]
+  }, {
+    "tStartMs": 1490120,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Just the noodles?"
+    } ]
+  }, {
+    "tStartMs": 1491850,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Yes, I take out the noodles"
+    } ]
+  }, {
+    "tStartMs": 1493560,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "and put just the noodles on a big plate to eat from."
+    } ]
+  }, {
+    "tStartMs": 1497660,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Then only the broth is left, right?"
+    } ]
+  }, {
+    "tStartMs": 1500860,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "Then if I want to add more depth of flavor to that broth,"
+    } ]
+  }, {
+    "tStartMs": 1506690,
+    "dDurationMs": 7480,
+    "segs": [ {
+      "utf8": "I put in about half a spoon of anchovy sauce or mullet roe sauce, things like that."
+    } ]
+  }, {
+    "tStartMs": 1514170,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "But it doesn't taste fishy at all."
+    } ]
+  }, {
+    "tStartMs": 1516710,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It doesn't get salty either? You already put in all the broth."
+    } ]
+  }, {
+    "tStartMs": 1519230,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "It doesn't get salty."
+    } ]
+  }, {
+    "tStartMs": 1521060,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "It just gets deeper."
+    } ]
+  }, {
+    "tStartMs": 1522620,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So it just adds depth of flavor."
+    } ]
+  }, {
+    "tStartMs": 1525350,
+    "dDurationMs": 8190,
+    "segs": [ {
+      "utf8": "Yes, but after eating it all, there's kind of a heavy feeling in my throat,"
+    } ]
+  }, {
+    "tStartMs": 1533540,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "but that's a matter of preference, and anyway that's how I do it."
+    } ]
+  }, {
+    "tStartMs": 1537120,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "I boil the broth again."
+    } ]
+  }, {
+    "tStartMs": 1539710,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "The remaining broth without the noodles."
+    } ]
+  }, {
+    "tStartMs": 1543600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "While stirring it like that and whisking the broth,"
+    } ]
+  }, {
+    "tStartMs": 1548640,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "I slowly drizzle the beaten egg from a small bowl into it."
+    } ]
+  }, {
+    "tStartMs": 1554270,
+    "dDurationMs": 9090,
+    "segs": [ {
+      "utf8": "Then the egg dissolves very thinly in the broth that's being whisked like that, like egg soup."
+    } ]
+  }, {
+    "tStartMs": 1563360,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "Now the broth and egg become one."
+    } ]
+  }, {
+    "tStartMs": 1567780,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "After dissolving the egg like that,"
+    } ]
+  }, {
+    "tStartMs": 1570480,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "Now finally I pour the broth over the noodles I set aside."
+    } ]
+  }, {
+    "tStartMs": 1576810,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Over the noodles?"
+    } ]
+  }, {
+    "tStartMs": 1578880,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "Yes, then the broth tastes deep and the noodles are chewy."
+    } ]
+  }, {
+    "tStartMs": 1585730,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "That's my recipe now."
+    } ]
+  }, {
+    "tStartMs": 1589410,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The egg will be thin and soft too."
+    } ]
+  }, {
+    "tStartMs": 1592130,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1594020,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "And this is my preference, but Shin Ramyeon is pretty spicy, you know."
+    } ]
+  }, {
+    "tStartMs": 1601460,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "But if you dissolve the egg thinly in the broth like that, it's less spicy."
+    } ]
+  }, {
+    "tStartMs": 1606970,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "That would make sense."
+    } ]
+  }, {
+    "tStartMs": 1608330,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So I actually like it better."
+    } ]
+  }, {
+    "tStartMs": 1610530,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "Oh, is this a Shin Ramyeon recipe? Do you usually make it with Shin Ramyeon?"
+    } ]
+  }, {
+    "tStartMs": 1615520,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1616160,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Ah, I see. Thank you so much."
+    } ]
+  }, {
+    "tStartMs": 1619560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I really hadn't thought of transferring the noodles separately like that."
+    } ]
+  }, {
+    "tStartMs": 1623400,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "They do it that way when making ramyeon at PC bangs."
+    } ]
+  }, {
+    "tStartMs": 1626460,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Ah, the noodles will definitely be chewy since they don't get soggy."
+    } ]
+  }, {
+    "tStartMs": 1632020,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1633340,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "I see, thank you."
+    } ]
+  }, {
+    "tStartMs": 1634890,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Ramyeon recipe."
+    } ]
+  }, {
+    "tStartMs": 1637310,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Yes, and Jjapagetti, Jjapagetti too."
+    } ]
+  }, {
+    "tStartMs": 1639200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Jjapagetti too? Okay."
+    } ]
+  }, {
+    "tStartMs": 1640520,
+    "dDurationMs": 9900,
+    "segs": [ {
+      "utf8": "For Jjapagetti you slice a quarter of an onion into large chunks."
+    } ]
+  }, {
+    "tStartMs": 1650420,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "A quarter of one?"
+    } ]
+  }, {
+    "tStartMs": 1651690,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "Yes, but you could use half an onion too."
+    } ]
+  }, {
+    "tStartMs": 1654740,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "Anyway, you slice a quarter very thinly."
+    } ]
+  }, {
+    "tStartMs": 1659870,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Yes, you slice it very thinly."
+    } ]
+  }, {
+    "tStartMs": 1662400,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "And you put that in a pan with olive oil or coconut oil."
+    } ]
+  }, {
+    "tStartMs": 1670440,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And you sauté the thinly sliced onions."
+    } ]
+  }, {
+    "tStartMs": 1673440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "But if you sauté that for quite a while,"
+    } ]
+  }, {
+    "tStartMs": 1676160,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "it caramelizes and turns brown."
+    } ]
+  }, {
+    "tStartMs": 1680860,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "And it kind of feels like something's burnt but not burnt, you know."
+    } ]
+  }, {
+    "tStartMs": 1685600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "So it's completely crispy then."
+    } ]
+  }, {
+    "tStartMs": 1687760,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Yes yes."
+    } ]
+  }, {
+    "tStartMs": 1689310,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "After roasting it like that,"
+    } ]
+  }, {
+    "tStartMs": 1691420,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Now you just make Jjapagetti normally."
+    } ]
+  }, {
+    "tStartMs": 1693790,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "You cook it the regular way."
+    } ]
+  }, {
+    "tStartMs": 1698010,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "And you drain the water to your taste and add the seasoning packet and mix it,"
+    } ]
+  }, {
+    "tStartMs": 1703970,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "And at that point you add some of those onions and mix them together,"
+    } ]
+  }, {
+    "tStartMs": 1709730,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "And depending on your preference you grill some beef,"
+    } ]
+  }, {
+    "tStartMs": 1713670,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Or you put a fried egg on top,"
+    } ]
+  }, {
+    "tStartMs": 1716540,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "And there's this red chili oil that comes from Ottogi."
+    } ]
+  }, {
+    "tStartMs": 1721200,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1721990,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Have you seen red chili oil?"
+    } ]
+  }, {
+    "tStartMs": 1723970,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "It's just kind of spicy, like what's in Jjapagetti..."
+    } ]
+  }, {
+    "tStartMs": 1728130,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Yeah, that kind of feeling."
+    } ]
+  }, {
+    "tStartMs": 1730180,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "If you use red chili oil instead of sesame oil, just a little bit,"
+    } ]
+  }, {
+    "tStartMs": 1735840,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "You get a perfectly balanced savory, spicy taste,"
+    } ]
+  }, {
+    "tStartMs": 1740180,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "And you can eat Jjapagetti with the onion flavor maximized."
+    } ]
+  }, {
+    "tStartMs": 1743790,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "So red chili oil is the kick."
+    } ]
+  }, {
+    "tStartMs": 1746000,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Yes, it's really delicious."
+    } ]
+  }, {
+    "tStartMs": 1747920,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong, it seems like you use red chili oil often."
+    } ]
+  }, {
+    "tStartMs": 1751070,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Last time with the egg... when making rice you use that too, right?"
+    } ]
+  }, {
+    "tStartMs": 1753980,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1755520,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "We don't have it at home."
+    } ]
+  }, {
+    "tStartMs": 1756990,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Tae-woong's kick is chili-flavored oil."
+    } ]
+  }, {
+    "tStartMs": 1759530,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "Yes, it's really useful."
+    } ]
+  }, {
+    "tStartMs": 1760960,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Is it chili-flavored oil, chili oil?"
+    } ]
+  }, {
+    "tStartMs": 1764180,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1765440,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Yes, yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1766430,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "But the product name is probably listed as 'chili-flavored oil'."
+    } ]
+  }, {
+    "tStartMs": 1771130,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Ottogi's chili-flavored oil."
+    } ]
+  }, {
+    "tStartMs": 1772980,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1773880,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "If you like cooking and come to Korea,"
+    } ]
+  }, {
+    "tStartMs": 1776250,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "you can buy one of these and make delicious Jjapagetti or delicious egg rice."
+    } ]
+  }, {
+    "tStartMs": 1781950,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1783200,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "I see, that's nice. Now that you mention this chili-flavored oil,"
+    } ]
+  }, {
+    "tStartMs": 1788390,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "I'm thinking about what seasonings I use fairly often."
+    } ]
+  }, {
+    "tStartMs": 1795210,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "You use a lot of soy sauce in Korea, right?"
+    } ]
+  }, {
+    "tStartMs": 1797770,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "I thought this would be a good point to mention."
+    } ]
+  }, {
+    "tStartMs": 1801710,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "When you come to Korea and think you should buy soy sauce, there are actually many different types, you know?"
+    } ]
+  }, {
+    "tStartMs": 1807230,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "There are basically three main kinds: dark soy sauce, brewed soy sauce, and soup soy sauce."
+    } ]
+  }, {
+    "tStartMs": 1813550,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "If you want to pick a soy sauce that's safe to use in pretty much any dish,"
+    } ]
+  }, {
+    "tStartMs": 1820330,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "it seems like people tend to buy brewed soy sauce a lot."
+    } ]
+  }, {
+    "tStartMs": 1826740,
+    "dDurationMs": 6940,
+    "segs": [ {
+      "utf8": "So I also only have brewed soy sauce at home and I always cook with that."
+    } ]
+  }, {
+    "tStartMs": 1833680,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "Um, ah, and oyster sauce—oyster sauce really makes everything delicious when you add it."
+    } ]
+  }, {
+    "tStartMs": 1838700,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "It's MSG, right? Oyster sauce?"
+    } ]
+  }, {
+    "tStartMs": 1840580,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1842650,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Seasoning."
+    } ]
+  }, {
+    "tStartMs": 1843610,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "Yes, chicken stock, oyster sauce,"
+    } ]
+  }, {
+    "tStartMs": 1846440,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "things like that."
+    } ]
+  }, {
+    "tStartMs": 1847220,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Seasoned salt."
+    } ]
+  }, {
+    "tStartMs": 1849400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "The reason those taste good is because they all contain MSG."
+    } ]
+  }, {
+    "tStartMs": 1852000,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "Yes, they have the ingredient that makes things taste delicious."
+    } ]
+  }, {
+    "tStartMs": 1856010,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1858100,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "So..."
+    } ]
+  }, {
+    "tStartMs": 1859580,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "You add a little oyster sauce when you make fried rice,"
+    } ]
+  }, {
+    "tStartMs": 1863720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "or you add it anytime, like when you stir-fry cabbage and meat,"
+    } ]
+  }, {
+    "tStartMs": 1868720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "you add soy sauce, sesame oil, things like that,"
+    } ]
+  }, {
+    "tStartMs": 1871360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "and if you add a little oyster sauce too, it becomes much more delicious."
+    } ]
+  }, {
+    "tStartMs": 1874800,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "That's right. I use MSG..."
+    } ]
+  }, {
+    "tStartMs": 1878540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Ah, cooking—actually there's a lot to talk about with cooking, but it's..."
+    } ]
+  }, {
+    "tStartMs": 1882680,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "I'm not sure if we have time."
+    } ]
+  }, {
+    "tStartMs": 1884370,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "What did you want to talk about?"
+    } ]
+  }, {
+    "tStartMs": 1886080,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Ah, just about MSG?"
+    } ]
+  }, {
+    "tStartMs": 1888580,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "Ah, MSG has some controversy around it, right?"
+    } ]
+  }, {
+    "tStartMs": 1893930,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Ah, yes, but rather than talk about the controversy, I just want to share something that happened,"
+    } ]
+  }, {
+    "tStartMs": 1897970,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "something I experienced."
+    } ]
+  }, {
+    "tStartMs": 1898790,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Ah, what is it? What is it? Should we just talk about that?"
+    } ]
+  }, {
+    "tStartMs": 1901240,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Ah, there are two of them,"
+    } ]
+  }, {
+    "tStartMs": 1904090,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "one was before I went on a trip."
+    } ]
+  }, {
+    "tStartMs": 1908450,
+    "dDurationMs": 8490,
+    "segs": [ {
+      "utf8": "I met a Vietnamese person on Couchsurfing or some social media."
+    } ]
+  }, {
+    "tStartMs": 1916940,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So I was going to travel, I was going to go to Vietnam,"
+    } ]
+  }, {
+    "tStartMs": 1921300,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "and I asked if they could share any helpful information or anything like that."
+    } ]
+  }, {
+    "tStartMs": 1925110,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "So we talked about various things at a café."
+    } ]
+  }, {
+    "tStartMs": 1928700,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "But that person told me"
+    } ]
+  }, {
+    "tStartMs": 1933440,
+    "dDurationMs": 7970,
+    "segs": [ {
+      "utf8": "that Vietnamese pho is really delicious, and they said it so naturally..."
+    } ]
+  }, {
+    "tStartMs": 1941410,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "Vietnamese pho has a lot of Myung-won in it, so it's really delicious."
+    } ]
+  }, {
+    "tStartMs": 1947030,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "That's what they told me. Myung-won is MSG,"
+    } ]
+  }, {
+    "tStartMs": 1951250,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "it's a Korean MSG brand."
+    } ]
+  }, {
+    "tStartMs": 1953880,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "But I'm not sure now, but back then"
+    } ]
+  }, {
+    "tStartMs": 1957850,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "in Korea, people had a negative view of seasonings,"
+    } ]
+  }, {
+    "tStartMs": 1962370,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "thinking they were artificial,"
+    } ]
+  }, {
+    "tStartMs": 1963270,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "bad for your health,"
+    } ]
+  }, {
+    "tStartMs": 1965650,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It doesn't feel natural like this."
+    } ]
+  }, {
+    "tStartMs": 1968250,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "But it's kind of like you're telling me about something good, you know?"
+    } ]
+  }, {
+    "tStartMs": 1975210,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "\"It's a secret recipe.\""
+    } ]
+  }, {
+    "tStartMs": 1976980,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "They use a lot of MSG there, so they're saying it's delicious like this."
+    } ]
+  }, {
+    "tStartMs": 1979660,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "So I wasn't sure if they were saying it was good or not good."
+    } ]
+  }, {
+    "tStartMs": 1985880,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Is this a joke? What is this?"
+    } ]
+  }, {
+    "tStartMs": 1988100,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "But with a very matter-of-fact expression."
+    } ]
+  }, {
+    "tStartMs": 1989950,
+    "dDurationMs": 6630,
+    "segs": [ {
+      "utf8": "So I thought I needed to answer well there, and while I was doing that,"
+    } ]
+  }, {
+    "tStartMs": 1996580,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Oh, you mean it's delicious, right? I said it like that, but that's what they meant by it being good."
+    } ]
+  }, {
+    "tStartMs": 2001480,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "So I kind of grew one step culturally there."
+    } ]
+  }, {
+    "tStartMs": 2008140,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "You don't think MSG is bad? MSG?"
+    } ]
+  }, {
+    "tStartMs": 2011850,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Yes, that happened."
+    } ]
+  }, {
+    "tStartMs": 2014400,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "And one thing is, I have a really funny story as an example."
+    } ]
+  }, {
+    "tStartMs": 2019370,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "It was when I was traveling to Laos with a friend."
+    } ]
+  }, {
+    "tStartMs": 2022110,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "I think it was Luang Prabang."
+    } ]
+  }, {
+    "tStartMs": 2024770,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "There was a restaurant run by a wealthy Chinese person, a wealthy man, a father and son."
+    } ]
+  }, {
+    "tStartMs": 2032570,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "I went there somehow, I'm not sure how I found it."
+    } ]
+  }, {
+    "tStartMs": 2037310,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "But the menus were all written really big on the walls."
+    } ]
+  }, {
+    "tStartMs": 2042750,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "I couldn't even tell what the menu items were just from reading the text, so I just ordered something anyway."
+    } ]
+  }, {
+    "tStartMs": 2047830,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "It turned out to be dumplings and stir-fried meat."
+    } ]
+  }, {
+    "tStartMs": 2052250,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "It was dumplings and stir-fried meat."
+    } ]
+  }, {
+    "tStartMs": 2053840,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Both were so delicious."
+    } ]
+  }, {
+    "tStartMs": 2057790,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "They were so delicious that I went back once more on a different day."
+    } ]
+  }, {
+    "tStartMs": 2062330,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "You picked well."
+    } ]
+  }, {
+    "tStartMs": 2063970,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Yes, I went there by chance."
+    } ]
+  }, {
+    "tStartMs": 2065840,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "So I went back once more on a different day."
+    } ]
+  }, {
+    "tStartMs": 2068850,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "The friend who went with me was someone who did cooking as a profession."
+    } ]
+  }, {
+    "tStartMs": 2072760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Someone who studies cooking and wants to keep working with cooking."
+    } ]
+  }, {
+    "tStartMs": 2076680,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "So they kept saying \"Oh, I really want to know this recipe\" \"This is really amazing.\""
+    } ]
+  }, {
+    "tStartMs": 2081730,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "They just kept talking like that."
+    } ]
+  }, {
+    "tStartMs": 2084100,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "But that friend's characteristic was"
+    } ]
+  }, {
+    "tStartMs": 2086590,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "They just keep talking like that."
+    } ]
+  }, {
+    "tStartMs": 2089330,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "They don't take action."
+    } ]
+  }, {
+    "tStartMs": 2090790,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "They don't do anything, huh."
+    } ]
+  }, {
+    "tStartMs": 2092480,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2093570,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "But my characteristic is"
+    } ]
+  }, {
+    "tStartMs": 2094670,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "\"Hey, if you're going to do that, just go ask them!\""
+    } ]
+  }, {
+    "tStartMs": 2097990,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Talk to them! Call them!"
+    } ]
+  }, {
+    "tStartMs": 2099600,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "I always do that. (- Ask them! haha)"
+    } ]
+  }, {
+    "tStartMs": 2101380,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "I just go ahead and take action like that."
+    } ]
+  }, {
+    "tStartMs": 2103490,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So the two of us made a pretty good team."
+    } ]
+  }, {
+    "tStartMs": 2107330,
+    "dDurationMs": 9540,
+    "segs": [ {
+      "utf8": "So when the son came out serving and brought food from the restaurant,"
+    } ]
+  }, {
+    "tStartMs": 2116870,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "\"My friend does cooking, and this is so delicious that"
+    } ]
+  }, {
+    "tStartMs": 2120420,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I want to see how the food is cooked."
+    } ]
+  }, {
+    "tStartMs": 2123460,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Can we go to the kitchen and take a look?\" I said it like that."
+    } ]
+  }, {
+    "tStartMs": 2127410,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "The son thought \"Of course you can\" very willingly."
+    } ]
+  }, {
+    "tStartMs": 2131890,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "So my friend went to the kitchen."
+    } ]
+  }, {
+    "tStartMs": 2134430,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "So I stayed alone and ate the food."
+    } ]
+  }, {
+    "tStartMs": 2137620,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "My friend filmed in the kitchen and all that."
+    } ]
+  }, {
+    "tStartMs": 2141540,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Oh, did they not film? I'm not sure, but anyway."
+    } ]
+  }, {
+    "tStartMs": 2144290,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So the son was stir-frying the meat like crazy."
+    } ]
+  }, {
+    "tStartMs": 2147450,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "He was stir-frying it in the wok, and while stir-frying, there was a container with this shiny white powder."
+    } ]
+  }, {
+    "tStartMs": 2155090,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "He scooped a spoon like this generously and put it in once, twice, three times."
+    } ]
+  }, {
+    "tStartMs": 2162070,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "A tablespoon, some kind of magic powder (?)."
+    } ]
+  }, {
+    "tStartMs": 2164580,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "Yes, magic powder, he just put in several big spoonfuls like this and kept stir-frying..."
+    } ]
+  }, {
+    "tStartMs": 2170910,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "That was seasoning flavor."
+    } ]
+  }, {
+    "tStartMs": 2174630,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "So... you have to use seasoning to eat it deliciously."
+    } ]
+  }, {
+    "tStartMs": 2179560,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2181060,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "It must have been incredibly delicious."
+    } ]
+  }, {
+    "tStartMs": 2182710,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "It was really delicious."
+    } ]
+  }, {
+    "tStartMs": 2185180,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Because the magic soup had three spoonfuls..."
+    } ]
+  }, {
+    "tStartMs": 2188380,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "It wasn't three spoonfuls, it was more than that."
+    } ]
+  }, {
+    "tStartMs": 2189920,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "A lot more went in?"
+    } ]
+  }, {
+    "tStartMs": 2191120,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Just splash, splash, splash!"
+    } ]
+  }, {
+    "tStartMs": 2193480,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "So it was all seasoning flavor?"
+    } ]
+  }, {
+    "tStartMs": 2195290,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2196000,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "How did you feel once you knew?"
+    } ]
+  }, {
+    "tStartMs": 2198140,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Ah, seasoning is delicious~"
+    } ]
+  }, {
+    "tStartMs": 2200860,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "It's good!"
+    } ]
+  }, {
+    "tStartMs": 2201850,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "It's something good."
+    } ]
+  }, {
+    "tStartMs": 2202930,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2204630,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "I think using it well is also good."
+    } ]
+  }, {
+    "tStartMs": 2206620,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2207900,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "These days, it's been revealed a lot that MSG isn't just bad, you know?"
+    } ]
+  }, {
+    "tStartMs": 2214620,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2215920,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "But when I watch things like \u003cBlack and White Chef\u003e, it seems like they don't use much seasoning."
+    } ]
+  }, {
+    "tStartMs": 2222200,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "It seems like they don't use it."
+    } ]
+  }, {
+    "tStartMs": 2223980,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2224690,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "Ah, but I saw a lot of sauces and things like that."
+    } ]
+  }, {
+    "tStartMs": 2229960,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "Oyster sauce and things like that? Chicken stock."
+    } ]
+  }, {
+    "tStartMs": 2232940,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Yes, it seemed really diverse."
+    } ]
+  }, {
+    "tStartMs": 2235570,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2236960,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Since they're professionals, I don't think they use much, right?"
+    } ]
+  }, {
+    "tStartMs": 2240510,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "They create that umami flavor directly through cooking,"
+    } ]
+  }, {
+    "tStartMs": 2245920,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "But when you're trying to do things quickly and also fit the cost,"
+    } ]
+  }, {
+    "tStartMs": 2250250,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "It seems like they use seasoning."
+    } ]
+  }, {
+    "tStartMs": 2251840,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2254020,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "I see, I see."
+    } ]
+  }, {
+    "tStartMs": 2255480,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Cooking!"
+    } ]
+  }, {
+    "tStartMs": 2256200,
+    "dDurationMs": 7860,
+    "segs": [ {
+      "utf8": "If I had studied Korean cuisine cooking more seriously,"
+    } ]
+  }, {
+    "tStartMs": 2264060,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "I think there would have been more to talk about."
+    } ]
+  }, {
+    "tStartMs": 2267040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Ah, this episode is more about cooking technique,"
+    } ]
+  }, {
+    "tStartMs": 2271840,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Actually, I cooked every day when I lived in Bangladesh for a year."
+    } ]
+  }, {
+    "tStartMs": 2277450,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "I haven't told all those stories yet."
+    } ]
+  }, {
+    "tStartMs": 2279680,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Wow! Really!"
+    } ]
+  }, {
+    "tStartMs": 2281500,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "So we've only talked about cooking technique so far,"
+    } ]
+  }, {
+    "tStartMs": 2284670,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "When you start cooking, Didi,"
+    } ]
+  }, {
+    "tStartMs": 2289190,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "We'll do it a second time then and talk about real cooking."
+    } ]
+  }, {
+    "tStartMs": 2294770,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Yes, back then I made rice balls and..."
+    } ]
+  }, {
+    "tStartMs": 2298290,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Did you cook Korean food?"
+    } ]
+  }, {
+    "tStartMs": 2299690,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "No, just... rootless cooking."
+    } ]
+  }, {
+    "tStartMs": 2306510,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Garlic fried rice."
+    } ]
+  }, {
+    "tStartMs": 2308120,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2308690,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "Garlic pasta—I ate that five or six times a week."
+    } ]
+  }, {
+    "tStartMs": 2314060,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "And I also made a lot of cabbage and tuna rice bowls."
+    } ]
+  }, {
+    "tStartMs": 2318720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "That's kind of similar to me these days."
+    } ]
+  }, {
+    "tStartMs": 2320880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "I also just look at my fridge without any foundation,"
+    } ]
+  }, {
+    "tStartMs": 2324640,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Do I have this, this, and this? Then what should I do?"
+    } ]
+  }, {
+    "tStartMs": 2327140,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "I even ask ChatGPT."
+    } ]
+  }, {
+    "tStartMs": 2329190,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "I have tomato and this and this in my fridge right now, what ingredients should I use"
+    } ]
+  }, {
+    "tStartMs": 2335500,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "To make it delicious? Then it puts it together"
+    } ]
+  }, {
+    "tStartMs": 2338860,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "And gives me a rough recipe, so I eat that way."
+    } ]
+  }, {
+    "tStartMs": 2343470,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "The cooking doesn't have a name,"
+    } ]
+  }, {
+    "tStartMs": 2345240,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "It's just like, eat the vegetables I have? Eat the protein? That kind of thing."
+    } ]
+  }, {
+    "tStartMs": 2351850,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "So you cooked that way."
+    } ]
+  }, {
+    "tStartMs": 2353500,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2355110,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Got it, then I'll learn a bit too,"
+    } ]
+  }, {
+    "tStartMs": 2357840,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "And we'll talk about cooking one more time."
+    } ]
+  }, {
+    "tStartMs": 2360900,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 2362940,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Ah, so now I'll give you one more quiz and we'll move on to the game corner."
+    } ]
+  }, {
+    "tStartMs": 2367400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This week's quiz is"
+    } ]
+  }, {
+    "tStartMs": 2369400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "not a dish that Tae-woong and Didi cook often..."
+    } ]
+  }, {
+    "tStartMs": 2373560,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "what is a dish that is not frequently cooked? Let's do that."
+    } ]
+  }, {
+    "tStartMs": 2378690,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Number 1: Noodles"
+    } ]
+  }, {
+    "tStartMs": 2380740,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Number 2: Ramen"
+    } ]
+  }, {
+    "tStartMs": 2383220,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Number 3: Pasta"
+    } ]
+  }, {
+    "tStartMs": 2385860,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "If you know the answer, please comment"
+    } ]
+  }, {
+    "tStartMs": 2388060,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "And there's a voting button here"
+    } ]
+  }, {
+    "tStartMs": 2390250,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "If you let us know a lot through that, we'd appreciate it"
+    } ]
+  }, {
+    "tStartMs": 2392650,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Then we'll move on to our next segment"
+    } ]
+  }, {
+    "tStartMs": 2398410,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "A word-based mini game"
+    } ]
+  }, {
+    "tStartMs": 2407160,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "The word-based mini game we're doing today is called the Bibimbap game"
+    } ]
+  }, {
+    "tStartMs": 2412370,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "What this is, you talk about a certain dish"
+    } ]
+  }, {
+    "tStartMs": 2415110,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "and then you keep talking about the ingredients that go into it"
+    } ]
+  }, {
+    "tStartMs": 2419400,
+    "dDurationMs": 8780,
+    "segs": [ {
+      "utf8": "So if that ingredient is wrong, or if you run out of ingredients to mention, then you lose, that kind of game"
+    } ]
+  }, {
+    "tStartMs": 2428180,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "I haven't done it before, I'm not sure how it'll go, but should we try once?"
+    } ]
+  }, {
+    "tStartMs": 2432580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sounds good"
+    } ]
+  }, {
+    "tStartMs": 2433580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then the first question! The first game"
+    } ]
+  }, {
+    "tStartMs": 2436580,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Let's do Budae-jjigae"
+    } ]
+  }, {
+    "tStartMs": 2438820,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Oh, nice"
+    } ]
+  }, {
+    "tStartMs": 2440380,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Yes, you go first"
+    } ]
+  }, {
+    "tStartMs": 2443940,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Spam!"
+    } ]
+  }, {
+    "tStartMs": 2447170,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "That's the representative one"
+    } ]
+  }, {
+    "tStartMs": 2449860,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Baked beans?"
+    } ]
+  }, {
+    "tStartMs": 2452030,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Beans?"
+    } ]
+  }, {
+    "tStartMs": 2453150,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Yes, like bean paste, beans"
+    } ]
+  }, {
+    "tStartMs": 2456030,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Baked beans?"
+    } ]
+  }, {
+    "tStartMs": 2457620,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2458530,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "I don't know the Korean name for that?"
+    } ]
+  }, {
+    "tStartMs": 2460550,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 2461820,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "I think it's called baked beans"
+    } ]
+  }, {
+    "tStartMs": 2464990,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "They say that bean is the identity of Budae-jjigae"
+    } ]
+  }, {
+    "tStartMs": 2468260,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Yes, this is kind of..."
+    } ]
+  }, {
+    "tStartMs": 2470720,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "Budae-jjigae is like that, right, American soldiers ate it"
+    } ]
+  }, {
+    "tStartMs": 2474630,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "and cooked the leftovers like this"
+    } ]
+  }, {
+    "tStartMs": 2476580,
+    "dDurationMs": 8470,
+    "segs": [ {
+      "utf8": "so since it's that way, baked beans that are eaten a lot in America appearing in Korean food is like an identity"
+    } ]
+  }, {
+    "tStartMs": 2485050,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "I don't like beans"
+    } ]
+  }, {
+    "tStartMs": 2487660,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "You wouldn't eat natto either?"
+    } ]
+  }, {
+    "tStartMs": 2488820,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "I haven't tried it"
+    } ]
+  }, {
+    "tStartMs": 2490340,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "Oh really? I don't like beans either"
+    } ]
+  }, {
+    "tStartMs": 2492370,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "But natto is really small beans so it's okay"
+    } ]
+  }, {
+    "tStartMs": 2496350,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "I don't like baked beans either"
+    } ]
+  }, {
+    "tStartMs": 2499970,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Good and"
+    } ]
+  }, {
+    "tStartMs": 2503290,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Tofu"
+    } ]
+  }, {
+    "tStartMs": 2504100,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Does tofu go in Budae-jjigae?"
+    } ]
+  }, {
+    "tStartMs": 2505980,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "It doesn't go in?"
+    } ]
+  }, {
+    "tStartMs": 2507620,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Is that just an add-on menu?"
+    } ]
+  }, {
+    "tStartMs": 2510100,
+    "dDurationMs": 390,
+    "segs": [ {
+      "utf8": "Is it?"
+    } ]
+  }, {
+    "tStartMs": 2510490,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Well, you could probably add it, it would be delicious, right?"
+    } ]
+  }, {
+    "tStartMs": 2513600,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Ramen noodles"
+    } ]
+  }, {
+    "tStartMs": 2516180,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Ramen noodles"
+    } ]
+  }, {
+    "tStartMs": 2517920,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Onion!"
+    } ]
+  }, {
+    "tStartMs": 2519590,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "It goes in"
+    } ]
+  }, {
+    "tStartMs": 2520740,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Garlic"
+    } ]
+  }, {
+    "tStartMs": 2522150,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Does garlic go in?"
+    } ]
+  }, {
+    "tStartMs": 2523870,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Isn't there almost nothing in Korean food that doesn't have garlic?"
+    } ]
+  }, {
+    "tStartMs": 2526430,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Is that so? Budae-jjigae ingredients..."
+    } ]
+  }, {
+    "tStartMs": 2529340,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Oh, I shouldn't look, what do I do...? Someone check for me!"
+    } ]
+  }, {
+    "tStartMs": 2533340,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Oh garlic goes in"
+    } ]
+  }, {
+    "tStartMs": 2537340,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "I'm not sure what flavor that sauce gets from"
+    } ]
+  }, {
+    "tStartMs": 2543300,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "First, pow!"
+    } ]
+  }, {
+    "tStartMs": 2546340,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Pow! Red chili flakes"
+    } ]
+  }, {
+    "tStartMs": 2550840,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "And black pepper"
+    } ]
+  }, {
+    "tStartMs": 2555140,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Doesn't soy sauce go in it? Soy sauce?"
+    } ]
+  }, {
+    "tStartMs": 2557430,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "I don't think soy sauce goes in it?"
+    } ]
+  }, {
+    "tStartMs": 2559200,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "Then how do we get that red seasoning?"
+    } ]
+  }, {
+    "tStartMs": 2563090,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Salt?"
+    } ]
+  }, {
+    "tStartMs": 2564100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Doesn't soy sauce go in it?"
+    } ]
+  }, {
+    "tStartMs": 2566500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 2568100,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Since no one's checking this for us (- Oh, I see)"
+    } ]
+  }, {
+    "tStartMs": 2570910,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "This is difficult"
+    } ]
+  }, {
+    "tStartMs": 2571870,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2573520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Soy sauce goes in it"
+    } ]
+  }, {
+    "tStartMs": 2575200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There's almost nothing in Korean food that doesn't have soy sauce and garlic"
+    } ]
+  }, {
+    "tStartMs": 2579200,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Okay"
+    } ]
+  }, {
+    "tStartMs": 2580740,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Enoki mushrooms"
+    } ]
+  }, {
+    "tStartMs": 2581980,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "Enoki mushrooms?"
+    } ]
+  }, {
+    "tStartMs": 2583200,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "They go in it"
+    } ]
+  }, {
+    "tStartMs": 2583810,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Aren't you confusing it with malatang right now?"
+    } ]
+  }, {
+    "tStartMs": 2586560,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "No, it's budae jjigae!"
+    } ]
+  }, {
+    "tStartMs": 2587360,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Aren't you confusing it with kimchi jjigae?"
+    } ]
+  }, {
+    "tStartMs": 2589890,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "Budae jjigae has them too"
+    } ]
+  }, {
+    "tStartMs": 2590780,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2592670,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "If you go to a place like 'Professor Mo's Budae Jjigae,' it comes out?"
+    } ]
+  }, {
+    "tStartMs": 2596070,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "I'm not sure what it is, but... (- Really?)"
+    } ]
+  }, {
+    "tStartMs": 2598590,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Okay"
+    } ]
+  }, {
+    "tStartMs": 2600350,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Does gochujang go in it?"
+    } ]
+  }, {
+    "tStartMs": 2603310,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "If you put red chili flakes..."
+    } ]
+  }, {
+    "tStartMs": 2604930,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Red chili flakes and soy sauce?"
+    } ]
+  }, {
+    "tStartMs": 2607680,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Isn't that right?"
+    } ]
+  }, {
+    "tStartMs": 2610940,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Hmm... is there anything else you're thinking of?"
+    } ]
+  }, {
+    "tStartMs": 2613180,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2613890,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Then sausage!"
+    } ]
+  }, {
+    "tStartMs": 2615970,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "Oh, I was going to say sausage"
+    } ]
+  }, {
+    "tStartMs": 2621620,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Sausage!"
+    } ]
+  }, {
+    "tStartMs": 2622940,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Cooking wine"
+    } ]
+  }, {
+    "tStartMs": 2624280,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "In budae jjigae?"
+    } ]
+  }, {
+    "tStartMs": 2625660,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Doesn't cooking wine go in it?"
+    } ]
+  }, {
+    "tStartMs": 2628050,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "This... this won't work"
+    } ]
+  }, {
+    "tStartMs": 2630420,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "What? I feel like I'm playing Dumb and Dumber"
+    } ]
+  }, {
+    "tStartMs": 2633780,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Doesn't this go in it? Does this go in it?"
+    } ]
+  }, {
+    "tStartMs": 2636640,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Oh, we don't know either!"
+    } ]
+  }, {
+    "tStartMs": 2637830,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Exactly"
+    } ]
+  }, {
+    "tStartMs": 2638940,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "The budae jjigae ingredients listed on Namu Wiki"
+    } ]
+  }, {
+    "tStartMs": 2643300,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Processed meat = ham, sausage, bacon go in it"
+    } ]
+  }, {
+    "tStartMs": 2647600,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Kimchi is optional but it seems to go in often"
+    } ]
+  }, {
+    "tStartMs": 2653000,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Budae jjigae"
+    } ]
+  }, {
+    "tStartMs": 2654020,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And noodles go in, and green onion, onion, cheongyang pepper"
+    } ]
+  }, {
+    "tStartMs": 2658740,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Oh, cheongyang pepper"
+    } ]
+  }, {
+    "tStartMs": 2660780,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "And soy sauce, red chili flakes, garlic, that's the sauce"
+    } ]
+  }, {
+    "tStartMs": 2665280,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "And salt, black pepper, seasoning powder like Dasida also go in"
+    } ]
+  }, {
+    "tStartMs": 2669150,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "We've got it all?"
+    } ]
+  }, {
+    "tStartMs": 2670400,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Yes, and to get that meaty broth, they use beef bone broth"
+    } ]
+  }, {
+    "tStartMs": 2676000,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "And they put red chili flakes in it, soy sauce, baked beans"
+    } ]
+  }, {
+    "tStartMs": 2681550,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "Apparently they used to put ketchup and things like that, tomato sauce too"
+    } ]
+  }, {
+    "tStartMs": 2685970,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "I was thinking of mentioning ketchup"
+    } ]
+  }, {
+    "tStartMs": 2688980,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "And ground meat also goes in"
+    } ]
+  }, {
+    "tStartMs": 2692790,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "So ground meat goes in it"
+    } ]
+  }, {
+    "tStartMs": 2694300,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So many ingredients go in it, I can't make this at home"
+    } ]
+  }, {
+    "tStartMs": 2697580,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 2698060,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "And it's a bit awkward to eat alone, that menu."
+    } ]
+  }, {
+    "tStartMs": 2701040,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "Korean food has a lot of these kinds of dishes."
+    } ]
+  }, {
+    "tStartMs": 2703070,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2704130,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Garlic, onions, soy sauce, salt."
+    } ]
+  }, {
+    "tStartMs": 2708360,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Too much goes into it."
+    } ]
+  }, {
+    "tStartMs": 2709520,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2711170,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "If you learn those things well,"
+    } ]
+  }, {
+    "tStartMs": 2713850,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "treat your subscribers to meals and things like that."
+    } ]
+  }, {
+    "tStartMs": 2721130,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "That sounds too burdensome though?"
+    } ]
+  }, {
+    "tStartMs": 2722820,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Please do it."
+    } ]
+  }, {
+    "tStartMs": 2724650,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "I think that would be good, because I actually did a meetup recently."
+    } ]
+  }, {
+    "tStartMs": 2729220,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But since it's just meeting up and doing language exchange,"
+    } ]
+  }, {
+    "tStartMs": 2733020,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I thought it would be better to do something with more value and meaning."
+    } ]
+  }, {
+    "tStartMs": 2737020,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "So for example,"
+    } ]
+  }, {
+    "tStartMs": 2738100,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "I could do a one-day cooking class of mine,"
+    } ]
+  }, {
+    "tStartMs": 2741490,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "and it would be fun to do things like that together."
+    } ]
+  }, {
+    "tStartMs": 2744220,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "That sounds good."
+    } ]
+  }, {
+    "tStartMs": 2746240,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "I think it would be nice to do things like making tteokbokki."
+    } ]
+  }, {
+    "tStartMs": 2751010,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "So I was thinking about that and decided I should get a Korean cuisine chef certificate,"
+    } ]
+  }, {
+    "tStartMs": 2755230,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "but I'm hitting a wall with the written exam right now."
+    } ]
+  }, {
+    "tStartMs": 2757380,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "If I had you, I could solve it without doing that."
+    } ]
+  }, {
+    "tStartMs": 2761730,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 2762410,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Team Tae-woong versus Team Didi, one round of Yut Nori."
+    } ]
+  }, {
+    "tStartMs": 2765990,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2767510,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "That way we have a fun time, haha, and then it ends."
+    } ]
+  }, {
+    "tStartMs": 2770020,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "So like, \"Well, thank you for your hard work~\""
+    } ]
+  }, {
+    "tStartMs": 2773150,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "That's not bad either, I could actually divide the teams myself and do it."
+    } ]
+  }, {
+    "tStartMs": 2779390,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "Oh but if we divide, then you wouldn't be on any team and would have to just referee,"
+    } ]
+  }, {
+    "tStartMs": 2785090,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "which is a bit awkward, or if you're on one team,"
+    } ]
+  }, {
+    "tStartMs": 2788040,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "the other team might feel a bit left out. (- That would be so fun...)"
+    } ]
+  }, {
+    "tStartMs": 2793740,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Team Tae-woong, Team Didi,"
+    } ]
+  }, {
+    "tStartMs": 2795990,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "and the team captains could do rock-paper-scissors like this and pick one person at a time, that would be fun too."
+    } ]
+  }, {
+    "tStartMs": 2801250,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "When dividing teams,"
+    } ]
+  }, {
+    "tStartMs": 2802880,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I actually have a bit of trauma."
+    } ]
+  }, {
+    "tStartMs": 2804680,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 2805410,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Like, \"Oh, I don't want to be on Jeong Tae-woong's team...\" or something."
+    } ]
+  }, {
+    "tStartMs": 2809940,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "\"Oh, I don't like Teacher Tae-woong!!!\""
+    } ]
+  }, {
+    "tStartMs": 2812490,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Yeah..."
+    } ]
+  }, {
+    "tStartMs": 2813780,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "We shouldn't do it that way."
+    } ]
+  }, {
+    "tStartMs": 2814830,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "That's a bit scary suddenly."
+    } ]
+  }, {
+    "tStartMs": 2817240,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So we really need to do this, like a summer MT kind of vibe."
+    } ]
+  }, {
+    "tStartMs": 2820720,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "That would be fun."
+    } ]
+  }, {
+    "tStartMs": 2821220,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right!!!"
+    } ]
+  }, {
+    "tStartMs": 2823220,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "Make and eat hwachae!"
+    } ]
+  }, {
+    "tStartMs": 2825570,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "At a place like a hanok (- Exactly!!) and all play a big Yut Nori game together."
+    } ]
+  }, {
+    "tStartMs": 2830820,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "What do I do, there are so many ideas like this."
+    } ]
+  }, {
+    "tStartMs": 2834530,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "And play one round of chicken fight too. ㅋㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2838030,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "You said Teacher Tae-woong is good at chicken fight, right?"
+    } ]
+  }, {
+    "tStartMs": 2841490,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Yeah, I'm good at it, really good."
+    } ]
+  }, {
+    "tStartMs": 2842500,
+    "dDurationMs": 7410,
+    "segs": [ {
+      "utf8": "Oh man, that would really be so fun."
+    } ]
+  }, {
+    "tStartMs": 2849910,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "How did we end up here?"
+    } ]
+  }, {
+    "tStartMs": 2851110,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "We came up with a good summer MT idea too."
+    } ]
+  }, {
+    "tStartMs": 2856540,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Let's stop the game here, this is difficult."
+    } ]
+  }, {
+    "tStartMs": 2859830,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Let's call it a draw."
+    } ]
+  }, {
+    "tStartMs": 2861500,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "We'll prepare better,"
+    } ]
+  }, {
+    "tStartMs": 2863990,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and come back with a cooking episode."
+    } ]
+  }, {
+    "tStartMs": 2867470,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Now we need to decide on the next topic."
+    } ]
+  }, {
+    "tStartMs": 2870330,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, you said last time you wanted to talk about swimming."
+    } ]
+  }, {
+    "tStartMs": 2874150,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "Is that okay?"
+    } ]
+  }, {
+    "tStartMs": 2874980,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Didn't we talk about it?"
+    } ]
+  }, {
+    "tStartMs": 2876120,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "We haven't done a swimming episode yet."
+    } ]
+  }, {
+    "tStartMs": 2877540,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "That's great."
+    } ]
+  }, {
+    "tStartMs": 2879080,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "I've also been swimming quite often these days."
+    } ]
+  }, {
+    "tStartMs": 2881870,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "I heard that Teacher Tae-woong has been enjoying swimming with real focus."
+    } ]
+  }, {
+    "tStartMs": 2886370,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "So I thought it would be good to talk about it."
+    } ]
+  }, {
+    "tStartMs": 2888030,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Next week as well, we'll talk about swimming."
+    } ]
+  }, {
+    "tStartMs": 2889500,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "And we'll explore it from all angles with Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 2891960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "This has been Didi and Jeong Tae-woong. Thank you."
+    } ]
+  } ]
+}

@@ -1,0 +1,4969 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Didi and Jeong Tae-woong's Yomojomo of Korean Life"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life is a podcast where two people living in Korea talk about the various aspects of Korean life."
+    } ]
+  }, {
+    "tStartMs": 21000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Today we're filming with video for the first time like this."
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, isn't this the first time in a really long while that you're appearing on my channel with your face?"
+    } ]
+  }, {
+    "tStartMs": 32000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That's right. How long has it been since I appeared with my face?"
+    } ]
+  }, {
+    "tStartMs": 37000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The last time was a game."
+    } ]
+  }, {
+    "tStartMs": 41000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Has it been a year? About a year."
+    } ]
+  }, {
+    "tStartMs": 46000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Originally we were planning to do this content as audio only, but since YouTube is a video platform after all,"
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "it seems like some people were finding it a bit awkward, so today we're just trying filming with video."
+    } ]
+  }, {
+    "tStartMs": 59000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Then let me introduce today's topic right away. Can you tell us what it is?"
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Today's topic is Japan travel."
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Japan travel. I went on a Japan trip recently."
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You said you've been to Japan many times, right?"
+    } ]
+  }, {
+    "tStartMs": 81000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I've been a few times, but not in the last several years."
+    } ]
+  }, {
+    "tStartMs": 86000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Is that so? Then shall we talk about where you went?"
+    } ]
+  }, {
+    "tStartMs": 92000,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "Sure. I went to Osaka, Fukuoka, Tokyo, and Tokyo again, so four times total."
+    } ]
+  }, {
+    "tStartMs": 104000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Oh really? Those are exactly the places that a lot of Koreans go to."
+    } ]
+  }, {
+    "tStartMs": 109000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I've been to all those places too, and there's a rural travel destination called Ehime Prefecture."
+    } ]
+  }, {
+    "tStartMs": 118000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ehime."
+    } ]
+  }, {
+    "tStartMs": 119000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ehime."
+    } ]
+  }, {
+    "tStartMs": 120000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ehime."
+    } ]
+  }, {
+    "tStartMs": 121000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Yeah. I visited Matsuyama Takamasu in Ehime Prefecture."
+    } ]
+  }, {
+    "tStartMs": 132000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They say the udon there is famous?"
+    } ]
+  }, {
+    "tStartMs": 133000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 135000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh! I also went to Sapporo."
+    } ]
+  }, {
+    "tStartMs": 138000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sapporo?"
+    } ]
+  }, {
+    "tStartMs": 141000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When did you go to Sapporo?"
+    } ]
+  }, {
+    "tStartMs": 145000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I went to Sapporo last fall. Last autumn."
+    } ]
+  }, {
+    "tStartMs": 152000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Last autumn."
+    } ]
+  }, {
+    "tStartMs": 153000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I didn't go in winter. A lot of people go to Sapporo for the snow, you know."
+    } ]
+  }, {
+    "tStartMs": 157000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 159000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "That season is kind of peak so it's expensive, and I have a rule that I go to Japan when flights are cheap,"
+    } ]
+  }, {
+    "tStartMs": 171000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so I went during the off-season."
+    } ]
+  }, {
+    "tStartMs": 175000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I had a dream when I was in high school."
+    } ]
+  }, {
+    "tStartMs": 179000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There was something I really wanted to do like this,"
+    } ]
+  }, {
+    "tStartMs": 183000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and that was after graduating high school and becoming an adult, I would get a girlfriend"
+    } ]
+  }, {
+    "tStartMs": 189000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and go on a trip together to snowy Hokkaido."
+    } ]
+  }, {
+    "tStartMs": 194000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Where did you get that idea from?"
+    } ]
+  }, {
+    "tStartMs": 197000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I just saw a picture somewhere of snowy Hokkaido with the Otaru Canal,"
+    } ]
+  }, {
+    "tStartMs": 205000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and it looked so romantic."
+    } ]
+  }, {
+    "tStartMs": 208000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So I thought I definitely wanted to go there with a girlfriend."
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I'm thirty-one years old now, and I still haven't been."
+    } ]
+  }, {
+    "tStartMs": 221000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So I haven't been to Sapporo yet."
+    } ]
+  }, {
+    "tStartMs": 224000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's a shame."
+    } ]
+  }, {
+    "tStartMs": 227000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It is a shame. Someday."
+    } ]
+  }, {
+    "tStartMs": 230000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There's a Netflix Japanese drama called First Love."
+    } ]
+  }, {
+    "tStartMs": 236000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's set in Sapporo with snowing Sapporo as the background, a love story,"
+    } ]
+  }, {
+    "tStartMs": 242000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and if you watch it again, the dream might come alive again."
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think my heart would ache the whole time if I watched it, so it would be hard to watch."
+    } ]
+  }, {
+    "tStartMs": 253000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right. It's that kind of drama."
+    } ]
+  }, {
+    "tStartMs": 258000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Japan seems like a travel destination that Koreans really go to a lot because flights are cheap."
+    } ]
+  }, {
+    "tStartMs": 265000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's true. And it's also nice to travel there."
+    } ]
+  }, {
+    "tStartMs": 270000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 272000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And even the Korean-heavy cities that I went to,"
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the staff members could usually speak Korean."
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They could?"
+    } ]
+  }, {
+    "tStartMs": 283000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They must get that many visitors."
+    } ]
+  }, {
+    "tStartMs": 285000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And that must be convenient. If the staff can speak Korean."
+    } ]
+  }, {
+    "tStartMs": 288000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "traveling."
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I didn't know that, so I asked a staff member at some subway station in English,"
+    } ]
+  }, {
+    "tStartMs": 299000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and they answered me in Korean."
+    } ]
+  }, {
+    "tStartMs": 301000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 308000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I really love traveling in Japan."
+    } ]
+  }, {
+    "tStartMs": 309000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So Didi, you've been to Tokyo, Osaka, Fukuoka,"
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and also Ehime and Sapporo like that?"
+    } ]
+  }, {
+    "tStartMs": 317000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I also went to Okinawa."
+    } ]
+  }, {
+    "tStartMs": 319000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Okinawa."
+    } ]
+  }, {
+    "tStartMs": 321000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oki-oki Okinawa."
+    } ]
+  }, {
+    "tStartMs": 324000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Did you go to the Okinawa Aquarium?"
+    } ]
+  }, {
+    "tStartMs": 328000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I did. The Churaumi Aquarium, and there's a whale shark?"
+    } ]
+  }, {
+    "tStartMs": 333000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that right?"
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 335000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can see rare whales there."
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it a whale? Is it a shark? I'm not sure about that."
+    } ]
+  }, {
+    "tStartMs": 341000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Whale shark."
+    } ]
+  }, {
+    "tStartMs": 342000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's probably a whale."
+    } ]
+  }, {
+    "tStartMs": 344000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 345000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It looks like a whale, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 347000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Or is it a shark?"
+    } ]
+  }, {
+    "tStartMs": 350000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's really huge,"
+    } ]
+  }, {
+    "tStartMs": 353000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "that thing."
+    } ]
+  }, {
+    "tStartMs": 355000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Whale shark?"
+    } ]
+  }, {
+    "tStartMs": 357000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it a whale?"
+    } ]
+  }, {
+    "tStartMs": 359000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Or is it a shark?"
+    } ]
+  }, {
+    "tStartMs": 361000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Then is a house centipede a house?"
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is a bat a mouse?"
+    } ]
+  }, {
+    "tStartMs": 365000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No, a bat should be a bat, then."
+    } ]
+  }, {
+    "tStartMs": 368000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Then a flying squirrel is flying."
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I apologize."
+    } ]
+  }, {
+    "tStartMs": 377000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No, then Sapporo... no, no."
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Okinawa."
+    } ]
+  }, {
+    "tStartMs": 382000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 383000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What season did you go to Okinawa?"
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I went to Okinawa in February."
+    } ]
+  }, {
+    "tStartMs": 388000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's winter in Korea."
+    } ]
+  }, {
+    "tStartMs": 389000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But in Okinawa, that's spring."
+    } ]
+  }, {
+    "tStartMs": 391000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow, that's nice."
+    } ]
+  }, {
+    "tStartMs": 393000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a place with warm weather."
+    } ]
+  }, {
+    "tStartMs": 398000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It did rain a lot, but I still just wore a sweatshirt and went around. And it was February."
+    } ]
+  }, {
+    "tStartMs": 404000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, so then"
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I could go to Okinawa in winter."
+    } ]
+  }, {
+    "tStartMs": 409000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's good."
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm not talking about Southeast Asian countries,"
+    } ]
+  }, {
+    "tStartMs": 413000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but Okinawa is also a place where having a car makes traveling more convenient."
+    } ]
+  }, {
+    "tStartMs": 417000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's kind of similar to Jeju Island."
+    } ]
+  }, {
+    "tStartMs": 420000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think it would be really nice if you rented a car and got around."
+    } ]
+  }, {
+    "tStartMs": 426000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I understand."
+    } ]
+  }, {
+    "tStartMs": 427000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So Tae-woong, you've been to those three places, right?"
+    } ]
+  }, {
+    "tStartMs": 431000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Which one was your favorite?"
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 436000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 438000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 439000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "you've been to those three places, right?"
+    } ]
+  }, {
+    "tStartMs": 441000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Which one was your favorite?"
+    } ]
+  }, {
+    "tStartMs": 443000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 445000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "liked Fukuoka the best."
+    } ]
+  }, {
+    "tStartMs": 448000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What's the reason?"
+    } ]
+  }, {
+    "tStartMs": 449000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It seems similar to Busan."
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Did you like that?"
+    } ]
+  }, {
+    "tStartMs": 454000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 456000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "thought it had the good points of Busan in it"
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, what points are those?"
+    } ]
+  }, {
+    "tStartMs": 461000,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "First of all, there was the sea"
+    } ]
+  }, {
+    "tStartMs": 464000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and it wasn't too crowded"
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and"
+    } ]
+  }, {
+    "tStartMs": 470000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I'm not sure if that's exactly Fukuoka or not"
+    } ]
+  }, {
+    "tStartMs": 476000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but anyway from the city center"
+    } ]
+  }, {
+    "tStartMs": 480000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "if you take a train for a bit"
+    } ]
+  }, {
+    "tStartMs": 483000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "there was"
+    } ]
+  }, {
+    "tStartMs": 485000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "a village where you could go boating and eat eel."
+    } ]
+  }, {
+    "tStartMs": 490000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Boating? You ride in a boat?"
+    } ]
+  }, {
+    "tStartMs": 492000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 493000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You can eat eel there?"
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. You ride in a small wooden boat that fits about five or six people"
+    } ]
+  }, {
+    "tStartMs": 498000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and the person who rows the oars on that boat"
+    } ]
+  }, {
+    "tStartMs": 502000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "moves the boat while"
+    } ]
+  }, {
+    "tStartMs": 505000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it's not a river or anything"
+    } ]
+  }, {
+    "tStartMs": 507000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "just in that small village"
+    } ]
+  }, {
+    "tStartMs": 509000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "um, what do you call it?"
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that waterway where the water flows?"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "you go around that waterway once."
+    } ]
+  }, {
+    "tStartMs": 517000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think it was Yanagawa"
+    } ]
+  }, {
+    "tStartMs": 519000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "but the name"
+    } ]
+  }, {
+    "tStartMs": 521000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yanagawa Prefecture"
+    } ]
+  }, {
+    "tStartMs": 522000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yanagawa Prefecture"
+    } ]
+  }, {
+    "tStartMs": 524000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so in that Yanagawa we went boating"
+    } ]
+  }, {
+    "tStartMs": 526000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and ate eel bento boxes, that experience"
+    } ]
+  }, {
+    "tStartMs": 530000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "was really quiet and nice."
+    } ]
+  }, {
+    "tStartMs": 533000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Did you stay in the Hakata area?"
+    } ]
+  }, {
+    "tStartMs": 541000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Completely downtown?"
+    } ]
+  }, {
+    "tStartMs": 542000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Fukuoka"
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Fukuoka"
+    } ]
+  }, {
+    "tStartMs": 546000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is Hakata Osaka?"
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Huh? Is it?"
+    } ]
+  }, {
+    "tStartMs": 548000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Or not?"
+    } ]
+  }, {
+    "tStartMs": 550000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh? Fukuoka is Hakata"
+    } ]
+  }, {
+    "tStartMs": 553000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hakata is, Fukuoka is"
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the airport is close to the city center."
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it's close."
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is that the most central"
+    } ]
+  }, {
+    "tStartMs": 562000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "area? they're the same place"
+    } ]
+  }, {
+    "tStartMs": 565000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "because when I went to Fukuoka there were so many people"
+    } ]
+  }, {
+    "tStartMs": 567000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "when I went to Fukuoka"
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 571000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it could be because I went during the off-season"
+    } ]
+  }, {
+    "tStartMs": 575000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "back when I was working"
+    } ]
+  }, {
+    "tStartMs": 578000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Friday evening"
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I took a half day on Friday"
+    } ]
+  }, {
+    "tStartMs": 583000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and left work at lunchtime"
+    } ]
+  }, {
+    "tStartMs": 585000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "went to Japan Friday evening"
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "similar to Taiwan?"
+    } ]
+  }, {
+    "tStartMs": 589000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, similar to Taiwan"
+    } ]
+  }, {
+    "tStartMs": 590000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and came back Sunday evening."
+    } ]
+  }, {
+    "tStartMs": 594000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so the season wasn't really peak season."
+    } ]
+  }, {
+    "tStartMs": 598000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 601000,
+    "dDurationMs": 9440,
+    "segs": [ {
+      "utf8": "and Ichiran ramen is really delicious, and the main branch is in Fukuoka"
+    } ]
+  }, {
+    "tStartMs": 610440,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Oh, I see. Ah, I didn't know. Yes, I ate it in Osaka."
+    } ]
+  }, {
+    "tStartMs": 616840,
+    "dDurationMs": 10520,
+    "segs": [ {
+      "utf8": "The headquarters is just, you know, not such a big building, but Ichiran ramen has exactly that setup."
+    } ]
+  }, {
+    "tStartMs": 627360,
+    "dDurationMs": 7559,
+    "segs": [ {
+      "utf8": "And the actual dining space is probably only two floors."
+    } ]
+  }, {
+    "tStartMs": 634919,
+    "dDurationMs": 5481,
+    "segs": [ {
+      "utf8": "Yes, but the floors above that are all ramen research labs."
+    } ]
+  }, {
+    "tStartMs": 640400,
+    "dDurationMs": 5559,
+    "segs": [ {
+      "utf8": "Wow, that's interesting. How do they make ramen taste even better?"
+    } ]
+  }, {
+    "tStartMs": 645959,
+    "dDurationMs": 3241,
+    "segs": [ {
+      "utf8": "They keep researching it. Yes, isn't that really cool?"
+    } ]
+  }, {
+    "tStartMs": 649200,
+    "dDurationMs": 16600,
+    "segs": [ {
+      "utf8": "Oh, that's very professional. Yes, so while I'm eating this ramen in this building, above the ceiling the research lab is researching how to make even better ramen."
+    } ]
+  }, {
+    "tStartMs": 665800,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Mm, it was really nice. Wow, so the research lab is right above the restaurant."
+    } ]
+  }, {
+    "tStartMs": 672360,
+    "dDurationMs": 8839,
+    "segs": [ {
+      "utf8": "Yes, Fukuoka. So how about you, Didi? What was your favorite place?"
+    } ]
+  }, {
+    "tStartMs": 681199,
+    "dDurationMs": 11241,
+    "segs": [ {
+      "utf8": "Yes, I really liked everything, but since I've been to Tokyo the most, I think I like Tokyo the best."
+    } ]
+  }, {
+    "tStartMs": 692440,
+    "dDurationMs": 6399,
+    "segs": [ {
+      "utf8": "Mm, but Tokyo is first of all a big city, a really really big city."
+    } ]
+  }, {
+    "tStartMs": 698839,
+    "dDurationMs": 7641,
+    "segs": [ {
+      "utf8": "Yes, within Tokyo, does each neighborhood have a different feel?"
+    } ]
+  }, {
+    "tStartMs": 706480,
+    "dDurationMs": 9399,
+    "segs": [ {
+      "utf8": "Mm, how should I put it... I think it's like this. The reason I like Tokyo is"
+    } ]
+  }, {
+    "tStartMs": 715879,
+    "dDurationMs": 11601,
+    "segs": [ {
+      "utf8": "no matter how much you see, new places keep appearing. It's so vast and has so many different areas, so everything feels different."
+    } ]
+  }, {
+    "tStartMs": 728119,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Was there a place that was particularly special?"
+    } ]
+  }, {
+    "tStartMs": 733440,
+    "dDurationMs": 14280,
+    "segs": [ {
+      "utf8": "A particularly special place, a particularly special place... in Tokyo, ah, a place that stands out in my memory is Saitama. It's not Tokyo though."
+    } ]
+  }, {
+    "tStartMs": 747720,
+    "dDurationMs": 8440,
+    "segs": [ {
+      "utf8": "It's a place I went to when I was traveling in Tokyo, a bit north of Tokyo, and if you compare it to Korea, it's like the Gyeonggi region, the metropolitan area."
+    } ]
+  }, {
+    "tStartMs": 756160,
+    "dDurationMs": 9360,
+    "segs": [ {
+      "utf8": "In a place called Saitama, I met friends I met through an app called HelloTalk."
+    } ]
+  }, {
+    "tStartMs": 765520,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "So it felt like I got to see a real residential neighborhood, and that was pretty fun."
+    } ]
+  }, {
+    "tStartMs": 772320,
+    "dDurationMs": 7439,
+    "segs": [ {
+      "utf8": "Wow, is Saitama a pretty quiet neighborhood?"
+    } ]
+  }, {
+    "tStartMs": 779759,
+    "dDurationMs": 7481,
+    "segs": [ {
+      "utf8": "Yes, that's right, it's quiet. There aren't many tourists, and there are no Koreans, which is what I like."
+    } ]
+  }, {
+    "tStartMs": 787240,
+    "dDurationMs": 10200,
+    "segs": [ {
+      "utf8": "There are so many Korean tourists in Japan that it was just a place where local people go to work and live their daily lives."
+    } ]
+  }, {
+    "tStartMs": 797759,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "So even in neighborhoods like that, are there a lot of sushi restaurants and ramen shops?"
+    } ]
+  }, {
+    "tStartMs": 803919,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "There are plenty. I ate tonkatsu there, and it was really delicious."
+    } ]
+  }, {
+    "tStartMs": 811199,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "You didn't eat sushi in a neighborhood like that?"
+    } ]
+  }, {
+    "tStartMs": 814320,
+    "dDurationMs": 9760,
+    "segs": [ {
+      "utf8": "Ah, I only ate sushi in the downtown areas of big cities. That was delicious too."
+    } ]
+  }, {
+    "tStartMs": 824080,
+    "dDurationMs": 7479,
+    "segs": [ {
+      "utf8": "In Ginza? Was it Ginza or Shibuya? Shinjuku?"
+    } ]
+  }, {
+    "tStartMs": 831559,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I saw Ginza. Oh really? Yes, it's a luxury brand street, right?"
+    } ]
+  }, {
+    "tStartMs": 836559,
+    "dDurationMs": 5241,
+    "segs": [ {
+      "utf8": "Oh is it? I heard it's a luxury brand street, with luxury brands all lined up like that."
+    } ]
+  }, {
+    "tStartMs": 841800,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "That city, that neighborhood has a certain prestige to it."
+    } ]
+  }, {
+    "tStartMs": 846639,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Kind of like Apgujeong, with really big banks."
+    } ]
+  }, {
+    "tStartMs": 850399,
+    "dDurationMs": 3841,
+    "segs": [ {
+      "utf8": "Oh, or maybe not? I haven't been."
+    } ]
+  }, {
+    "tStartMs": 854240,
+    "dDurationMs": 10439,
+    "segs": [ {
+      "utf8": "Ah, but in Ginza there's something famous, like a sushi street? Something like that."
+    } ]
+  }, {
+    "tStartMs": 864679,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes, so there are sushi restaurants all lined up on that street."
+    } ]
+  }, {
+    "tStartMs": 868679,
+    "dDurationMs": 6081,
+    "segs": [ {
+      "utf8": "But wow, it was really delicious. Is it a high-end sushi restaurant?"
+    } ]
+  }, {
+    "tStartMs": 874760,
+    "dDurationMs": 8759,
+    "segs": [ {
+      "utf8": "It seemed like that kind of place. Not particularly casual or down-to-earth."
+    } ]
+  }, {
+    "tStartMs": 883519,
+    "dDurationMs": 10560,
+    "segs": [ {
+      "utf8": "Ah, but for that kind of place, the one time I went, it wasn't incredibly expensive."
+    } ]
+  }, {
+    "tStartMs": 894079,
+    "dDurationMs": 3841,
+    "segs": [ {
+      "utf8": "Worth eating? Ah no, the food was so delicious."
+    } ]
+  }, {
+    "tStartMs": 897920,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Ah, worth visiting? Yes yes yes, worth visiting."
+    } ]
+  }, {
+    "tStartMs": 901720,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "I see. So you said you went to Tokyo twice."
+    } ]
+  }, {
+    "tStartMs": 906799,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The first time I went, I went alone."
+    } ]
+  }, {
+    "tStartMs": 910959,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "The second time I went with two high school friends."
+    } ]
+  }, {
+    "tStartMs": 914359,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So I went back to that sushi restaurant I went to when I was alone, and the three of us went again."
+    } ]
+  }, {
+    "tStartMs": 918359,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Wow, a return visit? Yes."
+    } ]
+  }, {
+    "tStartMs": 921399,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "Wow, I don't think I've done a return visit."
+    } ]
+  }, {
+    "tStartMs": 926160,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Wow, it must have been that delicious."
+    } ]
+  }, {
+    "tStartMs": 930320,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "Ah, but I think it depends on your travel style too."
+    } ]
+  }, {
+    "tStartMs": 935399,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "Oh, what kind of style?"
+    } ]
+  }, {
+    "tStartMs": 938320,
+    "dDurationMs": 8199,
+    "segs": [ {
+      "utf8": "Ah, I'm the type who, if I've been somewhere before and it was really nice, I go again."
+    } ]
+  }, {
+    "tStartMs": 946519,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "Ah, I see. I try to go to as many new places as possible."
+    } ]
+  }, {
+    "tStartMs": 955559,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "Enjoying the trip fully, that's right."
+    } ]
+  }, {
+    "tStartMs": 960600,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "I want to talk about the appeal of traveling to Japan."
+    } ]
+  }, {
+    "tStartMs": 964880,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "Yes, I've been to Japan a lot."
+    } ]
+  }, {
+    "tStartMs": 969519,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I think I've been almost ten times."
+    } ]
+  }, {
+    "tStartMs": 972559,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "More than ten times?"
+    } ]
+  }, {
+    "tStartMs": 974720,
+    "dDurationMs": 5239,
+    "segs": [ {
+      "utf8": "But Japan is a place with really a lot of appeal."
+    } ]
+  }, {
+    "tStartMs": 979959,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "The biggest appeal I think of"
+    } ]
+  }, {
+    "tStartMs": 983359,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "is first of all that it's close."
+    } ]
+  }, {
+    "tStartMs": 986760,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 987760,
+    "dDurationMs": 8120,
+    "segs": [ {
+      "utf8": "And the people are really kind. The service is so so kind."
+    } ]
+  }, {
+    "tStartMs": 995880,
+    "dDurationMs": 6519,
+    "segs": [ {
+      "utf8": "I've had a lot of experiences where I felt that whenever I went, there were things I just wanted to learn."
+    } ]
+  }, {
+    "tStartMs": 1002399,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "The service aspect."
+    } ]
+  }, {
+    "tStartMs": 1004920,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "And there are so many delicious desserts."
+    } ]
+  }, {
+    "tStartMs": 1009440,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1010399,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, do you like desserts?"
+    } ]
+  }, {
+    "tStartMs": 1011959,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "I do."
+    } ]
+  }, {
+    "tStartMs": 1013679,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "It's heaven."
+    } ]
+  }, {
+    "tStartMs": 1015200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Ah yes, they're all delicious."
+    } ]
+  }, {
+    "tStartMs": 1018320,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 1019000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "They're all delicious, all delicious."
+    } ]
+  }, {
+    "tStartMs": 1020600,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "They're all delicious."
+    } ]
+  }, {
+    "tStartMs": 1021679,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1024679,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "Korea has that pride in food, so I think Korean food is delicious."
+    } ]
+  }, {
+    "tStartMs": 1030359,
+    "dDurationMs": 5801,
+    "segs": [ {
+      "utf8": "You won't go hungry—when you come to Korea, there are so many restaurants and cafes."
+    } ]
+  }, {
+    "tStartMs": 1036160,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "Japan has a ton too."
+    } ]
+  }, {
+    "tStartMs": 1041079,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Japan does."
+    } ]
+  }, {
+    "tStartMs": 1042799,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "The end."
+    } ]
+  }, {
+    "tStartMs": 1044519,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "When I think about it, I feel like there might be more, but what about you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 1047399,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "When I heard that story, what came to mind was"
+    } ]
+  }, {
+    "tStartMs": 1050519,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "there are a lot of places that preserve tradition really well."
+    } ]
+  }, {
+    "tStartMs": 1054359,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Oh, that too."
+    } ]
+  }, {
+    "tStartMs": 1056079,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Yes, that's really charming to me."
+    } ]
+  }, {
+    "tStartMs": 1058239,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1059119,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "Restaurants that are hundreds of years old."
+    } ]
+  }, {
+    "tStartMs": 1061600,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "Desserts that are hundreds of years old."
+    } ]
+  }, {
+    "tStartMs": 1063559,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1064079,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Ah, are there desserts that are hundreds of years old?"
+    } ]
+  }, {
+    "tStartMs": 1066519,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "There might be."
+    } ]
+  }, {
+    "tStartMs": 1067640,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Ah yes."
+    } ]
+  }, {
+    "tStartMs": 1069920,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1071959,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "Of course, there are also really good Western dessert shops in Japan."
+    } ]
+  }, {
+    "tStartMs": 1077000,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Like there are famous cream puff places and such."
+    } ]
+  }, {
+    "tStartMs": 1080480,
+    "dDurationMs": 4079,
+    "segs": [ {
+      "utf8": "But there are still a lot of traditional Japanese dessert shops."
+    } ]
+  }, {
+    "tStartMs": 1084559,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1085920,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "You know, when you go to places like that, you really get that feeling of being on a trip."
+    } ]
+  }, {
+    "tStartMs": 1089679,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Mm, that's right."
+    } ]
+  }, {
+    "tStartMs": 1091279,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "That's mostly it for me too, actually."
+    } ]
+  }, {
+    "tStartMs": 1094440,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "People are kind."
+    } ]
+  }, {
+    "tStartMs": 1096720,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And the food is delicious."
+    } ]
+  }, {
+    "tStartMs": 1101600,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "And Japan's own atmosphere."
+    } ]
+  }, {
+    "tStartMs": 1107480,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "What we call Japanese sensibility."
+    } ]
+  }, {
+    "tStartMs": 1108959,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "Yes, Japanese sensibility—that's charming."
+    } ]
+  }, {
+    "tStartMs": 1111480,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1113679,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "It feels really clean and calm."
+    } ]
+  }, {
+    "tStartMs": 1118239,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "Oh yes, that calm feeling."
+    } ]
+  }, {
+    "tStartMs": 1119320,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1120520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1122960,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "Since I like the calm side,"
+    } ]
+  }, {
+    "tStartMs": 1126039,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "what I've felt recently is"
+    } ]
+  }, {
+    "tStartMs": 1128119,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "there are places where people's footsteps don't really reach, you know?"
+    } ]
+  }, {
+    "tStartMs": 1132880,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "In Korea, when that happens, there's really a lot of grass."
+    } ]
+  }, {
+    "tStartMs": 1136320,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "A lot of weeds."
+    } ]
+  }, {
+    "tStartMs": 1138559,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "Power lines all broken and that kind of feeling."
+    } ]
+  }, {
+    "tStartMs": 1141840,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "But in Japan, even in those places, everything is kept really neat and tidy."
+    } ]
+  }, {
+    "tStartMs": 1148200,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "That's right, yes, it's clean, and"
+    } ]
+  }, {
+    "tStartMs": 1151960,
+    "dDurationMs": 4079,
+    "segs": [ {
+      "utf8": "I also kind of like that craftsmanship spirit."
+    } ]
+  }, {
+    "tStartMs": 1156039,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Whether it's desserts or food,"
+    } ]
+  }, {
+    "tStartMs": 1158440,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "it really feels like there's soul in it."
+    } ]
+  }, {
+    "tStartMs": 1161880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "There seem to be a lot of places like that."
+    } ]
+  }, {
+    "tStartMs": 1164440,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "Mm, that's right."
+    } ]
+  }, {
+    "tStartMs": 1166559,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "Ah, and like, what should I say"
+    } ]
+  }, {
+    "tStartMs": 1169080,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "They seem to be really good at branding and things like that."
+    } ]
+  }, {
+    "tStartMs": 1174440,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "I think so too."
+    } ]
+  }, {
+    "tStartMs": 1176039,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "Marketing, branding."
+    } ]
+  }, {
+    "tStartMs": 1177520,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1179479,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "So even if you just walk around and look,"
+    } ]
+  }, {
+    "tStartMs": 1183239,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "there are still a lot of interesting things,"
+    } ]
+  }, {
+    "tStartMs": 1186159,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "and a lot of things that catch your eye,"
+    } ]
+  }, {
+    "tStartMs": 1189320,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1190840,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1192200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "There are a lot of places with character, aren't there?"
+    } ]
+  }, {
+    "tStartMs": 1194440,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "People seem to think so too."
+    } ]
+  }, {
+    "tStartMs": 1197520,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "A bit of character,"
+    } ]
+  }, {
+    "tStartMs": 1200520,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "individuality, things like that seem alive in that country."
+    } ]
+  }, {
+    "tStartMs": 1207720,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "There's something I really like doing when I go to Japan."
+    } ]
+  }, {
+    "tStartMs": 1210920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 1211920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Like... Dan Dan Town? Places like that."
+    } ]
+  }, {
+    "tStartMs": 1215760,
+    "dDurationMs": 9920,
+    "segs": [ {
+      "utf8": "You do crane games, and if you like anime, you can buy figures,"
+    } ]
+  }, {
+    "tStartMs": 1225680,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "you can do those gacha things, and I like going to those places and watching people."
+    } ]
+  }, {
+    "tStartMs": 1231920,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Watching people?"
+    } ]
+  }, {
+    "tStartMs": 1233840,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1236240,
+    "dDurationMs": 10879,
+    "segs": [ {
+      "utf8": "It's fun to see people enjoying hobbies that I like."
+    } ]
+  }, {
+    "tStartMs": 1247119,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "But aren't those kinds of things popping up in Korea lately too?"
+    } ]
+  }, {
+    "tStartMs": 1250520,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "What kind?"
+    } ]
+  }, {
+    "tStartMs": 1252320,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "Gacha shops, crane games, figure-grabbing specialty stores?"
+    } ]
+  }, {
+    "tStartMs": 1259840,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "Like that?"
+    } ]
+  }, {
+    "tStartMs": 1261279,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Right. But they're all bringing in stuff from Japan, you know."
+    } ]
+  }, {
+    "tStartMs": 1264959,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1266279,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "The figures inside are all Japanese anime characters."
+    } ]
+  }, {
+    "tStartMs": 1271919,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "So it's fun to go see them at Bongojang."
+    } ]
+  }, {
+    "tStartMs": 1274720,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1276199,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "Do you go to those places often? Figure-grabbing?"
+    } ]
+  }, {
+    "tStartMs": 1279400,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "No. I never go."
+    } ]
+  }, {
+    "tStartMs": 1281559,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Why, why, why?"
+    } ]
+  }, {
+    "tStartMs": 1282639,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Well, I just don't get the fun of it."
+    } ]
+  }, {
+    "tStartMs": 1284559,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1285919,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1287360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Just try watching people once."
+    } ]
+  }, {
+    "tStartMs": 1290360,
+    "dDurationMs": 8239,
+    "segs": [ {
+      "utf8": "People struggling desperately to grab something, that passion."
+    } ]
+  }, {
+    "tStartMs": 1298599,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Their faces get red while they're desperately trying to grab it."
+    } ]
+  }, {
+    "tStartMs": 1304919,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Their faces get red? That much?"
+    } ]
+  }, {
+    "tStartMs": 1307239,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "That's because it doesn't come out, so they get frustrated."
+    } ]
+  }, {
+    "tStartMs": 1311440,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "And then if it doesn't work out, they just go like this and,"
+    } ]
+  }, {
+    "tStartMs": 1314599,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "like that! Like this."
+    } ]
+  }, {
+    "tStartMs": 1317239,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Right. They stand in front and can't leave the spot."
+    } ]
+  }, {
+    "tStartMs": 1322279,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "It's so cute, things like that."
+    } ]
+  }, {
+    "tStartMs": 1324480,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "How much they must want to have it."
+    } ]
+  }, {
+    "tStartMs": 1327559,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "There's something that was trendy for a while, maid cafes, you know."
+    } ]
+  }, {
+    "tStartMs": 1331440,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 1332880,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "There are those kinds of things all over that street."
+    } ]
+  }, {
+    "tStartMs": 1336279,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "So then there are people in maid outfits standing all over the street, you know."
+    } ]
+  }, {
+    "tStartMs": 1342119,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1342720,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "It's a sight you can't see in any other country."
+    } ]
+  }, {
+    "tStartMs": 1346279,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Oh, right."
+    } ]
+  }, {
+    "tStartMs": 1347119,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "It's so amazing, and I'm like, wow, this is the real thing, this is authentic, and I watch."
+    } ]
+  }, {
+    "tStartMs": 1355119,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "Wow, a maid cafe."
+    } ]
+  }, {
+    "tStartMs": 1358320,
+    "dDurationMs": 519,
+    "segs": [ {
+      "utf8": "Have you been?"
+    } ]
+  }, {
+    "tStartMs": 1358839,
+    "dDurationMs": 5601,
+    "segs": [ {
+      "utf8": "I'd like to go once. I haven't been."
+    } ]
+  }, {
+    "tStartMs": 1364479,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I don't think I can go anymore now."
+    } ]
+  }, {
+    "tStartMs": 1366679,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Oh, I've never been even once."
+    } ]
+  }, {
+    "tStartMs": 1368839,
+    "dDurationMs": 3961,
+    "segs": [ {
+      "utf8": "I think it would be fun to go to a maid cafe with Teacher Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 1372800,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "Suffering, watching people suffer."
+    } ]
+  }, {
+    "tStartMs": 1376839,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "So I think I'd break if I went there."
+    } ]
+  }, {
+    "tStartMs": 1380240,
+    "dDurationMs": 6319,
+    "segs": [ {
+      "utf8": "Since they do everything in Japanese there, I'm worried I won't understand, so I haven't been yet."
+    } ]
+  }, {
+    "tStartMs": 1386559,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I want to study harder and go visit sometime."
+    } ]
+  }, {
+    "tStartMs": 1390279,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "Oh, wouldn't someone at Didi's level understand it all?"
+    } ]
+  }, {
+    "tStartMs": 1394160,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Well, how do I put it, it seems like you'd need a certain kind of boldness to go there."
+    } ]
+  }, {
+    "tStartMs": 1399720,
+    "dDurationMs": 7919,
+    "segs": [ {
+      "utf8": "I don't think I'm at the level to do that kind of thing, so I think I can only do simple conversation."
+    } ]
+  }, {
+    "tStartMs": 1407639,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "I don't think I could enjoy it 100%."
+    } ]
+  }, {
+    "tStartMs": 1410320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, I don't think I could do it."
+    } ]
+  }, {
+    "tStartMs": 1412320,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Can't you do \"Mohae mohae cue\"?"
+    } ]
+  }, {
+    "tStartMs": 1414160,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Oh!"
+    } ]
+  }, {
+    "tStartMs": 1418240,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "An order that makes the food taste better."
+    } ]
+  }, {
+    "tStartMs": 1422360,
+    "dDurationMs": 5319,
+    "segs": [ {
+      "utf8": "Oh, that sounds so fun? You can't experience that anywhere else."
+    } ]
+  }, {
+    "tStartMs": 1427679,
+    "dDurationMs": 7561,
+    "segs": [ {
+      "utf8": "Oh, just thinking about it is impossible, impossible, impossible."
+    } ]
+  }, {
+    "tStartMs": 1435240,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1437320,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "It really is fun."
+    } ]
+  }, {
+    "tStartMs": 1439160,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "It's a fun country."
+    } ]
+  }, {
+    "tStartMs": 1441279,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "It's a really unique country."
+    } ]
+  }, {
+    "tStartMs": 1444839,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong went to Japan a lot of times alone, didn't you?"
+    } ]
+  }, {
+    "tStartMs": 1450360,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Most of the time, yes."
+    } ]
+  }, {
+    "tStartMs": 1452080,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So it was fun, wasn't it?"
+    } ]
+  }, {
+    "tStartMs": 1455360,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Oh, no, no."
+    } ]
+  }, {
+    "tStartMs": 1457399,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "I went to Osaka first,"
+    } ]
+  }, {
+    "tStartMs": 1460040,
+    "dDurationMs": 3919,
+    "segs": [ {
+      "utf8": "then went to Fukuoka alone, and then went to Tokyo,"
+    } ]
+  }, {
+    "tStartMs": 1463959,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "and then went to Tokyo with two friends,"
+    } ]
+  }, {
+    "tStartMs": 1466720,
+    "dDurationMs": 6399,
+    "segs": [ {
+      "utf8": "and when I first went to Osaka, a friend came along who was also from the same high school."
+    } ]
+  }, {
+    "tStartMs": 1473119,
+    "dDurationMs": 1881,
+    "segs": [ {
+      "utf8": "Actually, we were in the same class."
+    } ]
+  }, {
+    "tStartMs": 1475000,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 1475839,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1478600,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Was there anything you liked better?"
+    } ]
+  }, {
+    "tStartMs": 1483320,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Oh, well, I liked both."
+    } ]
+  }, {
+    "tStartMs": 1485640,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "They both had different kinds of fun."
+    } ]
+  }, {
+    "tStartMs": 1490000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Was traveling alone okay for you?"
+    } ]
+  }, {
+    "tStartMs": 1492200,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "I liked it."
+    } ]
+  }, {
+    "tStartMs": 1494239,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Did you have several chance encounters there?"
+    } ]
+  }, {
+    "tStartMs": 1499519,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "I think there were two."
+    } ]
+  }, {
+    "tStartMs": 1502720,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "I heard about that last time. The one you met at Golden Gai."
+    } ]
+  }, {
+    "tStartMs": 1506959,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, so that's three then."
+    } ]
+  }, {
+    "tStartMs": 1509959,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "What, there might be more I don't remember."
+    } ]
+  }, {
+    "tStartMs": 1513119,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "That's right, yeah."
+    } ]
+  }, {
+    "tStartMs": 1514799,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "Is there a memorable episode or something?"
+    } ]
+  }, {
+    "tStartMs": 1517320,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "Something memorable,"
+    } ]
+  }, {
+    "tStartMs": 1518839,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "but the Golden Gai episode is the most striking."
+    } ]
+  }, {
+    "tStartMs": 1523239,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "That's now on your channel too, Didi,"
+    } ]
+  }, {
+    "tStartMs": 1526760,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "the first time I appeared on your channel for an interview,"
+    } ]
+  }, {
+    "tStartMs": 1531959,
+    "dDurationMs": 5761,
+    "segs": [ {
+      "utf8": "the Golden Gai story is in there in quite a bit of detail."
+    } ]
+  }, {
+    "tStartMs": 1537720,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "And the other two times,"
+    } ]
+  }, {
+    "tStartMs": 1542920,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "well, were they both in Tokyo?"
+    } ]
+  }, {
+    "tStartMs": 1547679,
+    "dDurationMs": 6361,
+    "segs": [ {
+      "utf8": "Anyway, I went alone and stayed at a hostel,"
+    } ]
+  }, {
+    "tStartMs": 1554040,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "so on that first day I unpacked my luggage and in the hostel lounge"
+    } ]
+  }, {
+    "tStartMs": 1559920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I started planning my trip for the next day from then on."
+    } ]
+  }, {
+    "tStartMs": 1563440,
+    "dDurationMs": 6079,
+    "segs": [ {
+      "utf8": "There were two Chinese girls sitting across from me,"
+    } ]
+  }, {
+    "tStartMs": 1569519,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "and our eyes met and those friends smiled at me,"
+    } ]
+  }, {
+    "tStartMs": 1573600,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "so I smiled back in return,"
+    } ]
+  }, {
+    "tStartMs": 1576799,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and they asked where I was from and things like that,"
+    } ]
+  }, {
+    "tStartMs": 1580399,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "so we became a bit friendly."
+    } ]
+  }, {
+    "tStartMs": 1583480,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "But unfortunately those friends left that day,"
+    } ]
+  }, {
+    "tStartMs": 1590200,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and so that was that,"
+    } ]
+  }, {
+    "tStartMs": 1594760,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "and another experience was,"
+    } ]
+  }, {
+    "tStartMs": 1599239,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "You mentioned earlier that Ginza has sushi restaurants lined up everywhere, right?"
+    } ]
+  }, {
+    "tStartMs": 1603880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I went alone to one place that looked pretty decent,"
+    } ]
+  }, {
+    "tStartMs": 1607720,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "and when I go alone, I don't sit at a table,"
+    } ]
+  }, {
+    "tStartMs": 1611239,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I prefer to sit at a bar-like counter seat."
+    } ]
+  }, {
+    "tStartMs": 1614679,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Is that called a dodgey seat?"
+    } ]
+  }, {
+    "tStartMs": 1616279,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "Oh, a dodgey seat?"
+    } ]
+  }, {
+    "tStartMs": 1619200,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "You sit in front first, right?"
+    } ]
+  }, {
+    "tStartMs": 1622440,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "So I was sitting there eating,"
+    } ]
+  }, {
+    "tStartMs": 1625959,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "and next to me was this Japanese gentleman,"
+    } ]
+  }, {
+    "tStartMs": 1628640,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "well, not really a gentleman, more like a young gentleman?"
+    } ]
+  }, {
+    "tStartMs": 1631239,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "Yes. A middle-aged man?"
+    } ]
+  }, {
+    "tStartMs": 1632920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Somewhere between a gentleman and a middle-aged man?"
+    } ]
+  }, {
+    "tStartMs": 1634920,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Yes. There was a refined Japanese gentleman sitting there eating sushi,"
+    } ]
+  }, {
+    "tStartMs": 1638440,
+    "dDurationMs": 7519,
+    "segs": [ {
+      "utf8": "and somehow our eyes met and we ended up greeting each other."
+    } ]
+  }, {
+    "tStartMs": 1645959,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "And then he told me he was a pianist."
+    } ]
+  }, {
+    "tStartMs": 1652279,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1658799,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Yes. So I thought that was really cool."
+    } ]
+  }, {
+    "tStartMs": 1659519,
+    "dDurationMs": 5921,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1665440,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "So it seems he wanted to play me a piano piece he had recorded."
+    } ]
+  }, {
+    "tStartMs": 1665920,
+    "dDurationMs": 8439,
+    "segs": [ {
+      "utf8": "So instead of playing it from his phone,"
+    } ]
+  }, {
+    "tStartMs": 1674359,
+    "dDurationMs": 7681,
+    "segs": [ {
+      "utf8": "he had me search for it on YouTube using my phone, and that's how I listened to it."
+    } ]
+  }, {
+    "tStartMs": 1682040,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "But since I was traveling alone, I thought I wouldn't use much internet,"
+    } ]
+  }, {
+    "tStartMs": 1687959,
+    "dDurationMs": 5481,
+    "segs": [ {
+      "utf8": "so I didn't buy much data."
+    } ]
+  }, {
+    "tStartMs": 1693440,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1695239,
+    "dDurationMs": 681,
+    "segs": [ {
+      "utf8": "Without WiFi, I couldn't get online."
+    } ]
+  }, {
+    "tStartMs": 1695920,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "So I didn't have much data left,"
+    } ]
+  }, {
+    "tStartMs": 1700359,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and after playing the YouTube video, more than half my data was gone."
+    } ]
+  }, {
+    "tStartMs": 1703399,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "Ah~~"
+    } ]
+  }, {
+    "tStartMs": 1707480,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "So I gave an awkward laugh like that,"
+    } ]
+  }, {
+    "tStartMs": 1709079,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1714359,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Yes. I enjoyed the sushi and that was that."
+    } ]
+  }, {
+    "tStartMs": 1715679,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "My data was running out, so I must have been listening like that."
+    } ]
+  }, {
+    "tStartMs": 1718000,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "Couldn't focus on the piano."
+    } ]
+  }, {
+    "tStartMs": 1721159,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1722479,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "Hmm~~"
+    } ]
+  }, {
+    "tStartMs": 1723640,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Was his name Hiroyuki or something?"
+    } ]
+  }, {
+    "tStartMs": 1724960,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "Oh~~ you even got his name?"
+    } ]
+  }, {
+    "tStartMs": 1727039,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1728479,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "So you had that kind of encounter too."
+    } ]
+  }, {
+    "tStartMs": 1729960,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Those two times really stuck with me."
+    } ]
+  }, {
+    "tStartMs": 1731440,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "Hmm~~"
+    } ]
+  }, {
+    "tStartMs": 1733599,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "I was in Japan..."
+    } ]
+  }, {
+    "tStartMs": 1736039,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "No, but it all ended there."
+    } ]
+  }, {
+    "tStartMs": 1737559,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "Oh I see. Unlike Taiwan, we didn't end up traveling together or anything like that."
+    } ]
+  }, {
+    "tStartMs": 1740080,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1745919,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "There is that too,"
+    } ]
+  }, {
+    "tStartMs": 1747119,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1749039,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "But that wasn't when I was alone."
+    } ]
+  }, {
+    "tStartMs": 1749679,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Oh that's right."
+    } ]
+  }, {
+    "tStartMs": 1751640,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1752760,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "Oh, what were you saying, Didi..."
+    } ]
+  }, {
+    "tStartMs": 1753599,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "Oh, me?"
+    } ]
+  }, {
+    "tStartMs": 1755840,
+    "dDurationMs": 519,
+    "segs": [ {
+      "utf8": "Go ahead."
+    } ]
+  }, {
+    "tStartMs": 1756359,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "For me, rather than meeting people by chance,"
+    } ]
+  }, {
+    "tStartMs": 1757479,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "I tend to meet people I already knew,"
+    } ]
+  }, {
+    "tStartMs": 1761080,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "people I had only been in contact with,"
+    } ]
+  }, {
+    "tStartMs": 1762919,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "when I went to Japan."
+    } ]
+  }, {
+    "tStartMs": 1768679,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Weren't you nervous?"
+    } ]
+  }, {
+    "tStartMs": 1770799,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "I don't get nervous about things like that."
+    } ]
+  }, {
+    "tStartMs": 1772559,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1773719,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Were you nervous?"
+    } ]
+  }, {
+    "tStartMs": 1775239,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "It was fun."
+    } ]
+  }, {
+    "tStartMs": 1776320,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Hmm~~"
+    } ]
+  }, {
+    "tStartMs": 1779520,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "Did you meet quite a few people?"
+    } ]
+  }, {
+    "tStartMs": 1782039,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "I met a lot, really."
+    } ]
+  }, {
+    "tStartMs": 1783479,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I met some people who were my students,"
+    } ]
+  }, {
+    "tStartMs": 1785799,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "people I met on HelloTalk,"
+    } ]
+  }, {
+    "tStartMs": 1788960,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "Shosang and Keiko, Keiko-san."
+    } ]
+  }, {
+    "tStartMs": 1792919,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "There were two of them, and the three of us hung out together too,"
+    } ]
+  }, {
+    "tStartMs": 1797840,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "I met a lot of people from HelloTalk."
+    } ]
+  }, {
+    "tStartMs": 1801000,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Wow, that's impressive."
+    } ]
+  }, {
+    "tStartMs": 1803240,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Right, and that's when I tend to meet people more, you know."
+    } ]
+  }, {
+    "tStartMs": 1807440,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Wow, but you never told me about HelloTalk."
+    } ]
+  }, {
+    "tStartMs": 1813040,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 1814640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "HelloTalk—you never even chat with me on there."
+    } ]
+  }, {
+    "tStartMs": 1816840,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "People don't reach out to you?"
+    } ]
+  }, {
+    "tStartMs": 1818240,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1820540,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Well, try using the voice room feature a bit."
+    } ]
+  }, {
+    "tStartMs": 1824540,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Voice room."
+    } ]
+  }, {
+    "tStartMs": 1826040,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Voice room."
+    } ]
+  }, {
+    "tStartMs": 1827780,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I actually got close to people there."
+    } ]
+  }, {
+    "tStartMs": 1830180,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Ah, okay, I understand."
+    } ]
+  }, {
+    "tStartMs": 1832480,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Well, I get nervous too, so I'm not good at that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 1834880,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Really? You get nervous again?"
+    } ]
+  }, {
+    "tStartMs": 1837180,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1838380,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Is it meeting people offline that makes you nervous?"
+    } ]
+  }, {
+    "tStartMs": 1840680,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1841680,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Then what is it?"
+    } ]
+  }, {
+    "tStartMs": 1842680,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How do I put it?"
+    } ]
+  }, {
+    "tStartMs": 1845680,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Like, it's not meeting by chance,"
+    } ]
+  }, {
+    "tStartMs": 1852080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "it's like, I'm going to make a friend, and then I just do it."
+    } ]
+  }, {
+    "tStartMs": 1856520,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I'm going to make a friend here, who's around?"
+    } ]
+  }, {
+    "tStartMs": 1860020,
+    "dDurationMs": 4499,
+    "segs": [ {
+      "utf8": "It's hard for me when I look at it that way and do it."
+    } ]
+  }, {
+    "tStartMs": 1864519,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1868019,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "And if you have friends to meet like that,"
+    } ]
+  }, {
+    "tStartMs": 1871519,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "you'd probably travel more often, wouldn't you?"
+    } ]
+  }, {
+    "tStartMs": 1874019,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1876019,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "What I was thinking was"
+    } ]
+  }, {
+    "tStartMs": 1877519,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "back then it was just the closest travel destination from Korea, Japan."
+    } ]
+  }, {
+    "tStartMs": 1882519,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "These days I've met so many new friends"
+    } ]
+  }, {
+    "tStartMs": 1885559,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "and there are a lot of subscribers in Japan too"
+    } ]
+  }, {
+    "tStartMs": 1889059,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so it's become really precious to me."
+    } ]
+  }, {
+    "tStartMs": 1892059,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, I'm envious."
+    } ]
+  }, {
+    "tStartMs": 1894059,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah, I wish I could meet a lot of Japanese people too."
+    } ]
+  }, {
+    "tStartMs": 1897059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1898059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1899059,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I'll introduce you."
+    } ]
+  }, {
+    "tStartMs": 1900559,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "To subscribers, your subscribers?"
+    } ]
+  }, {
+    "tStartMs": 1903059,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Yes. But that's difficult too, isn't it."
+    } ]
+  }, {
+    "tStartMs": 1906559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But when I think about it,"
+    } ]
+  }, {
+    "tStartMs": 1908559,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'm already on Didi's channel every week with just my voice, right?"
+    } ]
+  }, {
+    "tStartMs": 1912559,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1915099,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Well, but my channel—"
+    } ]
+  }, {
+    "tStartMs": 1918599,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "if people aren't listening, that just means they're not listening, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 1921599,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Hmm..."
+    } ]
+  }, {
+    "tStartMs": 1923099,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "They're listening but just not leaving comments, maybe?"
+    } ]
+  }, {
+    "tStartMs": 1926099,
+    "dDurationMs": 3001,
+    "segs": [ {
+      "utf8": "Ah, well, that could be it."
+    } ]
+  }, {
+    "tStartMs": 1929100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I listen to podcasts a lot too,"
+    } ]
+  }, {
+    "tStartMs": 1931100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but I don't usually write comments."
+    } ]
+  }, {
+    "tStartMs": 1934100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Surely they want to get closer to Taeyong-nim,"
+    } ]
+  }, {
+    "tStartMs": 1937100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There are probably quite a few Japanese people too."
+    } ]
+  }, {
+    "tStartMs": 1939100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And there's Atsuko, you know."
+    } ]
+  }, {
+    "tStartMs": 1940600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, yes, there is Atsuko."
+    } ]
+  }, {
+    "tStartMs": 1942639,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Atsuko is"
+    } ]
+  }, {
+    "tStartMs": 1945639,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "really a special person because of that."
+    } ]
+  }, {
+    "tStartMs": 1949639,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Don't you have any Japanese friends?"
+    } ]
+  }, {
+    "tStartMs": 1952639,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Almost none."
+    } ]
+  }, {
+    "tStartMs": 1956639,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "One, do I have one? Two?"
+    } ]
+  }, {
+    "tStartMs": 1961639,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "When I went to Tokyo with those friends"
+    } ]
+  }, {
+    "tStartMs": 1966139,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1967139,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So what happened at that time was"
+    } ]
+  }, {
+    "tStartMs": 1969139,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "please tell me."
+    } ]
+  }, {
+    "tStartMs": 1970679,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When I went there alone before"
+    } ]
+  }, {
+    "tStartMs": 1973679,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "there's this really huge intersection in Tokyo that I'd been to."
+    } ]
+  }, {
+    "tStartMs": 1976679,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Uh, yes there is."
+    } ]
+  }, {
+    "tStartMs": 1978679,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it Shinjuku?"
+    } ]
+  }, {
+    "tStartMs": 1980679,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Shibuya, Shibuya Scramble."
+    } ]
+  }, {
+    "tStartMs": 1982679,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, that's the one."
+    } ]
+  }, {
+    "tStartMs": 1984679,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "At that really huge intersection"
+    } ]
+  }, {
+    "tStartMs": 1986679,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "there's like a big sign for a love hotel"
+    } ]
+  }, {
+    "tStartMs": 1989679,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and it's all flashy and bright."
+    } ]
+  }, {
+    "tStartMs": 1991679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1992679,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And when the light turns blue, people just pour out."
+    } ]
+  }, {
+    "tStartMs": 1994679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1995679,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "After seeing that when I went alone"
+    } ]
+  }, {
+    "tStartMs": 1998720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was so impressed by the sight"
+    } ]
+  }, {
+    "tStartMs": 2001720,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2002720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "when I went with friends too"
+    } ]
+  }, {
+    "tStartMs": 2004720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "hey, guys, we have to go there."
+    } ]
+  }, {
+    "tStartMs": 2007720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so I suggested we go together."
+    } ]
+  }, {
+    "tStartMs": 2009720,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But I got confused about the directions."
+    } ]
+  }, {
+    "tStartMs": 2013720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So we got a bit lost."
+    } ]
+  }, {
+    "tStartMs": 2015720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What, inside the station?"
+    } ]
+  }, {
+    "tStartMs": 2017720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "No, we were walking around that neighborhood"
+    } ]
+  }, {
+    "tStartMs": 2020720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "on foot."
+    } ]
+  }, {
+    "tStartMs": 2022720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But like the map, my phone wasn't very good back then"
+    } ]
+  }, {
+    "tStartMs": 2025759,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and the GPS direction was off and stuff"
+    } ]
+  }, {
+    "tStartMs": 2028759,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so we got lost a few times."
+    } ]
+  }, {
+    "tStartMs": 2031759,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Then we stopped on the street"
+    } ]
+  }, {
+    "tStartMs": 2033759,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and the three of us were looking at our phones like this"
+    } ]
+  }, {
+    "tStartMs": 2035759,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "like, is it there? Is it there?"
+    } ]
+  }, {
+    "tStartMs": 2037759,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "when two Japanese citizens came up to us"
+    } ]
+  }, {
+    "tStartMs": 2042759,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "one was a woman, one was a man"
+    } ]
+  }, {
+    "tStartMs": 2045759,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and those two people came up to us"
+    } ]
+  }, {
+    "tStartMs": 2049759,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and the woman was speaking Korean."
+    } ]
+  }, {
+    "tStartMs": 2051759,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 2052800,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "and she was saying, if she knows how to speak Korean"
+    } ]
+  }, {
+    "tStartMs": 2056799,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and if we're looking for somewhere, she'd help us."
+    } ]
+  }, {
+    "tStartMs": 2060799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So I said, ah, thank you."
+    } ]
+  }, {
+    "tStartMs": 2062799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we're looking for this intersection"
+    } ]
+  }, {
+    "tStartMs": 2064799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "how do we get there? That's what I asked."
+    } ]
+  }, {
+    "tStartMs": 2066799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So on the way there"
+    } ]
+  }, {
+    "tStartMs": 2068799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we kept saying thank you, thank you"
+    } ]
+  }, {
+    "tStartMs": 2070799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and so to that intersection"
+    } ]
+  }, {
+    "tStartMs": 2072799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it probably took about 5 minutes."
+    } ]
+  }, {
+    "tStartMs": 2075799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But for me"
+    } ]
+  }, {
+    "tStartMs": 2078799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "whenever I go somewhere to travel with friends"
+    } ]
+  }, {
+    "tStartMs": 2081839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "or like do something, I"
+    } ]
+  }, {
+    "tStartMs": 2083839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "tend to ask my friends about those kinds of things sometimes."
+    } ]
+  }, {
+    "tStartMs": 2085839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "because I have a lot of that kind of experience"
+    } ]
+  }, {
+    "tStartMs": 2087839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If"
+    } ]
+  }, {
+    "tStartMs": 2089839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "on this trip"
+    } ]
+  }, {
+    "tStartMs": 2091839,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "there's an opportunity to make new friends."
+    } ]
+  }, {
+    "tStartMs": 2094839,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "like some unexpected"
+    } ]
+  }, {
+    "tStartMs": 2097839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "if that kind of opportunity comes up"
+    } ]
+  }, {
+    "tStartMs": 2099839,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "do you prefer playing just among yourselves"
+    } ]
+  }, {
+    "tStartMs": 2102839,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "or do you want to take the chance to make new friends?"
+    } ]
+  }, {
+    "tStartMs": 2106839,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's the kind of thing I ask sometimes."
+    } ]
+  }, {
+    "tStartMs": 2110880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But it seemed like they said it wasn't bad."
+    } ]
+  }, {
+    "tStartMs": 2114880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But anyway"
+    } ]
+  }, {
+    "tStartMs": 2116880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "these two friends"
+    } ]
+  }, {
+    "tStartMs": 2118880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the Japanese people who were showing us the way"
+    } ]
+  }, {
+    "tStartMs": 2121880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we were going together with those two people"
+    } ]
+  }, {
+    "tStartMs": 2123880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I was in the back"
+    } ]
+  }, {
+    "tStartMs": 2125880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "watching them while walking"
+    } ]
+  }, {
+    "tStartMs": 2127880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 2129880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "wouldn't say I'm an expert or anything"
+    } ]
+  }, {
+    "tStartMs": 2133880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but anyway just walking along the path"
+    } ]
+  }, {
+    "tStartMs": 2136880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I was watching them right behind me"
+    } ]
+  }, {
+    "tStartMs": 2138920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and it was so frustrating."
+    } ]
+  }, {
+    "tStartMs": 2141920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What was?"
+    } ]
+  }, {
+    "tStartMs": 2142920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "just they kept saying thank you, thank you"
+    } ]
+  }, {
+    "tStartMs": 2144920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and just going like that."
+    } ]
+  }, {
+    "tStartMs": 2148920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "shouldn't we ask them more questions?"
+    } ]
+  }, {
+    "tStartMs": 2150920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I was so frustrated that I just stepped forward."
+    } ]
+  }, {
+    "tStartMs": 2152920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How?"
+    } ]
+  }, {
+    "tStartMs": 2153920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "well, we're so grateful for showing us the way"
+    } ]
+  }, {
+    "tStartMs": 2156920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "if it's okay, we'd like to buy you a beer or something."
+    } ]
+  }, {
+    "tStartMs": 2160920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "if you don't have anything to do after"
+    } ]
+  }, {
+    "tStartMs": 2162920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so we're curious about places only Japanese people know"
+    } ]
+  }, {
+    "tStartMs": 2165959,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "like bars and such"
+    } ]
+  }, {
+    "tStartMs": 2168959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "could you introduce us to some?"
+    } ]
+  }, {
+    "tStartMs": 2170959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that's what I said."
+    } ]
+  }, {
+    "tStartMs": 2174959,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You're an expert."
+    } ]
+  }, {
+    "tStartMs": 2177959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "An expert at casting strangers."
+    } ]
+  }, {
+    "tStartMs": 2181959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so really"
+    } ]
+  }, {
+    "tStartMs": 2183959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a bar packed with only Japanese people"
+    } ]
+  }, {
+    "tStartMs": 2185959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we went to"
+    } ]
+  }, {
+    "tStartMs": 2187959,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it was good."
+    } ]
+  }, {
+    "tStartMs": 2189959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so that bar was really nice too."
+    } ]
+  }, {
+    "tStartMs": 2192000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so we had a really fun"
+    } ]
+  }, {
+    "tStartMs": 2194000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "time there"
+    } ]
+  }, {
+    "tStartMs": 2196000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and also"
+    } ]
+  }, {
+    "tStartMs": 2198000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "between the man and the woman"
+    } ]
+  }, {
+    "tStartMs": 2200000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the woman"
+    } ]
+  }, {
+    "tStartMs": 2202000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "had the next day off from work"
+    } ]
+  }, {
+    "tStartMs": 2204000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so she said she had nothing going on."
+    } ]
+  }, {
+    "tStartMs": 2208000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "are those two a couple? or friends?"
+    } ]
+  }, {
+    "tStartMs": 2210000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "not a couple"
+    } ]
+  }, {
+    "tStartMs": 2212000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they were"
+    } ]
+  }, {
+    "tStartMs": 2214000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "coworkers from the same company."
+    } ]
+  }, {
+    "tStartMs": 2217000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that woman"
+    } ]
+  }, {
+    "tStartMs": 2219000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "had no plans the next day"
+    } ]
+  }, {
+    "tStartMs": 2221040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so we're going to Asakusa temple in Tokyo"
+    } ]
+  }, {
+    "tStartMs": 2223040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "do you want to come with us? so"
+    } ]
+  }, {
+    "tStartMs": 2225040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we got a guide from her too."
+    } ]
+  }, {
+    "tStartMs": 2227040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so that Asakusa"
+    } ]
+  }, {
+    "tStartMs": 2231040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the place there"
+    } ]
+  }, {
+    "tStartMs": 2233040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the delicious restaurants nearby"
+    } ]
+  }, {
+    "tStartMs": 2235040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "근처에 있는 맛있는 맛집들도"
+    } ]
+  }, {
+    "tStartMs": 2237040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "He introduced me,"
+    } ]
+  }, {
+    "tStartMs": 2239040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I went there and all that."
+    } ]
+  }, {
+    "tStartMs": 2241040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In front of Asakusa, there's a really big"
+    } ]
+  }, {
+    "tStartMs": 2243040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "street food, you know."
+    } ]
+  }, {
+    "tStartMs": 2246040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Did you eat melon bread?"
+    } ]
+  }, {
+    "tStartMs": 2248040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I had eaten it."
+    } ]
+  }, {
+    "tStartMs": 2250079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I ate it, I ate it."
+    } ]
+  }, {
+    "tStartMs": 2252079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, you really know about those things."
+    } ]
+  }, {
+    "tStartMs": 2254079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "By chance"
+    } ]
+  }, {
+    "tStartMs": 2256079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "when I met someone,"
+    } ]
+  }, {
+    "tStartMs": 2258079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't just let it pass as coincidence"
+    } ]
+  }, {
+    "tStartMs": 2260079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but turn it into a connection."
+    } ]
+  }, {
+    "tStartMs": 2262079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I can't do that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 2266079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "At an izakaya,"
+    } ]
+  }, {
+    "tStartMs": 2268079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "starting conversations like that,"
+    } ]
+  }, {
+    "tStartMs": 2270079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "to a stranger, just"
+    } ]
+  }, {
+    "tStartMs": 2272079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "suddenly talking to them,"
+    } ]
+  }, {
+    "tStartMs": 2274079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "doing a bit of small talk"
+    } ]
+  }, {
+    "tStartMs": 2276079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "like that,"
+    } ]
+  }, {
+    "tStartMs": 2278119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so the friends I went with"
+    } ]
+  }, {
+    "tStartMs": 2280119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "would say, \"You speak Japanese,"
+    } ]
+  }, {
+    "tStartMs": 2282119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so try talking to someone,\""
+    } ]
+  }, {
+    "tStartMs": 2284119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I'd say I can't do it,"
+    } ]
+  }, {
+    "tStartMs": 2286119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and that was that."
+    } ]
+  }, {
+    "tStartMs": 2288119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But that must feel really burdensome."
+    } ]
+  }, {
+    "tStartMs": 2293119,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm already"
+    } ]
+  }, {
+    "tStartMs": 2294119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "worried about being rejected, kind of"
+    } ]
+  }, {
+    "tStartMs": 2296119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that—"
+    } ]
+  }, {
+    "tStartMs": 2298119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think I'm worried about that."
+    } ]
+  }, {
+    "tStartMs": 2300119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Actually, if they reject you,"
+    } ]
+  }, {
+    "tStartMs": 2302119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "then they reject you,"
+    } ]
+  }, {
+    "tStartMs": 2304160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "right."
+    } ]
+  }, {
+    "tStartMs": 2306160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When you've already made plans and meet up,"
+    } ]
+  }, {
+    "tStartMs": 2308160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it's because both of you have the time,"
+    } ]
+  }, {
+    "tStartMs": 2310160,
+    "dDurationMs": 1999,
+    "segs": [ {
+      "utf8": "so that's fine,"
+    } ]
+  }, {
+    "tStartMs": 2312159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but a person walking down the street, or"
+    } ]
+  }, {
+    "tStartMs": 2314159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a person sitting at the next table,"
+    } ]
+  }, {
+    "tStartMs": 2316159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "those kinds of people might just"
+    } ]
+  }, {
+    "tStartMs": 2318159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "want to be with their own group, you know."
+    } ]
+  }, {
+    "tStartMs": 2320159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And they might not be able to refuse either."
+    } ]
+  }, {
+    "tStartMs": 2322159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Maybe because I'm a foreigner,"
+    } ]
+  }, {
+    "tStartMs": 2324159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I end up thinking about that"
+    } ]
+  }, {
+    "tStartMs": 2326159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and can't bring myself to speak."
+    } ]
+  }, {
+    "tStartMs": 2328159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That makes sense too."
+    } ]
+  }, {
+    "tStartMs": 2330159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It makes sense."
+    } ]
+  }, {
+    "tStartMs": 2332200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But I also can't just suddenly"
+    } ]
+  }, {
+    "tStartMs": 2334200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "like some writer or something,"
+    } ]
+  }, {
+    "tStartMs": 2336200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "just charge in on my own"
+    } ]
+  }, {
+    "tStartMs": 2338200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and grab just anyone to talk to."
+    } ]
+  }, {
+    "tStartMs": 2340200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Absolutely not."
+    } ]
+  }, {
+    "tStartMs": 2342200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But"
+    } ]
+  }, {
+    "tStartMs": 2344200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "what's the skill?"
+    } ]
+  }, {
+    "tStartMs": 2346200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That person"
+    } ]
+  }, {
+    "tStartMs": 2348200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "seems like"
+    } ]
+  }, {
+    "tStartMs": 2350200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they'd be open to it."
+    } ]
+  }, {
+    "tStartMs": 2352200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In this situation,"
+    } ]
+  }, {
+    "tStartMs": 2354200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "this person also seems like"
+    } ]
+  }, {
+    "tStartMs": 2356200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they could do it."
+    } ]
+  }, {
+    "tStartMs": 2358200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like,"
+    } ]
+  }, {
+    "tStartMs": 2360239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they seem like someone who's ready."
+    } ]
+  }, {
+    "tStartMs": 2362239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You seem to grasp that feeling well."
+    } ]
+  }, {
+    "tStartMs": 2368239,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2369239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But since that's too instinctive"
+    } ]
+  }, {
+    "tStartMs": 2373239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "this is an angle."
+    } ]
+  }, {
+    "tStartMs": 2375239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that's why you're talking about it, right?"
+    } ]
+  }, {
+    "tStartMs": 2377239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That person too"
+    } ]
+  }, {
+    "tStartMs": 2379239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "seems just open"
+    } ]
+  }, {
+    "tStartMs": 2381239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that person also seems fine"
+    } ]
+  }, {
+    "tStartMs": 2383239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that kind of thing just gives you a feeling, you know."
+    } ]
+  }, {
+    "tStartMs": 2387239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's real skill."
+    } ]
+  }, {
+    "tStartMs": 2391200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you have things like that?"
+    } ]
+  }, {
+    "tStartMs": 2393200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Things you always eat when you go to Japan"
+    } ]
+  }, {
+    "tStartMs": 2395200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "or always do."
+    } ]
+  }, {
+    "tStartMs": 2397200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "For example, when you go to a convenience store"
+    } ]
+  }, {
+    "tStartMs": 2399200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "this is something you always do."
+    } ]
+  }, {
+    "tStartMs": 2400000,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "or finish the last night at a convenience store, things like that"
+    } ]
+  }, {
+    "tStartMs": 2404760,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Well, I don't really have anything like that."
+    } ]
+  }, {
+    "tStartMs": 2408000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 2409000,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Ah, it's because there are so many delicious things."
+    } ]
+  }, {
+    "tStartMs": 2412080,
+    "dDurationMs": 7799,
+    "segs": [ {
+      "utf8": "It feels like there aren't many where I can pick just one."
+    } ]
+  }, {
+    "tStartMs": 2419879,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I guess so."
+    } ]
+  }, {
+    "tStartMs": 2420879,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "At best, if we're talking ramen, it would be Ichiran ramen."
+    } ]
+  }, {
+    "tStartMs": 2425920,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "But Ichiran, it exists in Korea too, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 2427760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I heard it does."
+    } ]
+  }, {
+    "tStartMs": 2430520,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Do you like ramen?"
+    } ]
+  }, {
+    "tStartMs": 2431840,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I do like it."
+    } ]
+  }, {
+    "tStartMs": 2432840,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "I didn't really like ramen that much."
+    } ]
+  }, {
+    "tStartMs": 2435919,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "Oh, I really like it, but ramen has so many different styles, you know?"
+    } ]
+  }, {
+    "tStartMs": 2442959,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "Yeah, it does."
+    } ]
+  }, {
+    "tStartMs": 2444520,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2445520,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "Spicy ones, miso, soy sauce, white ones too."
+    } ]
+  }, {
+    "tStartMs": 2448599,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "Yes, and ones without broth."
+    } ]
+  }, {
+    "tStartMs": 2451160,
+    "dDurationMs": 2439,
+    "segs": [ {
+      "utf8": "Um, I like agedashi tofu."
+    } ]
+  }, {
+    "tStartMs": 2453599,
+    "dDurationMs": 6241,
+    "segs": [ {
+      "utf8": "So Didi, do you have something like that?"
+    } ]
+  }, {
+    "tStartMs": 2459840,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Oh, something you always do?"
+    } ]
+  }, {
+    "tStartMs": 2461660,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Actually, just yesterday I was talking with a Japanese student"
+    } ]
+  }, {
+    "tStartMs": 2464320,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "and this topic came up."
+    } ]
+  }, {
+    "tStartMs": 2466199,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "They asked me what you must do when you go to Japan."
+    } ]
+  }, {
+    "tStartMs": 2469320,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "I go to Seven-Eleven"
+    } ]
+  }, {
+    "tStartMs": 2474000,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and I used to always buy pudding."
+    } ]
+  }, {
+    "tStartMs": 2477120,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "In Korea, there aren't pudding specialty shops"
+    } ]
+  }, {
+    "tStartMs": 2479440,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "or good quality pudding that you can buy at convenience stores."
+    } ]
+  }, {
+    "tStartMs": 2482800,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "There really aren't many good ones."
+    } ]
+  }, {
+    "tStartMs": 2485120,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "Almost none."
+    } ]
+  }, {
+    "tStartMs": 2487639,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So I buy pudding,"
+    } ]
+  }, {
+    "tStartMs": 2490839,
+    "dDurationMs": 3321,
+    "segs": [ {
+      "utf8": "but these days, um,"
+    } ]
+  }, {
+    "tStartMs": 2494160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "it seems like I always buy onigiri and things like that."
+    } ]
+  }, {
+    "tStartMs": 2497040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Onigiri?"
+    } ]
+  }, {
+    "tStartMs": 2498040,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "Um, what I recently discovered is"
+    } ]
+  }, {
+    "tStartMs": 2500599,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "Seven-Eleven smoothies are really delicious."
+    } ]
+  }, {
+    "tStartMs": 2503120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Smoothies?"
+    } ]
+  }, {
+    "tStartMs": 2505120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I don't know why they don't bring them to Korea,"
+    } ]
+  }, {
+    "tStartMs": 2507760,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "but it's just frozen fruit,"
+    } ]
+  }, {
+    "tStartMs": 2509839,
+    "dDurationMs": 4281,
+    "segs": [ {
+      "utf8": "and when you buy it, there's a blender-like machine next to it."
+    } ]
+  }, {
+    "tStartMs": 2514120,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "You just put a plastic cup or something in there,"
+    } ]
+  }, {
+    "tStartMs": 2517879,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "and I'm not sure how it works,"
+    } ]
+  }, {
+    "tStartMs": 2519519,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "but it blends it right there."
+    } ]
+  }, {
+    "tStartMs": 2521360,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "That's amazing."
+    } ]
+  }, {
+    "tStartMs": 2522800,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "So you can eat a perfectly fresh smoothie."
+    } ]
+  }, {
+    "tStartMs": 2527559,
+    "dDurationMs": 4441,
+    "segs": [ {
+      "utf8": "That's a crazy idea."
+    } ]
+  }, {
+    "tStartMs": 2532000,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "If you haven't tried it, please definitely try it."
+    } ]
+  }, {
+    "tStartMs": 2536160,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Yo-hari."
+    } ]
+  }, {
+    "tStartMs": 2538000,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "Se-hi."
+    } ]
+  }, {
+    "tStartMs": 2541399,
+    "dDurationMs": 3321,
+    "segs": [ {
+      "utf8": "Please definitely eat it."
+    } ]
+  }, {
+    "tStartMs": 2544720,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But hearing what Din mentioned, I just remembered something."
+    } ]
+  }, {
+    "tStartMs": 2548440,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "Onigiri, I think I eat onigiri too."
+    } ]
+  }, {
+    "tStartMs": 2551759,
+    "dDurationMs": 681,
+    "segs": [ {
+      "utf8": "At a convenience store?"
+    } ]
+  }, {
+    "tStartMs": 2552440,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "Yes, at a convenience store."
+    } ]
+  }, {
+    "tStartMs": 2553479,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "Which kind do you get?"
+    } ]
+  }, {
+    "tStartMs": 2554600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I always eat the ones with cod roe in them."
+    } ]
+  }, {
+    "tStartMs": 2557600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Oh, that's delicious."
+    } ]
+  }, {
+    "tStartMs": 2560880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's a bit hard to find at restaurants,"
+    } ]
+  }, {
+    "tStartMs": 2564880,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "so it's nice to eat it lightly at a convenience store."
+    } ]
+  }, {
+    "tStartMs": 2567199,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2568360,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "Another food I really like is"
+    } ]
+  }, {
+    "tStartMs": 2570639,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "There's this thing called dashi-jjigae..."
+    } ]
+  }, {
+    "tStartMs": 2573240,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Do you know what ojjigae is?"
+    } ]
+  }, {
+    "tStartMs": 2574600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I know, it's not soup, right?"
+    } ]
+  }, {
+    "tStartMs": 2576800,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Right, ojjigae is when you put tea into rice"
+    } ]
+  }, {
+    "tStartMs": 2580720,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "and mix it together to eat,"
+    } ]
+  }, {
+    "tStartMs": 2582440,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "and dashi is dashi broth,"
+    } ]
+  }, {
+    "tStartMs": 2585759,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "where you mix rice into the broth to eat,"
+    } ]
+  }, {
+    "tStartMs": 2588279,
+    "dDurationMs": 2881,
+    "segs": [ {
+      "utf8": "and this is really delicious."
+    } ]
+  }, {
+    "tStartMs": 2591160,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "There's a chain restaurant,"
+    } ]
+  }, {
+    "tStartMs": 2592479,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "called Dashi-jjigaen, so"
+    } ]
+  }, {
+    "tStartMs": 2596360,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "I go there often."
+    } ]
+  }, {
+    "tStartMs": 2597759,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Dashi-jjigaen."
+    } ]
+  }, {
+    "tStartMs": 2602279,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Do you have any plans? I'm planning to go to Japan."
+    } ]
+  }, {
+    "tStartMs": 2605119,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "For the time being, I don't have plans to travel anywhere,"
+    } ]
+  }, {
+    "tStartMs": 2609479,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2610600,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2612559,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Is it because work is fun?"
+    } ]
+  }, {
+    "tStartMs": 2613919,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "Well, it's not so much that it's fun, it's just that there's a lot of work."
+    } ]
+  }, {
+    "tStartMs": 2617440,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "There's a lot of work."
+    } ]
+  }, {
+    "tStartMs": 2620720,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "Anyway, I don't have plans for a trip to Japan or abroad."
+    } ]
+  }, {
+    "tStartMs": 2624399,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2625360,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2629880,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Yes, so today"
+    } ]
+  }, {
+    "tStartMs": 2631520,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "we talked about our Japan trip"
+    } ]
+  }, {
+    "tStartMs": 2634160,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "from all angles,"
+    } ]
+  }, {
+    "tStartMs": 2635600,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "and next week's topic"
+    } ]
+  }, {
+    "tStartMs": 2637559,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "we've decided on part-time work,"
+    } ]
+  }, {
+    "tStartMs": 2639720,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "so about part-time work"
+    } ]
+  }, {
+    "tStartMs": 2640839,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "we'll talk about it from all angles again."
+    } ]
+  }, {
+    "tStartMs": 2644320,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "So this has been Didi and Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2648639,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

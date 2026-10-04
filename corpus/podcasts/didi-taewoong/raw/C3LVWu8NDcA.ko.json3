@@ -1,0 +1,4465 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "디디와 정태웅의 한국생활 요모조모"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "안녕하세요 디디입니다."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "안녕하세요 정태웅입니다."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "한국생활 요모조모는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다."
+    } ]
+  }, {
+    "tStartMs": 19000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "오늘의 주제 소개해 주실 수 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 22000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "오늘의 주제는 최근에 한국에 있었죠. 장마입니다."
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "장마는 한국에서 여름마다 반복되는 비의 계절이라고 해서"
+    } ]
+  }, {
+    "tStartMs": 34000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "주로 6월 말에서 7월 중순 사이에 비가 많이 오는 시기를 장마라고 부르고 있고요."
+    } ]
+  }, {
+    "tStartMs": 41000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "이 시기는 해마다 조금 조금씩 달라지고 있어요."
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "그래서 최근에는 장마가 6월 말에 온다고 했다가 이게 또 없어졌다가 다시 찾아와서"
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "저번 주에는 비가 많이 왔어요 전국적으로."
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "태웅쌤 계신 곳은 어때요?"
+    } ]
+  }, {
+    "tStartMs": 59000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "저는 알다시피 부산에 있지 않습니까?"
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "부산도 한참 비가 온다 온다 하면서 안 오다가"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "지난주에 며칠 동안 엄청 많이 내렸어요."
+    } ]
+  }, {
+    "tStartMs": 72000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그쵸 계속 왔어요 여기도 전 경기도 쪽인데"
+    } ]
+  }, {
+    "tStartMs": 77000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "오늘은 여러분들이 참여를 하실 수 있게"
+    } ]
+  }, {
+    "tStartMs": 81000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "에피소드 토크 전에 퀴즈 하나를 드리려고 해요."
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "어떤 퀴즈냐면 저희가 세 가지를 이야기를 할 건데"
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "이 중에서 뭐가 정답이고 뭐가 틀린지를 확인해 주시면 되고"
+    } ]
+  }, {
+    "tStartMs": 95000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "세 가지 중에 두 가지는 정답 한 가지는 틀린 거예요."
+    } ]
+  }, {
+    "tStartMs": 99000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그래서 여러분들은 뭐가 틀렸는지 몇 번이 틀렸는지를 찾아주시면 됩니다."
+    } ]
+  }, {
+    "tStartMs": 104000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러니까 틀린 거 하나가 정답입니다."
+    } ]
+  }, {
+    "tStartMs": 107000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "네 틀린 거 하나를 적어주시면 됩니다."
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "첫 번째 장마 기간 중에는 배달 음식 주문량이 늘어난다."
+    } ]
+  }, {
+    "tStartMs": 118000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "두 번째는 장마 기간은 매년 30일이다."
+    } ]
+  }, {
+    "tStartMs": 124000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "세 번째는 한국의 대표적인 비 오는 날 음식은 바전이다."
+    } ]
+  }, {
+    "tStartMs": 132000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그렇습니다. 저희 대화 중에 힌트가 나올 수도 있으니까"
+    } ]
+  }, {
+    "tStartMs": 136000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "끝까지 잘 들어주시고 정답을 남겨주시면"
+    } ]
+  }, {
+    "tStartMs": 140000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "다음 에피소드에서 답을 발표하도록 하겠습니다."
+    } ]
+  }, {
+    "tStartMs": 143000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "많이 참여해주세요."
+    } ]
+  }, {
+    "tStartMs": 145000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "어떻게 보내셨나요? 장마 기간"
+    } ]
+  }, {
+    "tStartMs": 148000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "저는 크게 다른 게 없어요 사실"
+    } ]
+  }, {
+    "tStartMs": 153000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "집에 있으셨나요?"
+    } ]
+  }, {
+    "tStartMs": 154000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 155000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "저도 더더욱 집에 있게 됐어요."
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "다 집에서 일하는 사람들이라"
+    } ]
+  }, {
+    "tStartMs": 161000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "근데 태용쌤은 운동 좀 하지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 163000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 165000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그거에는 영향이 없었어요? 산책하거나 이런 거"
+    } ]
+  }, {
+    "tStartMs": 168000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "산책은 못했어요"
+    } ]
+  }, {
+    "tStartMs": 171000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 173000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "근데 가끔 나가기도 하거든요"
+    } ]
+  }, {
+    "tStartMs": 177000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "비가 많이 올 때 우비를"
+    } ]
+  }, {
+    "tStartMs": 181000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "다리까지 내려오는 긴 우비를 입고"
+    } ]
+  }, {
+    "tStartMs": 185000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아무도 없는 산책로를 혼자서 걸으면"
+    } ]
+  }, {
+    "tStartMs": 189000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "호러 영화에서 그런 장면 본 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 194000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 195000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "우비는 일회용이에요?"
+    } ]
+  }, {
+    "tStartMs": 197000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아니요. 계속 쓸 수 있는 튼튼한 우비를 씁니다"
+    } ]
+  }, {
+    "tStartMs": 201000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "하나쯤 있으면 좋은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 203000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그런 것 같아요. 가끔은 그냥 비 많이 올 때 포기하고"
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "조금 젖는 거 신경 쓰지 않고 하는 거 좋은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 212000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "제가 입는 우비도 튼튼한 우비라고 생각하는데"
+    } ]
+  }, {
+    "tStartMs": 216000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "억수같이 쏟아지는 강한 비 아래서"
+    } ]
+  }, {
+    "tStartMs": 221000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "한 한 시간쯤 걸으니까"
+    } ]
+  }, {
+    "tStartMs": 223000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "몸에 비가 다 들어오긴 하더라고요"
+    } ]
+  }, {
+    "tStartMs": 226000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그렇구나. 그게 완벽히 막아주진 않는구나"
+    } ]
+  }, {
+    "tStartMs": 229000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그런 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그러면 우비를 입고 산책하면서 운동은 대체했나요?"
+    } ]
+  }, {
+    "tStartMs": 236000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "운동은 집에서도 하기 때문에"
+    } ]
+  }, {
+    "tStartMs": 241000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아주 훌륭합니다"
+    } ]
+  }, {
+    "tStartMs": 243000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "운동은 계속 하는 게 좋습니다"
+    } ]
+  }, {
+    "tStartMs": 247000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "디디님은 태풍이 더 싫나요? 장마가 더 싫나요?"
+    } ]
+  }, {
+    "tStartMs": 254000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "태풍은 최근에는 없는 것 같아요. 큰 태풍은"
+    } ]
+  }, {
+    "tStartMs": 259000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그렇네요"
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "데뷔하는 기억이 많이 없는데"
+    } ]
+  }, {
+    "tStartMs": 263000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아니면 잠깐 지나가거나"
+    } ]
+  }, {
+    "tStartMs": 266000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그리고 장마는 나쁘지 않았던 게"
+    } ]
+  }, {
+    "tStartMs": 272000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "저는 이번에 엄청 덥다가 장마쯤이 되니까"
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "기온이 떨어져서 시원하더라고요"
+    } ]
+  }, {
+    "tStartMs": 280000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그건 좀 괜찮았어요"
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그리고 어차피 집에 있으니까"
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "딱히 엄청 싫진 않은 것 같아요. 장마도 태풍도"
+    } ]
+  }, {
+    "tStartMs": 289000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "태용쌤은요?"
+    } ]
+  }, {
+    "tStartMs": 290000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "밖에 안 나가면 그렇겠네요"
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "근데 출근하는 사람으로 생각하면 장마가 더 힘들 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 298000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "네. 그 며칠도 아니지. 몇 주 동안"
+    } ]
+  }, {
+    "tStartMs": 302000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "항상 우산 챙겨 다녀야 되고"
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "잠깐 잊었는데 그게 힘들었던 기억이 있네요"
+    } ]
+  }, {
+    "tStartMs": 309000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그렇죠. 저는 사실 태풍을 좋아하는 편입니다"
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "태풍이요? 왜요?"
+    } ]
+  }, {
+    "tStartMs": 315000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "아까 얘기했듯이 아무도 없는 산책로를 혼자 걸을 때"
+    } ]
+  }, {
+    "tStartMs": 321000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "천둥 치는 거 보는 게 재밌어서요"
+    } ]
+  }, {
+    "tStartMs": 324000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "태풍 속에서도 걸어 다니세요?"
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "가끔. 네"
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "짱인데"
+    } ]
+  }, {
+    "tStartMs": 331000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그 천둥을 되게 가까이서 볼 수 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "막 쩌렁쩌렁 울리는 천둥 소리"
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "천둥은 소리고 번개가 보는 거죠"
+    } ]
+  }, {
+    "tStartMs": 341000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네. 그 두 가지"
+    } ]
+  }, {
+    "tStartMs": 343000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그 천둥 콩 우르르 콩콩 소리도 바로 밑에서 듣고"
+    } ]
+  }, {
+    "tStartMs": 348000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그리고 번개도 옆에서 바로 보고"
+    } ]
+  }, {
+    "tStartMs": 351000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그런 재미가 있어서"
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그거 재밌어요?"
+    } ]
+  }, {
+    "tStartMs": 356000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "재밌는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 358000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "저는 최근에 저번 주였던 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 362000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "장마 기간이 한창 길어질 때"
+    } ]
+  }, {
+    "tStartMs": 364000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "새벽에 천둥 번개 엄청 친 날이 있었거든요"
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "되게 시끄럽고 깜짝깜짝 놀라게 되던데"
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "막 천둥이랑 번개가 그렇게 무섭지 않은데도"
+    } ]
+  }, {
+    "tStartMs": 378000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "들으면 좀 놀라게 되던데"
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그렇죠. 놀라긴 하죠"
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "강심장이시군요"
+    } ]
+  }, {
+    "tStartMs": 386000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "모르겠네. 나 공포 게임을 너무 많이 해서 그런가?"
+    } ]
+  }, {
+    "tStartMs": 388000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그러니까"
+    } ]
+  }, {
+    "tStartMs": 389000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "도파민에 좀"
+    } ]
+  }, {
+    "tStartMs": 394000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "수준이 올라갔어요"
+    } ]
+  }, {
+    "tStartMs": 396000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "좀 그런가 봐요"
+    } ]
+  }, {
+    "tStartMs": 397000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "웬만해서는 놀라지 않는"
+    } ]
+  }, {
+    "tStartMs": 401000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그래서 저는 태풍보다 장마가 좀 별로"
+    } ]
+  }, {
+    "tStartMs": 404000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "별로. 재밌지도 않고 스릴도 없고"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "축축하고"
+    } ]
+  }, {
+    "tStartMs": 409000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그리고 사실 밝은 날이 좋잖아요"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "맞죠. 여름에는 또 그런 게 예쁘죠 풍경이"
+    } ]
+  }, {
+    "tStartMs": 416000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "밝은 아침에 햇살도 보면"
+    } ]
+  }, {
+    "tStartMs": 419000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "또 에너지도 높아지고 하는데"
+    } ]
+  }, {
+    "tStartMs": 423000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비 오면 좀 처지는 느낌이 들어서"
+    } ]
+  }, {
+    "tStartMs": 425000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 427000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그렇지만 저번 주까지가 장마였고"
+    } ]
+  }, {
+    "tStartMs": 431000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "이번 주부터는 다시 쨍쨍한 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "한여름 시작인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 438000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "근데도 사실 모르는 얘기입니다"
+    } ]
+  }, {
+    "tStartMs": 441000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "장마 특징이죠"
+    } ]
+  }, {
+    "tStartMs": 443000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 446000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "이번에도 사실 없어졌다고 얘기했었어요 분명"
+    } ]
+  }, {
+    "tStartMs": 449000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 450000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "제가 찾아봤거든요"
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "기상청이라고 날씨를 예보해주는 곳이 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 456000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "거기서는 공식적으로 장마를"
+    } ]
+  }, {
+    "tStartMs": 462000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "장마의 시작과 끝을 발표하지 않는데요"
+    } ]
+  }, {
+    "tStartMs": 465000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "우리가 장마가 끝났대 하는 거는"
+    } ]
+  }, {
+    "tStartMs": 469000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "인터넷 정보들"
+    } ]
+  }, {
+    "tStartMs": 470000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아니면 어디 뉴스에서 나온 정보들이고"
+    } ]
+  }, {
+    "tStartMs": 475000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "진짜 기관에서는 공식적으로 얘기하지 않는데요"
+    } ]
+  }, {
+    "tStartMs": 478000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "얘기할 수가 없대요"
+    } ]
+  }, {
+    "tStartMs": 479000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그게 진짜 진실이네요"
+    } ]
+  }, {
+    "tStartMs": 485000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "하긴 그걸 어떻게 알겠어요"
+    } ]
+  }, {
+    "tStartMs": 489000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 491000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러면 비가 올 때 태용쌤은 어떤 게 힘들어요?"
+    } ]
+  }, {
+    "tStartMs": 495000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "저는 그냥"
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그냥 숨쉬는 게 힘들다고 해야 하나?"
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "몸이 무거운 느낌이에요"
+    } ]
+  }, {
+    "tStartMs": 502000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 비가 오면 아무래도"
+    } ]
+  }, {
+    "tStartMs": 504000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "네 늘 바깥이 어둡고"
+    } ]
+  }, {
+    "tStartMs": 509000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "뭔가 축 처지는 느낌이 들어서"
+    } ]
+  }, {
+    "tStartMs": 512000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 막 기분도 없고"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "막 뭔가 열심히 해야지 이런 기분도 안 들고"
+    } ]
+  }, {
+    "tStartMs": 519000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그래서 좀 안 좋아요"
+    } ]
+  }, {
+    "tStartMs": 522000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "확실히 있는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 523000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 524000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "하늘도 어두워서 아침에 눈도 잘 안 떠져요"
+    } ]
+  }, {
+    "tStartMs": 527000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오 맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 528000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 529000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "잠도 더 많이 오고"
+    } ]
+  }, {
+    "tStartMs": 531000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 532000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "나른해지는"
+    } ]
+  }, {
+    "tStartMs": 533000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 534000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저는 몇 가지 있는데"
+    } ]
+  }, {
+    "tStartMs": 536000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "제일 싫은 거는"
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "막 머리를 아무리 세팅을 하고 나가도"
+    } ]
+  }, {
+    "tStartMs": 541000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "한 30초 만에 다 풀리는 거"
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 545000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "습기 때문에"
+    } ]
+  }, {
+    "tStartMs": 546000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그리고 또 습기 때문에"
+    } ]
+  }, {
+    "tStartMs": 549000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "빨래 같은 걸 하면"
+    } ]
+  }, {
+    "tStartMs": 551000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "제가 방 안에서 말리거든요"
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "베란다가 없어서"
+    } ]
+  }, {
+    "tStartMs": 556000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "안 말라요 빨래가 영원히"
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그래서 그 써큘레이터 같은 걸 계속 틀고 있어야 되고"
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그래도 뭔가 잘 안 말라서"
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "한 두 번씩 돌리게 되고"
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그런 것도 있어요"
+    } ]
+  }, {
+    "tStartMs": 570000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아 그건 진짜 생활할 때 불편하겠어요"
+    } ]
+  }, {
+    "tStartMs": 573000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 575000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "건조기라도 하나 있으면 좋을 텐데"
+    } ]
+  }, {
+    "tStartMs": 577000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 578000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "너무 사고 싶어요 건조기"
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "근데 비싸잖아요"
+    } ]
+  }, {
+    "tStartMs": 581000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "사실 좀 필수템이에요 건조기랑"
+    } ]
+  }, {
+    "tStartMs": 585000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "써큘레이터 원룸에서는"
+    } ]
+  }, {
+    "tStartMs": 587000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 589000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그러면 좋은 점은"
+    } ]
+  }, {
+    "tStartMs": 591000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 592000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그런 얘기 많이 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 593000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비 오는 날 먹는 음식 같은 거"
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 597000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "태용쌤은 비 오면 좀 생각나는 음식이 있는 편이에요"
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저는 있어요"
+    } ]
+  }, {
+    "tStartMs": 602000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "돼지김치찜?"
+    } ]
+  }, {
+    "tStartMs": 604000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니요"
+    } ]
+  }, {
+    "tStartMs": 606000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "뭐예요? 저는 짬뽕이요"
+    } ]
+  }, {
+    "tStartMs": 608000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 좋다"
+    } ]
+  }, {
+    "tStartMs": 610000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비오는 날 짬뽕"
+    } ]
+  }, {
+    "tStartMs": 612000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "괜찮지? 최고죠"
+    } ]
+  }, {
+    "tStartMs": 614000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비오는 날은 면이 좀 먹고 싶은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 616000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "짬뽕 짜장면 이런거"
+    } ]
+  }, {
+    "tStartMs": 618000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 620000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그리고 많이 이야기 되는게"
+    } ]
+  }, {
+    "tStartMs": 622000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 624000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "기름에 요리한"
+    } ]
+  }, {
+    "tStartMs": 626000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전요리?"
+    } ]
+  }, {
+    "tStartMs": 628000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그게 항상"
+    } ]
+  }, {
+    "tStartMs": 630000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "만족스럽지 않지만"
+    } ]
+  }, {
+    "tStartMs": 632000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그런 느낌"
+    } ]
+  }, {
+    "tStartMs": 634000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "느낌이 다르죠 확실히"
+    } ]
+  }, {
+    "tStartMs": 636000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전혀 팬케이크 달콤할 것 같잖아요"
+    } ]
+  }, {
+    "tStartMs": 638000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "시럽 뿌려서"
+    } ]
+  }, {
+    "tStartMs": 640000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 642000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저는 간장에 찍어 먹는"
+    } ]
+  }, {
+    "tStartMs": 644000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "짠요리입니다"
+    } ]
+  }, {
+    "tStartMs": 646000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "짭짤하죠"
+    } ]
+  }, {
+    "tStartMs": 648000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "디디님은"
+    } ]
+  }, {
+    "tStartMs": 650000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "면을 선호하십니까?"
+    } ]
+  }, {
+    "tStartMs": 652000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전을 선호하십니까?"
+    } ]
+  }, {
+    "tStartMs": 654000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 656000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저는 면을 먹는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 658000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저는 솔직히 제사 지낼 때나"
+    } ]
+  }, {
+    "tStartMs": 660000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "명절에만 먹고"
+    } ]
+  }, {
+    "tStartMs": 662000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "사먹은 적은"
+    } ]
+  }, {
+    "tStartMs": 664000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "거의 없어요"
+    } ]
+  }, {
+    "tStartMs": 666000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전이 또 밥으로 먹기보다는"
+    } ]
+  }, {
+    "tStartMs": 668000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "술집에서"
+    } ]
+  }, {
+    "tStartMs": 670000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "많이 시키잖아요"
+    } ]
+  }, {
+    "tStartMs": 672000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "막걸리랑 전이랑 해서"
+    } ]
+  }, {
+    "tStartMs": 674000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전 모둠 이런거 시켜서"
+    } ]
+  }, {
+    "tStartMs": 676000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전 또 술도 잘 안먹다 보니까"
+    } ]
+  }, {
+    "tStartMs": 678000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "사먹은 적은"
+    } ]
+  }, {
+    "tStartMs": 680000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "없고"
+    } ]
+  }, {
+    "tStartMs": 682000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "면을 먹는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 684000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "자 그러면"
+    } ]
+  }, {
+    "tStartMs": 686000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "만약에 제가 썸녀가 생겼어요"
+    } ]
+  }, {
+    "tStartMs": 688000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "썸녀한테"
+    } ]
+  }, {
+    "tStartMs": 690000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "우리 비오는"
+    } ]
+  }, {
+    "tStartMs": 692000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "날이니까"
+    } ]
+  }, {
+    "tStartMs": 694000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "짬뽕이나 먹으러 갈까?"
+    } ]
+  }, {
+    "tStartMs": 696000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이렇게 말하는 거랑"
+    } ]
+  }, {
+    "tStartMs": 698000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "우리 비오는데 파전 먹으러 갈까?"
+    } ]
+  }, {
+    "tStartMs": 700000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이렇게 얘기하는 것 중에"
+    } ]
+  }, {
+    "tStartMs": 702000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "뭐가 더"
+    } ]
+  }, {
+    "tStartMs": 704000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "썸녀의 마음을"
+    } ]
+  }, {
+    "tStartMs": 706000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좋게 할 수 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 708000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "엥?"
+    } ]
+  }, {
+    "tStartMs": 710000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "둘 다 괜찮은데요?"
+    } ]
+  }, {
+    "tStartMs": 712000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 714000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "둘 다 당연한"
+    } ]
+  }, {
+    "tStartMs": 716000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이야기?"
+    } ]
+  }, {
+    "tStartMs": 718000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이해할 수 있는, 공감할 수 있는 이야기?"
+    } ]
+  }, {
+    "tStartMs": 720000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 722000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "짬뽕 먹을래? 파전 먹을래?"
+    } ]
+  }, {
+    "tStartMs": 724000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "당연히 파전"
+    } ]
+  }, {
+    "tStartMs": 726000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "생각하지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 728000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비오는 날은 파전이랑 막걸리"
+    } ]
+  }, {
+    "tStartMs": 730000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그게 좀 한국에서 좀"
+    } ]
+  }, {
+    "tStartMs": 732000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그런가?"
+    } ]
+  }, {
+    "tStartMs": 734000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좀 공식적으로 되지 않나? 아닌가?"
+    } ]
+  }, {
+    "tStartMs": 736000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "공식적이긴 한데"
+    } ]
+  }, {
+    "tStartMs": 738000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "근데 면도"
+    } ]
+  }, {
+    "tStartMs": 740000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "면도 공식적인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 742000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다들 공유하고 있는 느낌?"
+    } ]
+  }, {
+    "tStartMs": 744000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비오는 날엔 밀가루지"
+    } ]
+  }, {
+    "tStartMs": 746000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 750000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아닌가? 사람마다 다를 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 752000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "하긴 둘 다 밀가루네요"
+    } ]
+  }, {
+    "tStartMs": 754000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 756000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비오는 날 술이랑 밀가루가"
+    } ]
+  }, {
+    "tStartMs": 758000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "땡긴다"
+    } ]
+  }, {
+    "tStartMs": 760000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "먹고 싶다라는 말이 있다고 해서"
+    } ]
+  }, {
+    "tStartMs": 762000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "왜 그럴까"
+    } ]
+  }, {
+    "tStartMs": 764000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좀 찾아봤더니"
+    } ]
+  }, {
+    "tStartMs": 766000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "밀가루를 먹으면"
+    } ]
+  }, {
+    "tStartMs": 768000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "우울함이 해소된대요"
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "에? 진짜에요 그거?"
+    } ]
+  }, {
+    "tStartMs": 772000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "탄수화물이자"
+    } ]
+  }, {
+    "tStartMs": 774000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비타민 B 이런 것들이"
+    } ]
+  }, {
+    "tStartMs": 776000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "들어있어서 우울감 해소에"
+    } ]
+  }, {
+    "tStartMs": 778000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "도움을 줄 수 있다"
+    } ]
+  }, {
+    "tStartMs": 780000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 782000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그런 효과도 조금은"
+    } ]
+  }, {
+    "tStartMs": 784000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "있지 않을까"
+    } ]
+  }, {
+    "tStartMs": 786000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 788000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "처음 들어보는 사실인데"
+    } ]
+  }, {
+    "tStartMs": 790000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 792000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "일리는 있죠"
+    } ]
+  }, {
+    "tStartMs": 794000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "근데 그렇게 우리 비오는데"
+    } ]
+  }, {
+    "tStartMs": 796000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "막걸리 먹으러 갈까? 이러면"
+    } ]
+  }, {
+    "tStartMs": 798000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좋아하더라고요 사람들이"
+    } ]
+  }, {
+    "tStartMs": 800000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좋지 이렇게"
+    } ]
+  }, {
+    "tStartMs": 802000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니 파전 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 804000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "파전? 해물파전?"
+    } ]
+  }, {
+    "tStartMs": 806000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "해물파전 말고"
+    } ]
+  }, {
+    "tStartMs": 808000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다른 파전이 또 있어요?"
+    } ]
+  }, {
+    "tStartMs": 810000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "뭐 차돌박이 파전 고기 들어간 것도 있지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 812000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 814000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "있긴 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 816000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저는 새우 들어간 해물파전을"
+    } ]
+  }, {
+    "tStartMs": 818000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "먹어본 기억밖에 없어요"
+    } ]
+  }, {
+    "tStartMs": 820000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음 맛있죠"
+    } ]
+  }, {
+    "tStartMs": 822000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그게 좀 정석이죠"
+    } ]
+  }, {
+    "tStartMs": 824000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "메뉴잖아요"
+    } ]
+  }, {
+    "tStartMs": 826000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "오징어 새우 들어간거"
+    } ]
+  }, {
+    "tStartMs": 828000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "맛있겠다"
+    } ]
+  }, {
+    "tStartMs": 830000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "근데 저는 그거 좋아해요"
+    } ]
+  }, {
+    "tStartMs": 832000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "큰 파 말고 작은 파"
+    } ]
+  }, {
+    "tStartMs": 834000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "로 만든 파전을 좋아해요"
+    } ]
+  }, {
+    "tStartMs": 836000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 맞아요 파 너무 크면"
+    } ]
+  }, {
+    "tStartMs": 838000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좀 입에서 오래 남아서"
+    } ]
+  }, {
+    "tStartMs": 840000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "너무 강해요"
+    } ]
+  }, {
+    "tStartMs": 842000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "파 맛이"
+    } ]
+  }, {
+    "tStartMs": 844000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그리고 파전보다는"
+    } ]
+  }, {
+    "tStartMs": 846000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저는 부추전"
+    } ]
+  }, {
+    "tStartMs": 870000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "말로 하는 미니게임"
+    } ]
+  }, {
+    "tStartMs": 900000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "정태웅이 한국어 학습자에게 게임으로 한국어를 알려준다."
+    } ]
+  }, {
+    "tStartMs": 930000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "정태웅이 한국어 학습자에게 게임으로 한국어를 알려준다."
+    } ]
+  }, {
+    "tStartMs": 952000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 집에 우산이 10개 있다."
+    } ]
+  }, {
+    "tStartMs": 960000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 장마철에 슬리퍼를 자주 신는다."
+    } ]
+  }, {
+    "tStartMs": 978000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 비가 오는 날에는 달리기를 안 한다."
+    } ]
+  }, {
+    "tStartMs": 991000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 레인부츠가 있다."
+    } ]
+  }, {
+    "tStartMs": 999000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 비 오는 날 계단에서 굴러 넘어진 적이 있다."
+    } ]
+  }, {
+    "tStartMs": 1010000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 비 오는 날 캠핑을 다녀온 적이 있다."
+    } ]
+  }, {
+    "tStartMs": 1020000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 비 오는 날 달리기를 안 한다."
+    } ]
+  }, {
+    "tStartMs": 1025000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 비 오는 날 운동을 안 한다."
+    } ]
+  }, {
+    "tStartMs": 1037000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나는 비 오는 날 산책을 한다."
+    } ]
+  }, {
+    "tStartMs": 1054000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "나라는 사람에 대해 얘기하는 거죠?"
+    } ]
+  }, {
+    "tStartMs": 1060000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "요즘으로 하겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1064000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "태웅쌤은 질문 있어요?"
+    } ]
+  }, {
+    "tStartMs": 1071000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "레인부츠는 당연히 있을 것 같은데."
+    } ]
+  }, {
+    "tStartMs": 1074000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "왜요?"
+    } ]
+  }, {
+    "tStartMs": 1076000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "사람들 레인부츠 많이 가지고 있으니까요."
+    } ]
+  }, {
+    "tStartMs": 1081000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "장화."
+    } ]
+  }, {
+    "tStartMs": 1084000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "장화가 유행도 했었죠?"
+    } ]
+  }, {
+    "tStartMs": 1087000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "당연히 있을 것 같은데. 그래서 함정일 것 같기도 하고."
+    } ]
+  }, {
+    "tStartMs": 1093000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "당연히 있을 거라고는 생각 못했어요."
+    } ]
+  }, {
+    "tStartMs": 1096000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "있어요? 레인부츠?"
+    } ]
+  }, {
+    "tStartMs": 1098000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저는 없어요."
+    } ]
+  }, {
+    "tStartMs": 1100000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "저는 없는 게 다른 것도 많기 때문에."
+    } ]
+  }, {
+    "tStartMs": 1103000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "예를 들면 슬리퍼?"
+    } ]
+  }, {
+    "tStartMs": 1106000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그건 문제에 대한 질문이기 때문에."
+    } ]
+  }, {
+    "tStartMs": 1112000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "슬리퍼 신어서 없나?"
+    } ]
+  }, {
+    "tStartMs": 1115000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그건 문제에 대한 것이기 때문에 말할 수 없습니다."
+    } ]
+  }, {
+    "tStartMs": 1118000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그런 유도 질문은 하지 마시고요."
+    } ]
+  }, {
+    "tStartMs": 1122000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아니 그럼 어떻게 추측해요?"
+    } ]
+  }, {
+    "tStartMs": 1125000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아니 뭐 우리 지금까지 얘기 많이 했잖아요."
+    } ]
+  }, {
+    "tStartMs": 1128000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "집에 우산이 10개? 이건 너무 어려워요."
+    } ]
+  }, {
+    "tStartMs": 1133000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "설마 이걸 셌겠어? 오늘 이 문제를 위해서."
+    } ]
+  }, {
+    "tStartMs": 1137000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "저기 우산 꽂이로 가서."
+    } ]
+  }, {
+    "tStartMs": 1140000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "하나 둘 셋 넷. 이걸 셌을까요?"
+    } ]
+  }, {
+    "tStartMs": 1143000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "셌는 게 어렵지는 않을 수도 있죠."
+    } ]
+  }, {
+    "tStartMs": 1147000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "하나씩 이야기를 해봅시다. 스토리를."
+    } ]
+  }, {
+    "tStartMs": 1150000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아니 스토리를 얘기하면 당연히 그거에 대한 이야기잖아요."
+    } ]
+  }, {
+    "tStartMs": 1154000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러니까 거짓말을 하는지 안 하는지를 판독하는 거죠."
+    } ]
+  }, {
+    "tStartMs": 1157000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "거짓, 가짜로 이야기를 하라고요?"
+    } ]
+  }, {
+    "tStartMs": 1160000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "가짜로 이야기해내는 거. 그래야지 맞출 수가 있을 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 1168000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "알겠어요. 해볼게요."
+    } ]
+  }, {
+    "tStartMs": 1171000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "첫 번째 문장은요? 짧게."
+    } ]
+  }, {
+    "tStartMs": 1176000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "저는 관광지 근처에 살아요."
+    } ]
+  }, {
+    "tStartMs": 1183000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그래서 그냥 왔다 가는 사람들이 많아요. 저희 동네에는."
+    } ]
+  }, {
+    "tStartMs": 1189000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "여기 안 사는데 그냥 왔다 가는 사람들."
+    } ]
+  }, {
+    "tStartMs": 1192000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그리고 제 집 근처에는 유명한 산책로가 있고요."
+    } ]
+  }, {
+    "tStartMs": 1197000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그래서 관광객들도 많고."
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "관객들이 가끔 비가 오면은 편의점에서 우산을 샀다가"
+    } ]
+  }, {
+    "tStartMs": 1206680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "우산을 막 그냥 길에 두고 가요"
+    } ]
+  }, {
+    "tStartMs": 1210360,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "음 멀쩡한 우산을"
+    } ]
+  }, {
+    "tStartMs": 1211960,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1212960,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1213960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "그러면 제가 그 우산을 그냥 집에 가지고 올 수도 있는거죠"
+    } ]
+  }, {
+    "tStartMs": 1219400,
+    "dDurationMs": 1159,
+    "segs": [ {
+      "utf8": "우산 줍"
+    } ]
+  }, {
+    "tStartMs": 1220559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1221559,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "줍줍 해가지고 가요"
+    } ]
+  }, {
+    "tStartMs": 1223120,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1224200,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "그렇게 해서 쌓인게 열개"
+    } ]
+  }, {
+    "tStartMs": 1226080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1227600,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "음 오케이"
+    } ]
+  }, {
+    "tStartMs": 1229799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1230799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "두번째는요"
+    } ]
+  }, {
+    "tStartMs": 1231799,
+    "dDurationMs": 11881,
+    "segs": [ {
+      "utf8": "두번째는 저는 양말이 양말이 물에 젖으면"
+    } ]
+  }, {
+    "tStartMs": 1243680,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "아 너무 기분이 나빠요"
+    } ]
+  }, {
+    "tStartMs": 1244759,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1246959,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "네 그리고 저는 또 바지가 젖는 것도 너무 기분이 나빠서"
+    } ]
+  }, {
+    "tStartMs": 1252599,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1253599,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "되도록 반바지를 자주 입어요"
+    } ]
+  }, {
+    "tStartMs": 1257680,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "오케이 입어요 오케이"
+    } ]
+  }, {
+    "tStartMs": 1263599,
+    "dDurationMs": 1881,
+    "segs": [ {
+      "utf8": "네 반바지를 자주 입습니다"
+    } ]
+  }, {
+    "tStartMs": 1265480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1266480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네 그리고"
+    } ]
+  }, {
+    "tStartMs": 1267480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "달리기 이거 안하는데 어떻게 스토리 한번 잘"
+    } ]
+  }, {
+    "tStartMs": 1272480,
+    "dDurationMs": 6159,
+    "segs": [ {
+      "utf8": "저는 달리기를 안하는데"
+    } ]
+  }, {
+    "tStartMs": 1278639,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "비가 안오는 날에도 달리기를 안해요"
+    } ]
+  }, {
+    "tStartMs": 1283360,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "그냥 달리기를 안한다는거죠"
+    } ]
+  }, {
+    "tStartMs": 1286120,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "아 나는 요즘 달리기를 안한다"
+    } ]
+  }, {
+    "tStartMs": 1291400,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "비가 오는 날에는 헤이크고 그냥 달리기를 안한다"
+    } ]
+  }, {
+    "tStartMs": 1295239,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1296239,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "오 다 그럴듯해요"
+    } ]
+  }, {
+    "tStartMs": 1300120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1301120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "그럼 우산이 아홉개 있나본데"
+    } ]
+  }, {
+    "tStartMs": 1303760,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "뭔가 다 그럴듯하네요"
+    } ]
+  }, {
+    "tStartMs": 1308800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "생각해보겠습니다"
+    } ]
+  }, {
+    "tStartMs": 1309800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1311800,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "저는 첫번째 저는 원래 레인보츠 가 없었는데"
+    } ]
+  }, {
+    "tStartMs": 1317199,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "제 생일이 6월달이잖아요"
+    } ]
+  }, {
+    "tStartMs": 1320120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 1321120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "그래서 올해 선물을 받았어요"
+    } ]
+  }, {
+    "tStartMs": 1324720,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "제가 갖고싶었던 레인보츠를"
+    } ]
+  }, {
+    "tStartMs": 1326879,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어호"
+    } ]
+  }, {
+    "tStartMs": 1327879,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "그래서 장화가 생겼고요"
+    } ]
+  }, {
+    "tStartMs": 1329919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1330919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그리고 두번째는"
+    } ]
+  }, {
+    "tStartMs": 1331919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1332919,
+    "dDurationMs": 5961,
+    "segs": [ {
+      "utf8": "어렸을때에요 완전 어렸을때 미술학원을 다녔는데"
+    } ]
+  }, {
+    "tStartMs": 1339039,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "거기서 집에 갈 때 너무 빠르게 내려오다가"
+    } ]
+  }, {
+    "tStartMs": 1343279,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "그 계단이 미끄럽잖아요"
+    } ]
+  }, {
+    "tStartMs": 1345800,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "그래서 그때도 레인보츠를 신고 있었는데 어렸을때"
+    } ]
+  }, {
+    "tStartMs": 1349639,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "그게 되게 미끄러워서 굴러넘어져서 엄청 크게 다친적이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1354479,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "아 디테일하다 근데"
+    } ]
+  }, {
+    "tStartMs": 1356600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어"
+    } ]
+  }, {
+    "tStartMs": 1357600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그리고 세번째는"
+    } ]
+  }, {
+    "tStartMs": 1360600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "캠핑을 어렸을때 이것도 자주 갔"
+    } ]
+  }, {
+    "tStartMs": 1363320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "자주는 아니고 가끔 갔었는데 가족들이랑"
+    } ]
+  }, {
+    "tStartMs": 1367360,
+    "dDurationMs": 5559,
+    "segs": [ {
+      "utf8": "보통 아빠 휴가가 장마철일 때가 많아서"
+    } ]
+  }, {
+    "tStartMs": 1372919,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "그 시즌이 겹칠 때가 많아서"
+    } ]
+  }, {
+    "tStartMs": 1376520,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "캠핑을 갔는데 밤에 막 비가 엄청 와가지고"
+    } ]
+  }, {
+    "tStartMs": 1380919,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "등이 다 젖을 정도로"
+    } ]
+  }, {
+    "tStartMs": 1384600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "비오는 날 캠핑을 경험한 적이 있습니다"
+    } ]
+  }, {
+    "tStartMs": 1387320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아아"
+    } ]
+  }, {
+    "tStartMs": 1388320,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "아 맞다 원래 이 게임이 이렇게 하는 거죠"
+    } ]
+  }, {
+    "tStartMs": 1391639,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그런거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1392639,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "그래야지 추측이 되는거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1394399,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "맞네 근데 이중에 거짓말이 섞여있다"
+    } ]
+  }, {
+    "tStartMs": 1396399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "이 말이네요"
+    } ]
+  }, {
+    "tStartMs": 1397399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 1398399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아아"
+    } ]
+  }, {
+    "tStartMs": 1399399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "골라볼까요"
+    } ]
+  }, {
+    "tStartMs": 1400399,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "몇년만에 해봐서 저도"
+    } ]
+  }, {
+    "tStartMs": 1402759,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "근데 여기서 또 질문을 할 수 있다는 말 아니에요"
+    } ]
+  }, {
+    "tStartMs": 1406119,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1407119,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아아"
+    } ]
+  }, {
+    "tStartMs": 1408119,
+    "dDurationMs": 5881,
+    "segs": [ {
+      "utf8": "근데 그 캠핑 가족끼리 갔을때는"
+    } ]
+  }, {
+    "tStartMs": 1414000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "경기도로 이사가기 전이에요"
+    } ]
+  }, {
+    "tStartMs": 1415600,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "네 옛날에"
+    } ]
+  }, {
+    "tStartMs": 1417960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "아 그러면 그 오빠분도 같이 간거에요"
+    } ]
+  }, {
+    "tStartMs": 1422240,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "맞아요 4인"
+    } ]
+  }, {
+    "tStartMs": 1423679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아아"
+    } ]
+  }, {
+    "tStartMs": 1424679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "감기 안걸렸어요"
+    } ]
+  }, {
+    "tStartMs": 1426199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "감기는 안걸렸던거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1428199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "젊어서"
+    } ]
+  }, {
+    "tStartMs": 1429199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "튼튼하네"
+    } ]
+  }, {
+    "tStartMs": 1430199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어려서"
+    } ]
+  }, {
+    "tStartMs": 1431199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어려서 어려서"
+    } ]
+  }, {
+    "tStartMs": 1432199,
+    "dDurationMs": 3961,
+    "segs": [ {
+      "utf8": "오 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 1436160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그리고 비오는 날 계단에서 굴러 넘어져서 병원 갔어요"
+    } ]
+  }, {
+    "tStartMs": 1442160,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "저희 어머니가 저를 좀 강하게 키우셨거든요"
+    } ]
+  }, {
+    "tStartMs": 1444800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "에에"
+    } ]
+  }, {
+    "tStartMs": 1445800,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "그 그냥 막 다리에 몽이 엄청 많이 들었는데"
+    } ]
+  }, {
+    "tStartMs": 1451240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "집에 가서 쉬었어요"
+    } ]
+  }, {
+    "tStartMs": 1452240,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "몇살때였죠"
+    } ]
+  }, {
+    "tStartMs": 1458920,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "엄청 어렸을때 5살 6살"
+    } ]
+  }, {
+    "tStartMs": 1462239,
+    "dDurationMs": 11201,
+    "segs": [ {
+      "utf8": "5살 아이가 굴러 넘어졌는데 병원 도 안가고 뭐 뼈가 부러지지도 않았다"
+    } ]
+  }, {
+    "tStartMs": 1473440,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "그땐 그렇게 키웠어요"
+    } ]
+  }, {
+    "tStartMs": 1475079,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "어허"
+    } ]
+  }, {
+    "tStartMs": 1482079,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "질문 있어요 제가 할까요"
+    } ]
+  }, {
+    "tStartMs": 1483519,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "언제든지 하십시오 질문 있으면"
+    } ]
+  }, {
+    "tStartMs": 1486200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "오늘 그럼 우산을 좀 세봤어요 거기 가서"
+    } ]
+  }, {
+    "tStartMs": 1489760,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아 세봤죠"
+    } ]
+  }, {
+    "tStartMs": 1490760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아 얼마나 모였나 해가지고 세봤어요"
+    } ]
+  }, {
+    "tStartMs": 1494760,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "네네 그럼요"
+    } ]
+  }, {
+    "tStartMs": 1496079,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "근데 딱 10개가 떨어졌어요"
+    } ]
+  }, {
+    "tStartMs": 1497880,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1499119,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "기분이 되게 좋았겠다 10개 딱 떨어져서"
+    } ]
+  }, {
+    "tStartMs": 1501920,
+    "dDurationMs": 9080,
+    "segs": [ {
+      "utf8": "아 뭐 문제 3개 중에 하나 생겼다 이렇게 하고 기분이 좋았죠"
+    } ]
+  }, {
+    "tStartMs": 1511000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "그 한국에서 논쟁이 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1513160,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "비오는 날 슬리퍼 파인지 아니면 양말 신고 운동화를 신는 파인지"
+    } ]
+  }, {
+    "tStartMs": 1520480,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "근데 저는 그런 논쟁이 있는 줄도 몰랐는데"
+    } ]
+  }, {
+    "tStartMs": 1523359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아 그래요"
+    } ]
+  }, {
+    "tStartMs": 1524359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1525359,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "제 주변 친구들끼리 하는 얘기일 수도 있어요"
+    } ]
+  }, {
+    "tStartMs": 1527480,
+    "dDurationMs": 8879,
+    "segs": [ {
+      "utf8": "아 근데 양말 신고 운동화 신는 거는 그냥 똑같은 그냥 평소에"
+    } ]
+  }, {
+    "tStartMs": 1536359,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "신는 거 아니에요"
+    } ]
+  }, {
+    "tStartMs": 1538040,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "그쵸 평소대로 한다 라는 뜻인데"
+    } ]
+  }, {
+    "tStartMs": 1541119,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "그니까 거기에 선택지는 이거에요"
+    } ]
+  }, {
+    "tStartMs": 1543040,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "그냥 물이 들어가든 말든 나는 막 다닌다"
+    } ]
+  }, {
+    "tStartMs": 1546559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어차피 젖을 거"
+    } ]
+  }, {
+    "tStartMs": 1547559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 1548559,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "이런 타입인지 아니면 조심해서 운동화 신고 최대한 물이 안 들어가"
+    } ]
+  }, {
+    "tStartMs": 1553200,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "게 하는 바다 이건지"
+    } ]
+  }, {
+    "tStartMs": 1554880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 1555880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 1556880,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "태용쌤은 그냥 막 밟아버려요"
+    } ]
+  }, {
+    "tStartMs": 1559559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "어차피 젖을 거"
+    } ]
+  }, {
+    "tStartMs": 1562559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 1563559,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "바지가 젖을 거 같은데 그냥 밟아요"
+    } ]
+  }, {
+    "tStartMs": 1566920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "무릉덩이"
+    } ]
+  }, {
+    "tStartMs": 1567920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 1568920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 1569920,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "왜 대답을 못해요"
+    } ]
+  }, {
+    "tStartMs": 1573399,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "잠깐만 잠깐만 내가 내가 싫어한다고 했는데 아까"
+    } ]
+  }, {
+    "tStartMs": 1577880,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "좀 이상하다 여기 이 문장이"
+    } ]
+  }, {
+    "tStartMs": 1580359,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "내가 아까 싫어한다고 했는데"
+    } ]
+  }, {
+    "tStartMs": 1583359,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "바지 젖는 걸 싫어한다 했죠"
+    } ]
+  }, {
+    "tStartMs": 1585920,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "네 바지 젖는 건 싫어요 바지 젖는 건 싫어요"
+    } ]
+  }, {
+    "tStartMs": 1589480,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "바지는 막 다리에 끼니까"
+    } ]
+  }, {
+    "tStartMs": 1591640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 1593640,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "그리고 양말 젖는 것도 싫어서 그냥 맨발로 다녀요"
+    } ]
+  }, {
+    "tStartMs": 1598679,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "생각해보니까 나쁘지 않은 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1601200,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "뭐야 뭐야 지금 어떻게 되는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1604720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "문제 변경 안 돼요"
+    } ]
+  }, {
+    "tStartMs": 1609720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "생각해보니까 뭐"
+    } ]
+  }, {
+    "tStartMs": 1613160,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "그리고 어차피 달리기를 해야 하면"
+    } ]
+  }, {
+    "tStartMs": 1617000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1618000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "양말을 신을 수밖에 없잖아요"
+    } ]
+  }, {
+    "tStartMs": 1619600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그러네요"
+    } ]
+  }, {
+    "tStartMs": 1620600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1622600,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "근데 뭐 자주 신는다니까 운동할 때는 또 신을 수도 있죠"
+    } ]
+  }, {
+    "tStartMs": 1627359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 1628359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그럴 수도 있죠"
+    } ]
+  }, {
+    "tStartMs": 1629359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1630359,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "일단 확실한 거 하나 골라봅시다 그럼"
+    } ]
+  }, {
+    "tStartMs": 1632160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "이쯤에서 알겠습니다"
+    } ]
+  }, {
+    "tStartMs": 1634480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "저는 확실한 거"
+    } ]
+  }, {
+    "tStartMs": 1637160,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "비가 오는 날에는 달리기를 안 하실 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1640760,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "그것은 사실입니다"
+    } ]
+  }, {
+    "tStartMs": 1643279,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "예예예예예"
+    } ]
+  }, {
+    "tStartMs": 1647679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "통과"
+    } ]
+  }, {
+    "tStartMs": 1648679,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "그런데 여담으로 말씀드리자면"
+    } ]
+  }, {
+    "tStartMs": 1650640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1651640,
+    "dDurationMs": 7319,
+    "segs": [ {
+      "utf8": "제가 작년에 그 1년 366일 동안 달리기 하기 챌린지 했다 그랬잖아요"
+    } ]
+  }, {
+    "tStartMs": 1658959,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1659959,
+    "dDurationMs": 4961,
+    "segs": [ {
+      "utf8": "그러다가 7월인가 8월쯤에 코로나 에 걸려서 안 했는데"
+    } ]
+  }, {
+    "tStartMs": 1664920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1665920,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "그 전까지는 비가 와도 무조건 뛰었습니다"
+    } ]
+  }, {
+    "tStartMs": 1670200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1671200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그랬구나"
+    } ]
+  }, {
+    "tStartMs": 1672200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네 네"
+    } ]
+  }, {
+    "tStartMs": 1673200,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "하지만 요즘은 비가 오면 달리기를 안 해요"
+    } ]
+  }, {
+    "tStartMs": 1676839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어"
+    } ]
+  }, {
+    "tStartMs": 1677839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1678839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오케이"
+    } ]
+  }, {
+    "tStartMs": 1679839,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "자 저는 비 오는 날 계단에서 굴러 넘어진 적이 있다"
+    } ]
+  }, {
+    "tStartMs": 1685399,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "이거 사실입니까"
+    } ]
+  }, {
+    "tStartMs": 1687119,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "사실입니다"
+    } ]
+  }, {
+    "tStartMs": 1688119,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "아 네네 엄청 디테일했어요 이야기가"
+    } ]
+  }, {
+    "tStartMs": 1689920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1690920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1691920,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "뭐 그렇게 크게 안 다쳤으니까"
+    } ]
+  }, {
+    "tStartMs": 1694799,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "병원 안 갔던 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1696200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1697200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1698200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "멍이 크게 들었다"
+    } ]
+  }, {
+    "tStartMs": 1699600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1700600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그랬습니다"
+    } ]
+  }, {
+    "tStartMs": 1701600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1702600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "그 안 넘어지게 여러분도 모두 조심하십시오"
+    } ]
+  }, {
+    "tStartMs": 1707640,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "진짜 조심하셔야 돼요 급하게 내려오면 안 돼 계단은"
+    } ]
+  }, {
+    "tStartMs": 1710959,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1711959,
+    "dDurationMs": 5001,
+    "segs": [ {
+      "utf8": "아무리 급해도 계단만은 옆에 손잡이를 잡고 내려오셔야 됩니다"
+    } ]
+  }, {
+    "tStartMs": 1716960,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1717960,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "그러면 이제 다음 거 2개 남았네요"
+    } ]
+  }, {
+    "tStartMs": 1721239,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1724119,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "골라볼래요 아니면 뭐"
+    } ]
+  }, {
+    "tStartMs": 1726159,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "어 뭐 질문 있습니까"
+    } ]
+  }, {
+    "tStartMs": 1728400,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "그 저는 슬리퍼를 자주 신으실 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1733159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1734159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "왜냐면"
+    } ]
+  }, {
+    "tStartMs": 1735159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네 그런데요"
+    } ]
+  }, {
+    "tStartMs": 1736159,
+    "dDurationMs": 8801,
+    "segs": [ {
+      "utf8": "왜냐면 진짜 양말에 물이 젖는 걸 싫어하실 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1744960,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "그래서 달리기도 안 했던 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1749159,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "오 그게 달리기를 안 하는 이유다"
+    } ]
+  }, {
+    "tStartMs": 1751640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1752640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 1754640,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "아 무슨 슬리퍼 신는지 좀 물어봐도 될까요"
+    } ]
+  }, {
+    "tStartMs": 1758359,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "비오는 날 신는 슬리퍼"
+    } ]
+  }, {
+    "tStartMs": 1760640,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "쪼리"
+    } ]
+  }, {
+    "tStartMs": 1761880,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "아 저는 쪼리는 안 신어요"
+    } ]
+  }, {
+    "tStartMs": 1764159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아 그래요"
+    } ]
+  }, {
+    "tStartMs": 1765159,
+    "dDurationMs": 8121,
+    "segs": [ {
+      "utf8": "쪼리가 그 엄지발가락이랑 두 번째 발가락 사이에 끼워서 신는 슬리퍼"
+    } ]
+  }, {
+    "tStartMs": 1773280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "잖아요"
+    } ]
+  }, {
+    "tStartMs": 1774280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1775280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그걸 쪼리라고 해요"
+    } ]
+  }, {
+    "tStartMs": 1776280,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "근데 저는 쪼리는 안 신어요"
+    } ]
+  }, {
+    "tStartMs": 1777479,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "아 그럼 그냥 삼선 슬리퍼"
+    } ]
+  }, {
+    "tStartMs": 1779320,
+    "dDurationMs": 2719,
+    "segs": [ {
+      "utf8": "그런 거 그런 스타일의 슬리퍼"
+    } ]
+  }, {
+    "tStartMs": 1782039,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "아 딱 전형적인 슬리퍼"
+    } ]
+  }, {
+    "tStartMs": 1784359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1785359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1786359,
+    "dDurationMs": 4521,
+    "segs": [ {
+      "utf8": "그 비오면 슬리퍼 안에 물 막 들어가는 거 알아요"
+    } ]
+  }, {
+    "tStartMs": 1790880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "되게 질퍽질퍽하게"
+    } ]
+  }, {
+    "tStartMs": 1793880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 1794880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그러진 않나요"
+    } ]
+  }, {
+    "tStartMs": 1795880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그래요"
+    } ]
+  }, {
+    "tStartMs": 1796880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "괜찮아요"
+    } ]
+  }, {
+    "tStartMs": 1797880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "근데 그건 운동화도 마찬가지니까"
+    } ]
+  }, {
+    "tStartMs": 1800880,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "모든 신발이 그렇지 않을까요"
+    } ]
+  }, {
+    "tStartMs": 1802679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 1803679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1805000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "슬리퍼 신고 물엉덩이 잘못 이렇게 발 뒤져서 발에 흙탕물 들어가도 괜찮아요?"
+    } ]
+  }, {
+    "tStartMs": 1815000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러면 하늘에서 깨끗한 물이 떨어지기 때문에"
+    } ]
+  }, {
+    "tStartMs": 1819000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "다시 씻어줘요?"
+    } ]
+  }, {
+    "tStartMs": 1824000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "하늘에서 투명한 물이 떨어져서 괜찮아요."
+    } ]
+  }, {
+    "tStartMs": 1831000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러면 저도 질문합니다."
+    } ]
+  }, {
+    "tStartMs": 1837000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "원래 어릴 때 가족끼리 캠핑을 종종 가셨습니까?"
+    } ]
+  }, {
+    "tStartMs": 1842000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "종종 가진 아닌데 뭐 한 3, 4번?"
+    } ]
+  }, {
+    "tStartMs": 1846000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "3, 4번? 많이는 안 갔네요."
+    } ]
+  }, {
+    "tStartMs": 1850000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그렇게 매니아들은 아니었어요."
+    } ]
+  }, {
+    "tStartMs": 1854000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "매니아는 아니다?"
+    } ]
+  }, {
+    "tStartMs": 1856000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "여름에 이번엔 뭐 할까? 계곡 놀러 가자 해서."
+    } ]
+  }, {
+    "tStartMs": 1861000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "매니아는 아닌데 텐트가 있었나요?"
+    } ]
+  }, {
+    "tStartMs": 1864000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "있었어요."
+    } ]
+  }, {
+    "tStartMs": 1866000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그것도 4인 가족이 있을 수 있는 큰 텐트가 있었나요?"
+    } ]
+  }, {
+    "tStartMs": 1869000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "있었습니다."
+    } ]
+  }, {
+    "tStartMs": 1877000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어렵죠."
+    } ]
+  }, {
+    "tStartMs": 1878000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "근데 비가 들어왔다고요?"
+    } ]
+  }, {
+    "tStartMs": 1880000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "비가 들어왔어요. 옛날 텐트는 그렇게 좋지 않았어요."
+    } ]
+  }, {
+    "tStartMs": 1885000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그때 혹시 텐트의 브랜드가 기억나십니까?"
+    } ]
+  }, {
+    "tStartMs": 1889000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "모르죠, 모르죠. 저는 I였습니다."
+    } ]
+  }, {
+    "tStartMs": 1892000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "텐트 색깔 혹시 기억나십니까?"
+    } ]
+  }, {
+    "tStartMs": 1894000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "보라색이었습니다."
+    } ]
+  }, {
+    "tStartMs": 1896000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "보라색?"
+    } ]
+  }, {
+    "tStartMs": 1898000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "보라색이 섞여 있었어요."
+    } ]
+  }, {
+    "tStartMs": 1900000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "까망의 보라 이렇게."
+    } ]
+  }, {
+    "tStartMs": 1904000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그때 캠핑을 가서 먹은 밥이 뭐였는지 기억나십니까?"
+    } ]
+  }, {
+    "tStartMs": 1911000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "매운탕 같은 것도 해먹었고"
+    } ]
+  }, {
+    "tStartMs": 1913000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "계곡에서 물고기를 잡아서"
+    } ]
+  }, {
+    "tStartMs": 1917000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그리고 삼겹살 이런 것도 구워 먹었고"
+    } ]
+  }, {
+    "tStartMs": 1920000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "라면도 먹었고 딱 그런 느낌?"
+    } ]
+  }, {
+    "tStartMs": 1925000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "혹시 장화는 비싼 장화입니까?"
+    } ]
+  }, {
+    "tStartMs": 1930000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "선물을 받았기 때문에"
+    } ]
+  }, {
+    "tStartMs": 1933000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "10만원은 안 넘어요. 아마도."
+    } ]
+  }, {
+    "tStartMs": 1937000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "그 선물을 준 사람은 많이 가까운 관계인가요?"
+    } ]
+  }, {
+    "tStartMs": 1945000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "맞아요. 제일 친한 친구."
+    } ]
+  }, {
+    "tStartMs": 1950000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그 친구의 생일은 몇월달인가요?"
+    } ]
+  }, {
+    "tStartMs": 1953000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저랑 이틀 차이에요."
+    } ]
+  }, {
+    "tStartMs": 1956000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그래서 매년 선물 교환을 해요. 언니랑."
+    } ]
+  }, {
+    "tStartMs": 1961000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "언니?"
+    } ]
+  }, {
+    "tStartMs": 1962000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "만만치 않은데?"
+    } ]
+  }, {
+    "tStartMs": 1964000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "10개를 어떻게..."
+    } ]
+  }, {
+    "tStartMs": 1968000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "골라볼까요?"
+    } ]
+  }, {
+    "tStartMs": 1969000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "한 번 골라보죠."
+    } ]
+  }, {
+    "tStartMs": 1972000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "진실은 슬리퍼를 자주 신으실 것 같습니다."
+    } ]
+  }, {
+    "tStartMs": 1978000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "일단 알겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1981000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "저의 추측은 비 오는 날에는 슬리퍼를 자주 신어요."
+    } ]
+  }, {
+    "tStartMs": 1988000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "저의 추측은 비 오는 날 캠핑을 다녀온 적이 없을 것 같습니다."
+    } ]
+  }, {
+    "tStartMs": 1996000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그래서 진실은 레인부츠가 있다?"
+    } ]
+  }, {
+    "tStartMs": 2003000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "정답은 저는 레인부츠가 없습니다."
+    } ]
+  }, {
+    "tStartMs": 2012000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "태용쌤은요?"
+    } ]
+  }, {
+    "tStartMs": 2014000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "저는 집에 우산이 10개 있고요."
+    } ]
+  }, {
+    "tStartMs": 2019000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "딱 10개가 있다고요?"
+    } ]
+  }, {
+    "tStartMs": 2021000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그리고 장마철엔 슬리퍼는 절대 안 신고요. 샌달을 신습니다."
+    } ]
+  }, {
+    "tStartMs": 2029000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맨발로요?"
+    } ]
+  }, {
+    "tStartMs": 2031000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네. 맨발로 샌달을 신습니다."
+    } ]
+  }, {
+    "tStartMs": 2038000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "진짜 캠핑을 다녀온 적이 있다고요?"
+    } ]
+  }, {
+    "tStartMs": 2041000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "비 오는 날에?"
+    } ]
+  }, {
+    "tStartMs": 2043000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 2046000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "비가 올 줄 몰랐는데 밤에 왔던 것 같기도 하고."
+    } ]
+  }, {
+    "tStartMs": 2051000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아무튼 밤새 비가 와서 등이 축축해졌던 기억이 있어요."
+    } ]
+  }, {
+    "tStartMs": 2056000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그래서 3, 4번만 가고 안 갔나 더?"
+    } ]
+  }, {
+    "tStartMs": 2059000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그랬나 봐요. 엄마가 좀 싫어하셨던 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 2062000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그런가 보네요."
+    } ]
+  }, {
+    "tStartMs": 2065000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "둘 다 틀렸네."
+    } ]
+  }, {
+    "tStartMs": 2066000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "말이 안 되는데 매운탕 그런 게."
+    } ]
+  }, {
+    "tStartMs": 2069000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "다 진실이었습니다."
+    } ]
+  }, {
+    "tStartMs": 2071000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "아무튼 우산 10개 있는데 보고 싶으면 말씀하시고 제가 꺼내드릴게요."
+    } ]
+  }, {
+    "tStartMs": 2078000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "괜찮아요."
+    } ]
+  }, {
+    "tStartMs": 2081000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "딱 세보니까 10개였어요?"
+    } ]
+  }, {
+    "tStartMs": 2082000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 2085000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그중에 손이 자주 가는 우산이 있어요?"
+    } ]
+  }, {
+    "tStartMs": 2088000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "있어요."
+    } ]
+  }, {
+    "tStartMs": 2090000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그냥 보여드릴까요?"
+    } ]
+  }, {
+    "tStartMs": 2092000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "가져와 보세요."
+    } ]
+  }, {
+    "tStartMs": 2093000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "대부분이 편의점 우산이거든요. 진짜로. 말한 것처럼."
+    } ]
+  }, {
+    "tStartMs": 2097000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "캡처해야겠다."
+    } ]
+  }, {
+    "tStartMs": 2098000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "잠시만요."
+    } ]
+  }, {
+    "tStartMs": 2100000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "보고 있어요."
+    } ]
+  }, {
+    "tStartMs": 2102000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다 가져온 거 맞아요? 10개 맞아요?"
+    } ]
+  }, {
+    "tStartMs": 2104000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "8개 같은데."
+    } ]
+  }, {
+    "tStartMs": 2106000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "여기 보이시나요?"
+    } ]
+  }, {
+    "tStartMs": 2108000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "지금 여기만 해도."
+    } ]
+  }, {
+    "tStartMs": 2109000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "엄청 많다."
+    } ]
+  }, {
+    "tStartMs": 2110000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "1, 2, 3, 4, 5."
+    } ]
+  }, {
+    "tStartMs": 2116000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "9개."
+    } ]
+  }, {
+    "tStartMs": 2118000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그리고 여기 하나."
+    } ]
+  }, {
+    "tStartMs": 2120000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그리고 10개."
+    } ]
+  }, {
+    "tStartMs": 2122000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "우산 부자셨습니다."
+    } ]
+  }, {
+    "tStartMs": 2124000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 2126000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그리고 이 중에는 유튜브 우산도 있습니다."
+    } ]
+  }, {
+    "tStartMs": 2131000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "유튜브. 그때."
+    } ]
+  }, {
+    "tStartMs": 2134000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그때 유튜브 행사 가서 받은."
+    } ]
+  }, {
+    "tStartMs": 2137000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "예뻐요."
+    } ]
+  }, {
+    "tStartMs": 2139000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "하지만 실용성은 없고요."
+    } ]
+  }, {
+    "tStartMs": 2142000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아무튼 이렇게 우산이 10개가 있었습니다."
+    } ]
+  }, {
+    "tStartMs": 2144000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "손이 자주 가는 우산은요?"
+    } ]
+  }, {
+    "tStartMs": 2146000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그거는요."
+    } ]
+  }, {
+    "tStartMs": 2147000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그거는요."
+    } ]
+  }, {
+    "tStartMs": 2150000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "편의점 우산 중에 제일 얇고 제일 가느다란 우산입니다."
+    } ]
+  }, {
+    "tStartMs": 2157000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "극세사 우산."
+    } ]
+  }, {
+    "tStartMs": 2158000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네. 엄청 가벼운 거예요."
+    } ]
+  }, {
+    "tStartMs": 2162000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "무난하죠."
+    } ]
+  }, {
+    "tStartMs": 2163000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠."
+    } ]
+  }, {
+    "tStartMs": 2165000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "감사합니다. 우산 하울."
+    } ]
+  }, {
+    "tStartMs": 2173000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아쉽네요. 둘 다 틀렸네. 잘 속이네요."
+    } ]
+  }, {
+    "tStartMs": 2176000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇네요."
+    } ]
+  }, {
+    "tStartMs": 2177000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "둘 다 거짓말 잘하네요."
+    } ]
+  }, {
+    "tStartMs": 2179000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이 슬리퍼가 함정이었습니다. 사실."
+    } ]
+  }, {
+    "tStartMs": 2181000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그러네. 어차피 맨발이긴 한데 슬리퍼가 아니라 샌들을 신는다고요?"
+    } ]
+  }, {
+    "tStartMs": 2187000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "슬리퍼는 왜요? 떠내려갈 수 있으니까?"
+    } ]
+  }, {
+    "tStartMs": 2191000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네. 벗겨질 수가 있잖아요."
+    } ]
+  }, {
+    "tStartMs": 2193000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞죠. 맞죠."
+    } ]
+  }, {
+    "tStartMs": 2195000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그리고 저 슬리퍼 좀 예쁘게 생긴 슬리퍼라서."
+    } ]
+  }, {
+    "tStartMs": 2201000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아끼는 슬리퍼요?"
+    } ]
+  }, {
+    "tStartMs": 2202000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "네. 나이키 스터시 슬리퍼라서 더러워지면 안 돼요."
+    } ]
+  }, {
+    "tStartMs": 2208000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그럴 수 있죠."
+    } ]
+  }, {
+    "tStartMs": 2210000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "저는 장화를 항상 고민하는데 살까 말까."
+    } ]
+  }, {
+    "tStartMs": 2216000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "사실 큰 도움이 안 될 것 같고 그렇게까지 정글을 갈 것도 아니고 어차피 그냥"
+    } ]
+  }, {
+    "tStartMs": 2224000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "무릉덩이 몇 개 정도 지나가는 것 뿐이니까 굳이 싶어서 안 샀습니다."
+    } ]
+  }, {
+    "tStartMs": 2230000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "샌들 신으세요."
+    } ]
+  }, {
+    "tStartMs": 2232000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "네. 샌들이나 운동화? 저는 뭐 그렇습니다."
+    } ]
+  }, {
+    "tStartMs": 2238000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그래도 재미있었네요. 추측하느라."
+    } ]
+  }, {
+    "tStartMs": 2241000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네. 재미있었습니다."
+    } ]
+  }, {
+    "tStartMs": 2243000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러면 미니게임은 여기서 마무리하도록 하고"
+    } ]
+  }, {
+    "tStartMs": 2247000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "다음 달에는 8월일 거예요. 8월 말 정도 될 것 같아서"
+    } ]
+  }, {
+    "tStartMs": 2254000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "영화 괜찮아요?"
+    } ]
+  }, {
+    "tStartMs": 2256000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "좋죠. 좋죠."
+    } ]
+  }, {
+    "tStartMs": 2257000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "영화로 연모조모 이야기해보도록 하겠습니다."
+    } ]
+  }, {
+    "tStartMs": 2260000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어떤 식으로요?"
+    } ]
+  }, {
+    "tStartMs": 2262000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "최근에 재밌게 본 영화나 추천해주고 싶은 한국 영화나 그런 거 어때요?"
+    } ]
+  }, {
+    "tStartMs": 2271000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "전반적으로 영화 여러 가지 얘기를 할 수 있는 에피소드예요?"
+    } ]
+  }, {
+    "tStartMs": 2276000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "영화를 보통 어디서 보는지 그런 것들."
+    } ]
+  }, {
+    "tStartMs": 2279000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "영화 관람 문화 이런 얘기 할 수 있겠네요."
+    } ]
+  }, {
+    "tStartMs": 2285000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "맞아요. 영화관의 종류 이런 것도 얘기할 수 있을 것 같고."
+    } ]
+  }, {
+    "tStartMs": 2288000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "우리가 한국생활 영호조모니까."
+    } ]
+  }, {
+    "tStartMs": 2291000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네. 알겠습니다."
+    } ]
+  }, {
+    "tStartMs": 2293000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "좋습니다."
+    } ]
+  }, {
+    "tStartMs": 2295000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러면 저희는 다음 주에 또 돌아오도록 하겠습니다."
+    } ]
+  }, {
+    "tStartMs": 2299000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "지금까지 디디와 정태웅이었습니다."
+    } ]
+  }, {
+    "tStartMs": 2302000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "감사합니다."
+    } ]
+  }, {
+    "tStartMs": 2318000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "다음 주에 만나요."
+    } ]
+  } ]
+}

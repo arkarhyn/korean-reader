@@ -1,0 +1,4789 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "알람은 몇 개 정도 맞추세요? 아침에"
+    } ]
+  }, {
+    "tStartMs": 2500,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "예전에는 알람 세 개를 맞췄거든요"
+    } ]
+  }, {
+    "tStartMs": 5380,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "하나는 5시 59분에..."
+    } ]
+  }, {
+    "tStartMs": 7960,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "새소리가 막..."
+    } ]
+  }, {
+    "tStartMs": 11050,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "짹짹 삐약삐약 이렇게 울려요"
+    } ]
+  }, {
+    "tStartMs": 13640,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "그러면은 Wim Hof's Guided Breathing인가?"
+    } ]
+  }, {
+    "tStartMs": 17330,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "그 유튜브 영상이 있어요"
+    } ]
+  }, {
+    "tStartMs": 18820,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "말을 하는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 20280,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "네네 윔 호프가"
+    } ]
+  }, {
+    "tStartMs": 21040,
+    "dDurationMs": 530,
+    "segs": [ {
+      "utf8": "Breathe in (마시고)~"
+    } ]
+  }, {
+    "tStartMs": 21570,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "breathe out (내쉬고)~"
+    } ]
+  }, {
+    "tStartMs": 22490,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "막 이렇게 하는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 23810,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "네네네네"
+    } ]
+  }, {
+    "tStartMs": 25150,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "아, 난생처음 봐요 이런 사람"
+    } ]
+  }, {
+    "tStartMs": 28650,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "그래서 이걸 여기다가..."
+    } ]
+  }, {
+    "tStartMs": 31720,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "이렇게 붙이고 자는 거죠"
+    } ]
+  }, {
+    "tStartMs": 33540,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "(혼란)"
+    } ]
+  }, {
+    "tStartMs": 36160,
+    "dDurationMs": 7770,
+    "segs": [ {
+      "utf8": "\u003c디디와 정태웅의 한국생활 요모조모\u003e"
+    } ]
+  }, {
+    "tStartMs": 45390,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "안녕하세요 디디입니다"
+    } ]
+  }, {
+    "tStartMs": 47140,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "안녕하세요 정태웅입니다"
+    } ]
+  }, {
+    "tStartMs": 48800,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "한국생활 요모조모는 한국에서 살아가는 두 사람이"
+    } ]
+  }, {
+    "tStartMs": 52060,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "한국 생활의 요모조모를 이야기하는 팟캐스트입니다"
+    } ]
+  }, {
+    "tStartMs": 55160,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "네, 오늘 7월에 올라갈 요모조모 촬영을 위해서"
+    } ]
+  }, {
+    "tStartMs": 59360,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "저희가 또 오랜만에 모였고요"
+    } ]
+  }, {
+    "tStartMs": 61880,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "저번 퀴즈 정답 먼저 알려드리고"
+    } ]
+  }, {
+    "tStartMs": 64580,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "오늘 주제로 바로 넘어가 보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 67840,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "저번 퀴즈 기억나시나요?"
+    } ]
+  }, {
+    "tStartMs": 69290,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "수영에 대해서 얘기를 했었는데"
+    } ]
+  }, {
+    "tStartMs": 71900,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "태웅쌤이 할 수 없는 수영법은? 이게 퀴즈였습니다"
+    } ]
+  }, {
+    "tStartMs": 75710,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "그래서 정답은 2번 평영이고요"
+    } ]
+  }, {
+    "tStartMs": 78280,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "아직도 평영 못 배우셨죠?"
+    } ]
+  }, {
+    "tStartMs": 80710,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "그 이후로 수영 안 하셨죠?"
+    } ]
+  }, {
+    "tStartMs": 82400,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "그럼요"
+    } ]
+  }, {
+    "tStartMs": 83550,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "음, 그래서 맞습니다"
+    } ]
+  }, {
+    "tStartMs": 85290,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "태웅쌤은 평영을 할 수 없었습니다"
+    } ]
+  }, {
+    "tStartMs": 88330,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "정답 맞히주신 분들 감사드리고요"
+    } ]
+  }, {
+    "tStartMs": 91540,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "이번 주도 퀴즈 끝까지 들어주시면 있으니까"
+    } ]
+  }, {
+    "tStartMs": 95140,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "잘 들어주시고 맞춰주시면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 98640,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "오늘의 주제 기억나시나요?"
+    } ]
+  }, {
+    "tStartMs": 100250,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "태웅쌤 오늘의 주제 뭐였죠?"
+    } ]
+  }, {
+    "tStartMs": 102050,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "오늘의 주제는... 사실 까먹었다가"
+    } ]
+  }, {
+    "tStartMs": 104840,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "지난 에피소드 오늘 다시 보고 알았는데요"
+    } ]
+  }, {
+    "tStartMs": 107780,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "말씀하시지ㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 108990,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "오늘의 주제는 잠입니다"
+    } ]
+  }, {
+    "tStartMs": 111500,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "맞아요! 잠, 수면!"
+    } ]
+  }, {
+    "tStartMs": 113770,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "저희들은 어떻게 잠에 들고 있고"
+    } ]
+  }, {
+    "tStartMs": 116430,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "또 어떻게 자고 있고 어떻게 일어나고 있는지"
+    } ]
+  }, {
+    "tStartMs": 119250,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "그런 전반적인 이야기 해보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 123500,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "먼저 그러면 오늘 몇 시간 정도 주무셨나요?"
+    } ]
+  }, {
+    "tStartMs": 128730,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "오늘은 조금 일찍 깨서"
+    } ]
+  }, {
+    "tStartMs": 132380,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "한 여섯 시간 정도 잔 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 135520,
+    "dDurationMs": 670,
+    "segs": [ {
+      "utf8": "어, 그래요?"
+    } ]
+  }, {
+    "tStartMs": 136190,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "몇 시에 주무셨어요 그럼? 일찍?"
+    } ]
+  }, {
+    "tStartMs": 138560,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "어, 아니요 어제 좀 늦게 잤어요"
+    } ]
+  }, {
+    "tStartMs": 140100,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "12시에 잤어요\n- 늦게 잤어요?"
+    } ]
+  }, {
+    "tStartMs": 142160,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "아, 늦게 잔 거군요 12시!"
+    } ]
+  }, {
+    "tStartMs": 145120,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "평소보다"
+    } ]
+  }, {
+    "tStartMs": 146430,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "와우"
+    } ]
+  }, {
+    "tStartMs": 147420,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "그래서 6시에 일어나셨나요?"
+    } ]
+  }, {
+    "tStartMs": 149360,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 150350,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "왜 그렇게 일찍 일어나셨어요?"
+    } ]
+  }, {
+    "tStartMs": 151950,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "원래 일어나는 시간이 정해져 있는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 154050,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "아, 그게 제가 원래는"
+    } ]
+  }, {
+    "tStartMs": 157210,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "10시 반쯤 자서 6시에 일어나요"
+    } ]
+  }, {
+    "tStartMs": 162260,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "그런데 제가 한 일주일 정도 몸살을 겪어서"
+    } ]
+  }, {
+    "tStartMs": 166820,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "뭐 몸살을 앓아서"
+    } ]
+  }, {
+    "tStartMs": 168910,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "열이 좀 많이 나고 좀 몸이 안 좋았거든요"
+    } ]
+  }, {
+    "tStartMs": 171400,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "근데 그렇게 몸이 너무 약해져서 낮잠을 한 일주일 정도 꾸준히 잤어요"
+    } ]
+  }, {
+    "tStartMs": 177400,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "아, 예, 예"
+    } ]
+  }, {
+    "tStartMs": 178270,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "그러다 보니까 낮에 잠을 자면"
+    } ]
+  }, {
+    "tStartMs": 181880,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "또 밤에 잠자는 게 어렵잖아요"
+    } ]
+  }, {
+    "tStartMs": 183920,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 184670,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "그래서 잠드는 시간도 막 11시 반, 12시 이렇게 늦어진 거죠"
+    } ]
+  }, {
+    "tStartMs": 188840,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "음, 어제도 그럼 낮잠을 좀 주무셨나요?"
+    } ]
+  }, {
+    "tStartMs": 192030,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "네, 너무 졸려서 한 한 시간 정도 잤더니"
+    } ]
+  }, {
+    "tStartMs": 196190,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "일찍 자려고 누웠는데도 계속 잠을 설치다가"
+    } ]
+  }, {
+    "tStartMs": 200860,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "12시쯤 잠든 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 202840,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "아, 그랬군요"
+    } ]
+  }, {
+    "tStartMs": 204060,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "일찍 잠에 들려고 해봤는데 못했구나"
+    } ]
+  }, {
+    "tStartMs": 207370,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 208540,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "와, 완전 아침형 인간이시네요"
+    } ]
+  }, {
+    "tStartMs": 212270,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 213270,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "그 이렇게 일어나는 거 잘 하시는 편이에요?"
+    } ]
+  }, {
+    "tStartMs": 217060,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "저는..."
+    } ]
+  }, {
+    "tStartMs": 218240,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "아침잠이 많은 편인가요?"
+    } ]
+  }, {
+    "tStartMs": 220640,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "어..."
+    } ]
+  }, {
+    "tStartMs": 222550,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "많이 없는 것 같아요, 비교적"
+    } ]
+  }, {
+    "tStartMs": 226910,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "그게, 잘 일어나는 게 뭔지 사실 잘 모르겠는데"
+    } ]
+  }, {
+    "tStartMs": 230660,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "잘 못 일어나는 게 뭔지 잘 모르겠어요?"
+    } ]
+  }, {
+    "tStartMs": 233530,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "아니, 그러니까"
+    } ]
+  }, {
+    "tStartMs": 236060,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "그러니까 제 말은 저도 일어나긴 하는데"
+    } ]
+  }, {
+    "tStartMs": 240220,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "그게 힘들 때가 많거든요"
+    } ]
+  }, {
+    "tStartMs": 243170,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "근데 그래도 일어나야 하니까 일어나는 거죠"
+    } ]
+  }, {
+    "tStartMs": 247750,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "우리는 집에서 혼자 일하는 사람이잖아요"
+    } ]
+  }, {
+    "tStartMs": 251650,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "일어나지 않아도 되잖아요, 사실은"
+    } ]
+  }, {
+    "tStartMs": 254350,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "그러니까 꼭 일어나야 되는 장치가 없단 말이에요"
+    } ]
+  }, {
+    "tStartMs": 257320,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "뭐 학교를 간다거나 회사를 가야 된다거나"
+    } ]
+  }, {
+    "tStartMs": 260640,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "그러다 보니까 너무 나태해지기가 쉬운"
+    } ]
+  }, {
+    "tStartMs": 264450,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "그런 생활을 하고 있다고 생각하는데,"
+    } ]
+  }, {
+    "tStartMs": 268030,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "'아 그래도 일어나야지' 딱 하는 게 너무 신기해서요"
+    } ]
+  }, {
+    "tStartMs": 273400,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "일찍 일어나서 뭐 달리기도 하고"
+    } ]
+  }, {
+    "tStartMs": 277860,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "아침도 먹고 하면 좋으니까"
+    } ]
+  }, {
+    "tStartMs": 282540,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "그러니까 일어날 수 있는 거구나"
+    } ]
+  }, {
+    "tStartMs": 284900,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 286130,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "아, 일어나는 거 어려워하지 않는 편인 것 같네요"
+    } ]
+  }, {
+    "tStartMs": 289580,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "아, 그런 것 같네요"
+    } ]
+  }, {
+    "tStartMs": 290940,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "전 도저히 잠에서 깨어 나올 수가 없는 느낌이에요"
+    } ]
+  }, {
+    "tStartMs": 294890,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 296580,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "근데 늦게 주무시잖아요"
+    } ]
+  }, {
+    "tStartMs": 298840,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 299460,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "그래서 그런 게 아닐까요?"
+    } ]
+  }, {
+    "tStartMs": 301820,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "늦게 자서? 근데 저 많이 자요"
+    } ]
+  }, {
+    "tStartMs": 304400,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "8시간은 자요"
+    } ]
+  }, {
+    "tStartMs": 305980,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "그렇죠 저도 8시간은 자요"
+    } ]
+  }, {
+    "tStartMs": 309060,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "8시간 자면 좀 그래도 개운하게 일어나지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 312760,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 314560,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "근데 이제 일찍 자면은 많이 자도 일찍 일어날 수 있는 거죠"
+    } ]
+  }, {
+    "tStartMs": 320360,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "아, 음"
+    } ]
+  }, {
+    "tStartMs": 322390,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "일찍... 맞아 전 무려 어제 4시에 잤거든요"
+    } ]
+  }, {
+    "tStartMs": 326790,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "4시요?"
+    } ]
+  }, {
+    "tStartMs": 327950,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "네, 요즘 좀 늦어졌어요, 다시"
+    } ]
+  }, {
+    "tStartMs": 330270,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "아니 뭘 하면은 4시에 자요?"
+    } ]
+  }, {
+    "tStartMs": 333880,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "그냥 뭐 컴퓨터 계속 하고 있는 거죠"
+    } ]
+  }, {
+    "tStartMs": 336420,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "컴퓨터로 뭐?"
+    } ]
+  }, {
+    "tStartMs": 338620,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "일도 하고 ,편집도 하고..."
+    } ]
+  }, {
+    "tStartMs": 340770,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "뭐 계획할 거 같은 거 있으면 좀 하고..."
+    } ]
+  }, {
+    "tStartMs": 344290,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "갑자기 또 궁금한 거 있으면 찾아보고"
+    } ]
+  }, {
+    "tStartMs": 347650,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "아... 아니 안 피곤해요?"
+    } ]
+  }, {
+    "tStartMs": 351300,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "아, 밤에? 안 피곤해요"
+    } ]
+  }, {
+    "tStartMs": 353490,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "진짜요?"
+    } ]
+  }, {
+    "tStartMs": 354450,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "그러니까 보통 어떻게 주무세요?"
+    } ]
+  }, {
+    "tStartMs": 356110,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "\"아, 너무 졸리다\" \"아, 쓰러지겠다\" 이런 식으로 잠에 드세요?"
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "아니면 \"어, 이제 시간이 이렇게 됐으니까 잠에 들어봐야지"
+    } ]
+  }, {
+    "tStartMs": 363670,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "잠을 청해봐야지.\" 이렇게 주무세요?"
+    } ]
+  }, {
+    "tStartMs": 366110,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "저는 그렇게 \"어, 잘 시간 됐네"
+    } ]
+  }, {
+    "tStartMs": 368450,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "자야지.\" 하고 자요"
+    } ]
+  }, {
+    "tStartMs": 369810,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "저도, 저도, 저도 그래요"
+    } ]
+  }, {
+    "tStartMs": 371540,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "그리고 밤에라도 아무리 새벽이라도 그래요"
+    } ]
+  }, {
+    "tStartMs": 378340,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "제가 더 놀라워요"
+    } ]
+  }, {
+    "tStartMs": 379780,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "아침에 일어나는 것이"
+    } ]
+  }, {
+    "tStartMs": 382180,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "10시에 자고"
+    } ]
+  }, {
+    "tStartMs": 383230,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "우와"
+    } ]
+  }, {
+    "tStartMs": 384630,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "초등학교 이후로 그렇게 자본 적이 없는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 388460,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "음"
+    } ]
+  }, {
+    "tStartMs": 390760,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "저희가 다른 시차에 살고 있네요"
+    } ]
+  }, {
+    "tStartMs": 394210,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "그러니까요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 396240,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "네 우와"
+    } ]
+  }, {
+    "tStartMs": 397900,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "태웅쌤은 오늘만 해도 지금 5시니까"
+    } ]
+  }, {
+    "tStartMs": 400870,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "이미 한 게 엄청 많으시겠어요, 하루 종일"
+    } ]
+  }, {
+    "tStartMs": 404810,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "그렇네요 유튜브 라이브도 하고"
+    } ]
+  }, {
+    "tStartMs": 407280,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "그러니까 곧 끝날 시간이 다가오고 있고, 하루가"
+    } ]
+  }, {
+    "tStartMs": 410840,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 412040,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "전 시작한 지 얼마 안 된 느낌?"
+    } ]
+  }, {
+    "tStartMs": 415570,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "그러면 아까 이렇게 잠을 청해야 된다고 했잖아요 누워서"
+    } ]
+  }, {
+    "tStartMs": 421060,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "그때는 잠들기까지 어느 정도 걸리는 편이에요?"
+    } ]
+  }, {
+    "tStartMs": 426790,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "빨라요 한 5분?"
+    } ]
+  }, {
+    "tStartMs": 428440,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "우와! 기계네요, 거의"
+    } ]
+  }, {
+    "tStartMs": 431840,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "보통은 그래요 네, 컨디션이 좋을 때"
+    } ]
+  }, {
+    "tStartMs": 434690,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "아 근데 뭐 저도 잠드는 거는 좀 자신 있어요"
+    } ]
+  }, {
+    "tStartMs": 441090,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "4시에 자면 누구라도 그러지 않을까요?"
+    } ]
+  }, {
+    "tStartMs": 445980,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "저는 10시에 자도 뭐 잘 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 449780,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "음~"
+    } ]
+  }, {
+    "tStartMs": 451250,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "수면 패턴을 바꾸는 게"
+    } ]
+  }, {
+    "tStartMs": 453270,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "그렇게 어렵지는 않은데"
+    } ]
+  }, {
+    "tStartMs": 456450,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "그냥 뭐 오늘 좀 집중이 잘 된다 하면은 늦어지기도 하고"
+    } ]
+  }, {
+    "tStartMs": 463410,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "그래서 그래요"
+    } ]
+  }, {
+    "tStartMs": 465250,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "그렇구나 아, 그러면 진짜 서로가 서로를 이해하기 어렵겠네요"
+    } ]
+  }, {
+    "tStartMs": 472220,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 473510,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "근데 일단 잠 자는 것만 생각해 보면"
+    } ]
+  }, {
+    "tStartMs": 476400,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "태웅쌤이 저번에도 그 수면 점수가 되게 높다고 말씀하셨잖아요"
+    } ]
+  }, {
+    "tStartMs": 481210,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 482480,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "그래서 증거 자료를 좀 제출해 주셨는데요"
+    } ]
+  }, {
+    "tStartMs": 485990,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 486860,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "이런 건 어떻게 기록하는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 488730,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "아, 그게 애플워치 차고 자면"
+    } ]
+  }, {
+    "tStartMs": 493410,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "뭐 잠든 시간, 일어난 시간 그리고 자면서 깬 시간"
+    } ]
+  }, {
+    "tStartMs": 499300,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "뭐 그런 것들을 잘 계산을 해줘요"
+    } ]
+  }, {
+    "tStartMs": 504480,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "그래서 전체적으로 잠을 잘 잤다, 못 잤다"
+    } ]
+  }, {
+    "tStartMs": 507650,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "이렇게 점수를 매겨줘요"
+    } ]
+  }, {
+    "tStartMs": 510430,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "와, 네"
+    } ]
+  }, {
+    "tStartMs": 512180,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "근데 보시다시피 이틀 전 밤에 제 점수가 100점이었습니다"
+    } ]
+  }, {
+    "tStartMs": 520770,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "정말 잘 잔 사람이 됐네요"
+    } ]
+  }, {
+    "tStartMs": 523130,
+    "dDurationMs": 7010,
+    "segs": [ {
+      "utf8": "그렇죠 그리고 제가 사진을 보내준 그 하루하루 점수들이"
+    } ]
+  }, {
+    "tStartMs": 530140,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "최근 2주간의 수면들 중에"
+    } ]
+  }, {
+    "tStartMs": 534220,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "90점을 넘은 날들의 점수들이거든요"
+    } ]
+  }, {
+    "tStartMs": 537530,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "오, 네"
+    } ]
+  }, {
+    "tStartMs": 538970,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "그러니까 2주 14일 중에 90점을 넘은 날들이"
+    } ]
+  }, {
+    "tStartMs": 545060,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "여덟 번일 거예요 8일"
+    } ]
+  }, {
+    "tStartMs": 547300,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "그러니까 이틀에 한 번꼴로"
+    } ]
+  }, {
+    "tStartMs": 549470,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "제 수면 점수가 90점 이상이라는 말인데"
+    } ]
+  }, {
+    "tStartMs": 553770,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "근데 아까도 제가 얘기했잖아요"
+    } ]
+  }, {
+    "tStartMs": 556650,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "몸살 때문에 낮잠을 요 며칠 계속 잤다고"
+    } ]
+  }, {
+    "tStartMs": 560830,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "사실은 거의 매일 90점 이상이에요, 저는"
+    } ]
+  }, {
+    "tStartMs": 564120,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "우와"
+    } ]
+  }, {
+    "tStartMs": 566620,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "되게 뿌듯하겠다"
+    } ]
+  }, {
+    "tStartMs": 568190,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "자고 일어났을 때"
+    } ]
+  }, {
+    "tStartMs": 569740,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "그럼요"
+    } ]
+  }, {
+    "tStartMs": 570800,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "우와"
+    } ]
+  }, {
+    "tStartMs": 571960,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "아니 이게 보니까 몇 시간 잤는지 나오고"
+    } ]
+  }, {
+    "tStartMs": 576510,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "그리고 언제 잠들었는지도 나오고"
+    } ]
+  }, {
+    "tStartMs": 580490,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "그리고 중간중간에 몇 번 깼는지도 나오네요"
+    } ]
+  }, {
+    "tStartMs": 585710,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "깬다는 건 이렇게 살짝 깨서 뒤척거리는 걸 인식하는 걸까요?"
+    } ]
+  }, {
+    "tStartMs": 590880,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "그런 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 593100,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "우와 신기하다"
+    } ]
+  }, {
+    "tStartMs": 594370,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "일어나고 보면 제 기억에는 깬 기억이 없는데"
+    } ]
+  }, {
+    "tStartMs": 599180,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "이제 진짜 잠결에 이렇게 뒤척이는 걸 세는 것 같더라고요"
+    } ]
+  }, {
+    "tStartMs": 604130,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "아, 재밌는 세상이다 이런 게 있군요"
+    } ]
+  }, {
+    "tStartMs": 605900,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "아, 전 뭐 보여드릴 게 없네요"
+    } ]
+  }, {
+    "tStartMs": 607750,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "재밌습니다"
+    } ]
+  }, {
+    "tStartMs": 608450,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "오늘 한번 끼고 자봐야겠다 그리고 여기 보여드리도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 613010,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "몇 점 정도인지"
+    } ]
+  }, {
+    "tStartMs": 614750,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "저 좀 잘 잔다고 생각하고 있는데"
+    } ]
+  }, {
+    "tStartMs": 617090,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "아, 안 재셨구나"
+    } ]
+  }, {
+    "tStartMs": 619580,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 621530,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "이거 끼고 자면 좀 불편해가지고"
+    } ]
+  }, {
+    "tStartMs": 624940,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "아, 그렇긴 해요"
+    } ]
+  }, {
+    "tStartMs": 627380,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "아, 근데 또 한두 번 차고 자 버릇하면"
+    } ]
+  }, {
+    "tStartMs": 631650,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "또 금방 적응이 됩니다"
+    } ]
+  }, {
+    "tStartMs": 632830,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "아, 그렇군요 항상 끼고 자시는구나"
+    } ]
+  }, {
+    "tStartMs": 636700,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 637720,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "그리고 전 또 놀라웠던 게 저번에 잠깐 얘기했는데"
+    } ]
+  }, {
+    "tStartMs": 641450,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "태웅쌤은 핸드폰을 아예 근처에 안 두고"
+    } ]
+  }, {
+    "tStartMs": 645240,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "자는 곳에 안 가지고 온다고 하셨잖아요"
+    } ]
+  }, {
+    "tStartMs": 648370,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 649260,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "그러면 태웅쌤의 약간 자기 전 루틴 같은 게 있으면은"
+    } ]
+  }, {
+    "tStartMs": 653470,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "얘기해 줄 수 있어요?"
+    } ]
+  }, {
+    "tStartMs": 655130,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "자기 전 루틴, 아 지금은 사실 그렇게 막 철저하지 않거든요"
+    } ]
+  }, {
+    "tStartMs": 660670,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "그렇게 막 고정돼 있진 않은데 요즘은"
+    } ]
+  }, {
+    "tStartMs": 664190,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "일단은 자기 전에 한 1시간 정도는"
+    } ]
+  }, {
+    "tStartMs": 668860,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "제 방에 불빛들 있잖아요, 조명"
+    } ]
+  }, {
+    "tStartMs": 672380,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "그거를 빨간색으로 바뀌게 합니다"
+    } ]
+  }, {
+    "tStartMs": 675280,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "빨간 조명"
+    } ]
+  }, {
+    "tStartMs": 676430,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "네, 그 빨간 조명이"
+    } ]
+  }, {
+    "tStartMs": 678080,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "우리 눈에 부담이 덜하다고 하더라고요"
+    } ]
+  }, {
+    "tStartMs": 682830,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "그래서 자기 전에 방이 밝으면"
+    } ]
+  }, {
+    "tStartMs": 686460,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "그 숙면, 그 잠을 잘 자는 것, 숙면에 좋지 않은데"
+    } ]
+  }, {
+    "tStartMs": 691420,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "빨간 불빛은 부담이 없다고 하더라고요"
+    } ]
+  }, {
+    "tStartMs": 694110,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "그래서 그렇게 해두고..."
+    } ]
+  }, {
+    "tStartMs": 695770,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "눈에는 괜찮을까요?"
+    } ]
+  }, {
+    "tStartMs": 697790,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "어, 괜찮대요"
+    } ]
+  }, {
+    "tStartMs": 699030,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "그게 더 좋대요 오호"
+    } ]
+  }, {
+    "tStartMs": 701320,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "꿀팁이네요"
+    } ]
+  }, {
+    "tStartMs": 702610,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "네, 제 프리토킹 학생 했던 그 학생 중에"
+    } ]
+  }, {
+    "tStartMs": 707940,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "한 명이 미군 복무를 했었는데"
+    } ]
+  }, {
+    "tStartMs": 711810,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "미국 군대, 미군이었는데 배에서 생활을 했대요"
+    } ]
+  }, {
+    "tStartMs": 717790,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "이제 해군 마린 같은 거죠, 해군"
+    } ]
+  }, {
+    "tStartMs": 720460,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "근데 이제 배에서 밤에 항상 저 빨간 불을 켜놓는다고 하더라고요"
+    } ]
+  }, {
+    "tStartMs": 724240,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "영화에서 왠지 본 것 같은 느낌이에요"
+    } ]
+  }, {
+    "tStartMs": 726930,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "천장에 이렇게 빨간색 불 있는"
+    } ]
+  }, {
+    "tStartMs": 729170,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 730560,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "그것도 수면의 질을 높이기 위함이래요?"
+    } ]
+  }, {
+    "tStartMs": 733700,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "아, 그거는 아니고"
+    } ]
+  }, {
+    "tStartMs": 736510,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "위급 상황, 비상 상황 예 언제 어떤 일이 생길지 모르잖아요"
+    } ]
+  }, {
+    "tStartMs": 741320,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "그래서 밤에도 잘 보이게 불을 켜놔야 되는데"
+    } ]
+  }, {
+    "tStartMs": 745220,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "대신 최대한 눈에 부담이 없는 빨간색을 켜놓는 거죠"
+    } ]
+  }, {
+    "tStartMs": 749420,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "아, 그렇구나 그거구나"
+    } ]
+  }, {
+    "tStartMs": 753590,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "진짜 눈에 부담이 안 가는 게 신뢰가 가네요"
+    } ]
+  }, {
+    "tStartMs": 756560,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 758090,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "아무튼 그렇게 하고 침대에 이부자리를 깔고"
+    } ]
+  }, {
+    "tStartMs": 763570,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "그다음에 핸드폰은 책상 위에 두고 충전기에 꽂아두고"
+    } ]
+  }, {
+    "tStartMs": 770180,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그리고 자러 갑니다"
+    } ]
+  }, {
+    "tStartMs": 772680,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "그리고 저는 캡슐형 모기장에서 자거든요"
+    } ]
+  }, {
+    "tStartMs": 777050,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "요즘 여름이라서요?"
+    } ]
+  }, {
+    "tStartMs": 778590,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "저는 사실 1년 내내 그렇게 자요"
+    } ]
+  }, {
+    "tStartMs": 781940,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "왜요? 안정감이 드나요?"
+    } ]
+  }, {
+    "tStartMs": 784440,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "사실 그게 저희 집이 1층이라서..."
+    } ]
+  }, {
+    "tStartMs": 786490,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "아!"
+    } ]
+  }, {
+    "tStartMs": 787870,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "전에도 얘기했듯이 좀 벌레가 가끔씩 들어올 때가 있어요"
+    } ]
+  }, {
+    "tStartMs": 792700,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "진짜 자주 들어오는 건 아니라"
+    } ]
+  }, {
+    "tStartMs": 795060,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "한 6개월에 한두 번 정도 들어오는데"
+    } ]
+  }, {
+    "tStartMs": 799550,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "아무리 가끔이라도 그게 한 번 자고 있는데 벌레가"
+    } ]
+  }, {
+    "tStartMs": 805120,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "제 머리 쪽에 오면"
+    } ]
+  }, {
+    "tStartMs": 807700,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "너무 기분 나쁘잖아요"
+    } ]
+  }, {
+    "tStartMs": 809930,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "그렇죠 엄청난 벌레일 것 같아요, 그리고 왠지"
+    } ]
+  }, {
+    "tStartMs": 812740,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 813990,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "네..."
+    } ]
+  }, {
+    "tStartMs": 816070,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "맞습니다 굳이 얘기를 하진 않겠습니다"
+    } ]
+  }, {
+    "tStartMs": 820080,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "근데 아무튼 그래서 이제 그 쉴드, 방어막을..."
+    } ]
+  }, {
+    "tStartMs": 826580,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "방어막을 치고 자는구나"
+    } ]
+  }, {
+    "tStartMs": 828200,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "네, 방어막을 치고 그러면은 진짜 세상 마음 편하게"
+    } ]
+  }, {
+    "tStartMs": 833220,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "푹 잘 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 834490,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "그렇게 한 5분 지나면 잠에 드는구나"
+    } ]
+  }, {
+    "tStartMs": 837480,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 838560,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "그리고 알람은 몇 개 정도 맞추세요? 아침에?"
+    } ]
+  }, {
+    "tStartMs": 841980,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "알람... 예전에는 알람 3개를 맞췄거든요"
+    } ]
+  }, {
+    "tStartMs": 847390,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "알람 3개"
+    } ]
+  }, {
+    "tStartMs": 848070,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "근데 지금은 하나도 안 해요"
+    } ]
+  }, {
+    "tStartMs": 850230,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "허!! 내장됐나 봐요"
+    } ]
+  }, {
+    "tStartMs": 853570,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 854660,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "와! 언제부터?"
+    } ]
+  }, {
+    "tStartMs": 857220,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "3개는 어떤 식으로 맞췄어요?"
+    } ]
+  }, {
+    "tStartMs": 859330,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "3개는 하나는 5시 59분에"
+    } ]
+  }, {
+    "tStartMs": 865010,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "새소리가 막,"
+    } ]
+  }, {
+    "tStartMs": 868140,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "짹짹...🐦‍⬛"
+    } ]
+  }, {
+    "tStartMs": 869420,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "삐약삐약🐥 이렇게 울려요"
+    } ]
+  }, {
+    "tStartMs": 871870,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "그렇게 59분에..."
+    } ]
+  }, {
+    "tStartMs": 873410,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "부담 없는..."
+    } ]
+  }, {
+    "tStartMs": 874880,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "네, 새소리가 울리는 알람이 끝나면"
+    } ]
+  }, {
+    "tStartMs": 880450,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "그러면은 6시에 Wim Hof's Guided Breathing인가?"
+    } ]
+  }, {
+    "tStartMs": 886340,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "그런 게 있어요"
+    } ]
+  }, {
+    "tStartMs": 887440,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "그러니까 Wim Hof라는 사람이 만든"
+    } ]
+  }, {
+    "tStartMs": 890180,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "그 무슨 특별한 호흡법, 윔 호프 호흡법"
+    } ]
+  }, {
+    "tStartMs": 894910,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "이제 그거를 그 이 타이밍에 맞춰서 하세요"
+    } ]
+  }, {
+    "tStartMs": 898410,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "뭐 들이마시세요 내쉬세요"
+    } ]
+  }, {
+    "tStartMs": 901020,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "이렇게 하는 걸 한 10분 정도 하는 그 유튜브 영상이 있어요"
+    } ]
+  }, {
+    "tStartMs": 906590,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "말을 하는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 908060,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "네네 윔 호프가"
+    } ]
+  }, {
+    "tStartMs": 909850,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Breathe in, breathe out 막 이렇게 하는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 912920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 914920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "아, 난생처음 봐요 이런 사람"
+    } ]
+  }, {
+    "tStartMs": 916960,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 918370,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "아니 근데, 근데 이제 그거를 그 유튜브 영상 10분짜리를"
+    } ]
+  }, {
+    "tStartMs": 924430,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "오디오 파일로 이제 추출해서 빼서"
+    } ]
+  }, {
+    "tStartMs": 928580,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "그걸로 아이튠즈 애플뮤직에 넣어서"
+    } ]
+  }, {
+    "tStartMs": 932260,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "그걸로 알람 소리를 한 거죠"
+    } ]
+  }, {
+    "tStartMs": 935620,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "왜요?"
+    } ]
+  }, {
+    "tStartMs": 937040,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "아니 이제 그러면 일어났을 때 깨서..."
+    } ]
+  }, {
+    "tStartMs": 940000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "호흡할 수 있으니까?"
+    } ]
+  }, {
+    "tStartMs": 941600,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "예, 알람으로 그 breathing exercise를 하는 거죠"
+    } ]
+  }, {
+    "tStartMs": 944990,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "아 근데 그 호흡이 원래 아침에 하면 좋은 호흡 같은 건가요?"
+    } ]
+  }, {
+    "tStartMs": 949120,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "언제 해도 좋아요"
+    } ]
+  }, {
+    "tStartMs": 951670,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "아, 아니 그런 건 어떻게 생각하게 되시는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 955840,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "아, 그냥 좀 그 갓생이라고 하죠 갓생"
+    } ]
+  }, {
+    "tStartMs": 960020,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "좀 그거에 좀 과몰입을 제가 옛날에 한 적이 있어서"
+    } ]
+  }, {
+    "tStartMs": 963870,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "네 와, 세 번째 너무 궁금한데"
+    } ]
+  }, {
+    "tStartMs": 966110,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "아, 이제 그리고"
+    } ]
+  }, {
+    "tStartMs": 968410,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "그 문제는 그 핸드폰의 알람이"
+    } ]
+  }, {
+    "tStartMs": 971390,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "스누즈 그런 기능이 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 973950,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "있어요"
+    } ]
+  }, {
+    "tStartMs": 975040,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "그, 한 '10분 뒤에 다시 알려줘' 이렇게"
+    } ]
+  }, {
+    "tStartMs": 977660,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "근데 그거를 안 누르면 같은 알람음이 반복이 돼요"
+    } ]
+  }, {
+    "tStartMs": 982280,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "응"
+    } ]
+  }, {
+    "tStartMs": 983080,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "그러면 저는 윔호프 호흡법 10분이 끝나고"
+    } ]
+  }, {
+    "tStartMs": 987870,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "핸드폰을 딱히 만지지 않는다면"
+    } ]
+  }, {
+    "tStartMs": 989970,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "호흡 그 알람이 다시 울리잖아요"
+    } ]
+  }, {
+    "tStartMs": 994660,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 995620,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "근데 만약에 제가 그동안에 핸드폰을 안 건드리고"
+    } ]
+  }, {
+    "tStartMs": 998840,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "뭐 침대 정리를 하고 싶다"
+    } ]
+  }, {
+    "tStartMs": 1000670,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "그러면은 좀 불편하잖아요"
+    } ]
+  }, {
+    "tStartMs": 1004420,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "그래서 윔 호프 호흡 10분이 끝날 때쯤"
+    } ]
+  }, {
+    "tStartMs": 1008320,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "이제 뭐 제가 좋아하는 재즈곡 같은 거"
+    } ]
+  }, {
+    "tStartMs": 1012010,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "그, 그렇게 또 알람이 울리게 해요"
+    } ]
+  }, {
+    "tStartMs": 1015450,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "그러면 이제 호흡법 10분 끝나고 재즈 음악이 나오면서"
+    } ]
+  }, {
+    "tStartMs": 1019420,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "저는 그동안 침대 정리하고..."
+    } ]
+  }, {
+    "tStartMs": 1021410,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "와 미쳤다..."
+    } ]
+  }, {
+    "tStartMs": 1024330,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "물 좀 마시고..."
+    } ]
+  }, {
+    "tStartMs": 1025030,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "미쳤다 신 같아요 진짜"
+    } ]
+  }, {
+    "tStartMs": 1028960,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "알람을 지금 배경음악으로 쓰고 계시는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 1032770,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "그렇죠, 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1033660,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "와 처음 봐요 진짜"
+    } ]
+  }, {
+    "tStartMs": 1037540,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "알람은 그냥 1초 만에 끄는 거가 알람 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 1041400,
+    "dDurationMs": 6950,
+    "segs": [ {
+      "utf8": "아 네, 이제 그거를 좀 잘 활용을 해봤습니다\n- 존경스러워요"
+    } ]
+  }, {
+    "tStartMs": 1048350,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "그렇게 하다 보니 그냥 체득이 됐구나 몸에"
+    } ]
+  }, {
+    "tStartMs": 1051840,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 1052990,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "와... 그 정도 하면 몸에 익겠다"
+    } ]
+  }, {
+    "tStartMs": 1055940,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "그냥 즐기는 수준까지 오면"
+    } ]
+  }, {
+    "tStartMs": 1059250,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1060400,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1062210,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "도움이 되나요? 그런 그렇게 했을 때 좋았어요?"
+    } ]
+  }, {
+    "tStartMs": 1066430,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "어우 도움 많이 되죠"
+    } ]
+  }, {
+    "tStartMs": 1068280,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "아 그 재즈... 저였으면 그 재즈 음악 들으면서"
+    } ]
+  }, {
+    "tStartMs": 1071740,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "계속 자고 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1073890,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "아 호흡법은?\n- 새소리 듣고..."
+    } ]
+  }, {
+    "tStartMs": 1076190,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "호흡은 지나갔어요 지나갔어 안 들려요"
+    } ]
+  }, {
+    "tStartMs": 1079240,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "무슨 호흡... 와, 신기하네요"
+    } ]
+  }, {
+    "tStartMs": 1083620,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "네, 그럼 디디 님은 딱히 그러면 수면 전 루틴 뭐 이런 게 있나요?"
+    } ]
+  }, {
+    "tStartMs": 1090240,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "저는 제 방에 있을 때는 보통 일을 자기 직전까지 해요"
+    } ]
+  }, {
+    "tStartMs": 1096550,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "그래서 직전까지 하다가 \"아, 이젠 자야겠다.\""
+    } ]
+  }, {
+    "tStartMs": 1100540,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "보통 3시는 절대 안 넘기려고 하거든요, 일을"
+    } ]
+  }, {
+    "tStartMs": 1105150,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "아, 여기까지 하고 이제 내일 하자 하고 한 3시쯤..."
+    } ]
+  }, {
+    "tStartMs": 1110070,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "어제도 3시 그래서 잘 준비하다가 4시에 잔 건데"
+    } ]
+  }, {
+    "tStartMs": 1113860,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "그냥 뭐 집안일 같은 거 그때 좀 해요"
+    } ]
+  }, {
+    "tStartMs": 1116600,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "뭔가 설거지, 하루 동안 쌓인 설거지하고"
+    } ]
+  }, {
+    "tStartMs": 1121250,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "근데 그때도 저는 좀 어둡게 해놓고 설거지해요"
+    } ]
+  }, {
+    "tStartMs": 1126000,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "약간 방 불 이렇게 어둡게 해놓고"
+    } ]
+  }, {
+    "tStartMs": 1127810,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "그때부터 좀 디지털로 절여진 뇌를 깨끗하게 만드는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1134180,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "그래서 그냥 뭐 씻고 세수하고 양치하고"
+    } ]
+  }, {
+    "tStartMs": 1138720,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "침대에 올라가서 거의 자는 편이에요 그냥"
+    } ]
+  }, {
+    "tStartMs": 1144130,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "낮에는 뭘 해요?"
+    } ]
+  }, {
+    "tStartMs": 1145800,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "아, 4시에 자서 11시에 알람을 맞췄거든요"
+    } ]
+  }, {
+    "tStartMs": 1149810,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "그러면은 한 일곱시간 자는 거니까"
+    } ]
+  }, {
+    "tStartMs": 1153900,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "근데 너무 졸리더라고요 12시까지 잤어요"
+    } ]
+  }, {
+    "tStartMs": 1158730,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "그래서 저의 하루는 12시에 시작됐고"
+    } ]
+  }, {
+    "tStartMs": 1160630,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "뭐 아침에 일어나서 밥 먹고 일할 거 하고 그러는 거죠, 다시 똑같이"
+    } ]
+  }, {
+    "tStartMs": 1165240,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "산책 조금 하고 왔다가"
+    } ]
+  }, {
+    "tStartMs": 1167250,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "음~!"
+    } ]
+  }, {
+    "tStartMs": 1169820,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "제가 기막힌 생각이 하나 있는데요"
+    } ]
+  }, {
+    "tStartMs": 1172010,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1172880,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "만약에 지금 디디님이 그 스케줄대로 자고 일어나면"
+    } ]
+  }, {
+    "tStartMs": 1178490,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "딱 아침형 인간으로 살 수 있는 나라로 가면"
+    } ]
+  }, {
+    "tStartMs": 1183740,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "디디님은 그대로 아침형 인간 할 수 있는 거네요"
+    } ]
+  }, {
+    "tStartMs": 1186920,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "어, 진짜 그럴랑가?"
+    } ]
+  }, {
+    "tStartMs": 1188850,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "그러지 않을까요?"
+    } ]
+  }, {
+    "tStartMs": 1189860,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "어? 대박이다"
+    } ]
+  }, {
+    "tStartMs": 1191260,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "시차 적응을 미리 해서 가는 거죠"
+    } ]
+  }, {
+    "tStartMs": 1193860,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "그러니까 그냥 하던 대로 하면 되는 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 1195960,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1196280,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "시간 상관없이"
+    } ]
+  }, {
+    "tStartMs": 1197700,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "네!"
+    } ]
+  }, {
+    "tStartMs": 1199220,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "어디지?"
+    } ]
+  }, {
+    "tStartMs": 1201530,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "찾아봐야겠다"
+    } ]
+  }, {
+    "tStartMs": 1202910,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "네 네 네"
+    } ]
+  }, {
+    "tStartMs": 1203830,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "보통 갓생 살려면 6시쯤 일어나야 되잖아요"
+    } ]
+  }, {
+    "tStartMs": 1207230,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "저 오늘 12시에 일어났잖아요"
+    } ]
+  }, {
+    "tStartMs": 1209070,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "한국보다 6시간 느린 곳?"
+    } ]
+  }, {
+    "tStartMs": 1211990,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "느린 곳"
+    } ]
+  }, {
+    "tStartMs": 1213500,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "으로 가면 되겠는데요"
+    } ]
+  }, {
+    "tStartMs": 1214910,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1215840,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "태국 이런 곳?"
+    } ]
+  }, {
+    "tStartMs": 1217860,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "좋죠"
+    } ]
+  }, {
+    "tStartMs": 1218690,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "6시간 차이 나잖아요"
+    } ]
+  }, {
+    "tStartMs": 1220110,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "그러면 갓생러"
+    } ]
+  }, {
+    "tStartMs": 1221850,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "갓생 태국인 될 수 있다"
+    } ]
+  }, {
+    "tStartMs": 1225220,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 1226590,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "우와 좋은 아이디어"
+    } ]
+  }, {
+    "tStartMs": 1228540,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "아 이게(- 그러면) 네, 네"
+    } ]
+  }, {
+    "tStartMs": 1230560,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "아, 왜 생각이 났냐면"
+    } ]
+  }, {
+    "tStartMs": 1233520,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "예전에 제 친한 친구가 유럽 여행을 갔다 왔거든요"
+    } ]
+  }, {
+    "tStartMs": 1240180,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "유럽 여행을 한 한 달 가까이 다녀왔어요"
+    } ]
+  }, {
+    "tStartMs": 1243260,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "근데 유럽이랑 한국은 시차가 많이 나잖아요"
+    } ]
+  }, {
+    "tStartMs": 1246330,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1247220,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "그래서 저도 유럽 있다가 한국 왔을 때 시차 적응을 못해서"
+    } ]
+  }, {
+    "tStartMs": 1250020,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "한 이틀 고생했었는데"
+    } ]
+  }, {
+    "tStartMs": 1252090,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "근데 그래서 친구한테도 \"야, 니 한국 돌아와서"
+    } ]
+  }, {
+    "tStartMs": 1256720,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "시차 적응 어떻게 하겠노? 위험하겠다.\""
+    } ]
+  }, {
+    "tStartMs": 1259740,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "이렇게 막 했거든요 부산 친구인데"
+    } ]
+  }, {
+    "tStartMs": 1262880,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "근데 되게 당연하게"
+    } ]
+  }, {
+    "tStartMs": 1266300,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "\"어, 안 하는데?\" 이러는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1270020,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "그걸 그냥 안 해버리고 그냥 밤에 게임하고 그냥 잠을 안 자는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1275680,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "아~ 문제가 없었구나"
+    } ]
+  }, {
+    "tStartMs": 1279100,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "그냥 그래도 그 뭐 직장에 다니거나 하는 사람이 아니라서"
+    } ]
+  }, {
+    "tStartMs": 1282500,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "아, 그렇죠, 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1283530,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "그런 문제가 없었나 봐요"
+    } ]
+  }, {
+    "tStartMs": 1285660,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "네, 그냥-"
+    } ]
+  }, {
+    "tStartMs": 1286610,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "어? 그러면 바뀐 거 아니에요, 진짜?"
+    } ]
+  }, {
+    "tStartMs": 1288700,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "그 이후로 영원히 그렇게 살고 있어요?"
+    } ]
+  }, {
+    "tStartMs": 1291230,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "네ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1292650,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "어떡해"
+    } ]
+  }, {
+    "tStartMs": 1293940,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "유럽 여행이, 유럽 여행 후에 남은 것..."
+    } ]
+  }, {
+    "tStartMs": 1297890,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1298550,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그래서 그 친구가 계속 그렇게 밤낮이 바뀐 채로 살아서"
+    } ]
+  }, {
+    "tStartMs": 1303550,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "제가 방글라데시에 있었을 때"
+    } ]
+  }, {
+    "tStartMs": 1307970,
+    "dDurationMs": 7350,
+    "segs": [ {
+      "utf8": "그 1월 1일이 그, 뉴 이어스 그, 카운트다운 하고 할 때"
+    } ]
+  }, {
+    "tStartMs": 1315320,
+    "dDurationMs": 6150,
+    "segs": [ {
+      "utf8": "그때 제가 살던 집 주변이 되게 시끄러워서 잠을 잘 못 잤는데"
+    } ]
+  }, {
+    "tStartMs": 1321470,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "그래서 그때 어쩌다 보니까 그 친구랑 연락을 했는데"
+    } ]
+  }, {
+    "tStartMs": 1325520,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "걔는 한국 시간으로 엄청 늦은 시간인데"
+    } ]
+  }, {
+    "tStartMs": 1328340,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "당연히 안 자고 있었던 거예요"
+    } ]
+  }, {
+    "tStartMs": 1330530,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "그래서 둘이 그 폴가이즈 알아요?"
+    } ]
+  }, {
+    "tStartMs": 1332880,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "응, 게임"
+    } ]
+  }, {
+    "tStartMs": 1334050,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "그 운동회 같은 게임"
+    } ]
+  }, {
+    "tStartMs": 1335540,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1336140,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "둘이 그거 했습니다"
+    } ]
+  }, {
+    "tStartMs": 1339890,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "어, 시차가 전혀 상관없었구나"
+    } ]
+  }, {
+    "tStartMs": 1342870,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1343900,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "와, 다시 한번 여행 가야겠어요, 그 친구는"
+    } ]
+  }, {
+    "tStartMs": 1347070,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "아, 그러면ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1348720,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "어, 치료할 수 있는 한 한 달 정도 다녀오면"
+    } ]
+  }, {
+    "tStartMs": 1352850,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "또 갓생 살 수도"
+    } ]
+  }, {
+    "tStartMs": 1354420,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "아, 그렇네요"
+    } ]
+  }, {
+    "tStartMs": 1356380,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "오, 대단한 친구인데"
+    } ]
+  }, {
+    "tStartMs": 1358080,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "네 아무튼 그렇게 그 수면 스케줄 얘기하다 보니까 생각이 났네요"
+    } ]
+  }, {
+    "tStartMs": 1363420,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "아 저도 줄여야죠 너무 요즘 늦게 잤고"
+    } ]
+  }, {
+    "tStartMs": 1368450,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "아 원래는 그래도 2시는, 2시에는 잤어요"
+    } ]
+  }, {
+    "tStartMs": 1372860,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "근데 우리가 이제 한국 생활 요모조모지 않습니까?"
+    } ]
+  }, {
+    "tStartMs": 1378020,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1379040,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "많은 한국분들이 좀 늦게 자는 편인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1383750,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "맞아요 직장 다닐 때도 저 1시, 2시에 잤어요"
+    } ]
+  }, {
+    "tStartMs": 1387490,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "그래서 너무 피곤해하고"
+    } ]
+  }, {
+    "tStartMs": 1389630,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "그리고 또 야근도 많이들 하고"
+    } ]
+  }, {
+    "tStartMs": 1393780,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "하고 돌아오면 나한테 뭔가 보상심리 같은 걸로"
+    } ]
+  }, {
+    "tStartMs": 1397740,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "핸드폰도 하고 싶고 넷플릭스도 보고 싶고"
+    } ]
+  }, {
+    "tStartMs": 1401590,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "그런 것들이 뭐 다른 나라도 그렇지 않을까요?"
+    } ]
+  }, {
+    "tStartMs": 1405260,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "아, 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1406850,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "그래서 이 수면 시간이 늦어지고 적어지는 게"
+    } ]
+  }, {
+    "tStartMs": 1411010,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "또 우리나라만의 문제는 아닌 것 같더라고요"
+    } ]
+  }, {
+    "tStartMs": 1414070,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "음 그렇죠 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1415970,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "저도 다른 나라 이야기 들어봐도 밤에 계속 씻어야 되는데"
+    } ]
+  }, {
+    "tStartMs": 1421490,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "핸드폰 하고 있다거나 그런 경우가 많죠"
+    } ]
+  }, {
+    "tStartMs": 1426220,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "그거 어떻게 할 수 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 1427910,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "저는 핸드폰 그냥 쇼츠 막 넘기고 이거보다 차라리"
+    } ]
+  }, {
+    "tStartMs": 1433120,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "시리즈를 보는 게 더 좋은 것 같아요, 밤에"
+    } ]
+  }, {
+    "tStartMs": 1437030,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 1437730,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "영화나 시리즈"
+    } ]
+  }, {
+    "tStartMs": 1439770,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "그런가?"
+    } ]
+  }, {
+    "tStartMs": 1440780,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "왜냐하면 거기서는 영화나 시리즈에서는"
+    } ]
+  }, {
+    "tStartMs": 1444850,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "그래도 좀 경험치가 더 쌓이는 느낌, 그런 걸 보면"
+    } ]
+  }, {
+    "tStartMs": 1449280,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "아 뭔가 그래도 얻는 게 있다"
+    } ]
+  }, {
+    "tStartMs": 1450820,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "그래도 얻는 게 조금은 있다"
+    } ]
+  }, {
+    "tStartMs": 1453440,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 1454830,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "그리고 비교적 빨리 끊어내기 쉬워요"
+    } ]
+  }, {
+    "tStartMs": 1458980,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "숏츠는 진짜 중독적이고"
+    } ]
+  }, {
+    "tStartMs": 1461240,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "막 재밌는 거 나왔다가 슬프다가 막 무섭다가"
+    } ]
+  }, {
+    "tStartMs": 1465510,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "이래서 도파민이 너무 많이 나와서"
+    } ]
+  }, {
+    "tStartMs": 1468480,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "어렸을 때 티비 같은 거 보다가 자연스럽게 잠들고 그랬잖아요"
+    } ]
+  }, {
+    "tStartMs": 1472290,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "그런 느낌으로 저는 시리즈 보는 걸 좀 추천하는데"
+    } ]
+  }, {
+    "tStartMs": 1476260,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "다른 생각이 있으신가요?"
+    } ]
+  }, {
+    "tStartMs": 1478020,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "아, 근데 사실 저는 그렇게 넷플릭스를 볼 때도"
+    } ]
+  }, {
+    "tStartMs": 1482460,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "밤에 좀 잠을 안 자고 본 적이 한 번 있어서, 한두 번 있어서"
+    } ]
+  }, {
+    "tStartMs": 1487530,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "아, 너무 재밌어서?"
+    } ]
+  }, {
+    "tStartMs": 1489440,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1491240,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "적당히 재밌는 거 봐야 돼"
+    } ]
+  }, {
+    "tStartMs": 1492880,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "아, 그러니까요"
+    } ]
+  }, {
+    "tStartMs": 1493640,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1495300,
+    "dDurationMs": 9130,
+    "segs": [ {
+      "utf8": "그러고 이게 사실 수면이랑 뭐 관계가 조금 있는 얘기긴 한데"
+    } ]
+  }, {
+    "tStartMs": 1504430,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "특단의 조치가 하나 있긴 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1507990,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "오, 어떤 특단의 조치요?"
+    } ]
+  }, {
+    "tStartMs": 1509660,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "이것도 제가 전에 한번 했던 건데"
+    } ]
+  }, {
+    "tStartMs": 1512790,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "안드로이드 기반의 핸드폰은 잘 모르겠어요"
+    } ]
+  }, {
+    "tStartMs": 1516350,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "근데 아이폰은 그 설정에 스크린 타임이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1521920,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "그게 뭐냐면 내가 핸드폰을 켜고"
+    } ]
+  }, {
+    "tStartMs": 1525780,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "뭘 본 시간이 얼마인지 그걸 기록하고 보여주는 기능인데"
+    } ]
+  }, {
+    "tStartMs": 1530910,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "거기에 제한 기능이 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1534430,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "거기다가 예를 들면 인스타그램 30분,"
+    } ]
+  }, {
+    "tStartMs": 1539400,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "뭐 유튜브 10분 이렇게 제한을 설정해 두고"
+    } ]
+  }, {
+    "tStartMs": 1543550,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "그 시간만큼 그 앱들을 사용하면"
+    } ]
+  }, {
+    "tStartMs": 1547840,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "아니면 그 웹페이지를 사용하면 그게 잠기는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1553090,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "근데 문제는 거기도 비밀번호를 걸 수 있는데"
+    } ]
+  }, {
+    "tStartMs": 1557630,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "어차피 그 비밀번호를 제가 걸잖아요"
+    } ]
+  }, {
+    "tStartMs": 1559710,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1560420,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "그래서 비밀번호 제가 풀고 다시 계속 볼 수 있단 말이에요"
+    } ]
+  }, {
+    "tStartMs": 1563040,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1564740,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "그래서 어떻게 하느냐"
+    } ]
+  }, {
+    "tStartMs": 1566010,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "믿을 만한 사람..."
+    } ]
+  }, {
+    "tStartMs": 1567550,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "허...! 대박"
+    } ]
+  }, {
+    "tStartMs": 1570100,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "믿을 만한 사람한테 찾아가서"
+    } ]
+  }, {
+    "tStartMs": 1572610,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "이거 여기다가 비밀번호를 나한테 안 알려주고 (- 오 재밌다) 설정해줘라"
+    } ]
+  }, {
+    "tStartMs": 1580450,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "그다음에 당신은 이 비밀번호를 절대 까먹으면 안 되니까"
+    } ]
+  }, {
+    "tStartMs": 1584400,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "어딘가 메모지에 적어서 어딘가에 잘 보관해둬라"
+    } ]
+  }, {
+    "tStartMs": 1588580,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "오 네"
+    } ]
+  }, {
+    "tStartMs": 1590010,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "그렇게 하는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1592420,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "그러면은 이제 그다음부터는 제가 그 비밀번호를 모르니까"
+    } ]
+  }, {
+    "tStartMs": 1597320,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "핸드폰이 잠기면 그걸 못 쓰는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1600170,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "그쵸 \"에이\" 이러고 안 쓰게 되죠"
+    } ]
+  }, {
+    "tStartMs": 1602350,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "네, 그래서 그거를 잠잘 때도 쓸 수 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1606270,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "몇 시부터 몇 시까지 핸드폰이 잠기게"
+    } ]
+  }, {
+    "tStartMs": 1611610,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "그래서 전 그것도 몇 개월간 했었습니다"
+    } ]
+  }, {
+    "tStartMs": 1613800,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "와 그러셨어요?"
+    } ]
+  }, {
+    "tStartMs": 1615610,
+    "dDurationMs": 290,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1615900,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "태웅쌤도 필요하다고 느꼈구나"
+    } ]
+  }, {
+    "tStartMs": 1618110,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "아, 그럼요"
+    } ]
+  }, {
+    "tStartMs": 1620260,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "와 이렇게 갓생 사시는 분도.."
+    } ]
+  }, {
+    "tStartMs": 1623100,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "네, 네 아, 어쩔 수 없어요"
+    } ]
+  }, {
+    "tStartMs": 1626170,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "그렇게 하고 전에 제 다른 친구한테도 제가 그걸 알려주고"
+    } ]
+  }, {
+    "tStartMs": 1632080,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "걔 비밀번호를 제가 설정해 줬거든요"
+    } ]
+  }, {
+    "tStartMs": 1634820,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1636400,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "그래서 그 친구는 그렇게 갓생을 살아서"
+    } ]
+  }, {
+    "tStartMs": 1639880,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "취직을 성공했습니다"
+    } ]
+  }, {
+    "tStartMs": 1643830,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "와, 해피엔딩!"
+    } ]
+  }, {
+    "tStartMs": 1645590,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "네, 그래서 제가 풀어줬어요 취직하고 나서"
+    } ]
+  }, {
+    "tStartMs": 1647880,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "와!"
+    } ]
+  }, {
+    "tStartMs": 1649510,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "아, 지금 궁금하다 비하인드"
+    } ]
+  }, {
+    "tStartMs": 1652320,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "지금 그 친구 잘 살고 있어요"
+    } ]
+  }, {
+    "tStartMs": 1654030,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "와 효과 좋네요"
+    } ]
+  }, {
+    "tStartMs": 1657730,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "추천합니다"
+    } ]
+  }, {
+    "tStartMs": 1658910,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "근데 약간 두려움이 생기는 게"
+    } ]
+  }, {
+    "tStartMs": 1661200,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "그렇게 잠기면 너무 금단현상 오고"
+    } ]
+  }, {
+    "tStartMs": 1665460,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "'나 이제 뭐하지?'"
+    } ]
+  }, {
+    "tStartMs": 1666910,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "'근데 나한테 뭔가를 잘 해주고 싶은데...' 하는 생각에"
+    } ]
+  }, {
+    "tStartMs": 1670910,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "그 시간을 어떻게 보내면 좋을지"
+    } ]
+  }, {
+    "tStartMs": 1674240,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋ그래가지고..."
+    } ]
+  }, {
+    "tStartMs": 1676990,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "처음 잠글 때는 뭐 유튜브, 인스타그램"
+    } ]
+  }, {
+    "tStartMs": 1680460,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "이런 것들만 잠그거든요"
+    } ]
+  }, {
+    "tStartMs": 1682240,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "그리고 그 웹사이트 URL로도 잠금이 가능해서"
+    } ]
+  }, {
+    "tStartMs": 1685860,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "그 사파리, 뭐 크롬 이런 데서도 못 들어가게"
+    } ]
+  }, {
+    "tStartMs": 1689270,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "URL도 다 잠금을 해놓는데,"
+    } ]
+  }, {
+    "tStartMs": 1692510,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "그 또 그리고 또 필수로 안 잠겨야 하는 앱들이 있는데,"
+    } ]
+  }, {
+    "tStartMs": 1698210,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "예를 들면 뭐 교통에 관련된 앱이라든가"
+    } ]
+  }, {
+    "tStartMs": 1701790,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "뭐 금융 앱이라든가"
+    } ]
+  }, {
+    "tStartMs": 1704160,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "그런 것들은 뭐 수면 시간에 상관없이"
+    } ]
+  }, {
+    "tStartMs": 1705980,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "언제 어떤 일이 생길지 모르니까"
+    } ]
+  }, {
+    "tStartMs": 1707930,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "계속, 계속 열리게 하는 거죠"
+    } ]
+  }, {
+    "tStartMs": 1709600,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "음, 전화나?"
+    } ]
+  }, {
+    "tStartMs": 1711030,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "네, 그런 거"
+    } ]
+  }, {
+    "tStartMs": 1712740,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "근데 이제 그러면은 그런 것들을 재밌게 봐요"
+    } ]
+  }, {
+    "tStartMs": 1716620,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1719040,
+    "dDurationMs": 650,
+    "segs": [ {
+      "utf8": "막 은행..."
+    } ]
+  }, {
+    "tStartMs": 1719690,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "아, 금융앱 와우~"
+    } ]
+  }, {
+    "tStartMs": 1721340,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "은행 앱들 (- 새로운 이벤트?) 들어가 보고"
+    } ]
+  }, {
+    "tStartMs": 1724900,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "그리고 막 지도, 지도 막 찾아보고"
+    } ]
+  }, {
+    "tStartMs": 1728080,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "네 와 지도, 지도 진짜 재밌는데"
+    } ]
+  }, {
+    "tStartMs": 1731270,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 1732450,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "와, 그러면 아, 쓸모가 없는데..."
+    } ]
+  }, {
+    "tStartMs": 1736030,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "아, 근데 이제 일단은"
+    } ]
+  }, {
+    "tStartMs": 1738750,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "그것들이 SNS 소셜미디어처럼 중독적이지는 않아서"
+    } ]
+  }, {
+    "tStartMs": 1743900,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "그게 그 중독성이 덜하고"
+    } ]
+  }, {
+    "tStartMs": 1747970,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "그리고 현타가 더 빨리 와요"
+    } ]
+  }, {
+    "tStartMs": 1749950,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "음~ '나 뭐하니' 이렇게"
+    } ]
+  }, {
+    "tStartMs": 1752510,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "'내가 왜 이러냐' 이렇게"
+    } ]
+  }, {
+    "tStartMs": 1756310,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 1757470,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "맞아 일단 잠가 보고"
+    } ]
+  }, {
+    "tStartMs": 1759330,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "사람들마다 할 일들은 다 다를 테니까"
+    } ]
+  }, {
+    "tStartMs": 1762850,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "내가 어떻게 변하는지, 변해가는지를 보는 것도 재밌겠네요"
+    } ]
+  }, {
+    "tStartMs": 1766840,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "네, 맞습니다"
+    } ]
+  }, {
+    "tStartMs": 1768130,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "와, 우와! 좋은 방법들 많이 알려주셨어요"
+    } ]
+  }, {
+    "tStartMs": 1771940,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "아, 좋아요"
+    } ]
+  }, {
+    "tStartMs": 1772790,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "그게 다 수면에도 도움이 됩니다"
+    } ]
+  }, {
+    "tStartMs": 1775300,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "그러면 마지막으로 잠버릇에 대해서 얘기를 하고 싶은데"
+    } ]
+  }, {
+    "tStartMs": 1779910,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "다양한 잠버릇이 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1781480,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "코를 골고 자는 사람, 이를 가는 사람,"
+    } ]
+  }, {
+    "tStartMs": 1785160,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "뭐 잠꼬대 말을 하는 사람도 있고 하는데"
+    } ]
+  }, {
+    "tStartMs": 1788380,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "싫어하는 잠꼬대?"
+    } ]
+  }, {
+    "tStartMs": 1789540,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "이것만은 같이 함께할 수 없다 하는 잠꼬대 있으세요?"
+    } ]
+  }, {
+    "tStartMs": 1794300,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "아니면 좀 그런 거 상관없는 편이에요?"
+    } ]
+  }, {
+    "tStartMs": 1797140,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "아, 저는 잘 모르겠네요"
+    } ]
+  }, {
+    "tStartMs": 1799850,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "디디 님은 혹시 그런 게 있어요? 어떤 게 있는지"
+    } ]
+  }, {
+    "tStartMs": 1802550,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "제가 가지고 있는 잠버릇을 먼저 얘기해 보면 저는"
+    } ]
+  }, {
+    "tStartMs": 1806560,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "팔을 들고 자요"
+    } ]
+  }, {
+    "tStartMs": 1808800,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "아~!"
+    } ]
+  }, {
+    "tStartMs": 1809870,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "그래서 뭐 남한테 피해 주고 그런 건 아닌데"
+    } ]
+  }, {
+    "tStartMs": 1813340,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "이게 안 좋대요"
+    } ]
+  }, {
+    "tStartMs": 1814910,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "왜 저도 팔을 들고 싶어서 드는 게 아니라"
+    } ]
+  }, {
+    "tStartMs": 1817240,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "그냥 자고 일어나면 팔을 들고 있어요"
+    } ]
+  }, {
+    "tStartMs": 1819710,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "신기하다"
+    } ]
+  }, {
+    "tStartMs": 1820750,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "그래서 이거를 막 가끔 쥐가 나서"
+    } ]
+  }, {
+    "tStartMs": 1823030,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "이렇게 한 손씩 내려야 돼요"
+    } ]
+  }, {
+    "tStartMs": 1825780,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "음, 전 어릴 때 그랬어요 저도"
+    } ]
+  }, {
+    "tStartMs": 1828320,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "어, 그래요?"
+    } ]
+  }, {
+    "tStartMs": 1829900,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1830720,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "저 뭐 어디 묶어, 묶어놓고 자야 되나 그런 생각을 해요"
+    } ]
+  }, {
+    "tStartMs": 1834530,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "한번 해보세요"
+    } ]
+  }, {
+    "tStartMs": 1838020,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "그래 볼게요"
+    } ]
+  }, {
+    "tStartMs": 1839160,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "뭐 어때서요, 그게?"
+    } ]
+  }, {
+    "tStartMs": 1840960,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "그래 볼게요"
+    } ]
+  }, {
+    "tStartMs": 1842530,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "저는 글쎄요 코 고는 게 제가 심했거든요"
+    } ]
+  }, {
+    "tStartMs": 1848290,
+    "dDurationMs": 770,
+    "segs": [ {
+      "utf8": "되게 심했어요"
+    } ]
+  }, {
+    "tStartMs": 1849060,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "어? 네"
+    } ]
+  }, {
+    "tStartMs": 1851630,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "그래서 제가 고등학교 때 기숙사 생활을 했는데"
+    } ]
+  }, {
+    "tStartMs": 1854550,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "그 친구들이 좀 힘들어했어요"
+    } ]
+  }, {
+    "tStartMs": 1857410,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "지금은 좀 많이 나아졌는데"
+    } ]
+  }, {
+    "tStartMs": 1859680,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "어떻게 나아져요, 그게?"
+    } ]
+  }, {
+    "tStartMs": 1861810,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "일단 그 윔 호프 호흡법을 꾸준히 해서"
+    } ]
+  }, {
+    "tStartMs": 1866370,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "이 비염이 개선된 게 좀 큰 효과가 있었고"
+    } ]
+  }, {
+    "tStartMs": 1870210,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "네, 진짜예요?"
+    } ]
+  }, {
+    "tStartMs": 1872420,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "진짜예요, 그거"
+    } ]
+  }, {
+    "tStartMs": 1874880,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "윔 호프 호흡법?"
+    } ]
+  }, {
+    "tStartMs": 1876640,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "네, 그거 진짭니다"
+    } ]
+  }, {
+    "tStartMs": 1877970,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "기적의 호흡법이잖아"
+    } ]
+  }, {
+    "tStartMs": 1879940,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "네!"
+    } ]
+  }, {
+    "tStartMs": 1882310,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "그거 진짜 사람 살리는 호흡법입니다"
+    } ]
+  }, {
+    "tStartMs": 1886370,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "난 몰랐잖아요"
+    } ]
+  }, {
+    "tStartMs": 1889180,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "이런 게 있었구나"
+    } ]
+  }, {
+    "tStartMs": 1890960,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "피곤하면 가끔 코 고는데"
+    } ]
+  }, {
+    "tStartMs": 1893790,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "아, 저도 요즘도 피곤하면 고는 정도?"
+    } ]
+  }, {
+    "tStartMs": 1897600,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1898390,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "어 근데 첫째는 윔 호프"
+    } ]
+  }, {
+    "tStartMs": 1901470,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "그리고 둘째는 전반적으로 좀 스트레스 수치가 낮아진 거 ?"
+    } ]
+  }, {
+    "tStartMs": 1909630,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "그리고 세 번째는 그 입에 테이프 붙이고 자거든요"
+    } ]
+  }, {
+    "tStartMs": 1914010,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "어 요즘?"
+    } ]
+  }, {
+    "tStartMs": 1915290,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1917150,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "그거 모르세요?"
+    } ]
+  }, {
+    "tStartMs": 1918690,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "그러는게 더 좋아요?"
+    } ]
+  }, {
+    "tStartMs": 1919830,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "유명한데 이거 좋아요"
+    } ]
+  }, {
+    "tStartMs": 1923300,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "보여드릴까요? 제 테이프"
+    } ]
+  }, {
+    "tStartMs": 1926340,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1926780,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "지금 붙이-붙여드릴까요? 잠시만요"
+    } ]
+  }, {
+    "tStartMs": 1929300,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "아, 그 귀한 것을..."
+    } ]
+  }, {
+    "tStartMs": 1931080,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "아, 다시 쓸 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 1932770,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "아아, 네네 잠시만요"
+    } ]
+  }, {
+    "tStartMs": 1934820,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "네, 아니 왔습니다, 바로"
+    } ]
+  }, {
+    "tStartMs": 1936790,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "아, 네, 왔군요"
+    } ]
+  }, {
+    "tStartMs": 1937430,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "그, 여기 이렇게 테이프를 파는데"
+    } ]
+  }, {
+    "tStartMs": 1941240,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "이렇게 하나씩 뜯어서 붙일 수 있는데"
+    } ]
+  }, {
+    "tStartMs": 1944450,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "그 이게 그냥 테이프 같은 재질이 아니라"
+    } ]
+  }, {
+    "tStartMs": 1949110,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "그 면, 면같이 돼 있어요"
+    } ]
+  }, {
+    "tStartMs": 1952330,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "그래서 이게 막 늘어나거든요"
+    } ]
+  }, {
+    "tStartMs": 1954530,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "그래서 이걸 여기다가"
+    } ]
+  }, {
+    "tStartMs": 1955520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "🤐"
+    } ]
+  }, {
+    "tStartMs": 1959040,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "이렇게 붙이고 자는 거죠"
+    } ]
+  }, {
+    "tStartMs": 1960800,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "그러면은 저는 원래 저도 모르게"
+    } ]
+  }, {
+    "tStartMs": 1965250,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "입을 벌리고 자는 습관이 있었는데"
+    } ]
+  }, {
+    "tStartMs": 1968580,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "많이 나아졌어요"
+    } ]
+  }, {
+    "tStartMs": 1970080,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "아니 뭐, 붙이고 자면 당연히 입을 안 벌리고 코로 숨 쉬고"
+    } ]
+  }, {
+    "tStartMs": 1976040,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "이제는 이걸 안 붙여도 잘 입을 다물고 자요"
+    } ]
+  }, {
+    "tStartMs": 1980190,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "아, 그것도 좋은 건가요?"
+    } ]
+  }, {
+    "tStartMs": 1982740,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "입을 다물고 자면\u003e"
+    } ]
+  }, {
+    "tStartMs": 1984030,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "어, 그래야죠 그"
+    } ]
+  }, {
+    "tStartMs": 1986850,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "코로 호흡하는 게 진짜 중요하거든요"
+    } ]
+  }, {
+    "tStartMs": 1990530,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "코로 호흡을 계속 하잖아요?"
+    } ]
+  }, {
+    "tStartMs": 1993340,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "만약에 입으로, 입을 벌리고 입으로 호흡을 많이 하던 사람이"
+    } ]
+  }, {
+    "tStartMs": 1996670,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "입을 닫고 코로만 호흡을 한다 그러면"
+    } ]
+  }, {
+    "tStartMs": 2001220,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "얼굴이 더 잘생기고 예뻐져요"
+    } ]
+  }, {
+    "tStartMs": 2005180,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "이런 근육이나..."
+    } ]
+  }, {
+    "tStartMs": 2007010,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "네, 이 입이 튀어나오는 정도나 그 이런 게"
+    } ]
+  }, {
+    "tStartMs": 2010430,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "그래서 저는 실제로 한 10년 전보다 잘생겨졌어요"
+    } ]
+  }, {
+    "tStartMs": 2015850,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "바로... 이 테이프 때문에"
+    } ]
+  }, {
+    "tStartMs": 2018700,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "그럼, 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2019780,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "윔 호프 호흡법과 테이프 때문에"
+    } ]
+  }, {
+    "tStartMs": 2022430,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2023220,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "진짜인가요?"
+    } ]
+  }, {
+    "tStartMs": 2024610,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 2025770,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "아, 이것도 쿠팡 링크 걸어야겠는데요 입 테이프"
+    } ]
+  }, {
+    "tStartMs": 2030310,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "너무나도 꿀템인데"
+    } ]
+  }, {
+    "tStartMs": 2031960,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 2032900,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "왜냐하면 그냥 한번 믿거나 말거나 따라해보고 싶어요"
+    } ]
+  }, {
+    "tStartMs": 2036680,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네, 좋아요"
+    } ]
+  }, {
+    "tStartMs": 2038680,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "와 오늘 꿀템 소개 많이 해주셔서 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 2041240,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "아 아닙니다"
+    } ]
+  }, {
+    "tStartMs": 2042610,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "아무튼 그래서 코골이, 코골이가 좀 제 안 좋은 잠버릇이었는데"
+    } ]
+  }, {
+    "tStartMs": 2048480,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "많이 지금은 고쳐졌다"
+    } ]
+  }, {
+    "tStartMs": 2050410,
+    "dDurationMs": 5690,
+    "segs": [ {
+      "utf8": "음 맞아 코골이가 되게 저는 무서운 잠버릇이라 생각해요"
+    } ]
+  }, {
+    "tStartMs": 2056100,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "고는 사람 입장으로서"
+    } ]
+  }, {
+    "tStartMs": 2057340,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "왜냐하면 그거 진짜 무의식이잖아요"
+    } ]
+  }, {
+    "tStartMs": 2059580,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "내가 어떻게 할 수 없이 또 다른 사람이랑 잘 땐 피해를 주는 일이니까"
+    } ]
+  }, {
+    "tStartMs": 2064390,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "너무 무서운 그런 건데..."
+    } ]
+  }, {
+    "tStartMs": 2068850,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "저는 근데 잠귀가 밝지 않은 편이라서"
+    } ]
+  }, {
+    "tStartMs": 2072340,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "뭐 코 골면 고나보다 하고 자는 편이에요"
+    } ]
+  }, {
+    "tStartMs": 2075100,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "너무 그 스트레스 많거나 예민할 때 아니면 괜찮아서"
+    } ]
+  }, {
+    "tStartMs": 2081690,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "네, 좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2083430,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "자, 그러면은 오늘도 퀴즈 한번 내보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2088130,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "이번 주 퀴즈는 '태웅쌤과 디디의 자기 전 루틴으로 얘기하지 않은 것은?' 입니다"
+    } ]
+  }, {
+    "tStartMs": 2094750,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "1번 입에 테이프 붙이기"
+    } ]
+  }, {
+    "tStartMs": 2098300,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "2번 방을 어둡게 하기"
+    } ]
+  }, {
+    "tStartMs": 2101490,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "3번 윔 호프 호흡하기입니다"
+    } ]
+  }, {
+    "tStartMs": 2105160,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "정답을 아시는 분은"
+    } ]
+  }, {
+    "tStartMs": 2106850,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "투표하시거나 댓글로 남겨주시면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2110100,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "그러면 다음 코너로 넘어가 볼게요"
+    } ]
+  }, {
+    "tStartMs": 2115390,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "\u003c말로 하는 미니게임\u003e"
+    } ]
+  }, {
+    "tStartMs": 2123360,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "네, 말로 하는 미니게임 시간이고요"
+    } ]
+  }, {
+    "tStartMs": 2125680,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "이번에는 제가 태웅쌤에게 퀴즈를 낼 거예요"
+    } ]
+  }, {
+    "tStartMs": 2130530,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "한국어 퀴즈고요"
+    } ]
+  }, {
+    "tStartMs": 2132800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "한국어 뜻을 이야기하고 태웅쌤은 그 한국어 단어를 맞춰주시면 됩니다"
+    } ]
+  }, {
+    "tStartMs": 2138320,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "아, 약한데!!"
+    } ]
+  }, {
+    "tStartMs": 2139010,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "아니ㅋㅋㅋ 잠에 관련된 표현들이에요, 모두"
+    } ]
+  }, {
+    "tStartMs": 2143190,
+    "dDurationMs": 260,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2143450,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "그래서 여러분들도 알아가기 쉬울 것 같아서"
+    } ]
+  }, {
+    "tStartMs": 2147220,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "긴장하지 마시고 바로 문제 내볼게요 다섯 가지입니다"
+    } ]
+  }, {
+    "tStartMs": 2150270,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "1번"
+    } ]
+  }, {
+    "tStartMs": 2152040,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "밤 동안 잠을 전혀 자지 않는 거"
+    } ]
+  }, {
+    "tStartMs": 2156730,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "밤샘?"
+    } ]
+  }, {
+    "tStartMs": 2159330,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "맞아요 '밤샘', '밤을 새우다'"
+    } ]
+  }, {
+    "tStartMs": 2161270,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "밤샘, 밤을 새다"
+    } ]
+  }, {
+    "tStartMs": 2163130,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "아 이렇게~ 알겠습니다 네"
+    } ]
+  }, {
+    "tStartMs": 2166400,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "밤을 새우다"
+    } ]
+  }, {
+    "tStartMs": 2168090,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "정답입니다"
+    } ]
+  }, {
+    "tStartMs": 2169520,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "그러면 두 번째 질문은요"
+    } ]
+  }, {
+    "tStartMs": 2171910,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "잠을 깊이 자지 못하고 자주 깨는 거"
+    } ]
+  }, {
+    "tStartMs": 2177120,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "'잠을 설치다'?"
+    } ]
+  }, {
+    "tStartMs": 2178050,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "오, 맞아요! 역시!!!"
+    } ]
+  }, {
+    "tStartMs": 2182180,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "맞아 '잠을 설친다'고 얘기를 해요"
+    } ]
+  }, {
+    "tStartMs": 2184420,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "뒤척뒤척"
+    } ]
+  }, {
+    "tStartMs": 2185290,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "쉽게 잠들지 못하거나 아니면은 자고 있는데 중간에 자꾸 깨는 거"
+    } ]
+  }, {
+    "tStartMs": 2191190,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "잘하셨고요 3번"
+    } ]
+  }, {
+    "tStartMs": 2193200,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "소리가 작더라도 여러 가지 소리를 듣고 잠에서 쉽게 깨는 거"
+    } ]
+  }, {
+    "tStartMs": 2199490,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "뭐라고 얘기를 하죠?"
+    } ]
+  }, {
+    "tStartMs": 2201110,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "네, 이거는 아까 팟캐스트 얘기할 때도 디디님이 한번 얘기했던 거죠"
+    } ]
+  }, {
+    "tStartMs": 2206080,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "'잠귀가 밝다'"
+    } ]
+  }, {
+    "tStartMs": 2207490,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "맞아, 이거 좀 귀여운 단어지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 2210380,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "잠귀가 밝은 거예요"
+    } ]
+  }, {
+    "tStartMs": 2212370,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "잘 때 소리를 잘 듣는 사람을 '잠귀가 밝다'라고 하고요"
+    } ]
+  }, {
+    "tStartMs": 2217330,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "아주 좋습니다 네 번째는요"
+    } ]
+  }, {
+    "tStartMs": 2220850,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "아주 달고 편안하게 푹 자는 거"
+    } ]
+  }, {
+    "tStartMs": 2226000,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "'숙면하다'?"
+    } ]
+  }, {
+    "tStartMs": 2227830,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "표현이 다른 것도 있죠\n- 요즘 말로는 뭐라고 할까요?"
+    } ]
+  }, {
+    "tStartMs": 2230940,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "단잠을 자다?"
+    } ]
+  }, {
+    "tStartMs": 2231690,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "꿀잠을 자다?"
+    } ]
+  }, {
+    "tStartMs": 2232740,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "맞아요 '꿀잠 잤다' 오늘"
+    } ]
+  }, {
+    "tStartMs": 2235330,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "아주 꿀잠 잤다 얘기 많이 하죠?"
+    } ]
+  }, {
+    "tStartMs": 2237390,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2238210,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "그러면 마지막 질문"
+    } ]
+  }, {
+    "tStartMs": 2240280,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "아주 깊게 정신없이 자다"
+    } ]
+  }, {
+    "tStartMs": 2244910,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "아, 어제는 일을 많이 해서"
+    } ]
+  }, {
+    "tStartMs": 2246830,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "바로 OOOO 했어"
+    } ]
+  }, {
+    "tStartMs": 2250090,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "곯아떨어지다?"
+    } ]
+  }, {
+    "tStartMs": 2251520,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "맞아요!!"
+    } ]
+  }, {
+    "tStartMs": 2254420,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "역시 태웅 선생님입니다"
+    } ]
+  }, {
+    "tStartMs": 2257720,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "5점 만점 획득하셨고요"
+    } ]
+  }, {
+    "tStartMs": 2260160,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2260670,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "여러분들도 잠에 관련된 표현들 많이 알아가셨으면 좋겠습니다 겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2265320,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "네, 그래서 오늘은 이렇게 잠에 대해서"
+    } ]
+  }, {
+    "tStartMs": 2268150,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "저희들의 이야기를, 이런저런 이야기를 해봤는데요"
+    } ]
+  }, {
+    "tStartMs": 2272070,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "이제 다음 주 주제를 정해야 해요"
+    } ]
+  }, {
+    "tStartMs": 2274720,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "저번에 뭐 얘기 나왔던 게 있었나요?"
+    } ]
+  }, {
+    "tStartMs": 2277190,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "기억나는 거 있나요?"
+    } ]
+  }, {
+    "tStartMs": 2278690,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "까먹었습니다"
+    } ]
+  }, {
+    "tStartMs": 2280100,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "그러면은 그냥 여름 이런 것도 괜찮을 것 같고요 계절로"
+    } ]
+  }, {
+    "tStartMs": 2284920,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "여름 좋은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2286240,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "여름으로 할까요?"
+    } ]
+  }, {
+    "tStartMs": 2287370,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2288050,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "다음에 올라갈 게 이제 한창 여름일 때"
+    } ]
+  }, {
+    "tStartMs": 2291670,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "8월 중순쯤에 올라갈 것 같아서"
+    } ]
+  }, {
+    "tStartMs": 2295870,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "그때 여름에 대해서 요모조모 이야기해보려고 하고요"
+    } ]
+  }, {
+    "tStartMs": 2300300,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "음~ 초복이 지났죠?"
+    } ]
+  }, {
+    "tStartMs": 2303410,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2304640,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "초복이인데 뭐 비가 많이 왔다고..."
+    } ]
+  }, {
+    "tStartMs": 2308300,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "그 태풍이 지나간다고 하던가"
+    } ]
+  }, {
+    "tStartMs": 2311390,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "태풍이었나 보다 맞아"
+    } ]
+  }, {
+    "tStartMs": 2313240,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "요즘 이번 여름은 좀 신기한 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2316100,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "좀 덜 덥기도 하고"
+    } ]
+  }, {
+    "tStartMs": 2318720,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "비도 자주 오고 하네요"
+    } ]
+  }, {
+    "tStartMs": 2320640,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "그러네요"
+    } ]
+  }, {
+    "tStartMs": 2321920,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "그래도 더운 날씨에는 이렇게 삼계탕 같은 거 드시면서"
+    } ]
+  }, {
+    "tStartMs": 2326300,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "여름 잘 나시길 바라고요"
+    } ]
+  }, {
+    "tStartMs": 2327730,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "그러면 저희는 다음 달에 또 돌아오도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2331320,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "여기까지 디디와"
+    } ]
+  }, {
+    "tStartMs": 2333140,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "정태웅이었습니다 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 2334790,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "감사합니다"
+    } ]
+  } ]
+}

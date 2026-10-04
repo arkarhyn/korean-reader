@@ -1,0 +1,5071 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 9220,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "안녕하세요, 디디입니다"
+    } ]
+  }, {
+    "tStartMs": 11430,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "안녕하세요, 정태웅입니다"
+    } ]
+  }, {
+    "tStartMs": 13350,
+    "dDurationMs": 7250,
+    "segs": [ {
+      "utf8": "\u003c한국생활 요모조모\u003e는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다"
+    } ]
+  }, {
+    "tStartMs": 20600,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "한 달 잘 보내셨나요? 새해 복 많이 받으세요, 태웅쌤!"
+    } ]
+  }, {
+    "tStartMs": 23650,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "아, 그렇죠 새해 되고 처음 보는 거네요"
+    } ]
+  }, {
+    "tStartMs": 25910,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 26910,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "새해 복 많이 받으시고요"
+    } ]
+  }, {
+    "tStartMs": 28580,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "요즘도 많이 바쁘신가요?"
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "많이 바쁩니다"
+    } ]
+  }, {
+    "tStartMs": 31730,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "여전히..."
+    } ]
+  }, {
+    "tStartMs": 32770,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "네, 좀 피곤해 보이지 않나요?"
+    } ]
+  }, {
+    "tStartMs": 35050,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "그러게요 오늘도 열심히 수업 듣고 오셨죠?"
+    } ]
+  }, {
+    "tStartMs": 37580,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "네, 그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 39620,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "고생이 항상 많으십니다"
+    } ]
+  }, {
+    "tStartMs": 42920,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "오늘 주제 소개하기 전에"
+    } ]
+  }, {
+    "tStartMs": 44930,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "또 저번에 에피소드 많이 봐주셨어가지고"
+    } ]
+  }, {
+    "tStartMs": 47920,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "정답자 먼저 이야기하고 넘어가도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 51260,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "저번 주제가 취미였고요"
+    } ]
+  }, {
+    "tStartMs": 53180,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "그리고 퀴즈는 저희 둘 취미로 언급되지 않은 것이었습니다"
+    } ]
+  }, {
+    "tStartMs": 58510,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "그리고 정답은 3번 승마였죠?"
+    } ]
+  }, {
+    "tStartMs": 61250,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "네 정답자를 알려드릴게요"
+    } ]
+  }, {
+    "tStartMs": 84000,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "축하드립니다"
+    } ]
+  }, {
+    "tStartMs": 85390,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "태웅쌤이 시작하기 전에 이분들 혹시나 이름 잘못 읽을까봐 걱정하셨는데"
+    } ]
+  }, {
+    "tStartMs": 90870,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "그래도 다 읽어주셨네요"
+    } ]
+  }, {
+    "tStartMs": 94990,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "네, 좀 어려운... 분들이 좀 있으시더라고요"
+    } ]
+  }, {
+    "tStartMs": 100960,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "처음 보는 언어로 되어 있는 이름은 어렵더라고요 읽을 때"
+    } ]
+  }, {
+    "tStartMs": 105890,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "네..."
+    } ]
+  }, {
+    "tStartMs": 107500,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "그리고 제대로 된 단어가 아닌 걸로 아이디를 할 수도 있어서"
+    } ]
+  }, {
+    "tStartMs": 112740,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "아, 그쵸"
+    } ]
+  }, {
+    "tStartMs": 114280,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "그래서 혹시나 태웅쌤이 잘못 이야기했다면"
+    } ]
+  }, {
+    "tStartMs": 117570,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "어떻게 그럴 수 있냐고 댓글에 남겨주시면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 122620,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "그러면 오늘의 주제 바로 소개해주세요"
+    } ]
+  }, {
+    "tStartMs": 126010,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "오늘의 주제는 중고거래입니다"
+    } ]
+  }, {
+    "tStartMs": 128790,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "네, 중고거래고요"
+    } ]
+  }, {
+    "tStartMs": 129990,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "중고/거래 이렇게 두 개 좀 따로 설명을 해보면"
+    } ]
+  }, {
+    "tStartMs": 133940,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "'중고'라고 하는 거는 누군가가 이미 사용한 물건 이런 것들을 중고라고 하죠"
+    } ]
+  }, {
+    "tStartMs": 139920,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "아니면 그냥 오래된 물건? 그런 것도 중고라고 하는데"
+    } ]
+  }, {
+    "tStartMs": 144430,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "'중고거래'라고 하면 보통 그냥 개인 대 개인이 사고 파는 거"
+    } ]
+  }, {
+    "tStartMs": 149910,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "그 물건을 사고 파는 거를 중고거래라고 합니다"
+    } ]
+  }, {
+    "tStartMs": 154090,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "태웅쌤은 중고거래 하면 뭐가 제일 먼저 떠올라요?"
+    } ]
+  }, {
+    "tStartMs": 158240,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "중고거래 하면 뭐가 떠오르냐고요?"
+    } ]
+  }, {
+    "tStartMs": 160670,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "네 첫 번째로 떠오르는 게 뭐예요?"
+    } ]
+  }, {
+    "tStartMs": 163420,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "당근마켓?"
+    } ]
+  }, {
+    "tStartMs": 164860,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "아, 당근마켓 그렇죠 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 167150,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "그냥 뭐 가게가 떠오르는지 어플이 떠오르는지 이런 게 궁금했는데"
+    } ]
+  }, {
+    "tStartMs": 172550,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "요즘은 당근마켓이라는 어플 많이 사용하죠?"
+    } ]
+  }, {
+    "tStartMs": 175630,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 176430,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "태웅쌤이 생각했을 때는 한국인들이 중고거래 많이 하는 거 같아요? 어때요?"
+    } ]
+  }, {
+    "tStartMs": 183530,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "많이 하는 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 185440,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "그래요?"
+    } ]
+  }, {
+    "tStartMs": 187150,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 188130,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "저도 그렇게 생각했는데"
+    } ]
+  }, {
+    "tStartMs": 189970,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "최근에 영국 학생이랑 이야기를 하다가 중고에 대한 이야기가 나왔거든요"
+    } ]
+  }, {
+    "tStartMs": 196450,
+    "dDurationMs": 7870,
+    "segs": [ {
+      "utf8": "근데 그 학생의 의견이지만 영국에서는 중고 거래를 진짜 많이 이용한대요"
+    } ]
+  }, {
+    "tStartMs": 204320,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "예를 들면 옷 같은 것도 자기 옷장의 80%가 거의 다 중고로 산 거라고 하더라고요"
+    } ]
+  }, {
+    "tStartMs": 211820,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "그러면서 그런 중고 가게들이 되게 많대요"
+    } ]
+  }, {
+    "tStartMs": 217180,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "그래서 옷 같은 것도 자주 산다고 하는데"
+    } ]
+  }, {
+    "tStartMs": 221370,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "그걸 듣고 제가 생각했던 거는 한국인들은..."
+    } ]
+  }, {
+    "tStartMs": 225280,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "옷은 중고로 잘 안 사는 것 같고"
+    } ]
+  }, {
+    "tStartMs": 229270,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "물건들은 요즘 중고거래 많이 하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 234140,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "저는 한국인들이 중고거래 많이 하는 것 같다고 얘기했을 때"
+    } ]
+  }, {
+    "tStartMs": 239740,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "그냥 단순히 당근마켓 사람들이 많이 쓰니까"
+    } ]
+  }, {
+    "tStartMs": 244210,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "많이 하는 것 같다고 생각했는데"
+    } ]
+  }, {
+    "tStartMs": 246830,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "그렇게 영국 얘기를 들어보니까 확실히"
+    } ]
+  }, {
+    "tStartMs": 250020,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "이 앱을 넘어서 가게도 중고 가게가 많고..."
+    } ]
+  }, {
+    "tStartMs": 253730,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "네 맞아요"
+    } ]
+  }, {
+    "tStartMs": 255310,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "진짜 그게 진짜 많은 것 같네요"
+    } ]
+  }, {
+    "tStartMs": 258620,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "개인적으로 많이 사용하세요?"
+    } ]
+  }, {
+    "tStartMs": 260670,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "저는 꽤 많이 사용하는 편이에요"
+    } ]
+  }, {
+    "tStartMs": 263330,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "최근에 산 거 있어요?"
+    } ]
+  }, {
+    "tStartMs": 264860,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "최근에..."
+    } ]
+  }, {
+    "tStartMs": 266210,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "최근에 산지는 꽤 오래된 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 271090,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "일단 지금 입고 있는 이 옷도 당근마켓으로 샀고요"
+    } ]
+  }, {
+    "tStartMs": 276790,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "아 진짜요?"
+    } ]
+  }, {
+    "tStartMs": 278240,
+    "dDurationMs": 9080,
+    "segs": [ {
+      "utf8": "네 그리고... 지난 '요모조모' 편에서 입었던 검은색 가죽 자켓도 당근마켓으로 샀고요"
+    } ]
+  }, {
+    "tStartMs": 287320,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "옷 많이 사시네요, 태웅쌤은?"
+    } ]
+  }, {
+    "tStartMs": 289620,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "네, 저는 많이 사요"
+    } ]
+  }, {
+    "tStartMs": 290850,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "뭐예요? 그거 빈티지예요? 아니면 원하는 옷을 중고로 산 편이에요?"
+    } ]
+  }, {
+    "tStartMs": 296790,
+    "dDurationMs": 6350,
+    "segs": [ {
+      "utf8": "저는 일단 갖고 싶은 게 생기면 당근마켓에 검색부터 해봐요"
+    } ]
+  }, {
+    "tStartMs": 303140,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "훌륭하십니다"
+    } ]
+  }, {
+    "tStartMs": 305240,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "그렇게 아껴야 되는데!"
+    } ]
+  }, {
+    "tStartMs": 308420,
+    "dDurationMs": 10200,
+    "segs": [ {
+      "utf8": "네 그게 저는 사실... 이건 저의 개인적인 생각입니다만"
+    } ]
+  }, {
+    "tStartMs": 318620,
+    "dDurationMs": 7070,
+    "segs": [ {
+      "utf8": "한국에서 사는 옷이나 많은 물건들이 되게"
+    } ]
+  }, {
+    "tStartMs": 325690,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "가격에 거품이 좀 껴있다고 생각하거든요"
+    } ]
+  }, {
+    "tStartMs": 328420,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "네네 있을 수 있죠"
+    } ]
+  }, {
+    "tStartMs": 330690,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "그러니까 새 옷에 붙어 있는 가격표에 나오는"
+    } ]
+  }, {
+    "tStartMs": 335960,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "그 원래 가격을 돈을 주고 사는 게 너무 아까워요"
+    } ]
+  }, {
+    "tStartMs": 340980,
+    "dDurationMs": 9550,
+    "segs": [ {
+      "utf8": "근데 그냥 그렇게 새 옷을 사서 막 자기랑 사이즈가 안 맞거나"
+    } ]
+  }, {
+    "tStartMs": 350530,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "자기 스타일이 아니거나 아니면 또 요즘은 가지고 있는 옷이"
+    } ]
+  }, {
+    "tStartMs": 355850,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "이미 너무 많아서 싸게 당근에 파는 사람들이 많은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 361800,
+    "dDurationMs": 6870,
+    "segs": [ {
+      "utf8": "네 맞아요 특히나 그런 브랜드가 유명한 옷들은 중고 시장에 나오더라구요"
+    } ]
+  }, {
+    "tStartMs": 368670,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "그래서 네, 저는 많이 삽니다"
+    } ]
+  }, {
+    "tStartMs": 377670,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "그러면 대신에 단점도 있잖아요 중고 거래로 옷을 샀을 때"
+    } ]
+  }, {
+    "tStartMs": 382570,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "예를 들면 입어 봤는데 마음에 안 들어"
+    } ]
+  }, {
+    "tStartMs": 384730,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "그러면 반품 같은 건 안 되잖아요"
+    } ]
+  }, {
+    "tStartMs": 388510,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 389810,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "네 좀 신중하게 사시나요, 그런 거는?"
+    } ]
+  }, {
+    "tStartMs": 392630,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "그런 단점이 있죠, 확실히"
+    } ]
+  }, {
+    "tStartMs": 395780,
+    "dDurationMs": 8750,
+    "segs": [ {
+      "utf8": "그래서 살 때 기준이, 애매하게 싼 옷은 안 사요"
+    } ]
+  }, {
+    "tStartMs": 404530,
+    "dDurationMs": 9090,
+    "segs": [ {
+      "utf8": "그러니까 원래 이 옷이 예를 들어서 40만 원인데 한 37만 원?"
+    } ]
+  }, {
+    "tStartMs": 413620,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "이렇게 중고로 살 수 있다? 그러면 사지 않아요"
+    } ]
+  }, {
+    "tStartMs": 418300,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "그러면 그냥 새 거 사요"
+    } ]
+  }, {
+    "tStartMs": 420060,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "네, 그럴 거면 새 거 사야죠 (- 메리트가 없으니까)"
+    } ]
+  }, {
+    "tStartMs": 423860,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "그래서 대신 막 원래 40만 원인데 한 25만 원이다"
+    } ]
+  }, {
+    "tStartMs": 429720,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "그러면 한 40%잖아요, 50%"
+    } ]
+  }, {
+    "tStartMs": 433630,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "바로 사죠"
+    } ]
+  }, {
+    "tStartMs": 436180,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "그러면 안 맞아도 싸게 샀으니까... (괜찮아요?)"
+    } ]
+  }, {
+    "tStartMs": 441150,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "근데 사이즈는 보긴 보죠ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 444220,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "근데 입어봤는데 나한테 안 어울릴 수 있잖아요 길이나 이런 게"
+    } ]
+  }, {
+    "tStartMs": 448700,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "그건 그럴 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 452510,
+    "dDurationMs": 7710,
+    "segs": [ {
+      "utf8": "그래서 길이 같은 게 바지 같은 경우는 엄청 중요하잖아요"
+    } ]
+  }, {
+    "tStartMs": 460220,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 461120,
+    "dDurationMs": 7420,
+    "segs": [ {
+      "utf8": "근데 대신 겉옷 같은 이런, 이런 거는 어느 정도 괜찮은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 468540,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "그렇구나 좋다 좋다"
+    } ]
+  }, {
+    "tStartMs": 471330,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "네네 좋죠?"
+    } ]
+  }, {
+    "tStartMs": 473420,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "저도 최근에 중고로 옷 하나 샀는데"
+    } ]
+  }, {
+    "tStartMs": 475970,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "어디서요?"
+    } ]
+  }, {
+    "tStartMs": 477060,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "저는 번개장터에서 샀던 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 481580,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "저도 원하는 옷을 찾아보고... 그렇게 큰 메리트는 전 없었던 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 486590,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "그래도 좀 새 건데 이렇게 싸게 팔길래 샀었어요"
+    } ]
+  }, {
+    "tStartMs": 492700,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "새 거를 샀어요?"
+    } ]
+  }, {
+    "tStartMs": 494140,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "받아서 입지 않고 근데 택은 뗀 그런 옷...?"
+    } ]
+  }, {
+    "tStartMs": 498980,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "네 근데 그렇게 은근히 거의 새것과 다름없는 상태의 옷을 중고로 파는 사람들이 많더라고요"
+    } ]
+  }, {
+    "tStartMs": 506500,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "그 한국 사람들이 옷을 중고로 잘 안 사는 이유 중에 하나가"
+    } ]
+  }, {
+    "tStartMs": 511480,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "죽은 사람이 입었던 옷일 수도 있고"
+    } ]
+  }, {
+    "tStartMs": 515360,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "막 이런 이야기 들어본 적 없어요?"
+    } ]
+  }, {
+    "tStartMs": 517320,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "중고 옷을 샀는데 거기 피가 묻어있더라... 라던가"
+    } ]
+  }, {
+    "tStartMs": 523760,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "그런 것들이 많았다..."
+    } ]
+  }, {
+    "tStartMs": 526690,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "오, 전 그런 옷 갖고 싶은데요"
+    } ]
+  }, {
+    "tStartMs": 529310,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "예? 왜요?"
+    } ]
+  }, {
+    "tStartMs": 533160,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "아, 뭔가 그 서드파티 파워가 생길 수 있을 것 같고"
+    } ]
+  }, {
+    "tStartMs": 539530,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "아, 생각하기 나름이네, 이게"
+    } ]
+  }, {
+    "tStartMs": 542220,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "그게 그걸 불길하다고 보통 생각하시는 것 같아요 특히나 윗세대분들"
+    } ]
+  }, {
+    "tStartMs": 546890,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "아, 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 547710,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "어머니 세대분들"
+    } ]
+  }, {
+    "tStartMs": 550350,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "저 혼났어요, 맨날 그런 빈티지 옷 이런 거 사면"
+    } ]
+  }, {
+    "tStartMs": 553640,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "엄마가 \"제발 옷은 새 걸로 사라!\" 이렇게"
+    } ]
+  }, {
+    "tStartMs": 559420,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "그렇구나"
+    } ]
+  }, {
+    "tStartMs": 561720,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "저 디디님이랑 작년인가 만나서 팟캐스트 찍은 거"
+    } ]
+  }, {
+    "tStartMs": 568700,
+    "dDurationMs": 9320,
+    "segs": [ {
+      "utf8": "그때 투 버튼 자켓인가 그런 거 입었잖아요 클래식한 자켓 세트"
+    } ]
+  }, {
+    "tStartMs": 578020,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "근데 그거를 가슴 안쪽에 보면"
+    } ]
+  }, {
+    "tStartMs": 582290,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "'M.코바야시'라고 적혀있어요"
+    } ]
+  }, {
+    "tStartMs": 584480,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "그게 뭐예요?"
+    } ]
+  }, {
+    "tStartMs": 585470,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러니까 일본인이 입었던 거죠"
+    } ]
+  }, {
+    "tStartMs": 588470,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "응?"
+    } ]
+  }, {
+    "tStartMs": 588990,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "그러니까 그 옷도 중고 옷이에요"
+    } ]
+  }, {
+    "tStartMs": 591310,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "네네네"
+    } ]
+  }, {
+    "tStartMs": 592160,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "근데 그게 맞춤 정장이었던 거예요"
+    } ]
+  }, {
+    "tStartMs": 595250,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "아~ 그게 자기 이름인 거예요?"
+    } ]
+  }, {
+    "tStartMs": 598970,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 600310,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "우와! 코바야시 씨 옷이었구나"
+    } ]
+  }, {
+    "tStartMs": 602700,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "네 그러니까요 저는 그래서 입을 때마다 항상"
+    } ]
+  }, {
+    "tStartMs": 606580,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "'코바야시는 어떤 사람이었을까?'"
+    } ]
+  }, {
+    "tStartMs": 612040,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "생각하며 입어요"
+    } ]
+  }, {
+    "tStartMs": 613020,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "재밌네요 재밌네요"
+    } ]
+  }, {
+    "tStartMs": 614530,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "그럼 태웅쌤 팔기도 파시나요?"
+    } ]
+  }, {
+    "tStartMs": 619060,
+    "dDurationMs": 8200,
+    "segs": [ {
+      "utf8": "많이 팔아봤고 저는... 나눔도 많이 해봤어요"
+    } ]
+  }, {
+    "tStartMs": 627260,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "나눔, 그냥 공짜로 주는 거?"
+    } ]
+  }, {
+    "tStartMs": 630180,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "네네 저는 그냥 너무 오랫동안 안 써서"
+    } ]
+  }, {
+    "tStartMs": 634020,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "자리만 차지하고 있는 물건들을 버리고 싶을 때"
+    } ]
+  }, {
+    "tStartMs": 639810,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "근데 이제 그런 물건들이 그냥 쉽게 버릴 수 없을 때가 많거든요"
+    } ]
+  }, {
+    "tStartMs": 646000,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "돈 내고 버려야 되는 거요?"
+    } ]
+  }, {
+    "tStartMs": 647690,
+    "dDurationMs": 7250,
+    "segs": [ {
+      "utf8": "그런 거 네, 고장난 모니터라던가"
+    } ]
+  }, {
+    "tStartMs": 654940,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "제가 어릴 때 샀던 쌍안경이라던가"
+    } ]
+  }, {
+    "tStartMs": 659580,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "아니면 옛날부터 집에 있던 큰 나무장이라던가"
+    } ]
+  }, {
+    "tStartMs": 665710,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "아~"
+    } ]
+  }, {
+    "tStartMs": 667230,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "제가 다 나눔했던 것들입니다"
+    } ]
+  }, {
+    "tStartMs": 671030,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "네 그런 것들을 그냥 버리기가 까다로워요 한국에서는"
+    } ]
+  }, {
+    "tStartMs": 675660,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "그냥 뭐 길에 버릴 수 있는 게 아니거든요"
+    } ]
+  }, {
+    "tStartMs": 678140,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "그렇죠 돈 내야 돼요"
+    } ]
+  }, {
+    "tStartMs": 680360,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 682080,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "그래서 그걸 당근마켓 같은 앱에 나눔합니다"
+    } ]
+  }, {
+    "tStartMs": 686870,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "'공짜로 가져가세요'"
+    } ]
+  }, {
+    "tStartMs": 688970,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "'대신 우리 집 문 앞까지 와서 가지고 가야 됩니다' 이렇게 하는 거죠"
+    } ]
+  }, {
+    "tStartMs": 695260,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "아 그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 696970,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "그렇게 나눔으로 올리면 좀 빨리 가져가나요?"
+    } ]
+  }, {
+    "tStartMs": 700770,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "다 진짜 올리자마자..."
+    } ]
+  }, {
+    "tStartMs": 703910,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "진짜요~?"
+    } ]
+  }, {
+    "tStartMs": 705800,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "'저한테 주십시오 제가 잘 쓰겠습니다' 이렇게 연락이 와요"
+    } ]
+  }, {
+    "tStartMs": 710470,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "근데 마음이 선하네요"
+    } ]
+  }, {
+    "tStartMs": 712230,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "그거 1,000원 아니면 2,000원이라도 받고 파시는 분들도 있는데"
+    } ]
+  }, {
+    "tStartMs": 716400,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "그냥 깔끔하게 나눠주시네요"
+    } ]
+  }, {
+    "tStartMs": 720100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "1,000원 2,000원 하면 안 사더라고요"
+    } ]
+  }, {
+    "tStartMs": 723300,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "아 맞아 맞아"
+    } ]
+  }, {
+    "tStartMs": 725470,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 726490,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "그것도 엄청 싼 건데"
+    } ]
+  }, {
+    "tStartMs": 728740,
+    "dDurationMs": 7770,
+    "segs": [ {
+      "utf8": "그렇죠 아무튼... 팔기도 많이 팔았는데"
+    } ]
+  }, {
+    "tStartMs": 736510,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "어느 순간 가격을 정하고"
+    } ]
+  }, {
+    "tStartMs": 740750,
+    "dDurationMs": 8530,
+    "segs": [ {
+      "utf8": "그런 사람들이 뭐 '2천원 깎아주세요' 뭐 이런 연락을 하는 게 귀찮아서"
+    } ]
+  }, {
+    "tStartMs": 749280,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "그냥 나눔을 많이 했던 것 같습니다 최근에"
+    } ]
+  }, {
+    "tStartMs": 752670,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "태웅쌤은 사거나 나눔하거나 이렇게 사용하셨네요"
+    } ]
+  }, {
+    "tStartMs": 757150,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 758060,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "저는 옷보다는 기기 이런 거 좀 많이 사거든요 중고로"
+    } ]
+  }, {
+    "tStartMs": 764430,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 765060,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "저는 기기가 제 값 주고 사기가 좀 아까워요"
+    } ]
+  }, {
+    "tStartMs": 770820,
+    "dDurationMs": 8120,
+    "segs": [ {
+      "utf8": "그리고 기기는 다른 사람이 쓰던 거를 써도 그냥 아무 문제 없는 느낌?"
+    } ]
+  }, {
+    "tStartMs": 778940,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "예를 들면 옷은 좀 입다 보면 좀 오염이 될 수도 있고"
+    } ]
+  }, {
+    "tStartMs": 783810,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "어떤 하자가 있을지 모르잖아요"
+    } ]
+  }, {
+    "tStartMs": 786560,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "근데 이런 기기는 뭐 스크래치 뭐 한두 개 정도 저는 신경 쓰지 않아가지고"
+    } ]
+  }, {
+    "tStartMs": 792180,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "기기를 주로 사는데 이 팟캐스트 처음 시작할 때도"
+    } ]
+  }, {
+    "tStartMs": 796230,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "마이크 중고로 사고 조명 중고로 사고"
+    } ]
+  }, {
+    "tStartMs": 800790,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "모니터 중고로 사고 이렇게 했던 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 806410,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "그럴 수 있죠"
+    } ]
+  }, {
+    "tStartMs": 807560,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "뭐 기억이 나는, 마지막에 산 기기가 생각이 나십니까?"
+    } ]
+  }, {
+    "tStartMs": 812170,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "마지막에 산 기기보다 좀 사연이 있는 기기가 있는데"
+    } ]
+  }, {
+    "tStartMs": 817870,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "이 중고거래의 큰 단점 중에 하나가"
+    } ]
+  }, {
+    "tStartMs": 820900,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "또 사기를 당할 수 있다는 문제가 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 826420,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "상대방이랑 거래를 하기로 하고 돈을 보냈는데,"
+    } ]
+  }, {
+    "tStartMs": 830300,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "이 사람이 갑자기 없어진다거나 할 수가 있어요"
+    } ]
+  }, {
+    "tStartMs": 834620,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "지금은 뭐 안전장치들이 어플에 이렇게 많이 있는데"
+    } ]
+  }, {
+    "tStartMs": 839450,
+    "dDurationMs": 8430,
+    "segs": [ {
+      "utf8": "재작년에 오디오 인터페이스, 그 마이크 이렇게 수음해주는 거를 연락을 해가지고 사기로 했는데"
+    } ]
+  }, {
+    "tStartMs": 847880,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "그분이 없어졌던 기억이 있어요"
+    } ]
+  }, {
+    "tStartMs": 850690,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "어디서요? 중고나라요? 아니면 당근마켓이요?"
+    } ]
+  }, {
+    "tStartMs": 854600,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "제가 그게 네이버 카페였는데"
+    } ]
+  }, {
+    "tStartMs": 858270,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "그런 전문 (중고샵) 그게 아니었고"
+    } ]
+  }, {
+    "tStartMs": 860840,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "오디오 인터페이스 전문 카페 였어요"
+    } ]
+  }, {
+    "tStartMs": 867400,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "그러니까 중고거래 플랫폼이 아니라 음향 기기가 모여있는 카페에서"
+    } ]
+  }, {
+    "tStartMs": 874220,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "뭐 거래도 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 876480,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "네 뮬(Mule) 같은 곳?"
+    } ]
+  }, {
+    "tStartMs": 877990,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "아니요 네이버 카페... 이름은 몰라요 저도"
+    } ]
+  }, {
+    "tStartMs": 882820,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "찾다가 거기 사람이 괜찮아 보이더라고요"
+    } ]
+  }, {
+    "tStartMs": 887170,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "게시물도 되게 거래 완료한 거 많고..."
+    } ]
+  }, {
+    "tStartMs": 892210,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "그래서 괜찮겠지 하고 결제했는데"
+    } ]
+  }, {
+    "tStartMs": 896230,
+    "dDurationMs": 7890,
+    "segs": [ {
+      "utf8": "점심쯤에 결제했는데 저녁에 연락이 갑자기 안 되더니 없어졌었어요"
+    } ]
+  }, {
+    "tStartMs": 904120,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "와 진짜 나쁜 사람이네요"
+    } ]
+  }, {
+    "tStartMs": 905950,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "그래서 그게 또 기계다 보니까"
+    } ]
+  }, {
+    "tStartMs": 909110,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "한 20만 원 가까이 했거든요"
+    } ]
+  }, {
+    "tStartMs": 911260,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 912250,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "근데 그게 갑자기 없어진 거예요..."
+    } ]
+  }, {
+    "tStartMs": 914460,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "와, 너무하다"
+    } ]
+  }, {
+    "tStartMs": 915980,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "그렇지만 다행히 저는 그 돈을 받아냈습니다"
+    } ]
+  }, {
+    "tStartMs": 919040,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "받아냈어요?"
+    } ]
+  }, {
+    "tStartMs": 920050,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 920610,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "어떻게요?"
+    } ]
+  }, {
+    "tStartMs": 921470,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "제가... 이거는 팁인데"
+    } ]
+  }, {
+    "tStartMs": 923180,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "태웅쌤도 나중에 중고거래 하실 때, 광고가 아니라,"
+    } ]
+  }, {
+    "tStartMs": 927230,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "토스를 이용하면"
+    } ]
+  }, {
+    "tStartMs": 929430,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "토스에서는 중고거래 안심 뭐 거래? 뭐 보험? 이런게 있어요"
+    } ]
+  }, {
+    "tStartMs": 935920,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "그래서 그 사람한테 토스 뱅크를 이용해 가지고 돈을 보내면"
+    } ]
+  }, {
+    "tStartMs": 941340,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "50만원까지는 토스에서 돌려줘요"
+    } ]
+  }, {
+    "tStartMs": 945600,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "만약에 내가 사기를 당했다 하면"
+    } ]
+  }, {
+    "tStartMs": 948060,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "아 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 949700,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "그래서 토스에서 받았습니다"
+    } ]
+  }, {
+    "tStartMs": 952240,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "진짜 좋은 방법이네요"
+    } ]
+  }, {
+    "tStartMs": 954150,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "그쵸 혹시 모르니까 송금할 때는"
+    } ]
+  }, {
+    "tStartMs": 958220,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "토스 이용하는거 좋은거 같아요 안전장치로"
+    } ]
+  }, {
+    "tStartMs": 962530,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "그 사기꾼은 감옥 가면 좋겠네요"
+    } ]
+  }, {
+    "tStartMs": 966390,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "그러니까요 저 말고도 많았어요 그 사람이 사기친 거"
+    } ]
+  }, {
+    "tStartMs": 970740,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "제가 경찰서 가서 신고를 해야 되거든요"
+    } ]
+  }, {
+    "tStartMs": 975670,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "그 사람 거래 정보랑 이런 거 해서..."
+    } ]
+  }, {
+    "tStartMs": 978730,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "그러면 경찰서에서 과정을 어느 정도는 알려줘요"
+    } ]
+  }, {
+    "tStartMs": 982470,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "이 사람이 어떻게 됐고 어떻게 처리됐고 하는 것들을"
+    } ]
+  }, {
+    "tStartMs": 986430,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "문자나 어떤 걸로 받았던 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 989310,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "저 말고도 신고 접수된 내역이 좀 있었어요 그 사람한테"
+    } ]
+  }, {
+    "tStartMs": 994790,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "아 참 그렇게 잡힐 텐데 왜 그러나 모르겠어요"
+    } ]
+  }, {
+    "tStartMs": 998640,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "잡혔겠죠 그러니까요"
+    } ]
+  }, {
+    "tStartMs": 1000110,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "잡혔겠죠"
+    } ]
+  }, {
+    "tStartMs": 1001280,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "그런 리스크가 있지만 너무 장점이 많기 때문에"
+    } ]
+  }, {
+    "tStartMs": 1008100,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "자주 사용을 하게 되는 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 1010380,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "저희가 계속 처음부터 '당근' 얘기하고"
+    } ]
+  }, {
+    "tStartMs": 1013180,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "'번개장터' 이런 거 얘기했는데"
+    } ]
+  }, {
+    "tStartMs": 1016480,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "한국에서 많이 사용하는 중고거래 플랫폼 이야기를 좀 해보면 좋을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1021560,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "대표적으로 생각나시는 거 있으세요?"
+    } ]
+  }, {
+    "tStartMs": 1025200,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "지금까지 얘기했던 당근마켓이 가장 대표적일 것 같고"
+    } ]
+  }, {
+    "tStartMs": 1029800,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "그리고 당근마켓 이전에는"
+    } ]
+  }, {
+    "tStartMs": 1032430,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "네이버에서 카페가 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1037830,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "그 네이버 카페 중에 '중고나라'라는 아주 대표적인 중고거래 카페가 있었죠"
+    } ]
+  }, {
+    "tStartMs": 1045570,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1046400,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "네 제가 잘 아는 건 이 두 곳밖에 없는데"
+    } ]
+  }, {
+    "tStartMs": 1052170,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "네 또 디디님이 말씀하신 (- 번개장터)"
+    } ]
+  }, {
+    "tStartMs": 1056330,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "번장"
+    } ]
+  }, {
+    "tStartMs": 1057270,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "저는 중고나라랑 번개장터 차이를... 두 개 특별히 뭐가 다른지는 잘 모르겠거든요"
+    } ]
+  }, {
+    "tStartMs": 1064440,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "근데 중고나라 제가 요즘에 안 써봐서 모르겠는데"
+    } ]
+  }, {
+    "tStartMs": 1068160,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "번개장터는 안심거래 이런 거 좀 잘 되어 있더라고요"
+    } ]
+  }, {
+    "tStartMs": 1073570,
+    "dDurationMs": 8520,
+    "segs": [ {
+      "utf8": "그래서 중간에서 번개장터가 돈을 가지고 있어주는 역할을 해주더라고요"
+    } ]
+  }, {
+    "tStartMs": 1082090,
+    "dDurationMs": 8500,
+    "segs": [ {
+      "utf8": "좋네요 그래서 만약에 사기로 한 사람이 물건을 제대로 못 받으면"
+    } ]
+  }, {
+    "tStartMs": 1090590,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "돈을 다시 돌려받을 수 있는 거네요 번개장터에"
+    } ]
+  }, {
+    "tStartMs": 1094170,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "그렇죠 그렇죠 그렇죠 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1096610,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "그런 장치들이 되어 있고"
+    } ]
+  }, {
+    "tStartMs": 1099280,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "당근마켓이 좀 특이한 플랫폼인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1103710,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "네 번개장터 중고나라는 그냥 온라인으로 이렇게 사고 파는 건데"
+    } ]
+  }, {
+    "tStartMs": 1107880,
+    "dDurationMs": 6830,
+    "segs": [ {
+      "utf8": "당근마켓은 좀 핵심 차별점이 그거잖아요"
+    } ]
+  }, {
+    "tStartMs": 1114710,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "동네에 거래를 하는 거"
+    } ]
+  }, {
+    "tStartMs": 1116710,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "직거래, 직접 만나서 거래하는 플랫폼이 당근마켓이죠"
+    } ]
+  }, {
+    "tStartMs": 1122750,
+    "dDurationMs": 9060,
+    "segs": [ {
+      "utf8": "제 생각엔 그래서 가장 인기 있던 중고나라를 제치고"
+    } ]
+  }, {
+    "tStartMs": 1131810,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "사람들이 중고거래로 대표적으로 생각하는 서비스가 된 게 아닐까 생각을 해요"
+    } ]
+  }, {
+    "tStartMs": 1137600,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "아 당근마켓이 동네를 타겟해서요?"
+    } ]
+  }, {
+    "tStartMs": 1140790,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "네네 직접 거래할 수 있어서"
+    } ]
+  }, {
+    "tStartMs": 1143480,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "아 안전하기도 하고"
+    } ]
+  }, {
+    "tStartMs": 1146370,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1148450,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "직거래의 장점이 또 뭐가 있죠?"
+    } ]
+  }, {
+    "tStartMs": 1150570,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "안전한 거랑 사기를 칠 수 없다는 거랑"
+    } ]
+  }, {
+    "tStartMs": 1155260,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "중고나라의 경우는 제가 알기론"
+    } ]
+  }, {
+    "tStartMs": 1158720,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "그 사고 파는 사람들이 굉장히 많잖아요"
+    } ]
+  }, {
+    "tStartMs": 1163450,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "그래서 팔리고 있는 물건들이 정말 많은데"
+    } ]
+  }, {
+    "tStartMs": 1168670,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "그걸 어떻게 나눌 수 있느냐 보면 그 물건의 카테고리로 나누잖아요"
+    } ]
+  }, {
+    "tStartMs": 1174650,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "그래서 예를 들어 제가 마이크가 사고 싶어요"
+    } ]
+  }, {
+    "tStartMs": 1179020,
+    "dDurationMs": 7890,
+    "segs": [ {
+      "utf8": "그러면 그 중고나라 카페에 마이크 카테고리로 들어가면 마이크들이 쫙 나오는 거죠"
+    } ]
+  }, {
+    "tStartMs": 1186910,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "근데 거기서 저는 직거래를 할 사람을 찾고 있는데"
+    } ]
+  }, {
+    "tStartMs": 1191910,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "그런 경우에는 하나하나 다 봐야 돼요"
+    } ]
+  }, {
+    "tStartMs": 1195710,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "직거래를 하고 싶을 때 찾기가 어려운 거죠"
+    } ]
+  }, {
+    "tStartMs": 1198750,
+    "dDurationMs": 7950,
+    "segs": [ {
+      "utf8": "직거래를 선호하는 거는 상태를 확인할 수 있고 이런 것 때문에 하고 싶은데"
+    } ]
+  }, {
+    "tStartMs": 1206700,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "번개장터나 중고나라는 찾기가 어려웠었죠?"
+    } ]
+  }, {
+    "tStartMs": 1211060,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "네네 그리고 그거랑 관련돼서"
+    } ]
+  }, {
+    "tStartMs": 1216860,
+    "dDurationMs": 6950,
+    "segs": [ {
+      "utf8": "또 한 가지 엄청 큰 장점? 당근마켓의 장점?"
+    } ]
+  }, {
+    "tStartMs": 1223810,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "아니면 성공 요소가 있다고 생각하는데요"
+    } ]
+  }, {
+    "tStartMs": 1228140,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "항상 물건을 사는 것보다"
+    } ]
+  }, {
+    "tStartMs": 1233650,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "살 물건 없나 찾아보는 게 가장 재밌거든요"
+    } ]
+  }, {
+    "tStartMs": 1238740,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "뭔지 알아요"
+    } ]
+  }, {
+    "tStartMs": 1241130,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "근데 중고나라는 워낙 카테고리가 넓고"
+    } ]
+  }, {
+    "tStartMs": 1244320,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "특정 카테고리를 생각해야 찾아갈 수 있는데"
+    } ]
+  }, {
+    "tStartMs": 1248290,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "근데 당근마켓은 그냥 내 동네에 뭐 살 거 없나 하고 찾아볼 수가 있고"
+    } ]
+  }, {
+    "tStartMs": 1252460,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "그냥 둘러볼 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 1254760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "약간 그런 느낌이죠"
+    } ]
+  }, {
+    "tStartMs": 1256440,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "소품샵 같은데 그냥 괜히 들어가 보게 되잖아요"
+    } ]
+  }, {
+    "tStartMs": 1259920,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "'뭐 살 거 없나?' 이렇게"
+    } ]
+  }, {
+    "tStartMs": 1262100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "사고 싶은 거 없지만 구경하러 가기도 하고"
+    } ]
+  }, {
+    "tStartMs": 1265600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1267720,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "당근마켓 한 번 들어가면 좀 오래 보게 되잖아요"
+    } ]
+  }, {
+    "tStartMs": 1273060,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1274180,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "그리고 요즘은 당근마켓이 그것도 있더라고요"
+    } ]
+  }, {
+    "tStartMs": 1277360,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "이제 동네 거래라는 거를 살려가지고"
+    } ]
+  }, {
+    "tStartMs": 1280570,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "동네에서 할 수 있는 많은 것들을 시도하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1285290,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "예를 들면 중고차 같은 것도 동네에서 보고 살 수 있게 하고"
+    } ]
+  }, {
+    "tStartMs": 1290780,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "아니면 동네 아르바이트,"
+    } ]
+  }, {
+    "tStartMs": 1294910,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "아르바이트 할 수 있는 것도 찾고 구하고 하는 거 할 수 있게 해두고"
+    } ]
+  }, {
+    "tStartMs": 1300260,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "그리고 요즘은 모임 같은 것도, 동네 모임 같은 것도 당근에서 찾더라고요"
+    } ]
+  }, {
+    "tStartMs": 1305470,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1307300,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "저랑 친구가 그렇게 당근마켓에서"
+    } ]
+  }, {
+    "tStartMs": 1312370,
+    "dDurationMs": 8060,
+    "segs": [ {
+      "utf8": "보드게임 모임 하실 분 이렇게 광고 글을 올린 적이 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1320430,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "우리 보드게임 모임 합니다 하고 싶은 분 연락 주세요 이렇게 했는데"
+    } ]
+  }, {
+    "tStartMs": 1325370,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "아무도 연락을 안 주더라고요 ..."
+    } ]
+  }, {
+    "tStartMs": 1327870,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "아 그거 좀 재밌게 만들어야 돼요 게시물"
+    } ]
+  }, {
+    "tStartMs": 1331970,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "아 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1334350,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "저희가 너무 좀 딱딱하게 차갑게 올려서 그런가 싶기도 하고"
+    } ]
+  }, {
+    "tStartMs": 1338990,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "정직하게 올리셨구나"
+    } ]
+  }, {
+    "tStartMs": 1341380,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1342110,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "요즘에 또 유행하는 게 그거 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1344670,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "경찰과 도둑 모임하는 거 보셨어요?"
+    } ]
+  }, {
+    "tStartMs": 1347940,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "경찰과 도둑은 어릴 때 하던 놀이 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 1351570,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그쵸 경찰이 있고 도둑이 있어가지고 막 뛰어다니면서 잡는 놀이 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1357570,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "그거 요즘 당근마켓에서 유행해요"
+    } ]
+  }, {
+    "tStartMs": 1361090,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "네?"
+    } ]
+  }, {
+    "tStartMs": 1362760,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "태웅쌤 릴스 이런 거 잘 안 보시나요?"
+    } ]
+  }, {
+    "tStartMs": 1365670,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1366190,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "아 릴스를 이렇게 내리다 보면은"
+    } ]
+  }, {
+    "tStartMs": 1369090,
+    "dDurationMs": 7700,
+    "segs": [ {
+      "utf8": "막 '저 오늘 당근마켓에서 경찰과 도둑했어요' 이런 영상들이 보이거든요"
+    } ]
+  }, {
+    "tStartMs": 1376790,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "그게 뭐냐면 그냥 '오늘 어디 어디 공원에서 경찰과 도둑할 사람 모집'"
+    } ]
+  }, {
+    "tStartMs": 1383650,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "이런 글을 누가 올려요"
+    } ]
+  }, {
+    "tStartMs": 1385920,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "그러면 한 20명의 성인들 아니면 학생들이 모여가지고"
+    } ]
+  }, {
+    "tStartMs": 1391010,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "모르는 사람들인데 딱 1시간 동안,"
+    } ]
+  }, {
+    "tStartMs": 1394280,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "2시간 동안 경찰과 도둑 그 게임만 하고 헤어지는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1398940,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "일회성 만남이라는 거 그러니까 사람들이 그런 모임을 가지는 거에"
+    } ]
+  }, {
+    "tStartMs": 1403240,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "좀 피곤함을 느끼는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1405690,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "나는 러닝하러 가고 싶었는데 아니면 그냥 혼자 있기가 외로운데"
+    } ]
+  }, {
+    "tStartMs": 1411450,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "좀 사람들... 뭐라고 해야 되지?"
+    } ]
+  }, {
+    "tStartMs": 1414070,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "깊은 관계를 맺고 싶진 않고"
+    } ]
+  }, {
+    "tStartMs": 1416320,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "그냥 잠깐 이렇게 도파민 터지면서 놀고 싶다 하는 사람들이"
+    } ]
+  }, {
+    "tStartMs": 1421910,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "이제 가게 된 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1427490,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "오 되게 재밌다"
+    } ]
+  }, {
+    "tStartMs": 1430270,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "당근에 한번 검색해보세요"
+    } ]
+  }, {
+    "tStartMs": 1432090,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "경찰과 도둑 하면은 멤버가 엄청 많아요"
+    } ]
+  }, {
+    "tStartMs": 1435360,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "아 진짜요?"
+    } ]
+  }, {
+    "tStartMs": 1436320,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "많던데요?"
+    } ]
+  }, {
+    "tStartMs": 1437470,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "서울에만 있는 거 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 1439020,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "그러니까 저도 궁금해요"
+    } ]
+  }, {
+    "tStartMs": 1441920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "부산에 있지 않을까요?"
+    } ]
+  }, {
+    "tStartMs": 1444000,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "없을 것 같은데 그런 게 있나?"
+    } ]
+  }, {
+    "tStartMs": 1446030,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "'해운대에서 경찰과 도둑하실 분'"
+    } ]
+  }, {
+    "tStartMs": 1449700,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "재밌긴 하겠다 (- 광안리 보면서...)"
+    } ]
+  }, {
+    "tStartMs": 1453540,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "저 그러면 진짜 안 잡힐 자신 있어요"
+    } ]
+  }, {
+    "tStartMs": 1458630,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "술래 잘하셨어요?"
+    } ]
+  }, {
+    "tStartMs": 1460510,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "술래?"
+    } ]
+  }, {
+    "tStartMs": 1462340,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "술래가 도망치는 역할이죠?"
+    } ]
+  }, {
+    "tStartMs": 1464800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "어? 술래가 잡는 건가?"
+    } ]
+  }, {
+    "tStartMs": 1466000,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "아니 술래가 잡는 거 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 1468070,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "아 술래가 잡는 거고 그럼 도둑 역할을 잘 하실 수 있는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 1471820,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 1474110,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "아 해보고 싶다"
+    } ]
+  }, {
+    "tStartMs": 1475010,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "확 확 이렇게!"
+    } ]
+  }, {
+    "tStartMs": 1478200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "오 전 자신 없는데..."
+    } ]
+  }, {
+    "tStartMs": 1482440,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "저는 자신 있습니다"
+    } ]
+  }, {
+    "tStartMs": 1483910,
+    "dDurationMs": 650,
+    "segs": [ {
+      "utf8": "진짜요?"
+    } ]
+  }, {
+    "tStartMs": 1484560,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "나중에 구독자분들이랑 해도 재밌겠다 경찰과 도둑"
+    } ]
+  }, {
+    "tStartMs": 1488550,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "한번 해볼까요?"
+    } ]
+  }, {
+    "tStartMs": 1489750,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "어 그럴까요?"
+    } ]
+  }, {
+    "tStartMs": 1490620,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "보드게임 한 판 하고 윷놀이 한 판 하고"
+    } ]
+  }, {
+    "tStartMs": 1494010,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "경찰과 도둑, 몸으로 노는 놀이"
+    } ]
+  }, {
+    "tStartMs": 1497220,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "너무 재밌을 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 1499740,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "계획해봅시다"
+    } ]
+  }, {
+    "tStartMs": 1500780,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "와 좋은데요"
+    } ]
+  }, {
+    "tStartMs": 1502250,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 1503940,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "그 유행하니까 얼마나 검증이 된거에요 재밌다고"
+    } ]
+  }, {
+    "tStartMs": 1507680,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "음 그러니까 좋습니다 아무튼 네네"
+    } ]
+  }, {
+    "tStartMs": 1512750,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "그래서 당근마켓으로 경찰과 도둑이 유행을 한다?"
+    } ]
+  }, {
+    "tStartMs": 1517700,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "네ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1519490,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "참 이야 그런 것까지 하는구나"
+    } ]
+  }, {
+    "tStartMs": 1523170,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "맞아요 모임을 넘어서 이제 새로운 것들이 계속 그렇게 발견이 되는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1528130,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "그런 모임도 같은 동네에서 하겠네요?"
+    } ]
+  }, {
+    "tStartMs": 1532710,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "그쵸 같은 동네에서 뭐 우리 동네에 유명한 공원 이런 거 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1538480,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "거기 공원에서 경찰과 도둑 하실 분"
+    } ]
+  }, {
+    "tStartMs": 1541420,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "이렇게 오프라인으로 만날 수 있는 게 가능하죠"
+    } ]
+  }, {
+    "tStartMs": 1544060,
+    "dDurationMs": 7090,
+    "segs": [ {
+      "utf8": "아쉽다 사실은 저는 제 동네에서 당근마켓으로"
+    } ]
+  }, {
+    "tStartMs": 1551150,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "제가 보드게임 모임을 만들지 못할지언정"
+    } ]
+  }, {
+    "tStartMs": 1554270,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "다른 보드게임 모임에 들어가보려고 했는데 아쉽게도 많이 없더라고요"
+    } ]
+  }, {
+    "tStartMs": 1560850,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "태웅쌤 동네에는 많이 없어요? 보드게임 모임이?"
+    } ]
+  }, {
+    "tStartMs": 1563580,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "네 참 아쉬웠습니다"
+    } ]
+  }, {
+    "tStartMs": 1567800,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "아쉽다 왜일까?"
+    } ]
+  }, {
+    "tStartMs": 1570760,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "젊은이들이 많이 없는 동네인가요?"
+    } ]
+  }, {
+    "tStartMs": 1573280,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "네, 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1575070,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "그러면 멤버들을 소중히 하셔야겠어요 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1579580,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "지금은 다 없어졌어요"
+    } ]
+  }, {
+    "tStartMs": 1582220,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "진짜요? 다 바빠졌어요?"
+    } ]
+  }, {
+    "tStartMs": 1584730,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "네 시간이..."
+    } ]
+  }, {
+    "tStartMs": 1586340,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "다들 공부하랴, 일하랴, 집안일하랴 바빠서..."
+    } ]
+  }, {
+    "tStartMs": 1591910,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "중요하죠 아쉽다"
+    } ]
+  }, {
+    "tStartMs": 1594240,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "그러니까 구독자분들이랑 모였을 때나"
+    } ]
+  }, {
+    "tStartMs": 1597310,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "이럴 때 한번씩 해요 보드게임"
+    } ]
+  }, {
+    "tStartMs": 1600340,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 1601380,
+    "dDurationMs": 7300,
+    "segs": [ {
+      "utf8": "그러면 마지막으로 중고거래 용어 좀 소개해드리고 싶거든요"
+    } ]
+  }, {
+    "tStartMs": 1608680,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "저희가 지금까지 얘기 나온 게 '직거래' 있었고요"
+    } ]
+  }, {
+    "tStartMs": 1612970,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "직접 만나서 거래하는 거"
+    } ]
+  }, {
+    "tStartMs": 1614910,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "그리고 이제 거래 약속을 할 때 또 많이 사용되는 말이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1622410,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "이렇게 첫 번째로 먼저 보내잖아요"
+    } ]
+  }, {
+    "tStartMs": 1624490,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "\"네고 가능할까요?\""
+    } ]
+  }, {
+    "tStartMs": 1627550,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "네고 무슨 뜻이죠?"
+    } ]
+  }, {
+    "tStartMs": 1629170,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "네고!"
+    } ]
+  }, {
+    "tStartMs": 1630240,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "영어로 negotiation의 한국식 발음인 네고시에이션을"
+    } ]
+  }, {
+    "tStartMs": 1637860,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "앞 두 글자만 따서 네고라고 부르는 말인데요"
+    } ]
+  }, {
+    "tStartMs": 1643780,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "가격을 좀 깎아달라는 말입니다"
+    } ]
+  }, {
+    "tStartMs": 1647110,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "'네고 좀 해주세요'"
+    } ]
+  }, {
+    "tStartMs": 1648980,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "'얼마까지 네고 가능할까요?' 이렇게..."
+    } ]
+  }, {
+    "tStartMs": 1653580,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "너무 웃긴 말 같아요"
+    } ]
+  }, {
+    "tStartMs": 1655650,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "웃긴 말 같아요?"
+    } ]
+  }, {
+    "tStartMs": 1658220,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "네 그러니까... 영어권 사람들이 보면 되게 신기할 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1664810,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "그렇잖아요 negotiation이잖아요"
+    } ]
+  }, {
+    "tStartMs": 1667100,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "그렇죠 negotiation 가능할까요? 이렇게"
+    } ]
+  }, {
+    "tStartMs": 1669490,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "그러면 Can we Nego? 이거잖아요"
+    } ]
+  }, {
+    "tStartMs": 1673690,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "힙한데요? 아닌가?"
+    } ]
+  }, {
+    "tStartMs": 1675720,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "좀 뭔가 오해의 소지가 있을 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 1680280,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "니! 고!"
+    } ]
+  }, {
+    "tStartMs": 1684390,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "그리고 약간 '깎아달라'고 하는 게 좀... 뭐랄까? 없어 보이잖아요"
+    } ]
+  }, {
+    "tStartMs": 1689660,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "없어 보이는 느낌이 있지 않나?"
+    } ]
+  }, {
+    "tStartMs": 1692950,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "그것도 맞는데요"
+    } ]
+  }, {
+    "tStartMs": 1694690,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1695260,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "전 그래서 이 네고라는 말이 좀 더 이상하게 들리는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1699190,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "왜요? 왜요?"
+    } ]
+  }, {
+    "tStartMs": 1700270,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "아니 깎아달라고 부탁하는 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 1704430,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "어? 왜요?"
+    } ]
+  }, {
+    "tStartMs": 1705630,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "아니 그 파는 사람한테..."
+    } ]
+  }, {
+    "tStartMs": 1709060,
+    "dDurationMs": 6350,
+    "segs": [ {
+      "utf8": "파는 사람이 얼마에 팔겠다라고 정해준 값이 있는데"
+    } ]
+  }, {
+    "tStartMs": 1715410,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "제가 감히, 제가 조금만 더 싸게 살 수 있을까요? 라고 부탁을 하는 건데"
+    } ]
+  }, {
+    "tStartMs": 1722530,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1723710,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "그러면 \"깎아줄 수 있어요?\" 이렇게 하는 거랑"
+    } ]
+  }, {
+    "tStartMs": 1728460,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "\"네고 가능합니까?\" 이거는"
+    } ]
+  }, {
+    "tStartMs": 1731290,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 1732650,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "좀 뉘앙스가 다른 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1734930,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "아 맞아요 네고 요청할 때도 잘해야죠 잘해야죠"
+    } ]
+  }, {
+    "tStartMs": 1739790,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 1740790,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "그렇게 다짜고짜 하면은 거래 안 하고 싶어지죠"
+    } ]
+  }, {
+    "tStartMs": 1745410,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1747140,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "뭐, 안 좋은 요청을 받은 적이 있으신가요?"
+    } ]
+  }, {
+    "tStartMs": 1752340,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "딱히 안 좋은 요청이라고 하긴 애매하지만"
+    } ]
+  }, {
+    "tStartMs": 1756930,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "그냥 나는 충분히 싸게 올린 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 1762500,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "또 깎아달라고 하는 사람들이 당연히 있을 수 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1765950,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "네네네"
+    } ]
+  }, {
+    "tStartMs": 1767260,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "근데 '네고 가능한가요?' 이렇게..."
+    } ]
+  }, {
+    "tStartMs": 1771060,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "딱 보내버리면... 네 기분 팍 상해버려요"
+    } ]
+  }, {
+    "tStartMs": 1775650,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "네 아니 \"맡겨놨나?!\" 이런 생각이 들잖아요"
+    } ]
+  }, {
+    "tStartMs": 1780440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "와 이거 다른 얘기지만 \"맡겨놨나\" 이거 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1784760,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1785570,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "제가 완전 그 부산 사투리 표본이라고 생각하는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1790900,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 1791780,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "네 되게 세게 들려요"
+    } ]
+  }, {
+    "tStartMs": 1796800,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "아, 방금 억양이 사투리도 아니었는데?"
+    } ]
+  }, {
+    "tStartMs": 1800630,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "아니었긴 한데 \"맡겨놨나?!\" 이렇게 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 1805500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "그렇구나"
+    } ]
+  }, {
+    "tStartMs": 1807900,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "재밌습니다"
+    } ]
+  }, {
+    "tStartMs": 1810460,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "그래서 저는 네고 대신에 '택포' 라는 말이 있어요 택포"
+    } ]
+  }, {
+    "tStartMs": 1815640,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "택포, 모르시나요?"
+    } ]
+  }, {
+    "tStartMs": 1817040,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "택포? 택배비 포함?"
+    } ]
+  }, {
+    "tStartMs": 1818780,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1821090,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "택포로 가능할까요? 이렇게 (하는 편이에요)"
+    } ]
+  }, {
+    "tStartMs": 1825810,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "그거를 보통 언제 물어보세요?"
+    } ]
+  }, {
+    "tStartMs": 1828910,
+    "dDurationMs": 8650,
+    "segs": [ {
+      "utf8": "저는 구매할 때 바로 '저 지금 바로 사고 싶은데 혹시 택포가로 가능할까요?' 이렇게 하면"
+    } ]
+  }, {
+    "tStartMs": 1837560,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "택배비가 3,000원, 4,000원 드는데"
+    } ]
+  }, {
+    "tStartMs": 1839980,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "그거라도 조금 깎아주시는 분들이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1845740,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "보통은 깎아주시는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1847680,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "아 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 1849400,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "바로 이렇게 귀찮게 안 하고 '상태 어때요? 뭐가 어때요?'"
+    } ]
+  }, {
+    "tStartMs": 1852990,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "이런 거 안 하고 '바로 할 건데 이 정도만 깎아주세요'"
+    } ]
+  }, {
+    "tStartMs": 1856440,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "이렇게 흥정을 하는 것도 중고거래의 묘미이기도 하죠"
+    } ]
+  }, {
+    "tStartMs": 1861220,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1864530,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "저도 가끔 깎아달라고 하거든요"
+    } ]
+  }, {
+    "tStartMs": 1867520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "근데 저는 처음에 안 물어보고"
+    } ]
+  }, {
+    "tStartMs": 1871520,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "그러니까 일단 깎아... 깎아서 살 수 있다는 기대를 안 하고"
+    } ]
+  }, {
+    "tStartMs": 1879800,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "그냥 바로 산다고 하거든요"
+    } ]
+  }, {
+    "tStartMs": 1883230,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "'이거 아직 살 수 있나요? 안 팔렸나요? 제가 사고 싶어요'"
+    } ]
+  }, {
+    "tStartMs": 1888550,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "그러면 '언제 시간 되세요? 제가 가겠습니다 어디로 가면 될까요?'"
+    } ]
+  }, {
+    "tStartMs": 1892190,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "이렇게 딱 아주 예의 바른 모습을 보여주고"
+    } ]
+  }, {
+    "tStartMs": 1896540,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "뭐 말만 하면 '감사합니다 그러면 어디로 갈까요?'"
+    } ]
+  }, {
+    "tStartMs": 1899460,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "'감사합니다 그러면 몇 시에 갈까요?' 이렇게..."
+    } ]
+  }, {
+    "tStartMs": 1902530,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "순종적이다 네"
+    } ]
+  }, {
+    "tStartMs": 1904070,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "그렇게 라포 형성을 한 다음에요"
+    } ]
+  }, {
+    "tStartMs": 1907770,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "착한 사람이네 이런 걸 좀 주고"
+    } ]
+  }, {
+    "tStartMs": 1910580,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "그렇죠 그렇죠 그리고 이제 다 약속해서 갈 때"
+    } ]
+  }, {
+    "tStartMs": 1915150,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "혹시 가능하다면 조금 할인이 가능할까요? 이렇게...ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1919320,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "갈 때?"
+    } ]
+  }, {
+    "tStartMs": 1920510,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1924320,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "그러면 어때요? 잘 먹혀요 그 방법이?"
+    } ]
+  }, {
+    "tStartMs": 1927620,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "근데 그걸 또 물어볼 때"
+    } ]
+  }, {
+    "tStartMs": 1930270,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "진짜 간절하게 제발 깎아주세요가 아니라"
+    } ]
+  }, {
+    "tStartMs": 1933980,
+    "dDurationMs": 6710,
+    "segs": [ {
+      "utf8": "근데 혹시 깎을 수 있으면... 깎을 수 있나요? 이런..."
+    } ]
+  }, {
+    "tStartMs": 1940690,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "'안 깎아주셔도 괜찮습니다' 이렇게 얘기를 해요"
+    } ]
+  }, {
+    "tStartMs": 1945560,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "그러면 되게 높은 확률로, 되게 유쾌하게 '그래요 그럼 이만큼 할인해드릴게요'"
+    } ]
+  }, {
+    "tStartMs": 1953960,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "'차비 깎아드릴게요' 이런 식으로 해주더라고요"
+    } ]
+  }, {
+    "tStartMs": 1959130,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "와 똑똑하다 되게 전략적이시네요"
+    } ]
+  }, {
+    "tStartMs": 1965400,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "그렇죠 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1966720,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "근데 제가 그걸 듣고 좀 생각난 안 좋은 기억이 하나 떠올랐는데"
+    } ]
+  }, {
+    "tStartMs": 1971620,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "태웅쌤은 되게 좋은 케이스고"
+    } ]
+  }, {
+    "tStartMs": 1973370,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "나쁜 케이스를 제가 한번 만난 게,"
+    } ]
+  }, {
+    "tStartMs": 1977250,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "제가 파는 상황이었어요"
+    } ]
+  }, {
+    "tStartMs": 1979040,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "그래서 만나기로 약속 다 했어요"
+    } ]
+  }, {
+    "tStartMs": 1980940,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "뭐 네고 이런 얘기 하나도 안 했어요"
+    } ]
+  }, {
+    "tStartMs": 1983320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "근데 만나서 이제 물건을 주는데 돈을, 예를 들면 2만 원이에요"
+    } ]
+  }, {
+    "tStartMs": 1989240,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "그러면 한 18,000원만 가지고 온 거예요 그 사람이"
+    } ]
+  }, {
+    "tStartMs": 1995190,
+    "dDurationMs": 8970,
+    "segs": [ {
+      "utf8": "그러면서 제가 그 어플 옵션에 뭐 '가격 네고 가능' 뭐 이렇게 적어두긴 했었거든요"
+    } ]
+  }, {
+    "tStartMs": 2004160,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "근데 그거를 만나서 돈을 조금만 가져온 다음에"
+    } ]
+  }, {
+    "tStartMs": 2008900,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "\"네고 가능하다고 적혀있었잖아요\" 하면서"
+    } ]
+  }, {
+    "tStartMs": 2013270,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "그 돈만 가져왔다고 그러는 거예요"
+    } ]
+  }, {
+    "tStartMs": 2018640,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "진짜 기분이 너무... 짜증이 났어요 그때"
+    } ]
+  }, {
+    "tStartMs": 2022980,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "와 진짜 그런 사람이 있구나..."
+    } ]
+  }, {
+    "tStartMs": 2026880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "미친 거 아니에요?ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2029880,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "저는 그 네고 가능이라고 표시를 한 줄도 모르고 있었어요"
+    } ]
+  }, {
+    "tStartMs": 2033510,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "그게 그냥 자동으로 뭐 체크가 됐었던 것 같은데 아무튼 그거 보고"
+    } ]
+  }, {
+    "tStartMs": 2038880,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "자기 마음대로 그 가격을 정한 다음에 돈을 그것만 가져온 거예요"
+    } ]
+  }, {
+    "tStartMs": 2045540,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "진짜 어이가 없죠?"
+    } ]
+  }, {
+    "tStartMs": 2047900,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "그 사람, 당근마켓이었어요?"
+    } ]
+  }, {
+    "tStartMs": 2050040,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "당근마켓이었어요"
+    } ]
+  }, {
+    "tStartMs": 2051580,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "와 그 사람 온도 몇 도였어요?"
+    } ]
+  }, {
+    "tStartMs": 2054290,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "온도 괜찮았던 것 같은데?"
+    } ]
+  }, {
+    "tStartMs": 2057760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "모르겠네요"
+    } ]
+  }, {
+    "tStartMs": 2060520,
+    "dDurationMs": 7460,
+    "segs": [ {
+      "utf8": "참고로 당근마켓에는 프로필에 사람들의 '온도'가 있는데요"
+    } ]
+  }, {
+    "tStartMs": 2067980,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "알다시피 우리 인간의 체온이 36.5도라고 하죠"
+    } ]
+  }, {
+    "tStartMs": 2072960,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "그래서 그게 우리 기본 점수인데, 당근마켓 아이디 기본 점수인데"
+    } ]
+  }, {
+    "tStartMs": 2078750,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "사람들이랑 중고거래를 많이 하면서 좋은 후기를 많이 받을수록"
+    } ]
+  }, {
+    "tStartMs": 2083470,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그 온도가 올라가요"
+    } ]
+  }, {
+    "tStartMs": 2085470,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "따뜻한 사람이 되죠?"
+    } ]
+  }, {
+    "tStartMs": 2087140,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "네, 저는 한 40도 정도..."
+    } ]
+  }, {
+    "tStartMs": 2091460,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "근데 오랫동안 안 써서 좀 떨어졌을 수도 있는데"
+    } ]
+  }, {
+    "tStartMs": 2094090,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "확인하고 캡처 보내드리겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2098100,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "나도 궁금하다 잠깐만 한번 볼게요"
+    } ]
+  }, {
+    "tStartMs": 2100250,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "네네 ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2101980,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "28도 이런 거 아니겠지? 어?"
+    } ]
+  }, {
+    "tStartMs": 2106690,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "저는 39.2도네요"
+    } ]
+  }, {
+    "tStartMs": 2109160,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "높네요"
+    } ]
+  }, {
+    "tStartMs": 2110110,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "그러네요"
+    } ]
+  }, {
+    "tStartMs": 2110750,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "저도 착합니다"
+    } ]
+  }, {
+    "tStartMs": 2112560,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 2114300,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "근데 반대로 안 좋은 후기를 많이 받으면"
+    } ]
+  }, {
+    "tStartMs": 2120100,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "그게 떨어져요"
+    } ]
+  }, {
+    "tStartMs": 2121620,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "그렇죠 그렇죠 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2124450,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "그래서 괜히 35도 이러면 1.5도 차이인데도 좀 쎄하죠"
+    } ]
+  }, {
+    "tStartMs": 2132610,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "그런 것도 잘 확인하는 거 중요하겠네요"
+    } ]
+  }, {
+    "tStartMs": 2137050,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "저는 무조건 이전에 팔았던 물건들이랑 후기들을 확인하고 삽니다"
+    } ]
+  }, {
+    "tStartMs": 2143520,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "그 이유는 뭐예요?"
+    } ]
+  }, {
+    "tStartMs": 2145670,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "이 사람이 믿을만한 사람인지 그런 걸 알려주니까?"
+    } ]
+  }, {
+    "tStartMs": 2149890,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 2152370,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "그런 어이없는 일도 있었어요"
+    } ]
+  }, {
+    "tStartMs": 2154410,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "와 진짜 진짜..."
+    } ]
+  }, {
+    "tStartMs": 2156830,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "양아치 양아치"
+    } ]
+  }, {
+    "tStartMs": 2158500,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "처음 보는 유형의 사람이네요"
+    } ]
+  }, {
+    "tStartMs": 2164410,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "아무튼 이게 네고, 택포 이런 이야기 있었고"
+    } ]
+  }, {
+    "tStartMs": 2168740,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "또 '쿨거래' 이런 말도 있어요"
+    } ]
+  }, {
+    "tStartMs": 2172350,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "쿨거래"
+    } ]
+  }, {
+    "tStartMs": 2175330,
+    "dDurationMs": 7990,
+    "segs": [ {
+      "utf8": "쿨하게 그냥 묻지도 따지지도 말고 '바로 사겠습니다' 이런 거 좋아하시는 분들은"
+    } ]
+  }, {
+    "tStartMs": 2183320,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "'쿨거래 환영' 이렇게 적어놔요"
+    } ]
+  }, {
+    "tStartMs": 2186270,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "맞아요 빨리 별 이야기 없이 빨리 팔고 싶은 사람들이  그렇게 하죠"
+    } ]
+  }, {
+    "tStartMs": 2191760,
+    "dDurationMs": 8970,
+    "segs": [ {
+      "utf8": "그래서 되게 설명글이 굉장히 효율적일 때가 있더라고요"
+    } ]
+  }, {
+    "tStartMs": 2200730,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "'쿨거래시 택포 5만원 네고 가능' 이렇게"
+    } ]
+  }, {
+    "tStartMs": 2205670,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "우리 얘기한 거 다 나왔죠?"
+    } ]
+  }, {
+    "tStartMs": 2207370,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "맞아요 얘기한 거 다 나왔네요"
+    } ]
+  }, {
+    "tStartMs": 2210080,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "그냥 빠르게 사주시면 좀 깎아줄 거고 택배 포함비로 보내준다 이런 건데..."
+    } ]
+  }, {
+    "tStartMs": 2216580,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "되게 전문용어다 그거"
+    } ]
+  }, {
+    "tStartMs": 2217920,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "외국분들이 보시면 '이게 뭐야' 할 것 같은 문장이네요"
+    } ]
+  }, {
+    "tStartMs": 2221500,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 2222750,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "아, 그리고 이것까지만 하나만 더 알려드리면"
+    } ]
+  }, {
+    "tStartMs": 2225830,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "요즘에 '문고리 거래' 이런 말도 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 2229150,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "문고리 거래"
+    } ]
+  }, {
+    "tStartMs": 2230660,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "저는 그거 얘기만 들어봤거든요"
+    } ]
+  }, {
+    "tStartMs": 2232950,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "아, 네"
+    } ]
+  }, {
+    "tStartMs": 2233900,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "그게 어떤 건가요?"
+    } ]
+  }, {
+    "tStartMs": 2235100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "이게 어떤 거냐면 아까 태웅쌤이 나눔하실 때"
+    } ]
+  }, {
+    "tStartMs": 2239300,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "공짜로 주는 대신에 우리 집 앞까지 찾아와서 가져가세요라고 했잖아요"
+    } ]
+  }, {
+    "tStartMs": 2244960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그러니까 문고리가 우리 집 문, 손잡이라는 뜻인데"
+    } ]
+  }, {
+    "tStartMs": 2248960,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "원래는 이 손잡이에 종이 가방 같은 거를 걸어서"
+    } ]
+  }, {
+    "tStartMs": 2253070,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "그렇게 거래하겠습니다 라는 뜻인데"
+    } ]
+  }, {
+    "tStartMs": 2255920,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "그냥 집 앞에 놔둔다"
+    } ]
+  }, {
+    "tStartMs": 2258690,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "만나지 않고 집 앞에 놔둘 테니까 알아서 가져가세요"
+    } ]
+  }, {
+    "tStartMs": 2262370,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "돈은 그냥 보내주세요 하는 그런 유형을 문고리 거래라고 해요"
+    } ]
+  }, {
+    "tStartMs": 2268760,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "아 근데 그거는 좀 위험할 수도 있겠네요"
+    } ]
+  }, {
+    "tStartMs": 2272740,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "맞아요 저도 그렇게 생각해요"
+    } ]
+  }, {
+    "tStartMs": 2274640,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "집 주소가 노출되죠?"
+    } ]
+  }, {
+    "tStartMs": 2276740,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "네 그렇기도 하고 저는 중고거래는 아닌데"
+    } ]
+  }, {
+    "tStartMs": 2282170,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "예전에 제가 방글라데시 있을 때 제 집에 있던 큰 외장하드, SSD?"
+    } ]
+  }, {
+    "tStartMs": 2288580,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "그거를 친구한테 줘야 하는 일이 있었어요"
+    } ]
+  }, {
+    "tStartMs": 2293600,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "아 네"
+    } ]
+  }, {
+    "tStartMs": 2294660,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "그래서 그거를 저는 방글라데시에 있으니까"
+    } ]
+  }, {
+    "tStartMs": 2298710,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "엄마한테 부탁해서 어머니께 부탁해서"
+    } ]
+  }, {
+    "tStartMs": 2302140,
+    "dDurationMs": 7970,
+    "segs": [ {
+      "utf8": "엄마가 제 서랍에서 그 외장하드를 꺼내서 저희 집 우편함에 넣어놨거든요"
+    } ]
+  }, {
+    "tStartMs": 2310110,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "그리고 친구한테 우리 집 지나갈 때 가지고 가라고"
+    } ]
+  }, {
+    "tStartMs": 2314250,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "근데 다른 사람이 갖고 갔어요"
+    } ]
+  }, {
+    "tStartMs": 2318250,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "어떡해, 거기 뭐 들어있었어요? 외장하드 안에?"
+    } ]
+  }, {
+    "tStartMs": 2321700,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "중요한 건 없었어요"
+    } ]
+  }, {
+    "tStartMs": 2323860,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "진짜 다행이다"
+    } ]
+  }, {
+    "tStartMs": 2325890,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "제가 그때 그 안에 음악 만들 때 사용하던 프로그램들 설치 파일?"
+    } ]
+  }, {
+    "tStartMs": 2334050,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "그런 것들 막 있었는데"
+    } ]
+  }, {
+    "tStartMs": 2337980,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "근데 그게 뭐 방글라데시에서 갖고 있던 노트북에 그 프로그램들이 없어서"
+    } ]
+  }, {
+    "tStartMs": 2344080,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "그걸 친구가 대신 외장하드에서 빼서 보내줘라 이렇게 부탁하려고 했는데"
+    } ]
+  }, {
+    "tStartMs": 2349790,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "그거를..."
+    } ]
+  }, {
+    "tStartMs": 2351550,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "뭐야 도둑이네?"
+    } ]
+  }, {
+    "tStartMs": 2352800,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2355050,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "오 안전하다 생각했는데 그래도 한국은"
+    } ]
+  }, {
+    "tStartMs": 2357760,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "많이 안 가져가지 않을까 했는데"
+    } ]
+  }, {
+    "tStartMs": 2360220,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 2362820,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "아무튼 문고리 하니까 생각이 나네요"
+    } ]
+  }, {
+    "tStartMs": 2366880,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "맞아요 진짜 이거는 오기 직전에 내놓거나 그렇게 해야 되는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2373480,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "몇 분에 도착하니까 그때 꺼내주세요 이런 식으로"
+    } ]
+  }, {
+    "tStartMs": 2379540,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "좀 조심해야 되겠네요 이거는"
+    } ]
+  }, {
+    "tStartMs": 2381820,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 2383520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "여기까지 중고거래 이야기를 해봤고요"
+    } ]
+  }, {
+    "tStartMs": 2387560,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "저희는 다음 코너로 넘어가 보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2390980,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2394590,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "\u003c말로 하는 미니게임!\u003e"
+    } ]
+  }, {
+    "tStartMs": 2402580,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "이번에도 말로 하는 미니게임 코너고요"
+    } ]
+  }, {
+    "tStartMs": 2405990,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "오늘 게임은 저번이랑 좀 비슷한 게임이에요"
+    } ]
+  }, {
+    "tStartMs": 2410420,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "맞추기 게임인데요"
+    } ]
+  }, {
+    "tStartMs": 2413540,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "뭘 맞춰볼 거냐면"
+    } ]
+  }, {
+    "tStartMs": 2415340,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "한국에서는 중고거래로 팔 수 없는 물건들이"
+    } ]
+  }, {
+    "tStartMs": 2419550,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "법적으로 정해져 있어요"
+    } ]
+  }, {
+    "tStartMs": 2423320,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "그래서 번갈아가면서 하나씩 이야기를 할 거고"
+    } ]
+  }, {
+    "tStartMs": 2428110,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "다섯 가지 이야기를 할 거예요 다섯 가지"
+    } ]
+  }, {
+    "tStartMs": 2431230,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "각자"
+    } ]
+  }, {
+    "tStartMs": 2433360,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "그래서 정답을 더 많이 맞추는 사람이 이기는 거예요"
+    } ]
+  }, {
+    "tStartMs": 2438850,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "어때요?"
+    } ]
+  }, {
+    "tStartMs": 2439750,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "근데 다섯 가지가... 그러면 제가 미리 다섯 가지 생각해 놓고"
+    } ]
+  }, {
+    "tStartMs": 2444700,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "얘기하면 돼요 한 번에?"
+    } ]
+  }, {
+    "tStartMs": 2446450,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "같은 거 겹치면 안 돼요 하나씩 번갈아 가면서"
+    } ]
+  }, {
+    "tStartMs": 2448780,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "아~ 알겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2450570,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "근데 제가 솔직하게 이야기하면은 한 두 개 정도를 알아요 이미"
+    } ]
+  }, {
+    "tStartMs": 2455110,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "찾아보다가 봐버렸어요"
+    } ]
+  }, {
+    "tStartMs": 2458410,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "그래서 얘기하면은 우선 술, 담배 안 돼요"
+    } ]
+  }, {
+    "tStartMs": 2464030,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "중고거래로는 팔 수 없어요"
+    } ]
+  }, {
+    "tStartMs": 2466750,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "완전 새 거라고 해도 살 수가 없고"
+    } ]
+  }, {
+    "tStartMs": 2469750,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "또 두 번째는 의약품 안 되더라고요"
+    } ]
+  }, {
+    "tStartMs": 2475280,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네 의약품 안 되고, 아, 세 개예요, 세 개"
+    } ]
+  }, {
+    "tStartMs": 2477280,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "세 개 한 가지는 반려동물 거래가 안 됩니다"
+    } ]
+  }, {
+    "tStartMs": 2482580,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "다 나온 거 아니에요, 그러면?"
+    } ]
+  }, {
+    "tStartMs": 2483990,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "아니에요, 아니에요 많이 있어요"
+    } ]
+  }, {
+    "tStartMs": 2485520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "이거 외에도 많이 있었는데"
+    } ]
+  }, {
+    "tStartMs": 2489040,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "생각해 봅시다 뭘 팔 수 없을까요?"
+    } ]
+  }, {
+    "tStartMs": 2493160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "저 지금 하나 생각났어요"
+    } ]
+  }, {
+    "tStartMs": 2495960,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2498230,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "무기류? 총 같은 거?"
+    } ]
+  }, {
+    "tStartMs": 2501180,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "당연히 안 되겠죠?ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2504900,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "네, 안 되겠죠"
+    } ]
+  }, {
+    "tStartMs": 2506440,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "무기류, 무기류... 그렇죠, 안 되죠"
+    } ]
+  }, {
+    "tStartMs": 2510270,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "아니, 그럼 뭐..."
+    } ]
+  }, {
+    "tStartMs": 2513000,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "저는 뭐... 사람?"
+    } ]
+  }, {
+    "tStartMs": 2516250,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "사람? 아, 근데 법적으로..."
+    } ]
+  }, {
+    "tStartMs": 2520500,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "그러니까 뭐 입양이라든지"
+    } ]
+  }, {
+    "tStartMs": 2524060,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "네, 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2525330,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "그런 건 안 된다"
+    } ]
+  }, {
+    "tStartMs": 2526490,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "그렇겠죠ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2531570,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "어느 나라나 안 되겠죠"
+    } ]
+  }, {
+    "tStartMs": 2534610,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "저 하나 또 생각났습니다"
+    } ]
+  }, {
+    "tStartMs": 2536230,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "어, 뭐요?"
+    } ]
+  }, {
+    "tStartMs": 2537850,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "제가 먼저 얘기해야 되잖아요"
+    } ]
+  }, {
+    "tStartMs": 2539350,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "아, 그래요?"
+    } ]
+  }, {
+    "tStartMs": 2540530,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "아이디어 얻을 수 있게 태웅 선생님 거 먼저 얘기해 주세요"
+    } ]
+  }, {
+    "tStartMs": 2543780,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2544890,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "온누리 상품권이라고 하는"
+    } ]
+  }, {
+    "tStartMs": 2549050,
+    "dDurationMs": 9980,
+    "segs": [ {
+      "utf8": "전통 시장 같은 곳에서 사용할 수 있는 돈 대신 쓸 수 있는 쿠폰 같은게 있어요"
+    } ]
+  }, {
+    "tStartMs": 2559030,
+    "dDurationMs": 7980,
+    "segs": [ {
+      "utf8": "대신 똑같은 돈인데 예를 들어 온누리 상품권 50만원 어치를"
+    } ]
+  }, {
+    "tStartMs": 2567010,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "은행에서 한 47만원? 이렇게 조금 더 싸게 살 수 있는 거에요"
+    } ]
+  }, {
+    "tStartMs": 2572650,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "똑같은 50만원인데"
+    } ]
+  }, {
+    "tStartMs": 2575390,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "그러면 그 돈은 시장에서만 쓸 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 2580600,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "이제 사람들이 시장 같은 곳에서 돈을 쓰게 하려는 시스템이죠"
+    } ]
+  }, {
+    "tStartMs": 2585680,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 2586790,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "근데 사실 그 50만원어치의 돈을, 시장에서 쓸 수 있는 돈을"
+    } ]
+  }, {
+    "tStartMs": 2590650,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "몇만원 싸게 은행에서 얻을 수 있는 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 2593890,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "네 그래서 그건 중고거래로 팔면 안됩니다"
+    } ]
+  }, {
+    "tStartMs": 2597890,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "아~ 오 알고 계셨던 거네요 그거는?"
+    } ]
+  }, {
+    "tStartMs": 2603140,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2604530,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "상품권, 온누리 상품권!"
+    } ]
+  }, {
+    "tStartMs": 2606660,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2608250,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "뭐 신세계 상품권 이런 거 안 됩니다ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2611610,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "그러니까 기타 상품권 다 안 되겠죠?"
+    } ]
+  }, {
+    "tStartMs": 2613440,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "그렇죠 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2614790,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "상품권 안 되고"
+    } ]
+  }, {
+    "tStartMs": 2616890,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "생각난 거 얘기해도 돼요?"
+    } ]
+  }, {
+    "tStartMs": 2618720,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2619780,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "로또 로또"
+    } ]
+  }, {
+    "tStartMs": 2622650,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "안 될 것 같아요 로또도 듣고 보니까"
+    } ]
+  }, {
+    "tStartMs": 2626160,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "그런 것 같네요 맞네"
+    } ]
+  }, {
+    "tStartMs": 2629270,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "거래는 안 될 것 같아"
+    } ]
+  }, {
+    "tStartMs": 2631390,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "그게 합법적으로 팔 수 있는 곳이 정해져 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2634580,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "로또 같은 게"
+    } ]
+  }, {
+    "tStartMs": 2635750,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "음 맞는 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 2640370,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "저는 그러면... 직접 만든 음식"
+    } ]
+  }, {
+    "tStartMs": 2647430,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "진짜?"
+    } ]
+  }, {
+    "tStartMs": 2648280,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "안 될 것 같은데요?"
+    } ]
+  }, {
+    "tStartMs": 2652740,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "안 될 것 같지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 2654260,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "뭐 이상한 게 들어가 있을 수도 있으니까"
+    } ]
+  }, {
+    "tStartMs": 2656950,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2658230,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "먹고 식중독 걸리면..."
+    } ]
+  }, {
+    "tStartMs": 2661430,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "책임질 수 없으니까"
+    } ]
+  }, {
+    "tStartMs": 2662960,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 2663690,
+    "dDurationMs": 7510,
+    "segs": [ {
+      "utf8": "그럼 예를 들어 '저 두바이 쫀득쿠키 60개 만들었습니다' 뭐 '사실 분'"
+    } ]
+  }, {
+    "tStartMs": 2671200,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "안되죠"
+    } ]
+  }, {
+    "tStartMs": 2671620,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "이렇게 하면 안되고"
+    } ]
+  }, {
+    "tStartMs": 2673330,
+    "dDurationMs": 6910,
+    "segs": [ {
+      "utf8": "그 음식점 그 인증이 있는 사람만 음식을 팔 수 있는 거라는 거죠?"
+    } ]
+  }, {
+    "tStartMs": 2680240,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "그렇지 않을까요? 제 생각엔"
+    } ]
+  }, {
+    "tStartMs": 2682010,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "오..."
+    } ]
+  }, {
+    "tStartMs": 2684150,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "태웅쌤 지금 3개 하신 건가요?"
+    } ]
+  }, {
+    "tStartMs": 2687770,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋㅋ네 인간..."
+    } ]
+  }, {
+    "tStartMs": 2691440,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "인간, 상품권, 음식 만든 음식"
+    } ]
+  }, {
+    "tStartMs": 2694930,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2697080,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "저는 로또, 총 하고..."
+    } ]
+  }, {
+    "tStartMs": 2704680,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "아 그런거"
+    } ]
+  }, {
+    "tStartMs": 2705910,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "성인물"
+    } ]
+  }, {
+    "tStartMs": 2707610,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "아 안되겠다 그것도"
+    } ]
+  }, {
+    "tStartMs": 2709490,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "그쵸?"
+    } ]
+  }, {
+    "tStartMs": 2710220,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2711400,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "그 19세 이상만 살 수 있는 것들을 생각해봤어요"
+    } ]
+  }, {
+    "tStartMs": 2716500,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "그쵸 그쵸 그러면 안 되겠네요"
+    } ]
+  }, {
+    "tStartMs": 2718290,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 2719540,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "뭐 막 성인 잡지 (- 잡지나...)"
+    } ]
+  }, {
+    "tStartMs": 2724890,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "저는요"
+    } ]
+  }, {
+    "tStartMs": 2725880,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2726840,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "인터넷 강의 수강권"
+    } ]
+  }, {
+    "tStartMs": 2729820,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "어? 수강권?"
+    } ]
+  }, {
+    "tStartMs": 2733430,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "수강권 받고 저는 티켓"
+    } ]
+  }, {
+    "tStartMs": 2736950,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "어? 티켓 안 돼요?"
+    } ]
+  }, {
+    "tStartMs": 2739350,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "암표 같은 거 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 2742010,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "어? 티켓 안되나?"
+    } ]
+  }, {
+    "tStartMs": 2743660,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "안되지 않아요? 불법이지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 2745720,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "그래요? 많이 팔던데"
+    } ]
+  }, {
+    "tStartMs": 2747530,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "많이 팔긴 하는데 안되잖아요 그게 원래는"
+    } ]
+  }, {
+    "tStartMs": 2752180,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "그것 때문에 막 콘서트 취소하고 그러기도 하지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 2755800,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "암표 거래가 너무 많아가지고"
+    } ]
+  }, {
+    "tStartMs": 2757860,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 2759130,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "정확한 기준은 모르겠네요 근데 뭐 티켓?"
+    } ]
+  }, {
+    "tStartMs": 2762270,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "뭐 팔지 말라고 한 티켓을 파는 건 안되겠죠?"
+    } ]
+  }, {
+    "tStartMs": 2767910,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2769020,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2770360,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "어 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2772170,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "아 그거는요?"
+    } ]
+  }, {
+    "tStartMs": 2775230,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "현금?"
+    } ]
+  }, {
+    "tStartMs": 2777220,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "현금?"
+    } ]
+  }, {
+    "tStartMs": 2778540,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "막 환전 같은 거 중고에서 팔잖아요"
+    } ]
+  }, {
+    "tStartMs": 2783430,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "엔화 팔고 이런 거"
+    } ]
+  }, {
+    "tStartMs": 2786150,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "그거 안 되나요? 저도 많이 봤는데"
+    } ]
+  }, {
+    "tStartMs": 2790050,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "왠지 안 될 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 2791350,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "아 안 되는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2793090,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "아니면 막 금, 화폐 재화..."
+    } ]
+  }, {
+    "tStartMs": 2796500,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "모르겠지만 확인해봐야겠지만"
+    } ]
+  }, {
+    "tStartMs": 2798580,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "그걸로?"
+    } ]
+  }, {
+    "tStartMs": 2799410,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "아, 엔화로 할까? 금으로 할까?"
+    } ]
+  }, {
+    "tStartMs": 2803550,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "금!"
+    } ]
+  }, {
+    "tStartMs": 2807670,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "의약품은 아닌데 비타민 됩니까?"
+    } ]
+  }, {
+    "tStartMs": 2811740,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "비타민으로?"
+    } ]
+  }, {
+    "tStartMs": 2812760,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2814150,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "오케이 그러면 지금 이제 찾아볼게요"
+    } ]
+  }, {
+    "tStartMs": 2817810,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "당근 거래 기준으로 할까요?"
+    } ]
+  }, {
+    "tStartMs": 2820270,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "당근 마켓에 그 공지로 올라와 있는 거고"
+    } ]
+  }, {
+    "tStartMs": 2824430,
+    "dDurationMs": 8070,
+    "segs": [ {
+      "utf8": "그 법을 위반하는 거 플러스 당근 거래가 부적절하다고 판단되는 물품 나열되어 있어요"
+    } ]
+  }, {
+    "tStartMs": 2832500,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "첫 번째는 생명이 있는 동물 그러니까 사람* 정답이고요"
+    } ]
+  }, {
+    "tStartMs": 2836680,
+    "dDurationMs": 7530,
+    "segs": [ {
+      "utf8": "그리고 개인정보, 신분증, 통장, 신용정보 이런 거 안 되고"
+    } ]
+  }, {
+    "tStartMs": 2844210,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "그리고 계정거래 안 된대요 OTT 이런 거 거래하는 거"
+    } ]
+  }, {
+    "tStartMs": 2849980,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "그리고 상표권 침해물품, 이미테이션 이런 거 안 되고"
+    } ]
+  }, {
+    "tStartMs": 2855060,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "아 가짜 물건"
+    } ]
+  }, {
+    "tStartMs": 2856870,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "네 주류 담배 라이터 마약 안 되고요"
+    } ]
+  }, {
+    "tStartMs": 2860560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "음란물 성생활용품 게임 아이템 안 돼요"
+    } ]
+  }, {
+    "tStartMs": 2864480,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "저 하나 맞췄고"
+    } ]
+  }, {
+    "tStartMs": 2865820,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "아 게임 아이템"
+    } ]
+  }, {
+    "tStartMs": 2867750,
+    "dDurationMs": 6670,
+    "segs": [ {
+      "utf8": "아 그 청소년 유해 유해 매체물이라서 안 된대요"
+    } ]
+  }, {
+    "tStartMs": 2874420,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "그리고 의료기기 의약품 렌즈랑 안경 안 된대요"
+    } ]
+  }, {
+    "tStartMs": 2879840,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "어 안경도 안 돼요?"
+    } ]
+  }, {
+    "tStartMs": 2881680,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "네 의료기기라 그런가? 아무튼 안 된대요"
+    } ]
+  }, {
+    "tStartMs": 2886490,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "그리고 거래 금지 티켓 안 된다고 적혀 있습니다"
+    } ]
+  }, {
+    "tStartMs": 2889790,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "암표, 승차권 뭐 이런 거 안 되고요"
+    } ]
+  }, {
+    "tStartMs": 2893520,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "거래 금지 식품, 무허가, 위해식품 안 된대요"
+    } ]
+  }, {
+    "tStartMs": 2897770,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "직접 재배한 농수산물, 직접 제조한 것도 안 된대요"
+    } ]
+  }, {
+    "tStartMs": 2904370,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "그리고 거래 금지 화장품도 안 되고요"
+    } ]
+  }, {
+    "tStartMs": 2906970,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "직접 만든 화장품 뭐 이런 거 안 되고"
+    } ]
+  }, {
+    "tStartMs": 2910770,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "농약, LPG 이런 거 위험한 물질도 안 돼요"
+    } ]
+  }, {
+    "tStartMs": 2916380,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "다양하네요 생각보다"
+    } ]
+  }, {
+    "tStartMs": 2918390,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "그리고 총 안 되고, 위험한 거 안 된다고"
+    } ]
+  }, {
+    "tStartMs": 2923510,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "저 세 개..."
+    } ]
+  }, {
+    "tStartMs": 2925300,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "제복류 안 된대요"
+    } ]
+  }, {
+    "tStartMs": 2927550,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "경찰 옷, 군인 옷, 소방사..."
+    } ]
+  }, {
+    "tStartMs": 2933160,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "'소방사' 맞나요?"
+    } ]
+  }, {
+    "tStartMs": 2934390,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "소방관?"
+    } ]
+  }, {
+    "tStartMs": 2935450,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "아 소방관, 소방관 옷 이런 거 안 된다고 하고"
+    } ]
+  }, {
+    "tStartMs": 2939570,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "아, 그리고는 온누리 상품권 안 돼요"
+    } ]
+  }, {
+    "tStartMs": 2943790,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "100만 원 이상 금 제품 안 된대요"
+    } ]
+  }, {
+    "tStartMs": 2947400,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "천 달러 이상 외환도 안 되고"
+    } ]
+  }, {
+    "tStartMs": 2950420,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "그게 기준이 있구나"
+    } ]
+  }, {
+    "tStartMs": 2952570,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "네, 근데 이거는 운영 정책상 제한이라서"
+    } ]
+  }, {
+    "tStartMs": 2956710,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "아마 이 플랫폼 그거인 것 같기도 해요"
+    } ]
+  }, {
+    "tStartMs": 2961650,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "이렇게인데요?"
+    } ]
+  }, {
+    "tStartMs": 2962520,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "제가 아까 얘기했던 거 하나 뭐가 있었죠?"
+    } ]
+  }, {
+    "tStartMs": 2964510,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "로또는 적혀있진 않는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2970770,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "괜찮나 봐요"
+    } ]
+  }, {
+    "tStartMs": 2972540,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "태웅쌤 몇 개 맞히셨어요?"
+    } ]
+  }, {
+    "tStartMs": 2974930,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "저는 사람, 그리고 상품권, 수강권, 음식"
+    } ]
+  }, {
+    "tStartMs": 2981200,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "아 맞아요 맞아요 사이트 계정 거래가 안 되는 거죠"
+    } ]
+  }, {
+    "tStartMs": 2985560,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "네 그럼 4개입니다"
+    } ]
+  }, {
+    "tStartMs": 2986930,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "아 비타민은 되나 보네요"
+    } ]
+  }, {
+    "tStartMs": 2988890,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "비타민이... '건강기능식품 중고거래 불법'이래요"
+    } ]
+  }, {
+    "tStartMs": 2992950,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "그럼 5개!"
+    } ]
+  }, {
+    "tStartMs": 2994420,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "와! 나는 뭘... 아 로또 로또 중고거래"
+    } ]
+  }, {
+    "tStartMs": 2998340,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "로또가 되나?"
+    } ]
+  }, {
+    "tStartMs": 3000260,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "아 된대요"
+    } ]
+  }, {
+    "tStartMs": 3001310,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 3002500,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "네 뭐 안 된다는 말이 없어요 복권 중고거래"
+    } ]
+  }, {
+    "tStartMs": 3007020,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그거... 새로운 비즈니스의 가능성이 보이기도 하고"
+    } ]
+  }, {
+    "tStartMs": 3014430,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "진짜?ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 3016350,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "네네 5대4인가요?"
+    } ]
+  }, {
+    "tStartMs": 3018850,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "그쵸 제가 졌네요"
+    } ]
+  }, {
+    "tStartMs": 3022140,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "재밌었다 재밌었다 고생하셨네요 유익한 시간이었습니다"
+    } ]
+  }, {
+    "tStartMs": 3025780,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "네네 재밌었습니다"
+    } ]
+  }, {
+    "tStartMs": 3027790,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "네 그러면 말로 하는 미니게임 코너는 여기까지 하는 걸로 하고"
+    } ]
+  }, {
+    "tStartMs": 3032670,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "저희 다음 주제는 어떤 걸로 하면 좋을까요?"
+    } ]
+  }, {
+    "tStartMs": 3035600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "다음 주제는 편의점입니다"
+    } ]
+  }, {
+    "tStartMs": 3039040,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "편의점, 그러니까 저희 아직 편의점에 대해서 얘기 안 해본 것 같아가지고"
+    } ]
+  }, {
+    "tStartMs": 3043800,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "많이 이용하고 있는 편의점에 대해서 또 이야기를 해보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 3049640,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "요모조모 이야기를 해보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 3053290,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "한 달 잘 보내시고요 저희는 2월에 또 돌아오도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 3057390,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "여기까지 디디와 정태웅이었습니다 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 3062150,
+    "dDurationMs": 17430,
+    "segs": [ {
+      "utf8": "감사합니다"
+    } ]
+  } ]
+}

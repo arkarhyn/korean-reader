@@ -1,0 +1,6637 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yomojomo of life in Korea is a podcast where two people living in Korea"
+    } ]
+  }, {
+    "tStartMs": 16000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "talk about the various aspects of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 19000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So what was today's topic?"
+    } ]
+  }, {
+    "tStartMs": 21000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Today's topic was hair salons."
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Hair salons do perms, dyeing, cuts, makeup"
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and other beauty treatments to create hairstyles and"
+    } ]
+  }, {
+    "tStartMs": 34000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "are shops that specialize in grooming one's appearance."
+    } ]
+  }, {
+    "tStartMs": 38000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That explanation is a bit too difficult, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 41000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So it's basically a place where you go to get your hair done, right?"
+    } ]
+  }, {
+    "tStartMs": 44000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. A place where you cut your hair or"
+    } ]
+  }, {
+    "tStartMs": 47000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "make it look pretty?"
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Yes. Teacher Tae-woong, when you go to a hair salon, what do you usually do most often?"
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There's nothing I do most often. Because I only do one thing"
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Always?"
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I only go to get my hair cut"
+    } ]
+  }, {
+    "tStartMs": 65000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You only do cuts?"
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 67000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What about perms?"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "My hair is naturally frizzy, so"
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't need it?"
+    } ]
+  }, {
+    "tStartMs": 73000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right. It's not completely frizzy, it's like semi-frizzy?"
+    } ]
+  }, {
+    "tStartMs": 77000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Semi-frizzy?"
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Hair that has a bit of a frizzy texture?"
+    } ]
+  }, {
+    "tStartMs": 81000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So there's no need for me to do it."
+    } ]
+  }, {
+    "tStartMs": 84000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Really? You're blessed."
+    } ]
+  }, {
+    "tStartMs": 86000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's what people always say."
+    } ]
+  }, {
+    "tStartMs": 88000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But from what I know, a lot of men do things like straight perms"
+    } ]
+  }, {
+    "tStartMs": 94000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What about you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 96000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I still don't even know what that is."
+    } ]
+  }, {
+    "tStartMs": 99000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A straight perm?"
+    } ]
+  }, {
+    "tStartMs": 100000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But a lot of people around you don't do it?"
+    } ]
+  }, {
+    "tStartMs": 103000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Maybe I'm just not very knowledgeable about that kind of beauty stuff"
+    } ]
+  }, {
+    "tStartMs": 108000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I've heard people talk about it a few times"
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But I couldn't figure it out"
+    } ]
+  }, {
+    "tStartMs": 116000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Even when I see someone who's had a straight perm?"
+    } ]
+  }, {
+    "tStartMs": 119000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 121000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Maybe because my hair is semi-frizzy and has a lot of volume"
+    } ]
+  }, {
+    "tStartMs": 126000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't need it? What about you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 129000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 132000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Maybe a straight perm?"
+    } ]
+  }, {
+    "tStartMs": 137000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If I got a straight perm, my hair might look prettier too"
+    } ]
+  }, {
+    "tStartMs": 141000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Or maybe I just don't know about it"
+    } ]
+  }, {
+    "tStartMs": 144000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 145000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But I don't really pay much attention to that kind of thing anyway"
+    } ]
+  }, {
+    "tStartMs": 152000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Like with your hair?"
+    } ]
+  }, {
+    "tStartMs": 153000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 154000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I wear training clothes every day"
+    } ]
+  }, {
+    "tStartMs": 157000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm not really interested in styling or grooming myself?"
+    } ]
+  }, {
+    "tStartMs": 160000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 162000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 163000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 165000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So do you always go to the same hair salon?"
+    } ]
+  }, {
+    "tStartMs": 169000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 171000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You've settled on one? A hair salon?"
+    } ]
+  }, {
+    "tStartMs": 175000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "To be precise, it's not so much that I've settled on a hair salon"
+    } ]
+  }, {
+    "tStartMs": 180000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I tend to stick with the same hairdresser."
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Because if I just go to a salon"
+    } ]
+  }, {
+    "tStartMs": 192000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "and ask any available stylist to cut my hair,"
+    } ]
+  }, {
+    "tStartMs": 199000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "even though it's the same salon,"
+    } ]
+  }, {
+    "tStartMs": 201000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "some stylists might cut it well"
+    } ]
+  }, {
+    "tStartMs": 205000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and some might not do a good job, you know?"
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 208000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But when that happens and I end up with someone who can't cut well,"
+    } ]
+  }, {
+    "tStartMs": 213000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the stress I experience is really big,"
+    } ]
+  }, {
+    "tStartMs": 217000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and even though I said I don't care about appearance,"
+    } ]
+  }, {
+    "tStartMs": 222000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but it's still awkward if it turns out weird, right?"
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right. You're paying for it."
+    } ]
+  }, {
+    "tStartMs": 227000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 228000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But I wasn't always like this."
+    } ]
+  }, {
+    "tStartMs": 232000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This thing about sticking with the same hairdresser—"
+    } ]
+  }, {
+    "tStartMs": 239000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "because back then, no matter where I went,"
+    } ]
+  }, {
+    "tStartMs": 244000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so whatever stylists I saw,"
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it was generally fine."
+    } ]
+  }, {
+    "tStartMs": 251000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was generally happy with my hair."
+    } ]
+  }, {
+    "tStartMs": 254000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But then after I moved, was it?"
+    } ]
+  }, {
+    "tStartMs": 258000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I found a new salon near my house,"
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and it was a pretty big place."
+    } ]
+  }, {
+    "tStartMs": 264000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There seemed to be about 5 or 6 stylists there."
+    } ]
+  }, {
+    "tStartMs": 269000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 270000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But the first time I went, they cut it pretty well."
+    } ]
+  }, {
+    "tStartMs": 276000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It seemed okay, so I went again next time,"
+    } ]
+  }, {
+    "tStartMs": 280000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but the stylist was either off or had another appointment,"
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so a different stylist cut my hair."
+    } ]
+  }, {
+    "tStartMs": 287000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But I really didn't like it."
+    } ]
+  }, {
+    "tStartMs": 289000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "They cut it kind of stupidly."
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So it's 1 to 1, you know? The score."
+    } ]
+  }, {
+    "tStartMs": 297000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So one time they cut it well and one time they didn't at that salon."
+    } ]
+  }, {
+    "tStartMs": 302000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So once I had success,"
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I kept going with some hope,"
+    } ]
+  }, {
+    "tStartMs": 309000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but every time I went, I really didn't like it."
+    } ]
+  }, {
+    "tStartMs": 311000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 312000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So I kept getting stressed,"
+    } ]
+  }, {
+    "tStartMs": 318000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and then one time a stylist I'd never seen before at that salon"
+    } ]
+  }, {
+    "tStartMs": 322000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "cut my hair and I really liked it."
+    } ]
+  }, {
+    "tStartMs": 326000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I felt so at ease."
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But that stylist cut it once"
+    } ]
+  }, {
+    "tStartMs": 336000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and then quit? Or cut it twice and then quit?"
+    } ]
+  }, {
+    "tStartMs": 341000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 342000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So I switched to a different salon."
+    } ]
+  }, {
+    "tStartMs": 344000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You switched pretty quickly."
+    } ]
+  }, {
+    "tStartMs": 346000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think the problem was that salon itself."
+    } ]
+  }, {
+    "tStartMs": 350000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They couldn't even cut hair well."
+    } ]
+  }, {
+    "tStartMs": 352000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So there was a reason. There was a reason for it."
+    } ]
+  }, {
+    "tStartMs": 356000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So I really didn't want to go back to those stressful old days,"
+    } ]
+  }, {
+    "tStartMs": 364000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "so I asked if they could tell me where that stylist went."
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I followed that stylist to where they were."
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That must have felt so good. That stylist."
+    } ]
+  }, {
+    "tStartMs": 376000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wouldn't you have felt so proud?"
+    } ]
+  }, {
+    "tStartMs": 377000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 378000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So the salon you go to now is there too?"
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 382000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Why did the relationship with that stylist end?"
+    } ]
+  }, {
+    "tStartMs": 388000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Actually, it's too far from my house."
+    } ]
+  }, {
+    "tStartMs": 393000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's important too."
+    } ]
+  }, {
+    "tStartMs": 394000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. It's difficult to go there every time."
+    } ]
+  }, {
+    "tStartMs": 397000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "So after that, I tried a couple of hair salons near my house"
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and ended up finding a place I really like."
+    } ]
+  }, {
+    "tStartMs": 410000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Happy ending."
+    } ]
+  }, {
+    "tStartMs": 412000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. It's a happy ending."
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You just get cuts, right?"
+    } ]
+  }, {
+    "tStartMs": 416000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. That's what I do."
+    } ]
+  }, {
+    "tStartMs": 417000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "A good cut is really hard to find."
+    } ]
+  }, {
+    "tStartMs": 423000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What about you, Didi? What do you prefer?"
+    } ]
+  }, {
+    "tStartMs": 426000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "What do I do? I usually go when I'm getting my hair dyed or permed."
+    } ]
+  }, {
+    "tStartMs": 433000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "For cuts, I always have the same pattern—I cut my hair really short"
+    } ]
+  }, {
+    "tStartMs": 439000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and then just let it grow for about 2 or 3 years."
+    } ]
+  }, {
+    "tStartMs": 442000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow. 2 or 3 years?"
+    } ]
+  }, {
+    "tStartMs": 443000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. So I don't really have a reason to go to the salon."
+    } ]
+  }, {
+    "tStartMs": 447000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Just occasionally for dyeing or perming."
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But even when you're growing your hair out, do you thin it?"
+    } ]
+  }, {
+    "tStartMs": 459000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Or do you trim around the ears?"
+    } ]
+  }, {
+    "tStartMs": 463000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There's some maintenance like that, right?"
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't do any of that."
+    } ]
+  }, {
+    "tStartMs": 468000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 469000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. I just let it grow long as is."
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 475000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Surprisingly, I think it's easier for women to maintain their hair."
+    } ]
+  }, {
+    "tStartMs": 482000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 483000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Using a curling iron and blow-drying every day does take a lot of time,"
+    } ]
+  }, {
+    "tStartMs": 490000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but it seems like women don't go to the salon that often."
+    } ]
+  }, {
+    "tStartMs": 493000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Men have to go about once a month, right?"
+    } ]
+  }, {
+    "tStartMs": 495000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 498000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It might not be the case for everyone."
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "People who care a lot about their hair can do various things,"
+    } ]
+  }, {
+    "tStartMs": 503000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but I don't go to the salon that often."
+    } ]
+  }, {
+    "tStartMs": 508000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Recently I did a root touch-up. I did a root touch-up."
+    } ]
+  }, {
+    "tStartMs": 511000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Root touch-up."
+    } ]
+  }, {
+    "tStartMs": 513000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "After doing a full dye job,"
+    } ]
+  }, {
+    "tStartMs": 516000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "some time passes,"
+    } ]
+  }, {
+    "tStartMs": 518000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and then you dye just the part where new hair has grown, right?"
+    } ]
+  }, {
+    "tStartMs": 523000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right. The root part of the hair,"
+    } ]
+  }, {
+    "tStartMs": 525000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "when it's grown about 2cm, that's when you do the root touch-up."
+    } ]
+  }, {
+    "tStartMs": 532000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Even with root touch-ups, I end up not doing them because it's annoying."
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 541000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Do you dye your hair pretty often?"
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Well, how should I put it?"
+    } ]
+  }, {
+    "tStartMs": 552000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "About once a year I feel like I want to change my hair."
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So I dye it or perm it on a yearly basis,"
+    } ]
+  }, {
+    "tStartMs": 562000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "or cut it short, things like that."
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So you don't do anything frequently, just change it up once in a while?"
+    } ]
+  }, {
+    "tStartMs": 572000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So I haven't settled on a salon yet."
+    } ]
+  }, {
+    "tStartMs": 576000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I really want to find a stylist I'm happy with."
+    } ]
+  }, {
+    "tStartMs": 581000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If you haven't settled,"
+    } ]
+  }, {
+    "tStartMs": 584000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "then how do you find a salon when you go each time?"
+    } ]
+  }, {
+    "tStartMs": 587000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like I mentioned before,"
+    } ]
+  }, {
+    "tStartMs": 589000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "every year I get a desire for a certain hairstyle."
+    } ]
+  }, {
+    "tStartMs": 592000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I want to get a perm. I want this kind of perm."
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I want this kind of dye job. When that happens,"
+    } ]
+  }, {
+    "tStartMs": 597000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I search on Instagram."
+    } ]
+  }, {
+    "tStartMs": 599000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What else is there?"
+    } ]
+  }, {
+    "tStartMs": 600320,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "If I want a layered cut,"
+    } ]
+  }, {
+    "tStartMs": 603760,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "I search \"short layered cut\" on Instagram and look,"
+    } ]
+  }, {
+    "tStartMs": 607100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and find the hair I want."
+    } ]
+  }, {
+    "tStartMs": 609500,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I go to a hair salon that has pictures."
+    } ]
+  }, {
+    "tStartMs": 614900,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "It's pretty convenient, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 616940,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "It's convenient."
+    } ]
+  }, {
+    "tStartMs": 617900,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 618500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And, ah, the hair salon where I got my hair dyed recently"
+    } ]
+  }, {
+    "tStartMs": 621900,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "is someone I've been following on Instagram for a long time,"
+    } ]
+  }, {
+    "tStartMs": 625760,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "a hair stylist kind of person."
+    } ]
+  }, {
+    "tStartMs": 627860,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "She posts Shorts on Instagram about how to tie hair prettily and things like that,"
+    } ]
+  }, {
+    "tStartMs": 632959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I save and watch those all the time,"
+    } ]
+  }, {
+    "tStartMs": 635560,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "and I thought, hmm, should I try getting my hair done by this person?"
+    } ]
+  }, {
+    "tStartMs": 638660,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "So even though it's a bit far from home, I went and tried it."
+    } ]
+  }, {
+    "tStartMs": 644959,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "How far would it have to be"
+    } ]
+  }, {
+    "tStartMs": 647560,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "for you not to go?"
+    } ]
+  }, {
+    "tStartMs": 649560,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "How far is possible for you?"
+    } ]
+  }, {
+    "tStartMs": 651459,
+    "dDurationMs": 401,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 653660,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I live in Gyeonggi Province,"
+    } ]
+  }, {
+    "tStartMs": 656560,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "so if it's just a Seoul hair salon,"
+    } ]
+  }, {
+    "tStartMs": 659060,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "I can go anywhere."
+    } ]
+  }, {
+    "tStartMs": 661360,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "How far is that usually, to Seoul?"
+    } ]
+  }, {
+    "tStartMs": 664059,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "The place I go to now was Apgujeong, so"
+    } ]
+  }, {
+    "tStartMs": 668860,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "about an hour and a half?"
+    } ]
+  }, {
+    "tStartMs": 671059,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "By bus?"
+    } ]
+  }, {
+    "tStartMs": 673559,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But usually when I go, I make plans with friends that same day."
+    } ]
+  }, {
+    "tStartMs": 677559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So then it's fine."
+    } ]
+  }, {
+    "tStartMs": 679559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah, then that makes sense."
+    } ]
+  }, {
+    "tStartMs": 680559,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 682959,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "So then, and also if it's once a year,"
+    } ]
+  }, {
+    "tStartMs": 685059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 686059,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "It's actually a bit nice."
+    } ]
+  }, {
+    "tStartMs": 688260,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "When you go far,"
+    } ]
+  }, {
+    "tStartMs": 691059,
+    "dDurationMs": 4601,
+    "segs": [ {
+      "utf8": "it feels like you're going to get something done, to receive some care,"
+    } ]
+  }, {
+    "tStartMs": 695959,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "so it's nice. Going far too."
+    } ]
+  }, {
+    "tStartMs": 700260,
+    "dDurationMs": 4699,
+    "segs": [ {
+      "utf8": "For me, there's this hair stylist who cut my hair really well once, and I followed her,"
+    } ]
+  }, {
+    "tStartMs": 704959,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "and it takes an hour and a half to get there."
+    } ]
+  }, {
+    "tStartMs": 706860,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow, yes."
+    } ]
+  }, {
+    "tStartMs": 708059,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Once a month would be a bit much."
+    } ]
+  }, {
+    "tStartMs": 710959,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Too much, too much."
+    } ]
+  }, {
+    "tStartMs": 712260,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 713360,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Tae-woong, so you've never dyed your hair?"
+    } ]
+  }, {
+    "tStartMs": 716059,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "I have once."
+    } ]
+  }, {
+    "tStartMs": 717459,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "What color?"
+    } ]
+  }, {
+    "tStartMs": 720160,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Ah, well, when I was seven years old, I did it here once,"
+    } ]
+  }, {
+    "tStartMs": 723260,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 724360,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yes yes. But except for that,"
+    } ]
+  }, {
+    "tStartMs": 726160,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Ah, except for that. That's surprising."
+    } ]
+  }, {
+    "tStartMs": 728259,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "That bridge."
+    } ]
+  }, {
+    "tStartMs": 729460,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes yes yes."
+    } ]
+  }, {
+    "tStartMs": 730759,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "So you've done all that."
+    } ]
+  }, {
+    "tStartMs": 732259,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 734360,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Ah, except for that,"
+    } ]
+  }, {
+    "tStartMs": 735660,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "except for that."
+    } ]
+  }, {
+    "tStartMs": 736460,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "After becoming an adult,"
+    } ]
+  }, {
+    "tStartMs": 737460,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 739360,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "a cousin,"
+    } ]
+  }, {
+    "tStartMs": 741059,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "these days do they say cousin?"
+    } ]
+  }, {
+    "tStartMs": 743759,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Anyway, a cousin"
+    } ]
+  }, {
+    "tStartMs": 747559,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "does a lot of bleaching for her friends, does it well."
+    } ]
+  }, {
+    "tStartMs": 751559,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "She did it for you?"
+    } ]
+  }, {
+    "tStartMs": 752660,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 753660,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 754160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "He's not a beautician either."
+    } ]
+  }, {
+    "tStartMs": 757460,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "But anyway, so I went to that uncle's house during the holidays"
+    } ]
+  }, {
+    "tStartMs": 760960,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 761860,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "and he was like, hey, try it out,"
+    } ]
+  }, {
+    "tStartMs": 763860,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 764660,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "my hair"
+    } ]
+  }, {
+    "tStartMs": 766460,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "to a very bright blonde"
+    } ]
+  }, {
+    "tStartMs": 769559,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "I bleached it once."
+    } ]
+  }, {
+    "tStartMs": 773259,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "A colorful past."
+    } ]
+  }, {
+    "tStartMs": 774960,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wow, but really"
+    } ]
+  }, {
+    "tStartMs": 778259,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Wow, really"
+    } ]
+  }, {
+    "tStartMs": 779960,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "I mean, even a real delinquent wouldn't be like that."
+    } ]
+  }, {
+    "tStartMs": 782559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow, the image"
+    } ]
+  }, {
+    "tStartMs": 783559,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "You bleached your hair once?"
+    } ]
+  }, {
+    "tStartMs": 785460,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Yes, so I bleached it"
+    } ]
+  }, {
+    "tStartMs": 787559,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "to a blonde color"
+    } ]
+  }, {
+    "tStartMs": 789460,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "completely"
+    } ]
+  }, {
+    "tStartMs": 790860,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Completely blonde?"
+    } ]
+  }, {
+    "tStartMs": 792160,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "White hair?"
+    } ]
+  }, {
+    "tStartMs": 792960,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Almost to the level of white hair."
+    } ]
+  }, {
+    "tStartMs": 794559,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Then it doesn't seem like you bleached it just once?"
+    } ]
+  }, {
+    "tStartMs": 796860,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Oh, no, well, not completely white hair"
+    } ]
+  }, {
+    "tStartMs": 799660,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "just a yellowish color."
+    } ]
+  }, {
+    "tStartMs": 801960,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 802960,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "delinquent"
+    } ]
+  }, {
+    "tStartMs": 804360,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "You went with yellow?"
+    } ]
+  }, {
+    "tStartMs": 805559,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "I really became a proper delinquent."
+    } ]
+  }, {
+    "tStartMs": 807960,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 809960,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Wow, but"
+    } ]
+  }, {
+    "tStartMs": 811660,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 812660,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "after doing that"
+    } ]
+  }, {
+    "tStartMs": 814559,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 815360,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I couldn't handle it, walking around."
+    } ]
+  }, {
+    "tStartMs": 817960,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 819460,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 821259,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah, during that holiday"
+    } ]
+  }, {
+    "tStartMs": 824259,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "so after bleaching"
+    } ]
+  }, {
+    "tStartMs": 825759,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 827059,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "now that the family gathering was over"
+    } ]
+  }, {
+    "tStartMs": 829460,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and I was about to go back home"
+    } ]
+  }, {
+    "tStartMs": 830960,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "as I was leaving the house"
+    } ]
+  }, {
+    "tStartMs": 832059,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 832559,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "then another"
+    } ]
+  }, {
+    "tStartMs": 834160,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "that cousin"
+    } ]
+  }, {
+    "tStartMs": 836360,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "um"
+    } ]
+  }, {
+    "tStartMs": 837660,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "that older brother, he"
+    } ]
+  }, {
+    "tStartMs": 838960,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I was going to do this"
+    } ]
+  }, {
+    "tStartMs": 841160,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "but I bought this hair dye and didn't use it"
+    } ]
+  }, {
+    "tStartMs": 843460,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Uh-huh, uh-huh, uh-huh."
+    } ]
+  }, {
+    "tStartMs": 844259,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "if you regret it, older brother, at least do this"
+    } ]
+  }, {
+    "tStartMs": 846259,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "and gave me the hair dye like that."
+    } ]
+  }, {
+    "tStartMs": 847960,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 848960,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "That hair dye was red."
+    } ]
+  }, {
+    "tStartMs": 852660,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Bright red?"
+    } ]
+  }, {
+    "tStartMs": 853860,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Yes, bright red."
+    } ]
+  }, {
+    "tStartMs": 857160,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Ah, why when there are so many pretty reds"
+    } ]
+  }, {
+    "tStartMs": 859859,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "it was bright red."
+    } ]
+  }, {
+    "tStartMs": 861959,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Yes, so"
+    } ]
+  }, {
+    "tStartMs": 864359,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "after being blonde for a few days"
+    } ]
+  }, {
+    "tStartMs": 865959,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 866459,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "It turned bright red."
+    } ]
+  }, {
+    "tStartMs": 868160,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Right away, I became an idol."
+    } ]
+  }, {
+    "tStartMs": 869760,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "That"
+    } ]
+  }, {
+    "tStartMs": 872260,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But back then, as a hobby"
+    } ]
+  }, {
+    "tStartMs": 876359,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "That beat making"
+    } ]
+  }, {
+    "tStartMs": 877660,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I was attending a music production academy like that."
+    } ]
+  }, {
+    "tStartMs": 880160,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 881660,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So it suited me pretty well."
+    } ]
+  }, {
+    "tStartMs": 883160,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "It does suit you, but what about that?"
+    } ]
+  }, {
+    "tStartMs": 884559,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 885260,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 886059,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So the students"
+    } ]
+  }, {
+    "tStartMs": 887859,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Other students besides me"
+    } ]
+  }, {
+    "tStartMs": 889760,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Mm-hmm, mm-hmm, mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 890260,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Said it looked pretty good, you know."
+    } ]
+  }, {
+    "tStartMs": 892260,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "You were an adult?"
+    } ]
+  }, {
+    "tStartMs": 893359,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes, I was an adult back then."
+    } ]
+  }, {
+    "tStartMs": 894859,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Mm"
+    } ]
+  }, {
+    "tStartMs": 896559,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Well, you know, once in a lifetime"
+    } ]
+  }, {
+    "tStartMs": 898760,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Well, right."
+    } ]
+  }, {
+    "tStartMs": 899660,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Red hair."
+    } ]
+  }, {
+    "tStartMs": 900959,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "But the red color also"
+    } ]
+  }, {
+    "tStartMs": 902559,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 903660,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Mm-hmm"
+    } ]
+  }, {
+    "tStartMs": 904859,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "After not washing my hair for a few days"
+    } ]
+  }, {
+    "tStartMs": 907660,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 908359,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "The color faded"
+    } ]
+  }, {
+    "tStartMs": 909760,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 910260,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "And now it became orange."
+    } ]
+  }, {
+    "tStartMs": 912160,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Oh, mm."
+    } ]
+  }, {
+    "tStartMs": 914559,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "But if it's bright red"
+    } ]
+  }, {
+    "tStartMs": 916660,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Well, it at least has some individuality"
+    } ]
+  }, {
+    "tStartMs": 918859,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 919459,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "But when it became orange"
+    } ]
+  }, {
+    "tStartMs": 920859,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 921760,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "It ended up looking like a delinquent again."
+    } ]
+  }, {
+    "tStartMs": 924760,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "What could it be?"
+    } ]
+  }, {
+    "tStartMs": 925660,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "The power of the yellow tones"
+    } ]
+  }, {
+    "tStartMs": 928260,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 928760,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "It really does remind you of a delinquent right away."
+    } ]
+  }, {
+    "tStartMs": 930859,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 931760,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "A punk."
+    } ]
+  }, {
+    "tStartMs": 932660,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Wow, so after it became orange"
+    } ]
+  }, {
+    "tStartMs": 934859,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 935359,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "I couldn't stand it for a few days"
+    } ]
+  }, {
+    "tStartMs": 936459,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Mm, mm, mm."
+    } ]
+  }, {
+    "tStartMs": 937359,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "And just dyed it again to something close to black"
+    } ]
+  }, {
+    "tStartMs": 939859,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "A dark brown."
+    } ]
+  }, {
+    "tStartMs": 942160,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 943359,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So after that, I haven't done it again."
+    } ]
+  }, {
+    "tStartMs": 945260,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How long was that whole period?"
+    } ]
+  }, {
+    "tStartMs": 947260,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "That"
+    } ]
+  }, {
+    "tStartMs": 948760,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "My individualistic phase."
+    } ]
+  }, {
+    "tStartMs": 949959,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, it wasn't that long."
+    } ]
+  }, {
+    "tStartMs": 951459,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "About two weeks?"
+    } ]
+  }, {
+    "tStartMs": 952559,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 954160,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 954959,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "Wow, it really didn't suit you."
+    } ]
+  }, {
+    "tStartMs": 958459,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I think if"
+    } ]
+  }, {
+    "tStartMs": 959859,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 960459,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Red hair"
+    } ]
+  }, {
+    "tStartMs": 961660,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "If that red color had been maintained"
+    } ]
+  }, {
+    "tStartMs": 964059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 965059,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "Um, I think it would have lasted a bit longer"
+    } ]
+  }, {
+    "tStartMs": 968260,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 968959,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It changed too quickly to this really ugly orange"
+    } ]
+  }, {
+    "tStartMs": 971559,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 972059,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "So I just quit."
+    } ]
+  }, {
+    "tStartMs": 973459,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 974660,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "That's why I stopped."
+    } ]
+  }, {
+    "tStartMs": 976859,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 978559,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "You know there are shampoos that prevent that color from fading?"
+    } ]
+  }, {
+    "tStartMs": 982260,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 983359,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Yes, after dyeing like that"
+    } ]
+  }, {
+    "tStartMs": 985859,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 986359,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "There's something called color-depositing shampoo"
+    } ]
+  }, {
+    "tStartMs": 988160,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "You have to use a shampoo that keeps the color from fading"
+    } ]
+  }, {
+    "tStartMs": 991359,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "And it lasts a bit longer."
+    } ]
+  }, {
+    "tStartMs": 992859,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Oh, so you had to use something separate like that."
+    } ]
+  }, {
+    "tStartMs": 995260,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 995859,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "So it ended pretty early then?"
+    } ]
+  }, {
+    "tStartMs": 998160,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 999059,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Sigh."
+    } ]
+  }, {
+    "tStartMs": 1000260,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "Um, was that your most radical hairstyle?"
+    } ]
+  }, {
+    "tStartMs": 1006160,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I think so."
+    } ]
+  }, {
+    "tStartMs": 1008459,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Other than that, well"
+    } ]
+  }, {
+    "tStartMs": 1010059,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I did a buzz cut in high school"
+    } ]
+  }, {
+    "tStartMs": 1015559,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "A buzz cut"
+    } ]
+  }, {
+    "tStartMs": 1017059,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "It was really shocking."
+    } ]
+  }, {
+    "tStartMs": 1018459,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "A buzz cut, why did you get a buzz cut?"
+    } ]
+  }, {
+    "tStartMs": 1020859,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Back then"
+    } ]
+  }, {
+    "tStartMs": 1022559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A shaved head?"
+    } ]
+  }, {
+    "tStartMs": 1023559,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "Yes, a shaved head."
+    } ]
+  }, {
+    "tStartMs": 1025660,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "I thought I needed to focus on studying"
+    } ]
+  }, {
+    "tStartMs": 1028459,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1030260,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "No, actually I don't remember exactly"
+    } ]
+  }, {
+    "tStartMs": 1033160,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Why I did it"
+    } ]
+  }, {
+    "tStartMs": 1034260,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1035160,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "In high school back then"
+    } ]
+  }, {
+    "tStartMs": 1037559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because of growth hormones"
+    } ]
+  }, {
+    "tStartMs": 1039559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You do a lot of impulsive things, right?"
+    } ]
+  }, {
+    "tStartMs": 1041559,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1043260,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "So kind of"
+    } ]
+  }, {
+    "tStartMs": 1044760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I did it impulsively"
+    } ]
+  }, {
+    "tStartMs": 1046760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Just like that."
+    } ]
+  }, {
+    "tStartMs": 1048160,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1049660,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "It was right before the end of summer break that year"
+    } ]
+  }, {
+    "tStartMs": 1052559,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1053859,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1056760,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Actually"
+    } ]
+  }, {
+    "tStartMs": 1058260,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "When I entered high school and in my first semester of first year"
+    } ]
+  }, {
+    "tStartMs": 1061959,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "I was first in the whole school, you know?"
+    } ]
+  }, {
+    "tStartMs": 1065160,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Oh, but"
+    } ]
+  }, {
+    "tStartMs": 1066260,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But, but"
+    } ]
+  }, {
+    "tStartMs": 1068660,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "Oh, but, but"
+    } ]
+  }, {
+    "tStartMs": 1070359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, keep listening."
+    } ]
+  }, {
+    "tStartMs": 1071359,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Yes, okay."
+    } ]
+  }, {
+    "tStartMs": 1072459,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "But it was a special kind of school."
+    } ]
+  }, {
+    "tStartMs": 1073959,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "A special school."
+    } ]
+  }, {
+    "tStartMs": 1075260,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "What, how so?"
+    } ]
+  }, {
+    "tStartMs": 1076760,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "The school was really small."
+    } ]
+  }, {
+    "tStartMs": 1078859,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "A small school."
+    } ]
+  }, {
+    "tStartMs": 1080260,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Yes, so"
+    } ]
+  }, {
+    "tStartMs": 1080959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How many students were there?"
+    } ]
+  }, {
+    "tStartMs": 1082959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There were only 60 students per grade."
+    } ]
+  }, {
+    "tStartMs": 1084959,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1086959,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Among those 60, being first place too"
+    } ]
+  }, {
+    "tStartMs": 1088660,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Oh, and"
+    } ]
+  }, {
+    "tStartMs": 1089760,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "The school atmosphere was kind of"
+    } ]
+  }, {
+    "tStartMs": 1091559,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "not really an academically-focused school."
+    } ]
+  }, {
+    "tStartMs": 1094760,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1096559,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1097260,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "The environment was good?"
+    } ]
+  }, {
+    "tStartMs": 1098559,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Yes, it was kind of a free ride."
+    } ]
+  }, {
+    "tStartMs": 1101760,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "Oh, but, well"
+    } ]
+  }, {
+    "tStartMs": 1103059,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Yeah, yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 1103660,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Even so"
+    } ]
+  }, {
+    "tStartMs": 1105859,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Even so"
+    } ]
+  }, {
+    "tStartMs": 1107160,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I wasn't overwhelmingly first place, you know?"
+    } ]
+  }, {
+    "tStartMs": 1109260,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1109959,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "There were"
+    } ]
+  }, {
+    "tStartMs": 1110859,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "friends who were at about my level"
+    } ]
+  }, {
+    "tStartMs": 1112760,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "who were pretty evenly matched with me."
+    } ]
+  }, {
+    "tStartMs": 1115359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1116359,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "So if you weren't careful"
+    } ]
+  }, {
+    "tStartMs": 1117659,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "second place could become third place"
+    } ]
+  }, {
+    "tStartMs": 1120159,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1120859,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "That's the kind of level it was"
+    } ]
+  }, {
+    "tStartMs": 1123059,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So first, second, and third place were competitive."
+    } ]
+  }, {
+    "tStartMs": 1124859,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1125559,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1126359,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "But"
+    } ]
+  }, {
+    "tStartMs": 1127659,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "After spending first year, first semester like that"
+    } ]
+  }, {
+    "tStartMs": 1129460,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1130159,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and spending summer break"
+    } ]
+  }, {
+    "tStartMs": 1132559,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1133059,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Around the time that summer break ended"
+    } ]
+  }, {
+    "tStartMs": 1134460,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I got a buzz cut and came back"
+    } ]
+  }, {
+    "tStartMs": 1136260,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1137159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When I came back"
+    } ]
+  }, {
+    "tStartMs": 1139159,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I really felt that appearance was important."
+    } ]
+  }, {
+    "tStartMs": 1142159,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Sigh."
+    } ]
+  }, {
+    "tStartMs": 1143559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Friends looked at me differently."
+    } ]
+  }, {
+    "tStartMs": 1145559,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1146760,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "No, like."
+    } ]
+  }, {
+    "tStartMs": 1148260,
+    "dDurationMs": 399,
+    "segs": [ {
+      "utf8": "Kind of."
+    } ]
+  }, {
+    "tStartMs": 1148659,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "They wouldn't play with me?"
+    } ]
+  }, {
+    "tStartMs": 1149760,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "It seemed like they wouldn't play with me."
+    } ]
+  }, {
+    "tStartMs": 1151460,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Maybe it was just something I felt."
+    } ]
+  }, {
+    "tStartMs": 1152960,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1153460,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "No, just the way I felt it."
+    } ]
+  }, {
+    "tStartMs": 1155159,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1155760,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "It seemed like they were embarrassed to be around me."
+    } ]
+  }, {
+    "tStartMs": 1157659,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Actually, I was the one who was embarrassed to lift my head."
+    } ]
+  }, {
+    "tStartMs": 1159659,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Aha."
+    } ]
+  }, {
+    "tStartMs": 1161359,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Right. That's probably what happened."
+    } ]
+  }, {
+    "tStartMs": 1164059,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "That's actually what it was."
+    } ]
+  }, {
+    "tStartMs": 1165159,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "All my friends were really nice kids."
+    } ]
+  }, {
+    "tStartMs": 1166659,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1168659,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But whenever I lifted my head, my face would turn red."
+    } ]
+  }, {
+    "tStartMs": 1173659,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A bit."
+    } ]
+  }, {
+    "tStartMs": 1174659,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "It's a side effect."
+    } ]
+  }, {
+    "tStartMs": 1175859,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "So like, a bit."
+    } ]
+  }, {
+    "tStartMs": 1176960,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1178359,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Even during break time I'd keep my head down."
+    } ]
+  }, {
+    "tStartMs": 1180960,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I'd bow my head."
+    } ]
+  }, {
+    "tStartMs": 1182260,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1183359,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "It was like a dark period, you know?"
+    } ]
+  }, {
+    "tStartMs": 1184760,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I only studied."
+    } ]
+  }, {
+    "tStartMs": 1186260,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Uh."
+    } ]
+  }, {
+    "tStartMs": 1187059,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "So it does have that kind of effect."
+    } ]
+  }, {
+    "tStartMs": 1188659,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1189460,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Uh."
+    } ]
+  }, {
+    "tStartMs": 1190260,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So after going through that dark period."
+    } ]
+  }, {
+    "tStartMs": 1192260,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "I came out as overwhelmingly first place."
+    } ]
+  }, {
+    "tStartMs": 1194359,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1196359,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1197159,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "The effect is definitely real."
+    } ]
+  }, {
+    "tStartMs": 1199059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The effect is definitely real."
+    } ]
+  }, {
+    "tStartMs": 1201000,
+    "dDurationMs": 14000,
+    "segs": [ {
+      "utf8": "Anyway, so those bitter delinquent dyed hair and the buzz cut from high school—those two are my most radical hairstyles."
+    } ]
+  }, {
+    "tStartMs": 1215000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I don't have any. Radical hairstyles."
+    } ]
+  }, {
+    "tStartMs": 1220000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't want to try it."
+    } ]
+  }, {
+    "tStartMs": 1223000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So like, the layered cut you mentioned earlier, and like, various other cuts, right?"
+    } ]
+  }, {
+    "tStartMs": 1231000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Even if they're not radical, did you try out several different styles?"
+    } ]
+  }, {
+    "tStartMs": 1237000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I was actually going to ask you about hairstyles that were trendy and that you tried copying."
+    } ]
+  }, {
+    "tStartMs": 1246000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I did try one, but I regret it."
+    } ]
+  }, {
+    "tStartMs": 1249000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 1251000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you know what a choppy bang is? Choppy bang?"
+    } ]
+  }, {
+    "tStartMs": 1253000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1254000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's where you cut the bangs really short. Above the eyebrows."
+    } ]
+  }, {
+    "tStartMs": 1261000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Like little kids. That was trendy. Who started it? Mamamoo? Was it because of Wheein?"
+    } ]
+  }, {
+    "tStartMs": 1270000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "There was a time when it was really in style, and I thought if I did it, I'd become cute too, so I tried it."
+    } ]
+  }, {
+    "tStartMs": 1279000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Back then I don't know how I managed to go around like that, but now I'm like, why did I do that?"
+    } ]
+  }, {
+    "tStartMs": 1287000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I searched Mamamoo, Wheein, choppy bang and it comes right up."
+    } ]
+  }, {
+    "tStartMs": 1291000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It does."
+    } ]
+  }, {
+    "tStartMs": 1294000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Looking at it this way, it doesn't look bad, does it?"
+    } ]
+  }, {
+    "tStartMs": 1298000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It looked good on her."
+    } ]
+  }, {
+    "tStartMs": 1299000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1300000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But I didn't know it was trendy, and I didn't know why it was trendy either."
+    } ]
+  }, {
+    "tStartMs": 1307000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Back then I saw a lot of people doing this on the street."
+    } ]
+  }, {
+    "tStartMs": 1311000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And I saw one or two people I know who did it too."
+    } ]
+  }, {
+    "tStartMs": 1316000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And I was like, why are they doing that?"
+    } ]
+  }, {
+    "tStartMs": 1320000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Everyone probably thought the same thing, right? When they saw me?"
+    } ]
+  }, {
+    "tStartMs": 1324000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It feels like trying to be cute, you know? It's not pretty, right? The hair?"
+    } ]
+  }, {
+    "tStartMs": 1329000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a bit hard to understand, I'd say?"
+    } ]
+  }, {
+    "tStartMs": 1331000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hard to understand, so?"
+    } ]
+  }, {
+    "tStartMs": 1333000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. Why? Why? Like, why? Why? Why?"
+    } ]
+  }, {
+    "tStartMs": 1338000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's cute though. Cuteness."
+    } ]
+  }, {
+    "tStartMs": 1340000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Cuteness."
+    } ]
+  }, {
+    "tStartMs": 1341000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But because this is a bit unique, I think that's why I tried it."
+    } ]
+  }, {
+    "tStartMs": 1344000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah, it is pretty unique."
+    } ]
+  }, {
+    "tStartMs": 1345000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And your impression changes a lot."
+    } ]
+  }, {
+    "tStartMs": 1349000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And this kind of thing, even if it fails, it seems to grow out quickly."
+    } ]
+  }, {
+    "tStartMs": 1353000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1355000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1356000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 1357000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1358000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 1359000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1361000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1362000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1363000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1364000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1365000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1366000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1367000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1368000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And with this one, even if it fails, it grows back quickly if you just let it grow a little."
+    } ]
+  }, {
+    "tStartMs": 1373000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Even just one month and you can restore it to its original state."
+    } ]
+  }, {
+    "tStartMs": 1377000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1379000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've tried it once or twice."
+    } ]
+  }, {
+    "tStartMs": 1383000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Choppy bangs. A hairstyle called choppy bangs."
+    } ]
+  }, {
+    "tStartMs": 1386000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm not sure why it's called choppy bangs."
+    } ]
+  }, {
+    "tStartMs": 1389000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But don't you call that front hair a \"bang\"?"
+    } ]
+  }, {
+    "tStartMs": 1391000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. That's right. That's right."
+    } ]
+  }, {
+    "tStartMs": 1392000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1395000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Choppy."
+    } ]
+  }, {
+    "tStartMs": 1396000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But I used to do choppy bangs pretty often."
+    } ]
+  }, {
+    "tStartMs": 1398000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You still have choppy bangs now. A little bit."
+    } ]
+  }, {
+    "tStartMs": 1400000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Well, kind of, yeah."
+    } ]
+  }, {
+    "tStartMs": 1401000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1402000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a bit longer than that."
+    } ]
+  }, {
+    "tStartMs": 1405000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. But sometimes I cut the bangs even shorter than they are now."
+    } ]
+  }, {
+    "tStartMs": 1411000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But when you do that, it feels refreshing and all."
+    } ]
+  }, {
+    "tStartMs": 1415000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah, that's true."
+    } ]
+  }, {
+    "tStartMs": 1417000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That Ivy League cut, you know? Do you know it?"
+    } ]
+  }, {
+    "tStartMs": 1420000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 1421000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Uh, you don't know?"
+    } ]
+  }, {
+    "tStartMs": 1422000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ivy League?"
+    } ]
+  }, {
+    "tStartMs": 1423000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ivy League?"
+    } ]
+  }, {
+    "tStartMs": 1425000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Kind of like Jung Hye-in's hair."
+    } ]
+  }, {
+    "tStartMs": 1428000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Or Yoo Ah-in did it too."
+    } ]
+  }, {
+    "tStartMs": 1431000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A really short cut?"
+    } ]
+  }, {
+    "tStartMs": 1434000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think that was trendy too."
+    } ]
+  }, {
+    "tStartMs": 1437000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah. Yeah."
+    } ]
+  }, {
+    "tStartMs": 1438000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You see it when you go to the mall."
+    } ]
+  }, {
+    "tStartMs": 1441000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I've tried it. A short cut. An Ivy League cut."
+    } ]
+  }, {
+    "tStartMs": 1446000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So that's what you call an Ivy League cut."
+    } ]
+  }, {
+    "tStartMs": 1449000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Uh, how do I put it. Like someone who just got discharged from the military a month or two ago."
+    } ]
+  }, {
+    "tStartMs": 1453000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right. That's right."
+    } ]
+  }, {
+    "tStartMs": 1455000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I used to do it like that often too."
+    } ]
+  }, {
+    "tStartMs": 1458000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Short hair is more convenient for me, actually."
+    } ]
+  }, {
+    "tStartMs": 1462000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So I like it."
+    } ]
+  }, {
+    "tStartMs": 1466000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It really seems like it would be convenient."
+    } ]
+  }, {
+    "tStartMs": 1467000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It really is convenient."
+    } ]
+  }, {
+    "tStartMs": 1468000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It really seems like it would be convenient."
+    } ]
+  }, {
+    "tStartMs": 1469000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1472000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Even just ten seconds after washing your hair and it's all dry."
+    } ]
+  }, {
+    "tStartMs": 1476000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yeah, exactly. Sometimes you don't even have to wash your hair."
+    } ]
+  }, {
+    "tStartMs": 1480000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That sounds really nice?"
+    } ]
+  }, {
+    "tStartMs": 1482000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. But the only thing is?"
+    } ]
+  }, {
+    "tStartMs": 1483000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The only thing?"
+    } ]
+  }, {
+    "tStartMs": 1484000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You look a bit ugly."
+    } ]
+  }, {
+    "tStartMs": 1486000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because of your hair?"
+    } ]
+  }, {
+    "tStartMs": 1488000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "If your face doesn't support it well, there's the downside of looking ugly."
+    } ]
+  }, {
+    "tStartMs": 1493000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, really? I think the shape of your head is pretty important."
+    } ]
+  }, {
+    "tStartMs": 1496000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The shape of your head is important too."
+    } ]
+  }, {
+    "tStartMs": 1501000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If you have longer hair,"
+    } ]
+  }, {
+    "tStartMs": 1504000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it covers things up, right?"
+    } ]
+  }, {
+    "tStartMs": 1508000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It covers up to your eyebrows too."
+    } ]
+  }, {
+    "tStartMs": 1510000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It covers things up."
+    } ]
+  }, {
+    "tStartMs": 1511000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So your attention gets scattered, you know?"
+    } ]
+  }, {
+    "tStartMs": 1513000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1514000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And your forehead gets covered too."
+    } ]
+  }, {
+    "tStartMs": 1518000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But with this short hair, my face is completely exposed, you know?"
+    } ]
+  }, {
+    "tStartMs": 1527000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So if you don't have confidence in your face,"
+    } ]
+  }, {
+    "tStartMs": 1529000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it might be more comfortable not to do it."
+    } ]
+  }, {
+    "tStartMs": 1532000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's better when good-looking people do it."
+    } ]
+  }, {
+    "tStartMs": 1534000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1536000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Well, that's probably true for anything."
+    } ]
+  }, {
+    "tStartMs": 1537000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It seems like it's one of those hairstyles that's kind of hard to pull off."
+    } ]
+  }, {
+    "tStartMs": 1540000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 1543000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So if you, Teacher Tae-woong, don't know about these different cuts and stuff,"
+    } ]
+  }, {
+    "tStartMs": 1548000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "how do you explain it? When you go to the salon?"
+    } ]
+  }, {
+    "tStartMs": 1550000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Do you just say, \"Cut it short for me\"?"
+    } ]
+  }, {
+    "tStartMs": 1555000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What I do is,"
+    } ]
+  }, {
+    "tStartMs": 1557000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "before, I used to tell them how to cut here and how much to cut there,"
+    } ]
+  }, {
+    "tStartMs": 1565000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but there was a time when I had hair that I really liked."
+    } ]
+  }, {
+    "tStartMs": 1570000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I took a photo of it back then,"
+    } ]
+  }, {
+    "tStartMs": 1574000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and even when I go to a hairdresser I've never seen before,"
+    } ]
+  }, {
+    "tStartMs": 1578000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I show them that photo,"
+    } ]
+  }, {
+    "tStartMs": 1580000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and it's amazing."
+    } ]
+  }, {
+    "tStartMs": 1581000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Cut it like this for me."
+    } ]
+  }, {
+    "tStartMs": 1582000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because it's my face, you know."
+    } ]
+  }, {
+    "tStartMs": 1584000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "If it's someone like Jung Hye-in or Yoo Ah-in,"
+    } ]
+  }, {
+    "tStartMs": 1587000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "people usually do that, right? But"
+    } ]
+  }, {
+    "tStartMs": 1589000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the faces are different, aren't they?"
+    } ]
+  }, {
+    "tStartMs": 1591000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That person's face and my face are different."
+    } ]
+  }, {
+    "tStartMs": 1595000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So later I'm not happy with the hair."
+    } ]
+  }, {
+    "tStartMs": 1597000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But then you have nothing to say, right?"
+    } ]
+  }, {
+    "tStartMs": 1600000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "This hair is Yoo Ah-in's hair too. If you do that, you have nothing to say."
+    } ]
+  }, {
+    "tStartMs": 1604000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But when I show my own example,"
+    } ]
+  }, {
+    "tStartMs": 1608000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the success rate is much higher."
+    } ]
+  }, {
+    "tStartMs": 1610000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's a good idea."
+    } ]
+  }, {
+    "tStartMs": 1612000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You save one life-changing hairstyle,"
+    } ]
+  }, {
+    "tStartMs": 1616000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and show your own photo?"
+    } ]
+  }, {
+    "tStartMs": 1618000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1620000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Because hairdressers have"
+    } ]
+  }, {
+    "tStartMs": 1623000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that level of expertise anyway."
+    } ]
+  }, {
+    "tStartMs": 1625000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1626000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But head shapes really are different,"
+    } ]
+  }, {
+    "tStartMs": 1629000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and face shapes, you know? Everyone's face is different."
+    } ]
+  }, {
+    "tStartMs": 1632000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1633000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But head shapes really are different,"
+    } ]
+  }, {
+    "tStartMs": 1636000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and face shapes, you know? Faces are completely different,"
+    } ]
+  }, {
+    "tStartMs": 1640000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "if you bring in a really cool men's hairstyle"
+    } ]
+  }, {
+    "tStartMs": 1644000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and say, \"Do it like this for me,\" how awkward would that be?"
+    } ]
+  }, {
+    "tStartMs": 1648000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's a good method."
+    } ]
+  }, {
+    "tStartMs": 1650000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1652000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But you'd end up doing the same style all the time, wouldn't you?"
+    } ]
+  }, {
+    "tStartMs": 1657000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There is that downside."
+    } ]
+  }, {
+    "tStartMs": 1659000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "So anyway,"
+    } ]
+  }, {
+    "tStartMs": 1660000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "for people who like that, that method would be good."
+    } ]
+  }, {
+    "tStartMs": 1664000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "For someone like me, I always stay stable without stress,"
+    } ]
+  }, {
+    "tStartMs": 1669000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "the safe option."
+    } ]
+  }, {
+    "tStartMs": 1673000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But once you go with the safe option like that,"
+    } ]
+  }, {
+    "tStartMs": 1679000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and the hairdresser gets used to my hair,"
+    } ]
+  }, {
+    "tStartMs": 1684000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "they sometimes ask, \"Would you like to try something new?\" like that."
+    } ]
+  }, {
+    "tStartMs": 1690000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1691000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you say okay sometimes?"
+    } ]
+  }, {
+    "tStartMs": 1694000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1700000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It doesn't really mean anything."
+    } ]
+  }, {
+    "tStartMs": 1703000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1704000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1706000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So when you get your hair done, Tae-woong-nim,"
+    } ]
+  }, {
+    "tStartMs": 1709000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "do you do a little small talk with the hairdresser?"
+    } ]
+  }, {
+    "tStartMs": 1713000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I do it quite a bit these days."
+    } ]
+  }, {
+    "tStartMs": 1717000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it because you've seen the same stylist often?"
+    } ]
+  }, {
+    "tStartMs": 1719000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That seems to be the case."
+    } ]
+  }, {
+    "tStartMs": 1721000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And also,"
+    } ]
+  }, {
+    "tStartMs": 1727000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I go a lot during weekday afternoons."
+    } ]
+  }, {
+    "tStartMs": 1732000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But usually people my age are at work or something,"
+    } ]
+  }, {
+    "tStartMs": 1737000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so wouldn't the hairdresser be a bit curious? You know?"
+    } ]
+  }, {
+    "tStartMs": 1740000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So since I come in during weekday afternoons,"
+    } ]
+  }, {
+    "tStartMs": 1742000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "they sometimes ask things like, is today your day off?"
+    } ]
+  }, {
+    "tStartMs": 1747000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm curious about that."
+    } ]
+  }, {
+    "tStartMs": 1748000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "In those moments, we kind of mention that we do YouTube."
+    } ]
+  }, {
+    "tStartMs": 1752000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There's so much to explain in detail, you know?"
+    } ]
+  }, {
+    "tStartMs": 1757000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And when they're like, oh, you're a YouTuber?"
+    } ]
+  }, {
+    "tStartMs": 1760000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't really like how that goes, so I don't talk about it."
+    } ]
+  }, {
+    "tStartMs": 1764000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What I do and stuff like that."
+    } ]
+  }, {
+    "tStartMs": 1766000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How about you, Tae-woong-nim?"
+    } ]
+  }, {
+    "tStartMs": 1769000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I tell them everything."
+    } ]
+  }, {
+    "tStartMs": 1771000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You don't show them the channel and say subscribe and all that?"
+    } ]
+  }, {
+    "tStartMs": 1775000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I do."
+    } ]
+  }, {
+    "tStartMs": 1776000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that okay?"
+    } ]
+  }, {
+    "tStartMs": 1777000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But at that time, I had just started the podcast,"
+    } ]
+  }, {
+    "tStartMs": 1781000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I had just started the interview guest segment,"
+    } ]
+  }, {
+    "tStartMs": 1784000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so I was like, would you want to come on?"
+    } ]
+  }, {
+    "tStartMs": 1788000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Like a pro YouTuber."
+    } ]
+  }, {
+    "tStartMs": 1789000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Rather, I"
+    } ]
+  }, {
+    "tStartMs": 1791000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "rather took it as a chance."
+    } ]
+  }, {
+    "tStartMs": 1793000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I was like, the hairdresser's story would be fun, would you want to come on?"
+    } ]
+  }, {
+    "tStartMs": 1796000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When I did it that way,"
+    } ]
+  }, {
+    "tStartMs": 1798000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it was amazing."
+    } ]
+  }, {
+    "tStartMs": 1800000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "They didn't come on, though. Too bad."
+    } ]
+  }, {
+    "tStartMs": 1806360,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Amazing! Yes, that's how it was."
+    } ]
+  }, {
+    "tStartMs": 1808600,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But also, hairdressers"
+    } ]
+  }, {
+    "tStartMs": 1813600,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "some have high energy and some have low energy, right?"
+    } ]
+  }, {
+    "tStartMs": 1819900,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "But the stylist who cuts my hair now"
+    } ]
+  }, {
+    "tStartMs": 1822799,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "is on the quieter side,"
+    } ]
+  }, {
+    "tStartMs": 1826600,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "so it's not like they're saying, I want to subscribe, tell me about it,"
+    } ]
+  }, {
+    "tStartMs": 1832000,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "they just talk to me in a really comfortable way."
+    } ]
+  }, {
+    "tStartMs": 1836700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "So there was no pressure."
+    } ]
+  }, {
+    "tStartMs": 1839200,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "That's nice, that's good."
+    } ]
+  }, {
+    "tStartMs": 1841700,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "I always find that a bit burdensome."
+    } ]
+  }, {
+    "tStartMs": 1846299,
+    "dDurationMs": 5101,
+    "segs": [ {
+      "utf8": "When I go get my hair done, when I go to get mail and stuff like that,"
+    } ]
+  }, {
+    "tStartMs": 1851400,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "I'm always doing it around this time, noon,"
+    } ]
+  }, {
+    "tStartMs": 1855500,
+    "dDurationMs": 6599,
+    "segs": [ {
+      "utf8": "so sometimes they ask, but I just say I work as a freelancer, like that."
+    } ]
+  }, {
+    "tStartMs": 1862099,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "I'm not really one for small talk."
+    } ]
+  }, {
+    "tStartMs": 1864500,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "But that seems comfortable."
+    } ]
+  }, {
+    "tStartMs": 1867199,
+    "dDurationMs": 6101,
+    "segs": [ {
+      "utf8": "So that's like, what would you call it, a chronic problem for YouTubers, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1873300,
+    "dDurationMs": 5799,
+    "segs": [ {
+      "utf8": "When you say you do YouTube, people always ask what it is."
+    } ]
+  }, {
+    "tStartMs": 1879099,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Tell me the name."
+    } ]
+  }, {
+    "tStartMs": 1880800,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "And some people even play it right in front of me."
+    } ]
+  }, {
+    "tStartMs": 1885199,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I just want to watch and go home, you know?"
+    } ]
+  }, {
+    "tStartMs": 1890199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So, so that turns into too much of a thing."
+    } ]
+  }, {
+    "tStartMs": 1893199,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "It becomes too much of a thing."
+    } ]
+  }, {
+    "tStartMs": 1895500,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "Actually, you know they won't watch even if they say they'll subscribe and watch right in front of you."
+    } ]
+  }, {
+    "tStartMs": 1901400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "You know they won't watch."
+    } ]
+  }, {
+    "tStartMs": 1903000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Especially since I deal with a foreign audience."
+    } ]
+  }, {
+    "tStartMs": 1905400,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Right, me too, me too."
+    } ]
+  }, {
+    "tStartMs": 1907599,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1908400,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "I actually tell people not to subscribe."
+    } ]
+  }, {
+    "tStartMs": 1911599,
+    "dDurationMs": 5401,
+    "segs": [ {
+      "utf8": "Don't subscribe, I'm saying it's more helpful not to."
+    } ]
+  }, {
+    "tStartMs": 1917000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But anyway, you're not really one for small talk?"
+    } ]
+  }, {
+    "tStartMs": 1919000,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "No, I'm not, I'm not."
+    } ]
+  }, {
+    "tStartMs": 1923500,
+    "dDurationMs": 6199,
+    "segs": [ {
+      "utf8": "Well, I do it, but small talk is kind of like"
+    } ]
+  }, {
+    "tStartMs": 1929699,
+    "dDurationMs": 4901,
+    "segs": [ {
+      "utf8": "places where I've talked about myself, like a hair salon or a nail shop or places like that"
+    } ]
+  }, {
+    "tStartMs": 1934600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I end up not going back a second time."
+    } ]
+  }, {
+    "tStartMs": 1938600,
+    "dDurationMs": 6599,
+    "segs": [ {
+      "utf8": "It's not that the conversation was uncomfortable or anything, or that it wasn't fun or anything like that"
+    } ]
+  }, {
+    "tStartMs": 1945199,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "it's just that I go and start with \"How have you been doing?\""
+    } ]
+  }, {
+    "tStartMs": 1949100,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "and then asking what happened with that thing from back then"
+    } ]
+  }, {
+    "tStartMs": 1952899,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "talking about stuff like that, for some reason feels like a burden to me."
+    } ]
+  }, {
+    "tStartMs": 1956600,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "So I'd rather just go somewhere where nobody knows me"
+    } ]
+  }, {
+    "tStartMs": 1961500,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "and be able to relax."
+    } ]
+  }, {
+    "tStartMs": 1965000,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "So recently I've been thinking"
+    } ]
+  }, {
+    "tStartMs": 1967399,
+    "dDurationMs": 6701,
+    "segs": [ {
+      "utf8": "that when I go to a hair salon or places like that"
+    } ]
+  }, {
+    "tStartMs": 1974100,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "I wish there was a PC so I could confidently watch"
+    } ]
+  }, {
+    "tStartMs": 1978899,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "something like Netflix."
+    } ]
+  }, {
+    "tStartMs": 1980899,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Just watch it openly."
+    } ]
+  }, {
+    "tStartMs": 1983199,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Oh, that's actually an idea though?"
+    } ]
+  }, {
+    "tStartMs": 1985100,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Isn't it good?"
+    } ]
+  }, {
+    "tStartMs": 1985800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, it's not bad actually?"
+    } ]
+  }, {
+    "tStartMs": 1987300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "So later on, even at nail shops"
+    } ]
+  }, {
+    "tStartMs": 1989000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "right now it's completely face-to-face person to person"
+    } ]
+  }, {
+    "tStartMs": 1993000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "there would be a screen like this."
+    } ]
+  }, {
+    "tStartMs": 1994500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "And I'd just put my hand in there."
+    } ]
+  }, {
+    "tStartMs": 1997000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "In the hole."
+    } ]
+  }, {
+    "tStartMs": 1998800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "So you wouldn't be facing each other"
+    } ]
+  }, {
+    "tStartMs": 2001100,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2002199,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I want to watch Netflix."
+    } ]
+  }, {
+    "tStartMs": 2003399,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "I just want to watch movies for like two hours straight."
+    } ]
+  }, {
+    "tStartMs": 2007699,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Oh, you'd think a place like that would exist, but it doesn't?"
+    } ]
+  }, {
+    "tStartMs": 2009899,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It doesn't, it doesn't."
+    } ]
+  }, {
+    "tStartMs": 2011899,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "There's nowhere that openly has a screen like that."
+    } ]
+  }, {
+    "tStartMs": 2014300,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I wonder why?"
+    } ]
+  }, {
+    "tStartMs": 2016000,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "That's an idea."
+    } ]
+  }, {
+    "tStartMs": 2017300,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Yeah, if anyone's preparing to start a business"
+    } ]
+  }, {
+    "tStartMs": 2022600,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "there are customers with this kind of need."
+    } ]
+  }, {
+    "tStartMs": 2025899,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 2028600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But the people working there might"
+    } ]
+  }, {
+    "tStartMs": 2030600,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "feel a bit itchy to talk, you know?"
+    } ]
+  }, {
+    "tStartMs": 2035100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Hmm, I'm curious about that too."
+    } ]
+  }, {
+    "tStartMs": 2036800,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "So that's what I want to ask."
+    } ]
+  }, {
+    "tStartMs": 2039399,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When a customer comes in like this"
+    } ]
+  }, {
+    "tStartMs": 2041399,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "is it better to have a conversation"
+    } ]
+  }, {
+    "tStartMs": 2043500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "or is a quiet customer better"
+    } ]
+  }, {
+    "tStartMs": 2045500,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "I'm curious about that too."
+    } ]
+  }, {
+    "tStartMs": 2047699,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It probably varies from person to person"
+    } ]
+  }, {
+    "tStartMs": 2050699,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 2053100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "when a talkative customer comes, is that easier"
+    } ]
+  }, {
+    "tStartMs": 2055600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "or when a shy, quiet customer comes"
+    } ]
+  }, {
+    "tStartMs": 2059000,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "is that easier instead"
+    } ]
+  }, {
+    "tStartMs": 2061399,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Oh, that's probably something that really varies from person to person"
+    } ]
+  }, {
+    "tStartMs": 2064799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "It probably does vary"
+    } ]
+  }, {
+    "tStartMs": 2067000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "but still"
+    } ]
+  }, {
+    "tStartMs": 2070600,
+    "dDurationMs": 5699,
+    "segs": [ {
+      "utf8": "even if it's a stylist who likes things a bit quiet"
+    } ]
+  }, {
+    "tStartMs": 2076299,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "wouldn't it be a bit strange not to talk to anyone at all?"
+    } ]
+  }, {
+    "tStartMs": 2080100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "All day long?"
+    } ]
+  }, {
+    "tStartMs": 2081100,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2082000,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 2086600,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "I think that could be possible."
+    } ]
+  }, {
+    "tStartMs": 2088899,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2090700,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "Oh, well, there are things like that too, you know."
+    } ]
+  }, {
+    "tStartMs": 2092799,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "There are a lot of people who become really close."
+    } ]
+  }, {
+    "tStartMs": 2095100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2096100,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Like, I become really close with the salon teacher"
+    } ]
+  }, {
+    "tStartMs": 2099200,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "and every time we go, we buy things for each other"
+    } ]
+  }, {
+    "tStartMs": 2102299,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and when I see that, it looks nice, you know."
+    } ]
+  }, {
+    "tStartMs": 2105299,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "When working, if there are customers like that,"
+    } ]
+  }, {
+    "tStartMs": 2108200,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "it seems like it would be enjoyable."
+    } ]
+  }, {
+    "tStartMs": 2109500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Oh, right."
+    } ]
+  }, {
+    "tStartMs": 2110600,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 2111899,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2112700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I like things like that too."
+    } ]
+  }, {
+    "tStartMs": 2114700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I do like it,"
+    } ]
+  }, {
+    "tStartMs": 2116200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "but I wish I had something like that too,"
+    } ]
+  }, {
+    "tStartMs": 2119000,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "but it doesn't work out that way for me."
+    } ]
+  }, {
+    "tStartMs": 2120399,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2122899,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "If I had a close teacher,"
+    } ]
+  }, {
+    "tStartMs": 2125500,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "it would be fun every time I went."
+    } ]
+  }, {
+    "tStartMs": 2127600,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "So I'd rather wish I had a friend who's a hairdresser."
+    } ]
+  }, {
+    "tStartMs": 2131500,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Oh, that makes sense."
+    } ]
+  }, {
+    "tStartMs": 2132899,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "Like, you become close with someone outside, and then it turns out they're a hairdresser"
+    } ]
+  }, {
+    "tStartMs": 2136100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2138000,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "and you end up going there"
+    } ]
+  }, {
+    "tStartMs": 2140399,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "or something like that."
+    } ]
+  }, {
+    "tStartMs": 2141799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Maybe something like that will happen someday."
+    } ]
+  }, {
+    "tStartMs": 2143799,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "Isn't it just that you haven't met a hairdresser you really like?"
+    } ]
+  }, {
+    "tStartMs": 2149000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sigh."
+    } ]
+  }, {
+    "tStartMs": 2150000,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Well, that could be it."
+    } ]
+  }, {
+    "tStartMs": 2151399,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2151799,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "I'm planning to keep going to different salons."
+    } ]
+  }, {
+    "tStartMs": 2154100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 2155700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So Tae-woong, in a foreign country,"
+    } ]
+  }, {
+    "tStartMs": 2158100,
+    "dDurationMs": 199,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2158299,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "have you been to a salon?"
+    } ]
+  }, {
+    "tStartMs": 2160799,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 2162000,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "Oh, well, when I was in Bangladesh for a year,"
+    } ]
+  }, {
+    "tStartMs": 2164299,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2164899,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "I went regularly,"
+    } ]
+  }, {
+    "tStartMs": 2166100,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Mm-hmm-hmm."
+    } ]
+  }, {
+    "tStartMs": 2166700,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "and while traveling too,"
+    } ]
+  }, {
+    "tStartMs": 2169600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I went once in Thailand."
+    } ]
+  }, {
+    "tStartMs": 2172600,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "In Chiang Mai."
+    } ]
+  }, {
+    "tStartMs": 2173799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2174799,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "How was the experience when you did it in places like that?"
+    } ]
+  }, {
+    "tStartMs": 2178500,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "Like, why is it that in Korea, when you get your hair cut,"
+    } ]
+  }, {
+    "tStartMs": 2181399,
+    "dDurationMs": 301,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2181700,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "they cover everything below your neck and wrap it around,"
+    } ]
+  }, {
+    "tStartMs": 2184799,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2185299,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2186000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and cut it neatly,"
+    } ]
+  }, {
+    "tStartMs": 2187500,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Hehe."
+    } ]
+  }, {
+    "tStartMs": 2188100,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "and after cutting,"
+    } ]
+  }, {
+    "tStartMs": 2190399,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "you go to the hair-washing area and wash your hair,"
+    } ]
+  }, {
+    "tStartMs": 2192700,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2193100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "and then you come back and they blow-dry it again"
+    } ]
+  }, {
+    "tStartMs": 2196799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and make it really neat, you know."
+    } ]
+  }, {
+    "tStartMs": 2198799,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "Right, they make it so you can go straight to your next appointment."
+    } ]
+  }, {
+    "tStartMs": 2201700,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2202399,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Mm-hmm, mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 2203100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "But there were places that weren't like that either."
+    } ]
+  }, {
+    "tStartMs": 2205000,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2206399,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "Yeah, well, there were places like that too."
+    } ]
+  }, {
+    "tStartMs": 2209200,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Um, the place I went to in Bangladesh—"
+    } ]
+  }, {
+    "tStartMs": 2214000,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "It's a characteristic of Bangladesh as a country."
+    } ]
+  }, {
+    "tStartMs": 2215899,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2217500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "I'm curious."
+    } ]
+  }, {
+    "tStartMs": 2218299,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Uh, men and women—"
+    } ]
+  }, {
+    "tStartMs": 2220799,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2221700,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "They really avoid physical contact with each other."
+    } ]
+  }, {
+    "tStartMs": 2226500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 2227600,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "So men's barbershops only have male barbers."
+    } ]
+  }, {
+    "tStartMs": 2230899,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Ah, yes, it's kind of strict."
+    } ]
+  }, {
+    "tStartMs": 2233500,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "Right, it's pretty much strict—strict shops."
+    } ]
+  }, {
+    "tStartMs": 2235799,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Mm-hmm, mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 2236399,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2237500,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "And in Korean hair salons,"
+    } ]
+  }, {
+    "tStartMs": 2241899,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "when you get your hair cut,"
+    } ]
+  }, {
+    "tStartMs": 2243799,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "they naturally wash your hair for you, right?"
+    } ]
+  }, {
+    "tStartMs": 2246500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2247299,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "But there, you have to pay extra to get your hair washed."
+    } ]
+  }, {
+    "tStartMs": 2250200,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 2252799,
+    "dDurationMs": 301,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2253100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So there's that difference."
+    } ]
+  }, {
+    "tStartMs": 2254600,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2255000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "And if you pay a bit more,"
+    } ]
+  }, {
+    "tStartMs": 2257100,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "they do a scalp massage while washing your hair, I heard."
+    } ]
+  }, {
+    "tStartMs": 2260700,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2261200,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "If you want the final styling too, you'd have to pay more then."
+    } ]
+  }, {
+    "tStartMs": 2263700,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2264600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 2266500,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "The base price is maybe a bit cheaper instead,"
+    } ]
+  }, {
+    "tStartMs": 2270200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 2272000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Uh, by Korean standards it's cheap,"
+    } ]
+  }, {
+    "tStartMs": 2274500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm-hmm, mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 2275500,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Well."
+    } ]
+  }, {
+    "tStartMs": 2276000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Looking at the cost of living,"
+    } ]
+  }, {
+    "tStartMs": 2277799,
+    "dDurationMs": 301,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2278100,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "For people in that country,"
+    } ]
+  }, {
+    "tStartMs": 2280799,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "it still seemed pretty expensive."
+    } ]
+  }, {
+    "tStartMs": 2282399,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Hmm, really?"
+    } ]
+  }, {
+    "tStartMs": 2283899,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2284399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 2285399,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "Ah, but this is also something that depends on"
+    } ]
+  }, {
+    "tStartMs": 2288100,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "the hair salon itself, I think."
+    } ]
+  }, {
+    "tStartMs": 2291200,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Salon by salon."
+    } ]
+  }, {
+    "tStartMs": 2292700,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2293200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "I think I went to a pretty nice place."
+    } ]
+  }, {
+    "tStartMs": 2295100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Ah, so that was it."
+    } ]
+  }, {
+    "tStartMs": 2297000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2298200,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "This hair—"
+    } ]
+  }, {
+    "tStartMs": 2300299,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Since you mentioned washing and drying and all that,"
+    } ]
+  }, {
+    "tStartMs": 2303299,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2305000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "One of the worst hair salons"
+    } ]
+  }, {
+    "tStartMs": 2307200,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 2308100,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "that I went to—"
+    } ]
+  }, {
+    "tStartMs": 2310299,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2310899,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 2311399,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "I had gotten a perm before."
+    } ]
+  }, {
+    "tStartMs": 2313000,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2313599,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "I got a perm,"
+    } ]
+  }, {
+    "tStartMs": 2314400,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "but my hair just doesn't take perms well at all."
+    } ]
+  }, {
+    "tStartMs": 2317500,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2318400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I've confused many stylists,"
+    } ]
+  }, {
+    "tStartMs": 2321200,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "and there have been times they didn't even charge me."
+    } ]
+  }, {
+    "tStartMs": 2322799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Because the perm just wouldn't take at all."
+    } ]
+  }, {
+    "tStartMs": 2324299,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2325099,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Yes, after working on it for an hour or two,"
+    } ]
+  }, {
+    "tStartMs": 2326900,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "they'd say it's done,"
+    } ]
+  }, {
+    "tStartMs": 2328000,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "but the perm wouldn't take at all."
+    } ]
+  }, {
+    "tStartMs": 2331099,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 2332500,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "I don't even know why that is."
+    } ]
+  }, {
+    "tStartMs": 2333599,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "My hair has no strength to it at all."
+    } ]
+  }, {
+    "tStartMs": 2335900,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 2337099,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "So it doesn't take then."
+    } ]
+  }, {
+    "tStartMs": 2338500,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2339200,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 2340599,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "at that salon too,"
+    } ]
+  }, {
+    "tStartMs": 2341599,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "at that not-so-good salon,"
+    } ]
+  }, {
+    "tStartMs": 2343200,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I got a perm"
+    } ]
+  }, {
+    "tStartMs": 2344500,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "and washed my hair and came out,"
+    } ]
+  }, {
+    "tStartMs": 2346299,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "but the perm didn't take."
+    } ]
+  }, {
+    "tStartMs": 2347599,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "And the stylist seemed flustered too."
+    } ]
+  }, {
+    "tStartMs": 2350200,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Because it didn't come out well."
+    } ]
+  }, {
+    "tStartMs": 2351299,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2352400,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 2353500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "really quickly"
+    } ]
+  }, {
+    "tStartMs": 2355000,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "my hair too,"
+    } ]
+  }, {
+    "tStartMs": 2356099,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "they didn't dry it completely,"
+    } ]
+  }, {
+    "tStartMs": 2357299,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "they just quickly got me dressed"
+    } ]
+  }, {
+    "tStartMs": 2359000,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "and rushed me to pay and sent me out."
+    } ]
+  }, {
+    "tStartMs": 2362099,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "That's"
+    } ]
+  }, {
+    "tStartMs": 2363500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "dodging responsibility."
+    } ]
+  }, {
+    "tStartMs": 2364900,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Yes. The stylist was so startled"
+    } ]
+  }, {
+    "tStartMs": 2367099,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "that she"
+    } ]
+  }, {
+    "tStartMs": 2368500,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "just roughly dried my hair like this"
+    } ]
+  }, {
+    "tStartMs": 2370400,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "and quickly had me pay and got me dressed"
+    } ]
+  }, {
+    "tStartMs": 2372099,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "and sent me out like that, all in a daze."
+    } ]
+  }, {
+    "tStartMs": 2374400,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "But that was the middle of winter, you know."
+    } ]
+  }, {
+    "tStartMs": 2377200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2378000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "And water was just"
+    } ]
+  }, {
+    "tStartMs": 2379200,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "dripping from my hair"
+    } ]
+  }, {
+    "tStartMs": 2381799,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "because she did it so roughly,"
+    } ]
+  }, {
+    "tStartMs": 2383000,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "and I caught a really bad cold that day."
+    } ]
+  }, {
+    "tStartMs": 2386299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You even caught a cold?"
+    } ]
+  }, {
+    "tStartMs": 2387299,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "I caught a cold back then."
+    } ]
+  }, {
+    "tStartMs": 2389000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "That was truly the worst experience."
+    } ]
+  }, {
+    "tStartMs": 2391200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Like, spending two hours doing my hair,"
+    } ]
+  }, {
+    "tStartMs": 2393000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "and that process is tiring too,"
+    } ]
+  }, {
+    "tStartMs": 2395400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and after it was done I came out,"
+    } ]
+  }, {
+    "tStartMs": 2396900,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "with my hair not dried,"
+    } ]
+  }, {
+    "tStartMs": 2398000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I was walking around outside in the middle of winter like that."
+    } ]
+  }, {
+    "tStartMs": 2401000,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "It was the worst experience."
+    } ]
+  }, {
+    "tStartMs": 2402760,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Wow..."
+    } ]
+  }, {
+    "tStartMs": 2404200,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Because of those various experiences where perms don't take well,"
+    } ]
+  }, {
+    "tStartMs": 2408920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I don't get perms anymore. I decided not to."
+    } ]
+  }, {
+    "tStartMs": 2411560,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Mm..."
+    } ]
+  }, {
+    "tStartMs": 2414560,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Ah, then you wouldn't want to do it."
+    } ]
+  }, {
+    "tStartMs": 2416959,
+    "dDurationMs": 7201,
+    "segs": [ {
+      "utf8": "At a place where they wash all your hair and do a pretty final styling,"
+    } ]
+  }, {
+    "tStartMs": 2424160,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "I ended up going back several more times."
+    } ]
+  }, {
+    "tStartMs": 2427719,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "I think the styling is pretty important too."
+    } ]
+  }, {
+    "tStartMs": 2430240,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2432119,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Well, since you said you're going to meet friends right after."
+    } ]
+  }, {
+    "tStartMs": 2434919,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "That's right. That's right."
+    } ]
+  }, {
+    "tStartMs": 2437439,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "I tell people not to do it."
+    } ]
+  }, {
+    "tStartMs": 2441040,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "The styling?"
+    } ]
+  }, {
+    "tStartMs": 2441639,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2442439,
+    "dDurationMs": 3241,
+    "segs": [ {
+      "utf8": "I'm just going home anyway, so just do it roughly for me, like that?"
+    } ]
+  }, {
+    "tStartMs": 2445680,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Um... yes. That's..."
+    } ]
+  }, {
+    "tStartMs": 2448520,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "I don't go to the gym now,"
+    } ]
+  }, {
+    "tStartMs": 2451360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "but I used to go to the gym all the time back then."
+    } ]
+  }, {
+    "tStartMs": 2453840,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 2455560,
+    "dDurationMs": 6039,
+    "segs": [ {
+      "utf8": "When you cut men's hair, with clippers and stuff?"
+    } ]
+  }, {
+    "tStartMs": 2461599,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "They shave the hair with those kinds of tools,"
+    } ]
+  }, {
+    "tStartMs": 2465080,
+    "dDurationMs": 8119,
+    "segs": [ {
+      "utf8": "so really short little hairs stay on your clothes like dust"
+    } ]
+  }, {
+    "tStartMs": 2473199,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "and there's a lot left on your chin and places like that."
+    } ]
+  }, {
+    "tStartMs": 2477000,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "So no matter how much styling they do,"
+    } ]
+  }, {
+    "tStartMs": 2480440,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "you have to take a full shower that day"
+    } ]
+  }, {
+    "tStartMs": 2484239,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "to wash away all those tiny short hairs stuck on your neck."
+    } ]
+  }, {
+    "tStartMs": 2489919,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2492160,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But if you wash it at the gym,"
+    } ]
+  }, {
+    "tStartMs": 2497040,
+    "dDurationMs": 6919,
+    "segs": [ {
+      "utf8": "the high-pressure gym shower washes it all away,"
+    } ]
+  }, {
+    "tStartMs": 2503959,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "it's almost like a car wash."
+    } ]
+  }, {
+    "tStartMs": 2505279,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2507040,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "And if you dry your hair with the gym towel,"
+    } ]
+  }, {
+    "tStartMs": 2511360,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "you can just throw it away with the gym towel."
+    } ]
+  }, {
+    "tStartMs": 2515000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2518000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "That's inconsiderate."
+    } ]
+  }, {
+    "tStartMs": 2519800,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Inconsiderate, you say?"
+    } ]
+  }, {
+    "tStartMs": 2524400,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "Oh, so you do that course at the gym, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 2528199,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2530600,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "So even if you put essence on your hair and do the styling,"
+    } ]
+  }, {
+    "tStartMs": 2535720,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "you're going to go to the gym and sweat and wash it all away anyway, so there's no need to do it."
+    } ]
+  }, {
+    "tStartMs": 2542160,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "That's how I did it."
+    } ]
+  }, {
+    "tStartMs": 2543880,
+    "dDurationMs": 4159,
+    "segs": [ {
+      "utf8": "Oh, no. But I have something to defend myself with."
+    } ]
+  }, {
+    "tStartMs": 2548039,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "The gym I go to is combined with a bathhouse,"
+    } ]
+  }, {
+    "tStartMs": 2552960,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "and bathhouses originally have barbershops in them."
+    } ]
+  }, {
+    "tStartMs": 2560600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Men's bathhouses do."
+    } ]
+  }, {
+    "tStartMs": 2563800,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Do all bathhouses have that?"
+    } ]
+  }, {
+    "tStartMs": 2566399,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "Are there a lot of places that do?"
+    } ]
+  }, {
+    "tStartMs": 2567520,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Every bathhouse I've been to had one."
+    } ]
+  }, {
+    "tStartMs": 2570240,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "I didn't know that."
+    } ]
+  }, {
+    "tStartMs": 2571320,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Men's bathhouses have a high probability of having a barbershop together."
+    } ]
+  }, {
+    "tStartMs": 2576800,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 2578160,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So it's naturally supposed to be that way."
+    } ]
+  }, {
+    "tStartMs": 2581520,
+    "dDurationMs": 5159,
+    "segs": [ {
+      "utf8": "Oh, they'll clean it properly anyway,"
+    } ]
+  }, {
+    "tStartMs": 2586679,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "and there are lots of customers like that."
+    } ]
+  }, {
+    "tStartMs": 2590880,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "Okay. It's not inconsiderate."
+    } ]
+  }, {
+    "tStartMs": 2595919,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So finally,"
+    } ]
+  }, {
+    "tStartMs": 2598919,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "is there a hairstyle you want to try at least once in your life?"
+    } ]
+  }, {
+    "tStartMs": 2603919,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Let's talk up to here."
+    } ]
+  }, {
+    "tStartMs": 2607199,
+    "dDurationMs": 3961,
+    "segs": [ {
+      "utf8": "I really want to try platinum blonde."
+    } ]
+  }, {
+    "tStartMs": 2611160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Platinum blonde?"
+    } ]
+  }, {
+    "tStartMs": 2614320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Long hair but platinum blonde. Completely blonde."
+    } ]
+  }, {
+    "tStartMs": 2618199,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "I'm thinking about it now, imagining it."
+    } ]
+  }, {
+    "tStartMs": 2621360,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "Platinum blonde Didi."
+    } ]
+  }, {
+    "tStartMs": 2622919,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Why can't I picture it, the image?"
+    } ]
+  }, {
+    "tStartMs": 2625639,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "Blonde is hard to imagine."
+    } ]
+  }, {
+    "tStartMs": 2629520,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2630479,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "Like I mentioned earlier, my hair has no strength at all,"
+    } ]
+  }, {
+    "tStartMs": 2633960,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "so the moment I go platinum blonde, my hair becomes really crispy like a cracker"
+    } ]
+  }, {
+    "tStartMs": 2638759,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "and it'll fall out."
+    } ]
+  }, {
+    "tStartMs": 2639839,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 2641000,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "I don't think I can do it."
+    } ]
+  }, {
+    "tStartMs": 2642080,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "Ah, but bleaching does damage your hair, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 2648720,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "It damages it."
+    } ]
+  }, {
+    "tStartMs": 2649679,
+    "dDurationMs": 9641,
+    "segs": [ {
+      "utf8": "And something like platinum blonde requires bleaching two or three times to get to that point, I've noticed."
+    } ]
+  }, {
+    "tStartMs": 2659320,
+    "dDurationMs": 3359,
+    "segs": [ {
+      "utf8": "It damages it a lot."
+    } ]
+  }, {
+    "tStartMs": 2662679,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "For me, that kind of thing..."
+    } ]
+  }, {
+    "tStartMs": 2665239,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "I don't have it?"
+    } ]
+  }, {
+    "tStartMs": 2666200,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "I don't think I have it, but when I think about it carefully, I feel like I might."
+    } ]
+  }, {
+    "tStartMs": 2670079,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "You don't want to try having long hair?"
+    } ]
+  }, {
+    "tStartMs": 2672760,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I don't think it would suit me."
+    } ]
+  }, {
+    "tStartMs": 2675160,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "If I had long hair."
+    } ]
+  }, {
+    "tStartMs": 2678239,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I really don't think it would suit me."
+    } ]
+  }, {
+    "tStartMs": 2680519,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Well, there's nothing else then."
+    } ]
+  }, {
+    "tStartMs": 2681959,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "Short hair, long hair, or what else."
+    } ]
+  }, {
+    "tStartMs": 2685320,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2686480,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Or is there something else like that?"
+    } ]
+  }, {
+    "tStartMs": 2687440,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I really want to grow out my beard."
+    } ]
+  }, {
+    "tStartMs": 2690880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "A beard also really doesn't seem like it would suit me."
+    } ]
+  }, {
+    "tStartMs": 2694640,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "I think the way I am right now is what suits me best."
+    } ]
+  }, {
+    "tStartMs": 2698839,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "Wow, that's really nice though?"
+    } ]
+  }, {
+    "tStartMs": 2701480,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "It's your best version, right?"
+    } ]
+  }, {
+    "tStartMs": 2702760,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2703559,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 2705040,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2706160,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "You're really good at that."
+    } ]
+  }, {
+    "tStartMs": 2707839,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "What do you call it, self-objectification?"
+    } ]
+  }, {
+    "tStartMs": 2709760,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Objectifying yourself, like \"this won't suit me.\""
+    } ]
+  }, {
+    "tStartMs": 2714440,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "Oh, and I mentioned this before too, a while back, but I'm a bit short in height."
+    } ]
+  }, {
+    "tStartMs": 2720480,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "But..."
+    } ]
+  }, {
+    "tStartMs": 2721000,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "How tall are you?"
+    } ]
+  }, {
+    "tStartMs": 2721920,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "I'm 168."
+    } ]
+  }, {
+    "tStartMs": 2723440,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "According to my physical exam height."
+    } ]
+  }, {
+    "tStartMs": 2725399,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "It's not extremely short or anything."
+    } ]
+  }, {
+    "tStartMs": 2729279,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "But if I'm not that tall and I have long hair?"
+    } ]
+  }, {
+    "tStartMs": 2736399,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "I feel like it would look too wavy and curly on me?"
+    } ]
+  }, {
+    "tStartMs": 2739480,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2740880,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2742279,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "I'm not sure."
+    } ]
+  }, {
+    "tStartMs": 2742799,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "I actually don't think I've felt that long hair really suits many people."
+    } ]
+  }, {
+    "tStartMs": 2749119,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Anyone."
+    } ]
+  }, {
+    "tStartMs": 2750480,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "So it's difficult, that."
+    } ]
+  }, {
+    "tStartMs": 2751839,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 2754880,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "So now I'm starting to understand."
+    } ]
+  }, {
+    "tStartMs": 2758679,
+    "dDurationMs": 9280,
+    "segs": [ {
+      "utf8": "Originally, long hair or a beard isn't really a plus factor for appearance."
+    } ]
+  }, {
+    "tStartMs": 2767959,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "In my opinion."
+    } ]
+  }, {
+    "tStartMs": 2770679,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "So to do that, you're essentially adding a minus to your image, right?"
+    } ]
+  }, {
+    "tStartMs": 2778279,
+    "dDurationMs": 6041,
+    "segs": [ {
+      "utf8": "So before you add that minus, your original state."
+    } ]
+  }, {
+    "tStartMs": 2784320,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "That has to be as cool as possible."
+    } ]
+  }, {
+    "tStartMs": 2787399,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "Like, your face has to be really handsome and your height just right."
+    } ]
+  }, {
+    "tStartMs": 2791320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "As much as possible, very..."
+    } ]
+  }, {
+    "tStartMs": 2793880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "The basic foundation has to be excellent."
+    } ]
+  }, {
+    "tStartMs": 2796440,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "When your basic foundation is very cool and pretty, then you accept that minus."
+    } ]
+  }, {
+    "tStartMs": 2802320,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "Ah, so even if it's a slight minus, it would still be higher than other people's."
+    } ]
+  }, {
+    "tStartMs": 2807399,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2808559,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Ah, that's a bit sad though?"
+    } ]
+  }, {
+    "tStartMs": 2810359,
+    "dDurationMs": 841,
+    "segs": [ {
+      "utf8": "Don't you think that might be it?"
+    } ]
+  }, {
+    "tStartMs": 2811200,
+    "dDurationMs": 5319,
+    "segs": [ {
+      "utf8": "But reality is a cruel law."
+    } ]
+  }, {
+    "tStartMs": 2816519,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "That's good."
+    } ]
+  }, {
+    "tStartMs": 2817119,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Still, it seems like you're finding what works best for you and doing that."
+    } ]
+  }, {
+    "tStartMs": 2822239,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Ah, well. That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2823600,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Then that's all that matters."
+    } ]
+  }, {
+    "tStartMs": 2824799,
+    "dDurationMs": 5081,
+    "segs": [ {
+      "utf8": "I try to keep it as clean and as understated as possible."
+    } ]
+  }, {
+    "tStartMs": 2829880,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "That's what works best for me."
+    } ]
+  }, {
+    "tStartMs": 2832399,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But it seems like that's the style a lot of Korean people like too."
+    } ]
+  }, {
+    "tStartMs": 2836119,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Men who are a bit neat and clean."
+    } ]
+  }, {
+    "tStartMs": 2838720,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2841440,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2842480,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2843559,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "Yes, so today we talked about barbershops from every angle on Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 2848720,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "We decided that Tae-woong would choose next week's topic."
+    } ]
+  }, {
+    "tStartMs": 2851399,
+    "dDurationMs": 481,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2851880,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "What's next week's episode about?"
+    } ]
+  }, {
+    "tStartMs": 2854679,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Next episode's topic is cleaning."
+    } ]
+  }, {
+    "tStartMs": 2860239,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "Cleaning."
+    } ]
+  }, {
+    "tStartMs": 2862000,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Things like whether to clean hard or not."
+    } ]
+  }, {
+    "tStartMs": 2868359,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "We'll talk about it from every angle on Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 2870839,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Yes, that sounds good."
+    } ]
+  }, {
+    "tStartMs": 2872079,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "Thank you. I was Didi."
+    } ]
+  }, {
+    "tStartMs": 2874440,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I was Jeong Tae-woong."
+    } ]
+  } ]
+}

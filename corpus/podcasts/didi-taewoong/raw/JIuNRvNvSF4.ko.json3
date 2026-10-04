@@ -1,0 +1,4855 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 9630,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "안녕하세요 디디입니다"
+    } ]
+  }, {
+    "tStartMs": 11650,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "안녕하세요 정태웅입니다"
+    } ]
+  }, {
+    "tStartMs": 13570,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "\u003c한국생활 요모조모\u003e는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다"
+    } ]
+  }, {
+    "tStartMs": 20040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "네 이번 2월 에피소드로 돌아왔고요"
+    } ]
+  }, {
+    "tStartMs": 23920,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "태웅쌤이랑 이번 주에 이야기할 테마 먼저 소개해 주실 수 있을까요"
+    } ]
+  }, {
+    "tStartMs": 28740,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "네, 이번 주에 소개해드릴 테마는"
+    } ]
+  }, {
+    "tStartMs": 31170,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "편의점입니다"
+    } ]
+  }, {
+    "tStartMs": 33000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "편의점이고요"
+    } ]
+  }, {
+    "tStartMs": 34800,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "한국에서도 편의점 진짜 많이 이용을 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 39110,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "정말 편하게 24시간 갈 수 있는 곳이 편의점인 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 44010,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "저희도 편의점을 많이 이용하니까"
+    } ]
+  }, {
+    "tStartMs": 47230,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "편의점에 대해서 여러 가지 이야기를 해보려고 합니다"
+    } ]
+  }, {
+    "tStartMs": 50710,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "그리고 좀 본격적으로 이야기를 시작하기 전에"
+    } ]
+  }, {
+    "tStartMs": 53870,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "저번 퀴즈 정답자 발표를 해야 되는데요"
+    } ]
+  }, {
+    "tStartMs": 56830,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "이번에는 그냥 화면에 띄워드리도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 59580,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "퀴즈 정답 맞춰주신 분들 감사하고요"
+    } ]
+  }, {
+    "tStartMs": 63290,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "그리고 오늘도 퀴즈 있으니까"
+    } ]
+  }, {
+    "tStartMs": 65370,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "그거 끝까지 들어주시면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 69210,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "태웅쌤 편의점 이용 언제 마지막으로 하셨어요?"
+    } ]
+  }, {
+    "tStartMs": 75550,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "한 이틀 전인 것 같은데요"
+    } ]
+  }, {
+    "tStartMs": 77790,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "이틀 전에 뭐 사러 가셨나요?"
+    } ]
+  }, {
+    "tStartMs": 81180,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "엄마 심부름하러 계란 사러 갔다 왔습니다"
+    } ]
+  }, {
+    "tStartMs": 85760,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "착한 어린이ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 88060,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "네 계란, 계란을 편의점에서 사면 근데 좀 비싸잖아요"
+    } ]
+  }, {
+    "tStartMs": 93150,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "좀 비싸죠"
+    } ]
+  }, {
+    "tStartMs": 94550,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "그런데 급하게 사야 됐나요?"
+    } ]
+  }, {
+    "tStartMs": 97470,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "저희 집 근처에 대형마트나 시장이 없어서"
+    } ]
+  }, {
+    "tStartMs": 101300,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 103010,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "가까운 곳에 있는 게 편의점밖에 없어요"
+    } ]
+  }, {
+    "tStartMs": 106260,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "아, 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 107810,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "네, 그래서 그냥 갑니다"
+    } ]
+  }, {
+    "tStartMs": 110950,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "그럼 보통 생필품... 살 때는 어떻게 해요?"
+    } ]
+  }, {
+    "tStartMs": 114100,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "계란이 급하게 필요할 때가 아니더라도"
+    } ]
+  }, {
+    "tStartMs": 118570,
+    "dDurationMs": 8250,
+    "segs": [ {
+      "utf8": "그런 경우에는 시간이 넉넉한 경우에는 동네에 있는 마트에 가는데"
+    } ]
+  }, {
+    "tStartMs": 126820,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "근데 거리가 조금은 있어요"
+    } ]
+  }, {
+    "tStartMs": 129250,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "그래서 걸어갔다가 오면 한 40분 정도 걸릴 거예요"
+    } ]
+  }, {
+    "tStartMs": 134560,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "엄청 머네요"
+    } ]
+  }, {
+    "tStartMs": 135740,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "네, 40분이 걸리는데"
+    } ]
+  }, {
+    "tStartMs": 137870,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "편의점 가면 4분 만에 갔다 올 수 있으니까"
+    } ]
+  }, {
+    "tStartMs": 140700,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "그렇죠 장 보고 이렇게 들고 오려면 또 무거울 텐데"
+    } ]
+  }, {
+    "tStartMs": 144020,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 144830,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "쿠팡 이용 안 하세요? 장 볼 때?"
+    } ]
+  }, {
+    "tStartMs": 148440,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "그것도 요즘 사람들 많이 쓰죠?"
+    } ]
+  }, {
+    "tStartMs": 151660,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "네 요즘 많이 쓰더라고요 저도 쓰고"
+    } ]
+  }, {
+    "tStartMs": 157500,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "그런데... 그러게요"
+    } ]
+  }, {
+    "tStartMs": 159150,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "저희 엄마랑 저는 쿠팡을 쓰지는 않아요 왠지 모르겠는데"
+    } ]
+  }, {
+    "tStartMs": 164030,
+    "dDurationMs": 6670,
+    "segs": [ {
+      "utf8": "그게 익숙해 있잖아요 사람들이 장을 직접 보고 딱 물건을 고르고"
+    } ]
+  }, {
+    "tStartMs": 170700,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "가격 비교해서 사는 그런 거에 익숙해져 있으면"
+    } ]
+  }, {
+    "tStartMs": 173560,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "좀 넘어가기가 어려울 수 있거든요"
+    } ]
+  }, {
+    "tStartMs": 177520,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "근데 저희 어머니도 한 번 딱 쿠팡 배송을 맛보시고 나서는"
+    } ]
+  }, {
+    "tStartMs": 182610,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "절대 돌아갈 수 없다고 하시더라고요"
+    } ]
+  }, {
+    "tStartMs": 185140,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "오, 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 186660,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "편리하잖아요 다 갖다 주고 하니까"
+    } ]
+  }, {
+    "tStartMs": 189300,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 190960,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "그래서 계란을 사오셨군요, 편의점에서"
+    } ]
+  }, {
+    "tStartMs": 193730,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 195610,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "저는 한 일주일 전에 이용한 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 200700,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "공교롭게도, 제가 원래 술을 잘 안 마셔요 자주 안 마시는데,"
+    } ]
+  }, {
+    "tStartMs": 205300,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "그날 수업이 끝나고 너무 맥주가 먹고 싶은 거예요 그날따라"
+    } ]
+  }, {
+    "tStartMs": 210160,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "그래서 고민을 하다가"
+    } ]
+  }, {
+    "tStartMs": 213560,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "'이렇게 한 번씩 먹고 싶을 때는 먹어야 된다' 해서"
+    } ]
+  }, {
+    "tStartMs": 217490,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "저도 바로 밑에 편의점이 있거든요"
+    } ]
+  }, {
+    "tStartMs": 220070,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "편의점에 또 좋은 점이 뭡니까?"
+    } ]
+  }, {
+    "tStartMs": 222090,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "맥주... 세일하잖아요"
+    } ]
+  }, {
+    "tStartMs": 225620,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "세계 맥주 할인"
+    } ]
+  }, {
+    "tStartMs": 226990,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "네 수입 맥주 할인"
+    } ]
+  }, {
+    "tStartMs": 229620,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "그거 이용해가지고 4개를 사면 싸요 한 만 원 정도?"
+    } ]
+  }, {
+    "tStartMs": 235920,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "종류에 따라 다르긴 하지만"
+    } ]
+  }, {
+    "tStartMs": 239300,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "저는 이렇게 작은 캔 4개 있는 거 사왔습니다"
+    } ]
+  }, {
+    "tStartMs": 247100,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 247660,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "편의점 맥주가 그런 게 참 좋아요 그렇죠?"
+    } ]
+  }, {
+    "tStartMs": 250370,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "편의점이 이런 게 좋죠 할인되는 거"
+    } ]
+  }, {
+    "tStartMs": 253910,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "평소에는 비싸긴 하지만 좀 재밌는 포인트가"
+    } ]
+  }, {
+    "tStartMs": 258800,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "1+1이나 그런 할인 상품을 찾아서 사는 재미가 있죠"
+    } ]
+  }, {
+    "tStartMs": 264550,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "음 맞아요 1+1이나 2+1이 많잖아요"
+    } ]
+  }, {
+    "tStartMs": 269360,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "네 맞아요"
+    } ]
+  }, {
+    "tStartMs": 270780,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "그래서 저도 그런 것들을 자주 사는데"
+    } ]
+  }, {
+    "tStartMs": 274370,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 275100,
+    "dDurationMs": 7330,
+    "segs": [ {
+      "utf8": "이제는 그 1+1, 2+1 아니면 그냥 원래 가격을 내고 사는 게"
+    } ]
+  }, {
+    "tStartMs": 282430,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "너무 좀 아깝게 느껴지기도 해요"
+    } ]
+  }, {
+    "tStartMs": 284770,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "이해해요 저도 뭔지 알아요"
+    } ]
+  }, {
+    "tStartMs": 286670,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "예를 들어서 뭐 계란을 사고 싶어서 갔는데 1+1 하는 게 있고"
+    } ]
+  }, {
+    "tStartMs": 292610,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "그냥 일반 계란들이 있으면 무조건 이거를 사게 되죠"
+    } ]
+  }, {
+    "tStartMs": 296550,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "뭔가 이게... 더 비싼 게 좋아 보이더라도"
+    } ]
+  }, {
+    "tStartMs": 300420,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "좀 그렇게 되는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 302500,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 303870,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "그것도 생각난다"
+    } ]
+  }, {
+    "tStartMs": 305540,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "숙취해소제 유명하잖아요 한국에서"
+    } ]
+  }, {
+    "tStartMs": 309470,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 310660,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "상쾌환이라고 먹는 거나 아니면 젤리 같은 거"
+    } ]
+  }, {
+    "tStartMs": 315560,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "그 젤리 형태의 상쾌환은"
+    } ]
+  }, {
+    "tStartMs": 319140,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "숙취해소제라기보다는 숙취예방제입니다"
+    } ]
+  }, {
+    "tStartMs": 324890,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 326110,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "모르셨어요?"
+    } ]
+  }, {
+    "tStartMs": 327790,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "어 저는... 숙취해소제인 줄 알았는데"
+    } ]
+  }, {
+    "tStartMs": 331070,
+    "dDurationMs": 6790,
+    "segs": [ {
+      "utf8": "숙취해소제를 먹는 방법이 전에도 먹고 후에도 먹고인 줄 알았어요"
+    } ]
+  }, {
+    "tStartMs": 337860,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "아 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 339290,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "예방제이긴 하죠"
+    } ]
+  }, {
+    "tStartMs": 340420,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "한국어 시간이니까..."
+    } ]
+  }, {
+    "tStartMs": 342380,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "해소제는 숙취가 있는 걸 없애준다는 말이고요"
+    } ]
+  }, {
+    "tStartMs": 348030,
+    "dDurationMs": 8060,
+    "segs": [ {
+      "utf8": "제가 얘기한 숙취예방이란 말은 숙취가 안 오게 막아주는 겁니다"
+    } ]
+  }, {
+    "tStartMs": 356090,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "그래서 술 마시기 전에 미리 상쾌한 젤리 스틱을 먹고 나면"
+    } ]
+  }, {
+    "tStartMs": 363470,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "그날은 아무리 술을 많이 마셔도 다음 날에 숙취가 없어요"
+    } ]
+  }, {
+    "tStartMs": 369320,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "그렇게 효과를 직접 느끼셨어요?"
+    } ]
+  }, {
+    "tStartMs": 371620,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "저는 잘 느껴요"
+    } ]
+  }, {
+    "tStartMs": 372930,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "꼭 드셔야겠네요 그럼"
+    } ]
+  }, {
+    "tStartMs": 375650,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "무조건 먹어야죠 무조건"
+    } ]
+  }, {
+    "tStartMs": 378410,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "그렇구나"
+    } ]
+  }, {
+    "tStartMs": 379650,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "네 오늘 좀 망가지고 싶다 (- 달리자!)"
+    } ]
+  }, {
+    "tStartMs": 384850,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "오늘 좀 취하고 싶다"
+    } ]
+  }, {
+    "tStartMs": 387100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "이럴 때는 무조건 하나 먹어야 됩니다"
+    } ]
+  }, {
+    "tStartMs": 389600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "그렇구나 이게 효과가 좋군요"
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "그렇게 많이 먹은 지가 좀 오래돼서 몰랐어요"
+    } ]
+  }, {
+    "tStartMs": 397740,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "이거 듣고 계시는 분들도"
+    } ]
+  }, {
+    "tStartMs": 398920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "미리 드시면 효과가 진짜 좋네요"
+    } ]
+  }, {
+    "tStartMs": 401560,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "이미 숙취를 느낄 때는 하긴... 늦었죠?"
+    } ]
+  }, {
+    "tStartMs": 406020,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 406850,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "너무 괴롭죠?"
+    } ]
+  }, {
+    "tStartMs": 407840,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 408480,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "아무튼 이 얘기가 나온 게 그게 1+1을 진짜 많이 하거든요"
+    } ]
+  }, {
+    "tStartMs": 413130,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 414270,
+    "dDurationMs": 8420,
+    "segs": [ {
+      "utf8": "그래서 친구들이랑 보통 술을 먹으니까 여러 개 사서 생색내기 좋아요"
+    } ]
+  }, {
+    "tStartMs": 422690,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "'너네도 챙겨 먹어' 이런 느낌"
+    } ]
+  }, {
+    "tStartMs": 426870,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "3개 사도 6개 주니까"
+    } ]
+  }, {
+    "tStartMs": 430360,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "그 얘기 들으니까"
+    } ]
+  }, {
+    "tStartMs": 432630,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "옛날에 20대 초중반때요..."
+    } ]
+  }, {
+    "tStartMs": 437300,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "대학 동기들이나 아르바이트 친구들이나"
+    } ]
+  }, {
+    "tStartMs": 441260,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "이렇게 모여서 술을 많이 마시잖아요"
+    } ]
+  }, {
+    "tStartMs": 443920,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 444720,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "그러면 가끔씩,"
+    } ]
+  }, {
+    "tStartMs": 446080,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "가끔씩이 아니라 자주 남자, 여자"
+    } ]
+  }, {
+    "tStartMs": 448430,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "이렇게 그룹이 먹는 경우가 있단 말이죠"
+    } ]
+  }, {
+    "tStartMs": 451530,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "그렇죠 성별이 섞여서 먹는 경우가 있죠"
+    } ]
+  }, {
+    "tStartMs": 454370,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "네 근데 이제 꼭 거기서"
+    } ]
+  }, {
+    "tStartMs": 456630,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "여자애들한테 잘 보이고 싶어하는 친구들이"
+    } ]
+  }, {
+    "tStartMs": 460320,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "꼭 중간에 나가서 '얘들아 갈아 만든 배 챙겨왔어'"
+    } ]
+  }, {
+    "tStartMs": 465180,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "뭐 '헛개차 가지고 왔어'"
+    } ]
+  }, {
+    "tStartMs": 467600,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "'술 많이 마시니까 힘들지'"
+    } ]
+  }, {
+    "tStartMs": 468790,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "이러면서 챙겨주는 친구들이 꼭 한 명씩 있었습니다"
+    } ]
+  }, {
+    "tStartMs": 471490,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "혹시 그런 분이셨나요?"
+    } ]
+  }, {
+    "tStartMs": 475290,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "저는 그렇게 섬세하지 않아요."
+    } ]
+  }, {
+    "tStartMs": 477500,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "얻어먹는 스타일?"
+    } ]
+  }, {
+    "tStartMs": 478760,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "그때 같이 먹는 스타일?"
+    } ]
+  }, {
+    "tStartMs": 480320,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "\"야 고맙다\" 이렇게 하고"
+    } ]
+  }, {
+    "tStartMs": 483140,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "\"땡큐!\""
+    } ]
+  }, {
+    "tStartMs": 486380,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "맞아 숙취 해소 음료로, 좀 다른 얘기긴 하지만,"
+    } ]
+  }, {
+    "tStartMs": 490510,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "많이 먹는 게 그렇게 술자리에서 먹다가 나가서 '상쾌환' 먹고"
+    } ]
+  }, {
+    "tStartMs": 495340,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "얘기하신 '갈아 만든 배', 배 음료수 먹고"
+    } ]
+  }, {
+    "tStartMs": 498550,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "초코우유 이런 거 많이 먹잖아요"
+    } ]
+  }, {
+    "tStartMs": 500630,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "맞아요 초코우유"
+    } ]
+  }, {
+    "tStartMs": 503600,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "사주는 친구들이 있었죠"
+    } ]
+  }, {
+    "tStartMs": 506750,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "계속 숙취해소와 술 얘기를 해서 좀 그런데"
+    } ]
+  }, {
+    "tStartMs": 509990,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "그래서 다시 편의점 쪽으로 돌아가자면"
+    } ]
+  }, {
+    "tStartMs": 513920,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "아무래도 그렇게 술자리에서 갔다 올 수 있는 이유가"
+    } ]
+  }, {
+    "tStartMs": 519370,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "편의점은 어디에나 있기 때문 아닙니까?"
+    } ]
+  }, {
+    "tStartMs": 522110,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "그렇죠 중요한 포인트죠"
+    } ]
+  }, {
+    "tStartMs": 524800,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "한국 놀러 오시면 놀랄 수도 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 529060,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "그냥 한 상가에 한 다섯 개씩 있어요"
+    } ]
+  }, {
+    "tStartMs": 533320,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "종류별로"
+    } ]
+  }, {
+    "tStartMs": 535270,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "그 정도예요?"
+    } ]
+  }, {
+    "tStartMs": 537010,
+    "dDurationMs": 370,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 537380,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "진짜요?"
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "서울 상가들에는... 그러니까, 이런 뭐라고 할까 블럭?"
+    } ]
+  }, {
+    "tStartMs": 543150,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "한 블럭에 있어요"
+    } ]
+  }, {
+    "tStartMs": 546370,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "맞아요 길 건너에 하나 있고..."
+    } ]
+  }, {
+    "tStartMs": 549180,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "네 맞아요"
+    } ]
+  }, {
+    "tStartMs": 552380,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "그런 거 보면 또 그런 것들이 다 24시간이고..."
+    } ]
+  }, {
+    "tStartMs": 556730,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "맞아요 말씀해 주신 대로 어디에나 있고"
+    } ]
+  }, {
+    "tStartMs": 559830,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "그리고 밤 늦게까지 하기 때문에"
+    } ]
+  }, {
+    "tStartMs": 561790,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "술이랑 편의점이 많이 엮이는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 565750,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "그렇네요"
+    } ]
+  }, {
+    "tStartMs": 567470,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "그리고 요즘 되는지 모르겠는데 편의점에서 맥주 마시는 분들"
+    } ]
+  }, {
+    "tStartMs": 571860,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "드라마에서도 나오잖아요 그런 ... 그거 되나요?"
+    } ]
+  }, {
+    "tStartMs": 576620,
+    "dDurationMs": 8530,
+    "segs": [ {
+      "utf8": "그게 저도 안 되는 걸로 바뀐다는 얘기를 들은 적이 있었던 것 같아요 옛날에"
+    } ]
+  }, {
+    "tStartMs": 585150,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "잠깐 지금 요모조모 촬영 끝나고 다시 찾아보니까"
+    } ]
+  }, {
+    "tStartMs": 589830,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "편의점에서 맥주를 사는 건 가능한데 그러니까 술을 사는 건 가능한데"
+    } ]
+  }, {
+    "tStartMs": 595390,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "편의점 안에서 마시는 건 불법이라고 합니다"
+    } ]
+  }, {
+    "tStartMs": 598050,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "그러니까 한국 방문하시는 분들은 참고해 주시면 좋겠죠"
+    } ]
+  }, {
+    "tStartMs": 601880,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "그러면 다시 에피소드로 돌아가 봅시다"
+    } ]
+  }, {
+    "tStartMs": 604420,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "술 뿐만 아니라 라면 같은 거 좀 간단하게 끼니를 때울 때도 가잖아요 편의점"
+    } ]
+  }, {
+    "tStartMs": 610070,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "응 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 611220,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "라면 학생 때 편의점에서 많이 먹고 그랬던 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 615380,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "아 저는 요즘도 가끔씩 먹어요 가끔씩"
+    } ]
+  }, {
+    "tStartMs": 619270,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "아 진짜요?"
+    } ]
+  }, {
+    "tStartMs": 620310,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 621020,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "어떻게 하면 그런 루트가 만들어지나요?"
+    } ]
+  }, {
+    "tStartMs": 625260,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "무슨 루트요?"
+    } ]
+  }, {
+    "tStartMs": 626750,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "그러니까 집에서 사와서 먹어도 되잖아요"
+    } ]
+  }, {
+    "tStartMs": 630190,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "아! 가끔 그 편의점 감성이 좀 땡길 때..."
+    } ]
+  }, {
+    "tStartMs": 635990,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "아 진짜 식당가서 먹듯이?"
+    } ]
+  }, {
+    "tStartMs": 638760,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "편의점 라면 먹으러 가시는구나"
+    } ]
+  }, {
+    "tStartMs": 640730,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 641580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "오 감성있다"
+    } ]
+  }, {
+    "tStartMs": 644580,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "그게 좋아요"
+    } ]
+  }, {
+    "tStartMs": 645660,
+    "dDurationMs": 12840,
+    "segs": [ {
+      "utf8": "그리고 막 좀 힘든 야외 스케줄이 있을 때 아니면 그 저는 부산 사는데"
+    } ]
+  }, {
+    "tStartMs": 658500,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "서울 갔다가 올 때가 있단 말이에요"
+    } ]
+  }, {
+    "tStartMs": 662040,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "그러면 서울에서 아침에 출발해도 늦은 오후에 도착할 때가 많고"
+    } ]
+  }, {
+    "tStartMs": 668580,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "보통 늦게 부산에 도착하는데 또 부산역이나 버스터미널에서"
+    } ]
+  }, {
+    "tStartMs": 674540,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "저희 집까지 또 오래 걸려요"
+    } ]
+  }, {
+    "tStartMs": 677510,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "그러면 되게 늦은 밤에 도착할 때가 많고"
+    } ]
+  }, {
+    "tStartMs": 681300,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "저녁도 제대로 못 챙겨 먹을 때가 많거든요"
+    } ]
+  }, {
+    "tStartMs": 684700,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "그러면 뭔가를 먹어야 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 688000,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "그럴 때 항상 꼭 편의점에 가서"
+    } ]
+  }, {
+    "tStartMs": 691260,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "김치 사발면이랑 KGB 보드카를 한 병 사서..."
+    } ]
+  }, {
+    "tStartMs": 696600,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "와 저 스무 살 때 많이 먹었던 조합"
+    } ]
+  }, {
+    "tStartMs": 699240,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "저도 스무 살 때 먹었던 거거든요?"
+    } ]
+  }, {
+    "tStartMs": 701380,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "평소엔 지금 안 마셔요"
+    } ]
+  }, {
+    "tStartMs": 703410,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "근데 꼭 그럴 때!"
+    } ]
+  }, {
+    "tStartMs": 707830,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "그럴 때 김치 사발면이랑 KGB 마시면"
+    } ]
+  }, {
+    "tStartMs": 711890,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "속이 뜨끈해지고 (좋다 좋다 해볼까?) 진짜 좋아요"
+    } ]
+  }, {
+    "tStartMs": 716030,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "괜찮은데요?"
+    } ]
+  }, {
+    "tStartMs": 716890,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "그거 약간 사우나 하는 느낌이에요"
+    } ]
+  }, {
+    "tStartMs": 719910,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "괜찮은데? 오늘 저녁 메뉴로? KGB랑..."
+    } ]
+  }, {
+    "tStartMs": 724820,
+    "dDurationMs": 7110,
+    "segs": [ {
+      "utf8": "그렇게 센 술이 아니잖아요, KGB가 달달하니 맛있는 술이잖아요"
+    } ]
+  }, {
+    "tStartMs": 731930,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "김치 사발면?"
+    } ]
+  }, {
+    "tStartMs": 733060,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 734550,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "김치 라면들 많잖아요"
+    } ]
+  }, {
+    "tStartMs": 737340,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "이거 제일 좋아하시나요? 김치 사발면?"
+    } ]
+  }, {
+    "tStartMs": 739900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "저는 그거를 제일 좋아하는데"
+    } ]
+  }, {
+    "tStartMs": 743200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "그냥 평소에 제일 좋아하는 게 아니라"
+    } ]
+  }, {
+    "tStartMs": 745440,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "딱 말씀드린 그런 상황에 딱 생각나요"
+    } ]
+  }, {
+    "tStartMs": 750180,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "좋다 좋다 이거 진짜 K 감성이네요"
+    } ]
+  }, {
+    "tStartMs": 752870,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "네 그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 754140,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "뭔가 청춘이 느껴지기도 하고 그러네"
+    } ]
+  }, {
+    "tStartMs": 757600,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "열심히 한 나를 위한 힐링타임으로... 재밌다"
+    } ]
+  }, {
+    "tStartMs": 761890,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "구독자 여러분께도 추천드립니다"
+    } ]
+  }, {
+    "tStartMs": 763860,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "추천드리는 조합이라고 합니다"
+    } ]
+  }, {
+    "tStartMs": 765190,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "태웅쌤 조합"
+    } ]
+  }, {
+    "tStartMs": 767370,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "편의점을 그러면 언제 제일 많이 주로 이용하시게 되는 것 같아요?"
+    } ]
+  }, {
+    "tStartMs": 772290,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "음... 그러니까 평소에 무슨 일로 자주 가냐는 말이죠"
+    } ]
+  }, {
+    "tStartMs": 777350,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 778910,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "저는 사실 딱히 목적이 있어서 가지 않더라도"
+    } ]
+  }, {
+    "tStartMs": 783980,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "그냥 밖에 볼 일이 있을 때 항상 편의점을 지나치잖아요"
+    } ]
+  }, {
+    "tStartMs": 789410,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "집 근처에 자주 항상 다니는 길에 있으니까 그때 꼭 한 번씩 들려요"
+    } ]
+  }, {
+    "tStartMs": 796260,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "그냥 들려요? 되게 자주 가시겠네요"
+    } ]
+  }, {
+    "tStartMs": 798890,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 799690,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "오"
+    } ]
+  }, {
+    "tStartMs": 800740,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "그리고 당연히 아무것도 안 사고 나올 때도 많아요"
+    } ]
+  }, {
+    "tStartMs": 806670,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "구경만, 아이쇼핑하러 가기도 하고"
+    } ]
+  }, {
+    "tStartMs": 809540,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "네, 그냥 새로운 거 없나?"
+    } ]
+  }, {
+    "tStartMs": 811030,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "맛있어 보이는 거 없나? 이렇게 들어가요"
+    } ]
+  }, {
+    "tStartMs": 813590,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "아, 신상 좀 보러 가시는 것도 있구나"
+    } ]
+  }, {
+    "tStartMs": 817100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 818300,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "집 앞에 있는 편의점은 혹시 어딘지 말씀해 주실 수 있나요? 그 브랜드가?"
+    } ]
+  }, {
+    "tStartMs": 823030,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "네, 제가 가장 자주 가는, 가장 가까이 있는 편의점은"
+    } ]
+  }, {
+    "tStartMs": 828100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "GS라는 편의점입니다"
+    } ]
+  }, {
+    "tStartMs": 830300,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "GS가 있군요"
+    } ]
+  }, {
+    "tStartMs": 832650,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "네 GS25인가요, 요새?"
+    } ]
+  }, {
+    "tStartMs": 834990,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "25예요"
+    } ]
+  }, {
+    "tStartMs": 836040,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "아, GS25?"
+    } ]
+  }, {
+    "tStartMs": 837240,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 838470,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 839330,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "원래 좋아하세요, GS25?"
+    } ]
+  }, {
+    "tStartMs": 840910,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "그 세 가지 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 841830,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "GS25, 7-Eleven, CU 이렇게 있는데"
+    } ]
+  }, {
+    "tStartMs": 845590,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 846370,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "(GS25를) 원래 제일 좋아하시나요?"
+    } ]
+  }, {
+    "tStartMs": 848290,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "아니, 사실 딱히 구분을 안 하거든요"
+    } ]
+  }, {
+    "tStartMs": 851750,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "진짜요?"
+    } ]
+  }, {
+    "tStartMs": 852990,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "네, 아니, 뭐 한 번도 사본 적은 없는데"
+    } ]
+  }, {
+    "tStartMs": 859230,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "세븐일레븐에서 가끔 레고를 파는 게 좀 멋져 보인다고 생각은 했었어요"
+    } ]
+  }, {
+    "tStartMs": 864820,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "세븐일레븐에서는 레고를 파나요?"
+    } ]
+  }, {
+    "tStartMs": 868160,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "그게 저도 잘 모르겠는데"
+    } ]
+  }, {
+    "tStartMs": 870430,
+    "dDurationMs": 8010,
+    "segs": [ {
+      "utf8": "세븐일레븐에서 세븐일레븐 모양의 레고 세트를 파는 걸 본 적이 있어요"
+    } ]
+  }, {
+    "tStartMs": 878440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "그러니까 그게 진짜 레고 브랜드의 레고는 아닌데"
+    } ]
+  }, {
+    "tStartMs": 881960,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "그런 비슷한 블럭인 거죠"
+    } ]
+  }, {
+    "tStartMs": 887140,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "아직도 있을랑가?"
+    } ]
+  }, {
+    "tStartMs": 889250,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "아마 검색하면 나올 거예요"
+    } ]
+  }, {
+    "tStartMs": 892860,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "저도 왠지 세븐일레븐에는 그런 피규어 콜라보?"
+    } ]
+  }, {
+    "tStartMs": 897470,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "뭐 짱구 초콜릿 먹으면 안에 짱구 스티커 있거나"
+    } ]
+  }, {
+    "tStartMs": 901480,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "그런 거 좀 많이 본 것 같긴 해요 세븐일레븐에서"
+    } ]
+  }, {
+    "tStartMs": 905340,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "찾아봐야겠네"
+    } ]
+  }, {
+    "tStartMs": 906370,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "뭐 아무튼 그렇고..."
+    } ]
+  }, {
+    "tStartMs": 908190,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "그냥 레고가 멋지다?"
+    } ]
+  }, {
+    "tStartMs": 910410,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "네 그거 말고는 딱히 선호하는 기준은 없었습니다"
+    } ]
+  }, {
+    "tStartMs": 914910,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "저는 GS 제일 좋아해요"
+    } ]
+  }, {
+    "tStartMs": 918200,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "이유가 있나요?"
+    } ]
+  }, {
+    "tStartMs": 920540,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "디저트나 음식이나"
+    } ]
+  }, {
+    "tStartMs": 922370,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "저는 GS에서 나오는 것들이 맛있더라고요"
+    } ]
+  }, {
+    "tStartMs": 926560,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "삼각김밥도 그렇고"
+    } ]
+  }, {
+    "tStartMs": 928040,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "샌드위치도 그렇고 GS가 제일 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 932450,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "저 개인적으로는"
+    } ]
+  }, {
+    "tStartMs": 936230,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "하긴 그 말씀으로 알 수 있는 건 샌드위치나 삼각김밥이나 심지어 과자도"
+    } ]
+  }, {
+    "tStartMs": 944230,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "요즘은 편의점 브랜드에서 만드는 게 있죠?"
+    } ]
+  }, {
+    "tStartMs": 947410,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "있어요 있어요"
+    } ]
+  }, {
+    "tStartMs": 949340,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "그래서 그런 것들이 디디님 취향에는 GS에서 나오는 것들이 잘 맞네요"
+    } ]
+  }, {
+    "tStartMs": 954660,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "네 맞아요 저는 GS파입니다"
+    } ]
+  }, {
+    "tStartMs": 958300,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "근데 저는 소신 발언을 하나 하자면"
+    } ]
+  }, {
+    "tStartMs": 963180,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "저한테는 그 편의점에서 만드는 것들이 좀 약간 아쉽더라고요"
+    } ]
+  }, {
+    "tStartMs": 969250,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "아 그건 그쵸"
+    } ]
+  }, {
+    "tStartMs": 971630,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "아 그런가요? 그렇게 생각하세요?"
+    } ]
+  }, {
+    "tStartMs": 973570,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "그쵸 그쵸 막 편의점 너무 맛있다 이렇게 먹기보다는"
+    } ]
+  }, {
+    "tStartMs": 978080,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "간단하게 빠르게 먹고 싶은데 좀 그래도 그나마 뭐랄까..."
+    } ]
+  }, {
+    "tStartMs": 985000,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "포장되어 있는 빵 이런 거 먹는 것보다는 그래도 좀 신선한 음식을 먹고 싶다 할 때"
+    } ]
+  }, {
+    "tStartMs": 990670,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "선택하는 게 편의점이에요"
+    } ]
+  }, {
+    "tStartMs": 993060,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "아니 제 말은 예를 들어"
+    } ]
+  }, {
+    "tStartMs": 997580,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "그냥 과자 회사에서 나온 과자랑"
+    } ]
+  }, {
+    "tStartMs": 1000980,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "편의점 브랜드에서 나온 과자를 비교하는 경우"
+    } ]
+  }, {
+    "tStartMs": 1004540,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "편의점 브랜드가 좀 아쉬워요?"
+    } ]
+  }, {
+    "tStartMs": 1006940,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "저는 그렇더라고요 왠지"
+    } ]
+  }, {
+    "tStartMs": 1010080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "저도 엄청 맛있게 먹은 편의점 과자는 없었어요"
+    } ]
+  }, {
+    "tStartMs": 1015280,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "유명하다고 하는 것도"
+    } ]
+  }, {
+    "tStartMs": 1017790,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "괜히 대기업에서 만드는 과자가 아니구나"
+    } ]
+  }, {
+    "tStartMs": 1021660,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 1022620,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "대기업의 맛"
+    } ]
+  }, {
+    "tStartMs": 1023940,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "네 대기업의 맛"
+    } ]
+  }, {
+    "tStartMs": 1025590,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "있죠 있죠"
+    } ]
+  }, {
+    "tStartMs": 1027580,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "하지만 굳이 취향을 따져보신다면 디디님은 GS쪽"
+    } ]
+  }, {
+    "tStartMs": 1032670,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "맞아요 그리고 저는 보통 삼각김밥"
+    } ]
+  }, {
+    "tStartMs": 1034890,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "아니면 샌드위치를 먹어요 과자보다는"
+    } ]
+  }, {
+    "tStartMs": 1039100,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "혹시 샌드위치는 추천하시는 게 있습니까?"
+    } ]
+  }, {
+    "tStartMs": 1043140,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "저는 좀 편식쟁이이기 때문에"
+    } ]
+  }, {
+    "tStartMs": 1045930,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "야채가... 특히나 그 편의점 샌드위치에 있는 야채가"
+    } ]
+  }, {
+    "tStartMs": 1050010,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "엄청 눅눅한 느낌 알아요?"
+    } ]
+  }, {
+    "tStartMs": 1052010,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "그게 좀 오래 있어가지고 흐물흐물하고"
+    } ]
+  }, {
+    "tStartMs": 1056480,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "야채에서 물이 나오니까 또 빵이 막 축축해져가지고 그거 안 좋아하거든요"
+    } ]
+  }, {
+    "tStartMs": 1061820,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "그래서 제가 추천하는 건"
+    } ]
+  }, {
+    "tStartMs": 1063760,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "계란 듬뿍 샌드위치"
+    } ]
+  }, {
+    "tStartMs": 1065540,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "계란만 들어있는 샌드위치가 있어요 계란마요"
+    } ]
+  }, {
+    "tStartMs": 1069240,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "그게 제 원픽입니다"
+    } ]
+  }, {
+    "tStartMs": 1072420,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "진짜 많이 먹었어요"
+    } ]
+  }, {
+    "tStartMs": 1075140,
+    "dDurationMs": 7690,
+    "segs": [ {
+      "utf8": "저는 옛날에 무슨 아이돌 공연 샌드위치 있지 않았어요?"
+    } ]
+  }, {
+    "tStartMs": 1082830,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "아이돌 샌드위치가 있었어요"
+    } ]
+  }, {
+    "tStartMs": 1084910,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "블루베리랑 블루베리 잼에 햄이랑 양상추"
+    } ]
+  }, {
+    "tStartMs": 1091270,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "이렇게 들어가 있었던 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 1093310,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 1094040,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "네 그래서 그게 한때 좀 이슈였잖아요"
+    } ]
+  }, {
+    "tStartMs": 1097110,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 1098200,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "그래서 그때 종종 그걸 먹었던 기억이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1100630,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "아 드셨군요"
+    } ]
+  }, {
+    "tStartMs": 1102150,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": " 그거 맛있었구나.. 저는 원툴로..."
+    } ]
+  }, {
+    "tStartMs": 1107620,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "그리고 저도 생각을 안해봤는데"
+    } ]
+  }, {
+    "tStartMs": 1111550,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "그 편의점 삼각김밥 저도 GS꺼 잘 먹는거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1117180,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "네 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 1119390,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "음 그런거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1121170,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "저는 베이컨 참치마요 좋아했어요 GS25"
+    } ]
+  }, {
+    "tStartMs": 1125240,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "아 저는 그냥 참치마요랑"
+    } ]
+  }, {
+    "tStartMs": 1131730,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "그리고 어 전주비빔밥 아니면 닭갈비"
+    } ]
+  }, {
+    "tStartMs": 1137390,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "아, 그런 것도 가끔씩 좋아요 좀 자극적인 거"
+    } ]
+  }, {
+    "tStartMs": 1140470,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "네 그래서 저는 항상 두 개를 먹습니다"
+    } ]
+  }, {
+    "tStartMs": 1143460,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "아, 항상 두 개 드세요?"
+    } ]
+  }, {
+    "tStartMs": 1145080,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1145710,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "그거랑 컵라면 하나랑 이렇게 해서"
+    } ]
+  }, {
+    "tStartMs": 1147880,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "진짜? 많이 드신다"
+    } ]
+  }, {
+    "tStartMs": 1151100,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "아, 그렇게는 먹어줘야죠"
+    } ]
+  }, {
+    "tStartMs": 1153080,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "핫바 같은 거는요? 드세요?"
+    } ]
+  }, {
+    "tStartMs": 1155060,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "아, 저는 소세지를 안 좋아해서"
+    } ]
+  }, {
+    "tStartMs": 1156690,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "소세지 안 좋아하세요?"
+    } ]
+  }, {
+    "tStartMs": 1157780,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1159940,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "독일 만약에 여행 가면 소세지 드실 거예요?"
+    } ]
+  }, {
+    "tStartMs": 1162790,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "독일 소세지는 먹겠죠"
+    } ]
+  }, {
+    "tStartMs": 1165960,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "그쵸 그쵸 아 이런 후랑크 소세지 별로 안 좋아하는구나"
+    } ]
+  }, {
+    "tStartMs": 1169060,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1170270,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "저는 보통 소세지 하나 삼각김밥 하나"
+    } ]
+  }, {
+    "tStartMs": 1175650,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "아니면 라면 하나 소세지 하나"
+    } ]
+  }, {
+    "tStartMs": 1178620,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "단백질을 먹어야 된다는 생각으로 먹었어요"
+    } ]
+  }, {
+    "tStartMs": 1182420,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "황해 정식"
+    } ]
+  }, {
+    "tStartMs": 1185090,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "그런 느낌으로"
+    } ]
+  }, {
+    "tStartMs": 1186140,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "치즈 소세지 이런 거 맛있는데"
+    } ]
+  }, {
+    "tStartMs": 1188080,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "그렇구나"
+    } ]
+  }, {
+    "tStartMs": 1191180,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "가공육은 몸에 좋지 않습니다"
+    } ]
+  }, {
+    "tStartMs": 1193630,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "그건 그래요"
+    } ]
+  }, {
+    "tStartMs": 1196310,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "건강상식~"
+    } ]
+  }, {
+    "tStartMs": 1198390,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "저는 편의점을 언제 가는지 좀 생각을 해보면"
+    } ]
+  }, {
+    "tStartMs": 1201500,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "전 진짜 급할 때 가는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1207060,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "물이 진짜 갑자기 똑 떨어졌다"
+    } ]
+  }, {
+    "tStartMs": 1210710,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "그럴 때 편의점 가서 물을 사고"
+    } ]
+  }, {
+    "tStartMs": 1213280,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "미리 장을 보지 못한 거를 급하게 사러 갈 때 많이 이용하는 것 같고"
+    } ]
+  }, {
+    "tStartMs": 1218380,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "그리고는 쓰레기 봉투 같은 거 편의점에서 사잖아요"
+    } ]
+  }, {
+    "tStartMs": 1222610,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "그래서 그냥 그런 거 살 때 가고"
+    } ]
+  }, {
+    "tStartMs": 1226030,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "급하게 밖에 나왔는데 뭔가가 필요해"
+    } ]
+  }, {
+    "tStartMs": 1229720,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "볼펜이 만약에 갑자기 급하게 필요해요"
+    } ]
+  }, {
+    "tStartMs": 1231850,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "그러면 또 그런 걸 사러 그렇게 이용해요"
+    } ]
+  }, {
+    "tStartMs": 1236410,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "그러면 그냥 평소에 간식을 사러 가는 일은 좀 없나 보네요"
+    } ]
+  }, {
+    "tStartMs": 1241090,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "저는 편의점 간식보다는 그냥 베이커리에 가서"
+    } ]
+  }, {
+    "tStartMs": 1244650,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "맛있는 빵을 좀 사는 편이에요"
+    } ]
+  }, {
+    "tStartMs": 1248590,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "뭐 맛있는 거 발견하신 거 있나요? 최근에 편의점에서"
+    } ]
+  }, {
+    "tStartMs": 1254200,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "최근에는 없어요"
+    } ]
+  }, {
+    "tStartMs": 1256030,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "최근은 아니더라도 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 1259070,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "몇 년 된 건 있는데"
+    } ]
+  }, {
+    "tStartMs": 1261060,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "뭔데요? 아직도 팔아요?"
+    } ]
+  }, {
+    "tStartMs": 1263170,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "아직도 팔아요"
+    } ]
+  }, {
+    "tStartMs": 1264690,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "뭐예요?"
+    } ]
+  }, {
+    "tStartMs": 1266100,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "그게 외국 분들은 아시는 분들이 많을 거거든요"
+    } ]
+  }, {
+    "tStartMs": 1269340,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1270750,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "킨더 부에노 헤이즐넛 화이트 맛인데"
+    } ]
+  }, {
+    "tStartMs": 1275810,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "그거 진짜 맛있습니다"
+    } ]
+  }, {
+    "tStartMs": 1277380,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "킨더 부에노... 어떻게 생긴 거예요?"
+    } ]
+  }, {
+    "tStartMs": 1279870,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "킨더 부에노는 스틱이 두 개가 있는데요"
+    } ]
+  }, {
+    "tStartMs": 1286150,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "그 스틱이 이렇게 모양이"
+    } ]
+  }, {
+    "tStartMs": 1290250,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "네 개의 산같이 이렇게 있어요"
+    } ]
+  }, {
+    "tStartMs": 1295110,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "네, 한 입 크기"
+    } ]
+  }, {
+    "tStartMs": 1296740,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "네 한 입 한 입 똑똑 뜯어 먹을 수 있는데요"
+    } ]
+  }, {
+    "tStartMs": 1301500,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "오리지널 초코는 그냥 무난하고"
+    } ]
+  }, {
+    "tStartMs": 1306660,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "화이트가 진짜 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 1309680,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "맛있겠다"
+    } ]
+  }, {
+    "tStartMs": 1311850,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "진짜 맛있습니다 (킨더는 맛있긴 하죠)"
+    } ]
+  }, {
+    "tStartMs": 1315550,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "진짜 맛있어요?"
+    } ]
+  }, {
+    "tStartMs": 1316520,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "제일 맛있어요 킨더 초콜릿 중에"
+    } ]
+  }, {
+    "tStartMs": 1319180,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "곧 발렌타인데이인데 이거 좋은 정보네요"
+    } ]
+  }, {
+    "tStartMs": 1323330,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "추천합니다"
+    } ]
+  }, {
+    "tStartMs": 1324350,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "킨더 부에노 화이트"
+    } ]
+  }, {
+    "tStartMs": 1326270,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1327100,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "오 좋다"
+    } ]
+  }, {
+    "tStartMs": 1328520,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "제가 추천하는 편의점..."
+    } ]
+  }, {
+    "tStartMs": 1330430,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "제가 한번 편의점 추천 이야기 해보긴 했는데"
+    } ]
+  }, {
+    "tStartMs": 1334350,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "뭘 추천할까나"
+    } ]
+  }, {
+    "tStartMs": 1335680,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "아 이거는 있는... 그때 얘기 안 한걸로 해볼게요"
+    } ]
+  }, {
+    "tStartMs": 1339330,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "있는 편의점도 있고 없는 편의점도 있는데"
+    } ]
+  }, {
+    "tStartMs": 1342190,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "제가 인천공항에서 갔던 편의점에는 있었어요"
+    } ]
+  }, {
+    "tStartMs": 1346050,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "그러니까 혹시 방문하시는 분들 중에 인천 CU였던 것 같아요 인천공항 CU"
+    } ]
+  }, {
+    "tStartMs": 1351880,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "거기 가시면 빵이에요 근데 빵 중에 찰옥수수빵인가?"
+    } ]
+  }, {
+    "tStartMs": 1359800,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "그게 있어요 잘 익은 옥수수 이야기라는 빵이 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1365960,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "진짜 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 1367140,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "이게 잘 익은 옥수수 이야기가 있고 뭐 다른 것도 있어요"
+    } ]
+  }, {
+    "tStartMs": 1373220,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "잘 익은 쑥 이야긴가? 뭔가 쑥빵도 있고"
+    } ]
+  }, {
+    "tStartMs": 1377260,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "그런데 그 식감이 진짜 쫄깃쫄깃해서 추천해드려요"
+    } ]
+  }, {
+    "tStartMs": 1382100,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "그래서 인천공항 오시면"
+    } ]
+  }, {
+    "tStartMs": 1384130,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "이 옥수수빵이랑 바나나 우유 같은 거"
+    } ]
+  }, {
+    "tStartMs": 1387850,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "우유랑 같이 먹는 것을 추천드립니다"
+    } ]
+  }, {
+    "tStartMs": 1392560,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "아 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 1394830,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "인천공항 얘기해서 생각난 건데"
+    } ]
+  }, {
+    "tStartMs": 1398040,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "한국 그렇게 여행 오고 가시는 분들"
+    } ]
+  }, {
+    "tStartMs": 1402020,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "한국에서 돌아가실 때나 그럴 때 꼭 바나나 우유 하나 사서"
+    } ]
+  }, {
+    "tStartMs": 1407820,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "비행기 들고 타십시오"
+    } ]
+  }, {
+    "tStartMs": 1411170,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "왜인가요?"
+    } ]
+  }, {
+    "tStartMs": 1413660,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "제가 작년에 태국 여행 갈 때"
+    } ]
+  }, {
+    "tStartMs": 1417070,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "그냥 잔돈 턴다고 체크인 다 하고 나서"
+    } ]
+  }, {
+    "tStartMs": 1422650,
+    "dDurationMs": 6890,
+    "segs": [ {
+      "utf8": "비행기 타기 직전에 있는 편의점에서 바나나 우유로 하나 사서 갔거든요"
+    } ]
+  }, {
+    "tStartMs": 1429540,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "근데 비행시간이 좀 길기도 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 1432510,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "그렇죠 한 다 여섯 시간 걸리죠"
+    } ]
+  }, {
+    "tStartMs": 1434340,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "네, 그러면 계속 앉아 있으면 좀 찌뿌둥하기도 하고"
+    } ]
+  }, {
+    "tStartMs": 1438200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "그리고 말을 안 하고 입을 가만히 닫고 있으니까"
+    } ]
+  }, {
+    "tStartMs": 1440840,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "입도 좀 텁텁해지는데 그리고 또 보통 더워져요"
+    } ]
+  }, {
+    "tStartMs": 1446400,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "조금 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1447460,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "네, 좀 더워지거든요 막 답답한 느낌 들고"
+    } ]
+  }, {
+    "tStartMs": 1451390,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "그렇게 그리고 막 비행기에서 먹을 수 있는, 마실 수 있는 것도"
+    } ]
+  }, {
+    "tStartMs": 1457350,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "물 아니면 음료수란 말이에요"
+    } ]
+  }, {
+    "tStartMs": 1460270,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "네, 뜨거운 음료는 들고 타면 안 되고 하는 것도 있고 규칙이"
+    } ]
+  }, {
+    "tStartMs": 1466020,
+    "dDurationMs": 7930,
+    "segs": [ {
+      "utf8": "그런데 다들 잠들고 몸 찌뿌둥해 할 때"
+    } ]
+  }, {
+    "tStartMs": 1473950,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "혼자 바나나 우유를 꺼내가지고"
+    } ]
+  }, {
+    "tStartMs": 1477410,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "빨대 톡 해가지고 넣어서..."
+    } ]
+  }, {
+    "tStartMs": 1481040,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "그리고 창가 자리면 금상첨화입니다"
+    } ]
+  }, {
+    "tStartMs": 1484070,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "그 창가 좀 덥잖아요"
+    } ]
+  }, {
+    "tStartMs": 1486980,
+    "dDurationMs": 7820,
+    "segs": [ {
+      "utf8": "이 비행기 창문에 창문하고 이렇게 딱 그 벽이 이렇게 있잖아요?"
+    } ]
+  }, {
+    "tStartMs": 1494800,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "네 그럼 여기에 턱을 딱 대고 뺨을 딱 대면요"
+    } ]
+  }, {
+    "tStartMs": 1498860,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "시원하거든요?"
+    } ]
+  }, {
+    "tStartMs": 1502290,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "네 우선 피부가 시원해지고..."
+    } ]
+  }, {
+    "tStartMs": 1504050,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "먼저 뺨을 이렇게 딱 식히면서 하늘을 내려다보면서"
+    } ]
+  }, {
+    "tStartMs": 1509620,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "바나나 우유를 쪽쪽 빨아 마시는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1513070,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "그러면 퍼스트 클래스가 부럽지 않다?"
+    } ]
+  }, {
+    "tStartMs": 1516310,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "그러면 진짜 두 배로 답니다 바나나 우유가"
+    } ]
+  }, {
+    "tStartMs": 1520500,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "바나나 우유 맛있게 먹는 법"
+    } ]
+  }, {
+    "tStartMs": 1522210,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1523810,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "비행기에서..."
+    } ]
+  }, {
+    "tStartMs": 1524640,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "비행기를 탄다"
+    } ]
+  }, {
+    "tStartMs": 1526740,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "네 비행기에서 몸 찌뿌둥하고"
+    } ]
+  }, {
+    "tStartMs": 1529060,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "약간 덥고 답답할 때 마신다 진짜 리프레쉬"
+    } ]
+  }, {
+    "tStartMs": 1534120,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "정말 달달하겠네요"
+    } ]
+  }, {
+    "tStartMs": 1535940,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "네 추천드립니다 구독자분들"
+    } ]
+  }, {
+    "tStartMs": 1538330,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "와 진짜 웃기다"
+    } ]
+  }, {
+    "tStartMs": 1540350,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "안 그래도 인기 많잖아요 바나나 우유가"
+    } ]
+  }, {
+    "tStartMs": 1542470,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1543740,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "그 종류도 되게 많은데 저는 그냥 어렸을 때부터"
+    } ]
+  }, {
+    "tStartMs": 1546650,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "바나나 우유를 먹어온 사람으로서 오리지널을 가장 추천드리고"
+    } ]
+  }, {
+    "tStartMs": 1551350,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "그거를 이렇게 드시면 맛있다고 하네요"
+    } ]
+  }, {
+    "tStartMs": 1554460,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 1555490,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "저희도 여행 다 가봤잖아요 그렇게 여행 끝나고"
+    } ]
+  }, {
+    "tStartMs": 1559190,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "뭐라도 더 사가고 싶은 마음, 아쉬운 마음이 있단 말이에요"
+    } ]
+  }, {
+    "tStartMs": 1563300,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "그래서 그럴 때 편의점 가서 좀 사기 좋죠 이런 것들"
+    } ]
+  }, {
+    "tStartMs": 1566880,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 1567990,
+    "dDurationMs": 9110,
+    "segs": [ {
+      "utf8": "찰옥수수빵이랑 바나나 우유랑 또 뭐 사가면 좋을까 편의점에서?"
+    } ]
+  }, {
+    "tStartMs": 1577100,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "라면은 좀 애매한 게 부피가 크단 말이죠"
+    } ]
+  }, {
+    "tStartMs": 1581170,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "라면 또 좋아하는 거 있을까요 그럼?"
+    } ]
+  }, {
+    "tStartMs": 1584110,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "라면이요?"
+    } ]
+  }, {
+    "tStartMs": 1585150,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "네 편의점에서 좀 자주 사 먹는 라면 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 1588880,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "편의점에서 사 먹는 라면은 아무래도 컵라면이어야 하니까"
+    } ]
+  }, {
+    "tStartMs": 1595720,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "네 저는 사실 꼬꼬면을 좋아합니다"
+    } ]
+  }, {
+    "tStartMs": 1600930,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "꼬꼬면 아직도 있어요?"
+    } ]
+  }, {
+    "tStartMs": 1602720,
+    "dDurationMs": 410,
+    "segs": [ {
+      "utf8": "있어요"
+    } ]
+  }, {
+    "tStartMs": 1603130,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "근데 컵라면으로만 있어요"
+    } ]
+  }, {
+    "tStartMs": 1606700,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "흰색 국물 맞아요?"
+    } ]
+  }, {
+    "tStartMs": 1608450,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1609700,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "닭 육수 라면이죠?"
+    } ]
+  }, {
+    "tStartMs": 1612620,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1613670,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "엄청 오래됐는데 안 먹은지"
+    } ]
+  }, {
+    "tStartMs": 1616780,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "네 그래서 봉지 라면은 본 적이 없고"
+    } ]
+  }, {
+    "tStartMs": 1621160,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "요즘 편의점에는 컵라면으로 있는데"
+    } ]
+  }, {
+    "tStartMs": 1624780,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "사실 저는 라면은 그냥 집에서 끓여 먹는 걸 너무 좋아해서"
+    } ]
+  }, {
+    "tStartMs": 1630240,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "그게 더 맛있는 것 같아요 매력이 다르긴 한데"
+    } ]
+  }, {
+    "tStartMs": 1634510,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1636240,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "스낵면 아니 아니고 컵누들 드셔보셨나요?"
+    } ]
+  }, {
+    "tStartMs": 1640440,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "그거 다이어트 식품 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 1642540,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "진짜 가벼운 라면이거든요?"
+    } ]
+  }, {
+    "tStartMs": 1647070,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "저는 대학교 때 편의점을 제일 많이 이용했었는데 기숙사를 살았어요"
+    } ]
+  }, {
+    "tStartMs": 1652120,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "그래서 한 수업 끝나고 뭐 과제하고 이러면 12시에 좀 배가 고파요"
+    } ]
+  }, {
+    "tStartMs": 1658530,
+    "dDurationMs": 8070,
+    "segs": [ {
+      "utf8": "친구들이랑 너무 또... 많은 음식을 매일 밤 먹을 수는 없잖아요"
+    } ]
+  }, {
+    "tStartMs": 1666600,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "그래서 조금 출출한데 뭔가 먹고 싶어 입이 심심해"
+    } ]
+  }, {
+    "tStartMs": 1671220,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "그럴 때 자주 먹었던 게 스낵면"
+    } ]
+  }, {
+    "tStartMs": 1673120,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "아니 자꾸 스낵면이래 뭐죠? 컵누들 컵누들"
+    } ]
+  }, {
+    "tStartMs": 1676900,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "컵루들은 면도 투명하게 생기지 않았나요?"
+    } ]
+  }, {
+    "tStartMs": 1683620,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "그게 잡채 같은 면일 거예요"
+    } ]
+  }, {
+    "tStartMs": 1687550,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "그렇죠 전분으로 만든 면, 다이어트 면이에요"
+    } ]
+  }, {
+    "tStartMs": 1692900,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "되게 구성이 간단한 작은 컵라면"
+    } ]
+  }, {
+    "tStartMs": 1696510,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "작고 맞아요 진짜 가벼워요"
+    } ]
+  }, {
+    "tStartMs": 1698600,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "면도 조금 들어있고"
+    } ]
+  }, {
+    "tStartMs": 1701300,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "양이 많지 않으신 분들이나"
+    } ]
+  }, {
+    "tStartMs": 1704140,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "아니면 다양한 거 편의점에서 한 번에 먹고 싶다 할 때는"
+    } ]
+  }, {
+    "tStartMs": 1707710,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "그거 살짝 국물 느낌으로"
+    } ]
+  }, {
+    "tStartMs": 1710260,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "삼각김밥 샌드위치"
+    } ]
+  }, {
+    "tStartMs": 1711910,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "뭐 그거 하나 빵 이렇게 먹을 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 1716130,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "조금 조금씩 먹는 거 좋아하시는 분들"
+    } ]
+  }, {
+    "tStartMs": 1719040,
+    "dDurationMs": 10440,
+    "segs": [ {
+      "utf8": "근데 그 얘기 생각해보니까 컵라면이 어떤 의미로"
+    } ]
+  }, {
+    "tStartMs": 1729480,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "두 종류가 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1731200,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1733310,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "하나는 그냥 끓는 물을 부어서 먹는 컵라면이고"
+    } ]
+  }, {
+    "tStartMs": 1738900,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "다른 하나는 전자레인지에 돌려 먹을 수 있는 컵라면이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1742830,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "그래서 여행 오신 분들이"
+    } ]
+  }, {
+    "tStartMs": 1746980,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "그걸 잘 모를 수도 있을 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 1750690,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "컵라면... 용기, 뚜껑 그릇을 보면"
+    } ]
+  }, {
+    "tStartMs": 1755990,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "전자렌지 조리가 가능한 컵라면입니다 라고 써져 있는 게 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1760570,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1761510,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "근데 그거는 이제 뚜껑을 다 떼고 끓는 물을 담아서"
+    } ]
+  }, {
+    "tStartMs": 1766530,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "전자렌지에 나와 있는 시간대로 돌려서 먹으면"
+    } ]
+  }, {
+    "tStartMs": 1770560,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "또 더 맛있게 먹을 수 있습니다"
+    } ]
+  }, {
+    "tStartMs": 1772770,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "어, 전 대표적으로 알고 있는 게 불닭볶음면 중에"
+    } ]
+  }, {
+    "tStartMs": 1778050,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "네 가지 치즈 불닭볶음면 전 제일 좋아하거든요"
+    } ]
+  }, {
+    "tStartMs": 1781830,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "그게 그렇게 써져 있어요"
+    } ]
+  }, {
+    "tStartMs": 1784480,
+    "dDurationMs": 7350,
+    "segs": [ {
+      "utf8": "물 일단 넣고 전자레인지에 돌리세요 적혀있으니까 확인하시고 먹으면"
+    } ]
+  }, {
+    "tStartMs": 1791830,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "확실히 더 면이 푹 익어서 더 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 1796090,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 1797530,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "그럼 마지막으로 편의점 오시는 외국 분들한테 추천하고 싶은 거"
+    } ]
+  }, {
+    "tStartMs": 1801660,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "하나씩만 더 얘기해볼까요?"
+    } ]
+  }, {
+    "tStartMs": 1804420,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "음.. 추천하고 싶은 거.."
+    } ]
+  }, {
+    "tStartMs": 1807010,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "사실 한국에는 카페가 너무너무 많아서"
+    } ]
+  }, {
+    "tStartMs": 1810240,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "카페 가서 커피 먹는 걸 전 추천하긴 하거든요?"
+    } ]
+  }, {
+    "tStartMs": 1815170,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "근데 또 이게 어디서 들었는데"
+    } ]
+  }, {
+    "tStartMs": 1819310,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "그 커피 협회 같은 데서 뭔가 콘테스트 같은 걸 했는데"
+    } ]
+  }, {
+    "tStartMs": 1824800,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "블라인드 테스트를 했대요"
+    } ]
+  }, {
+    "tStartMs": 1826050,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "뭐 어디 가게 커피, 카페 커피, 편의점 커피 해가지고 했는데"
+    } ]
+  }, {
+    "tStartMs": 1830940,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "편의점이 1등을 했다는 거예요 블라인드 테스트에서"
+    } ]
+  }, {
+    "tStartMs": 1833810,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "맛 1등"
+    } ]
+  }, {
+    "tStartMs": 1835600,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "우와, 네"
+    } ]
+  }, {
+    "tStartMs": 1837180,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "그리고 편의점에서 쓰는 커피 머신이 천만 원이 넘는데요"
+    } ]
+  }, {
+    "tStartMs": 1841740,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "되게 비싼 거 쓴대요"
+    } ]
+  }, {
+    "tStartMs": 1844360,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "그래서 맛있다고들 하거든요"
+    } ]
+  }, {
+    "tStartMs": 1847940,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "그래서 뭔가 공항에 커피샵이 너무 사람이 많다거나"
+    } ]
+  }, {
+    "tStartMs": 1853270,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "그러면 편의점 커피도 괜찮아요"
+    } ]
+  }, {
+    "tStartMs": 1856130,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "근데 그 냉장고에 있는 커피 말고"
+    } ]
+  }, {
+    "tStartMs": 1858710,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "그 머신에서 아이스가 먹고 싶으면 얼음컵 꺼내서"
+    } ]
+  }, {
+    "tStartMs": 1863270,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "거기서 커피 주세요 하면 알아서 해주시거든요"
+    } ]
+  }, {
+    "tStartMs": 1867150,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "그거나 아니면 뜨거운 거 먹고 싶으면 계산할 때 그냥 가서"
+    } ]
+  }, {
+    "tStartMs": 1871000,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "저 아메리카노 한 잔이요 하면은 컵을 주세요 맞는 컵을 주시니까"
+    } ]
+  }, {
+    "tStartMs": 1875840,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "커피도 한번 드셔보시는 것도 괜찮을 것 같네요"
+    } ]
+  }, {
+    "tStartMs": 1880380,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 1882940,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "저는 사실 이미 추천을 다 해서"
+    } ]
+  }, {
+    "tStartMs": 1889000,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "김치사발면과 KGB"
+    } ]
+  }, {
+    "tStartMs": 1891940,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "그리고 킨더 부에노 화이트 그렇게 추천을 했으니까요"
+    } ]
+  }, {
+    "tStartMs": 1896210,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "바나나 우유까지 하셨죠?"
+    } ]
+  }, {
+    "tStartMs": 1898030,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "바나나 우유도 했는데"
+    } ]
+  }, {
+    "tStartMs": 1899540,
+    "dDurationMs": 7990,
+    "segs": [ {
+      "utf8": "한 가지 추천 겸 조언을 드리자면"
+    } ]
+  }, {
+    "tStartMs": 1907530,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "팁!"
+    } ]
+  }, {
+    "tStartMs": 1909950,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "현실적으로 여행 오신 분들이"
+    } ]
+  }, {
+    "tStartMs": 1914400,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "공항에서 돌아가실 때 공항에 면세점들이 많잖아요"
+    } ]
+  }, {
+    "tStartMs": 1919790,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1920640,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "거기에 간식을 파는 면세점들도 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1927050,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "있어요"
+    } ]
+  }, {
+    "tStartMs": 1927760,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "네 근데 거기에서만 살 수 있는 간식들이 있는데"
+    } ]
+  }, {
+    "tStartMs": 1932530,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "또 거기에 그냥 그냥 간식들도 팔아요"
+    } ]
+  }, {
+    "tStartMs": 1936460,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "마트에서 살 수 있는 그냥 과자들"
+    } ]
+  }, {
+    "tStartMs": 1939200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "네네 그냥 과자들도 팔아요"
+    } ]
+  }, {
+    "tStartMs": 1941880,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "근데 보통.. 보통.. 보통인지는 모르겠고"
+    } ]
+  }, {
+    "tStartMs": 1947620,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "거기 그 면세점 간식 코너에 있는 간식이"
+    } ]
+  }, {
+    "tStartMs": 1951710,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "그 과자가 그냥 그 공항 안에 있는 편의점에서 팔릴 때도 있어요"
+    } ]
+  }, {
+    "tStartMs": 1958080,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "아 똑같은 게 있을 수 있다는 거죠?"
+    } ]
+  }, {
+    "tStartMs": 1960010,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "네네 근데 가격이 몇 배 더 비싸요 여기는"
+    } ]
+  }, {
+    "tStartMs": 1964010,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "면세점이?"
+    } ]
+  }, {
+    "tStartMs": 1964890,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1965740,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "아.. 아무래도.."
+    } ]
+  }, {
+    "tStartMs": 1970180,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "제가 한 번 그렇게 산 적이 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1974820,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "그 친구가 찰떡파이를 좋아해서"
+    } ]
+  }, {
+    "tStartMs": 1980290,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "다른 선물 사면서 찰떡파이가 있네 해서 그것도 결제를 했거든요"
+    } ]
+  }, {
+    "tStartMs": 1986390,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "그래서 쇼핑백에 넣어서 가는데 공항 게이트로 가는데"
+    } ]
+  }, {
+    "tStartMs": 1990670,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "옆에 편의점이 있는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1993140,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "그래서 그때 바나나 우유 사려고 가는데"
+    } ]
+  }, {
+    "tStartMs": 1997500,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "똑같은 찰떡파이가 있는 거예요"
+    } ]
+  }, {
+    "tStartMs": 2000610,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "다행히 시간이 많이 남아서"
+    } ]
+  }, {
+    "tStartMs": 2003020,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "그 면세점에 돌아가서 환불을 했습니다 (- 알뜰해라!)"
+    } ]
+  }, {
+    "tStartMs": 2008870,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "못 참죠 못 참죠\n- 그냥 1,000원, 2,000원 차이가 아니라서"
+    } ]
+  }, {
+    "tStartMs": 2014480,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "그래서 환불 잘하고 편의점에서 다시 사서 갔습니다"
+    } ]
+  }, {
+    "tStartMs": 2019290,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "이거는 진짜 아는 사람만 그거 안 되겠네요 바보가 안 되겠네요"
+    } ]
+  }, {
+    "tStartMs": 2024350,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "네, 여러분들도 조심하시길 바랍니다"
+    } ]
+  }, {
+    "tStartMs": 2027560,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "그리고 웬만큼 유명한 과자,"
+    } ]
+  }, {
+    "tStartMs": 2030300,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "한국인들이 많이 먹는 과자는 편의점에 있어요"
+    } ]
+  }, {
+    "tStartMs": 2033510,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "거기서 사는 게 제일 저도 좋은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2037410,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 2039080,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "한국인들이 진짜 사는 곳이니까, 편의점이"
+    } ]
+  }, {
+    "tStartMs": 2042490,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2043570,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "네, 그러면 여기까지 저희는 편의점 이야기해보도록 하고요"
+    } ]
+  }, {
+    "tStartMs": 2047560,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "좀 퀴즈를 내보려고 하는데요"
+    } ]
+  }, {
+    "tStartMs": 2050010,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "이번 주 퀴즈는 디디와 태웅쌤이 편의점에서 자주 사는 음식으로"
+    } ]
+  }, {
+    "tStartMs": 2056350,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "고르지 않은 거를 골라주시면 될 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 2061950,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "유튜브에 새로 생긴 기능인데"
+    } ]
+  }, {
+    "tStartMs": 2064310,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "투표를 할 수 있는 기능이 생겼더라고요"
+    } ]
+  }, {
+    "tStartMs": 2066820,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "이번에는 그걸 한번 써보려고 하고요"
+    } ]
+  }, {
+    "tStartMs": 2069940,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "디디와 태웅쌤이 편의점에서"
+    } ]
+  }, {
+    "tStartMs": 2072020,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "자주 사는 음식으로 고르지 않은 거를 골라주시면 됩니다"
+    } ]
+  }, {
+    "tStartMs": 2077180,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "1번,"
+    } ]
+  }, {
+    "tStartMs": 2078250,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "김밥"
+    } ]
+  }, {
+    "tStartMs": 2079900,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "2번 계란"
+    } ]
+  }, {
+    "tStartMs": 2082700,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "3번 소세지"
+    } ]
+  }, {
+    "tStartMs": 2085590,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "정답을 아시는 분은 여기 유튜브 화면으로 정답을 골라주시거나"
+    } ]
+  }, {
+    "tStartMs": 2089600,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "댓글로 남겨주시면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2092590,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "그러면 저희는 다음 코너로 넘어가 보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2096420,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "말로 하는 미니게임"
+    } ]
+  }, {
+    "tStartMs": 2106880,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "이제 말로 하는 미니게임 코너고요"
+    } ]
+  }, {
+    "tStartMs": 2109940,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "저번부터 계속 랭킹 맞추기 게임을 하고 있는데"
+    } ]
+  }, {
+    "tStartMs": 2113630,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "그게 뭔가 이야기하기도 좋고"
+    } ]
+  }, {
+    "tStartMs": 2116350,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "한국 특성 같은 것도 찾을 수 있는 게임인 것 같아가지고"
+    } ]
+  }, {
+    "tStartMs": 2121540,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "이번에도 맞추기 게임으로 준비를 해봤습니다"
+    } ]
+  }, {
+    "tStartMs": 2124720,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "그리고 이번에 맞춰야 할 거는"
+    } ]
+  }, {
+    "tStartMs": 2126930,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "한국 편의점에서 가장 많이 팔린 제품은 뭘까"
+    } ]
+  }, {
+    "tStartMs": 2132680,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "1위를 맞추는 게임이 되겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2136660,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "그거를 카테고리로 하면 되는 건가요?"
+    } ]
+  }, {
+    "tStartMs": 2140940,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "저도 잘 모르겠는데"
+    } ]
+  }, {
+    "tStartMs": 2142130,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "그냥 \"이것\"이라고 되어 있었어요"
+    } ]
+  }, {
+    "tStartMs": 2145440,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "한국 편의점에서 가장 잘 팔린 \"이것\"이라는 기사를 봤거든요"
+    } ]
+  }, {
+    "tStartMs": 2150180,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "근데 제가 이것을 보진 않았어요"
+    } ]
+  }, {
+    "tStartMs": 2152990,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2154170,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "맞춰봅시다"
+    } ]
+  }, {
+    "tStartMs": 2154830,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "아마 제품, 특정 제품일 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2158330,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "그렇구나"
+    } ]
+  }, {
+    "tStartMs": 2163570,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "외국에서 팔렸다고 하면 불닭볶음면 하겠는데"
+    } ]
+  }, {
+    "tStartMs": 2166670,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "불닭볶음면?"
+    } ]
+  }, {
+    "tStartMs": 2167450,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "저는 바나나 우유를 진짜 많이 들었어요 막 쌓아놓고 판다고"
+    } ]
+  }, {
+    "tStartMs": 2171930,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "맞아요, 맞아요"
+    } ]
+  }, {
+    "tStartMs": 2172750,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "본 적 있죠?"
+    } ]
+  }, {
+    "tStartMs": 2176060,
+    "dDurationMs": 100,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2176160,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "그러니까 외국인들이 편의점을 이용을 더 많이 할까요? 더 많이 살까요?"
+    } ]
+  }, {
+    "tStartMs": 2181070,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "국내 사람들이 그래도 더 많이 살까요?"
+    } ]
+  }, {
+    "tStartMs": 2184420,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "에이, 당연히 국내에서"
+    } ]
+  }, {
+    "tStartMs": 2186050,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇겠죠?"
+    } ]
+  }, {
+    "tStartMs": 2187050,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "네, 많겠죠"
+    } ]
+  }, {
+    "tStartMs": 2188120,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "그럼 국내에서 많이 살 것 같은 거"
+    } ]
+  }, {
+    "tStartMs": 2192180,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "저는 딱 생각나는 게 하나"
+    } ]
+  }, {
+    "tStartMs": 2194670,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "뭡니까?"
+    } ]
+  }, {
+    "tStartMs": 2195870,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "담배?"
+    } ]
+  }, {
+    "tStartMs": 2197320,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "담배?"
+    } ]
+  }, {
+    "tStartMs": 2199520,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "담배를 살려면 다 편의점으로 갈까요?"
+    } ]
+  }, {
+    "tStartMs": 2202210,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "요즘 편의점 말고 살 수 있는 곳이 없지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 2205580,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "아 진짜?"
+    } ]
+  }, {
+    "tStartMs": 2207000,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "근데 흡연자가 그렇게 많을까요?"
+    } ]
+  }, {
+    "tStartMs": 2211740,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "예를 들면 물을 마시는 사람보다"
+    } ]
+  }, {
+    "tStartMs": 2214910,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "저는 물 같은 거 생각했어요"
+    } ]
+  }, {
+    "tStartMs": 2217120,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "근데 물은 편의점 말고 다른 곳도 구할 곳이 많잖아요"
+    } ]
+  }, {
+    "tStartMs": 2222640,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "굳이 또 비싸고 안 살 수도 있겠네요"
+    } ]
+  }, {
+    "tStartMs": 2229220,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "담배인가?"
+    } ]
+  }, {
+    "tStartMs": 2232700,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "아니면 술?"
+    } ]
+  }, {
+    "tStartMs": 2235020,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "술, 맥주 맥주도 많이 사죠"
+    } ]
+  }, {
+    "tStartMs": 2242640,
+    "dDurationMs": 7570,
+    "segs": [ {
+      "utf8": "음식은 또 안 드시는 분들은 안 드시는 것 같아요 김밥이나... 샌드위치 같은 거?"
+    } ]
+  }, {
+    "tStartMs": 2250210,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2252150,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "헐 담배인가?"
+    } ]
+  }, {
+    "tStartMs": 2255750,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "태웅쌤이 맞췄나?"
+    } ]
+  }, {
+    "tStartMs": 2258120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "디디님은 어떻게 생각하십니까?"
+    } ]
+  }, {
+    "tStartMs": 2260880,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "많이 사는 거..."
+    } ]
+  }, {
+    "tStartMs": 2262830,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "마실 거일 것 같긴 해요 제 생각에는 술이든 물이든"
+    } ]
+  }, {
+    "tStartMs": 2268560,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "숙취 음료든 왠지..."
+    } ]
+  }, {
+    "tStartMs": 2271900,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "맥주인가?"
+    } ]
+  }, {
+    "tStartMs": 2276430,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "맥주일 것 같기도 하고"
+    } ]
+  }, {
+    "tStartMs": 2280130,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "맥주가 싸게 사기 좋으니까 더 잘 팔릴 것 같기도 하거든요"
+    } ]
+  }, {
+    "tStartMs": 2287870,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "그쵸 그리고 마트에서 맥주만 사러 가시는 분들도"
+    } ]
+  }, {
+    "tStartMs": 2293730,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "맥주가 진짜 필요할 때는 보통 편의점 많이 가는 것 같거든요"
+    } ]
+  }, {
+    "tStartMs": 2298010,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2299680,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 2301130,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "담배보다 맥주가 더 많을 것 같네요 생각해보니까"
+    } ]
+  }, {
+    "tStartMs": 2304040,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "그쵸 술을 드시는 분들이 더 많을 것 같기도 하고"
+    } ]
+  }, {
+    "tStartMs": 2306940,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "그리고요"
+    } ]
+  }, {
+    "tStartMs": 2308050,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2309660,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "담배는 한 번에 4갑을 사는 사람이 없지만"
+    } ]
+  }, {
+    "tStartMs": 2314380,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "맥주는 4캔을 세트로 사는 사람들이 많아요"
+    } ]
+  }, {
+    "tStartMs": 2317330,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "디디님처럼 그렇게"
+    } ]
+  }, {
+    "tStartMs": 2320500,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "네, 맥주인가?!"
+    } ]
+  }, {
+    "tStartMs": 2323230,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "맥주 아 근데 음..."
+    } ]
+  }, {
+    "tStartMs": 2327870,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "아 이건 진짜 어렵다"
+    } ]
+  }, {
+    "tStartMs": 2330300,
+    "dDurationMs": 8020,
+    "segs": [ {
+      "utf8": "그쵸 주변에서도 근데 친구들이랑 가면 마실 거를 사요"
+    } ]
+  }, {
+    "tStartMs": 2338320,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "목이 말라서 급하게 들어가서 물을 사거나"
+    } ]
+  }, {
+    "tStartMs": 2341180,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "이온 음료를 사거나"
+    } ]
+  }, {
+    "tStartMs": 2345820,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "맥주 같은데요"
+    } ]
+  }, {
+    "tStartMs": 2347630,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "맥주?"
+    } ]
+  }, {
+    "tStartMs": 2348480,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "아 근데 또 특정한 제품은 아니려나? 그건 아니려나?"
+    } ]
+  }, {
+    "tStartMs": 2352630,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "일단 전 맥주인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2355970,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "아 그래요? 저도인데요?"
+    } ]
+  }, {
+    "tStartMs": 2359400,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "아, 담배 아니었어요?"
+    } ]
+  }, {
+    "tStartMs": 2360970,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "아니, 아닌데요"
+    } ]
+  }, {
+    "tStartMs": 2361780,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "아니에요? 바꿨어요?"
+    } ]
+  }, {
+    "tStartMs": 2363480,
+    "dDurationMs": 590,
+    "segs": [ {
+      "utf8": "그럼 둘 다?"
+    } ]
+  }, {
+    "tStartMs": 2364070,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "그러면은 맥주"
+    } ]
+  }, {
+    "tStartMs": 2366880,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "맥주에서 고르죠"
+    } ]
+  }, {
+    "tStartMs": 2369650,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "종류를?"
+    } ]
+  }, {
+    "tStartMs": 2370340,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2372640,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "전 카스..."
+    } ]
+  }, {
+    "tStartMs": 2376380,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "카스가 그냥 1위 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 2377870,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "한국에서 맥주 제일 잘 팔리는?"
+    } ]
+  }, {
+    "tStartMs": 2379680,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "아마 그럴 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2381460,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "이런..."
+    } ]
+  }, {
+    "tStartMs": 2383910,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "아 근데 또 맥주도 아닌 거 아니야?"
+    } ]
+  }, {
+    "tStartMs": 2387220,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "막 신라면 이런 거 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 2389080,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "아 라면"
+    } ]
+  }, {
+    "tStartMs": 2391290,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "라면"
+    } ]
+  }, {
+    "tStartMs": 2392470,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "라면도 많이 팔릴 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 2394690,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "라면을 많이 드시긴 하는데"
+    } ]
+  }, {
+    "tStartMs": 2397760,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "또 안 드시는 분들은 안 드세요 라면은"
+    } ]
+  }, {
+    "tStartMs": 2401990,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "저는 잘 안 사요"
+    } ]
+  }, {
+    "tStartMs": 2403230,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "아 그러면 흡연 대 음주의 대결이네 그러네요"
+    } ]
+  }, {
+    "tStartMs": 2408580,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "담배는 그렇게 많이 살 것 같진 않아요"
+    } ]
+  }, {
+    "tStartMs": 2412830,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "그래도 모든 사람들이 피는 게 아니니까"
+    } ]
+  }, {
+    "tStartMs": 2415840,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "그것도 그렇고"
+    } ]
+  }, {
+    "tStartMs": 2416800,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "한갑을 하루에 매일매일 사지는 않잖아요"
+    } ]
+  }, {
+    "tStartMs": 2420410,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "흡연자가 많다고 해도"
+    } ]
+  }, {
+    "tStartMs": 2421870,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "맞네요"
+    } ]
+  }, {
+    "tStartMs": 2423760,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "맥주네 그러면"
+    } ]
+  }, {
+    "tStartMs": 2427220,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "아무래도 맥주인가"
+    } ]
+  }, {
+    "tStartMs": 2428820,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "아 근데 또 얘기 못한 것 중에 아까 라면 얘기가 나와가지고"
+    } ]
+  }, {
+    "tStartMs": 2432710,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "편의점에서 만들어 먹기 좋은 편의점 라면 레시피 이런 거 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 2439950,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "아 네"
+    } ]
+  }, {
+    "tStartMs": 2440700,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "그런 것도 소개해 주면 좋을 텐데"
+    } ]
+  }, {
+    "tStartMs": 2443730,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "좀 대표적인 게"
+    } ]
+  }, {
+    "tStartMs": 2444650,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "불닭볶음면에 스트링 치즈 이렇게 찢어 가지고 넣고"
+    } ]
+  }, {
+    "tStartMs": 2449020,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "그리고 비엔나 소세지 이렇게 작은 거 파는 거 있어요"
+    } ]
+  }, {
+    "tStartMs": 2451890,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "그거 넣어 가지고 전자레인지 돌려 먹는"
+    } ]
+  }, {
+    "tStartMs": 2454720,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "그런 것도 있고"
+    } ]
+  }, {
+    "tStartMs": 2456530,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "짜파구리 같은 거 기생충에 나온 것도"
+    } ]
+  }, {
+    "tStartMs": 2459140,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "원래 편의점 레시피잖아요"
+    } ]
+  }, {
+    "tStartMs": 2461600,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 2463020,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "라면도 많이 먹는 것 같긴 하네요"
+    } ]
+  }, {
+    "tStartMs": 2465210,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "그 말 들으니까 학생들이 진짜 많이 먹어요 라면은"
+    } ]
+  }, {
+    "tStartMs": 2468730,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "아 그렇네요"
+    } ]
+  }, {
+    "tStartMs": 2470210,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2471980,
+    "dDurationMs": 7780,
+    "segs": [ {
+      "utf8": "술은 성인들만 살 수 있는데 라면은 청소년들도 먹을 수 있다"
+    } ]
+  }, {
+    "tStartMs": 2482530,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "그럼 또 만만치 않은데요"
+    } ]
+  }, {
+    "tStartMs": 2484380,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "그러네요"
+    } ]
+  }, {
+    "tStartMs": 2485650,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "그게 역대 판매 순위에요?"
+    } ]
+  }, {
+    "tStartMs": 2489060,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "아니면 2025년 판매량이에요?"
+    } ]
+  }, {
+    "tStartMs": 2492080,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "그런 건 모르죠?"
+    } ]
+  }, {
+    "tStartMs": 2493240,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "알 수 없어요"
+    } ]
+  }, {
+    "tStartMs": 2494150,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "그걸 알면 너무 깊게 알아버릴 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2497250,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "음... 저는 라면으로 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2500260,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "라면으로?"
+    } ]
+  }, {
+    "tStartMs": 2500990,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "컵라면 포함되나요?"
+    } ]
+  }, {
+    "tStartMs": 2502860,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "네네네"
+    } ]
+  }, {
+    "tStartMs": 2503570,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "저는 라면 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2504700,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "라면으로?"
+    } ]
+  }, {
+    "tStartMs": 2505980,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "왜냐면 술을 마시는 인구가 점점 줄어든다고 들은 것 같거든요"
+    } ]
+  }, {
+    "tStartMs": 2510700,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 2511870,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2512800,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "그럴 수 있겠네요"
+    } ]
+  }, {
+    "tStartMs": 2514160,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "그러면 전 맥주로"
+    } ]
+  }, {
+    "tStartMs": 2515810,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2517380,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "하고 찾아보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2520500,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "'커피도 맥주도 아니다..."
+    } ]
+  }, {
+    "tStartMs": 2522940,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "편의점에서 가장 많이 팔리는 제품은?'"
+    } ]
+  }, {
+    "tStartMs": 2525910,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "두둥!"
+    } ]
+  }, {
+    "tStartMs": 2527550,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "'편의점에서 1년 중에 가장 많이 팔리는 상품은"
+    } ]
+  }, {
+    "tStartMs": 2530590,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "얼음컵이다'"
+    } ]
+  }, {
+    "tStartMs": 2535570,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "허를 찔렸다..."
+    } ]
+  }, {
+    "tStartMs": 2536540,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "연간 5억 개 정도 팔린다고 하네요 얼음컵이"
+    } ]
+  }, {
+    "tStartMs": 2542640,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "그래서 처음부터 이게 잘 팔리진 않았는데 커피, 홍차 같은 아이스 음료가"
+    } ]
+  }, {
+    "tStartMs": 2548210,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "2000년대에 많아졌잖아요"
+    } ]
+  }, {
+    "tStartMs": 2551140,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "아이스 아메리카노도 많이 먹고"
+    } ]
+  }, {
+    "tStartMs": 2553200,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "근데 또 맥주도 그렇고 콜라도 그렇고 모든 음료수랑"
+    } ]
+  }, {
+    "tStartMs": 2557790,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "이 얼음컵이 잘 맞다 보니까"
+    } ]
+  }, {
+    "tStartMs": 2561280,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "얼음컵이 제일 잘 팔린대요"
+    } ]
+  }, {
+    "tStartMs": 2564210,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "아 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 2566820,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "가끔 사긴 하는데 얼음컵"
+    } ]
+  }, {
+    "tStartMs": 2571170,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "그리고 되게 싸죠"
+    } ]
+  }, {
+    "tStartMs": 2572860,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "네 뭐 한 800원? 네"
+    } ]
+  }, {
+    "tStartMs": 2577260,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "허를 찔렀다 생각도 못했네요"
+    } ]
+  }, {
+    "tStartMs": 2579190,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "그니까요 얼음컵"
+    } ]
+  }, {
+    "tStartMs": 2581840,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "아! 근데, 근데, 근데, 근데"
+    } ]
+  }, {
+    "tStartMs": 2585590,
+    "dDurationMs": 7750,
+    "segs": [ {
+      "utf8": "'구매층이 제한된 담배와 주류를 제외한 편의점 판매 1위는 컵 얼음이다' 라고 되어 있거든요"
+    } ]
+  }, {
+    "tStartMs": 2593340,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "아, 그러면 담배랑 주류가 더 높을 수도 있다는 말이네요"
+    } ]
+  }, {
+    "tStartMs": 2597470,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "그쵸 근데 뭐 카운팅은 빼고 한 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2601180,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "아무튼 얼음컵은 그냥 컵 안에 얼음 이렇게 들어있는 거고"
+    } ]
+  }, {
+    "tStartMs": 2607260,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "뭐든지 시원하게 먹고 싶으면 같이 사서 먹는 건데"
+    } ]
+  }, {
+    "tStartMs": 2612920,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "'얼박' 이런 거 유행했었잖아요"
+    } ]
+  }, {
+    "tStartMs": 2616380,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "얼음이랑 '박카스'라고 피로회복제가 있어요"
+    } ]
+  }, {
+    "tStartMs": 2622010,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "그거 타서 먹으면 시원한 에너지 드링크잖아요 그것도 유행했었고"
+    } ]
+  }, {
+    "tStartMs": 2628230,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 2630050,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "그러네요 아무튼 정답은 맞추지 못했지만"
+    } ]
+  }, {
+    "tStartMs": 2635250,
+    "dDurationMs": 9310,
+    "segs": [ {
+      "utf8": "한국에서 많이 팔리는 편의점 음식 아는 데 도움이 되지 않았을까 생각합니다"
+    } ]
+  }, {
+    "tStartMs": 2644560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "네, 좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2646080,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "그러면 저희는 편의점 이야기는 여기까지 하도록 하고"
+    } ]
+  }, {
+    "tStartMs": 2649030,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "이제 또 다음 주제 생각해 봐야겠네요"
+    } ]
+  }, {
+    "tStartMs": 2651730,
+    "dDurationMs": 490,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2652220,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "다음 주제는 뭐가 좋을까요?"
+    } ]
+  }, {
+    "tStartMs": 2654250,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "다음 주제는 오늘 바나나 우유 얘기하면서 나왔던"
+    } ]
+  }, {
+    "tStartMs": 2658410,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "공항으로 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2661240,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "좋아요 한국 오시는 분들도 공항 많이 이용해보실 거고"
+    } ]
+  }, {
+    "tStartMs": 2665220,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "태웅쌤도 그렇고 저도 그렇고 여행 많이 다녔으니까"
+    } ]
+  }, {
+    "tStartMs": 2668990,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "공항에서 있었던 에피소드나"
+    } ]
+  }, {
+    "tStartMs": 2671360,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "공항 하면 연관되는 키워드들 있죠"
+    } ]
+  }, {
+    "tStartMs": 2675310,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "면세점이나 팁 같은 거"
+    } ]
+  }, {
+    "tStartMs": 2677740,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "그런 거 있을 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 2679600,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "공항에 대해서 또 요모조모 이야기해보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2683190,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "그러면 여기까지 디디와"
+    } ]
+  }, {
+    "tStartMs": 2685990,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "정태웅이었습니다 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 2687680,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "감사합니다"
+    } ]
+  } ]
+}

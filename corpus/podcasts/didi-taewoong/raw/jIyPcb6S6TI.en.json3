@@ -1,0 +1,6031 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Didi and Taewoong Jung's Korean Life Yomo Jomo"
+    } ]
+  }, {
+    "tStartMs": 9500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Hello, this is D.D."
+    } ]
+  }, {
+    "tStartMs": 11300,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Hello, this is Taewoong Jung"
+    } ]
+  }, {
+    "tStartMs": 12900,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "Korean Life Yomo Jomo is a podcast where two people who live in Korea"
+    } ]
+  }, {
+    "tStartMs": 16299,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "talk about Korean Life Yomo Jomo"
+    } ]
+  }, {
+    "tStartMs": 19400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "What was today's topic?"
+    } ]
+  }, {
+    "tStartMs": 21500,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Today's topic was"
+    } ]
+  }, {
+    "tStartMs": 23700,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Blind dates"
+    } ]
+  }, {
+    "tStartMs": 25400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 26900,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "Blind dates are when a man and a woman who don't know each other"
+    } ]
+  }, {
+    "tStartMs": 30799,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "meet one-on-one through the introduction of the person who introduced them"
+    } ]
+  }, {
+    "tStartMs": 34900,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "This is a combination of the Korean word 소개"
+    } ]
+  }, {
+    "tStartMs": 37700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "and the Korean word 미팅"
+    } ]
+  }, {
+    "tStartMs": 43200,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Right, in Korea, the word 미팅"
+    } ]
+  }, {
+    "tStartMs": 47400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "is used to mean a meeting, a meeting?"
+    } ]
+  }, {
+    "tStartMs": 49900,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "Isn't that how it's used?"
+    } ]
+  }, {
+    "tStartMs": 52799,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "It's often used to mean a meeting"
+    } ]
+  }, {
+    "tStartMs": 55400,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "And like I said earlier, a meeting between two people?"
+    } ]
+  }, {
+    "tStartMs": 61500,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 63299,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "I think that's how it's used"
+    } ]
+  }, {
+    "tStartMs": 64500,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think there was a word 미팅"
+    } ]
+  }, {
+    "tStartMs": 68500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "before the word 소개"
+    } ]
+  }, {
+    "tStartMs": 70500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 72000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I think that's why it was combined like this"
+    } ]
+  }, {
+    "tStartMs": 74500,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 77599,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Do you know the difference between 소개 and 미팅?"
+    } ]
+  }, {
+    "tStartMs": 80599,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Actually, I have no idea"
+    } ]
+  }, {
+    "tStartMs": 82599,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Really? You'll know when you hear it"
+    } ]
+  }, {
+    "tStartMs": 85300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "A blind date is a one-on-one"
+    } ]
+  }, {
+    "tStartMs": 88800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "A meeting is a meeting with many people"
+    } ]
+  }, {
+    "tStartMs": 92300,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 93500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "It's called a 3-on-3, 4-on-4 meeting"
+    } ]
+  }, {
+    "tStartMs": 96400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 99400,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "This is the third podcast"
+    } ]
+  }, {
+    "tStartMs": 104400,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "I think you'll have to talk more this time"
+    } ]
+  }, {
+    "tStartMs": 108199,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Is it a topic that I don't know much about?"
+    } ]
+  }, {
+    "tStartMs": 110599,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "Yes, but you'll be able to react well"
+    } ]
+  }, {
+    "tStartMs": 114599,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 118099,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I heard that blind dates are especially popular in Korea"
+    } ]
+  }, {
+    "tStartMs": 122099,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "I heard that blind dates are especially popular in Korea"
+    } ]
+  }, {
+    "tStartMs": 126599,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "How about you, TAE WOONG?"
+    } ]
+  }, {
+    "tStartMs": 128800,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Have you ever been introduced to someone?"
+    } ]
+  }, {
+    "tStartMs": 132600,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "Have you ever been introduced to someone?"
+    } ]
+  }, {
+    "tStartMs": 137199,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "I don't think I have it in my memory"
+    } ]
+  }, {
+    "tStartMs": 140100,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 141899,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 143699,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "TAE WOONG, you have a lot of friends"
+    } ]
+  }, {
+    "tStartMs": 147000,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "TAE WOONG, you have a lot of friends"
+    } ]
+  }, {
+    "tStartMs": 149199,
+    "dDurationMs": 5801,
+    "segs": [ {
+      "utf8": "Everyone knows me wrong because of my podcast"
+    } ]
+  }, {
+    "tStartMs": 155000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Don't you have a lot of friends?"
+    } ]
+  }, {
+    "tStartMs": 156199,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "I don't have a lot of friends"
+    } ]
+  }, {
+    "tStartMs": 160100,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "I don't have a lot of friends"
+    } ]
+  }, {
+    "tStartMs": 161899,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "And I'm a very careful person"
+    } ]
+  }, {
+    "tStartMs": 167199,
+    "dDurationMs": 6101,
+    "segs": [ {
+      "utf8": "I shouldn't have introduced you to this person"
+    } ]
+  }, {
+    "tStartMs": 173300,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I shouldn't have introduced you to this person"
+    } ]
+  }, {
+    "tStartMs": 176300,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "I shouldn't have introduced you to this person"
+    } ]
+  }, {
+    "tStartMs": 181600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Because I think it's my fault?"
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Yes, just do whatever you want"
+    } ]
+  }, {
+    "tStartMs": 186800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Yes, just do whatever you want"
+    } ]
+  }, {
+    "tStartMs": 189600,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 190699,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 191899,
+    "dDurationMs": 5901,
+    "segs": [ {
+      "utf8": "When I was a student, I used to say"
+    } ]
+  }, {
+    "tStartMs": 197800,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "When I was a student, I used to say"
+    } ]
+  }, {
+    "tStartMs": 200899,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Do you still say that?"
+    } ]
+  }, {
+    "tStartMs": 201899,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Do you still say that?"
+    } ]
+  }, {
+    "tStartMs": 203699,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I think so"
+    } ]
+  }, {
+    "tStartMs": 204699,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I think so"
+    } ]
+  }, {
+    "tStartMs": 206399,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I think I do it sometimes"
+    } ]
+  }, {
+    "tStartMs": 209899,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Oh, sometimes?"
+    } ]
+  }, {
+    "tStartMs": 211600,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I get a lot of calls"
+    } ]
+  }, {
+    "tStartMs": 213300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I get a lot of calls"
+    } ]
+  }, {
+    "tStartMs": 214600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Where do you live? How old are you?"
+    } ]
+  }, {
+    "tStartMs": 217500,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "I get a lot of calls like this"
+    } ]
+  }, {
+    "tStartMs": 219800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Is there anyone you want to be introduced to?"
+    } ]
+  }, {
+    "tStartMs": 221300,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I get a lot of calls like this"
+    } ]
+  }, {
+    "tStartMs": 222800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "I get a lot of calls like this"
+    } ]
+  }, {
+    "tStartMs": 228000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I don't have anyone"
+    } ]
+  }, {
+    "tStartMs": 230600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "But when I see my friends around me"
+    } ]
+  }, {
+    "tStartMs": 233800,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Sometimes I see that kind of thing"
+    } ]
+  }, {
+    "tStartMs": 237300,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "I think I saw it a while ago"
+    } ]
+  }, {
+    "tStartMs": 240699,
+    "dDurationMs": 6601,
+    "segs": [ {
+      "utf8": "Then have you seen a lot of people around you introduce you?"
+    } ]
+  }, {
+    "tStartMs": 247300,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "I haven't seen a lot these days"
+    } ]
+  }, {
+    "tStartMs": 251600,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "But until a few years ago"
+    } ]
+  }, {
+    "tStartMs": 254399,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "But until a few years ago"
+    } ]
+  }, {
+    "tStartMs": 256200,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "But I think there are a lot of people who introduce you"
+    } ]
+  }, {
+    "tStartMs": 258799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I don't know how to do that"
+    } ]
+  }, {
+    "tStartMs": 263500,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I haven't done it"
+    } ]
+  }, {
+    "tStartMs": 265200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, you haven't done it at all?"
+    } ]
+  }, {
+    "tStartMs": 267200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 269000,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Then when did you get a blind date?"
+    } ]
+  }, {
+    "tStartMs": 273100,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "When did you say, do you want to get it?"
+    } ]
+  }, {
+    "tStartMs": 274899,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "I've heard it a few times"
+    } ]
+  }, {
+    "tStartMs": 278100,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Then I shake my head"
+    } ]
+  }, {
+    "tStartMs": 282200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Then I shake my head"
+    } ]
+  }, {
+    "tStartMs": 284100,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 285899,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "What do you call it?"
+    } ]
+  }, {
+    "tStartMs": 287600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "What do you call it?"
+    } ]
+  }, {
+    "tStartMs": 290000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I shake my head"
+    } ]
+  }, {
+    "tStartMs": 291200,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "You shake your head and say no"
+    } ]
+  }, {
+    "tStartMs": 294500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You shake your head and say no"
+    } ]
+  }, {
+    "tStartMs": 297500,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "Oh, you don't want to get a blind date in the future"
+    } ]
+  }, {
+    "tStartMs": 300799,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "Oh, you don't want to get a blind date in the future"
+    } ]
+  }, {
+    "tStartMs": 303500,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "Are you a conceited person?"
+    } ]
+  }, {
+    "tStartMs": 304799,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Are you a conceited person?"
+    } ]
+  }, {
+    "tStartMs": 306000,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "A natural meeting"
+    } ]
+  }, {
+    "tStartMs": 308299,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 310200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Why do you think the blind date is not good?"
+    } ]
+  }, {
+    "tStartMs": 313600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I didn't say it wasn't good"
+    } ]
+  }, {
+    "tStartMs": 316000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "No, no, it's not right"
+    } ]
+  }, {
+    "tStartMs": 318200,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "It's not right"
+    } ]
+  }, {
+    "tStartMs": 320100,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "First of all"
+    } ]
+  }, {
+    "tStartMs": 324500,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "First of all, I don't feel comfortable"
+    } ]
+  }, {
+    "tStartMs": 328299,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Such an unnatural meeting?"
+    } ]
+  }, {
+    "tStartMs": 330700,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Yes, it may be because I feel too much pressure"
+    } ]
+  }, {
+    "tStartMs": 335100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "People may not get along, of course"
+    } ]
+  }, {
+    "tStartMs": 337700,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 338899,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "But if I go to that kind of place"
+    } ]
+  }, {
+    "tStartMs": 342899,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I don't think I should get along"
+    } ]
+  }, {
+    "tStartMs": 346399,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "I think I should meet the other person's expectations"
+    } ]
+  }, {
+    "tStartMs": 350299,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But that's all my anxiety"
+    } ]
+  }, {
+    "tStartMs": 354299,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Actually, I was introduced like that"
+    } ]
+  }, {
+    "tStartMs": 356700,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I'm just checking if it's right"
+    } ]
+  }, {
+    "tStartMs": 360500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 361700,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "But maybe it's because I'm nervous"
+    } ]
+  }, {
+    "tStartMs": 367200,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "I'm scared"
+    } ]
+  }, {
+    "tStartMs": 368899,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're scared"
+    } ]
+  }, {
+    "tStartMs": 370899,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "You're scared"
+    } ]
+  }, {
+    "tStartMs": 372399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 373399,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "Like being rejected?"
+    } ]
+  }, {
+    "tStartMs": 376500,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Rejected?"
+    } ]
+  }, {
+    "tStartMs": 379100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's okay to be rejected"
+    } ]
+  }, {
+    "tStartMs": 382100,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "But what's scary about this?"
+    } ]
+  }, {
+    "tStartMs": 386399,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "What kind of fear is it?"
+    } ]
+  }, {
+    "tStartMs": 389600,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "This is my fear that I haven't thought about"
+    } ]
+  }, {
+    "tStartMs": 394799,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 396000,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Think about it"
+    } ]
+  }, {
+    "tStartMs": 397700,
+    "dDurationMs": 7199,
+    "segs": [ {
+      "utf8": "I think a blind date is a very strange place"
+    } ]
+  }, {
+    "tStartMs": 404899,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 406299,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "Because"
+    } ]
+  }, {
+    "tStartMs": 409000,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "The purpose of the meeting is so clear"
+    } ]
+  }, {
+    "tStartMs": 412799,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Right, I feel that way too"
+    } ]
+  }, {
+    "tStartMs": 415899,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "It's a bit of a shy meeting"
+    } ]
+  }, {
+    "tStartMs": 419000,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "I don't know what to say"
+    } ]
+  }, {
+    "tStartMs": 420899,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "It's a meeting for a meeting"
+    } ]
+  }, {
+    "tStartMs": 423600,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 424899,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "I think that's why"
+    } ]
+  }, {
+    "tStartMs": 427600,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "I feel a bit of a strange pressure"
+    } ]
+  }, {
+    "tStartMs": 431799,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Ah"
+    } ]
+  }, {
+    "tStartMs": 433100,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 433799,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "So it's more natural"
+    } ]
+  }, {
+    "tStartMs": 437899,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 439000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "But I"
+    } ]
+  }, {
+    "tStartMs": 440799,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "Like I'm wearing a gown"
+    } ]
+  }, {
+    "tStartMs": 444000,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "Like I don't know I'm wearing a gown"
+    } ]
+  }, {
+    "tStartMs": 447799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "It's good to know"
+    } ]
+  }, {
+    "tStartMs": 450000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 452500,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "It's romantic"
+    } ]
+  }, {
+    "tStartMs": 454399,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Is it romantic?"
+    } ]
+  }, {
+    "tStartMs": 455700,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 456200,
+    "dDurationMs": 5699,
+    "segs": [ {
+      "utf8": "Of course there are other cases"
+    } ]
+  }, {
+    "tStartMs": 461899,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 463500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "But the good thing about a blind date is"
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You don't meet a lot of people"
+    } ]
+  }, {
+    "tStartMs": 470000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "You only meet the same people"
+    } ]
+  }, {
+    "tStartMs": 472100,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "I think it's good for people like that"
+    } ]
+  }, {
+    "tStartMs": 476399,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "There are people who say it's good because of saving time"
+    } ]
+  }, {
+    "tStartMs": 482299,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right, Korea is a very efficient country"
+    } ]
+  }, {
+    "tStartMs": 485299,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "That's why people go on blind dates a lot"
+    } ]
+  }, {
+    "tStartMs": 487899,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 488700,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When you're looking for someone to marry"
+    } ]
+  }, {
+    "tStartMs": 492700,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "Or when you're looking for a lover"
+    } ]
+  }, {
+    "tStartMs": 496299,
+    "dDurationMs": 4901,
+    "segs": [ {
+      "utf8": "There are people who say they had a few blind dates but they were all bad"
+    } ]
+  }, {
+    "tStartMs": 501200,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 501899,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "When I see that"
+    } ]
+  }, {
+    "tStartMs": 503700,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "It's a bit of a factory-style relationship"
+    } ]
+  }, {
+    "tStartMs": 509500,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 511399,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Especially when you're on a blind date"
+    } ]
+  }, {
+    "tStartMs": 513599,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Is this right?"
+    } ]
+  }, {
+    "tStartMs": 514900,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Is this the society where people live?"
+    } ]
+  }, {
+    "tStartMs": 517200,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "That's what I thought"
+    } ]
+  }, {
+    "tStartMs": 521599,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It's like you're selling something"
+    } ]
+  }, {
+    "tStartMs": 525299,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "It feels like you're introducing people"
+    } ]
+  }, {
+    "tStartMs": 528400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "You put up candidates 1, 2, 3"
+    } ]
+  }, {
+    "tStartMs": 530900,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "You put up the specifications 1, 2, 3"
+    } ]
+  }, {
+    "tStartMs": 535000,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "I know you call it a bribe"
+    } ]
+  }, {
+    "tStartMs": 537299,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "A bribe?"
+    } ]
+  }, {
+    "tStartMs": 538500,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "You've never heard of it?"
+    } ]
+  }, {
+    "tStartMs": 539599,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 540799,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Really? I've seen people around me"
+    } ]
+  }, {
+    "tStartMs": 543400,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "Saying it's like 3 bribes"
+    } ]
+  }, {
+    "tStartMs": 550200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "A bribe is literally a thing you sell"
+    } ]
+  }, {
+    "tStartMs": 552400,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 553000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So when there's a real estate bribe"
+    } ]
+  }, {
+    "tStartMs": 556400,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You call it a bribe"
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "So that's how you do it"
+    } ]
+  }, {
+    "tStartMs": 560599,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Yes, this bribe blah blah blah"
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 564500,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "But then"
+    } ]
+  }, {
+    "tStartMs": 567099,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Like I said before"
+    } ]
+  }, {
+    "tStartMs": 568599,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "You have to compare"
+    } ]
+  }, {
+    "tStartMs": 571799,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "You have to grade"
+    } ]
+  }, {
+    "tStartMs": 574200,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "For me"
+    } ]
+  }, {
+    "tStartMs": 578299,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It was tiring even before I started"
+    } ]
+  }, {
+    "tStartMs": 580299,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "That's understandable"
+    } ]
+  }, {
+    "tStartMs": 581599,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "Of course"
+    } ]
+  }, {
+    "tStartMs": 584700,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Not everyone approaches it like this"
+    } ]
+  }, {
+    "tStartMs": 587700,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 589799,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Some people just say"
+    } ]
+  }, {
+    "tStartMs": 591099,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There's someone around me"
+    } ]
+  }, {
+    "tStartMs": 592099,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Do you want to get introduced?"
+    } ]
+  }, {
+    "tStartMs": 592799,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "That's how some people start"
+    } ]
+  }, {
+    "tStartMs": 594500,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 595599,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes, but"
+    } ]
+  }, {
+    "tStartMs": 596799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "What I saw was"
+    } ]
+  }, {
+    "tStartMs": 598299,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "People who do it more than 10 times a year"
+    } ]
+  }, {
+    "tStartMs": 602000,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "People who go on blind dates a lot"
+    } ]
+  }, {
+    "tStartMs": 603599,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "They do it like that"
+    } ]
+  }, {
+    "tStartMs": 605200,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Effectively"
+    } ]
+  }, {
+    "tStartMs": 606599,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 609000,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "So when you go on a blind date"
+    } ]
+  }, {
+    "tStartMs": 612799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "I think there are 3 steps"
+    } ]
+  }, {
+    "tStartMs": 615000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 617000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "The first step is"
+    } ]
+  }, {
+    "tStartMs": 618400,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "There's a step where you exchange photos and information"
+    } ]
+  }, {
+    "tStartMs": 622799,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 623099,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 624000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "You can be filtered from there"
+    } ]
+  }, {
+    "tStartMs": 626299,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Oh, yes"
+    } ]
+  }, {
+    "tStartMs": 628500,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "It's okay, I'll go on a date"
+    } ]
+  }, {
+    "tStartMs": 630599,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "If you say information"
+    } ]
+  }, {
+    "tStartMs": 632500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What kind of information is included?"
+    } ]
+  }, {
+    "tStartMs": 635500,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "First of all, the area you live in"
+    } ]
+  }, {
+    "tStartMs": 637200,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Age"
+    } ]
+  }, {
+    "tStartMs": 638700,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Job"
+    } ]
+  }, {
+    "tStartMs": 639799,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "And ideal type"
+    } ]
+  }, {
+    "tStartMs": 640900,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I think that's how they talk a lot"
+    } ]
+  }, {
+    "tStartMs": 643500,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Oh, ideal type"
+    } ]
+  }, {
+    "tStartMs": 644599,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "The person you're looking for"
+    } ]
+  }, {
+    "tStartMs": 645900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hmm, yes"
+    } ]
+  }, {
+    "tStartMs": 647900,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "You look at the photos and information"
+    } ]
+  }, {
+    "tStartMs": 650799,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "You choose whether you like it or not"
+    } ]
+  }, {
+    "tStartMs": 653400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "You'll go on a date"
+    } ]
+  }, {
+    "tStartMs": 654900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "If you like it"
+    } ]
+  }, {
+    "tStartMs": 655900,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "So the second step is"
+    } ]
+  }, {
+    "tStartMs": 658200,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Meeting in person"
+    } ]
+  }, {
+    "tStartMs": 659500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "You meet and eat"
+    } ]
+  }, {
+    "tStartMs": 661900,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "You go to a cafe and talk"
+    } ]
+  }, {
+    "tStartMs": 663599,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "If you like it, you keep meeting"
+    } ]
+  }, {
+    "tStartMs": 665400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think you decide not to"
+    } ]
+  }, {
+    "tStartMs": 667400,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 668299,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "And the third is"
+    } ]
+  }, {
+    "tStartMs": 670200,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "It's called after"
+    } ]
+  }, {
+    "tStartMs": 671700,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 672599,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Step"
+    } ]
+  }, {
+    "tStartMs": 673299,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 674099,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Keep"
+    } ]
+  }, {
+    "tStartMs": 674900,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Decide whether to meet a few more times"
+    } ]
+  }, {
+    "tStartMs": 677099,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 678400,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "I think that's the third step of a blind date"
+    } ]
+  }, {
+    "tStartMs": 682299,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Wow"
+    } ]
+  }, {
+    "tStartMs": 684000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "It's hard to meet on a blind date"
+    } ]
+  }, {
+    "tStartMs": 685799,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "I know"
+    } ]
+  }, {
+    "tStartMs": 686299,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "As much as Jamanchu"
+    } ]
+  }, {
+    "tStartMs": 687700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 688500,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Really"
+    } ]
+  }, {
+    "tStartMs": 690700,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Oh, I'm just thinking about it now"
+    } ]
+  }, {
+    "tStartMs": 695000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I'm a little tired"
+    } ]
+  }, {
+    "tStartMs": 697200,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 698099,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 699700,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "There are a lot of people who meet on the app these days, right?"
+    } ]
+  }, {
+    "tStartMs": 702299,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, on the Internet"
+    } ]
+  }, {
+    "tStartMs": 703799,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Yes, people who meet on the Internet or on the app"
+    } ]
+  }, {
+    "tStartMs": 706200,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes, yes"
+    } ]
+  }, {
+    "tStartMs": 707700,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "I think there are more such meetings in other countries"
+    } ]
+  }, {
+    "tStartMs": 711299,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Than a blind date"
+    } ]
+  }, {
+    "tStartMs": 712500,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 714299,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "Wouldn't it be more popular as time goes by?"
+    } ]
+  }, {
+    "tStartMs": 718400,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 719799,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "Then it's a blind date without a host"
+    } ]
+  }, {
+    "tStartMs": 723200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Yes, that's right"
+    } ]
+  }, {
+    "tStartMs": 724900,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Yes, that's right"
+    } ]
+  }, {
+    "tStartMs": 726299,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Oh, so Koreans"
+    } ]
+  }, {
+    "tStartMs": 728500,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "There is a host"
+    } ]
+  }, {
+    "tStartMs": 730400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Once"
+    } ]
+  }, {
+    "tStartMs": 731900,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "Checked person"
+    } ]
+  }, {
+    "tStartMs": 733799,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "I don't know anyone at all"
+    } ]
+  }, {
+    "tStartMs": 737000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 738000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "It feels like this"
+    } ]
+  }, {
+    "tStartMs": 739500,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "I think I prefer it a little more"
+    } ]
+  }, {
+    "tStartMs": 741299,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 742400,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 743400,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "Of course, the host"
+    } ]
+  }, {
+    "tStartMs": 746099,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "You have to be a reliable person"
+    } ]
+  }, {
+    "tStartMs": 747400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 748400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "The host is important"
+    } ]
+  }, {
+    "tStartMs": 750000,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 751299,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think there will be a good person among my friends"
+    } ]
+  }, {
+    "tStartMs": 754299,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "I think there are people who think like this"
+    } ]
+  }, {
+    "tStartMs": 757700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 759200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Then"
+    } ]
+  }, {
+    "tStartMs": 760000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 760500,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "You don't want to go on a blind date"
+    } ]
+  }, {
+    "tStartMs": 762599,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Mr. Taeyong"
+    } ]
+  }, {
+    "tStartMs": 763200,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 765799,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "If you go on a blind date"
+    } ]
+  }, {
+    "tStartMs": 767700,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 768299,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "A little good course"
+    } ]
+  }, {
+    "tStartMs": 770500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "What is a good menu?"
+    } ]
+  }, {
+    "tStartMs": 773400,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Can I talk about it?"
+    } ]
+  }, {
+    "tStartMs": 774799,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "I was talking about hamburgers last time"
+    } ]
+  }, {
+    "tStartMs": 777200,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Ah"
+    } ]
+  }, {
+    "tStartMs": 778500,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "This story came out for a while"
+    } ]
+  }, {
+    "tStartMs": 779799,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Hamburger"
+    } ]
+  }, {
+    "tStartMs": 780900,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "I think I can eat it on the first day of the blind date"
+    } ]
+  }, {
+    "tStartMs": 782799,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Something like this"
+    } ]
+  }, {
+    "tStartMs": 783599,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Do you eat it with your hands or fork?"
+    } ]
+  }, {
+    "tStartMs": 785400,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 786299,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "I talked about it"
+    } ]
+  }, {
+    "tStartMs": 787500,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 789299,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "Wow, this is difficult from the beginning"
+    } ]
+  }, {
+    "tStartMs": 791400,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Is it difficult?"
+    } ]
+  }, {
+    "tStartMs": 792000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "If you think you're going on a blind date"
+    } ]
+  }, {
+    "tStartMs": 793799,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Menu"
+    } ]
+  }, {
+    "tStartMs": 794500,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Menu sushi"
+    } ]
+  }, {
+    "tStartMs": 796099,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sushi"
+    } ]
+  }, {
+    "tStartMs": 797099,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 797599,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Isn't it neat?"
+    } ]
+  }, {
+    "tStartMs": 799000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Because it's neat"
+    } ]
+  }, {
+    "tStartMs": 800200,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "First"
+    } ]
+  }, {
+    "tStartMs": 801299,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 801799,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 804200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What"
+    } ]
+  }, {
+    "tStartMs": 807200,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "There is no need for the soup to splash"
+    } ]
+  }, {
+    "tStartMs": 811599,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "And"
+    } ]
+  }, {
+    "tStartMs": 814000,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I don't smell my breath after eating"
+    } ]
+  }, {
+    "tStartMs": 816900,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 818000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And"
+    } ]
+  }, {
+    "tStartMs": 821000,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "The atmosphere of the restaurant"
+    } ]
+  }, {
+    "tStartMs": 823599,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "I think it's basic"
+    } ]
+  }, {
+    "tStartMs": 826400,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Uh uh uh uh"
+    } ]
+  }, {
+    "tStartMs": 827099,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 827900,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 829400,
+    "dDurationMs": 399,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 829799,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Sushi restaurants are often not too loud"
+    } ]
+  }, {
+    "tStartMs": 832400,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 833700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 834700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 836200,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Now"
+    } ]
+  }, {
+    "tStartMs": 836700,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Sushi"
+    } ]
+  }, {
+    "tStartMs": 837200,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Yes, that's what I think"
+    } ]
+  }, {
+    "tStartMs": 839599,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Sushi"
+    } ]
+  }, {
+    "tStartMs": 840200,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 840799,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "I think it's okay"
+    } ]
+  }, {
+    "tStartMs": 843500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Or the place I go the most"
+    } ]
+  }, {
+    "tStartMs": 846000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think I'm going to a pasta house"
+    } ]
+  }, {
+    "tStartMs": 848000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Oh that"
+    } ]
+  }, {
+    "tStartMs": 848500,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Italian"
+    } ]
+  }, {
+    "tStartMs": 849000,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 850599,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Isn't that right?"
+    } ]
+  }, {
+    "tStartMs": 851700,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Pasta is also neat"
+    } ]
+  }, {
+    "tStartMs": 853900,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 854900,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I only saw that kind of article on the Internet"
+    } ]
+  }, {
+    "tStartMs": 857599,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 859400,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "Isn't the pasta house the most normal?"
+    } ]
+  }, {
+    "tStartMs": 862299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 863299,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "First of all, the menu will be diverse"
+    } ]
+  }, {
+    "tStartMs": 865099,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 866400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There may be people who can't eat sashimi"
+    } ]
+  }, {
+    "tStartMs": 868400,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "If you say sushi"
+    } ]
+  }, {
+    "tStartMs": 870000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 871200,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "But pasta is diverse"
+    } ]
+  }, {
+    "tStartMs": 875099,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Italian"
+    } ]
+  }, {
+    "tStartMs": 876900,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 878299,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Pasta"
+    } ]
+  }, {
+    "tStartMs": 880599,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "But pasta is also a noodle dish"
+    } ]
+  }, {
+    "tStartMs": 882900,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 883500,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "You can do it"
+    } ]
+  }, {
+    "tStartMs": 885799,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 886900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Isn't pasta a dish that you can eat quickly?"
+    } ]
+  }, {
+    "tStartMs": 890200,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "No, it's not"
+    } ]
+  }, {
+    "tStartMs": 891700,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 892500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It may be like that"
+    } ]
+  }, {
+    "tStartMs": 894900,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It may be less neat than sushi in one bite"
+    } ]
+  }, {
+    "tStartMs": 898900,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 901500,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "Oh, but what I saw on the Internet before"
+    } ]
+  }, {
+    "tStartMs": 906200,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "I don't remember exactly"
+    } ]
+  }, {
+    "tStartMs": 908599,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Some woman"
+    } ]
+  }, {
+    "tStartMs": 910400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 911900,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "What was it?"
+    } ]
+  }, {
+    "tStartMs": 912500,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Is it three days in a row?"
+    } ]
+  }, {
+    "tStartMs": 914299,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "I had a blind date for four days in a row"
+    } ]
+  }, {
+    "tStartMs": 918500,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "The menu is all pasta"
+    } ]
+  }, {
+    "tStartMs": 921099,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "I'm so sick of it"
+    } ]
+  }, {
+    "tStartMs": 924700,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "I want to eat something else for the next blind date"
+    } ]
+  }, {
+    "tStartMs": 929000,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I think I've seen that kind of article"
+    } ]
+  }, {
+    "tStartMs": 931700,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 935000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "What did you want to eat?"
+    } ]
+  }, {
+    "tStartMs": 937500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I guess all the men decided"
+    } ]
+  }, {
+    "tStartMs": 939500,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "The person who wrote the article"
+    } ]
+  }, {
+    "tStartMs": 941099,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "I guess so"
+    } ]
+  }, {
+    "tStartMs": 942599,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 944299,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It would be nice to suggest that you want to eat something"
+    } ]
+  }, {
+    "tStartMs": 947299,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "That would be the most comfortable"
+    } ]
+  }, {
+    "tStartMs": 950200,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 952599,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "But if you look at how everyone treated pasta"
+    } ]
+  }, {
+    "tStartMs": 956500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I guess everyone thinks the same"
+    } ]
+  }, {
+    "tStartMs": 959000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "I think it's okay"
+    } ]
+  }, {
+    "tStartMs": 960799,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Oh, I see"
+    } ]
+  }, {
+    "tStartMs": 964099,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Or rice?"
+    } ]
+  }, {
+    "tStartMs": 966700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Rice"
+    } ]
+  }, {
+    "tStartMs": 967700,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "I've thought about it"
+    } ]
+  }, {
+    "tStartMs": 969599,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Rice"
+    } ]
+  }, {
+    "tStartMs": 970900,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "Don't you have to open your mouth wide for rice?"
+    } ]
+  }, {
+    "tStartMs": 977500,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Would you only do hamburgers?"
+    } ]
+  }, {
+    "tStartMs": 979200,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "Oh, well, it's not just hamburgers"
+    } ]
+  }, {
+    "tStartMs": 981299,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "It's not just hamburgers"
+    } ]
+  }, {
+    "tStartMs": 983799,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Do I have to open my mouth wide?"
+    } ]
+  }, {
+    "tStartMs": 985400,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Isn't it?"
+    } ]
+  }, {
+    "tStartMs": 986299,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "You can control that, right?"
+    } ]
+  }, {
+    "tStartMs": 988900,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Oh, rice?"
+    } ]
+  }, {
+    "tStartMs": 990099,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 990900,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 992099,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 993400,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "But what kind of rice do you have?"
+    } ]
+  }, {
+    "tStartMs": 997000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Steak rice"
+    } ]
+  }, {
+    "tStartMs": 999400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Salmon rice"
+    } ]
+  }, {
+    "tStartMs": 1000900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "That's a bit big"
+    } ]
+  }, {
+    "tStartMs": 1004200,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "If you put a piece of steak on top of rice"
+    } ]
+  }, {
+    "tStartMs": 1007299,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "You have to open your mouth wide"
+    } ]
+  }, {
+    "tStartMs": 1008900,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 1009700,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I can't, I can't"
+    } ]
+  }, {
+    "tStartMs": 1011000,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1011900,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "No, Italians"
+    } ]
+  }, {
+    "tStartMs": 1013700,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "There are places with high prices"
+    } ]
+  }, {
+    "tStartMs": 1016099,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1016799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "You might suddenly want to eat steak"
+    } ]
+  }, {
+    "tStartMs": 1019000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Oh, yes"
+    } ]
+  }, {
+    "tStartMs": 1020200,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "But at the first meeting"
+    } ]
+  }, {
+    "tStartMs": 1022500,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "I think it will be difficult to find the right price"
+    } ]
+  }, {
+    "tStartMs": 1026599,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The menu is also a menu"
+    } ]
+  }, {
+    "tStartMs": 1029599,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "It could end at the first meeting"
+    } ]
+  }, {
+    "tStartMs": 1034199,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1035099,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "You might not want to pay a high price"
+    } ]
+  }, {
+    "tStartMs": 1038800,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Yes, yes"
+    } ]
+  }, {
+    "tStartMs": 1040599,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "You don't know what kind of person he is"
+    } ]
+  }, {
+    "tStartMs": 1042000,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1044099,
+    "dDurationMs": 6801,
+    "segs": [ {
+      "utf8": "And in blind dates, there are few cases of Dutch pay"
+    } ]
+  }, {
+    "tStartMs": 1050900,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Is there?"
+    } ]
+  }, {
+    "tStartMs": 1051599,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "I don't know"
+    } ]
+  }, {
+    "tStartMs": 1053400,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Because there are few cases where you just eat and break up"
+    } ]
+  }, {
+    "tStartMs": 1058400,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "If you just eat and break up, you don't like it"
+    } ]
+  }, {
+    "tStartMs": 1061599,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "I think you can do Dutch pay at that time"
+    } ]
+  }, {
+    "tStartMs": 1065000,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Usually, when you eat and go to a cafe or go for a drink"
+    } ]
+  }, {
+    "tStartMs": 1069400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Who pays for the first round and who pays for the second round?"
+    } ]
+  }, {
+    "tStartMs": 1073000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think it's like this"
+    } ]
+  }, {
+    "tStartMs": 1076000,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "So if the first round is too expensive"
+    } ]
+  }, {
+    "tStartMs": 1079199,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "There are a lot of things to care about"
+    } ]
+  }, {
+    "tStartMs": 1080699,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "There are many, there are many"
+    } ]
+  }, {
+    "tStartMs": 1084000,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Even if the first meeting ends"
+    } ]
+  }, {
+    "tStartMs": 1087400,
+    "dDurationMs": 6799,
+    "segs": [ {
+      "utf8": "You can just have fun at that place"
+    } ]
+  }, {
+    "tStartMs": 1094199,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1094800,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Then Dutch pay or just a meal"
+    } ]
+  }, {
+    "tStartMs": 1100300,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Wouldn't that be possible?"
+    } ]
+  }, {
+    "tStartMs": 1101800,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "Oh, depending on the fun?"
+    } ]
+  }, {
+    "tStartMs": 1104099,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Well, yes"
+    } ]
+  }, {
+    "tStartMs": 1105500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Don't I think I'm too immature right now?"
+    } ]
+  }, {
+    "tStartMs": 1108500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Why? No"
+    } ]
+  }, {
+    "tStartMs": 1111400,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "A little"
+    } ]
+  }, {
+    "tStartMs": 1112099,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "Then will you go on a blind date"
+    } ]
+  }, {
+    "tStartMs": 1115400,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Whether you like it or not"
+    } ]
+  }, {
+    "tStartMs": 1117500,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "Are you going to treat me to a meal?"
+    } ]
+  }, {
+    "tStartMs": 1121099,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "There's nothing I can't do"
+    } ]
+  }, {
+    "tStartMs": 1122800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 1124900,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "I ordered steak and pasta"
+    } ]
+  }, {
+    "tStartMs": 1129199,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Oh, then"
+    } ]
+  }, {
+    "tStartMs": 1130400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "65,800 won came out"
+    } ]
+  }, {
+    "tStartMs": 1132300,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "Then that could be the reason why it ended with the first meeting"
+    } ]
+  }, {
+    "tStartMs": 1137800,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "You're trying to be extravagant"
+    } ]
+  }, {
+    "tStartMs": 1143800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So that means"
+    } ]
+  }, {
+    "tStartMs": 1147000,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "It's a little more than my consumption ability"
+    } ]
+  }, {
+    "tStartMs": 1151300,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "When it's such a place"
+    } ]
+  }, {
+    "tStartMs": 1153900,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "It's whether I pay or not"
+    } ]
+  }, {
+    "tStartMs": 1157699,
+    "dDurationMs": 5301,
+    "segs": [ {
+      "utf8": "Oh, this is difficult"
+    } ]
+  }, {
+    "tStartMs": 1163000,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "I'm seriously thinking"
+    } ]
+  }, {
+    "tStartMs": 1164900,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "I'll pretend to be a little cool"
+    } ]
+  }, {
+    "tStartMs": 1168699,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I don't eat out for a week"
+    } ]
+  }, {
+    "tStartMs": 1172099,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Really"
+    } ]
+  }, {
+    "tStartMs": 1175599,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Still cool"
+    } ]
+  }, {
+    "tStartMs": 1177599,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 1179599,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "You're a man"
+    } ]
+  }, {
+    "tStartMs": 1180699,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1182199,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I used to"
+    } ]
+  }, {
+    "tStartMs": 1185099,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "I like Monaca-shaped ice cream"
+    } ]
+  }, {
+    "tStartMs": 1190300,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "I went to the convenience store"
+    } ]
+  }, {
+    "tStartMs": 1192699,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "There was a Choco Monaca"
+    } ]
+  }, {
+    "tStartMs": 1196900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It looked so delicious"
+    } ]
+  }, {
+    "tStartMs": 1198900,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "There was no price tag"
+    } ]
+  }, {
+    "tStartMs": 1201699,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "But it just looked delicious"
+    } ]
+  }, {
+    "tStartMs": 1203500,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "I picked it up curiously"
+    } ]
+  }, {
+    "tStartMs": 1206699,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "I went to the counter and paid"
+    } ]
+  }, {
+    "tStartMs": 1210000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "The ice cream was as big as my palm"
+    } ]
+  }, {
+    "tStartMs": 1211500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Is it 4,000 won?"
+    } ]
+  }, {
+    "tStartMs": 1214400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I pretended to be cool"
+    } ]
+  }, {
+    "tStartMs": 1217400,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "I came home and shared it three times"
+    } ]
+  }, {
+    "tStartMs": 1222599,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "Is it true?"
+    } ]
+  }, {
+    "tStartMs": 1226800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1228000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "It's as big as my palm"
+    } ]
+  }, {
+    "tStartMs": 1229800,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "It was a little bigger than my palm"
+    } ]
+  }, {
+    "tStartMs": 1235000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Was it delicious?"
+    } ]
+  }, {
+    "tStartMs": 1236199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was delicious"
+    } ]
+  }, {
+    "tStartMs": 1237199,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "The chocolate was thick"
+    } ]
+  }, {
+    "tStartMs": 1238800,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "Are you not going to buy it again?"
+    } ]
+  }, {
+    "tStartMs": 1240699,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Sometimes when I want to feel"
+    } ]
+  }, {
+    "tStartMs": 1243199,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Are you ready to share it three times?"
+    } ]
+  }, {
+    "tStartMs": 1247199,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "I'm scared"
+    } ]
+  }, {
+    "tStartMs": 1249000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I suddenly remembered that story"
+    } ]
+  }, {
+    "tStartMs": 1254000,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "That's how it is"
+    } ]
+  }, {
+    "tStartMs": 1256900,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Is there a standard for the appropriate price?"
+    } ]
+  }, {
+    "tStartMs": 1261500,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "I think so"
+    } ]
+  }, {
+    "tStartMs": 1265199,
+    "dDurationMs": 5801,
+    "segs": [ {
+      "utf8": "I have to take responsibility and manage my wallet"
+    } ]
+  }, {
+    "tStartMs": 1271000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Good"
+    } ]
+  }, {
+    "tStartMs": 1273500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "You have to save"
+    } ]
+  }, {
+    "tStartMs": 1275000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "You can't use it recklessly"
+    } ]
+  }, {
+    "tStartMs": 1280000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "So I looked it up"
+    } ]
+  }, {
+    "tStartMs": 1282500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Avoid meat restaurants"
+    } ]
+  }, {
+    "tStartMs": 1285000,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "It's avoidable"
+    } ]
+  }, {
+    "tStartMs": 1286599,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's too noisy and hectic"
+    } ]
+  }, {
+    "tStartMs": 1289599,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Avoid meat restaurants"
+    } ]
+  }, {
+    "tStartMs": 1291000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a good place to talk"
+    } ]
+  }, {
+    "tStartMs": 1293000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1294199,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Talk"
+    } ]
+  }, {
+    "tStartMs": 1295400,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "The blind date course is"
+    } ]
+  }, {
+    "tStartMs": 1297300,
+    "dDurationMs": 6299,
+    "segs": [ {
+      "utf8": "Choose a course where you can talk a lot"
+    } ]
+  }, {
+    "tStartMs": 1303599,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "If the weather is good"
+    } ]
+  }, {
+    "tStartMs": 1306400,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "You can eat and walk in the park"
+    } ]
+  }, {
+    "tStartMs": 1308599,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Good"
+    } ]
+  }, {
+    "tStartMs": 1310199,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I think it's hard to succeed in a blind date"
+    } ]
+  }, {
+    "tStartMs": 1317199,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There are people around me who go out a lot"
+    } ]
+  }, {
+    "tStartMs": 1321199,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "There are people who can't succeed"
+    } ]
+  }, {
+    "tStartMs": 1324599,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1326699,
+    "dDurationMs": 4301,
+    "segs": [ {
+      "utf8": "Why is it difficult to have a blind date?"
+    } ]
+  }, {
+    "tStartMs": 1331000,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "You have to show everything in the first meeting"
+    } ]
+  }, {
+    "tStartMs": 1334599,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "My charm"
+    } ]
+  }, {
+    "tStartMs": 1337400,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I think it's too difficult"
+    } ]
+  }, {
+    "tStartMs": 1340800,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "If you know, there are people who are a little serious"
+    } ]
+  }, {
+    "tStartMs": 1346300,
+    "dDurationMs": 7700,
+    "segs": [ {
+      "utf8": "People who are shy will sit with a different ego"
+    } ]
+  }, {
+    "tStartMs": 1354000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1357000,
+    "dDurationMs": 5599,
+    "segs": [ {
+      "utf8": "I think I decide on a blind date when I meet three times"
+    } ]
+  }, {
+    "tStartMs": 1362599,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Three times?"
+    } ]
+  }, {
+    "tStartMs": 1363599,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1366000,
+    "dDurationMs": 6199,
+    "segs": [ {
+      "utf8": "I think it's difficult because I have to make a decision in there"
+    } ]
+  }, {
+    "tStartMs": 1372199,
+    "dDurationMs": 6601,
+    "segs": [ {
+      "utf8": "It's like an exam or interview"
+    } ]
+  }, {
+    "tStartMs": 1378800,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Yes, third interview"
+    } ]
+  }, {
+    "tStartMs": 1381199,
+    "dDurationMs": 5801,
+    "segs": [ {
+      "utf8": "But keep going on a blind date"
+    } ]
+  }, {
+    "tStartMs": 1387000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "I don't have anyone to date"
+    } ]
+  }, {
+    "tStartMs": 1391800,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "I think it could be"
+    } ]
+  }, {
+    "tStartMs": 1395199,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1397000,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "I might just meet people who don't fit"
+    } ]
+  }, {
+    "tStartMs": 1402300,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Because it's hard to meet the right person?"
+    } ]
+  }, {
+    "tStartMs": 1404699,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1408699,
+    "dDurationMs": 6801,
+    "segs": [ {
+      "utf8": "It's like a real exam"
+    } ]
+  }, {
+    "tStartMs": 1415500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "If you score over 80 points, you pass"
+    } ]
+  }, {
+    "tStartMs": 1418400,
+    "dDurationMs": 7199,
+    "segs": [ {
+      "utf8": "If all blind dates proceed in this way"
+    } ]
+  }, {
+    "tStartMs": 1425599,
+    "dDurationMs": 8100,
+    "segs": [ {
+      "utf8": "If you keep failing to become a lover on a blind date"
+    } ]
+  }, {
+    "tStartMs": 1433699,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "It could be a little humiliating"
+    } ]
+  }, {
+    "tStartMs": 1436599,
+    "dDurationMs": 4701,
+    "segs": [ {
+      "utf8": "Just because you can't meet the right person"
+    } ]
+  }, {
+    "tStartMs": 1441300,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "If you keep failing on a blind date"
+    } ]
+  }, {
+    "tStartMs": 1444500,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "It's just that the timing is not right yet"
+    } ]
+  }, {
+    "tStartMs": 1449900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Wouldn't you think so?"
+    } ]
+  }, {
+    "tStartMs": 1451699,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "That's right. It's hard to meet the right person"
+    } ]
+  }, {
+    "tStartMs": 1455599,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "It's too difficult"
+    } ]
+  }, {
+    "tStartMs": 1457699,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Then what do you think is the right person?"
+    } ]
+  }, {
+    "tStartMs": 1462199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right person?"
+    } ]
+  }, {
+    "tStartMs": 1464300,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "Who do you think is the right person?"
+    } ]
+  }, {
+    "tStartMs": 1469199,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "First of all"
+    } ]
+  }, {
+    "tStartMs": 1474000,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "I think there is a part that goes well with the purpose of the blind date"
+    } ]
+  }, {
+    "tStartMs": 1478199,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "I think it should be fun to talk"
+    } ]
+  }, {
+    "tStartMs": 1481800,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "In fact, the most common thing is to talk"
+    } ]
+  }, {
+    "tStartMs": 1484400,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "People have a relationship"
+    } ]
+  }, {
+    "tStartMs": 1487599,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So the way to talk"
+    } ]
+  }, {
+    "tStartMs": 1491199,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And when you talk"
+    } ]
+  }, {
+    "tStartMs": 1495199,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Mindset that becomes the basis"
+    } ]
+  }, {
+    "tStartMs": 1500199,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Wouldn't that be right?"
+    } ]
+  }, {
+    "tStartMs": 1502599,
+    "dDurationMs": 4301,
+    "segs": [ {
+      "utf8": "And you have to be pretty"
+    } ]
+  }, {
+    "tStartMs": 1506900,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "You need to have a rational charm"
+    } ]
+  }, {
+    "tStartMs": 1511199,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "What do you think is a pretty person?"
+    } ]
+  }, {
+    "tStartMs": 1514900,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Isn't there anything like that?"
+    } ]
+  }, {
+    "tStartMs": 1515599,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Just a pretty person?"
+    } ]
+  }, {
+    "tStartMs": 1516900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 1518699,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "No celebrity?"
+    } ]
+  }, {
+    "tStartMs": 1519800,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 1521099,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1522300,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1523699,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "No, it's pretty"
+    } ]
+  }, {
+    "tStartMs": 1525900,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "That's too subjective"
+    } ]
+  }, {
+    "tStartMs": 1531099,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "If I have to tell you"
+    } ]
+  }, {
+    "tStartMs": 1534400,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "I like to have that person's own face"
+    } ]
+  }, {
+    "tStartMs": 1539800,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Is this a very difficult question?"
+    } ]
+  }, {
+    "tStartMs": 1542500,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "It's an amazing answer"
+    } ]
+  }, {
+    "tStartMs": 1544199,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1545400,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1546199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sometimes"
+    } ]
+  }, {
+    "tStartMs": 1547199,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "You know that"
+    } ]
+  }, {
+    "tStartMs": 1548699,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1551699,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Instagram beauty"
+    } ]
+  }, {
+    "tStartMs": 1555599,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Instagram hot girl"
+    } ]
+  }, {
+    "tStartMs": 1558699,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "They're all a little similar"
+    } ]
+  }, {
+    "tStartMs": 1562199,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Similar faces"
+    } ]
+  }, {
+    "tStartMs": 1564800,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "But if you look at those faces"
+    } ]
+  }, {
+    "tStartMs": 1567599,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Of course I know it's pretty"
+    } ]
+  }, {
+    "tStartMs": 1570699,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "So it's very harmonious"
+    } ]
+  }, {
+    "tStartMs": 1573400,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Very well arranged"
+    } ]
+  }, {
+    "tStartMs": 1577800,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "It's a very flawless face"
+    } ]
+  }, {
+    "tStartMs": 1580599,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "I know that"
+    } ]
+  }, {
+    "tStartMs": 1582900,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "But I don't feel any personal charm"
+    } ]
+  }, {
+    "tStartMs": 1591099,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A face with charm?"
+    } ]
+  }, {
+    "tStartMs": 1593099,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "A face with charm?"
+    } ]
+  }, {
+    "tStartMs": 1594300,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Maybe"
+    } ]
+  }, {
+    "tStartMs": 1596099,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "Well, you could say that"
+    } ]
+  }, {
+    "tStartMs": 1599400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "That person's own charm"
+    } ]
+  }, {
+    "tStartMs": 1602000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1605199,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "What about you?"
+    } ]
+  }, {
+    "tStartMs": 1606300,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "The right person?"
+    } ]
+  }, {
+    "tStartMs": 1607400,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1608699,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "This is something a lot of people say"
+    } ]
+  }, {
+    "tStartMs": 1612900,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "A person with a similar standard for getting angry"
+    } ]
+  }, {
+    "tStartMs": 1617000,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Or a person with a similar standard for having fun"
+    } ]
+  }, {
+    "tStartMs": 1619900,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Getting angry"
+    } ]
+  }, {
+    "tStartMs": 1621699,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "A person with a similar standard for saying"
+    } ]
+  }, {
+    "tStartMs": 1624500,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "That person's behavior is not good"
+    } ]
+  }, {
+    "tStartMs": 1627400,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That's a very good standard"
+    } ]
+  }, {
+    "tStartMs": 1632400,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "I think so"
+    } ]
+  }, {
+    "tStartMs": 1635099,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "I think this is similar to"
+    } ]
+  }, {
+    "tStartMs": 1637500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "What Taewoong said earlier"
+    } ]
+  }, {
+    "tStartMs": 1638900,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "A person with a similar standard for having fun"
+    } ]
+  }, {
+    "tStartMs": 1642699,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1644199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A standard"
+    } ]
+  }, {
+    "tStartMs": 1645199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A standard for society"
+    } ]
+  }, {
+    "tStartMs": 1646199,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1649699,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "A person with a similar standard for having fun"
+    } ]
+  }, {
+    "tStartMs": 1651199,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "Yes, a person with a similar standard for having fun"
+    } ]
+  }, {
+    "tStartMs": 1653500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1655500,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "Everyone has their own standard"
+    } ]
+  }, {
+    "tStartMs": 1657199,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "But the right person for me"
+    } ]
+  }, {
+    "tStartMs": 1658800,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "I think that's the right answer"
+    } ]
+  }, {
+    "tStartMs": 1661800,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "I think"
+    } ]
+  }, {
+    "tStartMs": 1664199,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "I like a person"
+    } ]
+  }, {
+    "tStartMs": 1666800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Who can have a good conversation"
+    } ]
+  }, {
+    "tStartMs": 1670000,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "A person who can have a good conversation?"
+    } ]
+  }, {
+    "tStartMs": 1672199,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "Yes, a person who I can have a good conversation with"
+    } ]
+  }, {
+    "tStartMs": 1675500,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Without being shy"
+    } ]
+  }, {
+    "tStartMs": 1678500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1680000,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "I think this is a person"
+    } ]
+  }, {
+    "tStartMs": 1681699,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Who can have a good conversation"
+    } ]
+  }, {
+    "tStartMs": 1684300,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "It's similar to what I said"
+    } ]
+  }, {
+    "tStartMs": 1686099,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1687699,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "I think so"
+    } ]
+  }, {
+    "tStartMs": 1689500,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "But"
+    } ]
+  }, {
+    "tStartMs": 1692099,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "It's easy to say"
+    } ]
+  }, {
+    "tStartMs": 1694900,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "There are times when it doesn't work"
+    } ]
+  }, {
+    "tStartMs": 1697500,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "It's the most difficult"
+    } ]
+  }, {
+    "tStartMs": 1698400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A person who can have a good conversation"
+    } ]
+  }, {
+    "tStartMs": 1699400,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1700500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "And when you meet for the first time"
+    } ]
+  }, {
+    "tStartMs": 1701900,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "There's a person who's polite"
+    } ]
+  }, {
+    "tStartMs": 1703800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1704800,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "At the restaurant"
+    } ]
+  }, {
+    "tStartMs": 1707900,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "The attitude towards the waitress"
+    } ]
+  }, {
+    "tStartMs": 1709300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "There are people who think this is important"
+    } ]
+  }, {
+    "tStartMs": 1712400,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "I think it will be a plus"
+    } ]
+  }, {
+    "tStartMs": 1714099,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Of course"
+    } ]
+  }, {
+    "tStartMs": 1716599,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "That's important"
+    } ]
+  }, {
+    "tStartMs": 1719099,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "For me, that's also"
+    } ]
+  }, {
+    "tStartMs": 1720199,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "Included in my mind"
+    } ]
+  }, {
+    "tStartMs": 1722900,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "How do you feel, Taewoong?"
+    } ]
+  }, {
+    "tStartMs": 1726000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1727500,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "After eating"
+    } ]
+  }, {
+    "tStartMs": 1728900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There are people who come out"
+    } ]
+  }, {
+    "tStartMs": 1731900,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "Saying thank you for the meal"
+    } ]
+  }, {
+    "tStartMs": 1733599,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think that's a good thing"
+    } ]
+  }, {
+    "tStartMs": 1736599,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "If possible"
+    } ]
+  }, {
+    "tStartMs": 1738400,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "I clean up the dishes before I come out"
+    } ]
+  }, {
+    "tStartMs": 1742599,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1744099,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes, if possible"
+    } ]
+  }, {
+    "tStartMs": 1745599,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "Have you ever worked part-time at a restaurant?"
+    } ]
+  }, {
+    "tStartMs": 1747300,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1749300,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I used to do that before"
+    } ]
+  }, {
+    "tStartMs": 1751800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1752800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1756400,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "But"
+    } ]
+  }, {
+    "tStartMs": 1757500,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Great"
+    } ]
+  }, {
+    "tStartMs": 1758699,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "If you see something like that"
+    } ]
+  }, {
+    "tStartMs": 1760300,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "You look so good"
+    } ]
+  }, {
+    "tStartMs": 1763199,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I think I'm attracted to that"
+    } ]
+  }, {
+    "tStartMs": 1766699,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "And I'm a little bit"
+    } ]
+  }, {
+    "tStartMs": 1768599,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "I have a temper"
+    } ]
+  }, {
+    "tStartMs": 1771500,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "A little"
+    } ]
+  }, {
+    "tStartMs": 1772699,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "What do you mean by a temper?"
+    } ]
+  }, {
+    "tStartMs": 1774400,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "I have a temper"
+    } ]
+  }, {
+    "tStartMs": 1776099,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "A little"
+    } ]
+  }, {
+    "tStartMs": 1778400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Resistance spirit?"
+    } ]
+  }, {
+    "tStartMs": 1779900,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "No, I don't know"
+    } ]
+  }, {
+    "tStartMs": 1780800,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Resistance spirit"
+    } ]
+  }, {
+    "tStartMs": 1781900,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "This is just what I said"
+    } ]
+  }, {
+    "tStartMs": 1783599,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1784800,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "A little"
+    } ]
+  }, {
+    "tStartMs": 1786099,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "How should I say"
+    } ]
+  }, {
+    "tStartMs": 1787400,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "If I say it in English"
+    } ]
+  }, {
+    "tStartMs": 1788599,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Spoiled people"
+    } ]
+  }, {
+    "tStartMs": 1790699,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1793000,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "A little"
+    } ]
+  }, {
+    "tStartMs": 1793599,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "To the people below"
+    } ]
+  }, {
+    "tStartMs": 1795099,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Or to those who work as a service"
+    } ]
+  }, {
+    "tStartMs": 1797599,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "I'm a little rude"
+    } ]
+  }, {
+    "tStartMs": 1800400,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "A little"
+    } ]
+  }, {
+    "tStartMs": 1801099,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Just because you have something"
+    } ]
+  }, {
+    "tStartMs": 1804099,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I act carelessly"
+    } ]
+  }, {
+    "tStartMs": 1806599,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I really hate that"
+    } ]
+  }, {
+    "tStartMs": 1810599,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "No matter how pretty and good"
+    } ]
+  }, {
+    "tStartMs": 1815400,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "If you see something like that"
+    } ]
+  }, {
+    "tStartMs": 1816900,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "I really lost my affection"
+    } ]
+  }, {
+    "tStartMs": 1820599,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I lost it again"
+    } ]
+  }, {
+    "tStartMs": 1823199,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I like humble people"
+    } ]
+  }, {
+    "tStartMs": 1825599,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1827400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It was a very important point"
+    } ]
+  }, {
+    "tStartMs": 1830500,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Is there anything else to lose affection?"
+    } ]
+  }, {
+    "tStartMs": 1832800,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Lose affection"
+    } ]
+  }, {
+    "tStartMs": 1835199,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "How about people who do a lot of Instagram?"
+    } ]
+  }, {
+    "tStartMs": 1837099,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "People who do a lot of SNS"
+    } ]
+  }, {
+    "tStartMs": 1840599,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 1842599,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "Can't you set a standard for that?"
+    } ]
+  }, {
+    "tStartMs": 1844900,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "I don't think I've thought about it that deeply"
+    } ]
+  }, {
+    "tStartMs": 1849099,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "My Kakao Talk is easy"
+    } ]
+  }, {
+    "tStartMs": 1852900,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "I put up about 10 stories"
+    } ]
+  }, {
+    "tStartMs": 1856199,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Then"
+    } ]
+  }, {
+    "tStartMs": 1856699,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "That's a problem"
+    } ]
+  }, {
+    "tStartMs": 1857699,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's a problem"
+    } ]
+  }, {
+    "tStartMs": 1860699,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But if it's not"
+    } ]
+  }, {
+    "tStartMs": 1862699,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1864199,
+    "dDurationMs": 4301,
+    "segs": [ {
+      "utf8": "Something that goes around a lot on the Internet"
+    } ]
+  }, {
+    "tStartMs": 1868500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't like men who do a lot of Instagram"
+    } ]
+  }, {
+    "tStartMs": 1870500,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "I think there are a lot of people who say"
+    } ]
+  }, {
+    "tStartMs": 1873199,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "I post a lot of pictures"
+    } ]
+  }, {
+    "tStartMs": 1876599,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Why is that?"
+    } ]
+  }, {
+    "tStartMs": 1877500,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "I picked a lot of people like that as my ideal type"
+    } ]
+  }, {
+    "tStartMs": 1883300,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Usually"
+    } ]
+  }, {
+    "tStartMs": 1885099,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Handsome"
+    } ]
+  }, {
+    "tStartMs": 1885599,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Does it look like there's nothing to do?"
+    } ]
+  }, {
+    "tStartMs": 1886800,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "There's a high probability that handsome people will do Instagram well"
+    } ]
+  }, {
+    "tStartMs": 1891099,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1891599,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Because it's fun"
+    } ]
+  }, {
+    "tStartMs": 1893000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 1894000,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "If you post your handsome face, people will like it"
+    } ]
+  }, {
+    "tStartMs": 1897199,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1897900,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "That's why there's a high probability of doing a lot"
+    } ]
+  }, {
+    "tStartMs": 1900500,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1901400,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "But then what should I do?"
+    } ]
+  }, {
+    "tStartMs": 1904099,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "And"
+    } ]
+  }, {
+    "tStartMs": 1905199,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I saw this on a YouTube show"
+    } ]
+  }, {
+    "tStartMs": 1907699,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Women who don't know just comment"
+    } ]
+  }, {
+    "tStartMs": 1909599,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "My arms are as big as Taeseon"
+    } ]
+  }, {
+    "tStartMs": 1910900,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "Like this"
+    } ]
+  }, {
+    "tStartMs": 1914099,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1915199,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "You have to see that"
+    } ]
+  }, {
+    "tStartMs": 1918099,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1919199,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "How tired would you be?"
+    } ]
+  }, {
+    "tStartMs": 1921000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1922199,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 1923400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1925400,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "Yes, I'll tell you"
+    } ]
+  }, {
+    "tStartMs": 1926699,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "When I was young"
+    } ]
+  }, {
+    "tStartMs": 1930800,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "I met a really pretty girl"
+    } ]
+  }, {
+    "tStartMs": 1935699,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1936800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "It was so pretty"
+    } ]
+  }, {
+    "tStartMs": 1938300,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1939099,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "But I can't handle it"
+    } ]
+  }, {
+    "tStartMs": 1942800,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "I got too much attention from men around me"
+    } ]
+  }, {
+    "tStartMs": 1948199,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "So my hair is dry"
+    } ]
+  }, {
+    "tStartMs": 1952000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1953000,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1956500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "If you want to meet a pretty girl"
+    } ]
+  }, {
+    "tStartMs": 1959000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "You have to bear the weight"
+    } ]
+  }, {
+    "tStartMs": 1960199,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1962099,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Couldn't you bear it?"
+    } ]
+  }, {
+    "tStartMs": 1964300,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "Oh, well"
+    } ]
+  }, {
+    "tStartMs": 1968099,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Okay"
+    } ]
+  }, {
+    "tStartMs": 1969300,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Oh, but"
+    } ]
+  }, {
+    "tStartMs": 1970000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1971300,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But wouldn't it be like that?"
+    } ]
+  }, {
+    "tStartMs": 1974300,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Oh, so?"
+    } ]
+  }, {
+    "tStartMs": 1975699,
+    "dDurationMs": 4701,
+    "segs": [ {
+      "utf8": "Yes, but if you put on a lot of weight on Instagram"
+    } ]
+  }, {
+    "tStartMs": 1980400,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "The weight increases"
+    } ]
+  }, {
+    "tStartMs": 1983199,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "My arms are as big as Taeseon"
+    } ]
+  }, {
+    "tStartMs": 1984300,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "You have to read all these comments"
+    } ]
+  }, {
+    "tStartMs": 1986199,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1987099,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Then, who is this?"
+    } ]
+  }, {
+    "tStartMs": 1988199,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "You might want to ask like this"
+    } ]
+  }, {
+    "tStartMs": 1990099,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "There's something like that"
+    } ]
+  }, {
+    "tStartMs": 1991800,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Can I date a celebrity or not?"
+    } ]
+  }, {
+    "tStartMs": 1995000,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "But there are people who post their faces"
+    } ]
+  }, {
+    "tStartMs": 1998300,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Just"
+    } ]
+  }, {
+    "tStartMs": 1999900,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "There are people who just write"
+    } ]
+  }, {
+    "tStartMs": 2003000,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "You know?"
+    } ]
+  }, {
+    "tStartMs": 2005199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Posting any picture"
+    } ]
+  }, {
+    "tStartMs": 2007199,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "There are people who write a lot"
+    } ]
+  }, {
+    "tStartMs": 2009599,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2010800,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Like today's diary"
+    } ]
+  }, {
+    "tStartMs": 2013199,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "That's"
+    } ]
+  }, {
+    "tStartMs": 2017099,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "How about that?"
+    } ]
+  }, {
+    "tStartMs": 2020699,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "If you just want to record it and post it"
+    } ]
+  }, {
+    "tStartMs": 2024500,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "I don't think you'll look that bad"
+    } ]
+  }, {
+    "tStartMs": 2028599,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "If you want to get attention using that"
+    } ]
+  }, {
+    "tStartMs": 2032800,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I wonder why"
+    } ]
+  }, {
+    "tStartMs": 2036400,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 2037300,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "Why does everyone look like that?"
+    } ]
+  }, {
+    "tStartMs": 2040199,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "I think the beginning and end of SNS is all about attention"
+    } ]
+  }, {
+    "tStartMs": 2044099,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 2047500,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "That's"
+    } ]
+  }, {
+    "tStartMs": 2048000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "That's attention"
+    } ]
+  }, {
+    "tStartMs": 2049100,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "You can write it on your own notebook"
+    } ]
+  }, {
+    "tStartMs": 2051800,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "You can even write it on a computer notebook"
+    } ]
+  }, {
+    "tStartMs": 2055800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But someone"
+    } ]
+  }, {
+    "tStartMs": 2058000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You can write it where you can see it"
+    } ]
+  }, {
+    "tStartMs": 2062000,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "That means you want someone to see it"
+    } ]
+  }, {
+    "tStartMs": 2064899,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 2066199,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Well, it doesn't look good"
+    } ]
+  }, {
+    "tStartMs": 2068000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "After talking like this"
+    } ]
+  }, {
+    "tStartMs": 2069800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2071800,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "You're a lonely person"
+    } ]
+  }, {
+    "tStartMs": 2073100,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Oh, it feels like that"
+    } ]
+  }, {
+    "tStartMs": 2075000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 2076000,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "Is there something in your heart"
+    } ]
+  }, {
+    "tStartMs": 2078699,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "Is there something you want to do?"
+    } ]
+  }, {
+    "tStartMs": 2081000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Like this"
+    } ]
+  }, {
+    "tStartMs": 2081500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 2084600,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "We were talking about a blind date"
+    } ]
+  }, {
+    "tStartMs": 2088300,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "Have you ever been on a blind date?"
+    } ]
+  }, {
+    "tStartMs": 2091699,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2093100,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Aren't you nervous?"
+    } ]
+  }, {
+    "tStartMs": 2093899,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Weren't you nervous?"
+    } ]
+  }, {
+    "tStartMs": 2095500,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "But I got it when I didn't have a chance to meet people"
+    } ]
+  }, {
+    "tStartMs": 2098800,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "I was looking forward to it"
+    } ]
+  }, {
+    "tStartMs": 2101399,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "I thought it would be fun"
+    } ]
+  }, {
+    "tStartMs": 2103699,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "I've been on a blind date"
+    } ]
+  }, {
+    "tStartMs": 2105600,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "I've been on a blind date"
+    } ]
+  }, {
+    "tStartMs": 2107699,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "A blind date"
+    } ]
+  }, {
+    "tStartMs": 2109199,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2110699,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "Is it literally a blind date?"
+    } ]
+  }, {
+    "tStartMs": 2112800,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2113600,
+    "dDurationMs": 7700,
+    "segs": [ {
+      "utf8": "It's a meeting between the Department of Mechanical Engineering and the Department of Art"
+    } ]
+  }, {
+    "tStartMs": 2121300,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 2122699,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Have you ever been on a blind date?"
+    } ]
+  }, {
+    "tStartMs": 2124199,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "No, I haven't"
+    } ]
+  }, {
+    "tStartMs": 2127000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Then how many people usually do it?"
+    } ]
+  }, {
+    "tStartMs": 2129300,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "It was 4 to 4"
+    } ]
+  }, {
+    "tStartMs": 2131699,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "When I was 20"
+    } ]
+  }, {
+    "tStartMs": 2132600,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "4 to 4"
+    } ]
+  }, {
+    "tStartMs": 2133899,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "But when you're 20, you drink a lot"
+    } ]
+  }, {
+    "tStartMs": 2138199,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "When you play drinking games and drink"
+    } ]
+  }, {
+    "tStartMs": 2140100,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "So I went to the department team and played drinking games"
+    } ]
+  }, {
+    "tStartMs": 2144199,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "I came home"
+    } ]
+  }, {
+    "tStartMs": 2146100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It wasn't fun"
+    } ]
+  }, {
+    "tStartMs": 2148100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Just playing drinking games"
+    } ]
+  }, {
+    "tStartMs": 2149800,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2150500,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "I don't know why"
+    } ]
+  }, {
+    "tStartMs": 2151800,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "It was just a battle"
+    } ]
+  }, {
+    "tStartMs": 2153899,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "It was a drinking battle"
+    } ]
+  }, {
+    "tStartMs": 2157000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I think it was one of the fun activities"
+    } ]
+  }, {
+    "tStartMs": 2158600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think it was one of the fun activities"
+    } ]
+  }, {
+    "tStartMs": 2162600,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "If"
+    } ]
+  }, {
+    "tStartMs": 2164100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "In such a place"
+    } ]
+  }, {
+    "tStartMs": 2165600,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2167100,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Four people"
+    } ]
+  }, {
+    "tStartMs": 2168699,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "It can't be good because each person likes one person"
+    } ]
+  }, {
+    "tStartMs": 2172100,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 2172899,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Two or three people like one person"
+    } ]
+  }, {
+    "tStartMs": 2176199,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "Then what do you do?"
+    } ]
+  }, {
+    "tStartMs": 2178300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 2179600,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Then the person who likes it will decide"
+    } ]
+  }, {
+    "tStartMs": 2183000,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 2184199,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But don't you think that would hurt your pride too much?"
+    } ]
+  }, {
+    "tStartMs": 2186399,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "I know"
+    } ]
+  }, {
+    "tStartMs": 2188300,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "I don't think I would like it"
+    } ]
+  }, {
+    "tStartMs": 2190399,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 2192699,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I have a similar experience"
+    } ]
+  }, {
+    "tStartMs": 2195199,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "I have an older sister who I was close to in college"
+    } ]
+  }, {
+    "tStartMs": 2198800,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "She was my closest sister"
+    } ]
+  }, {
+    "tStartMs": 2199899,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "She is very pretty"
+    } ]
+  }, {
+    "tStartMs": 2203300,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 2204399,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Always"
+    } ]
+  }, {
+    "tStartMs": 2206000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 2206500,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "If I go to a college festival"
+    } ]
+  }, {
+    "tStartMs": 2207800,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "I asked for a number"
+    } ]
+  }, {
+    "tStartMs": 2208899,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Men came"
+    } ]
+  }, {
+    "tStartMs": 2209899,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was that kind of person"
+    } ]
+  }, {
+    "tStartMs": 2212899,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "But I have a lot of experience like that"
+    } ]
+  }, {
+    "tStartMs": 2214199,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So when I go with her"
+    } ]
+  }, {
+    "tStartMs": 2216399,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Some men came to me"
+    } ]
+  }, {
+    "tStartMs": 2218300,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Can you give me that person's number?"
+    } ]
+  }, {
+    "tStartMs": 2220300,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I asked like this"
+    } ]
+  }, {
+    "tStartMs": 2221800,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "Why did you ask that to someone else?"
+    } ]
+  }, {
+    "tStartMs": 2224899,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Because I don't have the courage to ask"
+    } ]
+  }, {
+    "tStartMs": 2226100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Because I don't have the courage to ask directly"
+    } ]
+  }, {
+    "tStartMs": 2227800,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "I want to get along with him"
+    } ]
+  }, {
+    "tStartMs": 2229399,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Please help me"
+    } ]
+  }, {
+    "tStartMs": 2230300,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Like this"
+    } ]
+  }, {
+    "tStartMs": 2231199,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Cowards"
+    } ]
+  }, {
+    "tStartMs": 2233800,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "So that's how much"
+    } ]
+  }, {
+    "tStartMs": 2239300,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I know it's a place where I lose my self-esteem"
+    } ]
+  }, {
+    "tStartMs": 2248300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It's a war"
+    } ]
+  }, {
+    "tStartMs": 2250500,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "My attitude towards blind dates"
+    } ]
+  }, {
+    "tStartMs": 2255300,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "I remember when it started"
+    } ]
+  }, {
+    "tStartMs": 2258699,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2260600,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "In my early 20s"
+    } ]
+  }, {
+    "tStartMs": 2262800,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "Someone"
+    } ]
+  }, {
+    "tStartMs": 2264899,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "He was a little older"
+    } ]
+  }, {
+    "tStartMs": 2266899,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2267600,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "He"
+    } ]
+  }, {
+    "tStartMs": 2269699,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "My sister was an elementary school teacher"
+    } ]
+  }, {
+    "tStartMs": 2272600,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "Was it the first year? Was it the second year?"
+    } ]
+  }, {
+    "tStartMs": 2274899,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2276699,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "So my sister's friends are teachers"
+    } ]
+  }, {
+    "tStartMs": 2280800,
+    "dDurationMs": 399,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2281199,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So that man"
+    } ]
+  }, {
+    "tStartMs": 2283399,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "Please introduce your sister's friends"
+    } ]
+  }, {
+    "tStartMs": 2286800,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "I'm just doing that"
+    } ]
+  }, {
+    "tStartMs": 2288399,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2289100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But at that time I didn't know anything"
+    } ]
+  }, {
+    "tStartMs": 2291500,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "I asked my sister like that"
+    } ]
+  }, {
+    "tStartMs": 2293899,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "Sister, this person I know"
+    } ]
+  }, {
+    "tStartMs": 2296000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I'm asking you to do this"
+    } ]
+  }, {
+    "tStartMs": 2297800,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Can you do this?"
+    } ]
+  }, {
+    "tStartMs": 2299399,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "Did my sister send a message at that time?"
+    } ]
+  }, {
+    "tStartMs": 2303600,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "You have to do it yourself"
+    } ]
+  }, {
+    "tStartMs": 2305699,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Like this"
+    } ]
+  }, {
+    "tStartMs": 2307600,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2309199,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "So I usually talk about my sister"
+    } ]
+  }, {
+    "tStartMs": 2312500,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "It's almost just"
+    } ]
+  }, {
+    "tStartMs": 2314699,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Because it's just the truth"
+    } ]
+  }, {
+    "tStartMs": 2317300,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2318000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 2319800,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "Oh, you have to do it yourself"
+    } ]
+  }, {
+    "tStartMs": 2323399,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "You have to find your girlfriend"
+    } ]
+  }, {
+    "tStartMs": 2327899,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "I think it's been like that since then"
+    } ]
+  }, {
+    "tStartMs": 2332199,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "But that doesn't mean"
+    } ]
+  }, {
+    "tStartMs": 2334600,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "I don't think bad about people on blind dates"
+    } ]
+  }, {
+    "tStartMs": 2339399,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "I think it's because I've been thinking like that since then"
+    } ]
+  }, {
+    "tStartMs": 2341600,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "I think I'm where I am now"
+    } ]
+  }, {
+    "tStartMs": 2345899,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "It's a different story"
+    } ]
+  }, {
+    "tStartMs": 2347699,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I don't get married a lot these days"
+    } ]
+  }, {
+    "tStartMs": 2350399,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "There are also stories that the birth rate is falling"
+    } ]
+  }, {
+    "tStartMs": 2353500,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "Don't you think there are fewer and fewer opportunities to meet?"
+    } ]
+  }, {
+    "tStartMs": 2356699,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "I think so"
+    } ]
+  }, {
+    "tStartMs": 2358500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "My parents were shocked recently"
+    } ]
+  }, {
+    "tStartMs": 2362100,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "My brother's friend got married"
+    } ]
+  }, {
+    "tStartMs": 2366000,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "So I was invited to a housewarming party"
+    } ]
+  }, {
+    "tStartMs": 2368600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "The wife is out"
+    } ]
+  }, {
+    "tStartMs": 2373800,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "Because my husband's friends are coming"
+    } ]
+  }, {
+    "tStartMs": 2376899,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "The wife empties the house"
+    } ]
+  }, {
+    "tStartMs": 2380300,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "So that only my husband's friends can play"
+    } ]
+  }, {
+    "tStartMs": 2385000,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "I saw that way"
+    } ]
+  }, {
+    "tStartMs": 2386399,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "My parents were shocked"
+    } ]
+  }, {
+    "tStartMs": 2390399,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 2392600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 2393600,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Is that common these days?"
+    } ]
+  }, {
+    "tStartMs": 2396199,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I'm not surprised"
+    } ]
+  }, {
+    "tStartMs": 2398699,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I thought I could play comfortably"
+    } ]
+  }, {
+    "tStartMs": 2403699,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "According to my parents"
+    } ]
+  }, {
+    "tStartMs": 2405399,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "In the past, I met people in such a place"
+    } ]
+  }, {
+    "tStartMs": 2408699,
+    "dDurationMs": 3901,
+    "segs": [ {
+      "utf8": "I called my bride's friends and my husband's friends"
+    } ]
+  }, {
+    "tStartMs": 2412600,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "While playing like this"
+    } ]
+  }, {
+    "tStartMs": 2415500,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "There was always one couple in it"
+    } ]
+  }, {
+    "tStartMs": 2420399,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "These days, even between couples"
+    } ]
+  }, {
+    "tStartMs": 2423600,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "I'm trying not to get in the way of each other"
+    } ]
+  }, {
+    "tStartMs": 2427300,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 2428500,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I think there are people like that"
+    } ]
+  }, {
+    "tStartMs": 2432100,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "It could be"
+    } ]
+  }, {
+    "tStartMs": 2433899,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Of course, there are times when we work together"
+    } ]
+  }, {
+    "tStartMs": 2438199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The form of such a relationship"
+    } ]
+  }, {
+    "tStartMs": 2441199,
+    "dDurationMs": 4901,
+    "segs": [ {
+      "utf8": "As time goes by, it changes little by little"
+    } ]
+  }, {
+    "tStartMs": 2446199,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But a couple is a whole"
+    } ]
+  }, {
+    "tStartMs": 2450199,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "A couple is one"
+    } ]
+  }, {
+    "tStartMs": 2453100,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "That's it for the blind date story"
+    } ]
+  }, {
+    "tStartMs": 2456399,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "I'm going to talk about the theme of next week"
+    } ]
+  }, {
+    "tStartMs": 2459600,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "From now on, I think it would be good to change the topic one by one every week"
+    } ]
+  }, {
+    "tStartMs": 2465800,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "So I chose the theme of next week"
+    } ]
+  }, {
+    "tStartMs": 2469699,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 2470899,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "The theme of next week is going to be a beauty salon"
+    } ]
+  }, {
+    "tStartMs": 2473500,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "A beauty salon?"
+    } ]
+  }, {
+    "tStartMs": 2474899,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2476100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's a good theme"
+    } ]
+  }, {
+    "tStartMs": 2477600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It's a place where you get your hair done"
+    } ]
+  }, {
+    "tStartMs": 2480000,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "From reservation"
+    } ]
+  }, {
+    "tStartMs": 2481899,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I think I can talk about the regulars"
+    } ]
+  }, {
+    "tStartMs": 2485199,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Good"
+    } ]
+  }, {
+    "tStartMs": 2485899,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Then next week"
+    } ]
+  }, {
+    "tStartMs": 2487300,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Let's talk about beauty salons"
+    } ]
+  }, {
+    "tStartMs": 2490800,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I'll stop here today"
+    } ]
+  }, {
+    "tStartMs": 2493000,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Thank you"
+    } ]
+  }, {
+    "tStartMs": 2493899,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "It was Jung Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 2495100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It was DDU-DU"
+    } ]
+  } ]
+}

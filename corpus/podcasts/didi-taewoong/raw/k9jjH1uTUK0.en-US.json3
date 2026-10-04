@@ -1,0 +1,3973 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Didi and Jeong Tae-woong's Yomojomo of Korean Life"
+    } ]
+  }, {
+    "tStartMs": 10000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 12000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 14000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life is a podcast where two people living in Korea talk about the various aspects of Korean life."
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "This is the tenth episode this week, and what's the topic this time?"
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This tenth episode's topic is middle school."
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, what comes to mind when you think of middle school?"
+    } ]
+  }, {
+    "tStartMs": 34000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "When I think of middle school, just like with elementary school,"
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When do you grow up?"
+    } ]
+  }, {
+    "tStartMs": 42000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hanging in there."
+    } ]
+  }, {
+    "tStartMs": 44000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hanging in there."
+    } ]
+  }, {
+    "tStartMs": 46000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "By the way, last time we actually talked more about our own elementary school experiences rather than elementary school itself, right?"
+    } ]
+  }, {
+    "tStartMs": 56000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But I think that was unavoidable because there are a lot of things I don't remember well,"
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "So this time I'll try to talk as much as possible focusing on things that happened within middle school."
+    } ]
+  }, {
+    "tStartMs": 74000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Would you like to start, Didi? How was middle school for you?"
+    } ]
+  }, {
+    "tStartMs": 79000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When I think of middle school, what comes to mind is dark history."
+    } ]
+  }, {
+    "tStartMs": 83000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Dark history?"
+    } ]
+  }, {
+    "tStartMs": 84000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I can only think of dark history."
+    } ]
+  }, {
+    "tStartMs": 86000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "If I could erase my middle school years, I would want to erase them."
+    } ]
+  }, {
+    "tStartMs": 92000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "Middle school is, in international age, from 12 to 14? Or 13 to 15? Around that range,"
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's the puberty period, right? The stormy period."
+    } ]
+  }, {
+    "tStartMs": 108000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "When you rebelled against your parents and broke rules that you were supposed to follow?"
+    } ]
+  }, {
+    "tStartMs": 119000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So I have quite a few memories I'd like to erase."
+    } ]
+  }, {
+    "tStartMs": 124000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Now that I think about it, I'm the same way."
+    } ]
+  }, {
+    "tStartMs": 126000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 127000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It makes sense that Korea has a word called \"middle school second-year syndrome.\""
+    } ]
+  }, {
+    "tStartMs": 132000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That exists, right."
+    } ]
+  }, {
+    "tStartMs": 133000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Middle school second-year syndrome, a kind of mental illness that children get in their second year of middle school?"
+    } ]
+  }, {
+    "tStartMs": 140000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Being rebellious and getting caught up in the idea that you're the coolest person in the world,"
+    } ]
+  }, {
+    "tStartMs": 147000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I wonder if that kind of period exists worldwide."
+    } ]
+  }, {
+    "tStartMs": 152000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm sure it does."
+    } ]
+  }, {
+    "tStartMs": 153000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, it seems like you went through puberty quite a bit?"
+    } ]
+  }, {
+    "tStartMs": 156000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I did."
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What kind of symptoms did you have?"
+    } ]
+  }, {
+    "tStartMs": 164000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I got angry a lot."
+    } ]
+  }, {
+    "tStartMs": 167000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Got angry a lot."
+    } ]
+  }, {
+    "tStartMs": 169000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes, I got angry a lot and also felt depressed."
+    } ]
+  }, {
+    "tStartMs": 173000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Overall it seemed like I was very up and down."
+    } ]
+  }, {
+    "tStartMs": 177000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Frustrated and upset for no clear reason,"
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I really felt the hormonal changes."
+    } ]
+  }, {
+    "tStartMs": 187000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, hormones are scary."
+    } ]
+  }, {
+    "tStartMs": 189000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 191000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You didn't rebel against your parents or anything? Not talking to them?"
+    } ]
+  }, {
+    "tStartMs": 195000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I did a bit."
+    } ]
+  }, {
+    "tStartMs": 199000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "What I remember is,"
+    } ]
+  }, {
+    "tStartMs": 204000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "When I was in middle school, my mother was working at a math academy."
+    } ]
+  }, {
+    "tStartMs": 210000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "She wasn't teaching math, but she worked at the academy."
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And I attended that academy too."
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But there was a male teacher there that I really liked, respected, and followed closely,"
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And that teacher was a very kind person,"
+    } ]
+  }, {
+    "tStartMs": 229000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I wonder if mom told the teacher that I was going through puberty,"
+    } ]
+  }, {
+    "tStartMs": 238000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That teacher, with a smiling face,"
+    } ]
+  }, {
+    "tStartMs": 241000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Tae-woong, don't get too angry at mom these days."
+    } ]
+  }, {
+    "tStartMs": 247000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "He said something like that."
+    } ]
+  }, {
+    "tStartMs": 250000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 252000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I felt a bit stung at that moment."
+    } ]
+  }, {
+    "tStartMs": 254000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, so I'm going through puberty."
+    } ]
+  }, {
+    "tStartMs": 257000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Even so, when I heard things like \"you're a good person\""
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'd go to my mom and ask why she'd say that"
+    } ]
+  }, {
+    "tStartMs": 263000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You have to go that far for it to be adolescence, right?"
+    } ]
+  }, {
+    "tStartMs": 267000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't think I was able to actually do that"
+    } ]
+  }, {
+    "tStartMs": 270000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You're kind, you had a well-behaved adolescence"
+    } ]
+  }, {
+    "tStartMs": 273000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I didn't cause major trouble or anything like that"
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I also don't think I caused trouble or anything like that"
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But why do you want to erase it?"
+    } ]
+  }, {
+    "tStartMs": 285000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Should I say I was a bit mischievous?"
+    } ]
+  }, {
+    "tStartMs": 287000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "In middle school I played a lot of mischievous pranks"
+    } ]
+  }, {
+    "tStartMs": 291000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "On teachers and"
+    } ]
+  }, {
+    "tStartMs": 294000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh what"
+    } ]
+  }, {
+    "tStartMs": 296000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It wasn't me, I'm telling you"
+    } ]
+  }, {
+    "tStartMs": 299000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Wow, that's shocking?"
+    } ]
+  }, {
+    "tStartMs": 303000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But it wasn't like I got seriously scolded"
+    } ]
+  }, {
+    "tStartMs": 308000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Or received serious punishment at school or anything like that"
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "So I think those were pranks that could be overlooked"
+    } ]
+  }, {
+    "tStartMs": 321000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But I didn't focus during class and played around with friends"
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And kind of teased the teacher a bit"
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I have memories of doing that"
+    } ]
+  }, {
+    "tStartMs": 333000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Playing pranks and on the teacher"
+    } ]
+  }, {
+    "tStartMs": 337000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "If you just hear it that way, it doesn't sound like much"
+    } ]
+  }, {
+    "tStartMs": 343000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Can you tell me in more detail?"
+    } ]
+  }, {
+    "tStartMs": 345000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "What could I even talk about?"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What is there to talk about?"
+    } ]
+  }, {
+    "tStartMs": 353000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Like notes where I cursed out the teacher during class"
+    } ]
+  }, {
+    "tStartMs": 357000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was passing them back and forth with friends and got caught"
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What do I do"
+    } ]
+  }, {
+    "tStartMs": 362000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I went to the front of the classroom and got hit"
+    } ]
+  }, {
+    "tStartMs": 366000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Wow"
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You were a troublemaker, a real troublemaker"
+    } ]
+  }, {
+    "tStartMs": 371000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I was a troublemaker, a prankster"
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I wonder how annoying it must have been for the teacher"
+    } ]
+  }, {
+    "tStartMs": 377000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So they must have been annoyed"
+    } ]
+  }, {
+    "tStartMs": 379000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It wasn't like that for all three years"
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think it was like that through first and second year of middle school"
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was influenced a lot by my friends too"
+    } ]
+  }, {
+    "tStartMs": 388000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "My friends in first year of middle school were mischievous kids"
+    } ]
+  }, {
+    "tStartMs": 392000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Not like kids who just played around"
+    } ]
+  }, {
+    "tStartMs": 395000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Kids who liked to prank and stuff like that"
+    } ]
+  }, {
+    "tStartMs": 400000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Why did I do that? I'm really sorry, teacher"
+    } ]
+  }, {
+    "tStartMs": 403000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If it were now, I wouldn't do that"
+    } ]
+  }, {
+    "tStartMs": 405000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was less mature back then"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "There are so many adults I wronged back then"
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There are so many people I'm sorry to"
+    } ]
+  }, {
+    "tStartMs": 417000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I really committed a betrayal of trust"
+    } ]
+  }, {
+    "tStartMs": 421000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But because I did those things"
+    } ]
+  }, {
+    "tStartMs": 424000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "When another young person makes a mistake with me"
+    } ]
+  }, {
+    "tStartMs": 432000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think I become a bit more forgiving"
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thinking about it that way is comforting"
+    } ]
+  }, {
+    "tStartMs": 436000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I did that too back then"
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right, right, that's when it happens"
+    } ]
+  }, {
+    "tStartMs": 440000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's how it became for me"
+    } ]
+  }, {
+    "tStartMs": 442000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Later on I'll regret it"
+    } ]
+  }, {
+    "tStartMs": 445000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 446000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'll think about it a bit more"
+    } ]
+  }, {
+    "tStartMs": 448000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "No, I think I've already talked about pretty serious pranks"
+    } ]
+  }, {
+    "tStartMs": 454000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So please just know up to that point"
+    } ]
+  }, {
+    "tStartMs": 459000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "This level was within the range of pranks I could talk about"
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The Didi from back then"
+    } ]
+  }, {
+    "tStartMs": 468000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "was not me."
+    } ]
+  }, {
+    "tStartMs": 470000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Back then, we weren't like that."
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Back then, it was an opinion that many people could have disagreed with,"
+    } ]
+  }, {
+    "tStartMs": 479000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but at that time I just"
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "still thought of them as practically no different from animals."
+    } ]
+  }, {
+    "tStartMs": 486000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right, a child with a grown body."
+    } ]
+  }, {
+    "tStartMs": 489000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So that's right."
+    } ]
+  }, {
+    "tStartMs": 491000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Not socialized."
+    } ]
+  }, {
+    "tStartMs": 495000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Was your school uniform pretty?"
+    } ]
+  }, {
+    "tStartMs": 499000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Was your middle school uniform pretty?"
+    } ]
+  }, {
+    "tStartMs": 502000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Everything else was fine,"
+    } ]
+  }, {
+    "tStartMs": 504000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "but the mai, the winter jacket? The outer garment?"
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I didn't really like that."
+    } ]
+  }, {
+    "tStartMs": 513000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The color?"
+    } ]
+  }, {
+    "tStartMs": 515000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes, the color was gray,"
+    } ]
+  }, {
+    "tStartMs": 518000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and the fabric was rough like non-woven material."
+    } ]
+  }, {
+    "tStartMs": 523000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Scratchy."
+    } ]
+  }, {
+    "tStartMs": 524000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, so"
+    } ]
+  }, {
+    "tStartMs": 526000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That winter uniform, the clothes you wear in winter—"
+    } ]
+  }, {
+    "tStartMs": 528000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "when you put on that mai, that jacket of the school uniform, that outer garment,"
+    } ]
+  }, {
+    "tStartMs": 535000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that rough non-woven-like fabric"
+    } ]
+  }, {
+    "tStartMs": 539000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "keeps tickling your neck."
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I really hated it."
+    } ]
+  }, {
+    "tStartMs": 545000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It was the worst."
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Not only was it not pretty, but it was uncomfortable too?"
+    } ]
+  }, {
+    "tStartMs": 549000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes, so my neck was always itchy,"
+    } ]
+  }, {
+    "tStartMs": 552000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "why did they do it that way?"
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I know, right."
+    } ]
+  }, {
+    "tStartMs": 556000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think I really disliked the school uniform."
+    } ]
+  }, {
+    "tStartMs": 560000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You didn't like wearing the uniform?"
+    } ]
+  }, {
+    "tStartMs": 562000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There were pros and cons."
+    } ]
+  }, {
+    "tStartMs": 565000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't have to worry about what to wear, right?"
+    } ]
+  }, {
+    "tStartMs": 567000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There's the advantage that you just put on this one thing and you're done,"
+    } ]
+  }, {
+    "tStartMs": 573000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "but having to always wear that same outfit without any choice felt so suffocating,"
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so bothersome,"
+    } ]
+  }, {
+    "tStartMs": 586000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "by middle school you start to care about style, right?"
+    } ]
+  }, {
+    "tStartMs": 591000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Some friends would alter their uniforms"
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "or shorten their pants and things like that,"
+    } ]
+  }, {
+    "tStartMs": 599000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "how was it for you?"
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "I didn't do that."
+    } ]
+  }, {
+    "tStartMs": 601680,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Ohhh."
+    } ]
+  }, {
+    "tStartMs": 603000,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I just"
+    } ]
+  }, {
+    "tStartMs": 605480,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "was a well-behaved student, right?"
+    } ]
+  }, {
+    "tStartMs": 606800,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Yes, I just wore it as it was, as they gave it to me."
+    } ]
+  }, {
+    "tStartMs": 610480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Aww, how good of you."
+    } ]
+  }, {
+    "tStartMs": 613480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I didn't have the courage to actually shorten it,"
+    } ]
+  }, {
+    "tStartMs": 617480,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "skirts were usually worn short back then,"
+    } ]
+  }, {
+    "tStartMs": 622000,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "so I didn't shorten mine, I just folded it like this to wear it."
+    } ]
+  }, {
+    "tStartMs": 625480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I remember folding it to make it shorter and wearing it that way."
+    } ]
+  }, {
+    "tStartMs": 630480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The length?"
+    } ]
+  }, {
+    "tStartMs": 632480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But when you wear the length that short like that,"
+    } ]
+  }, {
+    "tStartMs": 636480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "there's always a teacher standing in front of the school gate when you arrive."
+    } ]
+  }, {
+    "tStartMs": 638480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 639480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So they call you over."
+    } ]
+  }, {
+    "tStartMs": 641480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "\"You, come here.\" And they measure it with a ruler."
+    } ]
+  }, {
+    "tStartMs": 645480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When you think about it now, isn't that really strange?"
+    } ]
+  }, {
+    "tStartMs": 649480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it not like that anymore? Not at all anymore?"
+    } ]
+  }, {
+    "tStartMs": 651480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Isn't it still like that?"
+    } ]
+  }, {
+    "tStartMs": 653480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it?"
+    } ]
+  }, {
+    "tStartMs": 654480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I understand that now they don't crack down unless it's really severe."
+    } ]
+  }, {
+    "tStartMs": 659480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But what I was trying to talk about was"
+    } ]
+  }, {
+    "tStartMs": 662480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "hair length inspections, you know?"
+    } ]
+  }, {
+    "tStartMs": 666480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 667480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hair length inspections."
+    } ]
+  }, {
+    "tStartMs": 668480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "When I graduated elementary school and entered middle school"
+    } ]
+  }, {
+    "tStartMs": 673480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "the thing that had the biggest impact, that really intimidated me"
+    } ]
+  }, {
+    "tStartMs": 679480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "that system, that rule was the hair length inspection system."
+    } ]
+  }, {
+    "tStartMs": 684480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There were restrictions on your hair, right?"
+    } ]
+  }, {
+    "tStartMs": 686480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. Hair length."
+    } ]
+  }, {
+    "tStartMs": 689480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If your hair grew past a certain number of centimeters, you couldn't do it."
+    } ]
+  }, {
+    "tStartMs": 693480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What was the standard for boys?"
+    } ]
+  }, {
+    "tStartMs": 696480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "At the middle school I attended"
+    } ]
+  }, {
+    "tStartMs": 698480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "how much was it? Two centimeters? Three centimeters?"
+    } ]
+  }, {
+    "tStartMs": 701480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Well, how, by what standard?"
+    } ]
+  }, {
+    "tStartMs": 704480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Was it the sideburns area?"
+    } ]
+  }, {
+    "tStartMs": 708480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Your sideburns had to be short?"
+    } ]
+  }, {
+    "tStartMs": 711480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. The sideburns and the back of the hair, I think?"
+    } ]
+  }, {
+    "tStartMs": 714480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "For girls there was a strict rule. A certain number of centimeters below the ears."
+    } ]
+  }, {
+    "tStartMs": 718480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It was gone by the time I was in middle school."
+    } ]
+  }, {
+    "tStartMs": 720480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was gone?"
+    } ]
+  }, {
+    "tStartMs": 721480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It was gone."
+    } ]
+  }, {
+    "tStartMs": 723480,
+    "dDurationMs": 4999,
+    "segs": [ {
+      "utf8": "I think they did it until first year of middle school and then it was gone."
+    } ]
+  }, {
+    "tStartMs": 728479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Wow, even back then the teachers at the school gate"
+    } ]
+  }, {
+    "tStartMs": 732479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "when students would rush in in the morning"
+    } ]
+  }, {
+    "tStartMs": 735479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "would just look and if they thought my hair was a bit long"
+    } ]
+  }, {
+    "tStartMs": 739479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "they'd say come here and measure it with a ruler"
+    } ]
+  }, {
+    "tStartMs": 743479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and say your hair was this many centimeters long."
+    } ]
+  }, {
+    "tStartMs": 746479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Longer than this many centimeters."
+    } ]
+  }, {
+    "tStartMs": 749479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Then they'd record which grade, which class, which number student you were"
+    } ]
+  }, {
+    "tStartMs": 753479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "right."
+    } ]
+  }, {
+    "tStartMs": 755479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's how they'd check. Next time."
+    } ]
+  }, {
+    "tStartMs": 757479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The problem with recording it like that was"
+    } ]
+  }, {
+    "tStartMs": 760479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "sometimes they'd give you punishment right away"
+    } ]
+  }, {
+    "tStartMs": 763479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "or make you stay after school and things like that"
+    } ]
+  }, {
+    "tStartMs": 765479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "or it would all go into your grades, you know?"
+    } ]
+  }, {
+    "tStartMs": 768479,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "When applying to high school they'd record all the demerits and stuff like that"
+    } ]
+  }, {
+    "tStartMs": 774479,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and to get rid of it you'd have to do volunteer work and things like that."
+    } ]
+  }, {
+    "tStartMs": 779479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I really don't know what they were doing it for"
+    } ]
+  }, {
+    "tStartMs": 783479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but it seemed like they were saying study."
+    } ]
+  }, {
+    "tStartMs": 787479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Don't worry about anything else and just study."
+    } ]
+  }, {
+    "tStartMs": 790479,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Don't try to look cool."
+    } ]
+  }, {
+    "tStartMs": 795479,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So a student like me would have my hair cut"
+    } ]
+  }, {
+    "tStartMs": 803479,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and wear uncomfortable, ill-fitting clothes"
+    } ]
+  }, {
+    "tStartMs": 808479,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and sit through from first period to sixth period and beyond"
+    } ]
+  }, {
+    "tStartMs": 814479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "just enduring it."
+    } ]
+  }, {
+    "tStartMs": 818479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You didn't do well in school?"
+    } ]
+  }, {
+    "tStartMs": 821479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I started doing well from high school onwards."
+    } ]
+  }, {
+    "tStartMs": 825479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Really? You didn't do well before that?"
+    } ]
+  }, {
+    "tStartMs": 827479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I didn't."
+    } ]
+  }, {
+    "tStartMs": 829479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That was okay?"
+    } ]
+  }, {
+    "tStartMs": 830479,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "It didn't stick in my hands and I couldn't grasp it and it didn't enter my eyes"
+    } ]
+  }, {
+    "tStartMs": 836479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I had no interest."
+    } ]
+  }, {
+    "tStartMs": 839479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But when I went to high school I did reasonably well"
+    } ]
+  }, {
+    "tStartMs": 843479,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "but in middle school the teachers seemed to think I was really strange."
+    } ]
+  }, {
+    "tStartMs": 850479,
+    "dDurationMs": 8001,
+    "segs": [ {
+      "utf8": "My attitude in class was really good but whenever I took a test my grades were really low."
+    } ]
+  }, {
+    "tStartMs": 858480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Your good attitude in class was just you enduring it, right?"
+    } ]
+  }, {
+    "tStartMs": 861480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 862480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Steadfastly?"
+    } ]
+  }, {
+    "tStartMs": 863480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 864480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's really unusual too."
+    } ]
+  }, {
+    "tStartMs": 866480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So this guy didn't even sleep."
+    } ]
+  }, {
+    "tStartMs": 873480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And he wasn't a troublemaker either."
+    } ]
+  }, {
+    "tStartMs": 877480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But when you ask him to answer, he doesn't know."
+    } ]
+  }, {
+    "tStartMs": 881480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When you ask him to answer, he's like, \"What's the answer?\" and he doesn't know."
+    } ]
+  }, {
+    "tStartMs": 885480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "He doesn't understand what you're talking about."
+    } ]
+  }, {
+    "tStartMs": 891480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But even though he's a good kid, when he takes a test, he gets all the problems wrong."
+    } ]
+  }, {
+    "tStartMs": 898480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "What were you doing back then?"
+    } ]
+  }, {
+    "tStartMs": 902480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What were you doing back then?"
+    } ]
+  }, {
+    "tStartMs": 905480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think I was drawing pictures up until then too."
+    } ]
+  }, {
+    "tStartMs": 908480,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "In middle school, I watched a lot of movies."
+    } ]
+  }, {
+    "tStartMs": 915480,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "I watched a lot of movies and would unfold imaginary movie scenes by myself."
+    } ]
+  }, {
+    "tStartMs": 923480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Were you doing that during class?"
+    } ]
+  }, {
+    "tStartMs": 925480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. I was daydreaming by myself."
+    } ]
+  }, {
+    "tStartMs": 930480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And I listened to a lot of music too."
+    } ]
+  }, {
+    "tStartMs": 935480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Was there a singer you liked back then? Any songs or artists?"
+    } ]
+  }, {
+    "tStartMs": 938480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I got into hip-hop back then, in middle school."
+    } ]
+  }, {
+    "tStartMs": 942480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Eminem?"
+    } ]
+  }, {
+    "tStartMs": 943480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Was it 6th grade or 1st year of middle school?"
+    } ]
+  }, {
+    "tStartMs": 944480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "No. I listened to Dynamic Duo's first album."
+    } ]
+  }, {
+    "tStartMs": 948480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Korean hip-hop?"
+    } ]
+  }, {
+    "tStartMs": 951480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Dynamic Duo's first album, Epik High's second album, things like that."
+    } ]
+  }, {
+    "tStartMs": 956480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Is that really old? First generation Korean hip-hop."
+    } ]
+  }, {
+    "tStartMs": 959480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So I kept rapping to myself continuously."
+    } ]
+  }, {
+    "tStartMs": 965480,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Oh right. And I did beatboxing."
+    } ]
+  }, {
+    "tStartMs": 972480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You did beatboxing and were popular?"
+    } ]
+  }, {
+    "tStartMs": 975480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was popular with my male friends."
+    } ]
+  }, {
+    "tStartMs": 978480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong was? Because you could do it?"
+    } ]
+  }, {
+    "tStartMs": 979480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. I could. I could."
+    } ]
+  }, {
+    "tStartMs": 980480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 981480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. From 1st year of middle school."
+    } ]
+  }, {
+    "tStartMs": 982480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Can you still do it now?"
+    } ]
+  }, {
+    "tStartMs": 984480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I can."
+    } ]
+  }, {
+    "tStartMs": 985480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But I'm a bit embarrassed so I won't do it."
+    } ]
+  }, {
+    "tStartMs": 990480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh that's really funny."
+    } ]
+  }, {
+    "tStartMs": 992480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Beatboxing?"
+    } ]
+  }, {
+    "tStartMs": 993480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 995480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "These days they say it starts from elementary school"
+    } ]
+  }, {
+    "tStartMs": 1000480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But from middle school, so-called scary kids start appearing, right?"
+    } ]
+  }, {
+    "tStartMs": 1005480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "In that school."
+    } ]
+  }, {
+    "tStartMs": 1007480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In Korea, we call them \"il-jin\" or \"nalari.\""
+    } ]
+  }, {
+    "tStartMs": 1009480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1010480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "We call them that."
+    } ]
+  }, {
+    "tStartMs": 1011480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. These rough groups called \"il-jin\" or \"nalari\" form"
+    } ]
+  }, {
+    "tStartMs": 1016480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And a few key people in that group"
+    } ]
+  }, {
+    "tStartMs": 1022480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Really liked b-boying and dancing like that."
+    } ]
+  }, {
+    "tStartMs": 1026480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And one of them was in my class"
+    } ]
+  }, {
+    "tStartMs": 1031480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I did beatboxing, right? I could do it."
+    } ]
+  }, {
+    "tStartMs": 1034480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And he knew a lot of hip-hop music too"
+    } ]
+  }, {
+    "tStartMs": 1038480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So even though I had nothing in common with the il-jin group at all"
+    } ]
+  }, {
+    "tStartMs": 1044480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I received a kind of respect, you could say."
+    } ]
+  }, {
+    "tStartMs": 1048480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because you could do beatboxing?"
+    } ]
+  }, {
+    "tStartMs": 1050480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1051480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's interesting."
+    } ]
+  }, {
+    "tStartMs": 1053480,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "So he was seen as a kid who could hang out."
+    } ]
+  }, {
+    "tStartMs": 1060480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's the impression I think I had."
+    } ]
+  }, {
+    "tStartMs": 1063480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That turned out to be exactly right."
+    } ]
+  }, {
+    "tStartMs": 1065480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. It's quite unusual, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1066480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong and the school delinquents."
+    } ]
+  }, {
+    "tStartMs": 1069480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Not all of them were like that, but there were really just a small number of kids who ended up that way."
+    } ]
+  }, {
+    "tStartMs": 1074480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's fascinating."
+    } ]
+  }, {
+    "tStartMs": 1075480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Still, it was scary."
+    } ]
+  }, {
+    "tStartMs": 1077480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I had delinquent groups at my middle school. At our school too."
+    } ]
+  }, {
+    "tStartMs": 1083480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But there were a lot of people who were really interested in beauty and appearance."
+    } ]
+  }, {
+    "tStartMs": 1089480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "They wore pretty clothes, did their hair nicely, and wore makeup."
+    } ]
+  }, {
+    "tStartMs": 1095480,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But among them, the older students were really cool."
+    } ]
+  }, {
+    "tStartMs": 1101480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Whether their actions were cool or what, I'm not sure, but just the way they carried themselves."
+    } ]
+  }, {
+    "tStartMs": 1105480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So I have memories of following those friends around a lot like that."
+    } ]
+  }, {
+    "tStartMs": 1110480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1111480,
+    "dDurationMs": 4999,
+    "segs": [ {
+      "utf8": "I didn't do it openly, but I remember thinking that person is cool."
+    } ]
+  }, {
+    "tStartMs": 1116479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I have quite a few memories of that."
+    } ]
+  }, {
+    "tStartMs": 1119479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Doesn't that kind of thing start from middle school?"
+    } ]
+  }, {
+    "tStartMs": 1122479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What kind of thing?"
+    } ]
+  }, {
+    "tStartMs": 1123479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Dating or liking someone."
+    } ]
+  }, {
+    "tStartMs": 1127479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. It seems like that's when it starts."
+    } ]
+  }, {
+    "tStartMs": 1130479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Exactly. And doing things like Cyworld."
+    } ]
+  }, {
+    "tStartMs": 1133479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Cyworld, right."
+    } ]
+  }, {
+    "tStartMs": 1135479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You did that?"
+    } ]
+  }, {
+    "tStartMs": 1136479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I did."
+    } ]
+  }, {
+    "tStartMs": 1137479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Nate Cyworld."
+    } ]
+  }, {
+    "tStartMs": 1139479,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It's like SNS if you think about it now."
+    } ]
+  }, {
+    "tStartMs": 1144479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's the original Korean SNS."
+    } ]
+  }, {
+    "tStartMs": 1146479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1148479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Mini homepage? Mini homepage?"
+    } ]
+  }, {
+    "tStartMs": 1150479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You'd create your own page and visit others' pages and stuff like that."
+    } ]
+  }, {
+    "tStartMs": 1154479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Mini homepage. It's like a blog,"
+    } ]
+  }, {
+    "tStartMs": 1157479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1158479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But made more cute and decorative."
+    } ]
+  }, {
+    "tStartMs": 1161479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So on that home screen, the first screen you'd see when you entered,"
+    } ]
+  }, {
+    "tStartMs": 1165479,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "You could decorate your character and your room."
+    } ]
+  }, {
+    "tStartMs": 1170479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. You could also choose and add BGM."
+    } ]
+  }, {
+    "tStartMs": 1173479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1174479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong's BGM was hip-hop, right?"
+    } ]
+  }, {
+    "tStartMs": 1177479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1182479,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And that's also when you start developing interest in the opposite sex."
+    } ]
+  }, {
+    "tStartMs": 1187479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1188479,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And then some friends become popular because people think they're cool."
+    } ]
+  }, {
+    "tStartMs": 1193479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's how it was."
+    } ]
+  }, {
+    "tStartMs": 1195479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But unfortunately, I lost my popularity starting from middle school."
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Your popularity ended in middle school?"
+    } ]
+  }, {
+    "tStartMs": 1201840,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1202600,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Ah..."
+    } ]
+  }, {
+    "tStartMs": 1204160,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Was it because you cut your hair short?"
+    } ]
+  }, {
+    "tStartMs": 1205880,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "I think that was part of it."
+    } ]
+  }, {
+    "tStartMs": 1209960,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "But people try to ignore those restrictions somehow,"
+    } ]
+  }, {
+    "tStartMs": 1216000,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "And if you fight a bit while trying to look cool, you can pull it off, right?"
+    } ]
+  }, {
+    "tStartMs": 1220280,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "But to do that, your relationship with teachers could get worse,"
+    } ]
+  }, {
+    "tStartMs": 1225360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And I couldn't handle that kind of conflict."
+    } ]
+  }, {
+    "tStartMs": 1229360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I was just a gentle kid."
+    } ]
+  }, {
+    "tStartMs": 1232000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1233799,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "Right. From elementary school, or rather from middle school,"
+    } ]
+  }, {
+    "tStartMs": 1237080,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "The standards for what makes friends popular seem to change."
+    } ]
+  }, {
+    "tStartMs": 1240959,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "More than gentle friends."
+    } ]
+  }, {
+    "tStartMs": 1243040,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1244439,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "Friends who stood out more seemed to be more popular."
+    } ]
+  }, {
+    "tStartMs": 1251799,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Did you go to hagwons too?"
+    } ]
+  }, {
+    "tStartMs": 1254279,
+    "dDurationMs": 4401,
+    "segs": [ {
+      "utf8": "There was this math academy and"
+    } ]
+  }, {
+    "tStartMs": 1258680,
+    "dDurationMs": 4599,
+    "segs": [ {
+      "utf8": "and I went to an English academy for a bit too"
+    } ]
+  }, {
+    "tStartMs": 1263279,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and from then on I went to drum lessons. A drum academy."
+    } ]
+  }, {
+    "tStartMs": 1267599,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Music?"
+    } ]
+  }, {
+    "tStartMs": 1268279,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1269599,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "So that was fun."
+    } ]
+  }, {
+    "tStartMs": 1271440,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Did you ask to go, and then they sent you?"
+    } ]
+  }, {
+    "tStartMs": 1273360,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1274080,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1276000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Wow. Your parents are the best."
+    } ]
+  }, {
+    "tStartMs": 1278440,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1280000,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "I don't think my parents would ever send me. My parents."
+    } ]
+  }, {
+    "tStartMs": 1284959,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "It seems like my parents thought about it a lot."
+    } ]
+  }, {
+    "tStartMs": 1288879,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "So like, as he mentioned in the elementary school episode"
+    } ]
+  }, {
+    "tStartMs": 1293279,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "he liked drawing"
+    } ]
+  }, {
+    "tStartMs": 1296040,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "so we took him to an art academy and he said he didn't want to do it"
+    } ]
+  }, {
+    "tStartMs": 1299879,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "it was always like that."
+    } ]
+  }, {
+    "tStartMs": 1302400,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "My parents wanted to find what I liked"
+    } ]
+  }, {
+    "tStartMs": 1305680,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "and have me do that."
+    } ]
+  }, {
+    "tStartMs": 1308199,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "They wanted to."
+    } ]
+  }, {
+    "tStartMs": 1308879,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "But then he"
+    } ]
+  }, {
+    "tStartMs": 1311080,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "said \"I want to go to this academy\" on his own"
+    } ]
+  }, {
+    "tStartMs": 1314360,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "so they sent me right away, it seems."
+    } ]
+  }, {
+    "tStartMs": 1316120,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1317720,
+    "dDurationMs": 5559,
+    "segs": [ {
+      "utf8": "But even then, he said he wanted to go to drum academy."
+    } ]
+  }, {
+    "tStartMs": 1323279,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "He said he wanted to learn drums, and then"
+    } ]
+  }, {
+    "tStartMs": 1325959,
+    "dDurationMs": 3641,
+    "segs": [ {
+      "utf8": "a few days later he learned beatboxing"
+    } ]
+  }, {
+    "tStartMs": 1329600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and told his mom, \"Mom, now that I've learned beatboxing"
+    } ]
+  }, {
+    "tStartMs": 1331600,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "I don't think I need to learn drums anymore.\" Like that"
+    } ]
+  }, {
+    "tStartMs": 1335279,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "he said that, but mom said, \"No, don't do that."
+    } ]
+  }, {
+    "tStartMs": 1339639,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "Go to the academy once and talk about it there.\""
+    } ]
+  }, {
+    "tStartMs": 1343320,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "So once they took me to the academy"
+    } ]
+  }, {
+    "tStartMs": 1345839,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I was the type to say, \"Okay, I'll do it.\""
+    } ]
+  }, {
+    "tStartMs": 1349279,
+    "dDurationMs": 3961,
+    "segs": [ {
+      "utf8": "So I went to the academy and had fun with it."
+    } ]
+  }, {
+    "tStartMs": 1353240,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Your parents must have had a lot to think about."
+    } ]
+  }, {
+    "tStartMs": 1357360,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "The kid is good"
+    } ]
+  }, {
+    "tStartMs": 1361080,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "but we didn't know what he wanted to do."
+    } ]
+  }, {
+    "tStartMs": 1363679,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1364559,
+    "dDurationMs": 2881,
+    "segs": [ {
+      "utf8": "And it's hard to connect it to a career too."
+    } ]
+  }, {
+    "tStartMs": 1367440,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1368039,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "The things Teacher Tae-woong is interested in."
+    } ]
+  }, {
+    "tStartMs": 1370080,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1371919,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "So honestly, in elementary school, middle school, and high school"
+    } ]
+  }, {
+    "tStartMs": 1378559,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "I had to write about my future dream once in each."
+    } ]
+  }, {
+    "tStartMs": 1382160,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1383000,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Like, what job I wanted to have later"
+    } ]
+  }, {
+    "tStartMs": 1384960,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "what I wanted to become, you write it down."
+    } ]
+  }, {
+    "tStartMs": 1387160,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "At that time, I never once"
+    } ]
+  }, {
+    "tStartMs": 1388839,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "wrote it sincerely about what I wanted to become."
+    } ]
+  }, {
+    "tStartMs": 1391199,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "So you just wrote it roughly?"
+    } ]
+  }, {
+    "tStartMs": 1393800,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Yes. Roughly."
+    } ]
+  }, {
+    "tStartMs": 1395199,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Like, my older sister just mentioned in passing"
+    } ]
+  }, {
+    "tStartMs": 1397600,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "\"Oh, that job would seem cool.\""
+    } ]
+  }, {
+    "tStartMs": 1399279,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "I heard her say that and wrote it down."
+    } ]
+  }, {
+    "tStartMs": 1403160,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "I just asked my mom casually"
+    } ]
+  }, {
+    "tStartMs": 1405559,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "and she said, \"Well, wouldn't a professional job be good?\" so"
+    } ]
+  }, {
+    "tStartMs": 1407800,
+    "dDurationMs": 6399,
+    "segs": [ {
+      "utf8": "I wrote \"professional job\" as my future dream."
+    } ]
+  }, {
+    "tStartMs": 1414199,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "That's what I did."
+    } ]
+  }, {
+    "tStartMs": 1416559,
+    "dDurationMs": 2441,
+    "segs": [ {
+      "utf8": "Actually, I think it's harder to have something you want to do back then"
+    } ]
+  }, {
+    "tStartMs": 1419000,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "than not having anything."
+    } ]
+  }, {
+    "tStartMs": 1422279,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "Yeah, that's right. That's right. Yeah."
+    } ]
+  }, {
+    "tStartMs": 1424440,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "There's no way that could happen."
+    } ]
+  }, {
+    "tStartMs": 1425600,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "That's only natural."
+    } ]
+  }, {
+    "tStartMs": 1426720,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "How much experience could you have had?"
+    } ]
+  }, {
+    "tStartMs": 1428240,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1429720,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "You didn't even know what the job actually was, right?"
+    } ]
+  }, {
+    "tStartMs": 1432399,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "Yeah, that's true."
+    } ]
+  }, {
+    "tStartMs": 1435600,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Right. That was only natural back then."
+    } ]
+  }, {
+    "tStartMs": 1439440,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "That must have been tough though."
+    } ]
+  }, {
+    "tStartMs": 1441360,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "It really was tough."
+    } ]
+  }, {
+    "tStartMs": 1444559,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Oh, I just remembered something."
+    } ]
+  }, {
+    "tStartMs": 1446479,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Suddenly I"
+    } ]
+  }, {
+    "tStartMs": 1447919,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "went through that stormy first year of middle school"
+    } ]
+  }, {
+    "tStartMs": 1450960,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "and then in second year"
+    } ]
+  }, {
+    "tStartMs": 1453279,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I became really interested in K-pop."
+    } ]
+  }, {
+    "tStartMs": 1455479,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "K-pop?"
+    } ]
+  }, {
+    "tStartMs": 1457279,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Idols."
+    } ]
+  }, {
+    "tStartMs": 1458440,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Was it around the time of Big Bang?"
+    } ]
+  }, {
+    "tStartMs": 1460079,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Beast."
+    } ]
+  }, {
+    "tStartMs": 1460959,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "Beast. Ah."
+    } ]
+  }, {
+    "tStartMs": 1463000,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "Beast."
+    } ]
+  }, {
+    "tStartMs": 1465119,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Like when EXO came out and all that"
+    } ]
+  }, {
+    "tStartMs": 1467720,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "but I liked Beast"
+    } ]
+  }, {
+    "tStartMs": 1469760,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "so I was really into K-pop back then"
+    } ]
+  }, {
+    "tStartMs": 1472279,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "and went to concerts"
+    } ]
+  }, {
+    "tStartMs": 1474200,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "and then"
+    } ]
+  }, {
+    "tStartMs": 1476079,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "I got into dancing"
+    } ]
+  }, {
+    "tStartMs": 1477920,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "and started dancing."
+    } ]
+  }, {
+    "tStartMs": 1480399,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "A dance club."
+    } ]
+  }, {
+    "tStartMs": 1481480,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Wow, it's one shock after another."
+    } ]
+  }, {
+    "tStartMs": 1484440,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "That's amazing."
+    } ]
+  }, {
+    "tStartMs": 1486839,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "So in middle and high school"
+    } ]
+  }, {
+    "tStartMs": 1488359,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "I was in the dance club."
+    } ]
+  }, {
+    "tStartMs": 1490040,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "K-pop."
+    } ]
+  }, {
+    "tStartMs": 1492000,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "So we performed at the school festival"
+    } ]
+  }, {
+    "tStartMs": 1493760,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "and stuff like that was fun."
+    } ]
+  }, {
+    "tStartMs": 1495399,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Wow, that's incredible."
+    } ]
+  }, {
+    "tStartMs": 1496519,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Wow, but if you did it a bit when you were younger"
+    } ]
+  }, {
+    "tStartMs": 1501239,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "even if you haven't done it in a long time"
+    } ]
+  }, {
+    "tStartMs": 1502559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it would be easier to do it again, right?"
+    } ]
+  }, {
+    "tStartMs": 1504559,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "I haven't done it before"
+    } ]
+  }, {
+    "tStartMs": 1507480,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "but I think it would be fun to try again."
+    } ]
+  }, {
+    "tStartMs": 1509320,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1511839,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "Oh, I'm jealous."
+    } ]
+  }, {
+    "tStartMs": 1515320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're listening to the beatbox club and dance club podcast."
+    } ]
+  }, {
+    "tStartMs": 1517320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "That's right. Oh, I really want to be good at dancing."
+    } ]
+  }, {
+    "tStartMs": 1519920,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1522519,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1523320,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Want to learn?"
+    } ]
+  }, {
+    "tStartMs": 1524720,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "Well actually"
+    } ]
+  }, {
+    "tStartMs": 1525959,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "I'm learning right now?"
+    } ]
+  }, {
+    "tStartMs": 1528320,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "No, no, no."
+    } ]
+  }, {
+    "tStartMs": 1529399,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Actually I"
+    } ]
+  }, {
+    "tStartMs": 1529959,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "before I went to Bangladesh"
+    } ]
+  }, {
+    "tStartMs": 1531480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "for a little over a month"
+    } ]
+  }, {
+    "tStartMs": 1534480,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I went to a dance academy."
+    } ]
+  }, {
+    "tStartMs": 1536600,
+    "dDurationMs": 3919,
+    "segs": [ {
+      "utf8": "What kind of dance?"
+    } ]
+  }, {
+    "tStartMs": 1540519,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Just like K-pop dance"
+    } ]
+  }, {
+    "tStartMs": 1541839,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "hip-hop dance, stuff like that?"
+    } ]
+  }, {
+    "tStartMs": 1543799,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "힙합 댄스 이런 거?"
+    } ]
+  }, {
+    "tStartMs": 1546760,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "Ah, but I really don't have any talent for it."
+    } ]
+  }, {
+    "tStartMs": 1553440,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "You don't have a sense of dance?"
+    } ]
+  }, {
+    "tStartMs": 1555320,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Yes, I don't have that."
+    } ]
+  }, {
+    "tStartMs": 1557200,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "It's just too"
+    } ]
+  }, {
+    "tStartMs": 1558720,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Sense?"
+    } ]
+  }, {
+    "tStartMs": 1559600,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "I don't have a sense for it."
+    } ]
+  }, {
+    "tStartMs": 1560320,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "My body is too slow"
+    } ]
+  }, {
+    "tStartMs": 1561760,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "The shape doesn't come out right"
+    } ]
+  }, {
+    "tStartMs": 1563359,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "I'm too stiff"
+    } ]
+  }, {
+    "tStartMs": 1566040,
+    "dDurationMs": 3039,
+    "segs": [ {
+      "utf8": "And I can't even memorize the choreography sequence"
+    } ]
+  }, {
+    "tStartMs": 1569079,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Ah, of course, I only did it for a month briefly"
+    } ]
+  }, {
+    "tStartMs": 1570679,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "So that could happen"
+    } ]
+  }, {
+    "tStartMs": 1572279,
+    "dDurationMs": 3641,
+    "segs": [ {
+      "utf8": "Ah, I don't know, I could learn it again"
+    } ]
+  }, {
+    "tStartMs": 1575920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Dancing, if you dance well, it's cool."
+    } ]
+  }, {
+    "tStartMs": 1578160,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1579640,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "Ah, and Didi"
+    } ]
+  }, {
+    "tStartMs": 1581519,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "You do that."
+    } ]
+  }, {
+    "tStartMs": 1582959,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 1583519,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "As a reward for that challenge"
+    } ]
+  }, {
+    "tStartMs": 1585519,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Please do that once."
+    } ]
+  }, {
+    "tStartMs": 1587399,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 1591359,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 1592320,
+    "dDurationMs": 4079,
+    "segs": [ {
+      "utf8": "Ah, but I have a bit of an allergy to things like this show-off vibe"
+    } ]
+  }, {
+    "tStartMs": 1596399,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1599000,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Look how cute I am, like this"
+    } ]
+  }, {
+    "tStartMs": 1601040,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Look at me a bit, that kind of feeling, right?"
+    } ]
+  }, {
+    "tStartMs": 1603760,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "I have an allergy to that."
+    } ]
+  }, {
+    "tStartMs": 1605359,
+    "dDurationMs": 3841,
+    "segs": [ {
+      "utf8": "Like some 500-day diary writing"
+    } ]
+  }, {
+    "tStartMs": 1609200,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Korean diary writing"
+    } ]
+  }, {
+    "tStartMs": 1611119,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "As a challenge achievement reward"
+    } ]
+  }, {
+    "tStartMs": 1616279,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "Didi's"
+    } ]
+  }, {
+    "tStartMs": 1619440,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "500 days is almost 2 years, right?"
+    } ]
+  }, {
+    "tStartMs": 1622000,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1622760,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "For 2 years to watch my dance"
+    } ]
+  }, {
+    "tStartMs": 1625040,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "I'd have to do that much"
+    } ]
+  }, {
+    "tStartMs": 1626160,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "I'm not sure if that would be motivation."
+    } ]
+  }, {
+    "tStartMs": 1632040,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "If it's with Teacher Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 1635440,
+    "dDurationMs": 2839,
+    "segs": [ {
+      "utf8": "It might be able to become motivation."
+    } ]
+  }, {
+    "tStartMs": 1638279,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "Ah no, I"
+    } ]
+  }, {
+    "tStartMs": 1639720,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "What would be good for me then?"
+    } ]
+  }, {
+    "tStartMs": 1641760,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Ah, it's like doing beatbox next to Teacher Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 1648640,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "That much would be"
+    } ]
+  }, {
+    "tStartMs": 1650880,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "I think that would be motivation."
+    } ]
+  }, {
+    "tStartMs": 1652640,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "Ah yes."
+    } ]
+  }, {
+    "tStartMs": 1653959,
+    "dDurationMs": 4241,
+    "segs": [ {
+      "utf8": "What do you mean by saying you won't do it"
+    } ]
+  }, {
+    "tStartMs": 1658200,
+    "dDurationMs": 5159,
+    "segs": [ {
+      "utf8": "It's like an episode that only left wounds?"
+    } ]
+  }, {
+    "tStartMs": 1663359,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "But I'm not such an evil person."
+    } ]
+  }, {
+    "tStartMs": 1666160,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "Everyone knows that, right?"
+    } ]
+  }, {
+    "tStartMs": 1669079,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "It was just a moment of that mindset"
+    } ]
+  }, {
+    "tStartMs": 1672119,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Growth hormones are really scary."
+    } ]
+  }, {
+    "tStartMs": 1675559,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I received a lot of awards like that when I was young."
+    } ]
+  }, {
+    "tStartMs": 1677839,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Like commendation awards"
+    } ]
+  }, {
+    "tStartMs": 1681519,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Taking care of friends and things like that, I"
+    } ]
+  }, {
+    "tStartMs": 1685839,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Did a lot of that as a responsibility"
+    } ]
+  }, {
+    "tStartMs": 1689119,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Friends who were hurting"
+    } ]
+  }, {
+    "tStartMs": 1691559,
+    "dDurationMs": 4601,
+    "segs": [ {
+      "utf8": "Friends who didn't quite fit in"
+    } ]
+  }, {
+    "tStartMs": 1696160,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I wanted to wrap things up nicely"
+    } ]
+  }, {
+    "tStartMs": 1699440,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "An episode that happened in middle school"
+    } ]
+  }, {
+    "tStartMs": 1701959,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Is there something like this, by any chance?"
+    } ]
+  }, {
+    "tStartMs": 1704519,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Ah, what just came to mind"
+    } ]
+  }, {
+    "tStartMs": 1706399,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "It's not really a big deal, but"
+    } ]
+  }, {
+    "tStartMs": 1708839,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "Back in middle school, we"
+    } ]
+  }, {
+    "tStartMs": 1711320,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "had singing tests like that."
+    } ]
+  }, {
+    "tStartMs": 1714559,
+    "dDurationMs": 1321,
+    "segs": [ {
+      "utf8": "You didn't have convenience stores?"
+    } ]
+  }, {
+    "tStartMs": 1715880,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "We had them during music class."
+    } ]
+  }, {
+    "tStartMs": 1717719,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "Yes, but when I talk with students,"
+    } ]
+  }, {
+    "tStartMs": 1720880,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "when they hear that there are singing tests,"
+    } ]
+  }, {
+    "tStartMs": 1723359,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "they get really surprised."
+    } ]
+  }, {
+    "tStartMs": 1726239,
+    "dDurationMs": 5081,
+    "segs": [ {
+      "utf8": "Korea doesn't have much of a dancing culture like that,"
+    } ]
+  }, {
+    "tStartMs": 1731320,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "but karaoke and singing,"
+    } ]
+  }, {
+    "tStartMs": 1733400,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "singing in front of people—"
+    } ]
+  }, {
+    "tStartMs": 1735280,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "when I mention things like that,"
+    } ]
+  }, {
+    "tStartMs": 1738440,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and even that there were tests at school,"
+    } ]
+  }, {
+    "tStartMs": 1740880,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "I've talked about things like that before."
+    } ]
+  }, {
+    "tStartMs": 1743479,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "I really hated it,"
+    } ]
+  }, {
+    "tStartMs": 1746520,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "and it wasn't even a Korean song."
+    } ]
+  }, {
+    "tStartMs": 1749599,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "A German song—do you know \"Ichi Liebedich\"?"
+    } ]
+  }, {
+    "tStartMs": 1751960,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Oh yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 1753440,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "We probably all learned the same ones."
+    } ]
+  }, {
+    "tStartMs": 1755119,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "So we memorized that"
+    } ]
+  }, {
+    "tStartMs": 1758520,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "and went up front"
+    } ]
+  }, {
+    "tStartMs": 1760400,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "and sang one by one."
+    } ]
+  }, {
+    "tStartMs": 1763080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I have a really terrible memory of it."
+    } ]
+  }, {
+    "tStartMs": 1765840,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "My memory of it is also terrible."
+    } ]
+  }, {
+    "tStartMs": 1768119,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "It's so nerve-wracking, you know?"
+    } ]
+  }, {
+    "tStartMs": 1771359,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "\"Ichi Liebedich\" and"
+    } ]
+  }, {
+    "tStartMs": 1773000,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "\"Ichi Liebedich\"—"
+    } ]
+  }, {
+    "tStartMs": 1774559,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "I think we sang something like \"Mina\" or something,"
+    } ]
+  }, {
+    "tStartMs": 1776960,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "I think we sang something like \"Saetaryeong,\""
+    } ]
+  }, {
+    "tStartMs": 1779039,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "\"When the sun rises on Ilchulbong,\""
+    } ]
+  }, {
+    "tStartMs": 1781159,
+    "dDurationMs": 841,
+    "segs": [ {
+      "utf8": "Is that it?"
+    } ]
+  }, {
+    "tStartMs": 1782000,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "\"When the sun rises on Ilchulbong, come find me\"—"
+    } ]
+  }, {
+    "tStartMs": 1786080,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Isn't it that?"
+    } ]
+  }, {
+    "tStartMs": 1786760,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Uh, is that it?"
+    } ]
+  }, {
+    "tStartMs": 1787960,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "It sounds like a song I've never heard before right now."
+    } ]
+  }, {
+    "tStartMs": 1790719,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "That's because I sang it."
+    } ]
+  }, {
+    "tStartMs": 1792080,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Ahahaha."
+    } ]
+  }, {
+    "tStartMs": 1794640,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Is there a song like that?"
+    } ]
+  }, {
+    "tStartMs": 1796239,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "Ahahaha."
+    } ]
+  }, {
+    "tStartMs": 1798320,
+    "dDurationMs": 1719,
+    "segs": [ {
+      "utf8": "Oh, it's a real song, but because I sang it,"
+    } ]
+  }, {
+    "tStartMs": 1801000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Like I mentioned in the elementary school episode before, I was in a choir."
+    } ]
+  }, {
+    "tStartMs": 1806000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "Back then my mom—my mother was also good at singing in choirs and vocal songs like that,"
+    } ]
+  }, {
+    "tStartMs": 1817000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "and it seems she had some ambition about that talent I had."
+    } ]
+  }, {
+    "tStartMs": 1824000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "So that boy was making sounds like the girls in the choir, raising his high notes."
+    } ]
+  }, {
+    "tStartMs": 1835000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So they sent me to the school choir,"
+    } ]
+  }, {
+    "tStartMs": 1841000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "and that choir won first place in a choir competition among schools in the neighborhood where Jecheon Elementary School was,"
+    } ]
+  }, {
+    "tStartMs": 1850000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and it seems we won first place in a wider region too."
+    } ]
+  }, {
+    "tStartMs": 1854000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So the next year, my choir also did a congratulatory performance at the competition."
+    } ]
+  }, {
+    "tStartMs": 1862000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You had quite a reputation."
+    } ]
+  }, {
+    "tStartMs": 1864000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So we performed with that choir a lot."
+    } ]
+  }, {
+    "tStartMs": 1868000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But the problem was that through that experience, I got so sick of singing"
+    } ]
+  }, {
+    "tStartMs": 1877000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that I closed my throat."
+    } ]
+  }, {
+    "tStartMs": 1880000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And when I entered middle school, I became interested in hip-hop, which had nothing to do with that,"
+    } ]
+  }, {
+    "tStartMs": 1886000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and I followed along with rap in a low voice."
+    } ]
+  }, {
+    "tStartMs": 1890000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So my voice changed during puberty, completely unrelated to singing."
+    } ]
+  }, {
+    "tStartMs": 1896000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Not that I'm good at rap either."
+    } ]
+  }, {
+    "tStartMs": 1898000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I really can't sing now."
+    } ]
+  }, {
+    "tStartMs": 1901000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? Suddenly?"
+    } ]
+  }, {
+    "tStartMs": 1903000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So I can't hit the high notes."
+    } ]
+  }, {
+    "tStartMs": 1905000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You were doing so well, and then you went through puberty?"
+    } ]
+  }, {
+    "tStartMs": 1908000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1909000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wow, that's interesting too."
+    } ]
+  }, {
+    "tStartMs": 1911000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "During those teenage years when your body is growing so much."
+    } ]
+  }, {
+    "tStartMs": 1915000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When you're getting taller and all that."
+    } ]
+  }, {
+    "tStartMs": 1917000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Your voice changes during that time too, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 1919000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What they call secondary sexual characteristics."
+    } ]
+  }, {
+    "tStartMs": 1922000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "A little kid gradually transforms into an adult body."
+    } ]
+  }, {
+    "tStartMs": 1927000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Your voice changes in that process."
+    } ]
+  }, {
+    "tStartMs": 1932000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "At first, my voice was really high and clear-sounding."
+    } ]
+  }, {
+    "tStartMs": 1936000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But it changed to the voice I have now."
+    } ]
+  }, {
+    "tStartMs": 1940000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So as a side effect, I can't hit high notes."
+    } ]
+  }, {
+    "tStartMs": 1944000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I can't raise my voice up high."
+    } ]
+  }, {
+    "tStartMs": 1948000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I can't sing well either."
+    } ]
+  }, {
+    "tStartMs": 1951000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's why I really hate noraebang."
+    } ]
+  }, {
+    "tStartMs": 1954000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1955000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1956000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you still not go now?"
+    } ]
+  }, {
+    "tStartMs": 1958000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's been several years since I've gone."
+    } ]
+  }, {
+    "tStartMs": 1960000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You could just sing hip-hop, right?"
+    } ]
+  }, {
+    "tStartMs": 1961000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I hate that too."
+    } ]
+  }, {
+    "tStartMs": 1963000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1964000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1965000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Anyway, so I also... I'll be happy."
+    } ]
+  }, {
+    "tStartMs": 1970000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The sunrise of Ilchulbong."
+    } ]
+  }, {
+    "tStartMs": 1972000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "All the kids in the class are listening to it, but I have to go up front and sing it, right?"
+    } ]
+  }, {
+    "tStartMs": 1977000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's the worst."
+    } ]
+  }, {
+    "tStartMs": 1979000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was really embarrassed back then."
+    } ]
+  }, {
+    "tStartMs": 1982000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1983000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1984000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What is that."
+    } ]
+  }, {
+    "tStartMs": 1985000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And the kids laugh when you can't do it."
+    } ]
+  }, {
+    "tStartMs": 1987000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1988000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If you mess up, they laugh."
+    } ]
+  }, {
+    "tStartMs": 1990000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But I don't think I was funny."
+    } ]
+  }, {
+    "tStartMs": 1993000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If they would just laugh it off."
+    } ]
+  }, {
+    "tStartMs": 1995000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If they would just laugh and move on, that would be better."
+    } ]
+  }, {
+    "tStartMs": 1997000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But the atmosphere gets heavy."
+    } ]
+  }, {
+    "tStartMs": 1999000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Like, how..."
+    } ]
+  }, {
+    "tStartMs": 2000000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How, how..."
+    } ]
+  }, {
+    "tStartMs": 2002000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Tae-woong like this?"
+    } ]
+  }, {
+    "tStartMs": 2005000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Because the kid is so kind."
+    } ]
+  }, {
+    "tStartMs": 2008000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Like, the kid is so gentle."
+    } ]
+  }, {
+    "tStartMs": 2012000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So the other kids can't really tease him."
+    } ]
+  }, {
+    "tStartMs": 2016000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2017000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like, it gets heavy."
+    } ]
+  }, {
+    "tStartMs": 2019000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Wow, middle school is nothing but trauma."
+    } ]
+  }, {
+    "tStartMs": 2022000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm left with only scars."
+    } ]
+  }, {
+    "tStartMs": 2023000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "All tattered."
+    } ]
+  }, {
+    "tStartMs": 2024000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2025000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Now I'll wrap this up."
+    } ]
+  }, {
+    "tStartMs": 2028000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes, let's end it here."
+    } ]
+  }, {
+    "tStartMs": 2031000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Please let us know in the comments what your middle school life was like."
+    } ]
+  }, {
+    "tStartMs": 2035000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And comfort us."
+    } ]
+  }, {
+    "tStartMs": 2036000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Tell us that you all went through this too."
+    } ]
+  }, {
+    "tStartMs": 2040000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Still, we'll come back with a better high school episode next time."
+    } ]
+  }, {
+    "tStartMs": 2044000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, sounds good."
+    } ]
+  }, {
+    "tStartMs": 2046000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So that's it for Didi and"
+    } ]
+  }, {
+    "tStartMs": 2048000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2051000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 2052000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

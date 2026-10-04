@@ -1,0 +1,2593 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "디디와 정태웅의 한국생활 요모조모"
+    } ]
+  }, {
+    "tStartMs": 9400,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "안녕하세요 디디입니다."
+    } ]
+  }, {
+    "tStartMs": 11360,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "안녕하세요 정태웅입니다."
+    } ]
+  }, {
+    "tStartMs": 13600,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "한국생활 요모조모는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다."
+    } ]
+  }, {
+    "tStartMs": 20840,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "네, 오늘은 두 번째로 이렇게 얼굴을 함께 찍고 있습니다."
+    } ]
+  }, {
+    "tStartMs": 25600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "영상과 함께하는 팟캐스트고요."
+    } ]
+  }, {
+    "tStartMs": 28200,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "오늘의 주제는 어떤 거였죠?"
+    } ]
+  }, {
+    "tStartMs": 30719,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "오늘의 주제는 운동입니다."
+    } ]
+  }, {
+    "tStartMs": 33959,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "운동이라... 운동이라..."
+    } ]
+  }, {
+    "tStartMs": 37080,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "운동은 꼭 해야 되는 거지만 너무너무 하기 싫은 건데, 저한테는."
+    } ]
+  }, {
+    "tStartMs": 44520,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "태웅쌤은 요즘 운동 많이 하시나요?"
+    } ]
+  }, {
+    "tStartMs": 47560,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "아니요."
+    } ]
+  }, {
+    "tStartMs": 48200,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "작년에는 많이 했잖아요."
+    } ]
+  }, {
+    "tStartMs": 50720,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "아니요 나왔습니다."
+    } ]
+  }, {
+    "tStartMs": 51880,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "네, 작년에는 많이 했죠."
+    } ]
+  }, {
+    "tStartMs": 54360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "지금은 운동 부족입니다."
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "아예 안 해요?"
+    } ]
+  }, {
+    "tStartMs": 58439,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "조금은 해요. 진짜 조금. 안 하는 것과 다름없는 조금."
+    } ]
+  }, {
+    "tStartMs": 62320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "어떻게 해요? 뭐 해요? 조금이라도?"
+    } ]
+  }, {
+    "tStartMs": 65320,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "아침에 집 앞에 공원에 산책하러 가서요."
+    } ]
+  }, {
+    "tStartMs": 70959,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "턱걸이, 풀업."
+    } ]
+  }, {
+    "tStartMs": 73239,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "그거 한 대여섯 개?"
+    } ]
+  }, {
+    "tStartMs": 76320,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "그리고 돌아옵니다."
+    } ]
+  }, {
+    "tStartMs": 80199,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "운동 끝."
+    } ]
+  }, {
+    "tStartMs": 81120,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "운동 끝."
+    } ]
+  }, {
+    "tStartMs": 83040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오늘도 하셨어요?"
+    } ]
+  }, {
+    "tStartMs": 84040,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "오늘도 했죠."
+    } ]
+  }, {
+    "tStartMs": 86040,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "그래도 나가는 게 어딥니까."
+    } ]
+  }, {
+    "tStartMs": 88360,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "아, 진짜 그거라도 안 하면 안 될 것 같아서 억지로 하고 있어요."
+    } ]
+  }, {
+    "tStartMs": 93839,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "올해는 왜 이렇게 안 하게 됐어요?"
+    } ]
+  }, {
+    "tStartMs": 97599,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "작년에 너무 열심히 해서."
+    } ]
+  }, {
+    "tStartMs": 100239,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "번아웃?"
+    } ]
+  }, {
+    "tStartMs": 102160,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "번아웃이랑 비슷한 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 106959,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "그리고 한 번 안 해볼까? 이런 생각이."
+    } ]
+  }, {
+    "tStartMs": 110879,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "안 하면 어떻게 되지?"
+    } ]
+  }, {
+    "tStartMs": 112239,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "안 하면 어떻게 되지?"
+    } ]
+  }, {
+    "tStartMs": 114320,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "진짜 사람들 말처럼 운동 꾸준히 하는 게 큰 차이가 있나?"
+    } ]
+  }, {
+    "tStartMs": 119959,
+    "dDurationMs": 5081,
+    "segs": [ {
+      "utf8": "그래서 한 번 실험을 해봤어요."
+    } ]
+  }, {
+    "tStartMs": 125040,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "어떤가요? 5개월이 지난 지금 운동을 안 하니까 변화가 느껴져요?"
+    } ]
+  }, {
+    "tStartMs": 134080,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "사실 단정지여서 딱 하나 때문에 인생이 좋다, 안 좋다라고 얘기할 수는 없는 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 142360,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "그럼에도 불구하고 운동은 꾸준히 하는 게 좋은 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 148600,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "그렇다고 합니다."
+    } ]
+  }, {
+    "tStartMs": 151279,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "열심히 하는 게 좋죠."
+    } ]
+  }, {
+    "tStartMs": 154960,
+    "dDurationMs": 14879,
+    "segs": [ {
+      "utf8": "그러면 지금까지 제일 나한테 잘 맞다 생각했던 운동이 있었어요, 태용쌤은?"
+    } ]
+  }, {
+    "tStartMs": 169839,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "없는 것 같습니다."
+    } ]
+  }, {
+    "tStartMs": 172160,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "운동은 잘 맞는 게 아닙니다. 그냥 하는 겁니다."
+    } ]
+  }, {
+    "tStartMs": 175080,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "네, 그냥 하는 거예요."
+    } ]
+  }, {
+    "tStartMs": 176639,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "그렇구나."
+    } ]
+  }, {
+    "tStartMs": 178720,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "그러면 돈을 내고 배워봤거나 하는 운동은 없어요?"
+    } ]
+  }, {
+    "tStartMs": 184199,
+    "dDurationMs": 6881,
+    "segs": [ {
+      "utf8": "배워본 건… 저의 의지로 배워본 건 없는 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 191080,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "어릴 때 태권도를 배웠으니까."
+    } ]
+  }, {
+    "tStartMs": 195919,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "근데 그거 말고는 딱히 없는 것 같은데."
+    } ]
+  }, {
+    "tStartMs": 200479,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "헬스장은요?"
+    } ]
+  }, {
+    "tStartMs": 202199,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "헬스장도 스무 살 때부터 갔었는데요."
+    } ]
+  }, {
+    "tStartMs": 209399,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "PT라고 하는 Personal Training. 그건 한 번도 안 받아 봤어요."
+    } ]
+  }, {
+    "tStartMs": 214039,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그럼 어떻게 알고 했어요?"
+    } ]
+  }, {
+    "tStartMs": 217039,
+    "dDurationMs": 7961,
+    "segs": [ {
+      "utf8": "말을 헷갈리게 해서 죄송한데 PT를 돈 내고 받은 적은 없는데"
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "제가 그렇게 스무 살 때 처음 갔던 헬스장에서"
+    } ]
+  }, {
+    "tStartMs": 229360,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "거기 일하고 계시던 트레이너 선생님이"
+    } ]
+  }, {
+    "tStartMs": 232479,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "그냥 제가 운동하는 걸 보고 가르쳐 주셨어요. 한동안."
+    } ]
+  }, {
+    "tStartMs": 237240,
+    "dDurationMs": 879,
+    "segs": [ {
+      "utf8": "공짜다!"
+    } ]
+  }, {
+    "tStartMs": 238119,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "진짜 좋았어요."
+    } ]
+  }, {
+    "tStartMs": 239720,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "우와, 왜 가르쳐 주고 싶었을까?"
+    } ]
+  }, {
+    "tStartMs": 243399,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "너무 이상하게 하고 있어서."
+    } ]
+  }, {
+    "tStartMs": 245240,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "아, 그건 아니고."
+    } ]
+  }, {
+    "tStartMs": 246559,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "그렇게 하면 다쳐요."
+    } ]
+  }, {
+    "tStartMs": 248960,
+    "dDurationMs": 7279,
+    "segs": [ {
+      "utf8": "되게 지금 생각하면… 이게 무슨 느낌이지?"
+    } ]
+  }, {
+    "tStartMs": 256239,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "좀 찡하다고 해야 되나?"
+    } ]
+  }, {
+    "tStartMs": 261399,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "짠한 거?"
+    } ]
+  }, {
+    "tStartMs": 262200,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "짠하다고 해야 되나?"
+    } ]
+  }, {
+    "tStartMs": 263920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "아니, 그렇다기엔 좀 좋은 기억인데"
+    } ]
+  }, {
+    "tStartMs": 268720,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "제가 몸이 어릴 때부터 되게 많이 약했거든요."
+    } ]
+  }, {
+    "tStartMs": 272200,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "체격도 왜소하고."
+    } ]
+  }, {
+    "tStartMs": 273839,
+    "dDurationMs": 6321,
+    "segs": [ {
+      "utf8": "그리고 또 중고등학생 때 큰 수술을 여러 번 받은 적이 있어서"
+    } ]
+  }, {
+    "tStartMs": 280160,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "몸이 엄청 약했어요."
+    } ]
+  }, {
+    "tStartMs": 282519,
+    "dDurationMs": 3641,
+    "segs": [ {
+      "utf8": "그렇게 고등학교를 졸업할 때까지도 그랬는데"
+    } ]
+  }, {
+    "tStartMs": 286160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "어머니께서 제가 스무 살인가 스물한 살 때"
+    } ]
+  }, {
+    "tStartMs": 292160,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "제가 수술 기록 때문에 군대를 공익근무로 가긴 했지만"
+    } ]
+  }, {
+    "tStartMs": 299160,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "그래도 훈련소에 가야 되는데"
+    } ]
+  }, {
+    "tStartMs": 301559,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "얘가 몸이 너무 약하니까"
+    } ]
+  }, {
+    "tStartMs": 303959,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "이대로 훈련소에 보냈다가"
+    } ]
+  }, {
+    "tStartMs": 306440,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "뭐 또 못하고 그렇게 힘들게 지낼까 봐"
+    } ]
+  }, {
+    "tStartMs": 312000,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "그렇게 어머니께서 저를 헬스장에 데리고 가셨어요."
+    } ]
+  }, {
+    "tStartMs": 316399,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "우와, 그럴 수 있죠."
+    } ]
+  }, {
+    "tStartMs": 319679,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "등록할 때 돈도 내고 하니까"
+    } ]
+  }, {
+    "tStartMs": 322160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "그러면서 그때 계시던 선생님한테"
+    } ]
+  }, {
+    "tStartMs": 325320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "얘가 몸이 너무 약하고 운동도 제대로…"
+    } ]
+  }, {
+    "tStartMs": 331480,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "태권도를 하긴 했지만"
+    } ]
+  }, {
+    "tStartMs": 333160,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "근데 뭐 그래서 좀 군대 보내기 전에"
+    } ]
+  }, {
+    "tStartMs": 337200,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "훈련소 보내기 전에 좀 제대로 운동을 시켜야 할 것 같다."
+    } ]
+  }, {
+    "tStartMs": 341720,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "그래서 등록한다고 얘기를 하고 등록을 했어요."
+    } ]
+  }, {
+    "tStartMs": 346480,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "그랬는데 얼마나 어린 남자애가 귀엽게 보였겠어요."
+    } ]
+  }, {
+    "tStartMs": 353040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "그리고 짠했겠어요, 얼마나."
+    } ]
+  }, {
+    "tStartMs": 355200,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "몸이 약해서 이렇게 하니까."
+    } ]
+  }, {
+    "tStartMs": 357559,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "네, 그래서 제가 매일 새벽 아침에 헬스장을 갔는데"
+    } ]
+  }, {
+    "tStartMs": 363359,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "그 트레이너 선생님께서 저를 아주 전담해서"
+    } ]
+  }, {
+    "tStartMs": 367079,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "우와, 최고다."
+    } ]
+  }, {
+    "tStartMs": 368720,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "네, 많은 운동을 가르쳐 주셨어요."
+    } ]
+  }, {
+    "tStartMs": 373640,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "너무 좋은 곳을 만났네요."
+    } ]
+  }, {
+    "tStartMs": 376119,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "네, 진짜 제 삶의 몇몇 귀인 분들 중에 한 분입니다."
+    } ]
+  }, {
+    "tStartMs": 382359,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "우와, 보통 몸이 약해서요, 이러면"
+    } ]
+  }, {
+    "tStartMs": 385480,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "아, 그러면 저희 퍼스널 트레이닝 코스 이렇게 있고요."
+    } ]
+  }, {
+    "tStartMs": 389440,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "하면서 안내해 주실 수도 있는데"
+    } ]
+  }, {
+    "tStartMs": 392519,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "해주셨구나."
+    } ]
+  }, {
+    "tStartMs": 394480,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "네, 되게 특이한, 그분도 되게 특이한 사람이었어요."
+    } ]
+  }, {
+    "tStartMs": 399000,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "아, 그래요?"
+    } ]
+  }, {
+    "tStartMs": 400040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "네, 전업으로 운동을 하시는 분이 아니고"
+    } ]
+  }, {
+    "tStartMs": 403320,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "원래 개인 비즈니스를 하던 사람인데"
+    } ]
+  }, {
+    "tStartMs": 406880,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "미국에서 일을 하다가 한국으로 돌아왔는데"
+    } ]
+  }, {
+    "tStartMs": 410559,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "자기가 운동하는 걸 그냥 좋아하고"
+    } ]
+  }, {
+    "tStartMs": 414079,
+    "dDurationMs": 5241,
+    "segs": [ {
+      "utf8": "그런데 자기의 현재 생활 습관이"
+    } ]
+  }, {
+    "tStartMs": 419320,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "좀 아침형 인간이면 좋을 것 같아서"
+    } ]
+  }, {
+    "tStartMs": 422799,
+    "dDurationMs": 6841,
+    "segs": [ {
+      "utf8": "일부러 새벽에 오픈하는 그 헬스장 카운터를 자기가 지원해서"
+    } ]
+  }, {
+    "tStartMs": 429640,
+    "dDurationMs": 4879,
+    "segs": [ {
+      "utf8": "자기가 헬스장 문을 오픈하려면 일찍 일어나야 하니까"
+    } ]
+  }, {
+    "tStartMs": 434519,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "그래서 오전에만 그렇게 일하다가 퇴근하던 분이었어요."
+    } ]
+  }, {
+    "tStartMs": 439320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "그리고 자기 운동하고 저 같은 사람 도와주고"
+    } ]
+  }, {
+    "tStartMs": 443440,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "PT 그런 거 돈 받고 안 하고"
+    } ]
+  }, {
+    "tStartMs": 446600,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "진짜 특이한 사람이었어요."
+    } ]
+  }, {
+    "tStartMs": 447880,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "그러네요, 특이하다."
+    } ]
+  }, {
+    "tStartMs": 450839,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "의지가 대단하다, 그래도."
+    } ]
+  }, {
+    "tStartMs": 452640,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "네, 저의 가치관에 좀 큰 영향을 준 사람입니다."
+    } ]
+  }, {
+    "tStartMs": 456279,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "오, 그래요? 꽤 오래 했어요, 그래도?"
+    } ]
+  }, {
+    "tStartMs": 459640,
+    "dDurationMs": 4719,
+    "segs": [ {
+      "utf8": "네, 그래도 꽤 몇 달 넘게, 한 6개월은 한 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 464359,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "대박."
+    } ]
+  }, {
+    "tStartMs": 465559,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "그때 배웠구나, 헬스 기구 같은 거는?"
+    } ]
+  }, {
+    "tStartMs": 468320,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 471480,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "아무튼 다시 운동 얘기로 돌아가서"
+    } ]
+  }, {
+    "tStartMs": 476399,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "그거 말고는 딱히 없는 것 같은데요?"
+    } ]
+  }, {
+    "tStartMs": 478760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "배운 건 없어요?"
+    } ]
+  }, {
+    "tStartMs": 480160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 482160,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "저는 운동을 너무 싫어하는 사람으로서"
+    } ]
+  }, {
+    "tStartMs": 487160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "뭐 돈 내면 하겠지 하는 마음으로 여러 가지 도전해 봤거든요."
+    } ]
+  }, {
+    "tStartMs": 492760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "일단 어렸을 때 배웠던 거는 수영을 좀 오래 배웠고"
+    } ]
+  }, {
+    "tStartMs": 497160,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "그건 부모님이 보내신 거고"
+    } ]
+  }, {
+    "tStartMs": 500559,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "성인이 돼서는 PT 이런 것도 해봤어요, 잠깐."
+    } ]
+  }, {
+    "tStartMs": 505839,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "해봤고, 요가 해봤고"
+    } ]
+  }, {
+    "tStartMs": 509440,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "스쿼트라고 테니스 같은 거 있거든요."
+    } ]
+  }, {
+    "tStartMs": 513719,
+    "dDurationMs": 4361,
+    "segs": [ {
+      "utf8": "공 요만한 걸로 하는 테니스, 그것도 잠깐 배웠고"
+    } ]
+  }, {
+    "tStartMs": 518080,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "멋있다."
+    } ]
+  }, {
+    "tStartMs": 519760,
+    "dDurationMs": 4359,
+    "segs": [ {
+      "utf8": "잘하면 멋있는데, 잠깐 배웠어요."
+    } ]
+  }, {
+    "tStartMs": 524119,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "그리고, 그리고는 없다."
+    } ]
+  }, {
+    "tStartMs": 529280,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "배워봤는데"
+    } ]
+  }, {
+    "tStartMs": 530760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "어때요?"
+    } ]
+  }, {
+    "tStartMs": 533520,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "그것도 돈을 내고도 안 가게 되기도 하잖아요."
+    } ]
+  }, {
+    "tStartMs": 539520,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "뭐라 해야 되지?"
+    } ]
+  }, {
+    "tStartMs": 541320,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "강제성이 부족해요."
+    } ]
+  }, {
+    "tStartMs": 543520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "돈을 내고 가는데도요?"
+    } ]
+  }, {
+    "tStartMs": 546080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "뭔가 안 가면 그만이에요."
+    } ]
+  }, {
+    "tStartMs": 549440,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "뭐 아까 내가 안 가면 헬스장 문을 못 여니까"
+    } ]
+  }, {
+    "tStartMs": 552919,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "하는 그런 것이 없고"
+    } ]
+  }, {
+    "tStartMs": 555320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "그냥 안 가면 나만 손해니까"
+    } ]
+  }, {
+    "tStartMs": 559280,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "그것도 포기하기가 쉬워요."
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "그래서 운동의 습관을 들이진 못했지만"
+    } ]
+  }, {
+    "tStartMs": 567960,
+    "dDurationMs": 2839,
+    "segs": [ {
+      "utf8": "가서 막상 하면 재미있기 때문에"
+    } ]
+  }, {
+    "tStartMs": 570799,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "가서 할 때는 재미있게 했어요."
+    } ]
+  }, {
+    "tStartMs": 572359,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "요가도 재미있었고, 스쿼트도 재미있었어요."
+    } ]
+  }, {
+    "tStartMs": 576840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "수영도 가서 하면 재미있죠."
+    } ]
+  }, {
+    "tStartMs": 581080,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "아니, 재미있는데"
+    } ]
+  }, {
+    "tStartMs": 583520,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "하러 가기가 귀찮아요. 하러 가기가"
+    } ]
+  }, {
+    "tStartMs": 587640,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "그 준비 과정"
+    } ]
+  }, {
+    "tStartMs": 589320,
+    "dDurationMs": 1279,
+    "segs": [ {
+      "utf8": "그렇구나"
+    } ]
+  }, {
+    "tStartMs": 590599,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "그래도 겨울보다는 여름이 나은 게"
+    } ]
+  }, {
+    "tStartMs": 593799,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "겨울에는 막 옷을 몇 개를 껴입어야 되잖아요."
+    } ]
+  }, {
+    "tStartMs": 597280,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "운동을 하러 가려면"
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "모든 과정, 너무 귀찮은데 여름은 그래도 티셔츠, 바지 입고 나가면 되니까"
+    } ]
+  }, {
+    "tStartMs": 607000,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "제가 그나마 운동을 하는 시즌이 지금이에요, 지금."
+    } ]
+  }, {
+    "tStartMs": 612640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "조금이라도 귀찮음이 덜 날 때."
+    } ]
+  }, {
+    "tStartMs": 617440,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "요즘 아파트 안에 헬스장 있고 수영장 있는 곳들도 있잖아요."
+    } ]
+  }, {
+    "tStartMs": 623040,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "그런 곳도 있죠."
+    } ]
+  }, {
+    "tStartMs": 624200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "만약에 그런 곳에 살면 좀 도움이 될까요?"
+    } ]
+  }, {
+    "tStartMs": 628840,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "제가 생각해 본 건데 같이 할 사람이 있으면 잘할 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 634560,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "자주 나가게 될 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 636919,
+    "dDurationMs": 5921,
+    "segs": [ {
+      "utf8": "가자 가자 같이 가자 하는 누군가가 있으면"
+    } ]
+  }, {
+    "tStartMs": 642840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "좀 더 나가게 되지 않을까요? 혼자 하는 것보다는?"
+    } ]
+  }, {
+    "tStartMs": 648680,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "운동 메이트가 있었으면 좋겠다."
+    } ]
+  }, {
+    "tStartMs": 651919,
+    "dDurationMs": 7961,
+    "segs": [ {
+      "utf8": "맞아요. 그런 것 때문에 러닝크루 하고 동호회 하고 그런 거겠죠?"
+    } ]
+  }, {
+    "tStartMs": 659880,
+    "dDurationMs": 7079,
+    "segs": [ {
+      "utf8": "맞죠. 요즘 좀 흥미가 있는 아니면 배워보고 싶은 운동은 없어요?"
+    } ]
+  }, {
+    "tStartMs": 666959,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "해볼까 하는 운동."
+    } ]
+  }, {
+    "tStartMs": 669160,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "요즘 따로 있는 건 없는데 저는 운동에 관심은 많거든요."
+    } ]
+  }, {
+    "tStartMs": 676440,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "선망하는 운동들이 많아요."
+    } ]
+  }, {
+    "tStartMs": 679400,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "네, 어떤 게 있어요?"
+    } ]
+  }, {
+    "tStartMs": 680720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "대표적으로 수영."
+    } ]
+  }, {
+    "tStartMs": 683320,
+    "dDurationMs": 6319,
+    "segs": [ {
+      "utf8": "저는 수영을 어릴 때부터 안 배워서 할 줄 몰라요."
+    } ]
+  }, {
+    "tStartMs": 689639,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "오케이, 수영."
+    } ]
+  }, {
+    "tStartMs": 690559,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "네, 배우면 너무 좋을 것 같고."
+    } ]
+  }, {
+    "tStartMs": 692760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "너무 좋을 거예요."
+    } ]
+  }, {
+    "tStartMs": 695000,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "부산이잖아요, 그럼."
+    } ]
+  }, {
+    "tStartMs": 696599,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "맞아요."
+    } ]
+  }, {
+    "tStartMs": 698360,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "그리고 클라이밍."
+    } ]
+  }, {
+    "tStartMs": 701839,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "네, 클라이밍은 한 번 해본 적은 있어요."
+    } ]
+  }, {
+    "tStartMs": 705639,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "근데 재밌더라고요."
+    } ]
+  }, {
+    "tStartMs": 708599,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "그리고 좀 저랑 잘 맞는 운동인 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 712279,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "잘은 모르지만 아직."
+    } ]
+  }, {
+    "tStartMs": 714239,
+    "dDurationMs": 6921,
+    "segs": [ {
+      "utf8": "그냥 뭐 저의 체형과 그런 걸 고려했을 때 좀 유리한 종목인 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 721160,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "네, 그다음에는 저는 복싱, 킥복싱."
+    } ]
+  }, {
+    "tStartMs": 727040,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "킥복싱을 배우고 싶고."
+    } ]
+  }, {
+    "tStartMs": 728839,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "저도."
+    } ]
+  }, {
+    "tStartMs": 729559,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "네, 그다음에 주짓수."
+    } ]
+  }, {
+    "tStartMs": 732960,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "주짓수도 많이 배우더라고요, 요즘."
+    } ]
+  }, {
+    "tStartMs": 735160,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "네, 킥복싱과 주짓수 외에 레슬링까지 배우면"
+    } ]
+  }, {
+    "tStartMs": 743320,
+    "dDurationMs": 9879,
+    "segs": [ {
+      "utf8": "그러면 맨몸으로는 좀 당할 자가 없지 않을까 싶은데."
+    } ]
+  }, {
+    "tStartMs": 753199,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "운동이 많이 돼서 궁금해요, 그 마지막 세 개."
+    } ]
+  }, {
+    "tStartMs": 757199,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "킥복싱, 주짓수 이런 것들?"
+    } ]
+  }, {
+    "tStartMs": 762839,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "아니면 강해지기 위해?"
+    } ]
+  }, {
+    "tStartMs": 764360,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "강해지기 위해."
+    } ]
+  }, {
+    "tStartMs": 765520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아, 진짜요?"
+    } ]
+  }, {
+    "tStartMs": 767520,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "아니, 싸울 일이 언제가 있지 않잖아요."
+    } ]
+  }, {
+    "tStartMs": 770479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그걸 하면 싸울 일이 많겠죠."
+    } ]
+  }, {
+    "tStartMs": 774479,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "자신감을 얻어서."
+    } ]
+  }, {
+    "tStartMs": 776119,
+    "dDurationMs": 4401,
+    "segs": [ {
+      "utf8": "아니, 그걸 배워서 밖에서 싸운다는 게 아니고."
+    } ]
+  }, {
+    "tStartMs": 780520,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "아, 네네네."
+    } ]
+  }, {
+    "tStartMs": 781839,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "그 체육관 스파링에서 가짜 싸움을 해보겠죠."
+    } ]
+  }, {
+    "tStartMs": 788759,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "해보고 싶어요?"
+    } ]
+  }, {
+    "tStartMs": 790320,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "되게 긴장될 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 792720,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "전 그래서 해보고 싶어요."
+    } ]
+  }, {
+    "tStartMs": 794919,
+    "dDurationMs": 8041,
+    "segs": [ {
+      "utf8": "전 킥복싱 배우더라도 스파링은 안 하고 그냥 운동만 하고 싶어요."
+    } ]
+  }, {
+    "tStartMs": 802960,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "지면 슬프잖아요."
+    } ]
+  }, {
+    "tStartMs": 806199,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "근데 사람이 안 지고 살 수는 없잖아요."
+    } ]
+  }, {
+    "tStartMs": 811919,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "사람이 계속 질 때도 있고 계속 이길 때도 있는데"
+    } ]
+  }, {
+    "tStartMs": 814679,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "그러니까 지고 이기고를 반복하는데"
+    } ]
+  }, {
+    "tStartMs": 818080,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "그래서 많이 질 수 있는 활동을 하는 게 좋지 않을까 하는 생각이 들어요."
+    } ]
+  }, {
+    "tStartMs": 826160,
+    "dDurationMs": 4959,
+    "segs": [ {
+      "utf8": "스포츠 좋아하시는 분들 보면 막 이해가 안 되는 게"
+    } ]
+  }, {
+    "tStartMs": 831119,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "팀 지면 엄청 스트레스 받고 슬퍼하고 이러잖아요."
+    } ]
+  }, {
+    "tStartMs": 835839,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "왜 그거를 볼까 싶었는데"
+    } ]
+  }, {
+    "tStartMs": 839720,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "한 번 이길 때의 그 성취감?"
+    } ]
+  }, {
+    "tStartMs": 844119,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "그 짜릿함을 위해서 보시는 것 같더라고요."
+    } ]
+  }, {
+    "tStartMs": 849039,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "그렇구나."
+    } ]
+  }, {
+    "tStartMs": 850800,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "디디님은 그래서 배우고 싶은 게 없나요? 관심 있는 거 요즘?"
+    } ]
+  }, {
+    "tStartMs": 854919,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "킥복싱 궁금했어요. 킥복싱."
+    } ]
+  }, {
+    "tStartMs": 859119,
+    "dDurationMs": 7361,
+    "segs": [ {
+      "utf8": "운동을 진짜 빡세게 강하게 시켜주신다고 했고"
+    } ]
+  }, {
+    "tStartMs": 866480,
+    "dDurationMs": 4879,
+    "segs": [ {
+      "utf8": "재밌게 배웠다는 후기들을 많이 들어서 가보고 싶은데"
+    } ]
+  }, {
+    "tStartMs": 871359,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "집 주변에는 복싱만 있더라고요."
+    } ]
+  }, {
+    "tStartMs": 875279,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "근데 또 복싱보다는 킥복싱이 좋다고 들긴 했어요."
+    } ]
+  }, {
+    "tStartMs": 881679,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "다리 운동도 하니까."
+    } ]
+  }, {
+    "tStartMs": 883160,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "발차기도 해야죠."
+    } ]
+  }, {
+    "tStartMs": 885440,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "필라테스도 해보고 싶어요."
+    } ]
+  }, {
+    "tStartMs": 887679,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "필라테스?"
+    } ]
+  }, {
+    "tStartMs": 889559,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "돈을 나중에 많이 벌면 1대1 필라테스 해보고 싶어요."
+    } ]
+  }, {
+    "tStartMs": 894679,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "정말 딱 제 몸에 맞는 강도와 자세로."
+    } ]
+  }, {
+    "tStartMs": 901239,
+    "dDurationMs": 5361,
+    "segs": [ {
+      "utf8": "그거 아시나요? 필라테스가 사람 이름이라는 거?"
+    } ]
+  }, {
+    "tStartMs": 906600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "그래요?"
+    } ]
+  }, {
+    "tStartMs": 908720,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "조셉 필라테스인가?"
+    } ]
+  }, {
+    "tStartMs": 911399,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "개발한 사람 이름이에요?"
+    } ]
+  }, {
+    "tStartMs": 912920,
+    "dDurationMs": 6359,
+    "segs": [ {
+      "utf8": "네. 그리고 아까 이름에서 알다시피 남자예요."
+    } ]
+  }, {
+    "tStartMs": 919279,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "남자가 만든 운동입니다."
+    } ]
+  }, {
+    "tStartMs": 920920,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "그건 들어본 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 925399,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "근데 한국에서는 여자들이 하는 이미지가 있어요."
+    } ]
+  }, {
+    "tStartMs": 928839,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "맞아요."
+    } ]
+  }, {
+    "tStartMs": 931000,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "예쁜 여자 선생님이 가르쳐 줄 것 같은 이미지."
+    } ]
+  }, {
+    "tStartMs": 934679,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "좋지 않은 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 936040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "왜요?"
+    } ]
+  }, {
+    "tStartMs": 938200,
+    "dDurationMs": 639,
+    "segs": [ {
+      "utf8": "왜?"
+    } ]
+  }, {
+    "tStartMs": 938839,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "아니 그냥 그런 이미지가 있다는 것 자체가."
+    } ]
+  }, {
+    "tStartMs": 941119,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "아 그러네요. 남자들이 하기가 어려울 수도 있겠네요."
+    } ]
+  }, {
+    "tStartMs": 945839,
+    "dDurationMs": 1881,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 947720,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "되게 좋다는데 필라테스."
+    } ]
+  }, {
+    "tStartMs": 949399,
+    "dDurationMs": 5321,
+    "segs": [ {
+      "utf8": "근데 남녀에 상관없이 장점이 많은 운동들인데 모든 운동이 그렇잖아요?"
+    } ]
+  }, {
+    "tStartMs": 954720,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "네. 아."
+    } ]
+  }, {
+    "tStartMs": 956480,
+    "dDurationMs": 6079,
+    "segs": [ {
+      "utf8": "근데 예를 들어 한국에서 달리기는 남자들만 하는 거야."
+    } ]
+  }, {
+    "tStartMs": 962559,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "이런 인식이 있다면 굉장한 문제잖아요."
+    } ]
+  }, {
+    "tStartMs": 966720,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "그러네요. 문제를 발견했다."
+    } ]
+  }, {
+    "tStartMs": 969440,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 970559,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "의외로 남자들만 하는 운동 이런 거는 많이 없는 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 975040,
+    "dDurationMs": 3359,
+    "segs": [ {
+      "utf8": "남자들만 하는 운동이 요새 있나?"
+    } ]
+  }, {
+    "tStartMs": 978399,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "보통 구기 종목은 여자들은 잘 안 하는 게 어릴 때부터 있었어요."
+    } ]
+  }, {
+    "tStartMs": 985679,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "아 그렇네요."
+    } ]
+  }, {
+    "tStartMs": 989200,
+    "dDurationMs": 11680,
+    "segs": [ {
+      "utf8": "근데 뭐 몇 년 전이랑 비교하면 이제 헬스, 피트닉, 웨이트 트레이닝 그것도 이제는 그런 편견이 없어졌잖아요."
+    } ]
+  }, {
+    "tStartMs": 1000880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "맞아요."
+    } ]
+  }, {
+    "tStartMs": 1004720,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "차차 없어질 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 1005959,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "차차 없어지겠죠."
+    } ]
+  }, {
+    "tStartMs": 1008000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "그리고 여성 전용 뭐 이런 것들이 많아서."
+    } ]
+  }, {
+    "tStartMs": 1013200,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "맞아요. 여성 전용 헬스장이 있더라고요."
+    } ]
+  }, {
+    "tStartMs": 1015399,
+    "dDurationMs": 6801,
+    "segs": [ {
+      "utf8": "여성 전용 헬스장, 여성 전용 요가, 여성 전용 필라테스 이런 것들이 좀 있어요."
+    } ]
+  }, {
+    "tStartMs": 1022200,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "가봤어요?"
+    } ]
+  }, {
+    "tStartMs": 1023839,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "전 사실 그게 좋아요."
+    } ]
+  }, {
+    "tStartMs": 1027359,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "PT 받은 것도 여성 전용이었고 요가도 여성 전용으로 갔어요."
+    } ]
+  }, {
+    "tStartMs": 1033000,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "제가 여성 전용 PT를 받았거든요."
+    } ]
+  }, {
+    "tStartMs": 1036079,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "여성 전용 헬스장에 있는 PT를 받았거든요."
+    } ]
+  }, {
+    "tStartMs": 1040119,
+    "dDurationMs": 5361,
+    "segs": [ {
+      "utf8": "근데 또 트레이너들은 남자더라고요."
+    } ]
+  }, {
+    "tStartMs": 1045480,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "그래서 저 하다 그만뒀어요."
+    } ]
+  }, {
+    "tStartMs": 1050320,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "환불받았어요, 환불."
+    } ]
+  }, {
+    "tStartMs": 1051799,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "좀 모순이 있네요."
+    } ]
+  }, {
+    "tStartMs": 1053279,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "좀 그런 게 불편해서, 뭐가 불편한 거지?"
+    } ]
+  }, {
+    "tStartMs": 1057559,
+    "dDurationMs": 7881,
+    "segs": [ {
+      "utf8": "그냥 아무 신경을 안 쓰고 싶은데 뭔가 신경 쓸 일이 생기는 거?"
+    } ]
+  }, {
+    "tStartMs": 1065440,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "여성 전용 헬스장인데 트레이너들은 남자다."
+    } ]
+  }, {
+    "tStartMs": 1071040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "PT 할 때, 쉴 때 있잖아요."
+    } ]
+  }, {
+    "tStartMs": 1076200,
+    "dDurationMs": 7879,
+    "segs": [ {
+      "utf8": "그럴 때 나누는 얘기들, 이런 것도 재미도 없었고."
+    } ]
+  }, {
+    "tStartMs": 1084079,
+    "dDurationMs": 4121,
+    "segs": [ {
+      "utf8": "별로였어요, 저는. 그 경험이."
+    } ]
+  }, {
+    "tStartMs": 1088200,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "수영 좋아요, 수영."
+    } ]
+  }, {
+    "tStartMs": 1089640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "수영?"
+    } ]
+  }, {
+    "tStartMs": 1092720,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "수영 진짜 꼭 배우고 싶습니다."
+    } ]
+  }, {
+    "tStartMs": 1095760,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "올 여름 어때요?"
+    } ]
+  }, {
+    "tStartMs": 1097519,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "아마 안 될 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 1099720,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "바쁘죠?"
+    } ]
+  }, {
+    "tStartMs": 1100559,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1104559,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "수영 다 좋은데, 진짜 다 좋은데."
+    } ]
+  }, {
+    "tStartMs": 1109279,
+    "dDurationMs": 5561,
+    "segs": [ {
+      "utf8": "진짜 제일 귀찮은, 과정이 제일 귀찮은 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 1114840,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "그래요?"
+    } ]
+  }, {
+    "tStartMs": 1116440,
+    "dDurationMs": 10440,
+    "segs": [ {
+      "utf8": "가기 전에 샤워해야 되고, 끝나면 샤워하고, 머리 말리고, 옷도 계속 매일매일 빨아야 되고."
+    } ]
+  }, {
+    "tStartMs": 1126880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "근데 어차피 아침에 샤워는 하니까."
+    } ]
+  }, {
+    "tStartMs": 1130880,
+    "dDurationMs": 11880,
+    "segs": [ {
+      "utf8": "그러니까 안 씻고 수영장 가서, 수영장에 있는 샤워실에서 빨리 샤워하고, 수영하고, 마무리로 샤워하고."
+    } ]
+  }, {
+    "tStartMs": 1142760,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "어차피 머리는 말리는 거고."
+    } ]
+  }, {
+    "tStartMs": 1144719,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "그렇게 생각하니까 좋네요."
+    } ]
+  }, {
+    "tStartMs": 1146520,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "그런 거 아닌가요?"
+    } ]
+  }, {
+    "tStartMs": 1147640,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "아침 반을 하면 좋겠다."
+    } ]
+  }, {
+    "tStartMs": 1149039,
+    "dDurationMs": 4841,
+    "segs": [ {
+      "utf8": "저녁 반을 하면 좀 두 번 하게 될 수도 있으니까."
+    } ]
+  }, {
+    "tStartMs": 1153880,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "그렇네요."
+    } ]
+  }, {
+    "tStartMs": 1154719,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "아침 반 괜찮네요."
+    } ]
+  }, {
+    "tStartMs": 1156840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "저도 하면 아침 수영하려고요."
+    } ]
+  }, {
+    "tStartMs": 1159880,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "저도 제가 할까 봐요, 올해."
+    } ]
+  }, {
+    "tStartMs": 1163599,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "알아봐야겠다, 아침 수영."
+    } ]
+  }, {
+    "tStartMs": 1166640,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "수영은 레벨 올라가는 재미가 있어요."
+    } ]
+  }, {
+    "tStartMs": 1170080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그래요?"
+    } ]
+  }, {
+    "tStartMs": 1171080,
+    "dDurationMs": 5599,
+    "segs": [ {
+      "utf8": "네, 처음에는 발차기 반, 킥판이라고 하죠?"
+    } ]
+  }, {
+    "tStartMs": 1176679,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "튜브 같은 거 들고 하다가 점점 올라가요."
+    } ]
+  }, {
+    "tStartMs": 1182119,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "이거 자유형 배우고, 평형 개구리처럼 하는 거 배우고."
+    } ]
+  }, {
+    "tStartMs": 1188239,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "더 올라가면 접영 배울 수 있어요."
+    } ]
+  }, {
+    "tStartMs": 1193159,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "디디님은 좀 잘하는 편이겠네요?"
+    } ]
+  }, {
+    "tStartMs": 1196039,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "까먹진 않았어요."
+    } ]
+  }, {
+    "tStartMs": 1201000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "수업을 듣는 수영반에 가면 초, 중급, 고가 나뉜다던데?"
+    } ]
+  }, {
+    "tStartMs": 1209000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "나뉘어요, 나뉘어요."
+    } ]
+  }, {
+    "tStartMs": 1210000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "디디님은?"
+    } ]
+  }, {
+    "tStartMs": 1211000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "저는 그냥 자유 수영으로 가요, 이제는."
+    } ]
+  }, {
+    "tStartMs": 1215000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "이제 수업이 필요 없는 단계?"
+    } ]
+  }, {
+    "tStartMs": 1218000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "그쵸. 가면 자세 정도? 알고 있는 거에서 이렇게 해야 된다 정도만 고쳐주시니까."
+    } ]
+  }, {
+    "tStartMs": 1228000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "자유가 좋아요."
+    } ]
+  }, {
+    "tStartMs": 1231000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "작년에 러닝 오래 하셨잖아요."
+    } ]
+  }, {
+    "tStartMs": 1234000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1235000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "1년 동안 하루도 빠짐없이?"
+    } ]
+  }, {
+    "tStartMs": 1238000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "뛰려고 했는데, 1월부터 7월까지만 하루도 빠짐없이 뛰었고,"
+    } ]
+  }, {
+    "tStartMs": 1244000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "7월에 코로나에 걸려서 그때부터는 하루도 빠짐없이 뛰지는 못했고,"
+    } ]
+  }, {
+    "tStartMs": 1252000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "하루도 빠짐없이 나가서 걷거나 뛰었습니다."
+    } ]
+  }, {
+    "tStartMs": 1257000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "전 이거 듣고 진짜 깜짝 놀랐어요."
+    } ]
+  }, {
+    "tStartMs": 1260000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "진짜 매일 나가긴 나간 거네요."
+    } ]
+  }, {
+    "tStartMs": 1262000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그렇죠. 말 그대로 진짜 매일 나간 거죠."
+    } ]
+  }, {
+    "tStartMs": 1265000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어때요? 달리기는?"
+    } ]
+  }, {
+    "tStartMs": 1267000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "달리기... 아니, 사실 저는 달리기를 한 지 몇 년이 돼서,"
+    } ]
+  }, {
+    "tStartMs": 1273000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "이제는 달리기 안 했을 때랑 하고 나서 어떻게 이렇게 다르다라고 말할 수 있는 게 기억이 안 나요."
+    } ]
+  }, {
+    "tStartMs": 1287000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "안 했던 삶이 기억이 안 나요?"
+    } ]
+  }, {
+    "tStartMs": 1289000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "네. 근데 진짜 좋아요."
+    } ]
+  }, {
+    "tStartMs": 1294000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "일단 체력 수준이 올라가고, 그래서 쉽게 피곤하지 않은 것 같고,"
+    } ]
+  }, {
+    "tStartMs": 1303000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "요즘 보면 계단 조금 올라도 힘들어하는 제 또래나 어린 친구들이 많거든요."
+    } ]
+  }, {
+    "tStartMs": 1311000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그런데 그럴 일도 없고."
+    } ]
+  }, {
+    "tStartMs": 1314000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "체력이 좋아질 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 1316000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "네. 그리고 밖에서 주로 뛰니까 전반적인 하루의 에너지? 그 무드? 그런 것도 좋아요."
+    } ]
+  }, {
+    "tStartMs": 1329000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그렇구나. 달리기도 참 좋은 운동인데, 돈도 안 들고."
+    } ]
+  }, {
+    "tStartMs": 1335000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "뭐 러닝화가 들긴 하지만, 그 정도는 뭐."
+    } ]
+  }, {
+    "tStartMs": 1341000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "제 학생 중에 러닝을 진짜 오래 하신 분이 있거든요."
+    } ]
+  }, {
+    "tStartMs": 1349000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "지금 50대이시니까 거의 인생 전체 동안 하신 분이 있는데,"
+    } ]
+  }, {
+    "tStartMs": 1356000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "그분을 보면서 느낀 거는 일단 운동을 한다는 자체에도 의미가 있지만,"
+    } ]
+  }, {
+    "tStartMs": 1363000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "운동을 하다 보면 계속 내가 먹는 거나 건강에 대해서 신경을 쓰게 되나 봐요."
+    } ]
+  }, {
+    "tStartMs": 1371000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그런 걸로 이어지니까 또 좋은 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 1375000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아, 맞는 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 1377000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "아무래도 단백질 먹어야지. 탄수화물보다는 운동했으니까 이거 먹어야지."
+    } ]
+  }, {
+    "tStartMs": 1387000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "생각을 계속 하니까. 그래서 운동을 하는 것도 있지 않을까. 의미가 있지 않을까."
+    } ]
+  }, {
+    "tStartMs": 1395000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "맞네요. 맞아요. 맞아요."
+    } ]
+  }, {
+    "tStartMs": 1398000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "먹는 것도 신경을 좀 썼어요. 작년에. 어떤 것 같아요?"
+    } ]
+  }, {
+    "tStartMs": 1403000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그것도 너무 신경 쓴 지 오래돼서."
+    } ]
+  }, {
+    "tStartMs": 1409000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "그런데 저도 먹는 거 거의 자주 신경 쓰는 편이거든요."
+    } ]
+  }, {
+    "tStartMs": 1416000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "항상 가능하면 깨끗하게 먹고. 그리고 술도 잘 안 마시고."
+    } ]
+  }, {
+    "tStartMs": 1423000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "그리고 콜라, 음료수 같은 거 잘 안 마시거든요. 무조건 물 아니면 가끔 우유 마시고."
+    } ]
+  }, {
+    "tStartMs": 1432000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "치킨 시키면요?"
+    } ]
+  }, {
+    "tStartMs": 1434000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그냥 치킨만 먹어요."
+    } ]
+  }, {
+    "tStartMs": 1438000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "햄버거?"
+    } ]
+  }, {
+    "tStartMs": 1439000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "햄버거만 먹어요."
+    } ]
+  }, {
+    "tStartMs": 1443000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "세트를 안 시킨다고요?"
+    } ]
+  }, {
+    "tStartMs": 1445000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "네. 안 먹어요. 왜 먹는지 모를 정도예요. 이제는."
+    } ]
+  }, {
+    "tStartMs": 1450000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "대박. 그렇게 될 수 있군요."
+    } ]
+  }, {
+    "tStartMs": 1453000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "네. 그게 신기한 게 진짜 예전에 어릴 때 그거 다 먹었어요."
+    } ]
+  }, {
+    "tStartMs": 1461000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "콜라 그런 거 진짜 다 먹었어요."
+    } ]
+  }, {
+    "tStartMs": 1465000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "심지어 그냥 쉴 때도 콜라, 탄산음료 이런 거 까서 혼자 마시고."
+    } ]
+  }, {
+    "tStartMs": 1472000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그런데 이제는 안 그래요."
+    } ]
+  }, {
+    "tStartMs": 1475000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그런데 그거 알아요? 헬스 유튜버 중에 핏블리라고 있는데."
+    } ]
+  }, {
+    "tStartMs": 1481000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "핏블리님."
+    } ]
+  }, {
+    "tStartMs": 1483000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그분이 치즈볼을 진짜 처음 먹었나? 그 영상 알아요?"
+    } ]
+  }, {
+    "tStartMs": 1489000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "코로나 때 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 1491000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "맞아요. 헬스 트레이너 하시는 분인데 처음으로 치즈볼을 먹고 거의 눈물을 흘리는 그 영상이 있거든요."
+    } ]
+  }, {
+    "tStartMs": 1502000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "그러니까 그게 익숙해져서 잊은 거지. 그게 잊었구나. 잊을 수가 있구나. 그 맛있는 맛을."
+    } ]
+  }, {
+    "tStartMs": 1511000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "맞아요."
+    } ]
+  }, {
+    "tStartMs": 1513000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "에이. 건강하니까. 부럽다."
+    } ]
+  }, {
+    "tStartMs": 1519000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그런데 몸에 그렇게 탄산음료 같은 거 안 들이붓고."
+    } ]
+  }, {
+    "tStartMs": 1524000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그리고 운동 꾸준히 하고."
+    } ]
+  }, {
+    "tStartMs": 1528000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "아무래도 다음 날에 운동해야 하니까 컨디션 관리를 생각해서 너무 안 늦게 자려고 하고."
+    } ]
+  }, {
+    "tStartMs": 1537000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "가능한 일찍 자려고 하고. 컨디션 신경을 쓰잖아요."
+    } ]
+  }, {
+    "tStartMs": 1543000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "그런데 그러고 나니까 콜라 맛을 잊어버린 것처럼."
+    } ]
+  }, {
+    "tStartMs": 1551000,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "예전에 안 좋은 컨디션에 있을 때 그 이상한 느낌? 짜증이 쉽게 나고."
+    } ]
+  }, {
+    "tStartMs": 1563000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "무기력하고."
+    } ]
+  }, {
+    "tStartMs": 1564000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "무기력하고 피곤하고. 집중 안 되고. 그런 것도 잊게 됐는데."
+    } ]
+  }, {
+    "tStartMs": 1573000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "그런데 어쩌다가 특별한 일이 있어서 특별한 행사가 있거나 해서 패턴이 깨졌다."
+    } ]
+  }, {
+    "tStartMs": 1581000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "그러면 그때 다시 한 번 그걸 확 느끼잖아요. 몸이 너무 피곤하고 무기력하고."
+    } ]
+  }, {
+    "tStartMs": 1589000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그때마다 한 번 다시 나랑은 안 맞다."
+    } ]
+  }, {
+    "tStartMs": 1594000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "운동해야겠다."
+    } ]
+  }, {
+    "tStartMs": 1598000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "제일 도움이 됐던 건 뭔 거 같아요? 운동이 습관이 되고 건강이 습관이 됐던?"
+    } ]
+  }, {
+    "tStartMs": 1606000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "그런데 사람마다 다르겠지만 아까 디디님이 질문했던 거에 가장 근접한 저의 경험은"
+    } ]
+  }, {
+    "tStartMs": 1617000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "제가 몸이 되게 약했다고 했잖아요. 지금도 몸이 엄청 좋은 건 아니지만"
+    } ]
+  }, {
+    "tStartMs": 1625000,
+    "dDurationMs": 14000,
+    "segs": [ {
+      "utf8": "예전에는 유달리 약했는데 그때는 운동을 하는 만큼 몸이 개선되는 게, 몸이 나아지는 게 쉽게 보였어요."
+    } ]
+  }, {
+    "tStartMs": 1639000,
+    "dDurationMs": 14000,
+    "segs": [ {
+      "utf8": "할 때 너무 힘들고 근육통도 너무 아프고 괴로운데 그만큼 제가 거울을 볼 때 제 모습이 조금 더 볼만해지니까"
+    } ]
+  }, {
+    "tStartMs": 1654000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "그게 너무 재밌더라고요. 그래서 이 긴 기간 동안 초반에는 그런 즐거움으로 했고"
+    } ]
+  }, {
+    "tStartMs": 1664000,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "또 어쩌다 보니 그 이후에는 하는 행위 자체에서 느끼는 것들, 그런 생각들, 그런 거에 즐거움을 찾기도 하고"
+    } ]
+  }, {
+    "tStartMs": 1676000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그렇게 하나하나 바뀐 건데."
+    } ]
+  }, {
+    "tStartMs": 1680000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "확실히 눈에 보이면 즐거울 것 같아요. 잘하고 있구나."
+    } ]
+  }, {
+    "tStartMs": 1686000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "그래서 공익 근무할 때 제가 기장군청에 있었는데 그 군청에 공익 근무 요원들만 있는 게 아니라"
+    } ]
+  }, {
+    "tStartMs": 1696000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "상근 군인이라고 하는 군인이라서 군복을 입고 군 생활을 하는 친구들인데"
+    } ]
+  }, {
+    "tStartMs": 1704000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "군청으로 출퇴근을 하는 친구들이 있거든요. 그런 군인들도 있어요. 직장인처럼."
+    } ]
+  }, {
+    "tStartMs": 1712000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "근데 걔네들도 걔네들끼리 세, 네 명이서 무리를 지으면서 다니는데"
+    } ]
+  }, {
+    "tStartMs": 1717000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "제가 운동을 그렇게 한참 재밌게 취미를 붙여서 했는데 그 중에 한 명이 지나가면서"
+    } ]
+  }, {
+    "tStartMs": 1726000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "한참 뒤였거든요. 제가 군청에 들어간 지. 모르는 사인데."
+    } ]
+  }, {
+    "tStartMs": 1731000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "근데 딱 지나가면서 그 군복을 입은 군인 그 친구가"
+    } ]
+  }, {
+    "tStartMs": 1735000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "어, 몸 많이 커졌네. 이러고 지나가는 거예요."
+    } ]
+  }, {
+    "tStartMs": 1738000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "근데 약간 되게 으쓱."
+    } ]
+  }, {
+    "tStartMs": 1741000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "어, 내가? 이렇게."
+    } ]
+  }, {
+    "tStartMs": 1744000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "몸 많이 커졌네. 이러고 가요."
+    } ]
+  }, {
+    "tStartMs": 1747000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "오, 좋았겠다. 기분."
+    } ]
+  }, {
+    "tStartMs": 1749000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "엄청 좋았죠."
+    } ]
+  }, {
+    "tStartMs": 1751000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그 맛이구나. 그렇군요."
+    } ]
+  }, {
+    "tStartMs": 1756000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "그래서 그것도 수많은 계기, 더 운동을 좋아하게 되는 계기 중에 하나이지 않았나."
+    } ]
+  }, {
+    "tStartMs": 1765000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "재밌다."
+    } ]
+  }, {
+    "tStartMs": 1766000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "또 인생에 여러 즐거움이 있습니다. 이렇게."
+    } ]
+  }, {
+    "tStartMs": 1769000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "알고 싶다. 운동의 즐거움. 언젠가는 알았으면 좋겠고."
+    } ]
+  }, {
+    "tStartMs": 1776000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "혹시나 이 팟캐스트 듣고 계시는 분들 중에서도 운동을 너무너무 좋아하시는 분들이라면"
+    } ]
+  }, {
+    "tStartMs": 1782000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "운동의 매력을 좀 많이 알려주셨으면 좋겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1786000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그리고 저처럼 운동 안 좋아하시는 분들은 태용쌤의 말을 듣고"
+    } ]
+  }, {
+    "tStartMs": 1791000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "좀 동기부여가 됐으면 좋겠네요."
+    } ]
+  }, {
+    "tStartMs": 1794000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러면 좋겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1797000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "다음 주 주제는 플레이리스트 만들기."
+    } ]
+  }, {
+    "tStartMs": 1801000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "어떤 플레이리스트 만들지는 좀 더 생각해보고"
+    } ]
+  }, {
+    "tStartMs": 1806000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "저희 둘이 하나의 플레이리스트를 만드는 거를 목표로 이야기해보는 팟캐스트 만들어보도록 하겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1815000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "네, 그러면 오늘은 이렇게 운동에 대해서 요모조모 이야기를 해봤고요."
+    } ]
+  }, {
+    "tStartMs": 1821000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "다음주는 노래에 대해서 요모조모 이야기해보는 시간을 가지도록 하겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1828000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그러면 여기까지 디디와 정태웅이었습니다. 감사합니다."
+    } ]
+  } ]
+}

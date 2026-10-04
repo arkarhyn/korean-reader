@@ -1,0 +1,4855 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 9630,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11650,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13570,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "\u003cYomojomo\u003e is a podcast where two people living in Korea talk about the ins and outs of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 20040,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Yes, we're back with the February episode."
+    } ]
+  }, {
+    "tStartMs": 23920,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "Could you introduce the theme we'll be talking about this week with Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 28740,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Yes, the theme we'll be introducing this week is"
+    } ]
+  }, {
+    "tStartMs": 31170,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "convenience stores."
+    } ]
+  }, {
+    "tStartMs": 33000,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Convenience stores, and"
+    } ]
+  }, {
+    "tStartMs": 34800,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "people in Korea really use convenience stores a lot, don't they?"
+    } ]
+  }, {
+    "tStartMs": 39110,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "It seems like convenience stores are a place where you can really go anytime, 24 hours,"
+    } ]
+  }, {
+    "tStartMs": 44010,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "and since we use convenience stores a lot too,"
+    } ]
+  }, {
+    "tStartMs": 47230,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "we're planning to talk about various things related to convenience stores."
+    } ]
+  }, {
+    "tStartMs": 50710,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And before we start talking in earnest,"
+    } ]
+  }, {
+    "tStartMs": 53870,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "I need to announce the winners of last week's quiz."
+    } ]
+  }, {
+    "tStartMs": 56830,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "This time I'll just display it on the screen."
+    } ]
+  }, {
+    "tStartMs": 59580,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Thank you to those who got the quiz answer correct,"
+    } ]
+  }, {
+    "tStartMs": 63290,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and there's a quiz today too,"
+    } ]
+  }, {
+    "tStartMs": 65370,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "so I'd appreciate it if you listen all the way to the end."
+    } ]
+  }, {
+    "tStartMs": 69210,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, when was the last time you used a convenience store?"
+    } ]
+  }, {
+    "tStartMs": 75550,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I think it was about two days ago."
+    } ]
+  }, {
+    "tStartMs": 77790,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "What did you go to buy two days ago?"
+    } ]
+  }, {
+    "tStartMs": 81180,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "I went to buy eggs for my mom's errand."
+    } ]
+  }, {
+    "tStartMs": 85760,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "What a good kid, haha."
+    } ]
+  }, {
+    "tStartMs": 88060,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "Yes, eggs—but when you buy eggs at a convenience store, they're kind of expensive, aren't they?"
+    } ]
+  }, {
+    "tStartMs": 93150,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "They are a bit expensive."
+    } ]
+  }, {
+    "tStartMs": 94550,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "But did you need them urgently?"
+    } ]
+  }, {
+    "tStartMs": 97470,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "There's no large mart or market near our house,"
+    } ]
+  }, {
+    "tStartMs": 101300,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 103010,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "so the only place nearby is a convenience store."
+    } ]
+  }, {
+    "tStartMs": 106260,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 107810,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Yes, so I just go there."
+    } ]
+  }, {
+    "tStartMs": 110950,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Then usually when you buy daily necessities, how do you do it?"
+    } ]
+  }, {
+    "tStartMs": 114100,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Even when eggs aren't urgently needed,"
+    } ]
+  }, {
+    "tStartMs": 118570,
+    "dDurationMs": 8250,
+    "segs": [ {
+      "utf8": "in cases where I have plenty of time, I go to the mart in the neighborhood,"
+    } ]
+  }, {
+    "tStartMs": 126820,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "but it's a bit of a distance."
+    } ]
+  }, {
+    "tStartMs": 129250,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "So if I walk there and back, it would take about 40 minutes."
+    } ]
+  }, {
+    "tStartMs": 134560,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "That's really far."
+    } ]
+  }, {
+    "tStartMs": 135740,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Yes, it takes 40 minutes,"
+    } ]
+  }, {
+    "tStartMs": 137870,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "but if I go to the convenience store, I can go and come back in 4 minutes,"
+    } ]
+  }, {
+    "tStartMs": 140700,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "Right, and if you're carrying groceries like that, it would be heavy too."
+    } ]
+  }, {
+    "tStartMs": 144020,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 144830,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "Don't you use Coupang? When you shop?"
+    } ]
+  }, {
+    "tStartMs": 148440,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "That's something a lot of people use these days, right?"
+    } ]
+  }, {
+    "tStartMs": 151660,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Yes, I've seen a lot of people use it lately, and I use it too."
+    } ]
+  }, {
+    "tStartMs": 157500,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "But... you know,"
+    } ]
+  }, {
+    "tStartMs": 159150,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "my mom and I don't use Coupang for some reason."
+    } ]
+  }, {
+    "tStartMs": 164030,
+    "dDurationMs": 6670,
+    "segs": [ {
+      "utf8": "It's because people are used to shopping in person and picking out items carefully,"
+    } ]
+  }, {
+    "tStartMs": 170700,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "and comparing prices and buying that way,"
+    } ]
+  }, {
+    "tStartMs": 173560,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "so it can be hard to move past that."
+    } ]
+  }, {
+    "tStartMs": 177520,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "But after my mom tried Coupang delivery just once,"
+    } ]
+  }, {
+    "tStartMs": 182610,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "she said she could absolutely never go back."
+    } ]
+  }, {
+    "tStartMs": 185140,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 186660,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "It's convenient, right, since they bring everything to you."
+    } ]
+  }, {
+    "tStartMs": 189300,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 190960,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "So you bought eggs at the convenience store."
+    } ]
+  }, {
+    "tStartMs": 193730,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 195610,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "I think I used one about a week ago,"
+    } ]
+  }, {
+    "tStartMs": 200700,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and coincidentally, I don't usually drink alcohol, I don't drink often,"
+    } ]
+  }, {
+    "tStartMs": 205300,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "but after class that day I really wanted a beer, that particular day,"
+    } ]
+  }, {
+    "tStartMs": 210160,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "so I was thinking about it,"
+    } ]
+  }, {
+    "tStartMs": 213560,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "\"You should eat it when you want to eat it like this,\""
+    } ]
+  }, {
+    "tStartMs": 217490,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "I also have a convenience store right below me."
+    } ]
+  }, {
+    "tStartMs": 220070,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "So what's another good thing about convenience stores?"
+    } ]
+  }, {
+    "tStartMs": 222090,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Beer... they have sales, right?"
+    } ]
+  }, {
+    "tStartMs": 225620,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "Global beer discounts."
+    } ]
+  }, {
+    "tStartMs": 226990,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Yes, imported beer discounts."
+    } ]
+  }, {
+    "tStartMs": 229620,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "If you use that and buy 4, it's cheap—around 10,000 won?"
+    } ]
+  }, {
+    "tStartMs": 235920,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "It depends on the type, though."
+    } ]
+  }, {
+    "tStartMs": 239300,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "I bought these small 4-packs."
+    } ]
+  }, {
+    "tStartMs": 247100,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "That's good."
+    } ]
+  }, {
+    "tStartMs": 247660,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Convenience store beer is really nice like that, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 250370,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Convenience stores are good for that—the discounts."
+    } ]
+  }, {
+    "tStartMs": 253910,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "They're expensive normally, but there's a fun aspect to it."
+    } ]
+  }, {
+    "tStartMs": 258800,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "There's the fun of finding 1+1 or those kinds of discount items and buying them."
+    } ]
+  }, {
+    "tStartMs": 264550,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "Yeah, that's right—there are a lot of 1+1s and 2+1s."
+    } ]
+  }, {
+    "tStartMs": 269360,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 270780,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "So I buy those kinds of things often too."
+    } ]
+  }, {
+    "tStartMs": 274370,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 275100,
+    "dDurationMs": 7330,
+    "segs": [ {
+      "utf8": "Now, when it's 1+1 or 2+1, or if I have to pay the regular price,"
+    } ]
+  }, {
+    "tStartMs": 282430,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "it feels a bit wasteful."
+    } ]
+  }, {
+    "tStartMs": 284770,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "I understand—I know what you mean."
+    } ]
+  }, {
+    "tStartMs": 286670,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "For example, I go to buy eggs and there's a 1+1 deal,"
+    } ]
+  }, {
+    "tStartMs": 292610,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "and then there are regular eggs, so I definitely buy the ones on sale."
+    } ]
+  }, {
+    "tStartMs": 296550,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Even if this one looks better because it's more expensive,"
+    } ]
+  }, {
+    "tStartMs": 300420,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "it seems to work out that way."
+    } ]
+  }, {
+    "tStartMs": 302500,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 303870,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "That reminds me of something."
+    } ]
+  }, {
+    "tStartMs": 305540,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Hangover relief products are famous in Korea, right?"
+    } ]
+  }, {
+    "tStartMs": 309470,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 310660,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Like Sangkhwahwan that you eat, or like jelly."
+    } ]
+  }, {
+    "tStartMs": 315560,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "That jelly-type Sangkhwahwan is"
+    } ]
+  }, {
+    "tStartMs": 319140,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "more of a hangover prevention product than a hangover relief product."
+    } ]
+  }, {
+    "tStartMs": 324890,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 326110,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "You didn't know?"
+    } ]
+  }, {
+    "tStartMs": 327790,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Uh, I... thought it was a hangover relief product."
+    } ]
+  }, {
+    "tStartMs": 331070,
+    "dDurationMs": 6790,
+    "segs": [ {
+      "utf8": "I thought you took hangover relief products both before and after drinking."
+    } ]
+  }, {
+    "tStartMs": 337860,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 339290,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "It is a prevention product, though."
+    } ]
+  }, {
+    "tStartMs": 340420,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Since this is Korean class..."
+    } ]
+  }, {
+    "tStartMs": 342380,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "Relief means getting rid of a hangover that you already have,"
+    } ]
+  }, {
+    "tStartMs": 348030,
+    "dDurationMs": 8060,
+    "segs": [ {
+      "utf8": "and the hangover prevention I'm talking about means preventing a hangover from coming."
+    } ]
+  }, {
+    "tStartMs": 356090,
+    "dDurationMs": 7380,
+    "segs": [ {
+      "utf8": "So if you eat a refreshing jelly stick before drinking,"
+    } ]
+  }, {
+    "tStartMs": 363470,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "no matter how much you drink that day, you won't have a hangover the next day."
+    } ]
+  }, {
+    "tStartMs": 369320,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "You felt that effect directly?"
+    } ]
+  }, {
+    "tStartMs": 371620,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "I feel it well."
+    } ]
+  }, {
+    "tStartMs": 372930,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "You really should try it then."
+    } ]
+  }, {
+    "tStartMs": 375650,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "You absolutely have to eat it—absolutely."
+    } ]
+  }, {
+    "tStartMs": 378410,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 379650,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Yes, when I want to get a bit messed up today (- let's go!)"
+    } ]
+  }, {
+    "tStartMs": 384850,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "When I want to get a bit drunk today."
+    } ]
+  }, {
+    "tStartMs": 387100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "You absolutely have to eat one in that case."
+    } ]
+  }, {
+    "tStartMs": 389600,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I see—it's really effective."
+    } ]
+  }, {
+    "tStartMs": 392400,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "It's been a while since I've eaten that much, so I didn't know."
+    } ]
+  }, {
+    "tStartMs": 397740,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "For those listening to this too,"
+    } ]
+  }, {
+    "tStartMs": 398920,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "if you take it beforehand, it's really effective."
+    } ]
+  }, {
+    "tStartMs": 401560,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Once you're already feeling the hangover, it's... too late, right?"
+    } ]
+  }, {
+    "tStartMs": 406020,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 406850,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "It's really awful, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 407840,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 408480,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Anyway, the reason this came up is because they do 1+1 sales a lot."
+    } ]
+  }, {
+    "tStartMs": 413130,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 414270,
+    "dDurationMs": 8420,
+    "segs": [ {
+      "utf8": "So since I usually drink with friends, it's nice to buy several and show off."
+    } ]
+  }, {
+    "tStartMs": 422690,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "Like, \"You guys eat some too.\""
+    } ]
+  }, {
+    "tStartMs": 426870,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "I buy 3 but give out 6."
+    } ]
+  }, {
+    "tStartMs": 430360,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Hearing that story,"
+    } ]
+  }, {
+    "tStartMs": 432630,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "Back in my early-to-mid twenties..."
+    } ]
+  }, {
+    "tStartMs": 437300,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "With university classmates or part-time job friends,"
+    } ]
+  }, {
+    "tStartMs": 441260,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "When we'd gather like that and drink a lot,"
+    } ]
+  }, {
+    "tStartMs": 443920,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 444720,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Then sometimes,"
+    } ]
+  }, {
+    "tStartMs": 446080,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "Not sometimes but often, guys and girls,"
+    } ]
+  }, {
+    "tStartMs": 448430,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "There are cases where groups eat together like that, you know?"
+    } ]
+  }, {
+    "tStartMs": 451530,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Right, there are cases where you eat with mixed genders."
+    } ]
+  }, {
+    "tStartMs": 454370,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Yeah, but then right there,"
+    } ]
+  }, {
+    "tStartMs": 456630,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Friends who want to look good to the girls,"
+    } ]
+  }, {
+    "tStartMs": 460320,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "They'd go out in the middle and say, \"Hey guys, I brought some freshly-made pear,\""
+    } ]
+  }, {
+    "tStartMs": 465180,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Or \"I brought some hovenia tea,\""
+    } ]
+  }, {
+    "tStartMs": 467600,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "\"You're probably tired from drinking so much,\""
+    } ]
+  }, {
+    "tStartMs": 468790,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "And there was always one friend like that taking care of us."
+    } ]
+  }, {
+    "tStartMs": 471490,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Were you perhaps that kind of person?"
+    } ]
+  }, {
+    "tStartMs": 475290,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "I'm not that thoughtful."
+    } ]
+  }, {
+    "tStartMs": 477500,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "The type who eats what's given?"
+    } ]
+  }, {
+    "tStartMs": 478760,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "The type who eats together at the time?"
+    } ]
+  }, {
+    "tStartMs": 480320,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "\"Hey, thanks,\" like that,"
+    } ]
+  }, {
+    "tStartMs": 483140,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "\"Thank you!\""
+    } ]
+  }, {
+    "tStartMs": 486380,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Right, for hangover relief drinks, it's a bit of a different topic, but,"
+    } ]
+  }, {
+    "tStartMs": 490510,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "What people eat a lot is, they drink at the drinking session and then go out and eat 'Sangcheong-hwan,'"
+    } ]
+  }, {
+    "tStartMs": 495340,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "The 'freshly-made pear' you mentioned, pear juice,"
+    } ]
+  }, {
+    "tStartMs": 498550,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Chocolate milk and stuff like that, people eat a lot, right?"
+    } ]
+  }, {
+    "tStartMs": 500630,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Yeah, chocolate milk."
+    } ]
+  }, {
+    "tStartMs": 503600,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "There were friends who'd buy it for us."
+    } ]
+  }, {
+    "tStartMs": 506750,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "We've been talking about hangovers and drinking for a while, so it's a bit like that,"
+    } ]
+  }, {
+    "tStartMs": 509990,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "So going back to the convenience store topic,"
+    } ]
+  }, {
+    "tStartMs": 513920,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "The reason you can go and come back from a drinking session like that is probably,"
+    } ]
+  }, {
+    "tStartMs": 519370,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "Because convenience stores are everywhere, right?"
+    } ]
+  }, {
+    "tStartMs": 522110,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Right, that's an important point."
+    } ]
+  }, {
+    "tStartMs": 524800,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "If you visit Korea, you might be surprised."
+    } ]
+  }, {
+    "tStartMs": 529060,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "There are just about five of them in one shopping complex."
+    } ]
+  }, {
+    "tStartMs": 533320,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Different types."
+    } ]
+  }, {
+    "tStartMs": 535270,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "That much?"
+    } ]
+  }, {
+    "tStartMs": 537010,
+    "dDurationMs": 370,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 537380,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "In Seoul shopping complexes... so, like, what do you call it, a block?"
+    } ]
+  }, {
+    "tStartMs": 543150,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "There's one in a block."
+    } ]
+  }, {
+    "tStartMs": 546370,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Right, there's one across the street..."
+    } ]
+  }, {
+    "tStartMs": 549180,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 552380,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "When you see things like that, they're all 24 hours too..."
+    } ]
+  }, {
+    "tStartMs": 556730,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Right, like you said, they're everywhere,"
+    } ]
+  }, {
+    "tStartMs": 559830,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "And because they're open late,"
+    } ]
+  }, {
+    "tStartMs": 561790,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Drinking and convenience stores seem to be connected a lot."
+    } ]
+  }, {
+    "tStartMs": 565750,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 567470,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "And I'm not sure if it's possible these days, but people drinking beer at convenience stores,"
+    } ]
+  }, {
+    "tStartMs": 571860,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "It shows up in dramas too, like that... is that allowed?"
+    } ]
+  }, {
+    "tStartMs": 576620,
+    "dDurationMs": 8530,
+    "segs": [ {
+      "utf8": "I think I heard that it changed to not being allowed, back in the day."
+    } ]
+  }, {
+    "tStartMs": 585150,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Wait, after we finished filming Yomojomo just now, I looked it up again,"
+    } ]
+  }, {
+    "tStartMs": 589830,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Buying beer at a convenience store is possible, so buying alcohol is possible,"
+    } ]
+  }, {
+    "tStartMs": 595390,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "But drinking inside the convenience store is illegal, they say."
+    } ]
+  }, {
+    "tStartMs": 598050,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "So for people visiting Korea, it would be good if you kept that in mind."
+    } ]
+  }, {
+    "tStartMs": 601880,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Then let's go back to the episode."
+    } ]
+  }, {
+    "tStartMs": 604420,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "Not just alcohol, but things like ramen too, when you want to grab a quick meal, you go to the convenience store, right?"
+    } ]
+  }, {
+    "tStartMs": 610070,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 611220,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I think I used to eat a lot of ramen from convenience stores when I was a student."
+    } ]
+  }, {
+    "tStartMs": 615380,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "Oh, I still eat it sometimes, sometimes."
+    } ]
+  }, {
+    "tStartMs": 619270,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 620310,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 621020,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "How does that kind of routine get created?"
+    } ]
+  }, {
+    "tStartMs": 625260,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "What routine?"
+    } ]
+  }, {
+    "tStartMs": 626750,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I mean, you could just buy it at home and eat it, right?"
+    } ]
+  }, {
+    "tStartMs": 630190,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Ah! Sometimes I get a craving for that convenience store vibe..."
+    } ]
+  }, {
+    "tStartMs": 635990,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Oh, like you actually go to eat it like at a restaurant?"
+    } ]
+  }, {
+    "tStartMs": 638760,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "So you go to the convenience store to eat ramen."
+    } ]
+  }, {
+    "tStartMs": 640730,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 641580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, that's got style."
+    } ]
+  }, {
+    "tStartMs": 644580,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "That's what I like about it."
+    } ]
+  }, {
+    "tStartMs": 645660,
+    "dDurationMs": 12840,
+    "segs": [ {
+      "utf8": "And when I have some tough outdoor schedule, or I live in Busan, you know,"
+    } ]
+  }, {
+    "tStartMs": 658500,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "and sometimes I go to Seoul and come back."
+    } ]
+  }, {
+    "tStartMs": 662040,
+    "dDurationMs": 6540,
+    "segs": [ {
+      "utf8": "So even if I leave Seoul in the morning, I often arrive in the late afternoon."
+    } ]
+  }, {
+    "tStartMs": 668580,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "Usually I arrive in Busan pretty late, and then from Busan Station or the bus terminal"
+    } ]
+  }, {
+    "tStartMs": 674540,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "it takes a long time to get to my house too."
+    } ]
+  }, {
+    "tStartMs": 677510,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "So I often arrive really late at night."
+    } ]
+  }, {
+    "tStartMs": 681300,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "And often I can't eat a proper dinner."
+    } ]
+  }, {
+    "tStartMs": 684700,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "So I have to eat something, right?"
+    } ]
+  }, {
+    "tStartMs": 688000,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "At times like that I always go to the convenience store"
+    } ]
+  }, {
+    "tStartMs": 691260,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "and buy a bowl of kimchi ramyeon and a bottle of KGB vodka..."
+    } ]
+  }, {
+    "tStartMs": 696600,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Wow, that's a combination I ate a lot when I was twenty."
+    } ]
+  }, {
+    "tStartMs": 699240,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "I also ate that when I was twenty, you know?"
+    } ]
+  }, {
+    "tStartMs": 701380,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "I don't usually drink it now."
+    } ]
+  }, {
+    "tStartMs": 703410,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "But exactly at times like that!"
+    } ]
+  }, {
+    "tStartMs": 707830,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "When I have kimchi ramyeon and KGB at times like that"
+    } ]
+  }, {
+    "tStartMs": 711890,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "my stomach gets warm and cozy (that's good, that's good, should we try it?) it's really good."
+    } ]
+  }, {
+    "tStartMs": 716030,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "It's not bad, is it?"
+    } ]
+  }, {
+    "tStartMs": 716890,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "That feels kind of like taking a sauna."
+    } ]
+  }, {
+    "tStartMs": 719910,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "It's not bad, is it? As tonight's dinner menu? KGB and..."
+    } ]
+  }, {
+    "tStartMs": 724820,
+    "dDurationMs": 7110,
+    "segs": [ {
+      "utf8": "It's not that strong of a drink, KGB is sweet and tasty alcohol."
+    } ]
+  }, {
+    "tStartMs": 731930,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "Kimchi ramyeon?"
+    } ]
+  }, {
+    "tStartMs": 733060,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 734550,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "There are lots of kimchi ramyeon brands."
+    } ]
+  }, {
+    "tStartMs": 737340,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Is that your favorite? Kimchi ramyeon?"
+    } ]
+  }, {
+    "tStartMs": 739900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "That's my favorite,"
+    } ]
+  }, {
+    "tStartMs": 743200,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "but it's not like my favorite in general,"
+    } ]
+  }, {
+    "tStartMs": 745440,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "it's just something I think of in exactly those situations I mentioned."
+    } ]
+  }, {
+    "tStartMs": 750180,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "That's good, that's good, this really is K-vibe, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 752870,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 754140,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "It kind of makes you feel youthful too."
+    } ]
+  }, {
+    "tStartMs": 757600,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Healing time for myself who worked hard... that's fun."
+    } ]
+  }, {
+    "tStartMs": 761890,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "I recommend it to our subscribers too."
+    } ]
+  }, {
+    "tStartMs": 763860,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "It's a combination they recommend."
+    } ]
+  }, {
+    "tStartMs": 765190,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong's combination."
+    } ]
+  }, {
+    "tStartMs": 767370,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "So when do you mainly use the convenience store the most?"
+    } ]
+  }, {
+    "tStartMs": 772290,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "Hmm... so you're asking when I usually go for what reason."
+    } ]
+  }, {
+    "tStartMs": 777350,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 778910,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "Actually, I don't go with a specific purpose,"
+    } ]
+  }, {
+    "tStartMs": 783980,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "but whenever I have something to do outside, I always pass by a convenience store."
+    } ]
+  }, {
+    "tStartMs": 789410,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "Since there's one on the route I always take near my house, I always stop by once then."
+    } ]
+  }, {
+    "tStartMs": 796260,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "You just stop by? You must go pretty often."
+    } ]
+  }, {
+    "tStartMs": 798890,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 799690,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 800740,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "And of course, I come out without buying anything a lot."
+    } ]
+  }, {
+    "tStartMs": 806670,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Just browsing, sometimes I go window shopping."
+    } ]
+  }, {
+    "tStartMs": 809540,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Yeah, just checking if there's anything new."
+    } ]
+  }, {
+    "tStartMs": 811030,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Is there anything that looks delicious? I'll go in like this."
+    } ]
+  }, {
+    "tStartMs": 813590,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Ah, so you do go check out new products sometimes."
+    } ]
+  }, {
+    "tStartMs": 817100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 818300,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "Could you tell me which brand the convenience store near your house is? What brand is it?"
+    } ]
+  }, {
+    "tStartMs": 823030,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "Yes, the convenience store I go to most often, the one closest to me is"
+    } ]
+  }, {
+    "tStartMs": 828100,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "a convenience store called GS."
+    } ]
+  }, {
+    "tStartMs": 830300,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "So there's a GS."
+    } ]
+  }, {
+    "tStartMs": 832650,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Is it GS25 these days?"
+    } ]
+  }, {
+    "tStartMs": 834990,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "It's 25."
+    } ]
+  }, {
+    "tStartMs": 836040,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Ah, GS25?"
+    } ]
+  }, {
+    "tStartMs": 837240,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 838470,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 839330,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "Do you originally like GS25?"
+    } ]
+  }, {
+    "tStartMs": 840910,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "You know there are three of them."
+    } ]
+  }, {
+    "tStartMs": 841830,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "GS25, 7-Eleven, CU like that."
+    } ]
+  }, {
+    "tStartMs": 845590,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 846370,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Do you originally like GS25 the best?"
+    } ]
+  }, {
+    "tStartMs": 848290,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "No, actually I don't really distinguish between them."
+    } ]
+  }, {
+    "tStartMs": 851750,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 852990,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Yes, well, I've never even bought from them before."
+    } ]
+  }, {
+    "tStartMs": 859230,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "I did think it was pretty cool that 7-Eleven sometimes sells Lego."
+    } ]
+  }, {
+    "tStartMs": 864820,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Do they sell Lego at 7-Eleven?"
+    } ]
+  }, {
+    "tStartMs": 868160,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "I'm not really sure about that either."
+    } ]
+  }, {
+    "tStartMs": 870430,
+    "dDurationMs": 8010,
+    "segs": [ {
+      "utf8": "I've seen 7-Eleven sell a 7-Eleven-shaped Lego set."
+    } ]
+  }, {
+    "tStartMs": 878440,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So it's not actually a real Lego brand Lego."
+    } ]
+  }, {
+    "tStartMs": 881960,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "It's similar blocks like that."
+    } ]
+  }, {
+    "tStartMs": 887140,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "I wonder if they still have it?"
+    } ]
+  }, {
+    "tStartMs": 889250,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "If you search for it, it'll probably come up."
+    } ]
+  }, {
+    "tStartMs": 892860,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "I also have a feeling that 7-Eleven has those figure collaborations?"
+    } ]
+  }, {
+    "tStartMs": 897470,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "Like if you eat Shin-chan chocolate, there's a Shin-chan sticker inside."
+    } ]
+  }, {
+    "tStartMs": 901480,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "I feel like I've seen a lot of that kind of thing at 7-Eleven."
+    } ]
+  }, {
+    "tStartMs": 905340,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "I should look it up."
+    } ]
+  }, {
+    "tStartMs": 906370,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Well, anyway, that's that..."
+    } ]
+  }, {
+    "tStartMs": 908190,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "You just think Lego is cool?"
+    } ]
+  }, {
+    "tStartMs": 910410,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Yes, other than that, I didn't really have any preference criteria."
+    } ]
+  }, {
+    "tStartMs": 914910,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "I like GS the best."
+    } ]
+  }, {
+    "tStartMs": 918200,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Is there a reason?"
+    } ]
+  }, {
+    "tStartMs": 920540,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Desserts and food."
+    } ]
+  }, {
+    "tStartMs": 922370,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "The things that come out of GS taste better to me."
+    } ]
+  }, {
+    "tStartMs": 926560,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Like the triangle kimbap."
+    } ]
+  }, {
+    "tStartMs": 928040,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "And sandwiches too—GS tastes the best."
+    } ]
+  }, {
+    "tStartMs": 932450,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Personally for me."
+    } ]
+  }, {
+    "tStartMs": 936230,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Well, from what you're saying, I can tell that sandwiches, triangle kimbap, and even snacks"
+    } ]
+  }, {
+    "tStartMs": 944230,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "these days are made by convenience store brands, right?"
+    } ]
+  }, {
+    "tStartMs": 947410,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "Yes, yes they are."
+    } ]
+  }, {
+    "tStartMs": 949340,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "So those kinds of things match your taste well when they come from GS."
+    } ]
+  }, {
+    "tStartMs": 954660,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Yes, that's right. I'm a GS person."
+    } ]
+  }, {
+    "tStartMs": 958300,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "But if I may make a candid statement,"
+    } ]
+  }, {
+    "tStartMs": 963180,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "I found the things made at those convenience stores a bit disappointing."
+    } ]
+  }, {
+    "tStartMs": 969250,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 971630,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Oh really? You think that way?"
+    } ]
+  }, {
+    "tStartMs": 973570,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Yeah, yeah, rather than eating convenience store food like it's so delicious,"
+    } ]
+  }, {
+    "tStartMs": 978080,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "I want to eat something quick and simple, but still, how should I put it..."
+    } ]
+  }, {
+    "tStartMs": 985000,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "Rather than eating packaged bread like that, when I want to eat something fresher,"
+    } ]
+  }, {
+    "tStartMs": 990670,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "that's when I choose a convenience store."
+    } ]
+  }, {
+    "tStartMs": 993060,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "No, what I mean is, for example,"
+    } ]
+  }, {
+    "tStartMs": 997580,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "comparing snacks from a regular snack company"
+    } ]
+  }, {
+    "tStartMs": 1000980,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "with snacks from a convenience store brand,"
+    } ]
+  }, {
+    "tStartMs": 1004540,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "the convenience store brand is a bit disappointing?"
+    } ]
+  }, {
+    "tStartMs": 1006940,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "That's how it is for me, for some reason."
+    } ]
+  }, {
+    "tStartMs": 1010080,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "I also haven't had a convenience store snack that I found really delicious."
+    } ]
+  }, {
+    "tStartMs": 1015280,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Even the ones that are supposed to be famous."
+    } ]
+  }, {
+    "tStartMs": 1017790,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "It's not like they're made by a large corporation for no reason."
+    } ]
+  }, {
+    "tStartMs": 1021660,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1022620,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "The taste of a large corporation."
+    } ]
+  }, {
+    "tStartMs": 1023940,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Yes, the taste of a large corporation."
+    } ]
+  }, {
+    "tStartMs": 1025590,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "There is, there is."
+    } ]
+  }, {
+    "tStartMs": 1027580,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "But if we're being particular about preferences, Didi, you lean toward GS."
+    } ]
+  }, {
+    "tStartMs": 1032670,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "That's right, and I usually eat triangle kimbap."
+    } ]
+  }, {
+    "tStartMs": 1034890,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "Or sandwiches instead of snacks."
+    } ]
+  }, {
+    "tStartMs": 1039100,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Do you happen to have any sandwich recommendations?"
+    } ]
+  }, {
+    "tStartMs": 1043140,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "I'm a bit of a picky eater."
+    } ]
+  }, {
+    "tStartMs": 1045930,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "The vegetables... especially the vegetables in those convenience store sandwiches."
+    } ]
+  }, {
+    "tStartMs": 1050010,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You know how they feel really soggy?"
+    } ]
+  }, {
+    "tStartMs": 1052010,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Because they've been sitting there for a while, they get all mushy."
+    } ]
+  }, {
+    "tStartMs": 1056480,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "The vegetables release water, so the bread gets all soggy too, and I don't like that."
+    } ]
+  }, {
+    "tStartMs": 1061820,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "So what I recommend is"
+    } ]
+  }, {
+    "tStartMs": 1063760,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "an egg-loaded sandwich."
+    } ]
+  }, {
+    "tStartMs": 1065540,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "There's a sandwich with just eggs in it, egg mayo."
+    } ]
+  }, {
+    "tStartMs": 1069240,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "That's my number one pick."
+    } ]
+  }, {
+    "tStartMs": 1072420,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I've eaten it a lot."
+    } ]
+  }, {
+    "tStartMs": 1075140,
+    "dDurationMs": 7690,
+    "segs": [ {
+      "utf8": "Back in the day, wasn't there some idol concert sandwich?"
+    } ]
+  }, {
+    "tStartMs": 1082830,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "There was an idol sandwich."
+    } ]
+  }, {
+    "tStartMs": 1084910,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "With blueberry and blueberry jam, ham and lettuce."
+    } ]
+  }, {
+    "tStartMs": 1091270,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I think that's what was in it."
+    } ]
+  }, {
+    "tStartMs": 1093310,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1094040,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Yes, so that was kind of a big deal for a while."
+    } ]
+  }, {
+    "tStartMs": 1097110,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1098200,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "So I have memories of eating that often back then."
+    } ]
+  }, {
+    "tStartMs": 1100630,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Oh, you did try it."
+    } ]
+  }, {
+    "tStartMs": 1102150,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "That was delicious... I'm a one-trick pony with..."
+    } ]
+  }, {
+    "tStartMs": 1107620,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "And I hadn't thought about it either."
+    } ]
+  }, {
+    "tStartMs": 1111550,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "That convenience store triangle kimbap, I think I eat the GS one well too."
+    } ]
+  }, {
+    "tStartMs": 1117180,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Yes, it's delicious."
+    } ]
+  }, {
+    "tStartMs": 1119390,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Hmm, I think so."
+    } ]
+  }, {
+    "tStartMs": 1121170,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "I liked the bacon tuna mayo from GS25."
+    } ]
+  }, {
+    "tStartMs": 1125240,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "Oh, I just like tuna mayo."
+    } ]
+  }, {
+    "tStartMs": 1131730,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "And um, Jeonju bibimbap or dak-galbi."
+    } ]
+  }, {
+    "tStartMs": 1137390,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Ah, I like those kinds sometimes too, something a bit spicy."
+    } ]
+  }, {
+    "tStartMs": 1140470,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Yes, so I always eat two."
+    } ]
+  }, {
+    "tStartMs": 1143460,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Oh, you always eat two?"
+    } ]
+  }, {
+    "tStartMs": 1145080,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1145710,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "One of those and a cup of ramen like that."
+    } ]
+  }, {
+    "tStartMs": 1147880,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Really? You eat a lot."
+    } ]
+  }, {
+    "tStartMs": 1151100,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Ah, that's how you have to eat it."
+    } ]
+  }, {
+    "tStartMs": 1153080,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "What about hot bars? Do you eat those?"
+    } ]
+  }, {
+    "tStartMs": 1155060,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Oh, I don't like sausage."
+    } ]
+  }, {
+    "tStartMs": 1156690,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "You don't like sausage?"
+    } ]
+  }, {
+    "tStartMs": 1157780,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1159940,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "If you travel to Germany, would you eat sausage?"
+    } ]
+  }, {
+    "tStartMs": 1162790,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "I would eat German sausage."
+    } ]
+  }, {
+    "tStartMs": 1165960,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Right, right, ah so you don't really like these frankfurter sausages."
+    } ]
+  }, {
+    "tStartMs": 1169060,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1170270,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "I usually eat one sausage and one triangle kimbap."
+    } ]
+  }, {
+    "tStartMs": 1175650,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Or one ramen and one sausage."
+    } ]
+  }, {
+    "tStartMs": 1178620,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I ate it thinking I needed to get protein."
+    } ]
+  }, {
+    "tStartMs": 1182420,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "A Hwanghae set meal."
+    } ]
+  }, {
+    "tStartMs": 1185090,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "That kind of feeling."
+    } ]
+  }, {
+    "tStartMs": 1186140,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Cheese sausage and things like that are delicious."
+    } ]
+  }, {
+    "tStartMs": 1188080,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1191180,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Processed meat is not good for your body."
+    } ]
+  }, {
+    "tStartMs": 1193630,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1196310,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Common health knowledge~"
+    } ]
+  }, {
+    "tStartMs": 1198390,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "When I think about when I go to convenience stores"
+    } ]
+  }, {
+    "tStartMs": 1201500,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "I think I only go when it's really urgent."
+    } ]
+  }, {
+    "tStartMs": 1207060,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Water suddenly ran out completely."
+    } ]
+  }, {
+    "tStartMs": 1210710,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "When that happens, I go to the convenience store and buy water."
+    } ]
+  }, {
+    "tStartMs": 1213280,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "I use it a lot when I need to urgently buy something I didn't shop for in advance."
+    } ]
+  }, {
+    "tStartMs": 1218380,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "And you buy things like trash bags at convenience stores, right?"
+    } ]
+  }, {
+    "tStartMs": 1222610,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "So I just go when I need to buy those kinds of things."
+    } ]
+  }, {
+    "tStartMs": 1226030,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "I suddenly went outside but I need something."
+    } ]
+  }, {
+    "tStartMs": 1229720,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Like if I suddenly urgently need a pen."
+    } ]
+  }, {
+    "tStartMs": 1231850,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Then I use it to buy those kinds of things."
+    } ]
+  }, {
+    "tStartMs": 1236410,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "So it seems like you don't usually go to buy snacks."
+    } ]
+  }, {
+    "tStartMs": 1241090,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Rather than convenience store snacks, I prefer to go to a bakery."
+    } ]
+  }, {
+    "tStartMs": 1244650,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "And buy some delicious bread."
+    } ]
+  }, {
+    "tStartMs": 1248590,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Have you discovered anything delicious recently at a convenience store?"
+    } ]
+  }, {
+    "tStartMs": 1254200,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Not recently."
+    } ]
+  }, {
+    "tStartMs": 1256030,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Even if not recently, is there anything?"
+    } ]
+  }, {
+    "tStartMs": 1259070,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "There is something from a few years ago."
+    } ]
+  }, {
+    "tStartMs": 1261060,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "What is it? Do they still sell it?"
+    } ]
+  }, {
+    "tStartMs": 1263170,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "They still sell it."
+    } ]
+  }, {
+    "tStartMs": 1264690,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 1266100,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "A lot of foreign people probably know about this."
+    } ]
+  }, {
+    "tStartMs": 1269340,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1270750,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "Kinder Bueno hazelnut white flavor."
+    } ]
+  }, {
+    "tStartMs": 1275810,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "That's really delicious."
+    } ]
+  }, {
+    "tStartMs": 1277380,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Kinder Bueno... what does it look like?"
+    } ]
+  }, {
+    "tStartMs": 1279870,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "Kinder Bueno has two sticks."
+    } ]
+  }, {
+    "tStartMs": 1286150,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "The sticks are shaped like this."
+    } ]
+  }, {
+    "tStartMs": 1290250,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Like four mountains arranged this way."
+    } ]
+  }, {
+    "tStartMs": 1295110,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Yes, bite-sized."
+    } ]
+  }, {
+    "tStartMs": 1296740,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Yes, you can break off one bite at a time, piece by piece."
+    } ]
+  }, {
+    "tStartMs": 1301500,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "The original chocolate is just okay."
+    } ]
+  }, {
+    "tStartMs": 1306660,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "The white one is really delicious."
+    } ]
+  }, {
+    "tStartMs": 1309680,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "That sounds delicious."
+    } ]
+  }, {
+    "tStartMs": 1311850,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It's really delicious. (Kinder is tasty, isn't it?)"
+    } ]
+  }, {
+    "tStartMs": 1315550,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "It's really that delicious?"
+    } ]
+  }, {
+    "tStartMs": 1316520,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "It's the most delicious among Kinder chocolates."
+    } ]
+  }, {
+    "tStartMs": 1319180,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "Valentine's Day is coming up soon, so this is good information."
+    } ]
+  }, {
+    "tStartMs": 1323330,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "I recommend it."
+    } ]
+  }, {
+    "tStartMs": 1324350,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Kinder Bueno white."
+    } ]
+  }, {
+    "tStartMs": 1326270,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1327100,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Oh, that's great."
+    } ]
+  }, {
+    "tStartMs": 1328520,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "Something I recommend from convenience stores..."
+    } ]
+  }, {
+    "tStartMs": 1330430,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I've talked about convenience store recommendations before."
+    } ]
+  }, {
+    "tStartMs": 1334350,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "What should I recommend?"
+    } ]
+  }, {
+    "tStartMs": 1335680,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Oh, this one exists... I'll skip this one since I didn't mention it back then."
+    } ]
+  }, {
+    "tStartMs": 1339330,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Some convenience stores have it and some don't."
+    } ]
+  }, {
+    "tStartMs": 1342190,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "The convenience store I went to at Incheon Airport had it."
+    } ]
+  }, {
+    "tStartMs": 1346050,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "So if any of you are visiting, I think it was CU at Incheon Airport."
+    } ]
+  }, {
+    "tStartMs": 1351880,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "If you go there, it's bread, and among the breads there's sticky corn bread or something?"
+    } ]
+  }, {
+    "tStartMs": 1359800,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "There's something called \"Well-Ripened Corn Story\" bread."
+    } ]
+  }, {
+    "tStartMs": 1365960,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "It's really delicious."
+    } ]
+  }, {
+    "tStartMs": 1367140,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "There's \"Well-Ripened Corn Story\" and other things too."
+    } ]
+  }, {
+    "tStartMs": 1373220,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "Is there something like \"Well-Ripened Mugwort Story\"? There's mugwort bread too."
+    } ]
+  }, {
+    "tStartMs": 1377260,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "But the texture is really chewy, so I recommend it."
+    } ]
+  }, {
+    "tStartMs": 1382100,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "So when you come to Incheon Airport,"
+    } ]
+  }, {
+    "tStartMs": 1384130,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I recommend eating this corn bread with something like banana milk."
+    } ]
+  }, {
+    "tStartMs": 1387850,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Eating it with milk."
+    } ]
+  }, {
+    "tStartMs": 1392560,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 1394830,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Speaking of Incheon Airport, it reminded me of something"
+    } ]
+  }, {
+    "tStartMs": 1398040,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "For people who travel to Korea like that"
+    } ]
+  }, {
+    "tStartMs": 1402020,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "When you're leaving Korea, you should definitely buy one banana milk"
+    } ]
+  }, {
+    "tStartMs": 1407820,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "and take it on the plane."
+    } ]
+  }, {
+    "tStartMs": 1411170,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Why is that?"
+    } ]
+  }, {
+    "tStartMs": 1413660,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "When I went to Thailand last year"
+    } ]
+  }, {
+    "tStartMs": 1417070,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "I just had some change left, so after I finished checking in"
+    } ]
+  }, {
+    "tStartMs": 1422650,
+    "dDurationMs": 6890,
+    "segs": [ {
+      "utf8": "I bought one banana milk at the convenience store right before boarding the plane."
+    } ]
+  }, {
+    "tStartMs": 1429540,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "But the flight time is pretty long, right?"
+    } ]
+  }, {
+    "tStartMs": 1432510,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Yeah, it takes about five or six hours."
+    } ]
+  }, {
+    "tStartMs": 1434340,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "Yes, so if you're sitting the whole time, you feel a bit stiff and sluggish"
+    } ]
+  }, {
+    "tStartMs": 1438200,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "and since you're not talking and keeping your mouth closed"
+    } ]
+  }, {
+    "tStartMs": 1440840,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "your mouth gets a bit dry, and also it usually gets hot"
+    } ]
+  }, {
+    "tStartMs": 1446400,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "It does get a bit like that"
+    } ]
+  }, {
+    "tStartMs": 1447460,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Yes, it gets hot, so you feel stuffy and uncomfortable"
+    } ]
+  }, {
+    "tStartMs": 1451390,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "and the things you can eat or drink on the plane"
+    } ]
+  }, {
+    "tStartMs": 1457350,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "are just water or beverages"
+    } ]
+  }, {
+    "tStartMs": 1460270,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "Yes, you can't bring hot drinks on board, there are rules about that"
+    } ]
+  }, {
+    "tStartMs": 1466020,
+    "dDurationMs": 7930,
+    "segs": [ {
+      "utf8": "But when everyone else is sleeping and feeling sluggish"
+    } ]
+  }, {
+    "tStartMs": 1473950,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "I pull out my banana milk"
+    } ]
+  }, {
+    "tStartMs": 1477410,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "pop the straw in..."
+    } ]
+  }, {
+    "tStartMs": 1481040,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and if you have a window seat, that's the cherry on top."
+    } ]
+  }, {
+    "tStartMs": 1484070,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "The window seat gets pretty hot, right?"
+    } ]
+  }, {
+    "tStartMs": 1486980,
+    "dDurationMs": 7820,
+    "segs": [ {
+      "utf8": "You know how there's the airplane window and then the wall right next to it?"
+    } ]
+  }, {
+    "tStartMs": 1494800,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Yes, so if you press your chin right against it and your cheek right against it"
+    } ]
+  }, {
+    "tStartMs": 1498860,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "it's cool, right?"
+    } ]
+  }, {
+    "tStartMs": 1502290,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Yes, your skin cools down first..."
+    } ]
+  }, {
+    "tStartMs": 1504050,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "First you cool your cheek like this while looking down at the sky"
+    } ]
+  }, {
+    "tStartMs": 1509620,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "and you sip your banana milk."
+    } ]
+  }, {
+    "tStartMs": 1513070,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So you don't envy first class?"
+    } ]
+  }, {
+    "tStartMs": 1516310,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Then banana milk really becomes twice as delicious."
+    } ]
+  }, {
+    "tStartMs": 1520500,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "How to enjoy banana milk deliciously"
+    } ]
+  }, {
+    "tStartMs": 1522210,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1523810,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "on an airplane..."
+    } ]
+  }, {
+    "tStartMs": 1524640,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "when you're on a plane"
+    } ]
+  }, {
+    "tStartMs": 1526740,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Yes, when you're on the plane feeling stiff and sluggish"
+    } ]
+  }, {
+    "tStartMs": 1529060,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "a bit hot and stuffy, you drink it—it's really refreshing."
+    } ]
+  }, {
+    "tStartMs": 1534120,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "It must be really sweet."
+    } ]
+  }, {
+    "tStartMs": 1535940,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Yes, I recommend it to our subscribers."
+    } ]
+  }, {
+    "tStartMs": 1538330,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Wow, that's really funny."
+    } ]
+  }, {
+    "tStartMs": 1540350,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Banana milk is already pretty popular anyway"
+    } ]
+  }, {
+    "tStartMs": 1542470,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 1543740,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "There are so many varieties, but as someone who's been drinking banana milk since childhood"
+    } ]
+  }, {
+    "tStartMs": 1546650,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "I recommend the original the most"
+    } ]
+  }, {
+    "tStartMs": 1551350,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "and they say it tastes good when you drink it that way."
+    } ]
+  }, {
+    "tStartMs": 1554460,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1555490,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "We've all traveled before, and after a trip ends"
+    } ]
+  }, {
+    "tStartMs": 1559190,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "you have that feeling of wanting to buy something more, that sense of regret"
+    } ]
+  }, {
+    "tStartMs": 1563300,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "so that's when it's nice to go to the convenience store and buy things like this."
+    } ]
+  }, {
+    "tStartMs": 1566880,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1567990,
+    "dDurationMs": 9110,
+    "segs": [ {
+      "utf8": "Corn cheese bread and banana milk, what else would be good to buy at the convenience store?"
+    } ]
+  }, {
+    "tStartMs": 1577100,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Ramen is a bit tricky because it takes up a lot of space"
+    } ]
+  }, {
+    "tStartMs": 1581170,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Is there a ramen that people like to buy?"
+    } ]
+  }, {
+    "tStartMs": 1584110,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Ramen?"
+    } ]
+  }, {
+    "tStartMs": 1585150,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "Yes, is there a ramen you often buy at the convenience store?"
+    } ]
+  }, {
+    "tStartMs": 1588880,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "Ramen you buy at the convenience store pretty much has to be cup ramen"
+    } ]
+  }, {
+    "tStartMs": 1595720,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "Yes, I actually like Cocoa Noodles."
+    } ]
+  }, {
+    "tStartMs": 1600930,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Cocoa Noodles still exists?"
+    } ]
+  }, {
+    "tStartMs": 1602720,
+    "dDurationMs": 410,
+    "segs": [ {
+      "utf8": "It does."
+    } ]
+  }, {
+    "tStartMs": 1603130,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "But we only have it in cup noodle form."
+    } ]
+  }, {
+    "tStartMs": 1606700,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Is it the white broth kind?"
+    } ]
+  }, {
+    "tStartMs": 1608450,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 1609700,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "It's chicken broth ramen, right?"
+    } ]
+  }, {
+    "tStartMs": 1612620,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1613670,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "It's been so long since I've eaten it."
+    } ]
+  }, {
+    "tStartMs": 1616780,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Yeah, so I've never seen it in bag form."
+    } ]
+  }, {
+    "tStartMs": 1621160,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "These days at convenience stores it comes as cup noodles."
+    } ]
+  }, {
+    "tStartMs": 1624780,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Actually, I really love making ramen at home and cooking it myself."
+    } ]
+  }, {
+    "tStartMs": 1630240,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "It seems more delicious that way—the appeal is different, though."
+    } ]
+  }, {
+    "tStartMs": 1634510,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1636240,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Have you tried snack noodles, or rather, cup noodles?"
+    } ]
+  }, {
+    "tStartMs": 1640440,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Isn't that a diet food?"
+    } ]
+  }, {
+    "tStartMs": 1642540,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "It's really light ramen, you know?"
+    } ]
+  }, {
+    "tStartMs": 1647070,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "When I was in university, I used the convenience store the most because I lived in a dorm."
+    } ]
+  }, {
+    "tStartMs": 1652120,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "So after a class ends and I do assignments and stuff, I get hungry around midnight."
+    } ]
+  }, {
+    "tStartMs": 1658530,
+    "dDurationMs": 8070,
+    "segs": [ {
+      "utf8": "With friends, we can't really eat a lot of food every single night, you know?"
+    } ]
+  }, {
+    "tStartMs": 1666600,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "So when I'm a little peckish and want to eat something, when my mouth feels bored."
+    } ]
+  }, {
+    "tStartMs": 1671220,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "That's when I often ate snack noodles."
+    } ]
+  }, {
+    "tStartMs": 1673120,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "No wait, I keep saying snack noodles—what is that? Cup noodles, cup noodles."
+    } ]
+  }, {
+    "tStartMs": 1676900,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "Don't cup noodles have transparent-looking noodles?"
+    } ]
+  }, {
+    "tStartMs": 1683620,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "That would be like japchae noodles."
+    } ]
+  }, {
+    "tStartMs": 1687550,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "Right, noodles made from starch—diet noodles."
+    } ]
+  }, {
+    "tStartMs": 1692900,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "It's a small cup ramen with a really simple composition."
+    } ]
+  }, {
+    "tStartMs": 1696510,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Small, yes, and it's really light."
+    } ]
+  }, {
+    "tStartMs": 1698600,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "There's only a little bit of noodles in it."
+    } ]
+  }, {
+    "tStartMs": 1701300,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "For people who don't eat large portions,"
+    } ]
+  }, {
+    "tStartMs": 1704140,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "or when you want to try various things at the convenience store all at once,"
+    } ]
+  }, {
+    "tStartMs": 1707710,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "you can have that with a slightly broth-like feeling,"
+    } ]
+  }, {
+    "tStartMs": 1710260,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "triangular kimbap, sandwich,"
+    } ]
+  }, {
+    "tStartMs": 1711910,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "or like one piece of bread, and eat it that way."
+    } ]
+  }, {
+    "tStartMs": 1716130,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "For people who like eating little by little,"
+    } ]
+  }, {
+    "tStartMs": 1719040,
+    "dDurationMs": 10440,
+    "segs": [ {
+      "utf8": "but thinking about that story, cup ramen actually"
+    } ]
+  }, {
+    "tStartMs": 1729480,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "comes in two types."
+    } ]
+  }, {
+    "tStartMs": 1731200,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1733310,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "One is just cup ramen where you pour boiling water and eat it,"
+    } ]
+  }, {
+    "tStartMs": 1738900,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "and the other is cup ramen that you can cook in a microwave."
+    } ]
+  }, {
+    "tStartMs": 1742830,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "So for visitors who come traveling,"
+    } ]
+  }, {
+    "tStartMs": 1746980,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "they might not know that well."
+    } ]
+  }, {
+    "tStartMs": 1750690,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Cup ramen—if you look at the container, the lid, the bowl,"
+    } ]
+  }, {
+    "tStartMs": 1755990,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "there's writing that says \"This cup ramen is microwave-safe,\""
+    } ]
+  }, {
+    "tStartMs": 1760570,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1761510,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "But for that one, you take off the lid completely and add boiling water,"
+    } ]
+  }, {
+    "tStartMs": 1766530,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "then cook it in the microwave for the time shown,"
+    } ]
+  }, {
+    "tStartMs": 1770560,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "and you can eat it even more deliciously."
+    } ]
+  }, {
+    "tStartMs": 1772770,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Oh, the one I know as a typical example is among Buldak Bokkeummyeon, the Four Cheese Buldak Bokkeummyeon—that's my favorite."
+    } ]
+  }, {
+    "tStartMs": 1778050,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "It's written that way."
+    } ]
+  }, {
+    "tStartMs": 1781830,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "It says add water first and put it in the microwave, so if you check and eat it,"
+    } ]
+  }, {
+    "tStartMs": 1784480,
+    "dDurationMs": 7350,
+    "segs": [ {
+      "utf8": "the noodles definitely cook through more and it tastes better."
+    } ]
+  }, {
+    "tStartMs": 1791830,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1796090,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "So for the last thing, for foreign visitors coming to the convenience store,"
+    } ]
+  }, {
+    "tStartMs": 1797530,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "should we talk about one more recommendation each?"
+    } ]
+  }, {
+    "tStartMs": 1801660,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Hmm, something I want to recommend..."
+    } ]
+  }, {
+    "tStartMs": 1804420,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Actually, there are so, so many cafes in Korea,"
+    } ]
+  }, {
+    "tStartMs": 1807010,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "so I do recommend going to a cafe and having coffee."
+    } ]
+  }, {
+    "tStartMs": 1810240,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "But then I heard this somewhere—"
+    } ]
+  }, {
+    "tStartMs": 1815170,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "like a coffee association or something did some kind of contest,"
+    } ]
+  }, {
+    "tStartMs": 1819310,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "and they did a blind taste test."
+    } ]
+  }, {
+    "tStartMs": 1824800,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Like, they did it with coffee from some shop, cafe coffee, convenience store coffee,"
+    } ]
+  }, {
+    "tStartMs": 1826050,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "뭐 어디 가게 커피, 카페 커피, 편의점 커피 해가지고 했는데"
+    } ]
+  }, {
+    "tStartMs": 1830940,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Convenience stores came in first place in a blind taste test."
+    } ]
+  }, {
+    "tStartMs": 1833810,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "First place in taste."
+    } ]
+  }, {
+    "tStartMs": 1835600,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "Wow, yes."
+    } ]
+  }, {
+    "tStartMs": 1837180,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "And the coffee machine that convenience stores use costs over ten million won."
+    } ]
+  }, {
+    "tStartMs": 1841740,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "They say they use really expensive equipment."
+    } ]
+  }, {
+    "tStartMs": 1844360,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "That's why people say it tastes good."
+    } ]
+  }, {
+    "tStartMs": 1847940,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "So if, say, there are too many people at the coffee shop in the airport,"
+    } ]
+  }, {
+    "tStartMs": 1853270,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "convenience store coffee is also fine."
+    } ]
+  }, {
+    "tStartMs": 1856130,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "But not the coffee in the refrigerator—"
+    } ]
+  }, {
+    "tStartMs": 1858710,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "if you want iced coffee from that machine, you take out an ice cup,"
+    } ]
+  }, {
+    "tStartMs": 1863270,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "and then you ask them for coffee and they make it for you."
+    } ]
+  }, {
+    "tStartMs": 1867150,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Or if you want something hot, you just go to the register and"
+    } ]
+  }, {
+    "tStartMs": 1871000,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "say \"one Americano, please,\" and they give you the right cup,"
+    } ]
+  }, {
+    "tStartMs": 1875840,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "so it might be nice to try their coffee too."
+    } ]
+  }, {
+    "tStartMs": 1880380,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 1882940,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "I've actually already made all my recommendations—"
+    } ]
+  }, {
+    "tStartMs": 1889000,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "kimchi ramyeon and KGB,"
+    } ]
+  }, {
+    "tStartMs": 1891940,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "and Kinder Bueno White, so I've recommended those."
+    } ]
+  }, {
+    "tStartMs": 1896210,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "You also mentioned banana milk?"
+    } ]
+  }, {
+    "tStartMs": 1898030,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "I did mention banana milk,"
+    } ]
+  }, {
+    "tStartMs": 1899540,
+    "dDurationMs": 7990,
+    "segs": [ {
+      "utf8": "but if I could give one more recommendation and some advice,"
+    } ]
+  }, {
+    "tStartMs": 1907530,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "a tip!"
+    } ]
+  }, {
+    "tStartMs": 1909950,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Realistically, when travelers"
+    } ]
+  }, {
+    "tStartMs": 1914400,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "are leaving from the airport, there are lots of duty-free shops there, right?"
+    } ]
+  }, {
+    "tStartMs": 1919790,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1920640,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "And some of those duty-free shops sell snacks."
+    } ]
+  }, {
+    "tStartMs": 1927050,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "They do."
+    } ]
+  }, {
+    "tStartMs": 1927760,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "Yes, and there are snacks you can only buy there,"
+    } ]
+  }, {
+    "tStartMs": 1932530,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "but they also just sell regular snacks too."
+    } ]
+  }, {
+    "tStartMs": 1936460,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "Just regular snacks you can buy at the supermarket."
+    } ]
+  }, {
+    "tStartMs": 1939200,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Yes, yes, they sell regular snacks too."
+    } ]
+  }, {
+    "tStartMs": 1941880,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "But usually... I'm not sure if it's usually..."
+    } ]
+  }, {
+    "tStartMs": 1947620,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "the snacks in that duty-free snack section,"
+    } ]
+  }, {
+    "tStartMs": 1951710,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "those snacks sometimes also get sold at the convenience store inside the airport."
+    } ]
+  }, {
+    "tStartMs": 1958080,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "Oh, so the same product could be there?"
+    } ]
+  }, {
+    "tStartMs": 1960010,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes, but the price is several times more expensive here."
+    } ]
+  }, {
+    "tStartMs": 1964010,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "At the duty-free?"
+    } ]
+  }, {
+    "tStartMs": 1964890,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1965740,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Ah... well..."
+    } ]
+  }, {
+    "tStartMs": 1970180,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I actually bought something that way once."
+    } ]
+  }, {
+    "tStartMs": 1974820,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "My friend likes Chaltteok Pie,"
+    } ]
+  }, {
+    "tStartMs": 1980290,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "and while I was buying other gifts, I saw they had Chaltteok Pie, so I checked out with that too."
+    } ]
+  }, {
+    "tStartMs": 1986390,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So I put it in a shopping bag and was heading to the airport gate,"
+    } ]
+  }, {
+    "tStartMs": 1990670,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "and there was a convenience store right next to it."
+    } ]
+  }, {
+    "tStartMs": 1993140,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "So I went there to buy banana milk,"
+    } ]
+  }, {
+    "tStartMs": 1997500,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "and there was the exact same Chaltteok Pie."
+    } ]
+  }, {
+    "tStartMs": 2000610,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Fortunately I had plenty of time left,"
+    } ]
+  }, {
+    "tStartMs": 2003020,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "so I went back to the duty-free and got a refund. (- How thrifty!)"
+    } ]
+  }, {
+    "tStartMs": 2008870,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "You can't help it, you can't help it— it wasn't just a difference of 1,000 or 2,000 won."
+    } ]
+  }, {
+    "tStartMs": 2014480,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "So I got the refund and bought it again at the convenience store instead."
+    } ]
+  }, {
+    "tStartMs": 2019290,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "This is something only people who know about it would do—you'd have to be foolish not to."
+    } ]
+  }, {
+    "tStartMs": 2024350,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Yes, I hope you all be careful too."
+    } ]
+  }, {
+    "tStartMs": 2027560,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "And for most famous snacks,"
+    } ]
+  }, {
+    "tStartMs": 2030300,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "snacks that Koreans eat a lot are available at convenience stores."
+    } ]
+  }, {
+    "tStartMs": 2033510,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "I think buying them there is the best option for me too."
+    } ]
+  }, {
+    "tStartMs": 2037410,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2039080,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "Because it's where Koreans actually shop, the convenience store."
+    } ]
+  }, {
+    "tStartMs": 2042490,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2043570,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "Yes, so we've talked about convenience stores up to here,"
+    } ]
+  }, {
+    "tStartMs": 2047560,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "and I was thinking of giving you a quiz."
+    } ]
+  }, {
+    "tStartMs": 2050010,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "This week's quiz is about food that Didi and Teacher Tae-woong frequently buy at convenience stores,"
+    } ]
+  }, {
+    "tStartMs": 2056350,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and you just need to pick the one that they don't buy."
+    } ]
+  }, {
+    "tStartMs": 2061950,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "There's a new feature on YouTube,"
+    } ]
+  }, {
+    "tStartMs": 2064310,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "and it turns out a voting function was added."
+    } ]
+  }, {
+    "tStartMs": 2066820,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "This time I'm going to try using that,"
+    } ]
+  }, {
+    "tStartMs": 2069940,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and for food that Didi and Teacher Tae-woong frequently buy at convenience stores,"
+    } ]
+  }, {
+    "tStartMs": 2072020,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "you just need to pick the one they don't buy."
+    } ]
+  }, {
+    "tStartMs": 2077180,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Number 1,"
+    } ]
+  }, {
+    "tStartMs": 2078250,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "kimbap."
+    } ]
+  }, {
+    "tStartMs": 2079900,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Number 2, eggs."
+    } ]
+  }, {
+    "tStartMs": 2082700,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "Number 3, sausage."
+    } ]
+  }, {
+    "tStartMs": 2085590,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "If you know the answer, please select it on the YouTube screen here"
+    } ]
+  }, {
+    "tStartMs": 2089600,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "or leave it in the comments, and I'd appreciate it."
+    } ]
+  }, {
+    "tStartMs": 2092590,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Then we'll move on to our next segment."
+    } ]
+  }, {
+    "tStartMs": 2096420,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "A word-based mini game."
+    } ]
+  }, {
+    "tStartMs": 2106880,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Now this is the word-based mini game segment,"
+    } ]
+  }, {
+    "tStartMs": 2109940,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "and we've been doing a ranking guessing game since last time,"
+    } ]
+  }, {
+    "tStartMs": 2113630,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and it seems like it's good for talking about things"
+    } ]
+  }, {
+    "tStartMs": 2116350,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "and you can find Korean characteristics in the game,"
+    } ]
+  }, {
+    "tStartMs": 2121540,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "so I prepared a guessing game for this time too."
+    } ]
+  }, {
+    "tStartMs": 2124720,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "And what you need to guess this time is"
+    } ]
+  }, {
+    "tStartMs": 2126930,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "what is the most sold product at Korean convenience stores—"
+    } ]
+  }, {
+    "tStartMs": 2132680,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "it's a game where you guess the number 1."
+    } ]
+  }, {
+    "tStartMs": 2136660,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So should we use that as a category?"
+    } ]
+  }, {
+    "tStartMs": 2140940,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "I'm not really sure either,"
+    } ]
+  }, {
+    "tStartMs": 2142130,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "it just said \"this thing.\""
+    } ]
+  }, {
+    "tStartMs": 2145440,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Because I saw an article about the most sold \"this thing\" at Korean convenience stores."
+    } ]
+  }, {
+    "tStartMs": 2150180,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "But I haven't seen this thing myself."
+    } ]
+  }, {
+    "tStartMs": 2152990,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 2154170,
+    "dDurationMs": 660,
+    "segs": [ {
+      "utf8": "Let's guess."
+    } ]
+  }, {
+    "tStartMs": 2154830,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "I think it's probably a product, a specific product."
+    } ]
+  }, {
+    "tStartMs": 2158330,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2163570,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "If you said it sold abroad, I'd say Buldak Bokkeummyeon."
+    } ]
+  }, {
+    "tStartMs": 2166670,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "Buldak Bokkeummyeon?"
+    } ]
+  }, {
+    "tStartMs": 2167450,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "I've really heard a lot about banana milk, like they stack it up and sell it."
+    } ]
+  }, {
+    "tStartMs": 2171930,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2172750,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "You've seen it before, right?"
+    } ]
+  }, {
+    "tStartMs": 2176060,
+    "dDurationMs": 100,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2176160,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "So do foreigners use convenience stores more? Do they buy more?"
+    } ]
+  }, {
+    "tStartMs": 2181070,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Or do domestic people still buy more?"
+    } ]
+  }, {
+    "tStartMs": 2184420,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "No, obviously domestically."
+    } ]
+  }, {
+    "tStartMs": 2186050,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That would make sense, right?"
+    } ]
+  }, {
+    "tStartMs": 2187050,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Yes, probably more."
+    } ]
+  }, {
+    "tStartMs": 2188120,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "So things that seem like they'd sell a lot domestically—"
+    } ]
+  }, {
+    "tStartMs": 2192180,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "I can think of one thing right away."
+    } ]
+  }, {
+    "tStartMs": 2194670,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 2195870,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Cigarettes?"
+    } ]
+  }, {
+    "tStartMs": 2197320,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Cigarettes?"
+    } ]
+  }, {
+    "tStartMs": 2199520,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Do people have to go to a convenience store to buy cigarettes?"
+    } ]
+  }, {
+    "tStartMs": 2202210,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Isn't it the case that there aren't really other places to buy them these days?"
+    } ]
+  }, {
+    "tStartMs": 2205580,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 2207000,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "But would there be that many smokers?"
+    } ]
+  }, {
+    "tStartMs": 2211740,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "For example, more than people who drink water?"
+    } ]
+  }, {
+    "tStartMs": 2214910,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "I was thinking of something like water."
+    } ]
+  }, {
+    "tStartMs": 2217120,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "But with water, there are lots of other places to get it besides convenience stores, right?"
+    } ]
+  }, {
+    "tStartMs": 2222640,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "You wouldn't necessarily buy it there, and it's more expensive too."
+    } ]
+  }, {
+    "tStartMs": 2229220,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Is it cigarettes?"
+    } ]
+  }, {
+    "tStartMs": 2232700,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Or maybe alcohol?"
+    } ]
+  }, {
+    "tStartMs": 2235020,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "Alcohol, beer—people buy beer a lot too."
+    } ]
+  }, {
+    "tStartMs": 2242640,
+    "dDurationMs": 7570,
+    "segs": [ {
+      "utf8": "With food, it seems like people who don't eat it just don't eat it, like kimbap or... sandwiches?"
+    } ]
+  }, {
+    "tStartMs": 2250210,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2252150,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Wow, cigarettes?"
+    } ]
+  }, {
+    "tStartMs": 2255750,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Did Teacher Tae-woong guess it?"
+    } ]
+  }, {
+    "tStartMs": 2258120,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "What do you think, Didi?"
+    } ]
+  }, {
+    "tStartMs": 2260880,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Things that sell a lot..."
+    } ]
+  }, {
+    "tStartMs": 2262830,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "I think it's probably something to drink — whether it's alcohol or water."
+    } ]
+  }, {
+    "tStartMs": 2268560,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Or maybe a hangover drink, for some reason..."
+    } ]
+  }, {
+    "tStartMs": 2271900,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "Beer?"
+    } ]
+  }, {
+    "tStartMs": 2276430,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It does seem like it could be beer."
+    } ]
+  }, {
+    "tStartMs": 2280130,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "Beer is cheap to buy, so I think it would sell even better."
+    } ]
+  }, {
+    "tStartMs": 2287870,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "Right, and people go to the mart just to buy beer."
+    } ]
+  }, {
+    "tStartMs": 2293730,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "When people really need beer, they usually go to the convenience store instead."
+    } ]
+  }, {
+    "tStartMs": 2298010,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 2299680,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2301130,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Now that I think about it, beer probably sells more than cigarettes."
+    } ]
+  }, {
+    "tStartMs": 2304040,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Right, I think there are more people who drink alcohol."
+    } ]
+  }, {
+    "tStartMs": 2306940,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "And also..."
+    } ]
+  }, {
+    "tStartMs": 2308050,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2309660,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Nobody buys four packs of cigarettes at once."
+    } ]
+  }, {
+    "tStartMs": 2314380,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "But lots of people buy beer in four-can sets."
+    } ]
+  }, {
+    "tStartMs": 2317330,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Like you do, Didi."
+    } ]
+  }, {
+    "tStartMs": 2320500,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Yes, beer?!"
+    } ]
+  }, {
+    "tStartMs": 2323230,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Beer, but um..."
+    } ]
+  }, {
+    "tStartMs": 2327870,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Oh, this is really difficult."
+    } ]
+  }, {
+    "tStartMs": 2330300,
+    "dDurationMs": 8020,
+    "segs": [ {
+      "utf8": "Right, when I go out with friends, we buy something to drink."
+    } ]
+  }, {
+    "tStartMs": 2338320,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "When we're thirsty and rush in to buy water."
+    } ]
+  }, {
+    "tStartMs": 2341180,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Or buy an ion drink."
+    } ]
+  }, {
+    "tStartMs": 2345820,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Or beer, something like that."
+    } ]
+  }, {
+    "tStartMs": 2347630,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Beer?"
+    } ]
+  }, {
+    "tStartMs": 2348480,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "But wait, is it not a specific brand? It's not a specific brand, right?"
+    } ]
+  }, {
+    "tStartMs": 2352630,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "I think it's beer."
+    } ]
+  }, {
+    "tStartMs": 2355970,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "Oh really? Me too."
+    } ]
+  }, {
+    "tStartMs": 2359400,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "Oh, it wasn't cigarettes?"
+    } ]
+  }, {
+    "tStartMs": 2360970,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "No, it wasn't."
+    } ]
+  }, {
+    "tStartMs": 2361780,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "It wasn't? Did you change your answer?"
+    } ]
+  }, {
+    "tStartMs": 2363480,
+    "dDurationMs": 590,
+    "segs": [ {
+      "utf8": "So both?"
+    } ]
+  }, {
+    "tStartMs": 2364070,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Then it's beer."
+    } ]
+  }, {
+    "tStartMs": 2366880,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "We choose from beer."
+    } ]
+  }, {
+    "tStartMs": 2369650,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "The type?"
+    } ]
+  }, {
+    "tStartMs": 2370340,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2372640,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "I think it's Cass..."
+    } ]
+  }, {
+    "tStartMs": 2376380,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Isn't Cass just number one?"
+    } ]
+  }, {
+    "tStartMs": 2377870,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "The best-selling beer in Korea?"
+    } ]
+  }, {
+    "tStartMs": 2379680,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "I think that's probably it."
+    } ]
+  }, {
+    "tStartMs": 2381460,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Oh man..."
+    } ]
+  }, {
+    "tStartMs": 2383910,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "But wait, is it not beer either?"
+    } ]
+  }, {
+    "tStartMs": 2387220,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Like, isn't it something like Shin Ramyeon?"
+    } ]
+  }, {
+    "tStartMs": 2389080,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Oh, ramyeon."
+    } ]
+  }, {
+    "tStartMs": 2391290,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Ramyeon."
+    } ]
+  }, {
+    "tStartMs": 2392470,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Ramyeon probably sells a lot too."
+    } ]
+  }, {
+    "tStartMs": 2394690,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "People do eat a lot of ramyeon."
+    } ]
+  }, {
+    "tStartMs": 2397760,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "But some people don't eat it at all."
+    } ]
+  }, {
+    "tStartMs": 2401990,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "I don't buy it very often."
+    } ]
+  }, {
+    "tStartMs": 2403230,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "Oh, so it's a showdown between smoking and drinking."
+    } ]
+  }, {
+    "tStartMs": 2408580,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "I don't think cigarettes sell that much."
+    } ]
+  }, {
+    "tStartMs": 2412830,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Not everyone smokes anyway."
+    } ]
+  }, {
+    "tStartMs": 2415840,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "That's true too."
+    } ]
+  }, {
+    "tStartMs": 2416800,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "People don't buy a pack every single day."
+    } ]
+  }, {
+    "tStartMs": 2420410,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Even if there are a lot of smokers."
+    } ]
+  }, {
+    "tStartMs": 2421870,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2423760,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "It's beer then."
+    } ]
+  }, {
+    "tStartMs": 2427220,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "It's probably beer, right?"
+    } ]
+  }, {
+    "tStartMs": 2428820,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "Oh, but there's something else we didn't talk about—ramen came up earlier."
+    } ]
+  }, {
+    "tStartMs": 2432710,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "You know, there are convenience store ramen recipes that are good to make at the store."
+    } ]
+  }, {
+    "tStartMs": 2439950,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 2440700,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "It would be nice if you introduced some of those."
+    } ]
+  }, {
+    "tStartMs": 2443730,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Some representative ones are—"
+    } ]
+  }, {
+    "tStartMs": 2444650,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "Buldak bokkeummyeon with string cheese torn up like this and put in."
+    } ]
+  }, {
+    "tStartMs": 2449020,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "And those small Vienna sausages they sell."
+    } ]
+  }, {
+    "tStartMs": 2451890,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "You put those in and microwave it to eat."
+    } ]
+  }, {
+    "tStartMs": 2454720,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "There are things like that too."
+    } ]
+  }, {
+    "tStartMs": 2456530,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Like jjapaguri, the one that appeared in Parasite."
+    } ]
+  }, {
+    "tStartMs": 2459140,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "That's originally a convenience store recipe."
+    } ]
+  }, {
+    "tStartMs": 2461600,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2463020,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "It seems like ramen is eaten a lot."
+    } ]
+  }, {
+    "tStartMs": 2465210,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Now that you mention it, students really eat a lot of ramen."
+    } ]
+  }, {
+    "tStartMs": 2468730,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 2470210,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2471980,
+    "dDurationMs": 7780,
+    "segs": [ {
+      "utf8": "Alcohol can only be bought by adults, but teenagers can eat ramen too."
+    } ]
+  }, {
+    "tStartMs": 2482530,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "So it's not a small thing either."
+    } ]
+  }, {
+    "tStartMs": 2484380,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 2485650,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "Is that the all-time sales ranking?"
+    } ]
+  }, {
+    "tStartMs": 2489060,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Or is it the 2025 sales volume?"
+    } ]
+  }, {
+    "tStartMs": 2492080,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "You don't know that?"
+    } ]
+  }, {
+    "tStartMs": 2493240,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "I can't know."
+    } ]
+  }, {
+    "tStartMs": 2494150,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "If I knew that, I feel like I'd know too much."
+    } ]
+  }, {
+    "tStartMs": 2497250,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Hmm... I'll go with ramen."
+    } ]
+  }, {
+    "tStartMs": 2500260,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Ramen?"
+    } ]
+  }, {
+    "tStartMs": 2500990,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Does that include cup ramen?"
+    } ]
+  }, {
+    "tStartMs": 2502860,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2503570,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "I'll go with ramen."
+    } ]
+  }, {
+    "tStartMs": 2504700,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Ramen?"
+    } ]
+  }, {
+    "tStartMs": 2505980,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Because I've heard that the population drinking alcohol is gradually decreasing."
+    } ]
+  }, {
+    "tStartMs": 2510700,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2511870,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2512800,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "That could be the case."
+    } ]
+  }, {
+    "tStartMs": 2514160,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Then I'll go with beer."
+    } ]
+  }, {
+    "tStartMs": 2515810,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "Good."
+    } ]
+  }, {
+    "tStartMs": 2517380,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "And I'll look it up."
+    } ]
+  }, {
+    "tStartMs": 2520500,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "\"It's not coffee, it's not beer..."
+    } ]
+  }, {
+    "tStartMs": 2522940,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "What's the most sold product at convenience stores?\""
+    } ]
+  }, {
+    "tStartMs": 2525910,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Drum roll!"
+    } ]
+  }, {
+    "tStartMs": 2527550,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "\"The most sold item at convenience stores in a year is"
+    } ]
+  }, {
+    "tStartMs": 2530590,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "ice cups.\""
+    } ]
+  }, {
+    "tStartMs": 2535570,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "I was caught off guard..."
+    } ]
+  }, {
+    "tStartMs": 2536540,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "They say about 500 million ice cups are sold annually."
+    } ]
+  }, {
+    "tStartMs": 2542640,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "So at first this didn't sell that well, but iced drinks like coffee and black tea"
+    } ]
+  }, {
+    "tStartMs": 2548210,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "became popular in the 2000s."
+    } ]
+  }, {
+    "tStartMs": 2551140,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "Iced Americano is also consumed a lot."
+    } ]
+  }, {
+    "tStartMs": 2553200,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "But beer is like that too, and cola is like that, and all beverages—"
+    } ]
+  }, {
+    "tStartMs": 2557790,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "because this ice cup goes well with everything,"
+    } ]
+  }, {
+    "tStartMs": 2561280,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "ice cups sell the best."
+    } ]
+  }, {
+    "tStartMs": 2564210,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 2566820,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "I do buy them sometimes, ice cups."
+    } ]
+  }, {
+    "tStartMs": 2571170,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "And they're really cheap."
+    } ]
+  }, {
+    "tStartMs": 2572860,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Yeah, like 800 won or so? Yes."
+    } ]
+  }, {
+    "tStartMs": 2577260,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "I was caught off guard, I never would have thought of it."
+    } ]
+  }, {
+    "tStartMs": 2579190,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "That's right, ice cups."
+    } ]
+  }, {
+    "tStartMs": 2581840,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Oh! But, but, but, but—"
+    } ]
+  }, {
+    "tStartMs": 2585590,
+    "dDurationMs": 7750,
+    "segs": [ {
+      "utf8": "It says \"excluding cigarettes and alcohol whose purchase is restricted, the number one convenience store sales item is cup ice.\""
+    } ]
+  }, {
+    "tStartMs": 2593340,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Ah, so that means cigarettes and alcohol could be even higher, right?"
+    } ]
+  }, {
+    "tStartMs": 2597470,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Right, but I think they excluded those from the count."
+    } ]
+  }, {
+    "tStartMs": 2601180,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Anyway, an ice cup is just ice inside the cup like that."
+    } ]
+  }, {
+    "tStartMs": 2607260,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "If you want anything to be refreshing, you buy it together and eat it."
+    } ]
+  }, {
+    "tStartMs": 2612920,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "There was that \"ice-bak\" trend, you know?"
+    } ]
+  }, {
+    "tStartMs": 2616380,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "There's a fatigue-recovery drink called \"Bacchus,\" and you mix it with ice."
+    } ]
+  }, {
+    "tStartMs": 2622010,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "When you drink that, it's like a refreshing energy drink, and that was a trend too."
+    } ]
+  }, {
+    "tStartMs": 2628230,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2630050,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "I see, so we didn't get the answer right, but"
+    } ]
+  }, {
+    "tStartMs": 2635250,
+    "dDurationMs": 9310,
+    "segs": [ {
+      "utf8": "I think it helped us learn about convenience store foods that sell a lot in Korea."
+    } ]
+  }, {
+    "tStartMs": 2644560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Yes, that's good."
+    } ]
+  }, {
+    "tStartMs": 2646080,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Then we'll wrap up the convenience store topic here."
+    } ]
+  }, {
+    "tStartMs": 2649030,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Now we need to think about the next topic."
+    } ]
+  }, {
+    "tStartMs": 2651730,
+    "dDurationMs": 490,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2652220,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "What would be a good next topic?"
+    } ]
+  }, {
+    "tStartMs": 2654250,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "The next topic came up while we were talking about banana milk today."
+    } ]
+  }, {
+    "tStartMs": 2658410,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "We'll do airports."
+    } ]
+  }, {
+    "tStartMs": 2661240,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "That's great, people coming to Korea will use airports a lot."
+    } ]
+  }, {
+    "tStartMs": 2665220,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Tae-woong and I have traveled a lot too."
+    } ]
+  }, {
+    "tStartMs": 2668990,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So we can talk about episodes that happened at the airport or"
+    } ]
+  }, {
+    "tStartMs": 2671360,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "keywords associated with airports."
+    } ]
+  }, {
+    "tStartMs": 2675310,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Like duty-free shops or tips."
+    } ]
+  }, {
+    "tStartMs": 2677740,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "I think there will be things like that."
+    } ]
+  }, {
+    "tStartMs": 2679600,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "So we'll talk about airports in various ways on Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 2683190,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Then, this is Didi and"
+    } ]
+  }, {
+    "tStartMs": 2685990,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong. Thank you."
+    } ]
+  }, {
+    "tStartMs": 2687680,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

@@ -1,0 +1,4873 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+    } ]
+  }, {
+    "tStartMs": 10000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 12000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 14000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yomojomo of Life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What topic should we talk about today?"
+    } ]
+  }, {
+    "tStartMs": 23000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Today's topic is a Taiwan travel edition."
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "For a moment I thought it was travel, but yes, Taiwan."
+    } ]
+  }, {
+    "tStartMs": 33000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It seems like we decided on Taiwan because you said there was an interesting story to tell."
+    } ]
+  }, {
+    "tStartMs": 38000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Let's listen as we go along."
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, sounds good."
+    } ]
+  }, {
+    "tStartMs": 42000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Before we start the podcast, Teacher Tae-woong, All Things Korean hasn't surpassed 10,000 subscribers yet?"
+    } ]
+  }, {
+    "tStartMs": 51000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're not too concerned about it?"
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Comprehensible Input Korean surpassed 30,000 subscribers, congratulations."
+    } ]
+  }, {
+    "tStartMs": 64000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You worked hard on it."
+    } ]
+  }, {
+    "tStartMs": 72000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's not something I'm concerned about, actually."
+    } ]
+  }, {
+    "tStartMs": 74000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't think I've ever seen it."
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's at 10,000 subscribers."
+    } ]
+  }, {
+    "tStartMs": 77000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I congratulated you on everything."
+    } ]
+  }, {
+    "tStartMs": 80000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Back when I was doing Comprehensible Input Korean, I think I did something at 1,000 subscribers and then at 10,000 subscribers."
+    } ]
+  }, {
+    "tStartMs": 89000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Really? Like some kind of celebration live stream or video?"
+    } ]
+  }, {
+    "tStartMs": 94000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I think at the 10,000 subscriber milestone I did something like \"ask me anything.\""
+    } ]
+  }, {
+    "tStartMs": 99000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh right, I've seen that."
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ask me anything."
+    } ]
+  }, {
+    "tStartMs": 103000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "After doing that, I realized it wasn't really a big deal."
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "No, it's definitely a big deal."
+    } ]
+  }, {
+    "tStartMs": 114000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it?"
+    } ]
+  }, {
+    "tStartMs": 115000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Just imagine those 10,000 people right in front of you. That's a huge number."
+    } ]
+  }, {
+    "tStartMs": 121000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But I might be too pessimistic, and if you actually gathered all those 10,000 people together..."
+    } ]
+  }, {
+    "tStartMs": 129000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They won't gather."
+    } ]
+  }, {
+    "tStartMs": 131000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Some people would drop out saying they have to go to a friend's wedding, and others would say they can't come because they have too much schoolwork."
+    } ]
+  }, {
+    "tStartMs": 140000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's no reason for them to gather in the first place."
+    } ]
+  }, {
+    "tStartMs": 142000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right, I don't think they'd all be able to gather like that."
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But then you lose motivation, don't you? If you think like that."
+    } ]
+  }, {
+    "tStartMs": 151000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So now the only thing I can trust is myself."
+    } ]
+  }, {
+    "tStartMs": 155000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What kind of conclusion is that?"
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Just keep working hard."
+    } ]
+  }, {
+    "tStartMs": 160000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'm the only one here."
+    } ]
+  }, {
+    "tStartMs": 164000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's nice. There's nothing to shake you."
+    } ]
+  }, {
+    "tStartMs": 167000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That's right. Actually, I do get shaken by myself quite a bit."
+    } ]
+  }, {
+    "tStartMs": 172000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The person who gets shaken the most."
+    } ]
+  }, {
+    "tStartMs": 176000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Let's talk about the podcast some other time."
+    } ]
+  }, {
+    "tStartMs": 179000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Today we want to talk about Taiwan. How many times have you been to Taiwan, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 185000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've only been once."
+    } ]
+  }, {
+    "tStartMs": 187000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Me too, just once. When did you go?"
+    } ]
+  }, {
+    "tStartMs": 190000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's been a while, I think it was about 7 or 8 years ago."
+    } ]
+  }, {
+    "tStartMs": 194000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's similar to me."
+    } ]
+  }, {
+    "tStartMs": 195000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 196000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Yes. I think it was around that time for me too."
+    } ]
+  }, {
+    "tStartMs": 203000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think I went in 2016."
+    } ]
+  }, {
+    "tStartMs": 206000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "2016?"
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 209000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Me too."
+    } ]
+  }, {
+    "tStartMs": 210000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 212000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When did you go? What month?"
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I don't remember what month, but it was summer."
+    } ]
+  }, {
+    "tStartMs": 219000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It was summer? Mine was winter. I must have gone first then."
+    } ]
+  }, {
+    "tStartMs": 224000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's interesting. We went around the same time."
+    } ]
+  }, {
+    "tStartMs": 227000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Was Taiwan trendy back then? How did you end up going to Taiwan?"
+    } ]
+  }, {
+    "tStartMs": 232000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "How should I put it? I was working at a company."
+    } ]
+  }, {
+    "tStartMs": 238000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It seems like that kind of lifestyle didn't really suit me much."
+    } ]
+  }, {
+    "tStartMs": 243000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You felt that?"
+    } ]
+  }, {
+    "tStartMs": 244000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I did feel it. So I always wanted to take a vacation somewhere."
+    } ]
+  }, {
+    "tStartMs": 249000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So I think I was there for about 10 months."
+    } ]
+  }, {
+    "tStartMs": 254000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Back then I'd take a short day off on Friday and travel from Thursday evening to Sunday."
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Or I'd take a half day on Friday and travel from Friday evening to Sunday."
+    } ]
+  }, {
+    "tStartMs": 268000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I traveled abroad pretty frequently like this."
+    } ]
+  }, {
+    "tStartMs": 272000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "While working at a company? That's not easy."
+    } ]
+  }, {
+    "tStartMs": 275000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But there are nearby countries, you know. Actually there are only two. Japan and Taiwan."
+    } ]
+  }, {
+    "tStartMs": 283000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Back then I went to Japan several times and went to Taiwan once."
+    } ]
+  }, {
+    "tStartMs": 289000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But since they're close by. And the more I traveled like that,"
+    } ]
+  }, {
+    "tStartMs": 296000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "instead of vacation periods or holidays, I could find relatively cheap flight tickets"
+    } ]
+  }, {
+    "tStartMs": 303000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "if I looked diligently enough."
+    } ]
+  }, {
+    "tStartMs": 306000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yes. So it wasn't like I decided to travel and then went,"
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was sudden?"
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "If I saw a cheap flight that matched a Friday-Saturday-Sunday schedule,"
+    } ]
+  }, {
+    "tStartMs": 319000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'd book that first."
+    } ]
+  }, {
+    "tStartMs": 320000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I know. I know. I know."
+    } ]
+  }, {
+    "tStartMs": 321000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And then go and come back."
+    } ]
+  }, {
+    "tStartMs": 324000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That way I traveled quite nicely and came back."
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So one day you found cheap Taiwan flight tickets and went, I see."
+    } ]
+  }, {
+    "tStartMs": 331000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 332000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Do you remember? Around 100,000 won? Around 200,000 won?"
+    } ]
+  }, {
+    "tStartMs": 336000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. It was late 100,000 won range?"
+    } ]
+  }, {
+    "tStartMs": 340000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How many hours is it from Korea to Taiwan?"
+    } ]
+  }, {
+    "tStartMs": 343000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Is it about two and a half hours?"
+    } ]
+  }, {
+    "tStartMs": 346000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I don't remember now."
+    } ]
+  }, {
+    "tStartMs": 347000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right. I think it was about that."
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I looked into it recently because I want to go to Taiwan again."
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Back then, did you usually go on overseas trips alone?"
+    } ]
+  }, {
+    "tStartMs": 357000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think I went alone every time back then."
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You know what they call a wandering spirit?"
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 364000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I had that pretty strongly back then."
+    } ]
+  }, {
+    "tStartMs": 366000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I constantly wanted to go out."
+    } ]
+  }, {
+    "tStartMs": 368000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And wanted to wander around and such."
+    } ]
+  }, {
+    "tStartMs": 371000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. I heard people talk about that a lot back then too."
+    } ]
+  }, {
+    "tStartMs": 374000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 376000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So you went for about three nights and four days?"
+    } ]
+  }, {
+    "tStartMs": 379000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I think it was two nights and three days back then."
+    } ]
+  }, {
+    "tStartMs": 384000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Tae-woong, when you travel, how much do you plan ahead?"
+    } ]
+  }, {
+    "tStartMs": 390000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I only plan up to the things I absolutely must see."
+    } ]
+  }, {
+    "tStartMs": 399000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Must see?"
+    } ]
+  }, {
+    "tStartMs": 401000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Things like must go, must eat?"
+    } ]
+  }, {
+    "tStartMs": 403000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Must eat. These are things I absolutely have to do?"
+    } ]
+  }, {
+    "tStartMs": 405000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. Just like one thing per day?"
+    } ]
+  }, {
+    "tStartMs": 410000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I plan roughly that much."
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And the rest I figure out as I go."
+    } ]
+  }, {
+    "tStartMs": 418000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "You think things through gradually as you go. I think I'm similar."
+    } ]
+  }, {
+    "tStartMs": 423000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "There's something fun about arriving and thinking \"what should I do tomorrow\" and making plans."
+    } ]
+  }, {
+    "tStartMs": 433000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is that fun?"
+    } ]
+  }, {
+    "tStartMs": 435000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. For me."
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Is the fun in thinking \"what should I do tomorrow\"?"
+    } ]
+  }, {
+    "tStartMs": 440000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's how it is."
+    } ]
+  }, {
+    "tStartMs": 442000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Really? At first I used to travel like that too,"
+    } ]
+  }, {
+    "tStartMs": 446000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but gradually I started planning more."
+    } ]
+  }, {
+    "tStartMs": 449000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "How do I put it—you need time to think about what you're going to do tomorrow, right?"
+    } ]
+  }, {
+    "tStartMs": 454000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 455000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But when you travel, time is really limited and you have to play in a short window."
+    } ]
+  }, {
+    "tStartMs": 461000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "At some point, I started to feel like I was wasting that time."
+    } ]
+  }, {
+    "tStartMs": 465000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So now I prefer to plan things out a bit more before I go."
+    } ]
+  }, {
+    "tStartMs": 471000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That makes sense."
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 474000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Yes. And one of the downsides of planning so loosely like that is"
+    } ]
+  }, {
+    "tStartMs": 482000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "you can't do certain things that require advance reservations."
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 490000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So when I was younger, I used to travel really spontaneously like that."
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. And the fun thing is, certain things really do require reservations."
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 498000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Popular places and things like that."
+    } ]
+  }, {
+    "tStartMs": 499000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 502000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So you have to make wise choices."
+    } ]
+  }, {
+    "tStartMs": 507000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Back then, did you travel without much of a plan?"
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. Back then, what I liked was"
+    } ]
+  }, {
+    "tStartMs": 513000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the reason I liked it was"
+    } ]
+  }, {
+    "tStartMs": 517000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "because I was traveling alone."
+    } ]
+  }, {
+    "tStartMs": 521000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "On the first day, hotels were expensive,"
+    } ]
+  }, {
+    "tStartMs": 526000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so I always stayed at guesthouses."
+    } ]
+  }, {
+    "tStartMs": 529000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Then at the guesthouse, besides the sleeping area, there's a space where you can buy food and eat,"
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "like a lounge."
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. There's a lounge."
+    } ]
+  }, {
+    "tStartMs": 540000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So on the first day, I'd go and sit in that lounge in the evening,"
+    } ]
+  }, {
+    "tStartMs": 545000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "open my notebook and turn on my phone and make a plan."
+    } ]
+  }, {
+    "tStartMs": 550000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Then I could see other travelers there too."
+    } ]
+  }, {
+    "tStartMs": 556000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So then you could exchange a few words."
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Where are you from?"
+    } ]
+  }, {
+    "tStartMs": 560000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. Like that."
+    } ]
+  }, {
+    "tStartMs": 562000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "That way I'd communicate in English"
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and strike up conversations with foreign friends who had really different backgrounds from me."
+    } ]
+  }, {
+    "tStartMs": 574000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's what was fun about it?"
+    } ]
+  }, {
+    "tStartMs": 576000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. It was really fun."
+    } ]
+  }, {
+    "tStartMs": 579000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think I've only done that once."
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I had that exact kind of fantasy back then,"
+    } ]
+  }, {
+    "tStartMs": 587000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "meeting foreigners at a guesthouse or lounge and chatting—I had that fantasy,"
+    } ]
+  }, {
+    "tStartMs": 592000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so I went on a solo trip to Japan,"
+    } ]
+  }, {
+    "tStartMs": 596000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and while staying at a guesthouse there,"
+    } ]
+  }, {
+    "tStartMs": 600460,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I remember talking with the host Didi in the lounge."
+    } ]
+  }, {
+    "tStartMs": 603500,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "I was in the lounge, but no matter how long I waited, not many people came."
+    } ]
+  }, {
+    "tStartMs": 610360,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It was a lonely lounge."
+    } ]
+  }, {
+    "tStartMs": 613360,
+    "dDurationMs": 2699,
+    "segs": [ {
+      "utf8": "Right. You have to be lucky for that."
+    } ]
+  }, {
+    "tStartMs": 616059,
+    "dDurationMs": 3021,
+    "segs": [ {
+      "utf8": "The timing has to be good, and you have to be lucky."
+    } ]
+  }, {
+    "tStartMs": 619500,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "It's not something you can control on your own."
+    } ]
+  }, {
+    "tStartMs": 623719,
+    "dDurationMs": 4321,
+    "segs": [ {
+      "utf8": "Did you meet a lot of people like that, Teacher Tae-woong? In Taiwan?"
+    } ]
+  }, {
+    "tStartMs": 628299,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "In Taiwan, that kind of way..."
+    } ]
+  }, {
+    "tStartMs": 634299,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think I've said hello a few times,"
+    } ]
+  }, {
+    "tStartMs": 638299,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "but I don't think I met people like that."
+    } ]
+  }, {
+    "tStartMs": 641799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So talking a lot,"
+    } ]
+  }, {
+    "tStartMs": 644799,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "traveling together or exchanging contact information—"
+    } ]
+  }, {
+    "tStartMs": 648299,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "that kind of thing didn't happen at the guesthouse."
+    } ]
+  }, {
+    "tStartMs": 653799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 655299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 656560,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Do you have any memories left from Taiwan?"
+    } ]
+  }, {
+    "tStartMs": 660060,
+    "dDurationMs": 4999,
+    "segs": [ {
+      "utf8": "So how many days did you spend in Taiwan, Didi?"
+    } ]
+  }, {
+    "tStartMs": 666059,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think it was four nights and five days."
+    } ]
+  }, {
+    "tStartMs": 669059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Taipei?"
+    } ]
+  }, {
+    "tStartMs": 670059,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I went to Taipei, and also to Taichung."
+    } ]
+  }, {
+    "tStartMs": 673059,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I have a friend whose mother is Taiwanese and father is Korean."
+    } ]
+  }, {
+    "tStartMs": 682820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I went along with that friend,"
+    } ]
+  }, {
+    "tStartMs": 685820,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and my maternal uncle and relatives there drove me around,"
+    } ]
+  }, {
+    "tStartMs": 691820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "showed me good restaurants, and since I went without any plans,"
+    } ]
+  }, {
+    "tStartMs": 694820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I had a really fulfilling trip."
+    } ]
+  }, {
+    "tStartMs": 697820,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was so good."
+    } ]
+  }, {
+    "tStartMs": 698820,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was the best."
+    } ]
+  }, {
+    "tStartMs": 699820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I have really good memories of it."
+    } ]
+  }, {
+    "tStartMs": 702820,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It was really the best trip."
+    } ]
+  }, {
+    "tStartMs": 704820,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It really was the best. A local guide."
+    } ]
+  }, {
+    "tStartMs": 709820,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm jealous."
+    } ]
+  }, {
+    "tStartMs": 712820,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "When I think of Taiwan, the first thing that comes to mind is that the food was really delicious."
+    } ]
+  }, {
+    "tStartMs": 719820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "For example, what kinds of things?"
+    } ]
+  }, {
+    "tStartMs": 722820,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There were so many,"
+    } ]
+  }, {
+    "tStartMs": 724820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but first of all, there are night markets."
+    } ]
+  }, {
+    "tStartMs": 727820,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I ate everything sold at the night market until my stomach was full."
+    } ]
+  }, {
+    "tStartMs": 734820,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "What did I eat? Fried butter crumble, you know, crumble with butter in it?"
+    } ]
+  }, {
+    "tStartMs": 738820,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That was really delicious too,"
+    } ]
+  }, {
+    "tStartMs": 741580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and there's that famous cube steak with potatoes,"
+    } ]
+  }, {
+    "tStartMs": 744580,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I ate that too, and I really love tripe noodle soup,"
+    } ]
+  }, {
+    "tStartMs": 749580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so I enjoyed eating tripe noodle soup."
+    } ]
+  }, {
+    "tStartMs": 755580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Didn't you try chicken wing fried rice?"
+    } ]
+  }, {
+    "tStartMs": 758580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm not sure about chicken wing fried rice,"
+    } ]
+  }, {
+    "tStartMs": 761580,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but there's a place at the night market that sells various skewers and things like that."
+    } ]
+  }, {
+    "tStartMs": 766580,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I've tried chicken wing skewers and fried chicken wings like that."
+    } ]
+  }, {
+    "tStartMs": 771580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That was delicious too."
+    } ]
+  }, {
+    "tStartMs": 773580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, was that the most delicious for you?"
+    } ]
+  }, {
+    "tStartMs": 779580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I can't really pick the most delicious one,"
+    } ]
+  }, {
+    "tStartMs": 782580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because there were so many?"
+    } ]
+  }, {
+    "tStartMs": 783580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, because there were so many."
+    } ]
+  }, {
+    "tStartMs": 785580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No. Other than that, there's beef noodle soup."
+    } ]
+  }, {
+    "tStartMs": 789580,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It's noodles with big chunks of beef in it."
+    } ]
+  }, {
+    "tStartMs": 795580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right. Beef noodle soup was delicious too."
+    } ]
+  }, {
+    "tStartMs": 798339,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The chicken wing fried rice I mentioned"
+    } ]
+  }, {
+    "tStartMs": 801339,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't think they sold it at the night market."
+    } ]
+  }, {
+    "tStartMs": 804339,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Really? What restaurant did you eat it at?"
+    } ]
+  }, {
+    "tStartMs": 806339,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It wasn't a restaurant, it was"
+    } ]
+  }, {
+    "tStartMs": 809339,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You know there's a railway scenic spot?"
+    } ]
+  }, {
+    "tStartMs": 814339,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, yes. Jiufen?"
+    } ]
+  }, {
+    "tStartMs": 816339,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is that right? The one where you release lanterns?"
+    } ]
+  }, {
+    "tStartMs": 818339,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, that's right. The scenic spot where you release lanterns."
+    } ]
+  }, {
+    "tStartMs": 821100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 822100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "At that scenic spot,"
+    } ]
+  }, {
+    "tStartMs": 825100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "there was a small food cart,"
+    } ]
+  }, {
+    "tStartMs": 829100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "or like a cart where they sell things in small portions."
+    } ]
+  }, {
+    "tStartMs": 834100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So it's like street food?"
+    } ]
+  }, {
+    "tStartMs": 836100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 838100,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But I still regret not buying two of them back then."
+    } ]
+  }, {
+    "tStartMs": 843100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 845100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Street food seems really delicious."
+    } ]
+  }, {
+    "tStartMs": 847100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 848860,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Especially when you eat it on the street, it's often when you're hungry,"
+    } ]
+  }, {
+    "tStartMs": 851860,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so it tastes even better."
+    } ]
+  }, {
+    "tStartMs": 854860,
+    "dDurationMs": 1999,
+    "segs": [ {
+      "utf8": "And you eat it right away."
+    } ]
+  }, {
+    "tStartMs": 856859,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 858859,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right away."
+    } ]
+  }, {
+    "tStartMs": 859859,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's strong. The flavor is very strong."
+    } ]
+  }, {
+    "tStartMs": 862859,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Taiwan was a place where I felt every single day that my stomach could be this full,"
+    } ]
+  }, {
+    "tStartMs": 867859,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "throughout my trip."
+    } ]
+  }, {
+    "tStartMs": 871859,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And the desserts were delicious too."
+    } ]
+  }, {
+    "tStartMs": 874619,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "For reference, I've also felt that kind of place in one location."
+    } ]
+  }, {
+    "tStartMs": 880619,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Somewhere other than here?"
+    } ]
+  }, {
+    "tStartMs": 881619,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. Turkey. Turkey."
+    } ]
+  }, {
+    "tStartMs": 883619,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, Turkey!"
+    } ]
+  }, {
+    "tStartMs": 885619,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. Turkey has a really epic story from my life, so"
+    } ]
+  }, {
+    "tStartMs": 889619,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I need to visit Turkey too. Through this episode."
+    } ]
+  }, {
+    "tStartMs": 893619,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If I get the chance next time, I'll share more details about it."
+    } ]
+  }, {
+    "tStartMs": 897619,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 899380,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And by the way, the core story of that experience"
+    } ]
+  }, {
+    "tStartMs": 905380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "is already on my podcast."
+    } ]
+  }, {
+    "tStartMs": 908380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 909380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. Yes."
+    } ]
+  }, {
+    "tStartMs": 910380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So all of Tae-woong's true fans would know that story."
+    } ]
+  }, {
+    "tStartMs": 913380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 914380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 916380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Anyway, back to Taiwan."
+    } ]
+  }, {
+    "tStartMs": 917380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. So coming back to it, for me it was a trip where I ate a lot of delicious food"
+    } ]
+  }, {
+    "tStartMs": 922380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and traveled comfortably following friends and relatives."
+    } ]
+  }, {
+    "tStartMs": 927380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How was it for you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 929380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I did everything by myself,"
+    } ]
+  }, {
+    "tStartMs": 935380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but it was fun."
+    } ]
+  }, {
+    "tStartMs": 937380,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And I'm not sure if it's just something Koreans do,"
+    } ]
+  }, {
+    "tStartMs": 943380,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "but when you go to Taipei, there's something called a \"national rule,\" right? A national-level rule?"
+    } ]
+  }, {
+    "tStartMs": 950380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Something you have to do?"
+    } ]
+  }, {
+    "tStartMs": 951380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. There's a national rule tour."
+    } ]
+  }, {
+    "tStartMs": 955380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "101?"
+    } ]
+  }, {
+    "tStartMs": 957380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What's that?"
+    } ]
+  }, {
+    "tStartMs": 958380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Taipei 101. That building, the skyscraper. It's 101 stories tall."
+    } ]
+  }, {
+    "tStartMs": 962380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Isn't that it? I went there."
+    } ]
+  }, {
+    "tStartMs": 964380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah. Ah. Ah. I was thinking about going there but didn't."
+    } ]
+  }, {
+    "tStartMs": 967380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 968380,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yes. There's something called the \"Yes Jinji tour.\""
+    } ]
+  }, {
+    "tStartMs": 974380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "What that is, is taking the first letters of the names of four tourist attractions"
+    } ]
+  }, {
+    "tStartMs": 979380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "to make the Yes Jinji tour."
+    } ]
+  }, {
+    "tStartMs": 982380,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Yehliu, Shifen, Jin... Jin... Ah, what was Jin again?"
+    } ]
+  }, {
+    "tStartMs": 989380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, Ji... what did you call it?"
+    } ]
+  }, {
+    "tStartMs": 991380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, Jinji, but"
+    } ]
+  }, {
+    "tStartMs": 993380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Jinji... Jiufen!"
+    } ]
+  }, {
+    "tStartMs": 996380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So that Ji is Jiufen,"
+    } ]
+  }, {
+    "tStartMs": 998380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and what is Jin?"
+    } ]
+  }, {
+    "tStartMs": 1000380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jiufen. Jiufen."
+    } ]
+  }, {
+    "tStartMs": 1002380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jiufen. Oh. I didn't know that."
+    } ]
+  }, {
+    "tStartMs": 1004380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. Taking the first letters of Yehliu, Shifen, Jiufen, and Jiufen respectively,"
+    } ]
+  }, {
+    "tStartMs": 1009380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1010380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they call it the Yes Jinji tour."
+    } ]
+  }, {
+    "tStartMs": 1012380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. Going around all these places is the national rule."
+    } ]
+  }, {
+    "tStartMs": 1016380,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Right. So because this became so established as a national rule,"
+    } ]
+  }, {
+    "tStartMs": 1022380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "there are taxi tours that take you to just these spots."
+    } ]
+  }, {
+    "tStartMs": 1026380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1027380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So when you do that, the taxi driver"
+    } ]
+  }, {
+    "tStartMs": 1031380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "takes you here, and when you're done sightseeing, takes you there, and so on."
+    } ]
+  }, {
+    "tStartMs": 1035380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But among those,"
+    } ]
+  }, {
+    "tStartMs": 1038380,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "the Ye part, it was probably Yehliu. From what I remember."
+    } ]
+  }, {
+    "tStartMs": 1044380,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "That's a place where you see rocks that look really unique."
+    } ]
+  }, {
+    "tStartMs": 1050380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like the Queen Rock or"
+    } ]
+  }, {
+    "tStartMs": 1052380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, yes. Things like that."
+    } ]
+  }, {
+    "tStartMs": 1053380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "A place where you see rocks with unusual shapes?"
+    } ]
+  }, {
+    "tStartMs": 1056380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1057380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But I wasn't interested in rocks,"
+    } ]
+  }, {
+    "tStartMs": 1061380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "so I just skipped Yehliu on my own."
+    } ]
+  }, {
+    "tStartMs": 1066380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Seriously, let's just go around on our own."
+    } ]
+  }, {
+    "tStartMs": 1070380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh. Without a taxi tour."
+    } ]
+  }, {
+    "tStartMs": 1072380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. So without a taxi."
+    } ]
+  }, {
+    "tStartMs": 1074380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. Seriously."
+    } ]
+  }, {
+    "tStartMs": 1075380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. Seriously, so I took the bus on my own"
+    } ]
+  }, {
+    "tStartMs": 1078380,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "and took the subway and the train and got around that way."
+    } ]
+  }, {
+    "tStartMs": 1086380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1087380,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But it was fun. That feeling of adventuring alone."
+    } ]
+  }, {
+    "tStartMs": 1092380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Solo travel has its charm."
+    } ]
+  }, {
+    "tStartMs": 1094380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. It was so much fun."
+    } ]
+  }, {
+    "tStartMs": 1095380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That feeling of freedom."
+    } ]
+  }, {
+    "tStartMs": 1098380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. Yes."
+    } ]
+  }, {
+    "tStartMs": 1099380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That feeling of pioneering."
+    } ]
+  }, {
+    "tStartMs": 1100380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1102380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And then I bought a GoPro back then"
+    } ]
+  }, {
+    "tStartMs": 1105380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh. What was it? Was it trendy back then?"
+    } ]
+  }, {
+    "tStartMs": 1108380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was trendy back then."
+    } ]
+  }, {
+    "tStartMs": 1109380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I filmed along with it too."
+    } ]
+  }, {
+    "tStartMs": 1110380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1111380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. I made videos back then."
+    } ]
+  }, {
+    "tStartMs": 1115380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So I got around quite a bit."
+    } ]
+  }, {
+    "tStartMs": 1117380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You carried a GoPro around? Where did all those videos go now?"
+    } ]
+  }, {
+    "tStartMs": 1120380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Back then I didn't film videos"
+    } ]
+  }, {
+    "tStartMs": 1122380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I took really good photos."
+    } ]
+  }, {
+    "tStartMs": 1124380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "With the GoPro?"
+    } ]
+  }, {
+    "tStartMs": 1125380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1126380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1127380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. GoPro photos have their own unique character."
+    } ]
+  }, {
+    "tStartMs": 1130380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, really? I've never even tried taking photos with it."
+    } ]
+  }, {
+    "tStartMs": 1132380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, but it has a really unique style."
+    } ]
+  }, {
+    "tStartMs": 1134380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1136380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I took a lot of selfies too"
+    } ]
+  }, {
+    "tStartMs": 1139380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. I had fun getting around"
+    } ]
+  }, {
+    "tStartMs": 1141380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Did you visit all those places, Didi?"
+    } ]
+  }, {
+    "tStartMs": 1144380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think I probably went to all of them."
+    } ]
+  }, {
+    "tStartMs": 1147380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I just got off wherever you took me"
+    } ]
+  }, {
+    "tStartMs": 1151380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and traveled like this"
+    } ]
+  }, {
+    "tStartMs": 1152380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so I didn't really know where this place was"
+    } ]
+  }, {
+    "tStartMs": 1155380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1156380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Later when I came to Korea"
+    } ]
+  }, {
+    "tStartMs": 1159380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and saw photos from people who'd been to Taiwan"
+    } ]
+  }, {
+    "tStartMs": 1161380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "most of the time I'd think, oh, I've been there too."
+    } ]
+  }, {
+    "tStartMs": 1165380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So the place that stands out in my memory is"
+    } ]
+  }, {
+    "tStartMs": 1167380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that movie that can't be named"
+    } ]
+  }, {
+    "tStartMs": 1169380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the university where they filmed it?"
+    } ]
+  }, {
+    "tStartMs": 1171380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's Danshui, right?"
+    } ]
+  }, {
+    "tStartMs": 1173380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Danshui, I went to Danshui."
+    } ]
+  }, {
+    "tStartMs": 1175380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is that included in it?"
+    } ]
+  }, {
+    "tStartMs": 1177380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In Yes Jinji?"
+    } ]
+  }, {
+    "tStartMs": 1179380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, that place isn't included in Yes Jinji."
+    } ]
+  }, {
+    "tStartMs": 1181380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1182380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1183380,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So one day we went to Yes Jinji"
+    } ]
+  }, {
+    "tStartMs": 1187380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and one day we went to, no wait, Danshui"
+    } ]
+  }, {
+    "tStartMs": 1190380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You went to Danshui? You too, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 1192380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. I went too."
+    } ]
+  }, {
+    "tStartMs": 1194380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, the sunset there is really so pretty."
+    } ]
+  }, {
+    "tStartMs": 1197380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The sunset, is the sunset pretty?"
+    } ]
+  }, {
+    "tStartMs": 1199380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Even the sunset"
+    } ]
+  }, {
+    "tStartMs": 1201000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1202000,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Yes. Is the sunset famous there?"
+    } ]
+  }, {
+    "tStartMs": 1203700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "The sunset is the key point."
+    } ]
+  }, {
+    "tStartMs": 1205200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Really? I was so busy that day."
+    } ]
+  }, {
+    "tStartMs": 1206900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "After seeing that, I just kept going here and there and there."
+    } ]
+  }, {
+    "tStartMs": 1209600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 1210600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Oh, there's that too, right?"
+    } ]
+  }, {
+    "tStartMs": 1212000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "That..."
+    } ]
+  }, {
+    "tStartMs": 1213100,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Sangatchio's disappearance..."
+    } ]
+  }, {
+    "tStartMs": 1215400,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Uh, that's..."
+    } ]
+  }, {
+    "tStartMs": 1216100,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "The motif... where is that?"
+    } ]
+  }, {
+    "tStartMs": 1217799,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "That's Yes Jinji's Ji. It's Jiufen."
+    } ]
+  }, {
+    "tStartMs": 1221200,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Oh, that's Jiufen?"
+    } ]
+  }, {
+    "tStartMs": 1222900,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1224000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That place was really beautiful too."
+    } ]
+  }, {
+    "tStartMs": 1225600,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Mm..."
+    } ]
+  }, {
+    "tStartMs": 1227799,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "After seeing those Jiufen photos and thinking they were pretty,"
+    } ]
+  }, {
+    "tStartMs": 1230700,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "I think I decided that I had to go there."
+    } ]
+  }, {
+    "tStartMs": 1233599,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "You had to go to Taiwan?"
+    } ]
+  }, {
+    "tStartMs": 1234700,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1236000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Really to that extent..."
+    } ]
+  }, {
+    "tStartMs": 1237200,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "The flights are cheap? What's good about it?"
+    } ]
+  }, {
+    "tStartMs": 1239500,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "I searched for it,"
+    } ]
+  }, {
+    "tStartMs": 1240799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and saw photos of that village,"
+    } ]
+  }, {
+    "tStartMs": 1242299,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and saw photos of that night market,"
+    } ]
+  }, {
+    "tStartMs": 1244099,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "and thought, wow, I have to go here."
+    } ]
+  }, {
+    "tStartMs": 1245400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Mm, that's right. It's that beautiful."
+    } ]
+  }, {
+    "tStartMs": 1247700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1248700,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "And the peanut ice cream they sell in Jiufen is really delicious."
+    } ]
+  }, {
+    "tStartMs": 1251799,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 1252900,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Have you tried it?"
+    } ]
+  }, {
+    "tStartMs": 1253500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Ah, I've eaten it. I've eaten it."
+    } ]
+  }, {
+    "tStartMs": 1256000,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "It's really one of my favorite ice creams in my life."
+    } ]
+  }, {
+    "tStartMs": 1259799,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "There are so many delicious things."
+    } ]
+  }, {
+    "tStartMs": 1261000,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "Mm..."
+    } ]
+  }, {
+    "tStartMs": 1263799,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "S Jinji."
+    } ]
+  }, {
+    "tStartMs": 1265099,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What did you do in Shifen?"
+    } ]
+  }, {
+    "tStartMs": 1267099,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Ah, so S Jinji,"
+    } ]
+  }, {
+    "tStartMs": 1269699,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "I'll tell you about them in order."
+    } ]
+  }, {
+    "tStartMs": 1271400,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "No, that's good."
+    } ]
+  }, {
+    "tStartMs": 1272699,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Oh, Shifen is a rock?"
+    } ]
+  }, {
+    "tStartMs": 1274599,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Oh no, no."
+    } ]
+  }, {
+    "tStartMs": 1275900,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's not? So Yehliu is the rock?"
+    } ]
+  }, {
+    "tStartMs": 1277900,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Yes. Yehliu is the rock."
+    } ]
+  }, {
+    "tStartMs": 1280000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1280500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A rock is a rock."
+    } ]
+  }, {
+    "tStartMs": 1282500,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Shifen is a train station."
+    } ]
+  }, {
+    "tStartMs": 1283800,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "The one where you release lanterns."
+    } ]
+  }, {
+    "tStartMs": 1284900,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1285699,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1286199,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Shifen is a train station,"
+    } ]
+  }, {
+    "tStartMs": 1288800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and a train will actually pass through there, probably."
+    } ]
+  }, {
+    "tStartMs": 1290800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm, mm, mm."
+    } ]
+  }, {
+    "tStartMs": 1291800,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "But there,"
+    } ]
+  }, {
+    "tStartMs": 1293099,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Yes. You can release lanterns."
+    } ]
+  }, {
+    "tStartMs": 1295300,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes. I did it too."
+    } ]
+  }, {
+    "tStartMs": 1296800,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Ah, you did."
+    } ]
+  }, {
+    "tStartMs": 1297699,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Yes. I wrote a wish on it."
+    } ]
+  }, {
+    "tStartMs": 1299900,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That's right. That's right."
+    } ]
+  }, {
+    "tStartMs": 1301500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "But since I was alone,"
+    } ]
+  }, {
+    "tStartMs": 1303300,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1304900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You could eat there"
+    } ]
+  }, {
+    "tStartMs": 1307900,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "one order of spicy chicken wing fried rice"
+    } ]
+  }, {
+    "tStartMs": 1312199,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "and then looked around a bit"
+    } ]
+  }, {
+    "tStartMs": 1314900,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "and then we moved on."
+    } ]
+  }, {
+    "tStartMs": 1316199,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Oh, so nothing went wrong."
+    } ]
+  }, {
+    "tStartMs": 1318699,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "Yes. It seemed a bit"
+    } ]
+  }, {
+    "tStartMs": 1321500,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "excessive to do it alone."
+    } ]
+  }, {
+    "tStartMs": 1322699,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "It seemed excessive."
+    } ]
+  }, {
+    "tStartMs": 1324300,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "Right. Someone has to take a photo for you too."
+    } ]
+  }, {
+    "tStartMs": 1327199,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1328500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Oh and if I did it alone, it seemed like"
+    } ]
+  }, {
+    "tStartMs": 1330300,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I would get a bit sad, you know."
+    } ]
+  }, {
+    "tStartMs": 1331800,
+    "dDurationMs": 2899,
+    "segs": [ {
+      "utf8": "Hahaha."
+    } ]
+  }, {
+    "tStartMs": 1334699,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "At that time, when writing wishes,"
+    } ]
+  }, {
+    "tStartMs": 1337600,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "I wrote something like, please let me meet a man like Park Bo-gum."
+    } ]
+  }, {
+    "tStartMs": 1339500,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "I think that's what I wrote."
+    } ]
+  }, {
+    "tStartMs": 1340600,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1341699,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1342399,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Park Bo..."
+    } ]
+  }, {
+    "tStartMs": 1343100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1344300,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I really liked Park Bo-gum back then."
+    } ]
+  }, {
+    "tStartMs": 1347100,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "Oh, the year before that was Reply"
+    } ]
+  }, {
+    "tStartMs": 1351899,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, I guess that's why. I guess that's why."
+    } ]
+  }, {
+    "tStartMs": 1353399,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "1994?"
+    } ]
+  }, {
+    "tStartMs": 1355199,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "Yeah. 1988."
+    } ]
+  }, {
+    "tStartMs": 1356800,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "'88. '88."
+    } ]
+  }, {
+    "tStartMs": 1358300,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "Reply 1988 aired that year, so that must be why."
+    } ]
+  }, {
+    "tStartMs": 1361899,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Yeah. I guess that's why."
+    } ]
+  }, {
+    "tStartMs": 1363800,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1364899,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "So we just moved on from Sponge."
+    } ]
+  }, {
+    "tStartMs": 1367500,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "Yes. The point is that we ate the spicy chicken wing fried rice."
+    } ]
+  }, {
+    "tStartMs": 1370699,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1371800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I should have really eaten two back then."
+    } ]
+  }, {
+    "tStartMs": 1374600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I've eaten it several times."
+    } ]
+  }, {
+    "tStartMs": 1377000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 1377500,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "I should go home too."
+    } ]
+  }, {
+    "tStartMs": 1378199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1379199,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "And um..."
+    } ]
+  }, {
+    "tStartMs": 1383899,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "S, E, S, G, N, G."
+    } ]
+  }, {
+    "tStartMs": 1385699,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Jin."
+    } ]
+  }, {
+    "tStartMs": 1386199,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Jin and S."
+    } ]
+  }, {
+    "tStartMs": 1386699,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Yes. Jin and S."
+    } ]
+  }, {
+    "tStartMs": 1388000,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1388500,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "Jin and S must be a village that had coal mines long ago."
+    } ]
+  }, {
+    "tStartMs": 1393699,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh yes."
+    } ]
+  }, {
+    "tStartMs": 1394699,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "So it's a miners' village."
+    } ]
+  }, {
+    "tStartMs": 1397100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1398100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Yes. That miners' village,"
+    } ]
+  }, {
+    "tStartMs": 1400500,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "yeah."
+    } ]
+  }, {
+    "tStartMs": 1401000,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "There's like a miners' museum there or something."
+    } ]
+  }, {
+    "tStartMs": 1404899,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1405600,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "Like gold and bronze that were mined there."
+    } ]
+  }, {
+    "tStartMs": 1409399,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1409899,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Things like that would be on display."
+    } ]
+  }, {
+    "tStartMs": 1412300,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Oh, I think I went there too. Yes."
+    } ]
+  }, {
+    "tStartMs": 1413899,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Oh you did? You went?"
+    } ]
+  }, {
+    "tStartMs": 1415199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1416199,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There's a really dramatic story here,"
+    } ]
+  }, {
+    "tStartMs": 1421199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it right here?"
+    } ]
+  }, {
+    "tStartMs": 1422199,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "Yes. That's the place."
+    } ]
+  }, {
+    "tStartMs": 1424300,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "That's actually why we did the Taiwan episode today."
+    } ]
+  }, {
+    "tStartMs": 1427100,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1428699,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "I'm looking forward to it."
+    } ]
+  }, {
+    "tStartMs": 1429300,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "What happened?"
+    } ]
+  }, {
+    "tStartMs": 1430600,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1431399,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "Well, Jiufen and Shifen are mining towns."
+    } ]
+  }, {
+    "tStartMs": 1434500,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1435100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And there's something like a mining museum."
+    } ]
+  }, {
+    "tStartMs": 1437100,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "There is a museum."
+    } ]
+  }, {
+    "tStartMs": 1438300,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "Yes. And when you come out after seeing it,"
+    } ]
+  }, {
+    "tStartMs": 1441399,
+    "dDurationMs": 6601,
+    "segs": [ {
+      "utf8": "there's a restaurant where you can eat the lunch boxes that miners used to eat."
+    } ]
+  }, {
+    "tStartMs": 1448000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I went there."
+    } ]
+  }, {
+    "tStartMs": 1449000,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Oh, you went?"
+    } ]
+  }, {
+    "tStartMs": 1450100,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "Yes. I ate some kind of round lunch box there."
+    } ]
+  }, {
+    "tStartMs": 1452899,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "You could have brought that lunch box with you, you know."
+    } ]
+  }, {
+    "tStartMs": 1454300,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, that's right. That's right."
+    } ]
+  }, {
+    "tStartMs": 1455300,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Right, right, right."
+    } ]
+  }, {
+    "tStartMs": 1456500,
+    "dDurationMs": 899,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1457399,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "But I didn't know about it, so I just went."
+    } ]
+  }, {
+    "tStartMs": 1459600,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 1460200,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "So I didn't eat the lunch box."
+    } ]
+  }, {
+    "tStartMs": 1463500,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "But when you go to eat that rice,"
+    } ]
+  }, {
+    "tStartMs": 1468200,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "the restaurant building itself probably isn't that big."
+    } ]
+  }, {
+    "tStartMs": 1473100,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "There was no space inside for me, so I couldn't even go in."
+    } ]
+  }, {
+    "tStartMs": 1478600,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Outside the restaurant it's set up like a courtyard, and it's quite spacious."
+    } ]
+  }, {
+    "tStartMs": 1483500,
+    "dDurationMs": 3299,
+    "segs": [ {
+      "utf8": "There's a wide courtyard,"
+    } ]
+  }, {
+    "tStartMs": 1486899,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "and there are a lot of round tables."
+    } ]
+  }, {
+    "tStartMs": 1490399,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "That's what it seemed like."
+    } ]
+  }, {
+    "tStartMs": 1491600,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "Yes. So people who can't eat inside the restaurant"
+    } ]
+  }, {
+    "tStartMs": 1496799,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "sit at the round tables in that courtyard"
+    } ]
+  }, {
+    "tStartMs": 1500000,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "and those tables are probably for 4 or 5 people?"
+    } ]
+  }, {
+    "tStartMs": 1505700,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "Like, seating for about 4 people,"
+    } ]
+  }, {
+    "tStartMs": 1508799,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "there are a lot of tables like that."
+    } ]
+  }, {
+    "tStartMs": 1513000,
+    "dDurationMs": 5299,
+    "segs": [ {
+      "utf8": "But since I didn't know anything, I just went and ordered rice and was eating."
+    } ]
+  }, {
+    "tStartMs": 1518299,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Yes. Outside?"
+    } ]
+  }, {
+    "tStartMs": 1519399,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "Yes, yes. I was sitting at an outdoor table"
+    } ]
+  }, {
+    "tStartMs": 1522600,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "eating rice by myself like that, slurp slurp."
+    } ]
+  }, {
+    "tStartMs": 1525000,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "It must have been hot. It's summer."
+    } ]
+  }, {
+    "tStartMs": 1526500,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 1527899,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "And also, summer is Taiwan's rainy season,"
+    } ]
+  }, {
+    "tStartMs": 1533299,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "so there are frequent showers."
+    } ]
+  }, {
+    "tStartMs": 1535899,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1536500,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Yes. Rain comes for a bit and then stops for a bit,"
+    } ]
+  }, {
+    "tStartMs": 1539000,
+    "dDurationMs": 4899,
+    "segs": [ {
+      "utf8": "comes and stops, and it repeats, and the humidity was pretty high too."
+    } ]
+  }, {
+    "tStartMs": 1543899,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Yes. Anyway, so I was eating rice,"
+    } ]
+  }, {
+    "tStartMs": 1548299,
+    "dDurationMs": 7301,
+    "segs": [ {
+      "utf8": "and at the table across from me, there was a woman"
+    } ]
+  }, {
+    "tStartMs": 1555600,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "who also came alone and sat at that table and started eating rice."
+    } ]
+  }, {
+    "tStartMs": 1562000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "What nationality did she seem to be?"
+    } ]
+  }, {
+    "tStartMs": 1564500,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "She seemed like she could be Korean or Japanese."
+    } ]
+  }, {
+    "tStartMs": 1568500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "At least she was East Asian?"
+    } ]
+  }, {
+    "tStartMs": 1569700,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "Yes. She was East Asian at least."
+    } ]
+  }, {
+    "tStartMs": 1572799,
+    "dDurationMs": 4701,
+    "segs": [ {
+      "utf8": "Oh, but you were sitting facing each other?"
+    } ]
+  }, {
+    "tStartMs": 1577500,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "Yes. Why are you already laughing?"
+    } ]
+  }, {
+    "tStartMs": 1581299,
+    "dDurationMs": 6301,
+    "segs": [ {
+      "utf8": "Oh, yes. But at the table where I was sitting,"
+    } ]
+  }, {
+    "tStartMs": 1587600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you know how they call it a parasol?"
+    } ]
+  }, {
+    "tStartMs": 1589600,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That big umbrella?"
+    } ]
+  }, {
+    "tStartMs": 1591100,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1591600,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "There was one,"
+    } ]
+  }, {
+    "tStartMs": 1594100,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "but I noticed that not all tables had parasols."
+    } ]
+  }, {
+    "tStartMs": 1598700,
+    "dDurationMs": 5699,
+    "segs": [ {
+      "utf8": "So some tables had a parasol over their heads,"
+    } ]
+  }, {
+    "tStartMs": 1604399,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "So there's a roof"
+    } ]
+  }, {
+    "tStartMs": 1606100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and there's shade"
+    } ]
+  }, {
+    "tStartMs": 1607100,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Yes. And there's shade"
+    } ]
+  }, {
+    "tStartMs": 1608899,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "but then some tables don't have shade"
+    } ]
+  }, {
+    "tStartMs": 1613299,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but anyway, it seems like that person came alone too"
+    } ]
+  }, {
+    "tStartMs": 1616299,
+    "dDurationMs": 4701,
+    "segs": [ {
+      "utf8": "I was thinking like that while eating"
+    } ]
+  }, {
+    "tStartMs": 1621000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "As I mentioned earlier"
+    } ]
+  }, {
+    "tStartMs": 1623100,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Taiwan was in the rainy season back then, you know."
+    } ]
+  }, {
+    "tStartMs": 1626100,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1626899,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "I was eating when it started to rain."
+    } ]
+  }, {
+    "tStartMs": 1629100,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1630399,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "A drop or two of rain started falling"
+    } ]
+  }, {
+    "tStartMs": 1633899,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and it looked like more rain was coming."
+    } ]
+  }, {
+    "tStartMs": 1636899,
+    "dDurationMs": 3701,
+    "segs": [ {
+      "utf8": "But the woman sitting at the table across from me"
+    } ]
+  }, {
+    "tStartMs": 1640600,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "didn't have any shade"
+    } ]
+  }, {
+    "tStartMs": 1642399,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "didn't have a parasol"
+    } ]
+  }, {
+    "tStartMs": 1644500,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "so I could see she was really panicking."
+    } ]
+  }, {
+    "tStartMs": 1646700,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "What do I do."
+    } ]
+  }, {
+    "tStartMs": 1647899,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "But then our eyes met."
+    } ]
+  }, {
+    "tStartMs": 1650100,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1650799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "So I gestured like this."
+    } ]
+  }, {
+    "tStartMs": 1653000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Like a drama. Yes."
+    } ]
+  }, {
+    "tStartMs": 1655200,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Come over here first."
+    } ]
+  }, {
+    "tStartMs": 1656500,
+    "dDurationMs": 1299,
+    "segs": [ {
+      "utf8": "Come on, come on. Yes."
+    } ]
+  }, {
+    "tStartMs": 1657799,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "So she quickly packed up her lunch box and belongings"
+    } ]
+  }, {
+    "tStartMs": 1661200,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "and came to my table."
+    } ]
+  }, {
+    "tStartMs": 1664399,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1666600,
+    "dDurationMs": 5699,
+    "segs": [ {
+      "utf8": "So we ended up sharing a table like that, kind of by accident."
+    } ]
+  }, {
+    "tStartMs": 1672299,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1673000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1674600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "wow, it's really like the opening scene of a romance story that starts in a travel destination"
+    } ]
+  }, {
+    "tStartMs": 1679000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "like that kind of scene."
+    } ]
+  }, {
+    "tStartMs": 1681100,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1682600,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "So after we shared the table and I asked, she turned out to be Korean."
+    } ]
+  }, {
+    "tStartMs": 1686799,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1688200,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1689299,
+    "dDurationMs": 5801,
+    "segs": [ {
+      "utf8": "So I said I'm Korean too, and when I heard her story"
+    } ]
+  }, {
+    "tStartMs": 1695100,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "it turned out she hadn't come alone on the trip."
+    } ]
+  }, {
+    "tStartMs": 1699000,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1699700,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "She came with a friend, the two of them"
+    } ]
+  }, {
+    "tStartMs": 1702899,
+    "dDurationMs": 6201,
+    "segs": [ {
+      "utf8": "and they were supposed to fly back to Korea that morning."
+    } ]
+  }, {
+    "tStartMs": 1709100,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1710000,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "So they were supposed to go back"
+    } ]
+  }, {
+    "tStartMs": 1713599,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "was it because of traffic?"
+    } ]
+  }, {
+    "tStartMs": 1716799,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "They were late to the airport."
+    } ]
+  }, {
+    "tStartMs": 1719400,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1720000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "They got to the airport late. Both of them."
+    } ]
+  }, {
+    "tStartMs": 1721799,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "Both of them. Yes."
+    } ]
+  }, {
+    "tStartMs": 1722500,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. Her and her friend."
+    } ]
+  }, {
+    "tStartMs": 1724500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1725500,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So they got to the airport late and missed their flight."
+    } ]
+  }, {
+    "tStartMs": 1728700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh no."
+    } ]
+  }, {
+    "tStartMs": 1729700,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1733400,
+    "dDurationMs": 5699,
+    "segs": [ {
+      "utf8": "they could pay more, a larger amount"
+    } ]
+  }, {
+    "tStartMs": 1739099,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "and go back that day"
+    } ]
+  }, {
+    "tStartMs": 1741500,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "or else wait another day or two"
+    } ]
+  }, {
+    "tStartMs": 1744099,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "until a seat became available"
+    } ]
+  }, {
+    "tStartMs": 1747099,
+    "dDurationMs": 4401,
+    "segs": [ {
+      "utf8": "and go back for a cheaper price"
+    } ]
+  }, {
+    "tStartMs": 1751500,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but the friend who came with her"
+    } ]
+  }, {
+    "tStartMs": 1754700,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "had to go to work the next day no matter what, so she had no choice"
+    } ]
+  }, {
+    "tStartMs": 1759500,
+    "dDurationMs": 4299,
+    "segs": [ {
+      "utf8": "I just paid more for a plane ticket and went to Korea, and ended up alone."
+    } ]
+  }, {
+    "tStartMs": 1763799,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1764599,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "So since it turned out that way anyway"
+    } ]
+  }, {
+    "tStartMs": 1767500,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "I thought, well, let me go to a tourist spot I haven't been to with my friend"
+    } ]
+  }, {
+    "tStartMs": 1775500,
+    "dDurationMs": 4099,
+    "segs": [ {
+      "utf8": "So that day I came back into the city from the airport"
+    } ]
+  }, {
+    "tStartMs": 1779599,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "and came to this Jiufen miner village."
+    } ]
+  }, {
+    "tStartMs": 1782400,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1783799,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "And that's how I ended up eating with that person."
+    } ]
+  }, {
+    "tStartMs": 1787900,
+    "dDurationMs": 1899,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1789799,
+    "dDurationMs": 6701,
+    "segs": [ {
+      "utf8": "So they asked me what my schedule would be like going forward"
+    } ]
+  }, {
+    "tStartMs": 1796500,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "and as we were talking about this and that"
+    } ]
+  }, {
+    "tStartMs": 1798599,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "I said"
+    } ]
+  }, {
+    "tStartMs": 1800000,
+    "dDurationMs": 9840,
+    "segs": [ {
+      "utf8": "I'm going to Jiufen now, and they said they'd been there before, so they offered to be my guide."
+    } ]
+  }, {
+    "tStartMs": 1809840,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "Really? They'd be your guide? Yes. They'd be your guide? Yes."
+    } ]
+  }, {
+    "tStartMs": 1816240,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "So the two of us went to Jiufen together and had a really fun time sightseeing."
+    } ]
+  }, {
+    "tStartMs": 1823559,
+    "dDurationMs": 9641,
+    "segs": [ {
+      "utf8": "And there's this café in Jiufen that's either three or four stories tall."
+    } ]
+  }, {
+    "tStartMs": 1833200,
+    "dDurationMs": 9840,
+    "segs": [ {
+      "utf8": "But if you go up to the floor above the café, you can see the Jiufen scenery really beautifully all at once."
+    } ]
+  }, {
+    "tStartMs": 1843040,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "Yes. A prime spot. Yes."
+    } ]
+  }, {
+    "tStartMs": 1847279,
+    "dDurationMs": 6801,
+    "segs": [ {
+      "utf8": "But when we got there, there were so many people in front of it. Yes. It was like total chaos."
+    } ]
+  }, {
+    "tStartMs": 1854080,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "Ugh. Apple, right. Yes. We didn't even know if there was a line or how to get in"
+    } ]
+  }, {
+    "tStartMs": 1861360,
+    "dDurationMs": 7239,
+    "segs": [ {
+      "utf8": "But the woman who came with me, did she not speak English very well?"
+    } ]
+  }, {
+    "tStartMs": 1868599,
+    "dDurationMs": 8600,
+    "segs": [ {
+      "utf8": "Anyway, I think that's why when they came with their friend last time, they couldn't communicate and couldn't get into the café."
+    } ]
+  }, {
+    "tStartMs": 1877199,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "But I speak English, don't I? Oh. English speaker."
+    } ]
+  }, {
+    "tStartMs": 1881639,
+    "dDurationMs": 8200,
+    "segs": [ {
+      "utf8": "Yes. So I really impressively talked to the staff member in front, going on and on"
+    } ]
+  }, {
+    "tStartMs": 1889839,
+    "dDurationMs": 11201,
+    "segs": [ {
+      "utf8": "and after waiting a bit, whether it was the third floor or whatever, I was able to sit in the spot with the best view up there."
+    } ]
+  }, {
+    "tStartMs": 1901040,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Yes. One word of English. Because I could speak English. Yes. That's right."
+    } ]
+  }, {
+    "tStartMs": 1906440,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "So I really sat in the best view spot in Jiufen. Yes. We had a really good time."
+    } ]
+  }, {
+    "tStartMs": 1914760,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And after we came out, I think we went to the night market together too."
+    } ]
+  }, {
+    "tStartMs": 1918480,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "Ah. You really enjoyed a full day of dating. Yes. That's right."
+    } ]
+  }, {
+    "tStartMs": 1925000,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "And ah. That must have been my last day. That night."
+    } ]
+  }, {
+    "tStartMs": 1930399,
+    "dDurationMs": 12240,
+    "segs": [ {
+      "utf8": "Yes. So after we finished sightseeing all the way to the night market, our accommodations were in different subway station neighborhoods, so we took the subway"
+    } ]
+  }, {
+    "tStartMs": 1942639,
+    "dDurationMs": 6961,
+    "segs": [ {
+      "utf8": "and before I got off at my stop, I think that person got off first."
+    } ]
+  }, {
+    "tStartMs": 1949600,
+    "dDurationMs": 7159,
+    "segs": [ {
+      "utf8": "Yes. But then that person's phone battery was running out."
+    } ]
+  }, {
+    "tStartMs": 1957360,
+    "dDurationMs": 7559,
+    "segs": [ {
+      "utf8": "But didn't they have a power bank? Did the power bank's battery run out too? That's what happened"
+    } ]
+  }, {
+    "tStartMs": 1964919,
+    "dDurationMs": 7161,
+    "segs": [ {
+      "utf8": "But true to my nature of always being well-prepared, I had two power banks."
+    } ]
+  }, {
+    "tStartMs": 1972080,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Wow. Were you hoping to meet someone like that?"
+    } ]
+  }, {
+    "tStartMs": 1977520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Ah. Ah. I should lend it if I meet them. Ah. That's not it. Ah. Is that so?"
+    } ]
+  }, {
+    "tStartMs": 1981360,
+    "dDurationMs": 6679,
+    "segs": [ {
+      "utf8": "At the time, I had one power bank with a huge capacity that was heavy"
+    } ]
+  }, {
+    "tStartMs": 1988039,
+    "dDurationMs": 9321,
+    "segs": [ {
+      "utf8": "and one card-type power bank that was lighter than my phone, so I carried two like that."
+    } ]
+  }, {
+    "tStartMs": 1997360,
+    "dDurationMs": 8360,
+    "segs": [ {
+      "utf8": "So since I barely used the card-type battery, I thought, well, I don't need this right now"
+    } ]
+  }, {
+    "tStartMs": 2005720,
+    "dDurationMs": 14839,
+    "segs": [ {
+      "utf8": "so I told them to just use it and return it to me in Korea if they have business in Busan, and I gave them the power bank"
+    } ]
+  }, {
+    "tStartMs": 2020559,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "and left room to meet again"
+    } ]
+  }, {
+    "tStartMs": 2023039,
+    "dDurationMs": 11080,
+    "segs": [ {
+      "utf8": "Yes. So we parted like that and I came back to Korea the next day just fine."
+    } ]
+  }, {
+    "tStartMs": 2034119,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I see. So?"
+    } ]
+  }, {
+    "tStartMs": 2036679,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Yes. So that's how the Taiwan trip ended."
+    } ]
+  }, {
+    "tStartMs": 2042279,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "Ah. That's a beautiful story."
+    } ]
+  }, {
+    "tStartMs": 2044600,
+    "dDurationMs": 10560,
+    "segs": [ {
+      "utf8": "Yes. The story after that happens outside of Taiwan, so in the Taiwan episode"
+    } ]
+  }, {
+    "tStartMs": 2055160,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "we're not telling it?"
+    } ]
+  }, {
+    "tStartMs": 2056359,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "I've decided not to tell it."
+    } ]
+  }, {
+    "tStartMs": 2057679,
+    "dDurationMs": 6321,
+    "segs": [ {
+      "utf8": "Wow. How would you tell us?"
+    } ]
+  }, {
+    "tStartMs": 2064000,
+    "dDurationMs": 6239,
+    "segs": [ {
+      "utf8": "If we pay for it now, will you tell us?"
+    } ]
+  }, {
+    "tStartMs": 2070239,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "What episode do we need?"
+    } ]
+  }, {
+    "tStartMs": 2074160,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "Yes. That's"
+    } ]
+  }, {
+    "tStartMs": 2077399,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong says he's going to keep it buried in his heart."
+    } ]
+  }, {
+    "tStartMs": 2081119,
+    "dDurationMs": 5601,
+    "segs": [ {
+      "utf8": "Ah. I'll think about that depending on what our subscribers want."
+    } ]
+  }, {
+    "tStartMs": 2086720,
+    "dDurationMs": 4679,
+    "segs": [ {
+      "utf8": "Yes. Listeners, don't you want to hear it? I'm curious."
+    } ]
+  }, {
+    "tStartMs": 2091440,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "Ah. But isn't the story really fun? Don't you think?"
+    } ]
+  }, {
+    "tStartMs": 2094679,
+    "dDurationMs": 5321,
+    "segs": [ {
+      "utf8": "Well. It was a coincidence that we ended up sharing a table, that's true"
+    } ]
+  }, {
+    "tStartMs": 2100000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "but still, the two of you got along well talking"
+    } ]
+  }, {
+    "tStartMs": 2103720,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and spent the day together anyway, right?"
+    } ]
+  }, {
+    "tStartMs": 2106160,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2108600,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "That's fun."
+    } ]
+  }, {
+    "tStartMs": 2109480,
+    "dDurationMs": 10240,
+    "segs": [ {
+      "utf8": "Yes. Oh. Right. When the rain started falling, the scenery of that drama itself, you know?"
+    } ]
+  }, {
+    "tStartMs": 2119720,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 2121200,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "I mean, wow. I still remember that so vividly."
+    } ]
+  }, {
+    "tStartMs": 2126679,
+    "dDurationMs": 5321,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, when you traveled alone, did things like that happen to you pretty often?"
+    } ]
+  }, {
+    "tStartMs": 2132000,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "Like, meeting someone to travel with?"
+    } ]
+  }, {
+    "tStartMs": 2137920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Yeah, I think it happened."
+    } ]
+  }, {
+    "tStartMs": 2142720,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "By chance like that?"
+    } ]
+  }, {
+    "tStartMs": 2144320,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Oh. I think it happened a lot. For me."
+    } ]
+  }, {
+    "tStartMs": 2146000,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Oh. Really?"
+    } ]
+  }, {
+    "tStartMs": 2147440,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2148399,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "How does that happen?"
+    } ]
+  }, {
+    "tStartMs": 2149519,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I didn't really have that. When I traveled alone."
+    } ]
+  }, {
+    "tStartMs": 2153679,
+    "dDurationMs": 5361,
+    "segs": [ {
+      "utf8": "Usually you go imagining things like that, right? Like, what if some new encounter is waiting for me?"
+    } ]
+  }, {
+    "tStartMs": 2159040,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "Mm. That's true."
+    } ]
+  }, {
+    "tStartMs": 2160359,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "I didn't really have it, though. Too bad."
+    } ]
+  }, {
+    "tStartMs": 2165119,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Oh. That kind of thing is so fun."
+    } ]
+  }, {
+    "tStartMs": 2167279,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Mm. It's fun. This kind of story."
+    } ]
+  }, {
+    "tStartMs": 2170839,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "If you're going to Taiwan, take note."
+    } ]
+  }, {
+    "tStartMs": 2174959,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What was the place called again? Jingguasi?"
+    } ]
+  }, {
+    "tStartMs": 2177959,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Jingguasi."
+    } ]
+  }, {
+    "tStartMs": 2179079,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "Jingguasi restaurant."
+    } ]
+  }, {
+    "tStartMs": 2181000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Yes. You have to go during the rainy season."
+    } ]
+  }, {
+    "tStartMs": 2183640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It needs to rain."
+    } ]
+  }, {
+    "tStartMs": 2185640,
+    "dDurationMs": 919,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2186559,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "Yes. I'm thinking of going again this summer."
+    } ]
+  }, {
+    "tStartMs": 2190040,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Oh. Really?"
+    } ]
+  }, {
+    "tStartMs": 2191200,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "Oh. I'm joking."
+    } ]
+  }, {
+    "tStartMs": 2192959,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "Oh. Why?"
+    } ]
+  }, {
+    "tStartMs": 2195320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Drama. To experience the drama one more time."
+    } ]
+  }, {
+    "tStartMs": 2196920,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "Are you going to film another drama?"
+    } ]
+  }, {
+    "tStartMs": 2199679,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2202160,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "It's fun. When you travel alone, stories like this get created and that's what makes it fun, I think."
+    } ]
+  }, {
+    "tStartMs": 2207320,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "Oh. You can't do that if you go with a friend."
+    } ]
+  }, {
+    "tStartMs": 2209959,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "You can't. You just hang out with your friend and come back."
+    } ]
+  }, {
+    "tStartMs": 2212119,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Yes. Of course that's fun too."
+    } ]
+  }, {
+    "tStartMs": 2214359,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "That's right. It has a different charm."
+    } ]
+  }, {
+    "tStartMs": 2216000,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "Yes yes. Oh. Oh. What if that wasn't the last day?"
+    } ]
+  }, {
+    "tStartMs": 2223160,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "Huh? If it wasn't?"
+    } ]
+  }, {
+    "tStartMs": 2224679,
+    "dDurationMs": 5321,
+    "segs": [ {
+      "utf8": "Then Dan Su-hee would have gone the next day too."
+    } ]
+  }, {
+    "tStartMs": 2230000,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Oh. Something didn't work out in Korea, I guess."
+    } ]
+  }, {
+    "tStartMs": 2234880,
+    "dDurationMs": 6079,
+    "segs": [ {
+      "utf8": "Oh. That's because it's something outside of Taiwan."
+    } ]
+  }, {
+    "tStartMs": 2240959,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "We can meet again anytime."
+    } ]
+  }, {
+    "tStartMs": 2245040,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "But today is about Taiwan."
+    } ]
+  }, {
+    "tStartMs": 2247760,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "There's also this thing called the travel destination effect, so if we had traveled a bit more,"
+    } ]
+  }, {
+    "tStartMs": 2253279,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "we might have made other good memories too,"
+    } ]
+  }, {
+    "tStartMs": 2255839,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "or we might have created a different drama."
+    } ]
+  }, {
+    "tStartMs": 2258359,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "Yes. That's right."
+    } ]
+  }, {
+    "tStartMs": 2260920,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Did I have anything like that?"
+    } ]
+  }, {
+    "tStartMs": 2264200,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, why do you have so many stories?"
+    } ]
+  }, {
+    "tStartMs": 2266519,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "Uh. I wonder too."
+    } ]
+  }, {
+    "tStartMs": 2268600,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "Last time I posted about public transportation."
+    } ]
+  }, {
+    "tStartMs": 2270839,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Yes yes."
+    } ]
+  }, {
+    "tStartMs": 2271519,
+    "dDurationMs": 6641,
+    "segs": [ {
+      "utf8": "The subscribers all said your stories are so fun and they really loved it."
+    } ]
+  }, {
+    "tStartMs": 2278160,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "Oh. Thank you so much."
+    } ]
+  }, {
+    "tStartMs": 2281079,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "A bundle of stories."
+    } ]
+  }, {
+    "tStartMs": 2283880,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Oh. It feels like a dream. Going back like this."
+    } ]
+  }, {
+    "tStartMs": 2287440,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "You should travel alone again. More."
+    } ]
+  }, {
+    "tStartMs": 2290239,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Yes. I should."
+    } ]
+  }, {
+    "tStartMs": 2293839,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "That's fun, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 2295119,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "But now that I think about it."
+    } ]
+  }, {
+    "tStartMs": 2297399,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "Oh. Should I talk about this in the Japan episode?"
+    } ]
+  }, {
+    "tStartMs": 2301200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Talk about it in the Japan episode. Did something happen where you met someone?"
+    } ]
+  }, {
+    "tStartMs": 2304160,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "Yeah. It did happen. But the reason I brought up this story is"
+    } ]
+  }, {
+    "tStartMs": 2307399,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "Even back then, I wasn't alone"
+    } ]
+  }, {
+    "tStartMs": 2310320,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "Oh. What do you mean."
+    } ]
+  }, {
+    "tStartMs": 2312679,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But this isn't something so romantic or dramatic like that"
+    } ]
+  }, {
+    "tStartMs": 2317640,
+    "dDurationMs": 6399,
+    "segs": [ {
+      "utf8": "But there's also another story about how I happened to meet local friends like that."
+    } ]
+  }, {
+    "tStartMs": 2324039,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "That sounds so fun. You have to do the Japan episode."
+    } ]
+  }, {
+    "tStartMs": 2327239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've also traveled to Japan quite a lot."
+    } ]
+  }, {
+    "tStartMs": 2329239,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "Mm. That's good."
+    } ]
+  }, {
+    "tStartMs": 2331320,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Oh. Have you heard about that?"
+    } ]
+  }, {
+    "tStartMs": 2332840,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Taiwan is giving travel support funds until May or June, I think."
+    } ]
+  }, {
+    "tStartMs": 2337440,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "What? What do you mean by that?"
+    } ]
+  }, {
+    "tStartMs": 2339039,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "You don't know about that?"
+    } ]
+  }, {
+    "tStartMs": 2339840,
+    "dDurationMs": 5759,
+    "segs": [ {
+      "utf8": "Taiwan gives travel support funds to visitors who come to Taiwan."
+    } ]
+  }, {
+    "tStartMs": 2345599,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "They've been doing this since after COVID, until the funds run out"
+    } ]
+  }, {
+    "tStartMs": 2349599,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "And I believe that's until May or June this year."
+    } ]
+  }, {
+    "tStartMs": 2353280,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2354760,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "Yes. So how it works is"
+    } ]
+  }, {
+    "tStartMs": 2357119,
+    "dDurationMs": 2881,
+    "segs": [ {
+      "utf8": "When you go right to the airport, I'm not exactly sure where it is"
+    } ]
+  }, {
+    "tStartMs": 2360000,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Try searching for it once."
+    } ]
+  }, {
+    "tStartMs": 2361520,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "Some kind of game place comes up."
+    } ]
+  }, {
+    "tStartMs": 2365359,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "At the place that gives out travel support funds."
+    } ]
+  }, {
+    "tStartMs": 2367799,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "So when you press a button"
+    } ]
+  }, {
+    "tStartMs": 2372039,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "It spins around like brrrrr"
+    } ]
+  }, {
+    "tStartMs": 2374080,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "And you get either a win or a blank, one of these two outcomes"
+    } ]
+  }, {
+    "tStartMs": 2378440,
+    "dDurationMs": 5119,
+    "segs": [ {
+      "utf8": "So if you win, they give you about 250,000 won"
+    } ]
+  }, {
+    "tStartMs": 2383559,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "And I've heard that over 50% of people win."
+    } ]
+  }, {
+    "tStartMs": 2387440,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "That's amazing."
+    } ]
+  }, {
+    "tStartMs": 2390640,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "That's why I wanted to go too."
+    } ]
+  }, {
+    "tStartMs": 2393880,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "Wow. So if three people go, that's a jackpot, right?"
+    } ]
+  }, {
+    "tStartMs": 2398679,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "If three people go, then"
+    } ]
+  }, {
+    "tStartMs": 2431000,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "It just happens to be rainy season."
+    } ]
+  }, {
+    "tStartMs": 2432919,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "It just happens to be rainy season."
+    } ]
+  }, {
+    "tStartMs": 2433799,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And there could be new meetings waiting for you too."
+    } ]
+  }, {
+    "tStartMs": 2435959,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Wow..."
+    } ]
+  }, {
+    "tStartMs": 2437360,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Wow, you know things like that."
+    } ]
+  }, {
+    "tStartMs": 2439560,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Yes, I looked up other countries but there's nothing"
+    } ]
+  }, {
+    "tStartMs": 2443040,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Taiwan is the only one that has something like this right now."
+    } ]
+  }, {
+    "tStartMs": 2445840,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Wow..."
+    } ]
+  }, {
+    "tStartMs": 2447040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Wow, Taiwan really is a great country."
+    } ]
+  }, {
+    "tStartMs": 2449720,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Yes, and what I see a lot as content these days is"
+    } ]
+  }, {
+    "tStartMs": 2453480,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "How the people and residents are so kind"
+    } ]
+  }, {
+    "tStartMs": 2458200,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "I see a lot of that kind of content."
+    } ]
+  }, {
+    "tStartMs": 2459840,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Oh, Taiwanese people really do seem very kind."
+    } ]
+  }, {
+    "tStartMs": 2463520,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "The guesthouse staff member I met back then"
+    } ]
+  }, {
+    "tStartMs": 2466760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Was so kind"
+    } ]
+  }, {
+    "tStartMs": 2468760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2470160,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "Yes, they were smiling so brightly"
+    } ]
+  }, {
+    "tStartMs": 2473919,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "So I went to a night market once"
+    } ]
+  }, {
+    "tStartMs": 2478120,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "And did the thing where you shoot and get a stuffed animal as a prize"
+    } ]
+  }, {
+    "tStartMs": 2482800,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "And I won a pretty big stuffed animal"
+    } ]
+  }, {
+    "tStartMs": 2485959,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "And I gave it as a gift to that guesthouse."
+    } ]
+  }, {
+    "tStartMs": 2488440,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "That's amazing."
+    } ]
+  }, {
+    "tStartMs": 2490239,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "You really do things like that often, Teacher Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2492480,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 2493879,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Santa."
+    } ]
+  }, {
+    "tStartMs": 2495239,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "But it feels good, doesn't it."
+    } ]
+  }, {
+    "tStartMs": 2497040,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I see. Because you care so much about people,"
+    } ]
+  }, {
+    "tStartMs": 2499720,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "it seems like good connections keep coming your way."
+    } ]
+  }, {
+    "tStartMs": 2501559,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "Ah..."
+    } ]
+  }, {
+    "tStartMs": 2503480,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "Thank you for sharing such an interesting experience."
+    } ]
+  }, {
+    "tStartMs": 2508279,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Next time, let's talk about how you attract people."
+    } ]
+  }, {
+    "tStartMs": 2512919,
+    "dDurationMs": 3241,
+    "segs": [ {
+      "utf8": "Tae-woong's power to attract people—"
+    } ]
+  }, {
+    "tStartMs": 2516160,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "please give us a lecture on it."
+    } ]
+  }, {
+    "tStartMs": 2517919,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "I'm thinking maybe we should do an episode like that."
+    } ]
+  }, {
+    "tStartMs": 2520519,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Now that I think about it, it does sound fun."
+    } ]
+  }, {
+    "tStartMs": 2523639,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I wonder why that is."
+    } ]
+  }, {
+    "tStartMs": 2527559,
+    "dDurationMs": 4961,
+    "segs": [ {
+      "utf8": "So let's wrap up the Taiwan episode here,"
+    } ]
+  }, {
+    "tStartMs": 2532520,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "and going forward, I think it would be nice to"
+    } ]
+  }, {
+    "tStartMs": 2536360,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "occasionally share stories about places we've traveled to."
+    } ]
+  }, {
+    "tStartMs": 2538839,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "And I've been thinking about the theme for the next episode,"
+    } ]
+  }, {
+    "tStartMs": 2542119,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "and I'd like to do a series of stories."
+    } ]
+  }, {
+    "tStartMs": 2545080,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "What kind of series? A school series."
+    } ]
+  }, {
+    "tStartMs": 2549800,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "Why? Why? Why are you laughing?"
+    } ]
+  }, {
+    "tStartMs": 2551639,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Just thinking about it makes me laugh."
+    } ]
+  }, {
+    "tStartMs": 2552919,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Oh, it makes you laugh?"
+    } ]
+  }, {
+    "tStartMs": 2554559,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "So the first episode we'll do is elementary school."
+    } ]
+  }, {
+    "tStartMs": 2559679,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "Please look forward to the elementary, middle, and high school series going forward."
+    } ]
+  }, {
+    "tStartMs": 2564119,
+    "dDurationMs": 3241,
+    "segs": [ {
+      "utf8": "Tae-woong says he already has lots of funny stories."
+    } ]
+  }, {
+    "tStartMs": 2567360,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "Oh, just thinking about my elementary school days now,"
+    } ]
+  }, {
+    "tStartMs": 2572520,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "it's so funny."
+    } ]
+  }, {
+    "tStartMs": 2575600,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "I'm looking forward to it too."
+    } ]
+  }, {
+    "tStartMs": 2577240,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Yes, sounds good."
+    } ]
+  }, {
+    "tStartMs": 2579000,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "So next time, we'll talk about the elementary school episode"
+    } ]
+  }, {
+    "tStartMs": 2581960,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "and chat about it Yomojomo style."
+    } ]
+  }, {
+    "tStartMs": 2584279,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "This has been Didi and Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2587559,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

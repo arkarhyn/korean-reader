@@ -1,0 +1,5641 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Yomojomo of Life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes, shall we talk about today's topic right away? What was today's topic?"
+    } ]
+  }, {
+    "tStartMs": 24000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Today's topic is public transportation."
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Yes, I have a Discord community where I talk about various podcasts,"
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and there's a community called Didi's Korean Study Room,"
+    } ]
+  }, {
+    "tStartMs": 39000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and just as I was about to talk about public transportation,"
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Riley, one of my subscribers,"
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "asked if I could make an episode about the yomojomo of public transportation."
+    } ]
+  }, {
+    "tStartMs": 55000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So it seems like we can make it at a good timing."
+    } ]
+  }, {
+    "tStartMs": 59000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Riley lives in Australia, right?"
+    } ]
+  }, {
+    "tStartMs": 61000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It seems like they're planning to visit,"
+    } ]
+  }, {
+    "tStartMs": 67000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so they left a comment saying they were curious about public transportation."
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Riley is a really wonderful person."
+    } ]
+  }, {
+    "tStartMs": 75000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right, both of us watch our livestreams often,"
+    } ]
+  }, {
+    "tStartMs": 79000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and they communicate with us frequently,"
+    } ]
+  }, {
+    "tStartMs": 82000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so I'll try to talk about public transportation in a way that can be helpful."
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Good."
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong, what would you say is the public transportation you use the most?"
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The public transportation I use the most is the bus."
+    } ]
+  }, {
+    "tStartMs": 98000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But the public transportation I like is the subway."
+    } ]
+  }, {
+    "tStartMs": 102000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 104000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I also don't like the bus and prefer the subway,"
+    } ]
+  }, {
+    "tStartMs": 109000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so I tend to take the subway whenever possible."
+    } ]
+  }, {
+    "tStartMs": 115000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's the Seoul metropolitan area, right?"
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 118000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "The bus and subway in that metropolitan area,"
+    } ]
+  }, {
+    "tStartMs": 125000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "since I live in Busan,"
+    } ]
+  }, {
+    "tStartMs": 127000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "the subway and bus I experience in Busan might be a bit different."
+    } ]
+  }, {
+    "tStartMs": 135000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm curious."
+    } ]
+  }, {
+    "tStartMs": 137000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "My hometown is Daegu, and when I lived there, I didn't really take the subway or bus much."
+    } ]
+  }, {
+    "tStartMs": 144000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "When I was young,"
+    } ]
+  }, {
+    "tStartMs": 145000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and then when I went to Busan as an adult,"
+    } ]
+  }, {
+    "tStartMs": 149000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "everything just felt different."
+    } ]
+  }, {
+    "tStartMs": 152000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Even the way they look is a bit different, and the Busan subway is"
+    } ]
+  }, {
+    "tStartMs": 155000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and I don't know the lines well, is that the limitation?"
+    } ]
+  }, {
+    "tStartMs": 159000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There are several?"
+    } ]
+  }, {
+    "tStartMs": 160000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There are several. There are several now."
+    } ]
+  }, {
+    "tStartMs": 164000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When you say \"now,\""
+    } ]
+  }, {
+    "tStartMs": 167000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "was it two? At the start?"
+    } ]
+  }, {
+    "tStartMs": 171000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right. There are several, but compared to the Seoul subway, it's much simpler,"
+    } ]
+  }, {
+    "tStartMs": 175000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so I guess I felt there were fewer."
+    } ]
+  }, {
+    "tStartMs": 178000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "One, two, three, four, five"
+    } ]
+  }, {
+    "tStartMs": 180000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "About five lines? Six?"
+    } ]
+  }, {
+    "tStartMs": 182000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 183000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, there are."
+    } ]
+  }, {
+    "tStartMs": 185000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There are a lot more buses running?"
+    } ]
+  }, {
+    "tStartMs": 189000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, the places you go, the route,"
+    } ]
+  }, {
+    "tStartMs": 192000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. The neighborhood where I live,"
+    } ]
+  }, {
+    "tStartMs": 196000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "well, there's no subway in front of my house,"
+    } ]
+  }, {
+    "tStartMs": 203000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "so to take the subway, I absolutely have to take the bus first."
+    } ]
+  }, {
+    "tStartMs": 209000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I think that's the only downside of the neighborhood where I live,"
+    } ]
+  }, {
+    "tStartMs": 214000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "well, I think it's one of the downsides,"
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "yes, but one of those is that I absolutely have to take the bus"
+    } ]
+  }, {
+    "tStartMs": 223000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "to go anywhere else."
+    } ]
+  }, {
+    "tStartMs": 226000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "This is the biggest problem."
+    } ]
+  }, {
+    "tStartMs": 229000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "My hometown is also in Gyeonggi Province."
+    } ]
+  }, {
+    "tStartMs": 233000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's about a 10-minute drive away."
+    } ]
+  }, {
+    "tStartMs": 237000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "From where I'm living now."
+    } ]
+  }, {
+    "tStartMs": 239000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But I'm currently living right in front of a subway station."
+    } ]
+  }, {
+    "tStartMs": 244000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And my hometown, I have to take a bus to get there."
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So that was really inconvenient for me too."
+    } ]
+  }, {
+    "tStartMs": 250000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The thing is, to take the subway, I have to take a bus."
+    } ]
+  }, {
+    "tStartMs": 256000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Timing it is really difficult, you know?"
+    } ]
+  }, {
+    "tStartMs": 259000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "If I miss one bus, I miss the whole subway."
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 263000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That was the most inconvenient part."
+    } ]
+  }, {
+    "tStartMs": 266000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "Still, the interval at which the subway departs, how do you say it?"
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Is that pretty long?"
+    } ]
+  }, {
+    "tStartMs": 280000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It seems much shorter."
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 285000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There's only one bus that comes right in front of my house."
+    } ]
+  }, {
+    "tStartMs": 289000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That bus comes once every 30 minutes."
+    } ]
+  }, {
+    "tStartMs": 294000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's Busan for you."
+    } ]
+  }, {
+    "tStartMs": 297000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Not all Busan buses are like that."
+    } ]
+  }, {
+    "tStartMs": 300000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's a village bus in Busan, right?"
+    } ]
+  }, {
+    "tStartMs": 303000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No, there are city buses."
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The village bus comes every 30 minutes?"
+    } ]
+  }, {
+    "tStartMs": 310000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The city bus?"
+    } ]
+  }, {
+    "tStartMs": 312000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It depends on the bus."
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There are some city buses that come once every 30 minutes too."
+    } ]
+  }, {
+    "tStartMs": 318000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So that means the place where I live is quite remote."
+    } ]
+  }, {
+    "tStartMs": 326000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But even saying that, I'm also in Gyeonggi Province."
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Not Seoul."
+    } ]
+  }, {
+    "tStartMs": 332000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "To take a bus that goes directly to Seoul from in front of my house,"
+    } ]
+  }, {
+    "tStartMs": 335000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That also takes about a 20-minute interval."
+    } ]
+  }, {
+    "tStartMs": 339000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Since I don't go that often,"
+    } ]
+  }, {
+    "tStartMs": 344000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Anyway, so whenever I go out,"
+    } ]
+  }, {
+    "tStartMs": 351000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Checking the bus app is essential for me."
+    } ]
+  }, {
+    "tStartMs": 355000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "You check the time before you go out?"
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is that accurate, mostly?"
+    } ]
+  }, {
+    "tStartMs": 362000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's accurate."
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There might be a difference of 1 or 2 minutes."
+    } ]
+  }, {
+    "tStartMs": 367000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Taking that into account, the bus comes about 5 or 6 minutes later."
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's when I go out."
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So what bus app do you use?"
+    } ]
+  }, {
+    "tStartMs": 378000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I've been using Kakao Bus."
+    } ]
+  }, {
+    "tStartMs": 383000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I use it."
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But if there's a better app, I'd like to switch."
+    } ]
+  }, {
+    "tStartMs": 391000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What's inconvenient about it? What is it?"
+    } ]
+  }, {
+    "tStartMs": 393000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Because I use an iPhone."
+    } ]
+  }, {
+    "tStartMs": 397000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "You know the widget feature on iPhone, right?"
+    } ]
+  }, {
+    "tStartMs": 403000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 405000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "If you swipe left on the home screen,"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "You can set it up so you can see several apps at a glance on the left."
+    } ]
+  }, {
+    "tStartMs": 419000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So then I have the weather app and the memo app there,"
+    } ]
+  }, {
+    "tStartMs": 424000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And the app that controls the lighting in my room,"
+    } ]
+  }, {
+    "tStartMs": 430000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And the Bitcoin app,"
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "And the Kakao Bus app."
+    } ]
+  }, {
+    "tStartMs": 441000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So then I don't have to open the app."
+    } ]
+  }, {
+    "tStartMs": 445000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I just swipe to the side once on the home screen,"
+    } ]
+  }, {
+    "tStartMs": 449000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And with that widget, the bus for the stop I set up"
+    } ]
+  }, {
+    "tStartMs": 454000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I can immediately check how many minutes until it arrives."
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So I used Kakao Bus because that was so good."
+    } ]
+  }, {
+    "tStartMs": 462000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I used it because that was good,"
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But after the app got updated once last year,"
+    } ]
+  }, {
+    "tStartMs": 470000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I didn't update the widget function."
+    } ]
+  }, {
+    "tStartMs": 474000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So it disappeared from the widget."
+    } ]
+  }, {
+    "tStartMs": 479000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Why wasn't it there?"
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I think the people who update the app"
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "must have forgotten about it."
+    } ]
+  }, {
+    "tStartMs": 490000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Wow, I see."
+    } ]
+  }, {
+    "tStartMs": 493000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I didn't even know Kakao Bus existed,"
+    } ]
+  }, {
+    "tStartMs": 496000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I originally use Kakao Map. Kakao Map."
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Does that one have it?"
+    } ]
+  }, {
+    "tStartMs": 503000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Or does it not have it? I think I should test it once."
+    } ]
+  }, {
+    "tStartMs": 506000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The widget?"
+    } ]
+  }, {
+    "tStartMs": 508000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I bet the widget doesn't have it? Just the map app?"
+    } ]
+  }, {
+    "tStartMs": 511000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see. Wow."
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The widget is really for a specific bus stop,"
+    } ]
+  }, {
+    "tStartMs": 519000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "showing which buses come at what times,"
+    } ]
+  }, {
+    "tStartMs": 522000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "pinpointing exactly that information,"
+    } ]
+  }, {
+    "tStartMs": 525000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "so you can see just that specific information at a glance,"
+    } ]
+  }, {
+    "tStartMs": 530000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so the map probably won't work."
+    } ]
+  }, {
+    "tStartMs": 533000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 535000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So you use Kakao Bus for the bus,"
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and you check the subway with a different app?"
+    } ]
+  }, {
+    "tStartMs": 541000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I use a different app for the subway."
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What do you use?"
+    } ]
+  }, {
+    "tStartMs": 545000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What was the name? Hold on."
+    } ]
+  }, {
+    "tStartMs": 548000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I just do everything at once with Kakao Map. It's convenient."
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "For me, the subway app is Subway Finisher."
+    } ]
+  }, {
+    "tStartMs": 561000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Subway Finisher?"
+    } ]
+  }, {
+    "tStartMs": 564000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The name is pretty grand, right?"
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Finish the subway with this."
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 569000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This is all you need."
+    } ]
+  }, {
+    "tStartMs": 571000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Does that show Busan subway and Seoul subway too?"
+    } ]
+  }, {
+    "tStartMs": 576000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It shows all of them."
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "For the subway, I sometimes use an app called just Subway."
+    } ]
+  }, {
+    "tStartMs": 584000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Just Subway."
+    } ]
+  }, {
+    "tStartMs": 586000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I use that a lot too."
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I use it because I can see the route or the lines I'm on at a glance."
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can see that at a glance in Subway Finisher too."
+    } ]
+  }, {
+    "tStartMs": 598000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh really? Let me download both and try them."
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I think you can just use whichever is more convenient. Everyone."
+    } ]
+  }, {
+    "tStartMs": 602640,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 604960,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Because it's a finisher."
+    } ]
+  }, {
+    "tStartMs": 606160,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Finisher."
+    } ]
+  }, {
+    "tStartMs": 607480,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "You can settle it in one go."
+    } ]
+  }, {
+    "tStartMs": 608840,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 610040,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 612280,
+    "dDurationMs": 6439,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong, is there a reason you prefer the subway over the bus?"
+    } ]
+  }, {
+    "tStartMs": 618719,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 621879,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "For me."
+    } ]
+  }, {
+    "tStartMs": 622879,
+    "dDurationMs": 1321,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 624200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I'll be really honest with you. For me."
+    } ]
+  }, {
+    "tStartMs": 627000,
+    "dDurationMs": 12560,
+    "segs": [ {
+      "utf8": "When I read a book on the subway, I feel like I become a very intellectual person."
+    } ]
+  }, {
+    "tStartMs": 639560,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "Really honest."
+    } ]
+  }, {
+    "tStartMs": 641799,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "It's not that I like the activity of reading books, but me reading a book."
+    } ]
+  }, {
+    "tStartMs": 647639,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 649439,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "It feels so cool. I like getting that kind of feeling?"
+    } ]
+  }, {
+    "tStartMs": 652720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 655720,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "That's a good reason. It seems like it would help your self-esteem."
+    } ]
+  }, {
+    "tStartMs": 660520,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "Yes. It's permissible, but it does help my self-esteem."
+    } ]
+  }, {
+    "tStartMs": 664919,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "And the book reads well."
+    } ]
+  }, {
+    "tStartMs": 667639,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "So I don't listen to music either when I take the subway."
+    } ]
+  }, {
+    "tStartMs": 671320,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "I can't concentrate on books."
+    } ]
+  }, {
+    "tStartMs": 676239,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "But anyway, when you take the bus, the bus jolts up and down, right?"
+    } ]
+  }, {
+    "tStartMs": 684959,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "And it also jolts side to side."
+    } ]
+  }, {
+    "tStartMs": 687760,
+    "dDurationMs": 5879,
+    "segs": [ {
+      "utf8": "So when I read a book, I get motion sickness, which is a bit tough."
+    } ]
+  }, {
+    "tStartMs": 693639,
+    "dDurationMs": 2721,
+    "segs": [ {
+      "utf8": "There isn't much you can do on the bus."
+    } ]
+  }, {
+    "tStartMs": 696360,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 697360,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Reading books can make you motion sick, and watching videos can make you motion sick too."
+    } ]
+  }, {
+    "tStartMs": 702080,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "Your stomach feels queasy."
+    } ]
+  }, {
+    "tStartMs": 703839,
+    "dDurationMs": 6241,
+    "segs": [ {
+      "utf8": "Right. And then making loud phone calls—the subway doesn't work for that either, but even so, making phone calls feels like you have to be more considerate."
+    } ]
+  }, {
+    "tStartMs": 710080,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 713000,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "But the subway is a bit smoother, after all."
+    } ]
+  }, {
+    "tStartMs": 715879,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Yeah, that's true."
+    } ]
+  }, {
+    "tStartMs": 717239,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Especially when you're sitting down, there's hardly any major movement."
+    } ]
+  }, {
+    "tStartMs": 721879,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 723160,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "So you can even get absorbed in reading yourself."
+    } ]
+  }, {
+    "tStartMs": 728199,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "And you can actually read a book."
+    } ]
+  }, {
+    "tStartMs": 733919,
+    "dDurationMs": 5241,
+    "segs": [ {
+      "utf8": "I think I've heard about it before—like an episode that happened while reading a book on the subway."
+    } ]
+  }, {
+    "tStartMs": 739160,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "Oh, right. Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 742559,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Oh, I thought you really loved books."
+    } ]
+  }, {
+    "tStartMs": 747199,
+    "dDurationMs": 4521,
+    "segs": [ {
+      "utf8": "That, that feeling was nice to experience."
+    } ]
+  }, {
+    "tStartMs": 751720,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 754520,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Oh, but they all influence each other."
+    } ]
+  }, {
+    "tStartMs": 758080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What kind of influence?"
+    } ]
+  }, {
+    "tStartMs": 759080,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "It's partly because I love books."
+    } ]
+  }, {
+    "tStartMs": 762199,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "And sometimes I think I don't read books enough."
+    } ]
+  }, {
+    "tStartMs": 767039,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Books aren't fun."
+    } ]
+  }, {
+    "tStartMs": 770199,
+    "dDurationMs": 3321,
+    "segs": [ {
+      "utf8": "But then I feel like I should read books a bit."
+    } ]
+  }, {
+    "tStartMs": 773520,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "When I want to feel the fun of books again,"
+    } ]
+  }, {
+    "tStartMs": 777600,
+    "dDurationMs": 8760,
+    "segs": [ {
+      "utf8": "if I experience getting absorbed in the sight of myself reading a book in a place with lots of people,"
+    } ]
+  }, {
+    "tStartMs": 786360,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "I can feel the fun of books again."
+    } ]
+  }, {
+    "tStartMs": 788759,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It's a good method for motivation too."
+    } ]
+  }, {
+    "tStartMs": 791279,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 793000,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So do you carefully choose what book to read on the subway?"
+    } ]
+  }, {
+    "tStartMs": 797800,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Oh, no, not really."
+    } ]
+  }, {
+    "tStartMs": 799000,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "I just read whatever I'm reading at that time."
+    } ]
+  }, {
+    "tStartMs": 803279,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "Oh, so you need to have some travel time on the subway to read a book, right?"
+    } ]
+  }, {
+    "tStartMs": 809479,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Still, it needs to be at least about 10 minutes?"
+    } ]
+  }, {
+    "tStartMs": 812919,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Oh, yes. That's right."
+    } ]
+  }, {
+    "tStartMs": 814880,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Where do you usually go on the subway? Are you going to meet someone?"
+    } ]
+  }, {
+    "tStartMs": 820720,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 823800,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "When I have things to do or when I have plans,"
+    } ]
+  }, {
+    "tStartMs": 826759,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Let me tell you a bit about Busan—"
+    } ]
+  }, {
+    "tStartMs": 829360,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "There's a place called Seomyeon where young people hang out a lot."
+    } ]
+  }, {
+    "tStartMs": 834559,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "If you look at the subway map, it's almost in the middle."
+    } ]
+  }, {
+    "tStartMs": 841279,
+    "dDurationMs": 8801,
+    "segs": [ {
+      "utf8": "So all kinds of restaurants and bars gather there,"
+    } ]
+  }, {
+    "tStartMs": 850080,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and young people mainly meet and hang out there."
+    } ]
+  }, {
+    "tStartMs": 854720,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Young people."
+    } ]
+  }, {
+    "tStartMs": 855720,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "Yes, and friends who live far, far away"
+    } ]
+  }, {
+    "tStartMs": 859839,
+    "dDurationMs": 4881,
+    "segs": [ {
+      "utf8": "often meet in that middle spot and hang out."
+    } ]
+  }, {
+    "tStartMs": 864720,
+    "dDurationMs": 9679,
+    "segs": [ {
+      "utf8": "But I'm at the very end on the right bottom of the subway map."
+    } ]
+  }, {
+    "tStartMs": 874399,
+    "dDurationMs": 10400,
+    "segs": [ {
+      "utf8": "So it takes about 30 or 40 minutes to get to Seomyeon, which is great for reading."
+    } ]
+  }, {
+    "tStartMs": 884799,
+    "dDurationMs": 7760,
+    "segs": [ {
+      "utf8": "I'm curious about this too—in Seoul, during rush hour, morning and evening commute times, they call it \"hell subway,\""
+    } ]
+  }, {
+    "tStartMs": 892559,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "taking the subway in Seoul, taking the subway in Seoul, taking the subway in Seoul,"
+    } ]
+  }, {
+    "tStartMs": 899480,
+    "dDurationMs": 5599,
+    "segs": [ {
+      "utf8": "during rush hour, morning and evening commute times, they call it \"hell subway,\""
+    } ]
+  }, {
+    "tStartMs": 905079,
+    "dDurationMs": 4561,
+    "segs": [ {
+      "utf8": "and you can experience the subway completely packed with people."
+    } ]
+  }, {
+    "tStartMs": 909640,
+    "dDurationMs": 9080,
+    "segs": [ {
+      "utf8": "During morning rush hour around 7 or 8 o'clock, and evening rush hour around 6 or 7 p.m.,"
+    } ]
+  }, {
+    "tStartMs": 918720,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "there are subways with way too many people."
+    } ]
+  }, {
+    "tStartMs": 921640,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "How is it in Busan?"
+    } ]
+  }, {
+    "tStartMs": 923440,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "Busan is similar, but it doesn't seem to be as bad as Seoul. Definitely."
+    } ]
+  }, {
+    "tStartMs": 932480,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Seoul's subway is really tough, everyone."
+    } ]
+  }, {
+    "tStartMs": 937760,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "I really admire the people who do it every day."
+    } ]
+  }, {
+    "tStartMs": 942079,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Yes, whenever I go up to Seoul,"
+    } ]
+  }, {
+    "tStartMs": 946279,
+    "dDurationMs": 6481,
+    "segs": [ {
+      "utf8": "I think it's because of the subway that I decide I won't go to Seoul again."
+    } ]
+  }, {
+    "tStartMs": 952799,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "There are just too many people."
+    } ]
+  }, {
+    "tStartMs": 955679,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So if travelers come and are heading back to their accommodation after going out somewhere,"
+    } ]
+  }, {
+    "tStartMs": 960559,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "it might be good to avoid rush hour, commute times."
+    } ]
+  }, {
+    "tStartMs": 964279,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 966359,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "You really have to push through people to get on."
+    } ]
+  }, {
+    "tStartMs": 968760,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Ah, yes."
+    } ]
+  }, {
+    "tStartMs": 971600,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "Oh, it's just..."
+    } ]
+  }, {
+    "tStartMs": 974239,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Everyone is busy and struggling to live."
+    } ]
+  }, {
+    "tStartMs": 976279,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "Yes, it's a harsh environment."
+    } ]
+  }, {
+    "tStartMs": 980000,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "Sometimes you can't even get on. If it's too packed, you have to let several subway trains pass."
+    } ]
+  }, {
+    "tStartMs": 986320,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "That happens sometimes."
+    } ]
+  }, {
+    "tStartMs": 987600,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "Oh, but this question was from Riley, who came from Australia."
+    } ]
+  }, {
+    "tStartMs": 993200,
+    "dDurationMs": 8919,
+    "segs": [ {
+      "utf8": "I've been to Australia, and Australia has a really low population density."
+    } ]
+  }, {
+    "tStartMs": 1002119,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "The land is really vast but not many people live there."
+    } ]
+  }, {
+    "tStartMs": 1006799,
+    "dDurationMs": 10880,
+    "segs": [ {
+      "utf8": "So what was really surprising was that even in the most bustling area, the most bustling part of Sydney, it feels spacious—the subway and everything."
+    } ]
+  }, {
+    "tStartMs": 1017679,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "The inside of the subway is spacious and the waiting areas are spacious too."
+    } ]
+  }, {
+    "tStartMs": 1023959,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "I think you might be quite surprised when you see Korea's hellish subway."
+    } ]
+  }, {
+    "tStartMs": 1028079,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "Wow, I wish I could live somewhere like that."
+    } ]
+  }, {
+    "tStartMs": 1030720,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "So it seems like people have more leisure."
+    } ]
+  }, {
+    "tStartMs": 1032079,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "People talk about slow life and things like that."
+    } ]
+  }, {
+    "tStartMs": 1034799,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1036399,
+    "dDurationMs": 5041,
+    "segs": [ {
+      "utf8": "The people seem to have more ease about them."
+    } ]
+  }, {
+    "tStartMs": 1041440,
+    "dDurationMs": 12519,
+    "segs": [ {
+      "utf8": "As a Gyeonggi Province resident, I think many Gyeonggi residents spend a lot of time on subways or public transportation."
+    } ]
+  }, {
+    "tStartMs": 1053959,
+    "dDurationMs": 8801,
+    "segs": [ {
+      "utf8": "A lot of students commute to school, and there are more companies in Seoul than in Gyeonggi Province."
+    } ]
+  }, {
+    "tStartMs": 1063320,
+    "dDurationMs": 9680,
+    "segs": [ {
+      "utf8": "They live in Gyeonggi Province but commute to Seoul every day for at least an hour and a half or more, I think there are a lot of people like that."
+    } ]
+  }, {
+    "tStartMs": 1073000,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "My university was pretty far from home."
+    } ]
+  }, {
+    "tStartMs": 1079320,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "An hour and a half or more? Almost two hours."
+    } ]
+  }, {
+    "tStartMs": 1082279,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "So I commuted round trip for four hours."
+    } ]
+  }, {
+    "tStartMs": 1087559,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "So I think I rode the subway for a lifetime's worth back then."
+    } ]
+  }, {
+    "tStartMs": 1093279,
+    "dDurationMs": 6641,
+    "segs": [ {
+      "utf8": "Wow, so what did you do while traveling?"
+    } ]
+  }, {
+    "tStartMs": 1099920,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "I really did a lot of different things."
+    } ]
+  }, {
+    "tStartMs": 1101359,
+    "dDurationMs": 8841,
+    "segs": [ {
+      "utf8": "I read books too, and I even opened my laptop and did editing and things like that."
+    } ]
+  }, {
+    "tStartMs": 1110200,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "What else did I do?"
+    } ]
+  }, {
+    "tStartMs": 1111679,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Mostly I just slept sometimes, because I was tired."
+    } ]
+  }, {
+    "tStartMs": 1115799,
+    "dDurationMs": 11401,
+    "segs": [ {
+      "utf8": "But also, rather than just going straight through, I had to transfer, change lines about three times during those two hours."
+    } ]
+  }, {
+    "tStartMs": 1127200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I had to. That was really hard."
+    } ]
+  }, {
+    "tStartMs": 1130000,
+    "dDurationMs": 7359,
+    "segs": [ {
+      "utf8": "I couldn't sleep properly, and I'd read a book and then put it away again, and that kind of thing was difficult."
+    } ]
+  }, {
+    "tStartMs": 1137359,
+    "dDurationMs": 8401,
+    "segs": [ {
+      "utf8": "So now, taking public transportation and going far doesn't feel that far to me anymore."
+    } ]
+  }, {
+    "tStartMs": 1146760,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "Ah, if you transfer multiple times like that, it's really annoying."
+    } ]
+  }, {
+    "tStartMs": 1150479,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Um, ah, but Korea's transfer system is well set up, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1155359,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1156320,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "It's all free, right? Free transfers?"
+    } ]
+  }, {
+    "tStartMs": 1159440,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "That seems like a good point."
+    } ]
+  }, {
+    "tStartMs": 1162919,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "Travelers won't spend much on public transportation."
+    } ]
+  }, {
+    "tStartMs": 1167080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yeah, exactly."
+    } ]
+  }, {
+    "tStartMs": 1169080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "That's a really good point."
+    } ]
+  }, {
+    "tStartMs": 1171760,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1174200,
+    "dDurationMs": 6359,
+    "segs": [ {
+      "utf8": "When Riley comes, the Mybi card?"
+    } ]
+  }, {
+    "tStartMs": 1180559,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Is it called Mybi? Teamwon?"
+    } ]
+  }, {
+    "tStartMs": 1182599,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Teamwon? Teamwon card?"
+    } ]
+  }, {
+    "tStartMs": 1184919,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Oh, was Mybi something you used as a student?"
+    } ]
+  }, {
+    "tStartMs": 1187679,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Um, what is it? But I think I know what it is."
+    } ]
+  }, {
+    "tStartMs": 1191039,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "That, the bee shape."
+    } ]
+  }, {
+    "tStartMs": 1192640,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Oh, that's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 1194200,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "Mybi? Does Mybi still exist?"
+    } ]
+  }, {
+    "tStartMs": 1196479,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Oh, is it gone now?"
+    } ]
+  }, {
+    "tStartMs": 1198280,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I think they usually call it a team member."
+    } ]
+  }, {
+    "tStartMs": 1201000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "Korean credit cards or debit cards originally have a transportation card function built in, right?"
+    } ]
+  }, {
+    "tStartMs": 1214000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But foreigners don't have that, so they have to buy a separate transportation card, right?"
+    } ]
+  }, {
+    "tStartMs": 1219000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. I think there's probably one right when you exit the airport."
+    } ]
+  }, {
+    "tStartMs": 1223000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There's a place that sells those T-money cards, you know? On the way to the subway?"
+    } ]
+  }, {
+    "tStartMs": 1227000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1228000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "You can buy it there and use it at convenience stores and everywhere else too."
+    } ]
+  }, {
+    "tStartMs": 1233000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah, that's right."
+    } ]
+  }, {
+    "tStartMs": 1234000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "If you charge it up and use it well, I think it would be good."
+    } ]
+  }, {
+    "tStartMs": 1239000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's really convenient when you think about things like that."
+    } ]
+  }, {
+    "tStartMs": 1242000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "That's right. You can use it on buses and subways, except for taxis."
+    } ]
+  }, {
+    "tStartMs": 1248000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I think trains probably won't work. Or will they? Payment might be possible too."
+    } ]
+  }, {
+    "tStartMs": 1254000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, taxis work too. Taxis work."
+    } ]
+  }, {
+    "tStartMs": 1257000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1258000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. So transfers don't work, free transfers don't work, but"
+    } ]
+  }, {
+    "tStartMs": 1262000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "you can use it for payment and things like that. If you put money in it."
+    } ]
+  }, {
+    "tStartMs": 1267000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "So since taxis came up, do you use taxis often? In Busan?"
+    } ]
+  }, {
+    "tStartMs": 1275000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I do use taxis when I need to."
+    } ]
+  }, {
+    "tStartMs": 1281000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But I wouldn't say I use them very often."
+    } ]
+  }, {
+    "tStartMs": 1285000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But there are definitely times when you need them, right?"
+    } ]
+  }, {
+    "tStartMs": 1289000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There might be places that are awkward to get to by public transportation."
+    } ]
+  }, {
+    "tStartMs": 1294000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And also when it gets too late."
+    } ]
+  }, {
+    "tStartMs": 1298000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's right. You usually take a taxi in those kinds of situations."
+    } ]
+  }, {
+    "tStartMs": 1301000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right. When it's urgent."
+    } ]
+  }, {
+    "tStartMs": 1302000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When it's urgent. Or when the last bus has stopped running."
+    } ]
+  }, {
+    "tStartMs": 1306000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah, that's right. Late at night."
+    } ]
+  }, {
+    "tStartMs": 1307000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When buses don't run. Late at night."
+    } ]
+  }, {
+    "tStartMs": 1311000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "What's the base fare these days, do you think? For taxis."
+    } ]
+  }, {
+    "tStartMs": 1316000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Uh, I can't remember."
+    } ]
+  }, {
+    "tStartMs": 1318000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "Right. The base fare. I think it's 4,800 won in Busan."
+    } ]
+  }, {
+    "tStartMs": 1329000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1330000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's gone up a lot."
+    } ]
+  }, {
+    "tStartMs": 1334000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Oh, Seoul is also 4,800 won. It's the same."
+    } ]
+  }, {
+    "tStartMs": 1340000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Still, it doesn't seem like something you can't afford."
+    } ]
+  }, {
+    "tStartMs": 1343000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It doesn't seem like Korea is a country where taxi fares are extremely expensive."
+    } ]
+  }, {
+    "tStartMs": 1346000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Compared to other countries."
+    } ]
+  }, {
+    "tStartMs": 1352000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "When I think about it, I don't think I've ever really worried about taxi fares that much."
+    } ]
+  }, {
+    "tStartMs": 1360000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like, getting anxious about it."
+    } ]
+  }, {
+    "tStartMs": 1362000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How much will it be? I've never worried about things like that?"
+    } ]
+  }, {
+    "tStartMs": 1365000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "Uh, yes. So when you take a taxi, it's a situation where you have no choice but to take a taxi."
+    } ]
+  }, {
+    "tStartMs": 1375000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So it's like, ah, whatever the cost is. There's nothing I can do about it."
+    } ]
+  }, {
+    "tStartMs": 1378000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right. The best option."
+    } ]
+  }, {
+    "tStartMs": 1379000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I prepared late."
+    } ]
+  }, {
+    "tStartMs": 1382000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 1385000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I've heard a lot from people who come to visit Korea"
+    } ]
+  }, {
+    "tStartMs": 1389000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "that Korean public transportation, like buses or taxis for example, drive really recklessly? I've heard that a lot."
+    } ]
+  }, {
+    "tStartMs": 1400000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1401000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1402000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Oh, but Seoul people say the exact same thing when they come to Busan."
+    } ]
+  }, {
+    "tStartMs": 1411000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Ah, Busan is now top. Top of the top."
+    } ]
+  }, {
+    "tStartMs": 1419000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Busan buses are scary."
+    } ]
+  }, {
+    "tStartMs": 1423000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "All the cars are apparently scary."
+    } ]
+  }, {
+    "tStartMs": 1425000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1427000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "When friends who drive bring their cars from Seoul to Busan, they always"
+    } ]
+  }, {
+    "tStartMs": 1433000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "say things like, Busan drivers don't use their turn signals? Why don't they? Like that."
+    } ]
+  }, {
+    "tStartMs": 1438000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No turn signals at all?"
+    } ]
+  }, {
+    "tStartMs": 1440000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Turn signals are that thing, right? When you cut in? When a car cuts in?"
+    } ]
+  }, {
+    "tStartMs": 1444000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "When changing lanes, you go left. You go right. You signal like that,"
+    } ]
+  }, {
+    "tStartMs": 1453000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "but they say they don't use their turn signals,"
+    } ]
+  }, {
+    "tStartMs": 1459000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that's what my friends tell me."
+    } ]
+  }, {
+    "tStartMs": 1462000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "What, you don't need to turn it on either. It's comfortable like this, right?"
+    } ]
+  }, {
+    "tStartMs": 1467000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Lucky Vicky. You don't need to turn it on either."
+    } ]
+  }, {
+    "tStartMs": 1472000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1474000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "It does seem like they drive really fast and all that. Like buses."
+    } ]
+  }, {
+    "tStartMs": 1480000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1481000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And the curves, they just turn sharply like that, so your body tilts over."
+    } ]
+  }, {
+    "tStartMs": 1486000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You have to enjoy the thrill. If you can't avoid it."
+    } ]
+  }, {
+    "tStartMs": 1489000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's right. And everyone drives like that well."
+    } ]
+  }, {
+    "tStartMs": 1493000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Really? So it's all safe?"
+    } ]
+  }, {
+    "tStartMs": 1495000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 1496000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You can feel reassured."
+    } ]
+  }, {
+    "tStartMs": 1497000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, yes. Of course."
+    } ]
+  }, {
+    "tStartMs": 1499000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because you're so used to it."
+    } ]
+  }, {
+    "tStartMs": 1501000,
+    "dDurationMs": 23000,
+    "segs": [ {
+      "utf8": "Was it when I was in Seoul? I felt like I got used to those reckless and fast-driving taxi drivers in Busan."
+    } ]
+  }, {
+    "tStartMs": 1525000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It seems like it was Seoul one time."
+    } ]
+  }, {
+    "tStartMs": 1528000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I took a taxi once, and at that time I was really short on time."
+    } ]
+  }, {
+    "tStartMs": 1532000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Was it Seoul or Gyeongju? Anyway, it wasn't Busan."
+    } ]
+  }, {
+    "tStartMs": 1537000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "I asked if I was short on time, how far could we get within this time frame, something like that."
+    } ]
+  }, {
+    "tStartMs": 1548000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "He said, well, if it works it works, and if we make it in time we make it in time, and if traffic doesn't cooperate then it doesn't work. That's what the driver said."
+    } ]
+  }, {
+    "tStartMs": 1558000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1559000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I felt so frustrated."
+    } ]
+  }, {
+    "tStartMs": 1561000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Just don't even use the turn signal, just overtake. Just drive fast."
+    } ]
+  }, {
+    "tStartMs": 1566000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So if it had been a Busan driver, they would have done it like this from the start."
+    } ]
+  }, {
+    "tStartMs": 1571000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1572000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "They would have just gone for it."
+    } ]
+  }, {
+    "tStartMs": 1576000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But when I felt that frustration myself,"
+    } ]
+  }, {
+    "tStartMs": 1584000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I thought, wow, environment is really scary, you know?"
+    } ]
+  }, {
+    "tStartMs": 1593000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "But it seems right. Those fast-paced things have pros and cons, and it's definitely fast."
+    } ]
+  }, {
+    "tStartMs": 1605000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Buses don't get delayed or anything, they just come at the set time like this."
+    } ]
+  }, {
+    "tStartMs": 1613000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So having less frustration would be an advantage, right?"
+    } ]
+  }, {
+    "tStartMs": 1618000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1619000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Have you had any kind of incidents? While taking public transportation?"
+    } ]
+  }, {
+    "tStartMs": 1624000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Not that many."
+    } ]
+  }, {
+    "tStartMs": 1628000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Didi, what do you think about eating food on public transportation?"
+    } ]
+  }, {
+    "tStartMs": 1634000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Eating food on public transportation?"
+    } ]
+  }, {
+    "tStartMs": 1638000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I think it's like a movie theater, you know, things that don't smell."
+    } ]
+  }, {
+    "tStartMs": 1643000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Just bread? Simple bread like castella, I think you can eat that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 1652000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "People are really hungry and they're rushing to work and leaving work, so they might have missed a meal."
+    } ]
+  }, {
+    "tStartMs": 1659000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think eating that kind of thing is okay."
+    } ]
+  }, {
+    "tStartMs": 1662000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Or like, something to drink."
+    } ]
+  }, {
+    "tStartMs": 1667000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Simple bread and coffee, I think that's okay for me, what about you?"
+    } ]
+  }, {
+    "tStartMs": 1673000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Well, drinks seem okay on the subway."
+    } ]
+  }, {
+    "tStartMs": 1680000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If it doesn't smell that much."
+    } ]
+  }, {
+    "tStartMs": 1682000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But on the bus it seems a bit dangerous."
+    } ]
+  }, {
+    "tStartMs": 1685000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can't eat on the bus, right?"
+    } ]
+  }, {
+    "tStartMs": 1687000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They don't let you bring it on."
+    } ]
+  }, {
+    "tStartMs": 1689000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 1690000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "And I haven't really thought about food that way."
+    } ]
+  }, {
+    "tStartMs": 1698000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I think anything that fits in one bite is okay for me."
+    } ]
+  }, {
+    "tStartMs": 1705000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "One bite?"
+    } ]
+  }, {
+    "tStartMs": 1706000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes, like a small chocolate bar or something."
+    } ]
+  }, {
+    "tStartMs": 1709000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What about kimbap?"
+    } ]
+  }, {
+    "tStartMs": 1711000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can't eat all of kimbap in one bite."
+    } ]
+  }, {
+    "tStartMs": 1714000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, right."
+    } ]
+  }, {
+    "tStartMs": 1715000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "If there was just literally one piece of kimbap, that would be okay."
+    } ]
+  }, {
+    "tStartMs": 1720000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1721000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "But that's not usually how it is."
+    } ]
+  }, {
+    "tStartMs": 1722000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1723000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But the reason I brought this up is"
+    } ]
+  }, {
+    "tStartMs": 1726000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It was a really long time ago, when I was young, early twenties?"
+    } ]
+  }, {
+    "tStartMs": 1730000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It was more than five years ago."
+    } ]
+  }, {
+    "tStartMs": 1734000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I got on a bus, and there were a lot of people on it."
+    } ]
+  }, {
+    "tStartMs": 1738000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Because there were so many people, I had to stand and ride the bus."
+    } ]
+  }, {
+    "tStartMs": 1742000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But anyway, I was going to have to stand."
+    } ]
+  }, {
+    "tStartMs": 1747000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I tried to move my spot toward the back."
+    } ]
+  }, {
+    "tStartMs": 1750000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Korean buses, you board from the front, right?"
+    } ]
+  }, {
+    "tStartMs": 1752000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1753000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yes, I boarded from the front and slowly made my way toward the back."
+    } ]
+  }, {
+    "tStartMs": 1759000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Korean buses have seats in the back where two people sit,"
+    } ]
+  }, {
+    "tStartMs": 1765000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and there are rows like this on both sides—one row, two rows, three rows."
+    } ]
+  }, {
+    "tStartMs": 1768000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1769000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And at the very end, there are long benches where about six people can sit."
+    } ]
+  }, {
+    "tStartMs": 1774000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1775000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But there were several people gathered and sitting there."
+    } ]
+  }, {
+    "tStartMs": 1780000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1781000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "And then somewhere in the middle, this older woman"
+    } ]
+  }, {
+    "tStartMs": 1788000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "was unwrapping kimbap that was wrapped in foil"
+    } ]
+  }, {
+    "tStartMs": 1790000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Kimbap."
+    } ]
+  }, {
+    "tStartMs": 1793000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Kimbap."
+    } ]
+  }, {
+    "tStartMs": 1794000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and eating it loudly, crunching away."
+    } ]
+  }, {
+    "tStartMs": 1797000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1799000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "But."
+    } ]
+  }, {
+    "tStartMs": 1800000,
+    "dDurationMs": 6640,
+    "segs": [ {
+      "utf8": "I actually went to the back, grabbed the handle, and the smell of kimbap was just wafting everywhere."
+    } ]
+  }, {
+    "tStartMs": 1806640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 1808840,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But what could I do, I just put up with it."
+    } ]
+  }, {
+    "tStartMs": 1812560,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1813240,
+    "dDurationMs": 6479,
+    "segs": [ {
+      "utf8": "And the people around me also found it awkward to say anything about it."
+    } ]
+  }, {
+    "tStartMs": 1819719,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "So I could see everyone just staying quiet."
+    } ]
+  }, {
+    "tStartMs": 1823120,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Yes, and I wasn't planning to say anything either."
+    } ]
+  }, {
+    "tStartMs": 1826040,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "But then it was time for me to get off the bus."
+    } ]
+  }, {
+    "tStartMs": 1832160,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I was standing near the exit."
+    } ]
+  }, {
+    "tStartMs": 1835400,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When you transfer, you tap your card, right?"
+    } ]
+  }, {
+    "tStartMs": 1839400,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Then it says you're transferring."
+    } ]
+  }, {
+    "tStartMs": 1841240,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "No, no, it says you're getting off."
+    } ]
+  }, {
+    "tStartMs": 1843320,
+    "dDurationMs": 319,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1843639,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "And the alert sound goes off."
+    } ]
+  }, {
+    "tStartMs": 1845840,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "So I pulled my wallet out of my pocket."
+    } ]
+  }, {
+    "tStartMs": 1851040,
+    "dDurationMs": 6399,
+    "segs": [ {
+      "utf8": "But at that moment, whether it was because of my luggage or something."
+    } ]
+  }, {
+    "tStartMs": 1857439,
+    "dDurationMs": 3761,
+    "segs": [ {
+      "utf8": "Or maybe there was a problem with my pants pocket."
+    } ]
+  }, {
+    "tStartMs": 1861200,
+    "dDurationMs": 3999,
+    "segs": [ {
+      "utf8": "The wallet wouldn't come out, so I was struggling and grunting."
+    } ]
+  }, {
+    "tStartMs": 1865199,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "And I yanked the wallet out with force."
+    } ]
+  }, {
+    "tStartMs": 1868480,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "And as the wallet came out, like a throwing star flying through the air."
+    } ]
+  }, {
+    "tStartMs": 1873320,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "It went whooshing through the air."
+    } ]
+  }, {
+    "tStartMs": 1875919,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "And it hit the cheek of the elderly woman who was eating kimbap."
+    } ]
+  }, {
+    "tStartMs": 1881080,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Are you a ninja?"
+    } ]
+  }, {
+    "tStartMs": 1885160,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1887199,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "So that elderly woman."
+    } ]
+  }, {
+    "tStartMs": 1888480,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "She was like a master magician."
+    } ]
+  }, {
+    "tStartMs": 1889279,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "That woman was still eating kimbap at that moment."
+    } ]
+  }, {
+    "tStartMs": 1892559,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1893199,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "She was eating kimbap and got smacked by my wallet."
+    } ]
+  }, {
+    "tStartMs": 1895639,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "And she let out this \"Aigoo!\" sound."
+    } ]
+  }, {
+    "tStartMs": 1899839,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But I immediately said I'm sorry."
+    } ]
+  }, {
+    "tStartMs": 1903839,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "And I went back and picked up my wallet."
+    } ]
+  }, {
+    "tStartMs": 1908279,
+    "dDurationMs": 5721,
+    "segs": [ {
+      "utf8": "And I can't forget the subtle smiles of the other passengers."
+    } ]
+  }, {
+    "tStartMs": 1914000,
+    "dDurationMs": 5559,
+    "segs": [ {
+      "utf8": "Who were sitting around us."
+    } ]
+  }, {
+    "tStartMs": 1919559,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I wonder what that subtle smile meant."
+    } ]
+  }, {
+    "tStartMs": 1923519,
+    "dDurationMs": 5001,
+    "segs": [ {
+      "utf8": "I mean, when people are using public transportation like that."
+    } ]
+  }, {
+    "tStartMs": 1928520,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "In an enclosed space."
+    } ]
+  }, {
+    "tStartMs": 1930960,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And someone's giving off the smell of kimbap."
+    } ]
+  }, {
+    "tStartMs": 1934320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And eating it with all that smacking, people don't like it, right?"
+    } ]
+  }, {
+    "tStartMs": 1937320,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "Aigoo."
+    } ]
+  }, {
+    "tStartMs": 1939839,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "But suddenly this young man shows up out of nowhere."
+    } ]
+  }, {
+    "tStartMs": 1943520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And throws a throwing star with his wallet."
+    } ]
+  }, {
+    "tStartMs": 1946080,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "And hits her cheek."
+    } ]
+  }, {
+    "tStartMs": 1948679,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "And gets off right away."
+    } ]
+  }, {
+    "tStartMs": 1950080,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "He got off right away."
+    } ]
+  }, {
+    "tStartMs": 1953600,
+    "dDurationMs": 3439,
+    "segs": [ {
+      "utf8": "And I also found the whole situation so funny."
+    } ]
+  }, {
+    "tStartMs": 1957039,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1957839,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "So I'm saying I'm sorry."
+    } ]
+  }, {
+    "tStartMs": 1960160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "But my face was trying to hold back laughter."
+    } ]
+  }, {
+    "tStartMs": 1962880,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "How did I hit her cheek?"
+    } ]
+  }, {
+    "tStartMs": 1965399,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "Ah, I'm sorry about that."
+    } ]
+  }, {
+    "tStartMs": 1969600,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "That was quite an incident."
+    } ]
+  }, {
+    "tStartMs": 1971240,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Ah, that really was an amazing incident."
+    } ]
+  }, {
+    "tStartMs": 1975360,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "Right, it's better not to eat things that smell."
+    } ]
+  }, {
+    "tStartMs": 1978479,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Because it affects other people."
+    } ]
+  }, {
+    "tStartMs": 1979679,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "And buses make you nauseous, you know."
+    } ]
+  }, {
+    "tStartMs": 1981759,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 1982559,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "The air is stuffy too."
+    } ]
+  }, {
+    "tStartMs": 1985759,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I understand you're hungry."
+    } ]
+  }, {
+    "tStartMs": 1988720,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "But it would be nice if you could just wait a bit and eat after you get off."
+    } ]
+  }, {
+    "tStartMs": 1991639,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1993080,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "That's called public etiquette."
+    } ]
+  }, {
+    "tStartMs": 1995880,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Ah, public etiquette."
+    } ]
+  }, {
+    "tStartMs": 1998240,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "Right, and there's another good point."
+    } ]
+  }, {
+    "tStartMs": 2000479,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "When I take the bus, no matter which country I go to,"
+    } ]
+  }, {
+    "tStartMs": 2004080,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "I'm always really curious about it."
+    } ]
+  }, {
+    "tStartMs": 2005240,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "Where you board and how you get off and how you pay, things like that."
+    } ]
+  }, {
+    "tStartMs": 2009199,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "In Korea, you just board from the front."
+    } ]
+  }, {
+    "tStartMs": 2011880,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "You board all buses from the front,"
+    } ]
+  }, {
+    "tStartMs": 2014479,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "and right when you get on, you tap your card,"
+    } ]
+  }, {
+    "tStartMs": 2016240,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "and the team member I mentioned earlier taps it,"
+    } ]
+  }, {
+    "tStartMs": 2017880,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "or if it's cash, you pay cash and board."
+    } ]
+  }, {
+    "tStartMs": 2021119,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "There's a slot where you put the cash,"
+    } ]
+  }, {
+    "tStartMs": 2023839,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "and when you put cash in that slot, change comes out like this."
+    } ]
+  }, {
+    "tStartMs": 2028039,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "And then you ride like that,"
+    } ]
+  }, {
+    "tStartMs": 2030160,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "and when you get off, there's another door in the middle of the bus,"
+    } ]
+  }, {
+    "tStartMs": 2034800,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "so you can get off from there."
+    } ]
+  }, {
+    "tStartMs": 2037039,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "You tap your card one more time and then you can get off."
+    } ]
+  }, {
+    "tStartMs": 2039839,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2042520,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "When I take the bus, there's an incident"
+    } ]
+  }, {
+    "tStartMs": 2044240,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "that I remember pretty well."
+    } ]
+  }, {
+    "tStartMs": 2048960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "My home, my family home, is at a bus terminal."
+    } ]
+  }, {
+    "tStartMs": 2052960,
+    "dDurationMs": 6599,
+    "segs": [ {
+      "utf8": "A terminal is the last stop where the bus arrives,"
+    } ]
+  }, {
+    "tStartMs": 2059559,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "so when I take the bus late at night"
+    } ]
+  }, {
+    "tStartMs": 2063399,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "or come home after drinking and taking the bus,"
+    } ]
+  }, {
+    "tStartMs": 2066119,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "there are times when I fall asleep."
+    } ]
+  }, {
+    "tStartMs": 2068200,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "But since it's always the terminal,"
+    } ]
+  }, {
+    "tStartMs": 2070920,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "I relax and just fall asleep, you know?"
+    } ]
+  }, {
+    "tStartMs": 2073399,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Not worrying about when to get off or anything like that."
+    } ]
+  }, {
+    "tStartMs": 2075799,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Since it's the last stop anyway,"
+    } ]
+  }, {
+    "tStartMs": 2079279,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "I probably fell asleep like that many times."
+    } ]
+  }, {
+    "tStartMs": 2081640,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Not just me, but many people who get off at that terminal,"
+    } ]
+  }, {
+    "tStartMs": 2085160,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "and I've seen people sleeping while riding many times,"
+    } ]
+  }, {
+    "tStartMs": 2089399,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and I also fell asleep at that time."
+    } ]
+  }, {
+    "tStartMs": 2092399,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "I think I just fell asleep because I was so tired."
+    } ]
+  }, {
+    "tStartMs": 2094160,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "I hadn't been drinking,"
+    } ]
+  }, {
+    "tStartMs": 2097000,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "but right after that terminal stop is what they call the depot,"
+    } ]
+  }, {
+    "tStartMs": 2106000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The bus goes there."
+    } ]
+  }, {
+    "tStartMs": 2110000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "But the driver that day—the driver I was riding with—there was a person who didn't get off, so normally they'd say \"Please get up\" and wake you up, but"
+    } ]
+  }, {
+    "tStartMs": 2120000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "that day he didn't wake me up and just went to the depot, where all the buses are gathered."
+    } ]
+  }, {
+    "tStartMs": 2127000,
+    "dDurationMs": 14000,
+    "segs": [ {
+      "utf8": "And that's when I woke up. I woke up, and the driver just turned off all the lights and turned off the fare machine and everything, and just got off."
+    } ]
+  }, {
+    "tStartMs": 2141000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "He knew there was a person there, he saw me, but he just wanted to leave quickly, so he just left."
+    } ]
+  }, {
+    "tStartMs": 2150000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "So I was really shocked, and I figured it was my fault for sleeping, so I was going to walk and find my way, but I wanted to tap my card again."
+    } ]
+  }, {
+    "tStartMs": 2161000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Because I need to tap it when I get off. If I don't tap it, I could be overcharged. I might have to pay more money."
+    } ]
+  }, {
+    "tStartMs": 2169000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So I wanted to tap it, and I apologetically asked if he could turn it on for a moment."
+    } ]
+  }, {
+    "tStartMs": 2174000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "But he completely ignored what I said and just went off hurriedly like that. He was either heading home or going to the office."
+    } ]
+  }, {
+    "tStartMs": 2184000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "So I was really shocked, and I told someone else who was in the office about it."
+    } ]
+  }, {
+    "tStartMs": 2191000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I said I couldn't tap it and ended up at the depot, and they just told me to talk to the driver, but nobody seemed to care."
+    } ]
+  }, {
+    "tStartMs": 2201000,
+    "dDurationMs": 18000,
+    "segs": [ {
+      "utf8": "So I asked the driver one more time to let me tap just this, but he suddenly got angry and suddenly took out a coat hanger from the bus and swung it at me like this. Aggressively."
+    } ]
+  }, {
+    "tStartMs": 2219000,
+    "dDurationMs": 16000,
+    "segs": [ {
+      "utf8": "Telling me to hurry up and leave. Disappear, that kind of thing. So I got really angry, but other people saw it and asked how much they should give me, and they gave me a few thousand won and told me to just take this and go."
+    } ]
+  }, {
+    "tStartMs": 2235000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "So I felt really bad about it, but I just took a few thousand won and left."
+    } ]
+  }, {
+    "tStartMs": 2244000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Wow, when did that happen?"
+    } ]
+  }, {
+    "tStartMs": 2247000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This was a while ago. Like five years ago for me too? Five, six years ago?"
+    } ]
+  }, {
+    "tStartMs": 2251000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Oh, if it was five or six years ago, that would be around 2020?"
+    } ]
+  }, {
+    "tStartMs": 2258000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's not that long ago."
+    } ]
+  }, {
+    "tStartMs": 2261000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That happened to you?"
+    } ]
+  }, {
+    "tStartMs": 2263000,
+    "dDurationMs": 16000,
+    "segs": [ {
+      "utf8": "Sometimes with those city buses—not the village buses, but the buses going to Seoul? Some of those drivers have a lot of anger. Have you experienced that?"
+    } ]
+  }, {
+    "tStartMs": 2279000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "There are sometimes drivers who are quite rude to passengers."
+    } ]
+  }, {
+    "tStartMs": 2289000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I don't think I've had any personal happenings with a driver like that."
+    } ]
+  }, {
+    "tStartMs": 2298000,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "Oh, but that can happen. Things like that can occur. Wow, you must have been really angry."
+    } ]
+  }, {
+    "tStartMs": 2310000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "But when something like that happens, you can report it. You can report it to the bus company. There seems to be a system for that."
+    } ]
+  }, {
+    "tStartMs": 2323000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I've actually reported something like that once."
+    } ]
+  }, {
+    "tStartMs": 2326000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 2327000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I didn't report it, but I did file a complaint over the phone once."
+    } ]
+  }, {
+    "tStartMs": 2331000,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "So I was waiting at a certain bus stop to catch the bus a few times, and I was standing at the stop, right?"
+    } ]
+  }, {
+    "tStartMs": 2343000,
+    "dDurationMs": 14000,
+    "segs": [ {
+      "utf8": "But that bus wasn't a seat-limited bus or anything like that—it was just a regular city bus—and it didn't stop, it just went right past me."
+    } ]
+  }, {
+    "tStartMs": 2357000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, that happens a lot."
+    } ]
+  }, {
+    "tStartMs": 2359000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, it happens a lot? Things like that?"
+    } ]
+  }, {
+    "tStartMs": 2361000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Me too. It's something anyone might experience once in a while."
+    } ]
+  }, {
+    "tStartMs": 2368000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2370000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's what I thought."
+    } ]
+  }, {
+    "tStartMs": 2372000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But it wasn't even late at night—it was broad daylight."
+    } ]
+  }, {
+    "tStartMs": 2378000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "So right after the bus passed, I took about 5 seconds to understand the situation and immediately called the bus company and said,"
+    } ]
+  }, {
+    "tStartMs": 2391000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I'm at this bus stop right now, and bus number so-and-so saw a person here,"
+    } ]
+  }, {
+    "tStartMs": 2398000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "whether the driver saw me or not, I'm not sure,"
+    } ]
+  }, {
+    "tStartMs": 2400260,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "but there was a person and the bus didn't stop and just went right past, that's what I told them."
+    } ]
+  }, {
+    "tStartMs": 2404980,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2405480,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "Yes, and I think I even caught a glimpse of the driver's face as he went by."
+    } ]
+  }, {
+    "tStartMs": 2410700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 2412700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But I'm not exactly sure."
+    } ]
+  }, {
+    "tStartMs": 2414700,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Anyway, after doing that,"
+    } ]
+  }, {
+    "tStartMs": 2418700,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "it was the next week or something, anyway, after that, at that same bus stop,"
+    } ]
+  }, {
+    "tStartMs": 2424620,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "I took that same bus again at the same time."
+    } ]
+  }, {
+    "tStartMs": 2428980,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2429480,
+    "dDurationMs": 4779,
+    "segs": [ {
+      "utf8": "Yes, but that driver's expression was really not good."
+    } ]
+  }, {
+    "tStartMs": 2434259,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "Oh my, yes."
+    } ]
+  }, {
+    "tStartMs": 2435900,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "He really had a frown on his face."
+    } ]
+  }, {
+    "tStartMs": 2437660,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2438380,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "But what does it matter, I just got on anyway."
+    } ]
+  }, {
+    "tStartMs": 2442340,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Oh, he might have gotten scolded or something."
+    } ]
+  }, {
+    "tStartMs": 2444939,
+    "dDurationMs": 881,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2445820,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Yes, when you receive a complaint like that,"
+    } ]
+  }, {
+    "tStartMs": 2448220,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "but everything has a price, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 2452060,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2452560,
+    "dDurationMs": 2219,
+    "segs": [ {
+      "utf8": "Every action and choice has,"
+    } ]
+  }, {
+    "tStartMs": 2454779,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "yeah, it's a service job after all."
+    } ]
+  }, {
+    "tStartMs": 2458259,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2459259,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2459759,
+    "dDurationMs": 4061,
+    "segs": [ {
+      "utf8": "Actually, that's not really related to service spirit or anything, you know."
+    } ]
+  }, {
+    "tStartMs": 2463820,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Mm, it's something you have to do."
+    } ]
+  }, {
+    "tStartMs": 2465860,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Right, it's a duty that wasn't fulfilled."
+    } ]
+  }, {
+    "tStartMs": 2469540,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "Oh, I get so angry in situations like that."
+    } ]
+  }, {
+    "tStartMs": 2473099,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Ugh, it's annoying because you have to wait again."
+    } ]
+  }, {
+    "tStartMs": 2476779,
+    "dDurationMs": 841,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 2477620,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "You're throwing your time away."
+    } ]
+  }, {
+    "tStartMs": 2479540,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2481779,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2484779,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "But I'm curious about something."
+    } ]
+  }, {
+    "tStartMs": 2492419,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "When you get on the bus,"
+    } ]
+  }, {
+    "tStartMs": 2494500,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2495000,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "do you greet the driver?"
+    } ]
+  }, {
+    "tStartMs": 2498099,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "Mm, I think I greet him about 8 out of 10 times."
+    } ]
+  }, {
+    "tStartMs": 2501900,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 2503260,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "Just saying hello."
+    } ]
+  }, {
+    "tStartMs": 2504739,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "I don't do it when I get off."
+    } ]
+  }, {
+    "tStartMs": 2506220,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2508980,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Oh, that's similar to me."
+    } ]
+  }, {
+    "tStartMs": 2511019,
+    "dDurationMs": 4281,
+    "segs": [ {
+      "utf8": "Yeah, but actually I speak very quietly,"
+    } ]
+  }, {
+    "tStartMs": 2515300,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "just saying hello quietly and bowing my head like this."
+    } ]
+  }, {
+    "tStartMs": 2518500,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Oh, uh, uh, me too."
+    } ]
+  }, {
+    "tStartMs": 2520620,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I'm not sure if they hear me or not, but still."
+    } ]
+  }, {
+    "tStartMs": 2523300,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Mm, me too, me too, I just,"
+    } ]
+  }, {
+    "tStartMs": 2524500,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "it feels awkward if I don't."
+    } ]
+  }, {
+    "tStartMs": 2525660,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "I just bow at the waist."
+    } ]
+  }, {
+    "tStartMs": 2527300,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 2528500,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "Oh, like this?"
+    } ]
+  }, {
+    "tStartMs": 2530139,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "[laughs]"
+    } ]
+  }, {
+    "tStartMs": 2531699,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 2532899,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Like this way."
+    } ]
+  }, {
+    "tStartMs": 2533500,
+    "dDurationMs": 1279,
+    "segs": [ {
+      "utf8": "I do it consistently every time."
+    } ]
+  }, {
+    "tStartMs": 2534779,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2535259,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "Then they accept it with a high probability."
+    } ]
+  }, {
+    "tStartMs": 2537740,
+    "dDurationMs": 1159,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 2538899,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I feel good when the driver greets me too."
+    } ]
+  }, {
+    "tStartMs": 2542419,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "When I ride."
+    } ]
+  }, {
+    "tStartMs": 2544220,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "Like, \"Hello.\""
+    } ]
+  }, {
+    "tStartMs": 2545539,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "So I'm trying to do that too."
+    } ]
+  }, {
+    "tStartMs": 2547860,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2548940,
+    "dDurationMs": 479,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 2551779,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "Um."
+    } ]
+  }, {
+    "tStartMs": 2554580,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There's one bus line that comes in front of my house."
+    } ]
+  }, {
+    "tStartMs": 2558580,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2559259,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "The drivers are outside."
+    } ]
+  }, {
+    "tStartMs": 2562619,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "It's fixed."
+    } ]
+  }, {
+    "tStartMs": 2564220,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2565100,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "But I ride it often."
+    } ]
+  }, {
+    "tStartMs": 2566460,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "And every time I ride, I greet them consistently like that."
+    } ]
+  }, {
+    "tStartMs": 2569380,
+    "dDurationMs": 280,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2569660,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "They started to recognize me."
+    } ]
+  }, {
+    "tStartMs": 2571300,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2572259,
+    "dDurationMs": 681,
+    "segs": [ {
+      "utf8": "Ooh."
+    } ]
+  }, {
+    "tStartMs": 2572940,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes, so."
+    } ]
+  }, {
+    "tStartMs": 2573580,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "They can remember me."
+    } ]
+  }, {
+    "tStartMs": 2574699,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Yes, and they greet me more kindly."
+    } ]
+  }, {
+    "tStartMs": 2577179,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 2578220,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "I feel good when I do it like that, at least."
+    } ]
+  }, {
+    "tStartMs": 2579899,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "[laughs]"
+    } ]
+  }, {
+    "tStartMs": 2580779,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "When you greet people, you feel good anywhere."
+    } ]
+  }, {
+    "tStartMs": 2583539,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 2585139,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2585740,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "So if more people."
+    } ]
+  }, {
+    "tStartMs": 2588699,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Had this habit when riding the bus, I think it would be nice."
+    } ]
+  }, {
+    "tStartMs": 2592259,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Mm, the habit of greeting."
+    } ]
+  }, {
+    "tStartMs": 2593779,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2595339,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2595940,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "When you come to visit, try greeting once."
+    } ]
+  }, {
+    "tStartMs": 2598059,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "If you have a chance to ride the bus."
+    } ]
+  }, {
+    "tStartMs": 2599460,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2600580,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Oh, at that time there was Atsuko."
+    } ]
+  }, {
+    "tStartMs": 2602860,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "You know her, right?"
+    } ]
+  }, {
+    "tStartMs": 2603460,
+    "dDurationMs": 360,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2603820,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "She's the Japanese person who appeared in that interview with Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2607500,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "I met her once and spent time with her recently."
+    } ]
+  }, {
+    "tStartMs": 2611539,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2612179,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "And I rode the bus with her."
+    } ]
+  }, {
+    "tStartMs": 2615460,
+    "dDurationMs": 2439,
+    "segs": [ {
+      "utf8": "It was a bus in Suwon."
+    } ]
+  }, {
+    "tStartMs": 2617899,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "There were so many people that time."
+    } ]
+  }, {
+    "tStartMs": 2620020,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "We ended up standing right next to the driver."
+    } ]
+  }, {
+    "tStartMs": 2623139,
+    "dDurationMs": 200,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2623339,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "We couldn't go further inside."
+    } ]
+  }, {
+    "tStartMs": 2625500,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "But the things we were talking about."
+    } ]
+  }, {
+    "tStartMs": 2627300,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Like, stories about Japan or."
+    } ]
+  }, {
+    "tStartMs": 2629339,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Like, stories about studying Korean, the driver heard it."
+    } ]
+  }, {
+    "tStartMs": 2633179,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "The taxi driver just started talking to me."
+    } ]
+  }, {
+    "tStartMs": 2635660,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Uh-huh."
+    } ]
+  }, {
+    "tStartMs": 2636860,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "But it was really, like"
+    } ]
+  }, {
+    "tStartMs": 2639740,
+    "dDurationMs": 2439,
+    "segs": [ {
+      "utf8": "He drove really recklessly."
+    } ]
+  }, {
+    "tStartMs": 2642179,
+    "dDurationMs": 681,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 2642860,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "He was cursing and cursing at people behind us and all that."
+    } ]
+  }, {
+    "tStartMs": 2646220,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 2647419,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "But with Atsuko, he was really"
+    } ]
+  }, {
+    "tStartMs": 2650539,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "He said he really loves traveling in Japan."
+    } ]
+  }, {
+    "tStartMs": 2653740,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 2654860,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "And he talked about, how do I put it"
+    } ]
+  }, {
+    "tStartMs": 2657260,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Really everyday kinds of things, he talked about them well."
+    } ]
+  }, {
+    "tStartMs": 2659820,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 2660820,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "Like, he told us about things that happened when he went to Japan."
+    } ]
+  }, {
+    "tStartMs": 2663779,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 2665059,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "And what I felt was"
+    } ]
+  }, {
+    "tStartMs": 2666140,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Ah, even a taxi driver with so much anger"
+    } ]
+  }, {
+    "tStartMs": 2668739,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Is actually"
+    } ]
+  }, {
+    "tStartMs": 2670299,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "A good person, you know."
+    } ]
+  }, {
+    "tStartMs": 2672059,
+    "dDurationMs": 361,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 2672420,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "It's just that driving, driving is so"
+    } ]
+  }, {
+    "tStartMs": 2675579,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Like a war zone."
+    } ]
+  }, {
+    "tStartMs": 2678459,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Because it's a lawless area,"
+    } ]
+  }, {
+    "tStartMs": 2680420,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "I thought maybe that's why he gets so angry."
+    } ]
+  }, {
+    "tStartMs": 2684619,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 2685540,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Oh, that's an important point."
+    } ]
+  }, {
+    "tStartMs": 2687260,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2688380,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Actually, he could be"
+    } ]
+  }, {
+    "tStartMs": 2689820,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "So, like"
+    } ]
+  }, {
+    "tStartMs": 2690500,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "A warm person."
+    } ]
+  }, {
+    "tStartMs": 2691260,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "In some places."
+    } ]
+  }, {
+    "tStartMs": 2692459,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "Oh, that's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2693540,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2694500,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "Ha."
+    } ]
+  }, {
+    "tStartMs": 2697059,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Ah, that's an important observation."
+    } ]
+  }, {
+    "tStartMs": 2699899,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Yeah, so"
+    } ]
+  }, {
+    "tStartMs": 2700940,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Mm, I hope"
+    } ]
+  }, {
+    "tStartMs": 2702859,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "The job isn't too hard for him."
+    } ]
+  }, {
+    "tStartMs": 2704739,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "So that we can also receive better service."
+    } ]
+  }, {
+    "tStartMs": 2707579,
+    "dDurationMs": 1241,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2708820,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Oh, I hope so."
+    } ]
+  }, {
+    "tStartMs": 2710619,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2711420,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2713339,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "About that much?"
+    } ]
+  }, {
+    "tStartMs": 2716420,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Seems to be the case for public transportation."
+    } ]
+  }, {
+    "tStartMs": 2718500,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2719739,
+    "dDurationMs": 4241,
+    "segs": [ {
+      "utf8": "Yeah, and if after listening to this podcast you have"
+    } ]
+  }, {
+    "tStartMs": 2723980,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Any additional questions or things like that,"
+    } ]
+  }, {
+    "tStartMs": 2726019,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "If you leave them in the comments,"
+    } ]
+  }, {
+    "tStartMs": 2727820,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "I'll make sure to answer them."
+    } ]
+  }, {
+    "tStartMs": 2729779,
+    "dDurationMs": 2721,
+    "segs": [ {
+      "utf8": "Oh, yeah, and if you happen to be traveling"
+    } ]
+  }, {
+    "tStartMs": 2732500,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2733299,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And you're carrying a big backpack,"
+    } ]
+  }, {
+    "tStartMs": 2735739,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "With you,"
+    } ]
+  }, {
+    "tStartMs": 2737299,
+    "dDurationMs": 401,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2737700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wearing the backpack in front"
+    } ]
+  }, {
+    "tStartMs": 2739700,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "Ha."
+    } ]
+  }, {
+    "tStartMs": 2740140,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Can be good on the subway."
+    } ]
+  }, {
+    "tStartMs": 2742500,
+    "dDurationMs": 399,
+    "segs": [ {
+      "utf8": "On the bus too."
+    } ]
+  }, {
+    "tStartMs": 2742899,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Oh, on the subway."
+    } ]
+  }, {
+    "tStartMs": 2744459,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "Things like public transportation etiquette"
+    } ]
+  }, {
+    "tStartMs": 2746540,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "Should we talk about that last?"
+    } ]
+  }, {
+    "tStartMs": 2747899,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Yes, I'd like that"
+    } ]
+  }, {
+    "tStartMs": 2749260,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "Yes, so first of all, about the food from earlier"
+    } ]
+  }, {
+    "tStartMs": 2751779,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "If it doesn't have a smell"
+    } ]
+  }, {
+    "tStartMs": 2753140,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "If it's not something very simple"
+    } ]
+  }, {
+    "tStartMs": 2755299,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "It's better not to eat it"
+    } ]
+  }, {
+    "tStartMs": 2756619,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "Mm-hmm"
+    } ]
+  }, {
+    "tStartMs": 2757700,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "And if you have a lot of luggage"
+    } ]
+  }, {
+    "tStartMs": 2759940,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "You tie it to the front"
+    } ]
+  }, {
+    "tStartMs": 2761059,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Mm-hmm"
+    } ]
+  }, {
+    "tStartMs": 2762260,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "And there is"
+    } ]
+  }, {
+    "tStartMs": 2764540,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Well, talking loudly on the phone"
+    } ]
+  }, {
+    "tStartMs": 2766339,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "Things like that"
+    } ]
+  }, {
+    "tStartMs": 2767980,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "Actually, I think it depends on the situation"
+    } ]
+  }, {
+    "tStartMs": 2771739,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "The subway itself"
+    } ]
+  }, {
+    "tStartMs": 2773059,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "Might already be very noisy, you know"
+    } ]
+  }, {
+    "tStartMs": 2775980,
+    "dDurationMs": 280,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2776260,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "In that case, I think"
+    } ]
+  }, {
+    "tStartMs": 2777299,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "Well"
+    } ]
+  }, {
+    "tStartMs": 2778380,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "You could make a call"
+    } ]
+  }, {
+    "tStartMs": 2780459,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "While it gets mixed in with the noise"
+    } ]
+  }, {
+    "tStartMs": 2781779,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2782179,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "That's what I think"
+    } ]
+  }, {
+    "tStartMs": 2783059,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Normally it's polite not to do it"
+    } ]
+  }, {
+    "tStartMs": 2786019,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "Of course"
+    } ]
+  }, {
+    "tStartMs": 2786940,
+    "dDurationMs": 359,
+    "segs": [ {
+      "utf8": "Mm-hmm"
+    } ]
+  }, {
+    "tStartMs": 2787299,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "It is"
+    } ]
+  }, {
+    "tStartMs": 2787779,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2789619,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "And also"
+    } ]
+  }, {
+    "tStartMs": 2791660,
+    "dDurationMs": 679,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 2792339,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "There are elderly and disabled seats"
+    } ]
+  }, {
+    "tStartMs": 2793980,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "And pregnant women's seats"
+    } ]
+  }, {
+    "tStartMs": 2795579,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Mm-hmm"
+    } ]
+  }, {
+    "tStartMs": 2796619,
+    "dDurationMs": 881,
+    "segs": [ {
+      "utf8": "Well, those"
+    } ]
+  }, {
+    "tStartMs": 2797500,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "Look a bit different"
+    } ]
+  }, {
+    "tStartMs": 2799459,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Yes, that's right"
+    } ]
+  }, {
+    "tStartMs": 2800619,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "They look a bit"
+    } ]
+  }, {
+    "tStartMs": 2801260,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Distinctive"
+    } ]
+  }, {
+    "tStartMs": 2803059,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "The color is different"
+    } ]
+  }, {
+    "tStartMs": 2804220,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "Or the location is"
+    } ]
+  }, {
+    "tStartMs": 2805739,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Different"
+    } ]
+  }, {
+    "tStartMs": 2807100,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "But the elderly and disabled seats, anyone can see"
+    } ]
+  }, {
+    "tStartMs": 2808459,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Because the sign is written there"
+    } ]
+  }, {
+    "tStartMs": 2810579,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "Mm-hmm"
+    } ]
+  }, {
+    "tStartMs": 2811220,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "So people"
+    } ]
+  }, {
+    "tStartMs": 2812779,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Mostly avoid them"
+    } ]
+  }, {
+    "tStartMs": 2814179,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "And sit elsewhere, it seems"
+    } ]
+  }, {
+    "tStartMs": 2815940,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2817660,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 2819820,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Or there's something like this too"
+    } ]
+  }, {
+    "tStartMs": 2821500,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "There are women-only cars, things like that"
+    } ]
+  }, {
+    "tStartMs": 2823660,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "Oh that"
+    } ]
+  }, {
+    "tStartMs": 2824779,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "That really works, but"
+    } ]
+  }, {
+    "tStartMs": 2826940,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Uh-huh"
+    } ]
+  }, {
+    "tStartMs": 2827540,
+    "dDurationMs": 639,
+    "segs": [ {
+      "utf8": "It works, it works"
+    } ]
+  }, {
+    "tStartMs": 2828179,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 2829299,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "Especially in summer"
+    } ]
+  }, {
+    "tStartMs": 2831220,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I think Korean subway is too cold"
+    } ]
+  }, {
+    "tStartMs": 2833700,
+    "dDurationMs": 319,
+    "segs": [ {
+      "utf8": "Mm-hmm"
+    } ]
+  }, {
+    "tStartMs": 2834019,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "I thought there were too many places that were too cold,"
+    } ]
+  }, {
+    "tStartMs": 2836299,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "so in case there are people who dislike air conditioning"
+    } ]
+  }, {
+    "tStartMs": 2839420,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "or people who are sensitive to the cold,"
+    } ]
+  }, {
+    "tStartMs": 2842179,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "on the subway,"
+    } ]
+  }, {
+    "tStartMs": 2843299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "like this, well,"
+    } ]
+  }, {
+    "tStartMs": 2844299,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "if there are 8 cars,"
+    } ]
+  }, {
+    "tStartMs": 2845500,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "among them, a few cars"
+    } ]
+  }, {
+    "tStartMs": 2847339,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "are called moderate-cooling cars,"
+    } ]
+  }, {
+    "tStartMs": 2848779,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "where the air conditioning"
+    } ]
+  }, {
+    "tStartMs": 2849820,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "comes out a bit less."
+    } ]
+  }, {
+    "tStartMs": 2851980,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "Finding those and riding them"
+    } ]
+  }, {
+    "tStartMs": 2854299,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "could be a good way to do it."
+    } ]
+  }, {
+    "tStartMs": 2855420,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2856380,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "Mm, that's good."
+    } ]
+  }, {
+    "tStartMs": 2857619,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, and because there's a lot of air conditioning,"
+    } ]
+  }, {
+    "tStartMs": 2859619,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "if you come in the summer,"
+    } ]
+  }, {
+    "tStartMs": 2860579,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "bringing an outer layer like a light jacket"
+    } ]
+  }, {
+    "tStartMs": 2862500,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "can be helpful."
+    } ]
+  }, {
+    "tStartMs": 2863820,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Yeah, that's right, actually,"
+    } ]
+  }, {
+    "tStartMs": 2865739,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "sometimes it's too cold inside."
+    } ]
+  }, {
+    "tStartMs": 2867700,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 2869459,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "In the summer,"
+    } ]
+  }, {
+    "tStartMs": 2870540,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "bring something like a thin cardigan"
+    } ]
+  }, {
+    "tStartMs": 2872700,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "with you,"
+    } ]
+  }, {
+    "tStartMs": 2874220,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "and yes, and also,"
+    } ]
+  }, {
+    "tStartMs": 2875540,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "uh,"
+    } ]
+  }, {
+    "tStartMs": 2876540,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "if you're a foreigner"
+    } ]
+  }, {
+    "tStartMs": 2878899,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "sitting on the Korean subway"
+    } ]
+  }, {
+    "tStartMs": 2882619,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "reading a book,"
+    } ]
+  }, {
+    "tStartMs": 2885059,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "it could double your coolness."
+    } ]
+  }, {
+    "tStartMs": 2886660,
+    "dDurationMs": 3799,
+    "segs": [ {
+      "utf8": "[laughs]"
+    } ]
+  }, {
+    "tStartMs": 2890459,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "Those of you who want to take note, please do."
+    } ]
+  }, {
+    "tStartMs": 2892820,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "Yes, I actually"
+    } ]
+  }, {
+    "tStartMs": 2895619,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "once"
+    } ]
+  }, {
+    "tStartMs": 2897859,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "uh,"
+    } ]
+  }, {
+    "tStartMs": 2898500,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "sat on the subway"
+    } ]
+  }, {
+    "tStartMs": 2900540,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "reading a book"
+    } ]
+  }, {
+    "tStartMs": 2902500,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "on the way to Seo-myeon,"
+    } ]
+  }, {
+    "tStartMs": 2904859,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "and next to me, some"
+    } ]
+  }, {
+    "tStartMs": 2907540,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "woman was sitting,"
+    } ]
+  }, {
+    "tStartMs": 2909380,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "and"
+    } ]
+  }, {
+    "tStartMs": 2911100,
+    "dDurationMs": 639,
+    "segs": [ {
+      "utf8": "uh,"
+    } ]
+  }, {
+    "tStartMs": 2911739,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "everyone on that subway"
+    } ]
+  }, {
+    "tStartMs": 2913219,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "was looking at their phones"
+    } ]
+  }, {
+    "tStartMs": 2915020,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "and talking and all that,"
+    } ]
+  }, {
+    "tStartMs": 2917219,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "but I was the only one reading a book."
+    } ]
+  }, {
+    "tStartMs": 2919299,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 2919900,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "So I was"
+    } ]
+  }, {
+    "tStartMs": 2921140,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "quite taken with my own image like that,"
+    } ]
+  }, {
+    "tStartMs": 2923580,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "mm-hmm,"
+    } ]
+  }, {
+    "tStartMs": 2924140,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "but the woman sitting next to me"
+    } ]
+  }, {
+    "tStartMs": 2926940,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "mm-hmm,"
+    } ]
+  }, {
+    "tStartMs": 2929260,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "from the eco-bag on her shoulder"
+    } ]
+  }, {
+    "tStartMs": 2931700,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "suddenly pulled out a book"
+    } ]
+  }, {
+    "tStartMs": 2933700,
+    "dDurationMs": 359,
+    "segs": [ {
+      "utf8": "oh,"
+    } ]
+  }, {
+    "tStartMs": 2934059,
+    "dDurationMs": 2721,
+    "segs": [ {
+      "utf8": "and started reading a book right next to me."
+    } ]
+  }, {
+    "tStartMs": 2936820,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 2937859,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "It's just the two of us in a library."
+    } ]
+  }, {
+    "tStartMs": 2939059,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yeah, right?"
+    } ]
+  }, {
+    "tStartMs": 2939659,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "Isn't that so romantic?"
+    } ]
+  }, {
+    "tStartMs": 2942340,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "So that woman and"
+    } ]
+  }, {
+    "tStartMs": 2944179,
+    "dDurationMs": 761,
+    "segs": [ {
+      "utf8": "Ah"
+    } ]
+  }, {
+    "tStartMs": 2944940,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "But"
+    } ]
+  }, {
+    "tStartMs": 2945979,
+    "dDurationMs": 841,
+    "segs": [ {
+      "utf8": "Yeah"
+    } ]
+  }, {
+    "tStartMs": 2946820,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "But somehow it happened that"
+    } ]
+  }, {
+    "tStartMs": 2948780,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "That person's"
+    } ]
+  }, {
+    "tStartMs": 2950020,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "book"
+    } ]
+  }, {
+    "tStartMs": 2951059,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I got to see a page of it"
+    } ]
+  }, {
+    "tStartMs": 2952659,
+    "dDurationMs": 681,
+    "segs": [ {
+      "utf8": "Yeah"
+    } ]
+  }, {
+    "tStartMs": 2953340,
+    "dDurationMs": 719,
+    "segs": [ {
+      "utf8": "And"
+    } ]
+  }, {
+    "tStartMs": 2954059,
+    "dDurationMs": 2441,
+    "segs": [ {
+      "utf8": "it was in Chinese"
+    } ]
+  }, {
+    "tStartMs": 2956500,
+    "dDurationMs": 719,
+    "segs": [ {
+      "utf8": "Mm"
+    } ]
+  }, {
+    "tStartMs": 2957219,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2957820,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "So she was a foreigner"
+    } ]
+  }, {
+    "tStartMs": 2959700,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Ah yes"
+    } ]
+  }, {
+    "tStartMs": 2961020,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 2962140,
+    "dDurationMs": 3039,
+    "segs": [ {
+      "utf8": "that person's coolness surpassed my coolness"
+    } ]
+  }, {
+    "tStartMs": 2965179,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "Hahaha"
+    } ]
+  }, {
+    "tStartMs": 2966700,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I lost"
+    } ]
+  }, {
+    "tStartMs": 2968500,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 2969619,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "At that time I lost"
+    } ]
+  }, {
+    "tStartMs": 2970900,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "That woman won"
+    } ]
+  }, {
+    "tStartMs": 2972419,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "Haha"
+    } ]
+  }, {
+    "tStartMs": 2973500,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "She was cooler"
+    } ]
+  }, {
+    "tStartMs": 2974739,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 2976659,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Mm"
+    } ]
+  }, {
+    "tStartMs": 2978179,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "That's correct"
+    } ]
+  }, {
+    "tStartMs": 2978859,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "I thought that moment was"
+    } ]
+  }, {
+    "tStartMs": 2981500,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "that"
+    } ]
+  }, {
+    "tStartMs": 2982500,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "that brief"
+    } ]
+  }, {
+    "tStartMs": 2983619,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "that time was so romantic"
+    } ]
+  }, {
+    "tStartMs": 2985900,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Haha"
+    } ]
+  }, {
+    "tStartMs": 2986940,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "It really left an impression on me, honestly"
+    } ]
+  }, {
+    "tStartMs": 2988500,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 2989299,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Yes haha"
+    } ]
+  }, {
+    "tStartMs": 2991500,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "You two made a movie together"
+    } ]
+  }, {
+    "tStartMs": 2992739,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Haha"
+    } ]
+  }, {
+    "tStartMs": 2995140,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Mm"
+    } ]
+  }, {
+    "tStartMs": 2996979,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Oh my"
+    } ]
+  }, {
+    "tStartMs": 2997780,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "She also got off at Seomyeon"
+    } ]
+  }, {
+    "tStartMs": 3000000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Really? Why couldn't you take it one step further?"
+    } ]
+  }, {
+    "tStartMs": 3003000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You could have gotten along well."
+    } ]
+  }, {
+    "tStartMs": 3005000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What a shame!"
+    } ]
+  }, {
+    "tStartMs": 3009000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Since Teacher Tae-woong likes this method so much"
+    } ]
+  }, {
+    "tStartMs": 3013000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "everyone should bring a book with you"
+    } ]
+  }, {
+    "tStartMs": 3017000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Try it once"
+    } ]
+  }, {
+    "tStartMs": 3018000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I recommend it"
+    } ]
+  }, {
+    "tStartMs": 3020000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Oh and I just remembered something from the food smell earlier"
+    } ]
+  }, {
+    "tStartMs": 3025000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Sometimes I notice that some foreigners spray perfume really heavily"
+    } ]
+  }, {
+    "tStartMs": 3031000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I felt this when I was taking the Airport Railroad"
+    } ]
+  }, {
+    "tStartMs": 3034000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "The Airport Railroad has a lot of foreigners so I sometimes sit next to foreign people"
+    } ]
+  }, {
+    "tStartMs": 3041000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Most of the time it's fine, but there was one time when someone had such a strong perfume smell"
+    } ]
+  }, {
+    "tStartMs": 3050000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I had to go for an hour and it was a bit difficult. I got a headache"
+    } ]
+  }, {
+    "tStartMs": 3057000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But in Korea, people don't seem to spray perfume that heavily"
+    } ]
+  }, {
+    "tStartMs": 3063000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It doesn't seem like there are many people who do it. You don't see it often"
+    } ]
+  }, {
+    "tStartMs": 3066000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There really aren't many"
+    } ]
+  }, {
+    "tStartMs": 3067000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think people prefer a subtle scent"
+    } ]
+  }, {
+    "tStartMs": 3072000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "If you're going to use public transportation a lot, spraying perfume moderately"
+    } ]
+  }, {
+    "tStartMs": 3079000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "could be considered good etiquette"
+    } ]
+  }, {
+    "tStartMs": 3081000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Good point. That's right."
+    } ]
+  }, {
+    "tStartMs": 3085000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes, so today we've talked about public transportation from every angle, Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 3091000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Tae-woong has come up with the next topic."
+    } ]
+  }, {
+    "tStartMs": 3094000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What is the next topic?"
+    } ]
+  }, {
+    "tStartMs": 3096000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The next topic is board games."
+    } ]
+  }, {
+    "tStartMs": 3100000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Tae-woong, you're really a board game enthusiast, aren't you?"
+    } ]
+  }, {
+    "tStartMs": 3106000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm not really an enthusiast, to be honest."
+    } ]
+  }, {
+    "tStartMs": 3109000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "You play them often, and I'd like this to be a time where we can learn about Tae-woong's board game stories"
+    } ]
+  }, {
+    "tStartMs": 3115000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and understand the fun of board games a bit better."
+    } ]
+  }, {
+    "tStartMs": 3119000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 3121000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes, so next week we'll talk about board games again"
+    } ]
+  }, {
+    "tStartMs": 3124000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "from every angle, Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 3126000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This has been Didi."
+    } ]
+  }, {
+    "tStartMs": 3128000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "This has been Jeong Tae-woong."
+    } ]
+  } ]
+}
