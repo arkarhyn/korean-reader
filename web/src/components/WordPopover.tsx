@@ -1,6 +1,6 @@
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { tts } from "../tts";
-import type { Lexeme } from "../types";
+import type { Lexeme, WordStatus } from "../types";
 
 const POS_LABEL: Record<string, string> = {
   NNG: "noun",
@@ -28,14 +28,42 @@ type Props = {
   tapped: boolean;
   onMistap: () => void;
   /** Omitted in placement mode, where taps mean "don't know". */
-  known?: { state: string | undefined; marked: boolean };
-  onToggleKnown: () => void;
+  status?: WordStatus;
+  onChangeState: (to: "known" | "learning" | "undo") => void;
 };
 
 const isPhone = () => window.matchMedia("(max-width: 639px)").matches;
 
+const pill = "min-h-11 rounded-full border border-rule px-4 text-sm active:opacity-80";
+
+/** Known-status line: offer the change that makes sense for the word's current state. */
+function StatusControl({ status, onChange }: { status: WordStatus; onChange: Props["onChangeState"] }) {
+  switch (status.kind) {
+    case "unknown":
+      return (
+        <button type="button" onClick={() => onChange("known")} className={`${pill} bg-seal-wash font-bold`}>
+          I know this word
+        </button>
+      );
+    case "known":
+      return (
+        <button type="button" onClick={() => onChange("learning")} className={`${pill} bg-known`}>
+          ✓ Known · I forgot this
+        </button>
+      );
+    case "fixed":
+      return <span className="px-1 text-sm text-good">✓ Known</span>;
+    case "changed":
+      return (
+        <button type="button" onClick={() => onChange("undo")} aria-pressed className={`${pill} font-bold`}>
+          {status.to === "learning" ? "Marked to review · Undo" : "✓ Marked known · Undo"}
+        </button>
+      );
+  }
+}
+
 export default function WordPopover(props: Props) {
-  const { lexeme, surface, anchor, flagged, onFlag, onClose, tapped, onMistap, known, onToggleKnown } = props;
+  const { lexeme, surface, anchor, flagged, onFlag, onClose, tapped, onMistap, status, onChangeState } = props;
   const ref = useRef<HTMLDivElement>(null);
   const [pos, setPos] = useState<{ top: number; left: number } | null>(null);
   const phone = isPhone();
@@ -114,16 +142,7 @@ export default function WordPopover(props: Props) {
       </dl>
 
       <div className="mt-4 flex flex-wrap items-center gap-2">
-        {known && (known.marked || known.state !== "known") && (
-          <button
-            type="button"
-            onClick={onToggleKnown}
-            aria-pressed={known.marked}
-            className="min-h-11 rounded-full border border-rule bg-seal-wash px-4 text-sm font-bold active:opacity-80"
-          >
-            {known.marked ? "✓ Marked known · Undo" : "I know this word"}
-          </button>
-        )}
+        {status && <StatusControl status={status} onChange={onChangeState} />}
         {tapped && (
           <button
             type="button"

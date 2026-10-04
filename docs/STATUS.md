@@ -24,7 +24,8 @@
   (now 못 in speech, long form in narration). Canon log appended to STORY_BIBLE.
 - Later the same day (Austin's requests): Library reorganized into an "up next"
   card + season / side-story / practice sections (DECISIONS 63); popover
-  buttons now in English (DECISIONS 64). Web 21 tests.
+  buttons now in English (DECISIONS 64); known-word tint with a toggle and
+  "I forgot this" (DECISIONS 65-66). Server 109 tests, web 22.
 - Deployed: live DB backed up, migrated to 0002, seeded, episodes ingested,
   web/dist rebuilt, service restarted. Server 108 tests, web 17, tsc clean.
 

@@ -33,6 +33,11 @@ def expand_known(known: Collection[tuple[str, str]]) -> set[tuple[str, str]]:
     return {k for lemma, pos in known for k in known_aliases(lemma, pos)}
 
 
+def known_by_alias(lemma: str, pos: str, raw_known: Collection[tuple[str, str]]) -> bool:
+    """Counted known through another tag of the same word (not through its own state)."""
+    return any(k in raw_known for k in known_aliases(lemma, pos) if k != (lemma, pos))
+
+
 def coverage(
     tokens: Iterable[Token] | str,
     known: Collection[tuple[str, str]],

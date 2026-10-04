@@ -74,11 +74,16 @@ def get_or_create_lexeme(session: Session, lemma: str, pos: str, lookup: Lookup 
     return lex, created
 
 
-def known_keys(session: Session) -> set[tuple[str, str]]:
-    """SPEC 7 known set (with tag aliases). `learning` joins once FSRS retrievability exists (Stage 6)."""
+def raw_known_keys(session: Session) -> set[tuple[str, str]]:
+    """Lexemes whose own state is known/ignored (no tag aliases)."""
     rows = session.execute(
         select(Lexeme.lemma, Lexeme.pos).join(LexemeState).where(LexemeState.state.in_(("known", "ignored"))))
-    return expand_known((r.lemma, r.pos) for r in rows)
+    return {(r.lemma, r.pos) for r in rows}
+
+
+def known_keys(session: Session) -> set[tuple[str, str]]:
+    """SPEC 7 known set (with tag aliases). `learning` joins once FSRS retrievability exists (Stage 6)."""
+    return expand_known(raw_known_keys(session))
 
 
 def episode_lexeme_sets(session: Session, lexeme_ids: set[int]) -> tuple[list[int], list[int]]:

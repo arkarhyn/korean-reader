@@ -17,6 +17,7 @@
   --seal-wash: #a23b2a1f;
   --good: #4f6b2f;
   --bad: #a23b2a;
+  --known: #4f6b2f1c; /* tint behind known words */
   color-scheme: light;
 }
 
@@ -33,6 +34,7 @@
     --seal-wash: #e0745e26;
     --good: #a3bf72;
     --bad: #e0745e;
+    --known: #a3bf7224;
     color-scheme: dark;
   }
 }
@@ -49,6 +51,7 @@
   --color-seal-wash: var(--seal-wash);
   --color-good: var(--good);
   --color-bad: var(--bad);
+  --color-known: var(--known);
   --font-body: "Gowun Batang", "AppleMyungjo", "Batang", serif;
   --font-title: "Nanum Myeongjo", "AppleMyungjo", "Batang", serif;
   --font-ui: system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -79,6 +82,9 @@ body {
 }
 .word:hover {
   background: var(--paper-deep);
+}
+.word.known {
+  background: var(--known);
 }
 .word.tapped {
   background: var(--seal-wash);

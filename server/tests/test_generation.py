@@ -163,3 +163,26 @@ def test_bad_set_state_and_untap_are_stored_without_effect(client, engine):
 def test_generation_context_endpoint(client):
     ctx = client.get("/api/export/generation-context").json()
     assert ctx["next_episode_id"] == "S01E001" and "docs" in ctx
+
+
+def test_episode_lexemes_flag_names_and_alias_known(engine):
+    maker = make_sessionmaker(engine)
+    with maker() as s:
+        seed(s, fake_lookup)
+        lx, _ = get_or_create_lexeme(s, "감사하다", "VA", fake_lookup)  # the list's tag
+        s.add(LexemeState(lexeme_id=lx.id, state="known", source="placement"))
+        ingest_episode(s, _doc("서윤아, 감사합니다. 김치 좋아요."), fake_lookup, publish=True)
+        s.commit()
+
+    def override():
+        with maker() as s:
+            yield s
+
+    app.dependency_overrides[get_session] = override
+    try:
+        lexemes = TestClient(app).get("/api/episodes/S01E001").json()["lexemes"].values()
+    finally:
+        app.dependency_overrides.clear()
+    flags = {(l["lemma"], l["pos"]): l["counts_known"] for l in lexemes}
+    assert flags[("서윤", "NNP")] and flags[("감사하다", "VV")]
+    assert not flags[("김치", "NNG")]

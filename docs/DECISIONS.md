@@ -277,6 +277,18 @@ Do not reverse an entry without asking Austin.
     Undo" / "Tapped by mistake" (Austin found 알아요 / 잘못 눌렀어요 unclear).
     Story text stays Korean.
 
+65. **Known-word tint in the reader (Austin):** known words get a faint
+    background tint, unknown words stay plain; on by default, "Highlight known"
+    toggle in the reader header (per device). Off in placement mode. The server
+    flags `counts_known` on episode lexemes (story names, and words known under
+    another tag) so the tint matches coverage. Rejected: underlining unknown
+    words instead (Austin chose the tint); both at once.
+66. **"I forgot this" (Austin):** a known word's popover offers "✓ Known · I
+    forgot this" -> `set_state` learning (unknown for coverage, due again for the
+    generator); undo within the visit. Names / alias-known words show "✓ Known"
+    with no action. Rejected: setting it back to `new` (loses that it was known
+    once; `learning` is what the due list and Stage 6 want).
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

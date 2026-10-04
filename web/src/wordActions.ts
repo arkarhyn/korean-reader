@@ -3,21 +3,26 @@ import type { EventType } from "./types";
 
 type Log = (type: EventType, payload: Record<string, unknown>) => Promise<unknown>;
 
-// Popover actions (DECISIONS 54). The local state changes at once so coverage and the
+// Popover actions (DECISIONS 54, 65). The local state changes at once so the tint and the
 // popover reflect it offline; the server applies the same set_state when it syncs.
 
-/** "알아요": mark known. Returns the previous state so the visit can undo it. */
-export async function markKnown(db: ReaderDB, log: Log, lexemeId: number, episodeId: string): Promise<string> {
-  const prev = (await db.lexemeStates.get(lexemeId))?.state ?? "new";
-  await log("set_state", { lexeme_id: lexemeId, state: "known", prev_state: prev, episode_id: episodeId });
-  await db.lexemeStates.put({ lexeme_id: lexemeId, state: "known", updated_at: new Date().toISOString() });
-  return prev;
-}
+export const KNOWN_STATES = new Set(["known", "ignored"]);
 
-/** Undo "알아요" within the same visit. */
-export async function undoKnown(db: ReaderDB, log: Log, lexemeId: number, prev: string, episodeId: string) {
-  await log("set_state", { lexeme_id: lexemeId, state: prev, episode_id: episodeId });
-  await db.lexemeStates.put({ lexeme_id: lexemeId, state: prev, updated_at: new Date().toISOString() });
+/**
+ * Set a word's state ("known" = I know this word, "learning" = I forgot this, or a
+ * previous state to undo). Returns the state it had before, for an undo.
+ */
+export async function setWordState(
+  db: ReaderDB,
+  log: Log,
+  lexemeId: number,
+  state: string,
+  episodeId: string,
+): Promise<string> {
+  const prev = (await db.lexemeStates.get(lexemeId))?.state ?? "new";
+  await log("set_state", { lexeme_id: lexemeId, state, prev_state: prev, episode_id: episodeId });
+  await db.lexemeStates.put({ lexeme_id: lexemeId, state, updated_at: new Date().toISOString() });
+  return prev;
 }
 
 export type TapRef = { para: number; start: number; end: number; lex: number };

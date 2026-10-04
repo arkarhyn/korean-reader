@@ -8,6 +8,8 @@ export type Lexeme = {
   gloss_en: string;
   gloss_ja: string | null;
   hanja: string | null;
+  /** Known regardless of its own state: a story name, or known under another tag. */
+  counts_known?: boolean;
 };
 
 export type Question = {
@@ -61,3 +63,10 @@ export type QueuedEvent = {
   type: EventType;
   payload: Record<string, unknown>;
 };
+
+/** How the word popover describes a word's known status. */
+export type WordStatus =
+  | { kind: "unknown" } // offer "I know this word"
+  | { kind: "known" } // own state known: offer "I forgot this"
+  | { kind: "fixed" } // counts known (story name / other tag): nothing to change
+  | { kind: "changed"; to: string }; // changed this visit: offer Undo

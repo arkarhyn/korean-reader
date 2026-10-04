@@ -6,8 +6,18 @@ import WordPopover from "../components/WordPopover";
 import { db } from "../db";
 import { segment, sentenceAt } from "../segments";
 import { syncer } from "../sync";
-import type { Episode, Paragraph, Question } from "../types";
-import { markKnown, undoKnown, untap } from "../wordActions";
+import type { Episode, Paragraph, Question, WordStatus } from "../types";
+import { KNOWN_STATES, setWordState, untap } from "../wordActions";
+
+const HIGHLIGHT_KEY = "reader.highlightKnown";
+
+function loadHighlight(): boolean {
+  try {
+    return localStorage.getItem(HIGHLIGHT_KEY) !== "0";
+  } catch {
+    return true;
+  }
+}
 
 type Active = { para: number; start: number; end: number; lex: number; surface: string; anchor: DOMRect };
 
@@ -36,13 +46,34 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
   const tappedRef = useRef<Set<number>>(new Set()); // read at finish; state can lag a burst of taps
   const [flagged, setFlagged] = useState<Set<string>>(new Set());
   const [shown, setShown] = useState<Set<number>>(new Set());
-  const markedRef = useRef<Map<number, string>>(new Map()); // lexeme -> state before "알아요" (this visit)
-  const [marked, setMarked] = useState<Map<number, string>>(new Map());
+  const changedRef = useRef<Map<number, string>>(new Map()); // lexeme -> state before this visit's change
+  const [changed, setChanged] = useState<Map<number, string>>(new Map());
+  const [highlight, setHighlight] = useState(loadHighlight);
   const opened = useRef(false);
-  const activeState = useLiveQuery(
-    async () => (active ? ((await db.lexemeStates.get(active.lex))?.state ?? "new") : undefined),
-    [active?.lex],
-  );
+
+  const lexIds = useMemo(() => Object.keys(episode.lexemes).map(Number), [episode.lexemes]);
+  const states = useLiveQuery(async () => {
+    const rows = await db.lexemeStates.bulkGet(lexIds);
+    return new Map(rows.flatMap((r) => (r ? [[r.lexeme_id, r.state] as const] : [])));
+  }, [lexIds]);
+  const known = useMemo(() => {
+    const s = new Set<number>();
+    for (const id of lexIds) {
+      if (KNOWN_STATES.has(states?.get(id) ?? "") || episode.lexemes[String(id)]?.counts_known) s.add(id);
+    }
+    return s;
+  }, [lexIds, states, episode.lexemes]);
+
+  function toggleHighlight() {
+    setHighlight((h) => {
+      try {
+        localStorage.setItem(HIGHLIGHT_KEY, h ? "0" : "1");
+      } catch {
+        /* preference only */
+      }
+      return !h;
+    });
+  }
 
   useEffect(() => {
     if (opened.current) return; // StrictMode re-runs effects; log once per visit
@@ -95,19 +126,28 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
     setActive(null);
   }
 
-  async function toggleKnown() {
+  /** "I know this word" -> known; "I forgot this" -> learning (due again); Undo -> previous state. */
+  async function changeState(to: "known" | "learning" | "undo") {
     if (!active) return;
     const lex = active.lex;
-    const prev = markedRef.current.get(lex);
-    if (prev === undefined) {
-      await untapActive(); // knowing it means the tap wasn't a lookup
-      markedRef.current.set(lex, await markKnown(db, log, lex, episode.id));
-      setActive(null);
+    if (to === "undo") {
+      const prev = changedRef.current.get(lex);
+      if (prev === undefined) return;
+      await setWordState(db, log, lex, prev, episode.id);
+      changedRef.current.delete(lex);
     } else {
-      await undoKnown(db, log, lex, prev, episode.id);
-      markedRef.current.delete(lex);
+      if (to === "known") await untapActive(); // knowing it means the tap wasn't a lookup
+      changedRef.current.set(lex, await setWordState(db, log, lex, to, episode.id));
+      if (to === "known") setActive(null);
     }
-    setMarked(new Map(markedRef.current));
+    setChanged(new Map(changedRef.current));
+  }
+
+  function statusOf(lex: number): WordStatus {
+    if (changed.has(lex)) return { kind: "changed", to: states?.get(lex) ?? "" };
+    if (KNOWN_STATES.has(states?.get(lex) ?? "")) return { kind: "known" };
+    if (episode.lexemes[String(lex)]?.counts_known) return { kind: "fixed" };
+    return { kind: "unknown" };
   }
 
   function answer(q: Question, choice: number, ms: number) {
@@ -138,7 +178,19 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
         <Link to="/" className="-ml-2 flex min-h-11 items-center px-2 text-sm text-ink-soft">
           ← Library
         </Link>
-        <span className="text-xs text-ink-soft">{placement ? "배치 · placement" : episode.id}</span>
+        {placement ? (
+          <span className="text-xs text-ink-soft">배치 · placement</span>
+        ) : (
+          <button
+            type="button"
+            onClick={toggleHighlight}
+            aria-pressed={highlight}
+            className="flex min-h-11 items-center gap-2 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep"
+          >
+            <span className={`inline-block size-3 rounded-sm border border-rule ${highlight ? "bg-known" : ""}`} />
+            Highlight known
+          </button>
+        )}
       </nav>
 
       <header className="mt-6 mb-10 text-center">
@@ -158,6 +210,7 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
             p={p}
             active={active?.para === p.idx ? active.start : null}
             tapped={tapped}
+            known={!placement && highlight ? known : undefined}
             showEn={shown.has(p.idx)}
             canShowEn={!placement}
             onToggleEn={() =>
@@ -201,8 +254,8 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
           onClose={close}
           tapped={tapped.has(active.lex)}
           onMistap={() => void mistap()}
-          known={placement ? undefined : { state: activeState, marked: marked.has(active.lex) }}
-          onToggleKnown={() => void toggleKnown()}
+          status={placement ? undefined : statusOf(active.lex)}
+          onChangeState={(to) => void changeState(to)}
         />
       )}
     </div>
@@ -213,13 +266,21 @@ type ParaProps = {
   p: Paragraph;
   active: number | null;
   tapped: Set<number>;
+  /** Known lexemes to tint; undefined = highlighting off. */
+  known?: Set<number>;
   showEn: boolean;
   canShowEn: boolean;
   onToggleEn: () => void;
   onTap: (para: number, start: number, end: number, lex: number, surface: string, el: HTMLElement) => void;
 };
 
-function ParagraphView({ p, active, tapped, showEn, canShowEn, onToggleEn, onTap }: ParaProps) {
+function wordClass(start: number, lex: number, active: number | null, tapped: Set<number>, known?: Set<number>) {
+  if (active === start) return "word active";
+  if (tapped.has(lex)) return "word tapped";
+  return known?.has(lex) ? "word known" : "word";
+}
+
+function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn, onTap }: ParaProps) {
   const segs = useMemo(() => segment(p.ko, p.tokens), [p.ko, p.tokens]);
   return (
     <div>
@@ -232,7 +293,7 @@ function ParagraphView({ p, active, tapped, showEn, canShowEn, onToggleEn, onTap
               key={s.start}
               role="button"
               tabIndex={0}
-              className={`word ${active === s.start ? "active" : tapped.has(s.lex) ? "tapped" : ""}`}
+              className={wordClass(s.start, s.lex, active, tapped, known)}
               onClick={(e) => onTap(p.idx, s.start, s.end, s.lex!, s.text, e.currentTarget)}
               onKeyDown={(e) => e.key === "Enter" && onTap(p.idx, s.start, s.end, s.lex!, s.text, e.currentTarget)}
             >

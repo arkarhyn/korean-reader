@@ -9,7 +9,10 @@ from sqlalchemy.dialects.sqlite import insert
 from sqlalchemy.orm import Session, selectinload
 
 from ..db import get_session
+from ..analyzer import proper_nouns
+from ..coverage import known_by_alias
 from ..events import apply_events
+from ..ingest import raw_known_keys
 from ..generation import build_context
 from ..db.models import Episode, Event, Lexeme, LexemeState, utcnow
 from ..placement import items as placement_items
@@ -24,14 +27,22 @@ def _summary(ep: Episode) -> EpisodeSummary:
     return EpisodeSummary.model_validate(ep, from_attributes=True)
 
 
-def _full(session: Session, ep: Episode) -> EpisodeFull:
+def _lexeme_out(lx: Lexeme, raw_known: set[tuple[str, str]]) -> LexemeOut:
+    out = LexemeOut.model_validate(lx, from_attributes=True)
+    out.counts_known = ((lx.pos == "NNP" and lx.lemma in proper_nouns())
+                        or known_by_alias(lx.lemma, lx.pos, raw_known))
+    return out
+
+
+def _full(session: Session, ep: Episode, raw_known: set[tuple[str, str]] | None = None) -> EpisodeFull:
     ids = {t["lex"] for p in ep.paragraphs for t in p.tokens if "lex" in t}
     lexemes = session.scalars(select(Lexeme).where(Lexeme.id.in_(ids))) if ids else []
+    raw_known = raw_known_keys(session) if raw_known is None else raw_known
     return EpisodeFull(
         **_summary(ep).model_dump(),
         paragraphs=[{"idx": p.idx, "ko": p.ko, "en": p.en, "tokens": p.tokens} for p in ep.paragraphs],
         questions=[QuestionOut.model_validate(q, from_attributes=True) for q in ep.questions],
-        lexemes={lx.id: LexemeOut.model_validate(lx, from_attributes=True) for lx in lexemes},
+        lexemes={lx.id: _lexeme_out(lx, raw_known) for lx in lexemes},
     )
 
 
@@ -73,6 +84,7 @@ def post_events(batch: EventBatch, session: Session = Depends(get_session)):
 def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get_session)):
     """Everything changed after `since` (all of it when omitted). Client stores server_time as its next cursor."""
     server_time = utcnow()
+    raw_known = raw_known_keys(session)
     eps = _published().order_by(Episode.created_at)
     states = select(LexemeState)
     if since is not None:
@@ -80,7 +92,7 @@ def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get
         states = states.where(LexemeState.updated_at > since)
     return SyncPull(
         server_time=server_time,
-        episodes=[_full(session, ep) for ep in session.scalars(eps)],
+        episodes=[_full(session, ep, raw_known) for ep in session.scalars(eps)],
         lexeme_states=[LexemeStateOut.model_validate(s, from_attributes=True) for s in session.scalars(states)],
     )
 

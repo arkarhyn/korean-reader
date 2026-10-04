@@ -44,6 +44,9 @@ class LexemeOut(BaseModel):
     gloss_en: str
     gloss_ja: str | None
     hanja: str | None
+    # Counts as known whatever its own state says: a story-bible name, or known
+    # under another tag of the same word (coverage.known_aliases).
+    counts_known: bool = False
 
 
 class EpisodeFull(EpisodeSummary):
