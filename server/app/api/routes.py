@@ -2,19 +2,20 @@
 
 from typing import Any
 
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Query
 from pydantic import AwareDatetime
 from sqlalchemy import select
 from sqlalchemy.dialects.sqlite import insert
 from sqlalchemy.orm import Session, selectinload
 
-from ..db import get_session
+from .. import word_sets
 from ..analyzer import proper_nouns
 from ..coverage import known_by_alias
-from ..events import apply_events
-from ..ingest import raw_known_keys
-from ..generation import build_context
+from ..db import get_session
 from ..db.models import Episode, Event, Lexeme, LexemeState, utcnow
+from ..events import apply_events
+from ..generation import build_context
+from ..ingest import raw_known_keys
 from ..placement import items as placement_items
 from ..placement import service as placement
 from .schemas import (EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, GrammarItemOut, LexemeOut,
@@ -102,6 +103,19 @@ def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get
 def generation_context(session: Session = Depends(get_session)) -> dict[str, Any]:
     """Input for a /generate-batch session (SPEC 5)."""
     return build_context(session)
+
+
+@router.get("/word-sets")
+def get_word_sets(session: Session = Depends(get_session)) -> list[dict[str, Any]]:
+    """Themed word sets with each item's lexeme ids and known flag (DECISIONS 67)."""
+    return word_sets.sets_out(session)
+
+
+@router.get("/word-sets/common")
+def get_common_words(offset: int = Query(0, ge=0), limit: int = Query(40, ge=1, le=100),
+                     session: Session = Depends(get_session)) -> dict[str, Any]:
+    """The frequency walk: NIKL-ranked words not yet known, one page at a time."""
+    return word_sets.common_out(session, offset, limit)
 
 
 @router.get("/placement", response_model=PlacementOut)

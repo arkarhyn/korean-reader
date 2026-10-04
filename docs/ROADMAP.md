@@ -38,7 +38,7 @@ reconnect, events land once on server.
 each calibration passage's observed tap rate falls inside the leave-one-out
 95% predictive interval (changed from +/- 2%, DECISIONS 50).
 
-## Stage 5 -- Generator loop (`/generate-batch` in Claude Code)  <- CURRENT (built + batch published 2026-10-04; awaiting Austin's naturalness read)
+## Stage 5 -- Generator loop (`/generate-batch` in Claude Code)  DONE (Austin rated naturalness 4+, 2026-10-04; DECISIONS 67)
 - Design session first (Project): STORY_BIBLE.md.
 - Popover "알아요" (mark known) and un-tap for mistaps (DECISIONS 54).
 - `GET /export/generation-context`; coverage CLI; swap loop; second-pass
@@ -46,7 +46,7 @@ each calibration passage's observed tap rate falls inside the leave-one-out
 **Accept:** batch of 5 episodes all in 95-98% band, target grammar 4-6x each,
 due words included; Austin reads 3 and rates naturalness >= 4/5.
 
-## Stage 6 -- Hidden SRS
+## Stage 6 -- Hidden SRS  <- CURRENT
 - Event -> FSRS derivation job (words + grammar); replayable.
 - Meaning checks (~1 in 5 due words); generator due-weighting.
 - Optional Quick review (tap-only, stored context + audio).

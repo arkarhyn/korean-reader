@@ -289,6 +289,22 @@ Do not reverse an entry without asking Austin.
     with no action. Rejected: setting it back to `new` (loses that it was known
     once; `learning` is what the due list and Stage 6 want).
 
+67. **Stage 5 accepted (Austin, 2026-10-04): naturalness 4/5 or better** on the
+    S01E001-005 batch.
+68. **Word sets for confirming known vocabulary (Austin; side load of Stage 5):**
+    21 Claude-authored themed sets in `content/seed/word_sets.json` (numbers,
+    days, months, food, verbs, ...; general categories, not HTSK lists), plus a
+    frequency walk over the NIKL list (unmarked words, 40 per page, online only).
+    Checklist grid on the phone; checking sends `set_state` known, unchecking a
+    known word sends learning (DECISIONS 66), untouched words change nothing.
+    Events carry `word_set` instead of `episode_id`. Rejected: card-by-card
+    (slower); queueing unmarked words as learning; themed sets only.
+69. **Word-set items resolve to analyzer keys:** default `lemmatize(ko)`;
+    explicit `keys` where running text splits or merges differently (일월 ->
+    일/NR + 월/NNB, so months also carry 월/NNB; 오래되다 -> 오래/MAG + 되다/VV). An
+    item is known only when all its keys are. Tests check items in carrier
+    sentences. Rejected: surface-form matching (DECISIONS 3).
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

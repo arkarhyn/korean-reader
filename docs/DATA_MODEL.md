@@ -126,7 +126,8 @@ paragraph_idx, start, end, text}`.
 
 Stage 5 reader: `set_state {lexeme_id, state, prev_state?, episode_id?}` from the
 popover: "I know this word" (state `known`), "I forgot this" (state `learning`);
-the undo sends the previous state. The server
+the undo sends the previous state. Word-set checklists send the same
+event with `word_set: <set id>` instead of `episode_id` (DECISIONS 68). The server
 applies it on receipt (lexeme_state source `manual`, DECISIONS 54/56);
 `app.events.replay_manual_states` re-applies the log. `word_untap {episode_id,
 paragraph_idx, start, end, lexeme_id}` cancels the latest `word_tap` of that

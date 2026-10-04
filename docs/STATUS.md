@@ -29,9 +29,14 @@
 - Deployed: live DB backed up, migrated to 0002, seeded, episodes ingested,
   web/dist rebuilt, service restarted. Server 108 tests, web 17, tsc clean.
 
-**Acceptance status:** batch criteria met by the checker (band, target
-grammar 4-6x, due words present). **Remaining: Austin reads 3 episodes and
-rates naturalness (>= 4/5)** -- then mark Stage 5 DONE.
+**Acceptance: PASSED.** Checker criteria met; Austin read the batch and rated
+naturalness 4+ (DECISIONS 67). Stage 5 DONE.
+
+**Side load (same day): word sets** -- `/words` in the app: 21 themed
+checklists (numbers, days, months, food, verbs...) + a frequency walk over the
+NIKL list. Confirmed words become known via `set_state` and feed the next
+batch (DECISIONS 68-69). Server 125 tests, web 25. Deployed (live DB backup
+`%TEMP%\kr5\live_backup_pre_wordsets.db`).
 
 **Read this first (Austin):** the generator writes against the DB's known set,
 which placement left very narrow (419 words; 응, 괜찮다, 언니, 알다, 가족, 좋아하다
@@ -39,8 +44,9 @@ all count as unknown). So these episodes are simpler than your real level, and
 some "new" words aren't new to you. Tap **I know this word** on every word you know as
 you read -- each tap widens what the next batch can use (DECISIONS 60).
 
-**Next:** Austin's naturalness read (+ "sounds off" flags). Then Stage 6
-(hidden SRS). Next batch must resolve E5's leave cliffhanger.
+**Next:** Austin works through some word sets, then the next `/generate-batch`
+(must resolve E5's leave cliffhanger; vary days/times now that weekday words
+can be confirmed). Then Stage 6 (hidden SRS).
 
 **Open issues:**
 - Live DB backups: `%TEMP%\kr5\live_backup_pre_stage5.db`,

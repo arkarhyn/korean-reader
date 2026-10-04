@@ -115,6 +115,8 @@ apartment / the rehearsal dinner, the driving-range outing, and the reception (E
 - Japanese-parallel moments: at most one per episode, and they must be
   correct about where the parallel breaks.
 - No dialect (사투리) or 사극 register. Grandmother speaks standard Seoul Korean.
+- Vary days and times of day (S01E001-005 all fell on 토요일 because it was the
+  only weekday word known). Use the known set from the generation context.
 - Humor comes from situations and language slips, never from ethnic stereotypes.
 
 ## Canon log

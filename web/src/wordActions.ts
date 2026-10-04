@@ -17,10 +17,10 @@ export async function setWordState(
   log: Log,
   lexemeId: number,
   state: string,
-  episodeId: string,
+  context: { episode_id?: string; word_set?: string },
 ): Promise<string> {
   const prev = (await db.lexemeStates.get(lexemeId))?.state ?? "new";
-  await log("set_state", { lexeme_id: lexemeId, state, prev_state: prev, episode_id: episodeId });
+  await log("set_state", { lexeme_id: lexemeId, state, prev_state: prev, ...context });
   await db.lexemeStates.put({ lexeme_id: lexemeId, state, updated_at: new Date().toISOString() });
   return prev;
 }

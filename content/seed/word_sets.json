@@ -1,0 +1,192 @@
+{
+  "_note": "Themed word sets for manually confirming known vocabulary (DECISIONS 67). Items are dictionary forms; keys default to lemmatize(ko). Explicit keys (lemma/POS) cover analyzer splits (일월 in running text = 일/NR + 월/NNB). General categories, not HTSK vocab lists.",
+  "sets": [
+    {"id": "num-sino", "title_ko": "숫자 (한자어)", "title_en": "Numbers: Sino-Korean", "items": [
+      {"ko": "일", "en": "one", "keys": ["일/NR"]}, {"ko": "이", "en": "two", "keys": ["이/NR"]},
+      {"ko": "삼", "en": "three", "keys": ["삼/NR"]}, {"ko": "사", "en": "four", "keys": ["사/NR"]},
+      {"ko": "오", "en": "five", "keys": ["오/NR"]}, {"ko": "육", "en": "six", "keys": ["육/NR"]},
+      {"ko": "칠", "en": "seven", "keys": ["칠/NR"]}, {"ko": "팔", "en": "eight", "keys": ["팔/NR"]},
+      {"ko": "구", "en": "nine", "keys": ["구/NR"]}, {"ko": "십", "en": "ten", "keys": ["십/NR"]},
+      {"ko": "백", "en": "hundred", "keys": ["백/NR"]}, {"ko": "천", "en": "thousand", "keys": ["천/NR"]},
+      {"ko": "만", "en": "ten thousand", "keys": ["만/NR"]}, {"ko": "영", "en": "zero", "keys": ["영/NR"]},
+      {"ko": "공", "en": "zero (phone numbers)", "keys": ["공/NNG"]}
+    ]},
+    {"id": "num-native", "title_ko": "숫자 (고유어)", "title_en": "Numbers: native Korean", "items": [
+      {"ko": "하나", "en": "one", "keys": ["하나/NR"]}, {"ko": "둘", "en": "two", "keys": ["둘/NR"]},
+      {"ko": "셋", "en": "three", "keys": ["셋/NR"]}, {"ko": "넷", "en": "four", "keys": ["넷/NR"]},
+      {"ko": "다섯", "en": "five", "keys": ["다섯/NR"]}, {"ko": "여섯", "en": "six", "keys": ["여섯/NR"]},
+      {"ko": "일곱", "en": "seven", "keys": ["일곱/NR"]}, {"ko": "여덟", "en": "eight", "keys": ["여덟/NR"]},
+      {"ko": "아홉", "en": "nine", "keys": ["아홉/NR"]}, {"ko": "열", "en": "ten", "keys": ["열/NR"]},
+      {"ko": "스물", "en": "twenty", "keys": ["스물/NR"]}, {"ko": "서른", "en": "thirty", "keys": ["서른/NR"]},
+      {"ko": "마흔", "en": "forty", "keys": ["마흔/NR"]}, {"ko": "쉰", "en": "fifty", "keys": ["쉰/NR"]},
+      {"ko": "한", "en": "one (before a counter)", "keys": ["한/MM"]}, {"ko": "두", "en": "two (before a counter)", "keys": ["두/MM"]},
+      {"ko": "세", "en": "three (before a counter)", "keys": ["세/MM"]}, {"ko": "네", "en": "four (before a counter)", "keys": ["네/MM"]}
+    ]},
+    {"id": "counters", "title_ko": "단위", "title_en": "Counters", "items": [
+      {"ko": "개", "en": "things", "keys": ["개/NNB"]}, {"ko": "명", "en": "people", "keys": ["명/NNB"]},
+      {"ko": "분", "en": "people (honorific) / minutes", "keys": ["분/NNB"]}, {"ko": "번", "en": "times", "keys": ["번/NNB"]},
+      {"ko": "살", "en": "years old", "keys": ["살/NNB"]}, {"ko": "시", "en": "o'clock", "keys": ["시/NNB"]},
+      {"ko": "시간", "en": "hours", "keys": ["시간/NNG"]}, {"ko": "년", "en": "year", "keys": ["년/NNB"]},
+      {"ko": "원", "en": "won", "keys": ["원/NNB"]}, {"ko": "잔", "en": "cups / glasses", "keys": ["잔/NNG"]},
+      {"ko": "병", "en": "bottles", "keys": ["병/NNB"]}, {"ko": "마리", "en": "animals", "keys": ["마리/NNB"]},
+      {"ko": "권", "en": "books", "keys": ["권/NNB"]}, {"ko": "층", "en": "floor", "keys": ["층/NNB"]},
+      {"ko": "달러", "en": "dollars", "keys": ["달러/NNB"]}
+    ]},
+    {"id": "days", "title_ko": "요일", "title_en": "Days of the week", "items": [
+      {"ko": "월요일", "en": "Monday"}, {"ko": "화요일", "en": "Tuesday"}, {"ko": "수요일", "en": "Wednesday"},
+      {"ko": "목요일", "en": "Thursday"}, {"ko": "금요일", "en": "Friday"}, {"ko": "토요일", "en": "Saturday"},
+      {"ko": "일요일", "en": "Sunday"}, {"ko": "주말", "en": "weekend"}, {"ko": "평일", "en": "weekday"}
+    ]},
+    {"id": "months", "title_ko": "달", "title_en": "Months", "items": [
+      {"ko": "일월", "en": "January", "keys": ["일월/NNG", "월/NNB"]}, {"ko": "이월", "en": "February", "keys": ["이월/NNG", "월/NNB"]},
+      {"ko": "삼월", "en": "March", "keys": ["삼월/NNG", "월/NNB"]}, {"ko": "사월", "en": "April", "keys": ["사월/NNG", "월/NNB"]},
+      {"ko": "오월", "en": "May", "keys": ["오월/NNG", "월/NNB"]}, {"ko": "유월", "en": "June", "keys": ["유월/NNG", "월/NNB"]},
+      {"ko": "칠월", "en": "July", "keys": ["칠월/NNG", "월/NNB"]}, {"ko": "팔월", "en": "August", "keys": ["팔월/NNG", "월/NNB"]},
+      {"ko": "구월", "en": "September", "keys": ["구월/NNG", "월/NNB"]}, {"ko": "시월", "en": "October", "keys": ["시월/NNG", "월/NNB"]},
+      {"ko": "십일월", "en": "November", "keys": ["십일월/NNG", "월/NNB"]}, {"ko": "십이월", "en": "December", "keys": ["십이월/NNG", "월/NNB"]}
+    ]},
+    {"id": "time", "title_ko": "때", "title_en": "Time words", "items": [
+      {"ko": "오늘", "en": "today", "keys": ["오늘/NNG"]}, {"ko": "어제", "en": "yesterday", "keys": ["어제/NNG"]},
+      {"ko": "내일", "en": "tomorrow", "keys": ["내일/NNG"]}, {"ko": "모레", "en": "the day after tomorrow", "keys": ["모레/NNG"]},
+      {"ko": "아침", "en": "morning; breakfast"}, {"ko": "점심", "en": "lunch; midday"}, {"ko": "저녁", "en": "evening; dinner"},
+      {"ko": "밤", "en": "night"}, {"ko": "새벽", "en": "dawn"}, {"ko": "오전", "en": "a.m."}, {"ko": "오후", "en": "p.m."},
+      {"ko": "주", "en": "week", "keys": ["주/NNG"]}, {"ko": "이번 주", "en": "this week", "keys": ["이번/NNG", "주/NNG"]},
+      {"ko": "다음 주", "en": "next week", "keys": ["다음/NNG", "주/NNG"]}, {"ko": "지난주", "en": "last week"},
+      {"ko": "달", "en": "month", "keys": ["달/NNB", "달/NNG"]}, {"ko": "올해", "en": "this year"},
+      {"ko": "작년", "en": "last year"}, {"ko": "내년", "en": "next year"}, {"ko": "생일", "en": "birthday"},
+      {"ko": "그날", "en": "that day", "keys": ["그날/NNG"]}, {"ko": "요즘", "en": "these days"}
+    ]},
+    {"id": "family", "title_ko": "가족과 호칭", "title_en": "Family & address terms", "items": [
+      {"ko": "가족", "en": "family"}, {"ko": "부모님", "en": "parents"}, {"ko": "엄마", "en": "mom"}, {"ko": "아빠", "en": "dad"},
+      {"ko": "어머니", "en": "mother"}, {"ko": "아버지", "en": "father"}, {"ko": "어머님", "en": "mother (respectful)"},
+      {"ko": "아버님", "en": "father (respectful)"}, {"ko": "할머니", "en": "grandmother"}, {"ko": "할아버지", "en": "grandfather"},
+      {"ko": "형", "en": "older brother (of a male)"}, {"ko": "오빠", "en": "older brother (of a female)"},
+      {"ko": "누나", "en": "older sister (of a male)"}, {"ko": "언니", "en": "older sister (of a female)"},
+      {"ko": "동생", "en": "younger sibling"}, {"ko": "남동생", "en": "younger brother"}, {"ko": "여동생", "en": "younger sister"},
+      {"ko": "아들", "en": "son"}, {"ko": "딸", "en": "daughter"}, {"ko": "남편", "en": "husband"}, {"ko": "아내", "en": "wife"},
+      {"ko": "남자 친구", "en": "boyfriend", "keys": ["남자/NNG", "친구/NNG"]}, {"ko": "여자 친구", "en": "girlfriend", "keys": ["여자/NNG", "친구/NNG"]},
+      {"ko": "이모", "en": "aunt (mother's sister)"}, {"ko": "삼촌", "en": "uncle"}, {"ko": "사촌", "en": "cousin"},
+      {"ko": "아이", "en": "child"}, {"ko": "어른", "en": "adult; elder"}
+    ]},
+    {"id": "food", "title_ko": "음식", "title_en": "Food", "items": [
+      {"ko": "밥", "en": "rice; meal"}, {"ko": "김치", "en": "kimchi"}, {"ko": "고기", "en": "meat"}, {"ko": "생선", "en": "fish (food)"},
+      {"ko": "국", "en": "soup"}, {"ko": "찌개", "en": "stew"}, {"ko": "반찬", "en": "side dishes"}, {"ko": "김밥", "en": "kimbap"},
+      {"ko": "라면", "en": "ramyeon"}, {"ko": "떡", "en": "rice cake"}, {"ko": "떡볶이", "en": "tteokbokki"}, {"ko": "불고기", "en": "bulgogi"},
+      {"ko": "갈비", "en": "galbi (ribs)"}, {"ko": "비빔밥", "en": "bibimbap"}, {"ko": "만두", "en": "dumplings"}, {"ko": "빵", "en": "bread"},
+      {"ko": "과일", "en": "fruit"}, {"ko": "사과", "en": "apple"}, {"ko": "야채", "en": "vegetables"}, {"ko": "계란", "en": "egg"},
+      {"ko": "두부", "en": "tofu"}, {"ko": "치킨", "en": "fried chicken"}, {"ko": "피자", "en": "pizza"}, {"ko": "케이크", "en": "cake"},
+      {"ko": "과자", "en": "snacks"}, {"ko": "음식", "en": "food"}, {"ko": "요리", "en": "cooking; dish"}, {"ko": "간식", "en": "snack"},
+      {"ko": "디저트", "en": "dessert"}, {"ko": "아침밥", "en": "breakfast"}
+    ]},
+    {"id": "drinks", "title_ko": "음료와 맛", "title_en": "Drinks & tastes", "items": [
+      {"ko": "물", "en": "water"}, {"ko": "커피", "en": "coffee"}, {"ko": "차", "en": "tea", "keys": ["차/NNG"]}, {"ko": "우유", "en": "milk"},
+      {"ko": "주스", "en": "juice"}, {"ko": "술", "en": "alcohol"}, {"ko": "맥주", "en": "beer"}, {"ko": "소주", "en": "soju"},
+      {"ko": "맛", "en": "taste"}, {"ko": "맛있다", "en": "delicious"}, {"ko": "맛없다", "en": "not tasty"}, {"ko": "맵다", "en": "spicy"},
+      {"ko": "달다", "en": "sweet", "keys": ["달다/VA"]}, {"ko": "짜다", "en": "salty", "keys": ["짜다/VA"]}, {"ko": "싱겁다", "en": "bland"},
+      {"ko": "뜨겁다", "en": "hot (to touch)"}, {"ko": "차갑다", "en": "cold (to touch)"}, {"ko": "배고프다", "en": "hungry"},
+      {"ko": "배부르다", "en": "full"}, {"ko": "목마르다", "en": "thirsty"}
+    ]},
+    {"id": "home", "title_ko": "집", "title_en": "Home & kitchen", "items": [
+      {"ko": "집", "en": "house; home"}, {"ko": "방", "en": "room"}, {"ko": "부엌", "en": "kitchen"}, {"ko": "화장실", "en": "bathroom"},
+      {"ko": "거실", "en": "living room"}, {"ko": "문", "en": "door", "keys": ["문/NNG"]}, {"ko": "창문", "en": "window"},
+      {"ko": "침대", "en": "bed"}, {"ko": "의자", "en": "chair"}, {"ko": "책상", "en": "desk"}, {"ko": "식탁", "en": "dining table"},
+      {"ko": "냉장고", "en": "refrigerator"}, {"ko": "그릇", "en": "bowl"}, {"ko": "숟가락", "en": "spoon"}, {"ko": "젓가락", "en": "chopsticks"},
+      {"ko": "컵", "en": "cup"}, {"ko": "텔레비전", "en": "TV"}, {"ko": "휴대폰", "en": "cell phone"}, {"ko": "컴퓨터", "en": "computer"},
+      {"ko": "옷", "en": "clothes"}, {"ko": "신발", "en": "shoes"}, {"ko": "가방", "en": "bag"}, {"ko": "열쇠", "en": "key"},
+      {"ko": "마당", "en": "yard"}, {"ko": "아파트", "en": "apartment"}
+    ]},
+    {"id": "places", "title_ko": "장소", "title_en": "Places around town", "items": [
+      {"ko": "학교", "en": "school"}, {"ko": "회사", "en": "company; office"}, {"ko": "병원", "en": "hospital"}, {"ko": "약국", "en": "pharmacy"},
+      {"ko": "식당", "en": "restaurant"}, {"ko": "카페", "en": "cafe"}, {"ko": "가게", "en": "store"}, {"ko": "마트", "en": "grocery store"},
+      {"ko": "시장", "en": "market"}, {"ko": "은행", "en": "bank"}, {"ko": "공원", "en": "park"}, {"ko": "공항", "en": "airport"},
+      {"ko": "역", "en": "station"}, {"ko": "교회", "en": "church"}, {"ko": "도서관", "en": "library"}, {"ko": "호텔", "en": "hotel"},
+      {"ko": "백화점", "en": "department store"}, {"ko": "동네", "en": "neighborhood"}, {"ko": "길", "en": "road; way"}, {"ko": "차", "en": "car", "keys": ["차/NNG"]},
+      {"ko": "버스", "en": "bus"}, {"ko": "지하철", "en": "subway"}, {"ko": "비행기", "en": "airplane"}, {"ko": "한국", "en": "Korea", "keys": ["한국/NNP"]},
+      {"ko": "미국", "en": "USA"}, {"ko": "일본", "en": "Japan"}, {"ko": "서울", "en": "Seoul"}
+    ]},
+    {"id": "verbs", "title_ko": "자주 쓰는 동사", "title_en": "Common verbs", "items": [
+      {"ko": "가다", "en": "go"}, {"ko": "오다", "en": "come"}, {"ko": "먹다", "en": "eat"}, {"ko": "마시다", "en": "drink"},
+      {"ko": "자다", "en": "sleep"}, {"ko": "일어나다", "en": "get up"}, {"ko": "보다", "en": "see; watch", "keys": ["보다/VV"]},
+      {"ko": "듣다", "en": "listen"}, {"ko": "읽다", "en": "read"}, {"ko": "쓰다", "en": "write; use", "keys": ["쓰다/VV"]},
+      {"ko": "말하다", "en": "speak"}, {"ko": "알다", "en": "know"}, {"ko": "모르다", "en": "not know"}, {"ko": "좋아하다", "en": "like"},
+      {"ko": "싫어하다", "en": "dislike"}, {"ko": "사다", "en": "buy"}, {"ko": "팔다", "en": "sell"}, {"ko": "만나다", "en": "meet"},
+      {"ko": "기다리다", "en": "wait"}, {"ko": "주다", "en": "give"}, {"ko": "받다", "en": "receive"}, {"ko": "만들다", "en": "make"},
+      {"ko": "하다", "en": "do"}, {"ko": "놀다", "en": "play; hang out"}, {"ko": "일하다", "en": "work"}, {"ko": "공부하다", "en": "study"},
+      {"ko": "배우다", "en": "learn", "keys": ["배우다/VV"]}, {"ko": "가르치다", "en": "teach"}, {"ko": "앉다", "en": "sit"}, {"ko": "서다", "en": "stand"},
+      {"ko": "걷다", "en": "walk"}, {"ko": "뛰다", "en": "run"}, {"ko": "타다", "en": "ride"}, {"ko": "열다", "en": "open"},
+      {"ko": "닫다", "en": "close"}, {"ko": "찾다", "en": "look for"}, {"ko": "전화하다", "en": "call"}, {"ko": "운전하다", "en": "drive"},
+      {"ko": "요리하다", "en": "cook"}, {"ko": "청소하다", "en": "clean"}, {"ko": "씻다", "en": "wash"}, {"ko": "입다", "en": "wear (clothes)"},
+      {"ko": "웃다", "en": "laugh; smile"}, {"ko": "울다", "en": "cry"}, {"ko": "도와주다", "en": "help"}, {"ko": "생각하다", "en": "think"},
+      {"ko": "부르다", "en": "call; sing"}, {"ko": "들어가다", "en": "go in"}, {"ko": "나가다", "en": "go out"}, {"ko": "돌아오다", "en": "come back"}
+    ]},
+    {"id": "adjectives", "title_ko": "자주 쓰는 형용사", "title_en": "Common adjectives", "items": [
+      {"ko": "좋다", "en": "good"}, {"ko": "나쁘다", "en": "bad"}, {"ko": "크다", "en": "big"}, {"ko": "작다", "en": "small"},
+      {"ko": "많다", "en": "many; a lot"}, {"ko": "적다", "en": "few", "keys": ["적다/VA"]}, {"ko": "길다", "en": "long"},
+      {"ko": "짧다", "en": "short"}, {"ko": "높다", "en": "high"}, {"ko": "낮다", "en": "low"}, {"ko": "비싸다", "en": "expensive"},
+      {"ko": "싸다", "en": "cheap", "keys": ["싸다/VA"]}, {"ko": "쉽다", "en": "easy"}, {"ko": "어렵다", "en": "difficult"},
+      {"ko": "재미있다", "en": "fun"}, {"ko": "재미없다", "en": "boring"}, {"ko": "바쁘다", "en": "busy"}, {"ko": "피곤하다", "en": "tired"},
+      {"ko": "예쁘다", "en": "pretty"}, {"ko": "멋있다", "en": "cool; stylish"}, {"ko": "귀엽다", "en": "cute"}, {"ko": "새롭다", "en": "new"},
+      {"ko": "오래되다", "en": "old (things)", "keys": ["오래/MAG", "되다/VV"]}, {"ko": "젊다", "en": "young"}, {"ko": "같다", "en": "same; seem"}, {"ko": "다르다", "en": "different"},
+      {"ko": "가깝다", "en": "near"}, {"ko": "멀다", "en": "far"}, {"ko": "빠르다", "en": "fast"}, {"ko": "느리다", "en": "slow"},
+      {"ko": "중요하다", "en": "important"}, {"ko": "필요하다", "en": "necessary"}, {"ko": "편하다", "en": "comfortable"},
+      {"ko": "조용하다", "en": "quiet"}, {"ko": "깨끗하다", "en": "clean"}, {"ko": "아프다", "en": "hurt; sick"}
+    ]},
+    {"id": "feelings", "title_ko": "기분", "title_en": "Feelings", "items": [
+      {"ko": "기분", "en": "mood"}, {"ko": "기쁘다", "en": "glad"}, {"ko": "행복하다", "en": "happy"}, {"ko": "슬프다", "en": "sad"},
+      {"ko": "화나다", "en": "get angry"}, {"ko": "무섭다", "en": "scary; scared"}, {"ko": "걱정하다", "en": "worry"},
+      {"ko": "긴장하다", "en": "be nervous"}, {"ko": "심심하다", "en": "bored"}, {"ko": "외롭다", "en": "lonely"}, {"ko": "놀라다", "en": "be surprised"},
+      {"ko": "부끄럽다", "en": "embarrassed; shy"}, {"ko": "좋다", "en": "good; like"}, {"ko": "싫다", "en": "dislike"}, {"ko": "사랑하다", "en": "love"},
+      {"ko": "보고 싶다", "en": "miss (someone)", "keys": ["보다/VV"]}, {"ko": "힘들다", "en": "hard; tough"}, {"ko": "괜찮다", "en": "okay"}
+    ]},
+    {"id": "replies", "title_ko": "자주 하는 말", "title_en": "Everyday replies", "items": [
+      {"ko": "네", "en": "yes", "keys": ["네/IC"]}, {"ko": "응", "en": "yeah"}, {"ko": "아니요", "en": "no"}, {"ko": "아니", "en": "no; nah", "keys": ["아니/IC"]},
+      {"ko": "그래", "en": "okay; right", "keys": ["그래/IC"]}, {"ko": "맞다", "en": "be right", "keys": ["맞다/VV"]}, {"ko": "진짜", "en": "really"},
+      {"ko": "정말", "en": "really", "keys": ["정말/MAG"]}, {"ko": "고맙다", "en": "thankful"}, {"ko": "감사하다", "en": "thank", "keys": ["감사하다/VV"]},
+      {"ko": "미안하다", "en": "sorry"}, {"ko": "죄송하다", "en": "sorry (formal)"}, {"ko": "괜찮다", "en": "fine"}, {"ko": "안녕하다", "en": "hello (안녕하세요)"},
+      {"ko": "안녕", "en": "hi; bye", "keys": ["안녕/IC"]}, {"ko": "축하하다", "en": "congratulate"}, {"ko": "어서", "en": "come on in (어서 오세요)"},
+      {"ko": "잠깐", "en": "just a moment"}, {"ko": "그럼", "en": "then; of course", "keys": ["그럼/MAJ"]}, {"ko": "글쎄", "en": "well..."}
+    ]},
+    {"id": "questions", "title_ko": "의문사", "title_en": "Question words", "items": [
+      {"ko": "누구", "en": "who"}, {"ko": "뭐", "en": "what", "keys": ["뭐/NP"]}, {"ko": "무엇", "en": "what"}, {"ko": "무슨", "en": "what kind of"},
+      {"ko": "어디", "en": "where"}, {"ko": "언제", "en": "when", "keys": ["언제/MAG"]}, {"ko": "왜", "en": "why"}, {"ko": "어떻게", "en": "how", "keys": ["어떻다/VA"]},
+      {"ko": "얼마", "en": "how much"}, {"ko": "얼마나", "en": "how (much/long)"}, {"ko": "몇", "en": "how many"}, {"ko": "어느", "en": "which"},
+      {"ko": "어떤", "en": "what kind of"}
+    ]},
+    {"id": "adverbs", "title_ko": "자주 쓰는 부사", "title_en": "Frequency & time adverbs", "items": [
+      {"ko": "지금", "en": "now", "keys": ["지금/MAG"]}, {"ko": "벌써", "en": "already"}, {"ko": "아직", "en": "still; yet"}, {"ko": "곧", "en": "soon"},
+      {"ko": "이따가", "en": "later (today)"}, {"ko": "나중에", "en": "later", "keys": ["나중/NNG"]}, {"ko": "먼저", "en": "first"},
+      {"ko": "다시", "en": "again"}, {"ko": "또", "en": "again; also"}, {"ko": "자주", "en": "often"}, {"ko": "가끔", "en": "sometimes"},
+      {"ko": "항상", "en": "always"}, {"ko": "매일", "en": "every day"}, {"ko": "보통", "en": "usually"}, {"ko": "빨리", "en": "quickly"},
+      {"ko": "천천히", "en": "slowly"}, {"ko": "같이", "en": "together"}, {"ko": "혼자", "en": "alone", "keys": ["혼자/MAG"]},
+      {"ko": "너무", "en": "too; so"}, {"ko": "조금", "en": "a little"}, {"ko": "좀", "en": "a bit; please"}, {"ko": "많이", "en": "a lot"},
+      {"ko": "다", "en": "all", "keys": ["다/MAG"]}, {"ko": "제일", "en": "most"}, {"ko": "갑자기", "en": "suddenly"}, {"ko": "계속", "en": "continuously"}
+    ]},
+    {"id": "weather", "title_ko": "날씨와 계절", "title_en": "Weather & seasons", "items": [
+      {"ko": "날씨", "en": "weather"}, {"ko": "봄", "en": "spring", "keys": ["봄/NNG"]}, {"ko": "여름", "en": "summer"}, {"ko": "가을", "en": "autumn"},
+      {"ko": "겨울", "en": "winter"}, {"ko": "비", "en": "rain", "keys": ["비/NNG"]}, {"ko": "눈", "en": "snow; eye", "keys": ["눈/NNG"]},
+      {"ko": "바람", "en": "wind"}, {"ko": "덥다", "en": "hot (weather)"}, {"ko": "춥다", "en": "cold (weather)"}, {"ko": "따뜻하다", "en": "warm"},
+      {"ko": "시원하다", "en": "cool; refreshing"}, {"ko": "맑다", "en": "clear"}, {"ko": "흐리다", "en": "cloudy"}, {"ko": "하늘", "en": "sky"}
+    ]},
+    {"id": "colors-body", "title_ko": "색깔과 몸", "title_en": "Colors & body", "items": [
+      {"ko": "색깔", "en": "color"}, {"ko": "빨갛다", "en": "red"}, {"ko": "파랗다", "en": "blue"}, {"ko": "노랗다", "en": "yellow"},
+      {"ko": "하얗다", "en": "white"}, {"ko": "까맣다", "en": "black"}, {"ko": "머리", "en": "head; hair"}, {"ko": "얼굴", "en": "face"},
+      {"ko": "눈", "en": "eye", "keys": ["눈/NNG"]}, {"ko": "코", "en": "nose"}, {"ko": "입", "en": "mouth"}, {"ko": "귀", "en": "ear"},
+      {"ko": "손", "en": "hand"}, {"ko": "발", "en": "foot"}, {"ko": "다리", "en": "leg"}, {"ko": "배", "en": "stomach", "keys": ["배/NNG"]},
+      {"ko": "몸", "en": "body"}
+    ]},
+    {"id": "work", "title_ko": "일과 군대", "title_en": "Work & military", "items": [
+      {"ko": "일", "en": "work; job", "keys": ["일/NNG"]}, {"ko": "직업", "en": "occupation"}, {"ko": "회의", "en": "meeting"},
+      {"ko": "휴가", "en": "leave; vacation"}, {"ko": "출근하다", "en": "go to work"}, {"ko": "퇴근하다", "en": "leave work"},
+      {"ko": "군대", "en": "the military"}, {"ko": "군인", "en": "soldier"}, {"ko": "공군", "en": "air force"}, {"ko": "장교", "en": "officer"},
+      {"ko": "전역하다", "en": "be discharged"}, {"ko": "상사", "en": "boss; superior", "keys": ["상사/NNG"]}, {"ko": "동료", "en": "coworker"},
+      {"ko": "월급", "en": "salary"}, {"ko": "이메일", "en": "email"}, {"ko": "취미", "en": "hobby"}, {"ko": "운동", "en": "exercise"},
+      {"ko": "등산", "en": "hiking"}
+    ]},
+    {"id": "events", "title_ko": "결혼식과 행사", "title_en": "Weddings & family events", "items": [
+      {"ko": "결혼식", "en": "wedding"}, {"ko": "결혼하다", "en": "marry"}, {"ko": "신부", "en": "bride"}, {"ko": "신랑", "en": "groom"},
+      {"ko": "축의금", "en": "wedding gift money"}, {"ko": "봉투", "en": "envelope"}, {"ko": "선물", "en": "gift"}, {"ko": "축하", "en": "congratulations"},
+      {"ko": "사진", "en": "photo"}, {"ko": "찍다", "en": "take (a photo)"}, {"ko": "손님", "en": "guest"}, {"ko": "파티", "en": "party"},
+      {"ko": "인사", "en": "greeting"}, {"ko": "드레스", "en": "dress"}, {"ko": "꽃", "en": "flower"}, {"ko": "반지", "en": "ring"}
+    ]}
+  ]
+}

@@ -31,7 +31,15 @@ export default function Library() {
     <div className="mx-auto max-w-2xl px-4 pt-[max(1.5rem,env(safe-area-inset-top))] pb-10 safe-bottom">
       <header className="mb-8 flex items-center justify-between gap-3">
         <h1 className="font-title text-3xl font-extrabold tracking-tight">읽기</h1>
-        <SyncChip />
+        <div className="flex items-center gap-2">
+          <Link
+            to="/words"
+            className="flex min-h-11 items-center rounded-full border border-rule px-4 font-title text-sm font-bold active:bg-paper-deep"
+          >
+            단어
+          </Link>
+          <SyncChip />
+        </div>
       </header>
 
       {placement && !placement.data?.fitted && <PlacementCard resume={placement.progress?.step} />}

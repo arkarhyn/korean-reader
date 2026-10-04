@@ -133,11 +133,11 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
     if (to === "undo") {
       const prev = changedRef.current.get(lex);
       if (prev === undefined) return;
-      await setWordState(db, log, lex, prev, episode.id);
+      await setWordState(db, log, lex, prev, { episode_id: episode.id });
       changedRef.current.delete(lex);
     } else {
       if (to === "known") await untapActive(); // knowing it means the tap wasn't a lookup
-      changedRef.current.set(lex, await setWordState(db, log, lex, to, episode.id));
+      changedRef.current.set(lex, await setWordState(db, log, lex, to, { episode_id: episode.id }));
       if (to === "known") setActive(null);
     }
     setChanged(new Map(changedRef.current));

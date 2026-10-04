@@ -150,7 +150,9 @@ def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, pub
 
 
 def seed(session: Session, lookup: Lookup | None) -> None:
-    """Grammar points (analyzer codes + SYLLABUS_MAP rows) + flagged vocab (DECISIONS 20).
+    from .word_sets import seed_word_sets
+
+    """Grammar points (analyzer codes + SYLLABUS_MAP rows) + flagged vocab (DECISIONS 20) + word-set lexemes.
 
     Idempotent; grammar_points.json fields overwrite earlier values. Caller commits.
     """
@@ -178,3 +180,4 @@ def seed(session: Session, lookup: Lookup | None) -> None:
         if session.get(GrammarState, g.code) is None:
             session.add(GrammarState(code=g.code, state=g.state, source=g.source, first_seen_at=now))
     session.flush()
+    seed_word_sets(session, lookup)  # lexemes for the word-set checklists (DECISIONS 67)

@@ -1,5 +1,6 @@
 import { db as defaultDb, type ReaderDB } from "./db";
 import { saveData, type PlacementData } from "./placement";
+import { saveSets, type WordSet } from "./wordSets";
 import type { Device, EventType, QueuedEvent, SyncPull } from "./types";
 
 // Events go to IndexedDB first, always; the server only ever sees them via sync().
@@ -66,12 +67,21 @@ export function createSync(db: ReaderDB, fetchFn: typeof fetch = (...a) => fetch
     }
   }
 
+  async function refreshWordSets() {
+    try {
+      await saveSets(db, (await call("/api/word-sets")) as WordSet[]);
+    } catch {
+      /* keep the cached copy */
+    }
+  }
+
   async function run(): Promise<boolean> {
     setStatus({ syncing: true });
     try {
       await push();
       await pull();
       await refreshPlacement();
+      await refreshWordSets();
       const now = new Date().toISOString();
       await db.meta.put({ key: "lastSync", value: now });
       setStatus({ syncing: false, lastSync: now, error: null });
