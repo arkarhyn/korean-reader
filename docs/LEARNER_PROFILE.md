@@ -10,6 +10,21 @@ Read before generating ANY content (episodes, lesson cards, drills, questions).
   from immersion.
 - Placement (Stage 4) supersedes this section once run.
 
+## Placement result (2026-10-04)
+- Vocabulary: ~420 words marked known (plus 12 flagged as learning). Knowledge
+  does not follow frequency order: everyday/spoken words from dramas,
+  podcasts and a textbook are known (날씨, 의자, 김밥, 공원), while common
+  written/literary words often are not (가슴, 젊다, 시절, 평생, 마음, 며칠).
+  Expect the app to under-count known words at first; reading data corrects it.
+- Reading: easy everyday 해요체 text ~90% known (comprehension 4/5); a
+  family-visit narrative ~64% (3/5); literary narration ~38% (2/5).
+- Grammar (self-graded on the general concept, so read as optimistic):
+  solid on most HTSK 1-28 points. Practicing: 은/는 nuance, -ㄹ 것이다,
+  -(스)ㅂ니다, -ㄴ/는다, 저/나 levels, 르/ㄹ irregulars, -게, 아니다,
+  -아/어하다, -적, 보다/더/가장, -지 못하다, question words, -(으)ㄴ 후에,
+  -고 있다, -던, passives. To learn: 동안, -아/어지다, 에 대해, ㅎ irregular,
+  -스럽다, 위해.
+
 ## Background
 - Strong Japanese (reading ~N2, DLPT 2+/2 reading/listening). Use Japanese
   as the scaffold: grammar parallels, Sino-Korean <-> kanji mappings,
