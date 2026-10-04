@@ -121,7 +121,7 @@ export default function WordPopover(props: Props) {
             aria-pressed={known.marked}
             className="min-h-11 rounded-full border border-rule bg-seal-wash px-4 text-sm font-bold active:opacity-80"
           >
-            {known.marked ? "✓ 알아요 · 취소" : "알아요"}
+            {known.marked ? "✓ Marked known · Undo" : "I know this word"}
           </button>
         )}
         {tapped && (
@@ -130,7 +130,7 @@ export default function WordPopover(props: Props) {
             onClick={onMistap}
             className="min-h-11 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep"
           >
-            잘못 눌렀어요
+            Tapped by mistake
           </button>
         )}
         <button

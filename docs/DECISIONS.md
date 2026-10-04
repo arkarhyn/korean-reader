@@ -267,6 +267,16 @@ Do not reverse an entry without asking Austin.
 62. **The draft checker analyzes paragraph by paragraph**, exactly like ingest.
     Kiwi's reading depends on context (어머니 came out NNP in the joined text).
 
+63. **Library = "up next" card + sections (Austin, 2026-10-04):** seasons
+    (S01E### numbered lists, titles from STORY_BIBLE), side stories, then a
+    collapsed "연습 · Practice" (legacy/primer). Read episodes stay in place,
+    dimmed with a check. "Up next" = first unread season episode, then side
+    stories; never practice. Rejected: tabs per series; collapsible full cards;
+    folding read episodes into a "Read" group.
+64. **Popover buttons in English:** "I know this word" / "✓ Marked known ·
+    Undo" / "Tapped by mistake" (Austin found 알아요 / 잘못 눌렀어요 unclear).
+    Story text stays Korean.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

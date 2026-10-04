@@ -22,6 +22,9 @@
   bride's parents receive 축의금, they don't give it), early address terms
   (어머님, 서현 씨 before Ep 7), and E5's drill-like -지 못하다 in casual speech
   (now 못 in speech, long form in narration). Canon log appended to STORY_BIBLE.
+- Later the same day (Austin's requests): Library reorganized into an "up next"
+  card + season / side-story / practice sections (DECISIONS 63); popover
+  buttons now in English (DECISIONS 64). Web 21 tests.
 - Deployed: live DB backed up, migrated to 0002, seeded, episodes ingested,
   web/dist rebuilt, service restarted. Server 108 tests, web 17, tsc clean.
 
@@ -32,7 +35,7 @@ rates naturalness (>= 4/5)** -- then mark Stage 5 DONE.
 **Read this first (Austin):** the generator writes against the DB's known set,
 which placement left very narrow (419 words; 응, 괜찮다, 언니, 알다, 가족, 좋아하다
 all count as unknown). So these episodes are simpler than your real level, and
-some "new" words aren't new to you. Tap **알아요** on every word you know as
+some "new" words aren't new to you. Tap **I know this word** on every word you know as
 you read -- each tap widens what the next batch can use (DECISIONS 60).
 
 **Next:** Austin's naturalness read (+ "sounds off" flags). Then Stage 6
