@@ -8,6 +8,30 @@ from collections.abc import Collection, Iterable
 
 from .analyzer import Token, analyze
 
+# Same word, different tag between the NIKL list and Kiwi's reading in running text:
+# noun/XR + 하 is VV or VA by context (감사합니다 -> VV, list has VA), 아니다 is VCN in
+# text but 형 (VA) in the list, 그럼/그래 drift between adverb, conjunction, interjection,
+# and nouns between NNG and NNP.
+_PARTICLE_LIKE = ("MAG", "MAJ", "IC")
+
+
+def known_aliases(lemma: str, pos: str) -> set[tuple[str, str]]:
+    """Keys that count as the same known word (for coverage only; lexemes stay separate)."""
+    keys = {(lemma, pos)}
+    if pos in ("VV", "VA") and lemma.endswith("하다"):
+        keys |= {(lemma, "VV"), (lemma, "VA")}
+    if lemma == "아니다" and pos in ("VA", "VCN"):
+        keys |= {(lemma, "VA"), (lemma, "VCN")}
+    if pos in _PARTICLE_LIKE:
+        keys |= {(lemma, p) for p in _PARTICLE_LIKE}
+    if pos in ("NNG", "NNP"):  # 한국 is 고유명사 in the list but often NNG in text
+        keys |= {(lemma, "NNG"), (lemma, "NNP")}
+    return keys
+
+
+def expand_known(known: Collection[tuple[str, str]]) -> set[tuple[str, str]]:
+    return {k for lemma, pos in known for k in known_aliases(lemma, pos)}
+
 
 def coverage(
     tokens: Iterable[Token] | str,

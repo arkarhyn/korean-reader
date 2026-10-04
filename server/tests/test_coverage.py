@@ -44,3 +44,11 @@ def test_proper_nouns_count_as_known():
 def test_running_tokens_not_types():
     # 강아지 x2 unknown, 좋아하다 x1 known -> 1/3.
     assert abs(coverage("강아지가 강아지를 좋아해요.", {("좋아하다", "VV")}) - 1 / 3) < 1e-9
+
+
+def test_known_aliases_bridge_list_and_text_tags():
+    from app.coverage import expand_known
+
+    known = expand_known({("감사하다", "VA"), ("아니다", "VA"), ("그럼", "MAG"), ("쓰다", "VA")})
+    assert coverage("감사합니다. 아니에요. 그럼 가요.", known | {("가다", "VV")}) == 1.0
+    assert ("쓰다", "VV") not in known  # only -하다 predicates bridge VV/VA

@@ -8,17 +8,22 @@ from kiwipiepy import Kiwi
 from ..config import CONTENT_DIR
 from .rules import Morph, Token, base_tag, build_tokens
 
-__all__ = ["Token", "analyze", "content_tokens", "lemmatize", "morphemes", "proper_nouns"]
+__all__ = ["Token", "analyze", "content_tokens", "lemmatize", "morphemes", "proper_noun_glosses", "proper_nouns"]
 
 PROPER_NOUNS = CONTENT_DIR / "seed" / "proper_nouns.json"
 
 
 @lru_cache(maxsize=1)
+def proper_noun_glosses() -> dict[str, str]:
+    """Story-bible name -> English gloss."""
+    if not PROPER_NOUNS.exists():
+        return {}
+    return json.loads(PROPER_NOUNS.read_text(encoding="utf-8"))["names"]
+
+
 def proper_nouns() -> frozenset[str]:
     """Story-bible names (counted as known by coverage, SPEC 7)."""
-    if not PROPER_NOUNS.exists():
-        return frozenset()
-    return frozenset(json.loads(PROPER_NOUNS.read_text(encoding="utf-8"))["names"])
+    return frozenset(proper_noun_glosses())
 
 
 @lru_cache(maxsize=1)

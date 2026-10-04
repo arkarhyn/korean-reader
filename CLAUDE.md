@@ -54,7 +54,9 @@ Reference as needed: `docs/SPEC.md`, `docs/DATA_MODEL.md`,
 - rebuild placement vocab test: `cd server; uv run python scripts/build_placement.py`
 - ingest calibration passages: `cd server; uv run python scripts/ingest_episodes.py --seed --publish ../content/placement/calibration/*.json`
 - placement report (dry run; `--apply` writes): `cd server; uv run python scripts/placement_report.py`
-- coverage check: `TBD` (Stage 5)
+- generation context: `cd server; uv run python scripts/export_context.py` (-> `content/generation-context.json`; also `GET /api/export/generation-context`)
+- coverage check: `cd server; uv run python scripts/coverage_check.py ../content/episodes/s01/S01E001.json ...` (exit 1 on any failing draft)
+- generate a batch: `/generate-batch` skill (`.claude/skills/generate-batch/`)
 
 ## Conventions
 - Lexemes keyed by (lemma, pos). Never key vocabulary by surface form.

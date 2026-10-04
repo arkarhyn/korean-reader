@@ -1,0 +1,110 @@
+{
+  "id": "S01E005",
+  "series": "main",
+  "title_ko": "휴가",
+  "title_en": "Leave",
+  "register_tags": [
+    "banmal"
+  ],
+  "target_grammar": "G.JI_MOTHADA",
+  "status": "draft",
+  "summary": "Ethan calls Seoyun: there's a big job at work that weekend and he may not get leave for the wedding; he hasn't asked yet and only he can do it. Seoyun reminds him Dad gave him a pepper and that 준수 would be stuck next to Mom alone; they agree not to tell Mom yet. Unresolved.",
+  "paragraphs": [
+    {
+      "ko": "저녁에 이선은 혼자 집에 있었다. 한참 생각하다가 서윤이에게 전화를 했다.",
+      "en": "In the evening, Ethan was home alone. After thinking for a long while, he called Seoyun."
+    },
+    {
+      "ko": "서윤: \"이선아, 무슨 일 있어? 목소리가 안 좋아. 밥은 먹었어?\"",
+      "en": "Seoyun: \"Ethan, is something wrong? You don't sound good. Did you eat?\""
+    },
+    {
+      "ko": "이선: \"서윤아… 나 서현 씨 결혼식에 가지 못할 수도 있어.\" 서윤: \"뭐? 왜?\"",
+      "en": "Ethan: \"Seoyun... I might not be able to go to Seohyun's wedding.\" Seoyun: \"What? Why?\""
+    },
+    {
+      "ko": "이선: \"그 주말에 휴가를 받지 못할 수도 있어. 지금 일이 너무 많아. 그 주말에 큰 일이 하나 있어.\"",
+      "en": "Ethan: \"I might not be able to get leave that weekend. There's way too much work right now. There's a big job that weekend.\""
+    },
+    {
+      "ko": "서윤: \"휴가 이야기는 했어?\" 이선: \"아직 말하지 못했어. 그리고 그 일은 다른 사람한테 주지 못해. 나만 할 수 있어.\"",
+      "en": "Seoyun: \"Did you bring up the leave?\" Ethan: \"I haven't been able to say anything yet. And I can't hand that job to someone else. Only I can do it.\""
+    },
+    {
+      "ko": "서윤이는 조금 말이 없었다. \"엄마가 정말 기다리는데. 아빠도. 아빠가 너한테 고추도 줬잖아.\" 우리 엄마 아빠한테 너는 이제 정말 중요한 사람이야.",
+      "en": "Seoyun was quiet for a bit. \"Mom is really looking forward to it. Dad too. Dad even gave you a pepper.\" To my mom and dad, you're a really important person now."
+    },
+    {
+      "ko": "이선: \"나도 알아. 나도 정말 가고 싶어. 그 생각 때문에 밤에 잘 자지 못했어.\"",
+      "en": "Ethan: \"I know. I really want to go too. I couldn't sleep well at night because of it.\""
+    },
+    {
+      "ko": "서윤: \"그리고 준수는? 너 없으면 혼자 엄마 옆에 앉아야 돼. 엄마 이야기 정말 길잖아.\" 이선: \"그건 준수한테 정말 큰 문제네.\"",
+      "en": "Seoyun: \"And Junsu? Without you, he has to sit next to Mom alone. Mom's stories are really long, you know.\" Ethan: \"That's a really big problem for Junsu.\""
+    },
+    {
+      "ko": "서윤: \"엄마한테는 내가 말할까?\" 이선: \"아니야, 아직 말하지 마. 나도 아직 잘 모르니까. 곧 다시 말해 줄게.\"",
+      "en": "Seoyun: \"Should I tell Mom?\" Ethan: \"No, don't tell her yet. I don't really know yet either. I'll tell you again soon.\""
+    },
+    {
+      "ko": "서윤: \"그래. 같이 기다리자. 그리고 이선아, 너 오면 엄마가 또 '더 먹어' 할 거야.\"",
+      "en": "Seoyun: \"Okay. Let's wait together. And Ethan, if you come, Mom will say 'eat more' again.\""
+    },
+    {
+      "ko": "이선이 처음으로 웃었다. \"그건 정말 좋아. 꼭 갈게.\"",
+      "en": "For the first time, Ethan laughed. \"That I'd really like. I'll make it, I promise.\""
+    },
+    {
+      "ko": "전화가 끝나고 이선은 다시 컴퓨터 앞에 앉았다. 오늘 밤에도 할 일이 정말 많았다.",
+      "en": "After the call, Ethan sat back down at his computer. He had a lot of work to do again tonight."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "이선은 왜 결혼식에 가지 못할 수도 있어요?",
+      "prompt_en": "Why might Ethan not be able to go to the wedding?",
+      "options": [
+        "휴가를 받지 못할 수도 있어서",
+        "아파서",
+        "돈이 없어서"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "이선이 결혼식에 안 오면 준수는 어떻게 돼요?",
+      "prompt_en": "If Ethan doesn't come, what happens to Junsu?",
+      "options": [
+        "혼자 엄마 옆에 앉아야 돼요",
+        "사진을 찍지 못해요",
+        "운전해야 돼요"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "grammar_check",
+      "prompt_ko": "\"밤에 잘 자___.\" (= I couldn't sleep well.) 뭐가 맞아요?",
+      "prompt_en": "\"I ___ sleep well at night.\" Which is right?",
+      "options": [
+        "지 못했어",
+        "고 싶었어",
+        "지 마"
+      ],
+      "answer_idx": 0,
+      "target_ref": "G.JI_MOTHADA"
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"휴가\"는 무슨 뜻이에요?",
+      "prompt_en": "What does 휴가 mean?",
+      "options": [
+        "time off / leave",
+        "wedding",
+        "work"
+      ],
+      "answer_idx": 0,
+      "target_ref": "휴가"
+    }
+  ]
+}

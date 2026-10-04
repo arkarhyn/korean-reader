@@ -32,6 +32,7 @@ def test_cast_names_stay_whole():
     ("저보다 커요. 더 먹어. 제일 좋아.", "G.BODA", 3),
     ("아버지가 쓰시던 삽. 좋았던 것 같아. 가 보던데.", "G.DEON", 2),
     ("공부하지 못했어요. 못 갔어요.", "G.JI_MOTHADA", 1),
+    ("가지 못할 수도 있어. 받지 못할 거야.", "G.JI_MOTHADA", 2),
     ("친해졌어요. 일 년 동안. 일에 대해. 가족을 위해. 자랑스러워요.", "G.EOJIDA", 1),
 ])
 def test_grammar_patterns(text, code, n):
@@ -78,7 +79,9 @@ def test_check_draft_flags_new_grammar_and_unpatterned_target(seeded):
 
 
 def test_ingest_fills_new_and_review_lexemes(seeded):
-    ingest_episode(seeded, _doc("반찬이 정말 맛있습니다. 김치도 좋아요."), fake_lookup, publish=True)
+    ingest_episode(seeded, _doc("반찬이 정말 맛있습니다. 김치도 좋아요. 서윤아!"), fake_lookup, publish=True)
+    name = seeded.scalar(select(Lexeme).where(Lexeme.lemma == "서윤"))
+    assert (name.gloss_en, name.gloss_source) == ("Seoyun (name)", "manual")
     ep = seeded.get(Episode, "S01E001")
     lemma = {i: seeded.get(Lexeme, i).lemma for i in ep.new_lexemes + ep.review_lexemes}
     assert [lemma[i] for i in ep.review_lexemes] == ["반찬"]

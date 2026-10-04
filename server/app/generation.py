@@ -6,6 +6,7 @@ longest untouched.
 """
 
 import re
+from collections import Counter
 from dataclasses import dataclass, field
 from typing import Any
 
@@ -154,7 +155,8 @@ def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] |
     known = known_keys(session) if known is None else known
     names = proper_nouns()
     text = doc.text_ko
-    toks = analyze(text)
+    # Per paragraph, exactly as ingest does: Kiwi's reading depends on context.
+    toks = [t for para in doc.paragraphs for t in analyze(para.ko)]
     cov = coverage(toks, known, names)
     counts: dict[tuple[str, str], int] = {}
     for t in toks:
@@ -170,7 +172,7 @@ def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] |
                                lx.freq_rank if lx else None, lx.gloss_en if lx else ""))
 
     gstates = {g.code: g.state for g in session.scalars(select(GrammarState))}
-    grammar_counts = count_grammar(text)
+    grammar_counts = sum((count_grammar(para.ko) for para in doc.paragraphs), Counter())
     avoid = {c: n for c, n in grammar_counts.items() if gstates.get(c, "new") == "new" and c != doc.target_grammar}
     target_count = grammar_counts.get(doc.target_grammar, 0) if doc.target_grammar else None
 

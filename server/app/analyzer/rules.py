@@ -157,6 +157,8 @@ def build_tokens(morphs: list[Morph], text: str) -> list[Token]:
 
         if tag in PLAIN_CONTENT_TAGS:
             content(m.start, m.end, m.form, tag)
+        elif tag == "VX" and m.form == "못하" and i > 0 and morphs[i - 1].form == "지" and morphs[i - 1].tag == "EC":
+            grammar(m, code=grammar_codes.JI_MOTHADA)  # Kiwi sometimes reads 못하 as one VX
         elif is_grammar_tag(tag):
             grammar(m)
         # Punctuation, foreign script, numbers (S*, W*) are dropped.

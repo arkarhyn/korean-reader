@@ -53,7 +53,7 @@ subset in IndexedDB (Dexie) and an outbound event queue.
 | ja_parallel | TEXT NULL | `〜ことにする` (filled from SYLLABUS_MAP) |
 | ja_diff_note | TEXT NULL | where the parallel breaks |
 | htsk_lesson | INTEGER NULL | syllabus position |
-| kiwi_pattern | JSON | morpheme sequence matcher |
+| kiwi_pattern | JSON | morpheme matcher: list of alternatives, each a list of `{form?, tag?, form_re?}` for consecutive Kiwi morphemes (`app/analyzer/patterns.py`). Filled for the Stage 5 targets and `new` points; rest in Stage 8 |
 | prereqs | JSON | list of codes |
 
 ### grammar_state
@@ -75,6 +75,7 @@ Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
 | coverage | REAL | measured at generation |
 | status | TEXT | `draft` / `published` / `retired` |
 | source | TEXT NULL | e.g. `legacy:passage/20` |
+| summary | TEXT NULL | one-line continuity note for the generator (migration 0002) |
 | created_at | DATETIME | |
 | updated_at | DATETIME | sync pull cursor |
 
@@ -115,13 +116,21 @@ Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
 
 Types: `episode_open`, `word_tap`, `episode_complete`, `question_answer`,
 `mine_word`, `flag_sentence`, `placement_answer`, `grammar_drill_answer`,
-`set_state` (manual override, e.g. ignore).
+`set_state` (manual override, e.g. ignore), `word_untap` (Stage 5).
 
 Payloads written by the Stage 3 reader:
 `episode_open {episode_id}`, `word_tap {episode_id, paragraph_idx, start, end,
 lexeme_id}`, `question_answer {episode_id, question_id, choice_idx, correct, ms}`,
 `episode_complete {episode_id, tapped_lexeme_ids}`, `flag_sentence {episode_id,
 paragraph_idx, start, end, text}`.
+
+Stage 5 reader: `set_state {lexeme_id, state, prev_state?, episode_id?}` from the
+popover "알아요" (state `known`; the undo sends the previous state). The server
+applies it on receipt (lexeme_state source `manual`, DECISIONS 54/56);
+`app.events.replay_manual_states` re-applies the log. `word_untap {episode_id,
+paragraph_idx, start, end, lexeme_id}` cancels the latest `word_tap` of that
+lexeme in the visit (mistap); `episode_complete.tapped_lexeme_ids` already
+excludes it.
 
 Placement (Stage 4) writes `placement_answer {attempt_id, section, ms, ...}`:
 `grammar {item_id, got_it}`, `vocab {item_id, yes}`, `calibration {episode_id,

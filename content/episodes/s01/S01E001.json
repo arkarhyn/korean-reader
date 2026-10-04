@@ -1,0 +1,111 @@
+{
+  "id": "S01E001",
+  "series": "main",
+  "title_ko": "첫 저녁 식사",
+  "title_en": "The First Dinner",
+  "register_tags": [
+    "hasipsio",
+    "haeyo",
+    "banmal"
+  ],
+  "target_grammar": "G.HAMNIDA",
+  "status": "draft",
+  "summary": "Ethan's first dinner at the parents' house: he is stiffly formal (합니다), Seoyun teases him, mother keeps refilling his bowl, and over fruit it is settled that he is coming to 서현's wedding next month as family.",
+  "paragraphs": [
+    {
+      "ko": "토요일 저녁, 이선은 서윤이와 같이 서윤이 부모님 댁에 갔다. 집 앞에서 이선은 조금 긴장했다.",
+      "en": "Saturday evening, Ethan went with Seoyun to her parents' house. In front of the house, he was a little nervous."
+    },
+    {
+      "ko": "서윤: \"엄마, 우리 왔어요.\" 어머니: \"이선 씨, 왔어요? 들어와요, 들어와요. 여기 앉아요.\"",
+      "en": "Seoyun: \"Mom, we're here.\" Mother: \"Ethan, you made it? Come in, come in. Sit here.\""
+    },
+    {
+      "ko": "이선: \"오늘 불러 주셔서 정말 감사합니다.\"",
+      "en": "Ethan: \"Thank you so much for inviting me tonight.\""
+    },
+    {
+      "ko": "서윤이 작은 목소리로 말했다. \"왜 그렇게 말해? 여기 우리 집이야. 회사 아니야.\" 이선도 작게 말했다. \"처음이잖아. 나 지금 너무 긴장했어.\"",
+      "en": "Seoyun said in a small voice, \"Why are you talking like that? This is our house, not an office.\" Ethan whispered back, \"It's my first time. I'm really nervous right now.\""
+    },
+    {
+      "ko": "식탁 위에 맛있는 반찬이 정말 많았다. 어머니는 이선의 그릇에 계속 고기를 넣었다.",
+      "en": "There were so many delicious side dishes on the table. Mother kept putting meat in Ethan's bowl."
+    },
+    {
+      "ko": "어머니: \"많이 먹어요. 이것도 먹어 봐요. 내가 만든 거예요.\" 이선: \"네, 잘 먹겠습니다. 정말 맛있습니다.\"",
+      "en": "Mother: \"Eat a lot. Try this too. I made it.\" Ethan: \"Yes, thank you for the food. It's really delicious.\""
+    },
+    {
+      "ko": "아버지가 웃으면서 말했다. \"이선 씨, 한국 음식 잘 먹네요. 나도 처음 이 사람 집에 갔을 때 많이 긴장했어요.\" 어머니: \"아니에요. 이 사람은 밥만 먹었어요.\"",
+      "en": "Father smiled and said, \"Ethan, you eat Korean food well. I was very nervous too the first time I went to her family's house.\" Mother: \"No, you weren't. All he did was eat.\""
+    },
+    {
+      "ko": "어머니가 또 고기를 넣었다. \"더 먹어요, 더.\" 서윤: \"엄마, 이선 씨 밥 두 그릇 먹었어요.\"",
+      "en": "Mother put in more meat again. \"Eat more, more.\" Seoyun: \"Mom, Ethan has had two bowls of rice.\""
+    },
+    {
+      "ko": "식사 후에 다 같이 과일을 먹었다. 그때 어머니가 이선에게 말했다. \"곧 서현이 결혼식이 있어요. 이선 씨도 같이 가죠?\"",
+      "en": "After dinner, everyone ate fruit together. Then Mother said to Ethan, \"Seohyun's wedding is coming up soon. You're coming with us, right?\""
+    },
+    {
+      "ko": "이선: \"네? 저도 가도 됩니까?\" 어머니: \"같이 가야죠. 이선 씨도 이제 우리 가족이에요.\"",
+      "en": "Ethan: \"Pardon? I can come too?\" Mother: \"Of course you're coming. You're part of our family now.\""
+    },
+    {
+      "ko": "아버지가 이선을 보고 말했다. \"결혼식에서는 그렇게 긴장하지 마요.\" 모두 웃었다. 이선도 웃었다. \"네, 꼭 가겠습니다.\"",
+      "en": "Father looked at Ethan and said, \"Don't be that nervous at the wedding.\" Everyone laughed. Ethan laughed too. \"Yes, I'll definitely be there.\""
+    },
+    {
+      "ko": "집에 돌아오는 차 안에서 서윤이가 이선을 보고 웃었다. \"거 봐. 우리 가족 다 너 좋대.\" 이선: \"정말? 나는 너무 긴장해서 밥 맛도 몰랐어.\"",
+      "en": "In the car on the way home, Seoyun looked at Ethan and laughed. \"See? My whole family likes you.\" Ethan: \"Really? I was so nervous I couldn't even taste the food.\""
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "서윤이는 왜 이선에게 \"회사 아니야\"라고 했어요?",
+      "prompt_en": "Why did Seoyun tell Ethan \"this isn't an office\"?",
+      "options": [
+        "이선이 너무 딱딱하게 말해서",
+        "이선이 회사에 늦어서",
+        "이선이 밥을 안 먹어서"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "이선은 밥을 몇 그릇 먹었어요?",
+      "prompt_en": "How many bowls of rice did Ethan eat?",
+      "options": [
+        "한 그릇",
+        "두 그릇",
+        "세 그릇"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "다음 달에 무슨 일이 있어요?",
+      "prompt_en": "What is happening next month?",
+      "options": [
+        "서윤이의 생일",
+        "서현이의 결혼식",
+        "아버지의 여행"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"가족\"은 무슨 뜻이에요?",
+      "prompt_en": "What does 가족 mean?",
+      "options": [
+        "family",
+        "friend",
+        "guest"
+      ],
+      "answer_idx": 0,
+      "target_ref": "가족"
+    }
+  ]
+}

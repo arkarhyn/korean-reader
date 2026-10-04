@@ -45,7 +45,7 @@
     {"code": "G.EOJIDA", "htsk_lesson": 18, "label_ko": "-아/어지다", "ja_parallel": "〜くなる", "ja_diff_note": "With adjectives = become; with verbs = passive (Lesson 14 territory).", "kiwi_pattern": [[{"tag": "EC", "form": ["어", "아"]}, {"tag": "VX", "form": "지"}]]},
     {"code": "G.BODA", "htsk_lesson": 19, "label_ko": "보다 / 더 / 가장", "ja_parallel": "より／もっと／一番", "ja_diff_note": "Close match.", "kiwi_pattern": [[{"tag": "JKB", "form": "보다"}], [{"tag": "MAG", "form": ["더", "가장", "제일"]}]]},
     {"code": "G.NEG_MOT", "htsk_lesson": 20, "label_ko": "못 + 용언", "ja_parallel": "〜できない", "ja_diff_note": "Inability by negation, not a potential form."},
-    {"code": "G.JI_MOTHADA", "htsk_lesson": 20, "label_ko": "-지 못하다", "ja_parallel": "〜できない (長形)", "ja_diff_note": "Long form of 못.", "kiwi_pattern": [[{"tag": "EC", "form": "지"}, {"tag": "MAG", "form": "못"}, {"form": "하"}]]},
+    {"code": "G.JI_MOTHADA", "htsk_lesson": 20, "label_ko": "-지 못하다", "ja_parallel": "〜できない (長形)", "ja_diff_note": "Long form of 못.", "kiwi_pattern": [[{"tag": "EC", "form": "지"}, {"tag": "MAG", "form": "못"}, {"form": "하"}], [{"tag": "EC", "form": "지"}, {"tag": "VX", "form": "못하"}]]},
     {"code": "G.QWORDS", "htsk_lesson": 21, "label_ko": "왜/언제/어디/누구/어떻게/뭐/어느/몇", "ja_parallel": "疑問詞", "ja_diff_note": "Same words double as indefinites (뭐 = 何か) by intonation."},
     {"code": "G.IRREG_H", "htsk_lesson": 23, "label_ko": "ㅎ 불규칙 (이렇다, 빨개요)", "ja_parallel": null, "ja_diff_note": null},
     {"code": "G.GI_JEONE", "htsk_lesson": 24, "label_ko": "-기 전에", "ja_parallel": "〜前に", "ja_diff_note": "Close match."},

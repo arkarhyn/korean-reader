@@ -1,7 +1,17 @@
 {
-  "_note": "Story-bible proper nouns (docs/STORY_BIBLE.md). Registered as Kiwi user words (NNP) so names don't split (서윤아 -> 서윤 + 아), and counted as known for coverage (SPEC 7). Add new canon names here.",
-  "names": [
-    "이선", "서윤", "강서윤", "서현", "강서현", "준수", "강준수",
-    "정호", "강정호", "미숙", "박미숙", "마이클"
-  ]
+  "_note": "Story-bible proper nouns (docs/STORY_BIBLE.md). Registered as Kiwi user words (NNP) so names don't split (서윤아 -> 서윤 + 아), counted as known for coverage (SPEC 7), and glossed from here (gloss_source manual). Add new canon names here.",
+  "names": {
+    "이선": "Ethan (name)",
+    "서윤": "Seoyun (name)",
+    "강서윤": "Kang Seoyun (name)",
+    "서현": "Seohyun (name; Seoyun's older sister)",
+    "강서현": "Kang Seohyun (name)",
+    "준수": "Junsu (name; Seoyun's younger brother)",
+    "강준수": "Kang Junsu (name)",
+    "정호": "Jeongho (name; Seoyun's father)",
+    "강정호": "Kang Jeongho (name)",
+    "미숙": "Misuk (name; Seoyun's mother)",
+    "박미숙": "Park Misuk (name)",
+    "마이클": "Michael (name; Seohyun's fiancé)"
+  }
 }

@@ -11,9 +11,9 @@ from dataclasses import dataclass, field
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from .analyzer import analyze, grammar_codes, proper_nouns
+from .analyzer import analyze, grammar_codes, proper_noun_glosses, proper_nouns
 from .content.schema import Episode as EpisodeDoc
-from .coverage import coverage
+from .coverage import coverage, expand_known
 from .db.models import Episode, EpisodeParagraph, GrammarPoint, GrammarState, Lexeme, LexemeState, Question, utcnow
 from .krdict.client import KrdictEntry
 from .seed import load_flagged_vocab, load_grammar_points
@@ -60,6 +60,8 @@ def get_or_create_lexeme(session: Session, lemma: str, pos: str, lookup: Lookup 
     if created:
         lex = Lexeme(lemma=lemma, pos=pos, gloss_en="", gloss_source="none")
         session.add(lex)
+    if lex.gloss_source == "none" and pos == "NNP" and lemma in proper_noun_glosses():
+        lex.gloss_en, lex.gloss_source = proper_noun_glosses()[lemma], "manual"
     if lex.gloss_source == "none" and lookup is not None:
         entry = lookup(lemma, pos)
         if entry is not None:
@@ -73,10 +75,10 @@ def get_or_create_lexeme(session: Session, lemma: str, pos: str, lookup: Lookup 
 
 
 def known_keys(session: Session) -> set[tuple[str, str]]:
-    """SPEC 7 known set. `learning` joins once FSRS retrievability exists (Stage 6)."""
+    """SPEC 7 known set (with tag aliases). `learning` joins once FSRS retrievability exists (Stage 6)."""
     rows = session.execute(
         select(Lexeme.lemma, Lexeme.pos).join(LexemeState).where(LexemeState.state.in_(("known", "ignored"))))
-    return {(r.lemma, r.pos) for r in rows}
+    return expand_known((r.lemma, r.pos) for r in rows)
 
 
 def episode_lexeme_sets(session: Session, lexeme_ids: set[int]) -> tuple[list[int], list[int]]:

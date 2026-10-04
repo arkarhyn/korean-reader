@@ -1,0 +1,148 @@
+{
+  "id": "S01E002",
+  "series": "main",
+  "title_ko": "가족 단톡방",
+  "title_en": "The Family Group Chat",
+  "register_tags": [
+    "banmal",
+    "haeyo",
+    "hasipsio"
+  ],
+  "target_grammar": "G.HUMBLE_PRON",
+  "status": "draft",
+  "summary": "Seohyun adds Ethan to the family KakaoTalk group. His replies are absurdly formal; 준수 starts calling him 형 and tells him to talk to him like a friend. Seohyun hands out wedding jobs (준수 photos, Seoyun food with Mom, Ethan picking people up with Dad). Seoyun calls and sorts out 제가 할게요 (to 언니) vs 내가 할게 (to 준수). Mom invites him for 김밥 next weekend.",
+  "paragraphs": [
+    {
+      "ko": "다음 날 아침, 서현이 이선을 가족 단톡방에 넣었다.",
+      "en": "The next morning, Seohyun added Ethan to the family group chat."
+    },
+    {
+      "ko": "서현: 이선 씨 들어왔어요!",
+      "en": "Seohyun: Ethan's here!"
+    },
+    {
+      "ko": "어머니: 이선 씨 😊 아침 먹었어요?",
+      "en": "Mom: Ethan 😊 Did you have breakfast?"
+    },
+    {
+      "ko": "아버지: 👍",
+      "en": "Dad: 👍"
+    },
+    {
+      "ko": "이선: 네, 아침 먹었습니다. 넣어 주셔서 정말 감사합니다.",
+      "en": "Ethan: Yes, I had breakfast. Thank you very much for adding me."
+    },
+    {
+      "ko": "준수: ㅋㅋㅋ 형, 여기 회사 아니야 ㅋㅋ",
+      "en": "Junsu: lol bro, this isn't an office lol"
+    },
+    {
+      "ko": "서윤: 준수야, 너 왜 이선 씨한테 그렇게 말해?",
+      "en": "Seoyun: Junsu, why are you talking to Ethan like that?"
+    },
+    {
+      "ko": "준수: 이제 형이잖아. 형도 나한테 친구처럼 말해. 그게 더 좋아.",
+      "en": "Junsu: He's my hyung now. Hyung, talk to me like a friend too. That's better."
+    },
+    {
+      "ko": "이선: 알겠습니다. 아… 좋아, 준수야.",
+      "en": "Ethan: Understood. Ah... okay, Junsu."
+    },
+    {
+      "ko": "서현: 이제 결혼식 이야기! 할 일이 정말 많아요. 준수는 사진. 서윤이는 엄마랑 같이 음식.",
+      "en": "Seohyun: Now, wedding talk! There's so much to do. Junsu, photos. Seoyun, food with Mom."
+    },
+    {
+      "ko": "준수: 왜 또 사진이야? 형이 더 잘해.",
+      "en": "Junsu: Why photos again? Hyung's better at it."
+    },
+    {
+      "ko": "서현: 안 돼, 준수야. 이선 씨는 아빠랑 같이 차로 사람들 좀 데려가 줄 수 있어요?",
+      "en": "Seohyun: Nope, Junsu. Ethan, could you go with Dad and take people around by car?"
+    },
+    {
+      "ko": "이선: 네, 제가 하겠습니다! 아… 내가 할게요.",
+      "en": "Ethan: Yes, I will do it! Ah... I'll do it."
+    },
+    {
+      "ko": "서현: 그리고 하루 전에 다 같이 저녁 먹어요. 이선 씨도 꼭 와요! 시간은 다음에 말할게요.",
+      "en": "Seohyun: And the day before, we're all having dinner together. Ethan, you have to come too! I'll tell you the time later."
+    },
+    {
+      "ko": "준수: 형, 그때 우리 같이 앉자 ㅋㅋ 엄마 이야기는 정말 길어.",
+      "en": "Junsu: Hyung, let's sit together then lol. Mom's stories are sooo long."
+    },
+    {
+      "ko": "어머니: 이선 씨, 다음 주말에 또 와요. 김밥 많이 만들 거예요. 준수야, 이선 씨한테 너무 그러지 마.",
+      "en": "Mom: Ethan, come again next weekend. I'm going to make lots of kimbap. Junsu, don't pester Ethan so much."
+    },
+    {
+      "ko": "이선: 정말요? 감사합니다! 꼭 가겠습니다.",
+      "en": "Ethan: Really? Thank you! I'll definitely come."
+    },
+    {
+      "ko": "준수: 형 또 ㅋㅋㅋ",
+      "en": "Junsu: Hyung, again lol"
+    },
+    {
+      "ko": "아버지: 김밥 👍",
+      "en": "Dad: Kimbap 👍"
+    },
+    {
+      "ko": "그때 서윤에게서 전화가 왔다. \"'내가 할게요'는 또 뭐야? 우리 언니한테는 '제가 할게요', 준수한테는 '내가 할게'. 꼭!\"",
+      "en": "Just then Seoyun called. \"What was 'nae-ga halgeyo'? To my sister it's 'je-ga halgeyo,' and to Junsu it's 'nae-ga halge.' Don't forget!\""
+    },
+    {
+      "ko": "이선: \"언니, 형, 어머님… 다 달라. 정말 어렵다.\" 서윤: \"우리 아빠보다는 말 많이 했어. 아빠는 👍만 보냈잖아.\" 이선: \"아, 다음에는 👍만 보낼래.\"",
+      "en": "Ethan: \"Eonni, hyung, eomeonim... they're all different. It's really hard.\" Seoyun: \"You still said more than my dad. Dad only sent 👍.\" Ethan: \"Ah, next time I'll just send 👍.\""
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "준수는 이선을 뭐라고 불러요?",
+      "prompt_en": "What does Junsu call Ethan?",
+      "options": [
+        "이선 씨",
+        "형",
+        "오빠"
+      ],
+      "answer_idx": 1
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "결혼식 때 이선은 무슨 일을 해요?",
+      "prompt_en": "What job does Ethan get for the wedding?",
+      "options": [
+        "사진",
+        "음식",
+        "아빠랑 같이 차로 사람들을 데려가요"
+      ],
+      "answer_idx": 2
+    },
+    {
+      "kind": "grammar_check",
+      "prompt_ko": "준수한테 말할 때 이선은 뭐라고 해야 돼요?",
+      "prompt_en": "What should Ethan say when talking to Junsu?",
+      "options": [
+        "제가 할게요",
+        "내가 할게",
+        "제가 하겠습니다"
+      ],
+      "answer_idx": 1,
+      "target_ref": "G.HUMBLE_PRON"
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "서윤이는 서현이를 \"언니\"라고 불러요. \"언니\"는 무슨 뜻이에요?",
+      "prompt_en": "Seoyun calls Seohyun 언니. What does 언니 mean?",
+      "options": [
+        "a woman's older sister",
+        "a man's older brother",
+        "a younger sibling"
+      ],
+      "answer_idx": 0,
+      "target_ref": "언니"
+    }
+  ]
+}
