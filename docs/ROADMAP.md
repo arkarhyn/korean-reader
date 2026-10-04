@@ -38,7 +38,7 @@ reconnect, events land once on server.
 each calibration passage's observed tap rate falls inside the leave-one-out
 95% predictive interval (changed from +/- 2%, DECISIONS 50).
 
-## Stage 5 -- Generator loop (`/generate-batch` in Claude Code)  <- CURRENT
+## Stage 5 -- Generator loop (`/generate-batch` in Claude Code)  <- CURRENT (built + batch published 2026-10-04; awaiting Austin's naturalness read)
 - Design session first (Project): STORY_BIBLE.md.
 - Popover "알아요" (mark known) and un-tap for mistaps (DECISIONS 54).
 - `GET /export/generation-context`; coverage CLI; swap loop; second-pass

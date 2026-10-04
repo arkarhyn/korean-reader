@@ -1,5 +1,55 @@
 # STATUS
 
+## 2026-10-04 -- Stage 5 (Claude Code, overnight)
+**Done (branch `stage-5`):**
+- Popover "알아요" (mark known; "✓ 알아요 · 취소" undoes within the visit) and
+  "잘못 눌렀어요" (un-tap a mistap). `set_state` is applied by the server on receipt
+  (`app/events.py`, replayable); new `word_untap` event. Checked in Chrome
+  against a DB copy: mark -> sync -> server known 419->420, undo -> 419, un-tap
+  logged, tap highlight cleared.
+- `GET /api/export/generation-context` + `scripts/export_context.py`;
+  `scripts/coverage_check.py` (coverage, new/due words, target grammar count,
+  length, `new`-grammar warnings); `episode.summary` (migration 0002); ingest
+  fills `new_lexemes` / `review_lexemes`.
+- Grammar pattern matcher (`app/analyzer/patterns.py`) with kiwi_pattern for
+  the 5 targets + the `new` points. Story names as Kiwi user words, known for
+  coverage, glossed (`content/seed/proper_nouns.json`). Known-set tag aliases
+  (DECISIONS 59).
+- `/generate-batch` skill + second-pass reviewer prompt (`.claude/skills/generate-batch/`).
+- **Batch S01E001-005 published live** (95.1-95.6%, 3-6 new words each,
+  target grammar 4-6x, 1-2 due words each). Second-pass review by a fresh
+  subagent (scores 4 / 4 / 3.5 / 4 / 2.5): fixed a cultural error in E3 (the
+  bride's parents receive 축의금, they don't give it), early address terms
+  (어머님, 서현 씨 before Ep 7), and E5's drill-like -지 못하다 in casual speech
+  (now 못 in speech, long form in narration). Canon log appended to STORY_BIBLE.
+- Deployed: live DB backed up, migrated to 0002, seeded, episodes ingested,
+  web/dist rebuilt, service restarted. Server 108 tests, web 17, tsc clean.
+
+**Acceptance status:** batch criteria met by the checker (band, target
+grammar 4-6x, due words present). **Remaining: Austin reads 3 episodes and
+rates naturalness (>= 4/5)** -- then mark Stage 5 DONE.
+
+**Read this first (Austin):** the generator writes against the DB's known set,
+which placement left very narrow (419 words; 응, 괜찮다, 언니, 알다, 가족, 좋아하다
+all count as unknown). So these episodes are simpler than your real level, and
+some "new" words aren't new to you. Tap **알아요** on every word you know as
+you read -- each tap widens what the next batch can use (DECISIONS 60).
+
+**Next:** Austin's naturalness read (+ "sounds off" flags). Then Stage 6
+(hidden SRS). Next batch must resolve E5's leave cliffhanger.
+
+**Open issues:**
+- Live DB backups: `%TEMP%\kr5\live_backup_pre_stage5.db`,
+  `%TEMP%\kr5\live_backup_pre_publish.db` (bash `$TEMP/kr5`).
+- NIKL import oddities: 문 is stored as NNP (rank 469); 달 (month) is NNB but Kiwi
+  tags 다음 달 as NNG "moon"; 제일 splits into 제 + 일/NR; 이렇게 is MAG with no
+  lexeme; 그날 / 다음 주말 parse inconsistently.
+- Earlier-batch new words (고기, 결혼식, 가족...) stay unknown until tapped
+  알아요 or Stage 6, so they eat each later episode's 3-6 new-word budget.
+- 단톡방 gloss is `llm` (no krdict entry).
+- Carried over from Stage 4: rare-rank compounds, -성/-적/-화 derived forms,
+  낡다 no gloss, krdict API down, light theme, iOS ko-KR voice, key rotation.
+
 ## 2026-10-03 -- Stage 4 (Claude Code)
 **Done (branch `stage-4`):**
 - Grammar points for HTSK 1-28 (`content/seed/grammar_points.json`, 54 codes)

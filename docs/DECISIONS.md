@@ -229,9 +229,47 @@ Do not reverse an entry without asking Austin.
     non-frequency-shaped, so the app will often treat known words as new;
     one tap should fix that rather than waiting for Stage 6 promotion.
 
+## 2026-10-04 (Stage 5, Claude Code)
+
+55. **Stage 5 run overnight with Austin's up-front answers:** proceed on the
+    plan without plan-mode approval; publish passing episodes live and deploy;
+    Kiwi patterns only for the batch's target points; "due" = `learning` +
+    `seen` until FSRS (Stage 6). Rejected: plan only; drafts unpublished; a
+    Claude self-count for grammar; skipping due words.
+56. **`set_state` is applied on event receipt** (`app/events.py`), source
+    `manual`, idempotent and replayable (`replay_manual_states`). The undo of
+    "알아요" sends `set_state` with the previous state (still source `manual`,
+    so a placement re-fit leaves it alone). Rejected: waiting for a derivation
+    job (DECISIONS 54 wants an immediate fix); storing prior source server-side
+    (the log must stay client-authored).
+57. **Mistap = new event `word_untap`** (same payload as `word_tap`); the tap
+    stays in the log. "알아요" also un-taps the word (knowing it means the tap
+    wasn't a lookup). Placement mode shows only the mistap button. Rejected:
+    deleting the queued `word_tap` (events are append-only).
+58. **Story-bible names live in `content/seed/proper_nouns.json`**: Kiwi user
+    words (NNP) so 서윤아 / 이선 stay whole, known for coverage (SPEC 7), glossed
+    `manual` ("Ethan (name)"). Rejected: parsing names out of STORY_BIBLE.md.
+59. **Coverage uses tag aliases for the known set only** (`coverage.known_aliases`):
+    -하다 predicates VV<->VA, 아니다 VA<->VCN, MAG/MAJ/IC, NNG<->NNP. Lexemes stay
+    keyed by (lemma, pos). Reason: the NIKL list and Kiwi disagree on tags
+    (감사하다 is VA in the list, VV from 감사합니다; 아니다 is 형 in the list),
+    which made known words count as unknown.
+60. **Generator targets 95-98% against the DB as it is**, even though placement
+    under-counts Austin's vocabulary (응, 괜찮다, 언니, 알다 count unknown). Episodes
+    are therefore simpler than his real level until 알아요 taps catch up.
+    Rejected: an "assumed known" list for generation (contradicts placement,
+    hides the gap); generating at the real level (fails the stage criterion).
+61. **Batch targets (one per episode, all `practicing`):** S01E001 G.HAMNIDA,
+    E002 G.HUMBLE_PRON, E003 G.BODA, E004 G.DEON, E005 G.JI_MOTHADA. The arc's
+    `new` points (동안, 에 대해, -아/어지다, 위해) wait for lesson cards
+    (Stage 8). Every unknown word counts toward the 3-6 "new words",
+    including earlier-batch new words still without a state.
+62. **The draft checker analyzes paragraph by paragraph**, exactly like ingest.
+    Kiwi's reading depends on context (어머니 came out NNP in the joined text).
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.
 - ~~O4 deploy target~~ -> resolved, see 32.
-- **O2 Story bible details** (names, city, cast) -- next Project design session.
+- ~~O2 Story bible details~~ -> resolved by STORY_BIBLE v3 (2026-10-04).
 - **O3 Kanji set for Sino-Korean transparency weighting** -- off until built.

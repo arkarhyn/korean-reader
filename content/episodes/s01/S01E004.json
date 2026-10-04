@@ -12,28 +12,28 @@
   "summary": "Father shows Ethan his 텃밭 and learns Ethan grows peppers too. He remembers the girls playing there as kids, quietly admits he isn't ready for 서현 to leave home, and asks about Ethan's military computer job and what comes after 전역 (in two years). He gives Ethan his biggest pepper, which he never does.",
   "paragraphs": [
     {
-      "ko": "토요일 오후, 아버지가 이선을 밖으로 불렀다. 집 옆에 작은 텃밭이 있었다.",
-      "en": "Saturday afternoon, Father called Ethan outside. Next to the house was a small vegetable garden."
+      "ko": "토요일 오후, 아버지가 이선을 집 밖으로 불렀다.",
+      "en": "Saturday afternoon, Father called Ethan outside."
     },
     {
       "ko": "아버지: \"이선 씨, 여기 와 봐요. 이게 내 텃밭이에요.\"",
       "en": "Father: \"Ethan, come take a look. This is my garden.\""
     },
     {
-      "ko": "이선: \"정말 크네요! 저도 집에서 고추를 키워요.\" 아버지가 이선을 보았다. \"정말요? 이선 씨도요?\"",
-      "en": "Ethan: \"These are really big! I grow peppers at home too.\" Father looked at Ethan. \"Really? You too?\""
+      "ko": "이선: \"고추가 정말 크네요! 저도 집에서 고추를 키워요.\" 아버지가 이선을 보았다. \"정말요? 이선 씨도요? 어디에서 해요?\" 이선: \"집 앞에 조금 있어요.\"",
+      "en": "Ethan: \"Your peppers are really big! I grow peppers at home too.\" Father looked at Ethan. \"Really? You too? Where do you grow them?\" Ethan: \"I have a little patch in front of my place.\""
     },
     {
-      "ko": "아버지는 처음으로 크게 웃었다. 그리고 그 앞에 앉았다. \"내가 한국에서 살던 집에도 이런 게 있었어요. 여기는 전에 서현이랑 서윤이가 놀던 곳이에요. 그때는 정말 작았어요.\"",
-      "en": "For the first time, Father laughed out loud. Then he sat down in front of it. \"The house I lived in back in Korea had one of these too. This is where Seohyun and Seoyun used to play. They were so small back then.\""
+      "ko": "아버지는 처음으로 크게 웃었다. 그리고 텃밭 앞에 앉았다. \"내가 한국에서 살던 집에도 이런 게 있었어요. 여기는 전에 서현이랑 서윤이가 놀던 곳이에요. 그때는 아이들이 정말 작았어요.\"",
+      "en": "For the first time, Father laughed out loud. Then he sat down in front of the garden. \"The house I lived in back in Korea had one of these too. This is where Seohyun and Seoyun used to play. The girls were so small back then.\""
     },
     {
-      "ko": "아버지가 하늘을 보면서 말했다. \"그 아이가 이제 우리 집을 떠나요. 나는 아직 그게 어려워요.\" 이선은 말없이 아버지 옆에 앉았다.",
-      "en": "Looking up at the sky, Father said, \"That girl is leaving our home now. That's still hard for me.\" Ethan sat down next to him without a word."
+      "ko": "아버지가 하늘을 보면서 말했다. \"이제 서현이 결혼식이에요. 나는 아직… 잘 모르겠어요.\" 이선은 말없이 아버지 옆에 앉았다.",
+      "en": "Looking up at the sky, Father said, \"Now it's Seohyun's wedding. I'm still... not sure how I feel.\" Ethan sat down next to him without a word."
     },
     {
-      "ko": "아버지: \"이선 씨는 무슨 일 해요? 군대에 있다고 들었어요.\" 이선: \"네, 컴퓨터 일을 해요.\"",
-      "en": "Father: \"What do you do, Ethan? I heard you're in the military.\" Ethan: \"Yes, I do computer work.\""
+      "ko": "아버지: \"이선 씨는 무슨 일 해요? 서윤이한테 조금 들었어요.\" 이선: \"네, 컴퓨터 일을 해요.\"",
+      "en": "Father: \"What do you do, Ethan? Seoyun told me a little.\" Ethan: \"Yes, I do computer work.\""
     },
     {
       "ko": "아버지: \"전역하면 뭐 할 거예요?\" 이선: \"아직 시간이 있어요. 잘 모르겠어요. 그런데 계속 컴퓨터 일을 하고 싶어요.\"",
@@ -44,12 +44,12 @@
       "en": "Father: \"At the company I used to work for, there was a guy who did computer work like you. He works at a big company now. You'll do well too.\""
     },
     {
-      "ko": "아버지는 가장 큰 고추를 하나 이선에게 줬다. \"이거 받아요. 다음에 또 와요. 여기 할 일이 많아요.\" 이선: \"감사합니다. 꼭 다시 올게요.\"",
-      "en": "Father gave Ethan the biggest pepper. \"Take this. Come again next time. There's a lot to do out here.\" Ethan: \"Thank you. I'll definitely come back.\""
+      "ko": "아버지는 가장 큰 걸 하나 이선에게 줬다. \"이거 받아요. 다음에 또 와요. 여기 할 일이 많아요.\" 이선: \"감사합니다. 꼭 다시 올게요.\"",
+      "en": "Father gave Ethan the biggest one. \"Take this. Come again next time. There's a lot to do out here.\" Ethan: \"Thank you. I'll definitely come back.\""
     },
     {
-      "ko": "집 안에서 서윤이가 그걸 보고 말했다. \"아빠가 그거 줬어? 아빠는 그거 누구한테도 안 줘. 아빠가 너 정말 좋은가 봐.\"",
-      "en": "Inside the house, Seoyun saw it and said, \"Dad gave you that? Dad never gives those to anyone. He must really like you.\""
+      "ko": "집 안에서 서윤이가 그걸 보고 말했다. \"아빠가 그거 줬어? 아빠는 그거 누구한테도 안 줘. 아빠가 너 정말 좋게 보나 봐.\"",
+      "en": "Inside the house, Seoyun saw it and said, \"Dad gave you that? Dad never gives those to anyone. He must really think well of you.\""
     }
   ],
   "questions": [

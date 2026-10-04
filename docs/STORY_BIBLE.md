@@ -118,4 +118,9 @@ apartment / the rehearsal dinner, the driving-range outing, and the reception (E
 - Humor comes from situations and language slips, never from ethnic stereotypes.
 
 ## Canon log
-(empty -- generator appends)
+- S01E001: First dinner is on a Saturday; Ethan uses stiff 합니다체 and Seoyun teases "여기 우리 집이야, 회사 아니야." Father admits he was nervous at his own first visit to Mother's family (Mother: he just ate). Mother says "이선 씨도 이제 우리 가족이에요." The wedding is "soon" (no date said yet).
+- S01E002: Family group chat: Mom asks "아침 먹었어요?", Dad replies only with 👍. 준수 calls Ethan 형 and asks for 반말; Ethan answers "그래, 준수야." Jobs: 준수 photos, Seoyun food with Mom, Ethan picks people up by car with Dad. Family dinner the day before the wedding (rehearsal dinner, Ep 8); 준수 wants to sit with Ethan because Mom's stories run long. Seoyun's rule: 언니한테는 '제가', 준수한테는 '내가'.
+- S01E003: Ethan comes back the next Saturday for 김밥. Mom slips into 반말 and Ethan asks her to "말 편하게 하세요" -- she now uses 반말 with him (still "이선 씨"). Dad claims he made the 김밥; he only made the rice (running bit "밥만!"). Mom explains 축의금; Ethan and Seoyun will give one envelope together. Ethan wrote his name in Korean on an envelope.
+- S01E004: Father's 텃밭 is beside the house; the girls played there as kids. Father grew up in a house in Korea that had a garden. Ethan grows peppers in a small patch in front of his place. Father is "not sure" about 서현's wedding. He knows Ethan does computer work in the military and gets out (전역) later; a former coworker of his went from military computer work to a big company. Father gave Ethan his biggest pepper -- he never gives his peppers away.
+- S01E005: Ethan may not get leave for the wedding weekend: an important job at work only he can do; he hasn't asked yet. Seoyun hasn't told Mom (Ethan asked her not to). Unresolved; next batch must resolve it.
+

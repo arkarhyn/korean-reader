@@ -13,8 +13,8 @@
   "summary": "Seohyun adds Ethan to the family KakaoTalk group. His replies are absurdly formal; 준수 starts calling him 형 and tells him to talk to him like a friend. Seohyun hands out wedding jobs (준수 photos, Seoyun food with Mom, Ethan picking people up with Dad). Seoyun calls and sorts out 제가 할게요 (to 언니) vs 내가 할게 (to 준수). Mom invites him for 김밥 next weekend.",
   "paragraphs": [
     {
-      "ko": "다음 날 아침, 서현이 이선을 가족 단톡방에 넣었다.",
-      "en": "The next morning, Seohyun added Ethan to the family group chat."
+      "ko": "다음 날 아침, 서현이 이선을 단톡방에 넣었다. 엄마, 아빠, 준수, 서윤이가 다 있는 방이었다.",
+      "en": "The next morning, Seohyun added Ethan to a group chat. Mom, Dad, Junsu and Seoyun were all in it."
     },
     {
       "ko": "서현: 이선 씨 들어왔어요!",
@@ -41,32 +41,32 @@
       "en": "Seoyun: Junsu, why are you talking to Ethan like that?"
     },
     {
-      "ko": "준수: 이제 형이잖아. 형도 나한테 친구처럼 말해. 그게 더 좋아.",
-      "en": "Junsu: He's my hyung now. Hyung, talk to me like a friend too. That's better."
+      "ko": "준수: 이제 형이잖아. 형도 나한테 말 편하게 해.",
+      "en": "Junsu: He's my hyung now. Hyung, you can talk casually to me too."
     },
     {
-      "ko": "이선: 알겠습니다. 아… 좋아, 준수야.",
+      "ko": "이선: 알겠습니다. 아… 그래, 준수야.",
       "en": "Ethan: Understood. Ah... okay, Junsu."
     },
     {
-      "ko": "서현: 이제 결혼식 이야기! 할 일이 정말 많아요. 준수는 사진. 서윤이는 엄마랑 같이 음식.",
-      "en": "Seohyun: Now, wedding talk! There's so much to do. Junsu, photos. Seoyun, food with Mom."
+      "ko": "서현: 이제 할 일 이야기! 정말 많아요. 준수는 사진. 서윤이는 엄마랑 같이 음식.",
+      "en": "Seohyun: Now, jobs! There are so many. Junsu, photos. Seoyun, food with Mom."
     },
     {
       "ko": "준수: 왜 또 사진이야? 형이 더 잘해.",
       "en": "Junsu: Why photos again? Hyung's better at it."
     },
     {
-      "ko": "서현: 안 돼, 준수야. 이선 씨는 아빠랑 같이 차로 사람들 좀 데려가 줄 수 있어요?",
-      "en": "Seohyun: Nope, Junsu. Ethan, could you go with Dad and take people around by car?"
+      "ko": "서현: 안 돼, 준수야. 이선 씨는 아빠랑 같이 차로 사람들 좀 데려와 줄 수 있어요?",
+      "en": "Seohyun: Nope, Junsu. Ethan, could you go with Dad and pick people up by car?"
     },
     {
       "ko": "이선: 네, 제가 하겠습니다! 아… 내가 할게요.",
       "en": "Ethan: Yes, I will do it! Ah... I'll do it."
     },
     {
-      "ko": "서현: 그리고 하루 전에 다 같이 저녁 먹어요. 이선 씨도 꼭 와요! 시간은 다음에 말할게요.",
-      "en": "Seohyun: And the day before, we're all having dinner together. Ethan, you have to come too! I'll tell you the time later."
+      "ko": "서현: 그리고 결혼식 하루 전에 다 같이 저녁 먹어요. 이선 씨도 꼭 와요! 시간은 다음에 말할게요.",
+      "en": "Seohyun: And the day before the wedding, we're all having dinner together. Ethan, you have to come too! I'll tell you the time later."
     },
     {
       "ko": "준수: 형, 그때 우리 같이 앉자 ㅋㅋ 엄마 이야기는 정말 길어.",
@@ -89,12 +89,12 @@
       "en": "Dad: Kimbap 👍"
     },
     {
-      "ko": "그때 서윤에게서 전화가 왔다. \"'내가 할게요'는 또 뭐야? 우리 언니한테는 '제가 할게요', 준수한테는 '내가 할게'. 꼭!\"",
-      "en": "Just then Seoyun called. \"What was 'nae-ga halgeyo'? To my sister it's 'je-ga halgeyo,' and to Junsu it's 'nae-ga halge.' Don't forget!\""
+      "ko": "그때 서윤에게서 전화가 왔다. \"'내가 할게요'는 또 뭐야? 우리 언니한테는 '제가 할게요', 준수한테는 '내가 할게'. 그렇게 해.\"",
+      "en": "Just then Seoyun called. \"What was 'nae-ga halgeyo'? To my sister it's 'je-ga halgeyo,' and to Junsu it's 'nae-ga halge.' Do it like that.\""
     },
     {
-      "ko": "이선: \"언니, 형, 어머님… 다 달라. 정말 어렵다.\" 서윤: \"우리 아빠보다는 말 많이 했어. 아빠는 👍만 보냈잖아.\" 이선: \"아, 다음에는 👍만 보낼래.\"",
-      "en": "Ethan: \"Eonni, hyung, eomeonim... they're all different. It's really hard.\" Seoyun: \"You still said more than my dad. Dad only sent 👍.\" Ethan: \"Ah, next time I'll just send 👍.\""
+      "ko": "이선: \"아… 다 달라. 정말 어렵다.\" 서윤: \"우리 아빠보다는 말 많이 했잖아. 아빠는 👍만 보냈어.\" 이선: \"아, 다음에는 👍만 보낼래.\"",
+      "en": "Ethan: \"Ugh... it's all different. It's really hard.\" Seoyun: \"You still said more than my dad. Dad only sent 👍.\" Ethan: \"Ah, next time I'll just send 👍.\""
     }
   ],
   "questions": [
@@ -116,7 +116,7 @@
       "options": [
         "사진",
         "음식",
-        "아빠랑 같이 차로 사람들을 데려가요"
+        "운전"
       ],
       "answer_idx": 2
     },
