@@ -5,6 +5,7 @@ import Questions from "../components/Questions";
 import WordPopover from "../components/WordPopover";
 import { db } from "../db";
 import { segment, sentenceAt } from "../segments";
+import { speakerColor } from "../speakers";
 import { syncer } from "../sync";
 import type { Episode, Paragraph, Question, WordStatus } from "../types";
 import { KNOWN_STATES, setWordState, untap } from "../wordActions";
@@ -289,12 +290,13 @@ export function speakerLabelEnd(ko: string): number {
 function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn, onTap }: ParaProps) {
   const segs = useMemo(() => segment(p.ko, p.tokens), [p.ko, p.tokens]);
   const labelEnd = speakerLabelEnd(p.ko);
+  const labelColor = labelEnd ? speakerColor(p.ko.slice(0, labelEnd)) : undefined;
   return (
     <div>
       <p className="font-body text-[19px] leading-[2.05] break-keep sm:text-[20px]">
         {segs.map((s) =>
           s.start < labelEnd ? (
-            <span key={s.start} className="font-bold text-accent">
+            <span key={s.start} className="font-bold" style={{ color: labelColor }}>
               {s.text}
             </span>
           ) : s.lex === undefined ? (

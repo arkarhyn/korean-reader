@@ -327,6 +327,14 @@ Do not reverse an entry without asking Austin.
     became 어머니: 긴장은 무슨. 밥만 잘 먹었으면서. The generation context drops
     flags whose sentence is no longer in the episode.
 
+73. **Speaker colors (Austin, 2026-10-05):** each character's name has a fixed
+    color across episodes (`web/src/speakers.ts`, tokens `--spk-1..8` in
+    styles.css with light and dark variants): 이선 blue, 서윤 rose, 어머니/엄마
+    amber, 아버지/아빠 green, 준수 purple, 서현 teal, 마이클 slate, 할머니 gold;
+    other labels (e.g. 이메일) neutral. Rejected: one accent color for all
+    speakers (hard to follow who is talking); colors hashed from the name
+    (would not be stable or tuned for contrast).
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

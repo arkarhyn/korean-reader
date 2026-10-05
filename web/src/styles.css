@@ -18,6 +18,15 @@
   --good: #4f6b2f;
   --bad: #a23b2a;
   --known: #4f6b2f1c; /* tint behind known words */
+  /* speaker names (speakers.ts): 이선 서윤 어머니 아버지 준수 서현 마이클 할머니 */
+  --spk-1: #2f5d8a;
+  --spk-2: #a63d5a;
+  --spk-3: #9a5b13;
+  --spk-4: #3f6b35;
+  --spk-5: #6a4a9c;
+  --spk-6: #1f6f6a;
+  --spk-7: #555c66;
+  --spk-8: #7a6a1f;
   color-scheme: light;
 }
 
@@ -35,6 +44,14 @@
     --good: #a3bf72;
     --bad: #e0745e;
     --known: #a3bf7224;
+    --spk-1: #8fb8e0;
+    --spk-2: #e89ab0;
+    --spk-3: #e3a65a;
+    --spk-4: #9cc58a;
+    --spk-5: #b9a2e3;
+    --spk-6: #7cc9c2;
+    --spk-7: #b0b8c4;
+    --spk-8: #d4c36a;
     color-scheme: dark;
   }
 }
