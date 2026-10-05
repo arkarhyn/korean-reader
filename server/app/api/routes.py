@@ -18,7 +18,7 @@ from ..generation import build_context
 from ..ingest import raw_known_keys
 from ..placement import items as placement_items
 from ..placement import service as placement
-from .schemas import (EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, GrammarItemOut, LexemeOut,
+from .schemas import (CompletedOut, EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, GrammarItemOut, LexemeOut,
                       LexemeStateOut, PlacementOut, QuestionOut, SyncPull, VocabItemOut)
 
 router = APIRouter(prefix="/api")
@@ -88,13 +88,21 @@ def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get
     raw_known = raw_known_keys(session)
     eps = _published().order_by(Episode.created_at)
     states = select(LexemeState)
+    # Read marks always go out in full: one row per finished episode, and devices that
+    # synced before this existed would otherwise never get the earlier ones.
+    done = select(Event).where(Event.type == "episode_complete").order_by(Event.ts)
     if since is not None:
         eps = eps.where(Episode.updated_at > since)
         states = states.where(LexemeState.updated_at > since)
+    completed: dict[str, CompletedOut] = {}
+    for ev in session.scalars(done):
+        if (ep_id := ev.payload.get("episode_id")) and ep_id not in completed:
+            completed[ep_id] = CompletedOut(episode_id=ep_id, completed_at=ev.ts)
     return SyncPull(
         server_time=server_time,
         episodes=[_full(session, ep, raw_known) for ep in session.scalars(eps)],
         lexeme_states=[LexemeStateOut.model_validate(s, from_attributes=True) for s in session.scalars(states)],
+        completed=list(completed.values()),
     )
 
 

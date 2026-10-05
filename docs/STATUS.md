@@ -44,6 +44,9 @@ all count as unknown). So these episodes are simpler than your real level, and
 some "new" words aren't new to you. Tap **I know this word** on every word you know as
 you read -- each tap widens what the next batch can use (DECISIONS 60).
 
+- 2026-10-05: read marks (✓ read / Up next) now sync between devices via
+  `completed` in sync pull (DECISIONS 70). Server 126 tests, web 26.
+
 **Next:** Austin works through some word sets, then the next `/generate-batch`
 (must resolve E5's leave cliffhanger; vary days/times now that weekday words
 can be confirmed). Then Stage 6 (hidden SRS).

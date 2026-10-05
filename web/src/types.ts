@@ -40,7 +40,14 @@ export type Episode = {
 
 export type LexemeState = { lexeme_id: number; state: string; updated_at: string };
 
-export type SyncPull = { server_time: string; episodes: Episode[]; lexeme_states: LexemeState[] };
+export type Completed = { episode_id: string; completed_at: string };
+
+export type SyncPull = {
+  server_time: string;
+  episodes: Episode[];
+  lexeme_states: LexemeState[];
+  completed?: Completed[]; // read marks from every device
+};
 
 export type EventType =
   | "episode_open"

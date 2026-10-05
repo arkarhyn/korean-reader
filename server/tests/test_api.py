@@ -74,3 +74,17 @@ def test_sync_pull_since(client):
 
 def test_spa_fallback_never_shadows_api(client):
     assert client.get("/api/nope").status_code == 404
+
+
+def test_sync_pull_carries_read_marks_across_devices(client):
+    phone = _event("episode_complete", episode_id="legacy-001", tapped_lexeme_ids=[])
+    phone["device"] = "iphone"
+    client.post("/api/events/batch", json={"events": [phone]})
+    full = client.get("/api/sync/pull").json()
+    assert [c["episode_id"] for c in full["completed"]] == ["legacy-001"]
+    # Always the full list, even after the cursor (a device that synced before still gets them).
+    late = _event("episode_complete", episode_id="legacy-002", tapped_lexeme_ids=[])
+    late["ts"] = "2026-01-01T00:00:00+00:00"
+    client.post("/api/events/batch", json={"events": [late]})
+    later = client.get("/api/sync/pull", params={"since": full["server_time"]}).json()
+    assert {c["episode_id"] for c in later["completed"]} == {"legacy-001", "legacy-002"}

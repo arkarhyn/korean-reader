@@ -51,9 +51,11 @@ export function createSync(db: ReaderDB, fetchFn: typeof fetch = (...a) => fetch
   async function pull() {
     const since = (await db.meta.get("cursor"))?.value;
     const data = (await call(`/api/sync/pull${since ? `?since=${encodeURIComponent(since)}` : ""}`)) as SyncPull;
-    await db.transaction("rw", db.episodes, db.lexemeStates, db.meta, async () => {
+    await db.transaction("rw", db.episodes, db.lexemeStates, db.progress, db.meta, async () => {
       await db.episodes.bulkPut(data.episodes);
       await db.lexemeStates.bulkPut(data.lexeme_states);
+      // Read marks from other devices; a mark already on this device keeps its own time.
+      for (const c of data.completed ?? []) if (!(await db.progress.get(c.episode_id))) await db.progress.put(c);
       await db.meta.put({ key: "cursor", value: data.server_time });
     });
   }

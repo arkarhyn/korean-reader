@@ -305,6 +305,13 @@ Do not reverse an entry without asking Austin.
     item is known only when all its keys are. Tests check items in carrier
     sentences. Rejected: surface-form matching (DECISIONS 3).
 
+70. **Read marks sync across devices (Austin, 2026-10-05):** `GET /api/sync/pull`
+    returns `completed` (first `episode_complete` per episode, from any device),
+    always in full; the client adds marks it doesn't have and keeps its own
+    times. Rejected: incremental by cursor (devices that synced before this
+    shipped would never get earlier finishes); a progress table (DECISIONS 8:
+    derive from the log).
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

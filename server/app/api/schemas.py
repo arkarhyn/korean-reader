@@ -79,10 +79,16 @@ class LexemeStateOut(BaseModel):
     updated_at: datetime
 
 
+class CompletedOut(BaseModel):
+    episode_id: str
+    completed_at: datetime  # client time of the first episode_complete
+
+
 class SyncPull(BaseModel):
     server_time: datetime
     episodes: list[EpisodeFull]
     lexeme_states: list[LexemeStateOut]
+    completed: list[CompletedOut] = []  # read marks from every device; always the full list
 
 
 class GrammarItemOut(BaseModel):

@@ -8,6 +8,7 @@ function fakeServer() {
   const stored = new Map<string, unknown>();
   let down = false;
   let posts = 0;
+  let completed: { episode_id: string; completed_at: string }[] = [];
   const fetchFn = vi.fn(async (url: string, init?: RequestInit) => {
     if (down) throw new TypeError("Failed to fetch");
     if (url.startsWith("/api/events/batch")) {
@@ -19,7 +20,7 @@ function fakeServer() {
       return Response.json({ accepted, duplicate });
     }
     if (url.startsWith("/api/sync/pull")) {
-      return Response.json({ server_time: "2026-10-03T00:00:00Z", episodes: [], lexeme_states: [] });
+      return Response.json({ server_time: "2026-10-03T00:00:00Z", episodes: [], lexeme_states: [], completed });
     }
     return new Response(null, { status: 404 });
   });
@@ -28,6 +29,7 @@ function fakeServer() {
     stored,
     setDown: (d: boolean) => (down = d),
     posts: () => posts,
+    setCompleted: (c: typeof completed) => (completed = c),
   };
 }
 
@@ -69,6 +71,19 @@ describe("sync", () => {
     await s.sync();
     expect(await db.queue.count()).toBe(0);
     expect(server.stored.size).toBe(1);
+  });
+
+  it("merges read marks from other devices without overwriting local ones", async () => {
+    const server = fakeServer();
+    const s = createSync(db, server.fetchFn);
+    await db.progress.put({ episode_id: "S01E001", completed_at: "2026-10-04T10:00:00Z" });
+    server.setCompleted([
+      { episode_id: "S01E001", completed_at: "2026-10-01T00:00:00Z" },
+      { episode_id: "S01E002", completed_at: "2026-10-04T11:00:00Z" },
+    ]);
+    await s.sync();
+    expect((await db.progress.get("S01E001"))?.completed_at).toBe("2026-10-04T10:00:00Z");
+    expect((await db.progress.get("S01E002"))?.completed_at).toBe("2026-10-04T11:00:00Z");
   });
 
   it("shares one run between concurrent triggers", async () => {
