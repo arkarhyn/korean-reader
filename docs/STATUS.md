@@ -1,5 +1,43 @@
 # STATUS
 
+## 2026-10-05 -- Stage 8 grammar track (Claude Code, built straight through; DECISIONS 92-97)
+**Done (branch `stage-8`, worktree `.claude/worktrees/stage-8`, on top of `stage-6`):**
+- SYLLABUS_MAP: Kiwi patterns for all 54 L1-28 points + 36 new points (HTSK L29-50, L34
+  skipped; threads -는데 / -(으)니까 / -더니 / -기로 하다 pulled forward with `teach_order`).
+  Doc tables are rendered from `content/seed/grammar_points.json`. **L29+ rows await
+  Austin's review** (labels, JA parallels, which points to merge/split).
+- 8 lesson cards (`content/grammar/lessons/`): 동안, 에 대해, -아/어지다, 위해, -스럽다,
+  ㅎ irregular, -기, -(으)ㅁ. 2 examples + 4 select-only drills each.
+- Server: migration 0005 (`grammar_point.teach_order`, `lesson`), seed validates lessons,
+  sync pull sends `grammar` (full list), replay handles `grammar_lesson_complete`
+  (new -> introduced, first review from the drill score), checker gating (tested-new or
+  lesson-waiting = fail, untested L29+ = `~` warning, new target needs a lesson),
+  context `next_new_targets` / `grammar_untested`; `/generate-batch` skill updated.
+- Web: `/grammar` list (Library foot "문법 · Grammar"), `/grammar/:code` lesson flow,
+  Up next gate ("Grammar first: <point>" + "Skip to the episode").
+- Tests: server 179 passed (4 skipped), web 54 passed, tsc + build OK.
+- Checked on a copy of the live DB (876 events): migration + seed + re-ingest change no SRS
+  rows; replay stable. In Chrome: list -> 동안 lesson -> 4 drills -> 1/4 -> events synced,
+  동안 introduced (S 0.21 d); with S01E005's target set to G.E_DAEHAE (copy only) the Up next
+  card showed the gate, the lesson ended in "Read the episode" -> /read/S01E005, gate gone.
+  Existing S01 episodes: only real issues flagged (ㅎ irregular 그래요/빨간 = blocked until
+  that lesson is done; L29+ forms as warnings).
+
+**Not deployed.** Deploy (Austin's OK needed; same pattern as Stage 7): back up the live DB,
+stop the service, fast-forward `stage-6` to `stage-8`, `cd server; uv run python
+scripts/ingest_episodes.py --seed` (migration 0005 + lessons), `cd web; npm run build`, start.
+
+**Next:** deploy; Austin does lessons from `/grammar` (each one unblocks its point for the
+generator) and reviews the L29+ map rows; then `/generate-batch` (first batch with a new
+target: G.DONGAN or whatever is first in `next_new_targets`; also closes Stage 6/7 checks).
+
+**Open issues:**
+- Lessons use 아버님/어머님 from Ethan (fine for lessons, ahead of the story timeline).
+- Some distractors are deliberately ungrammatical conjugations (빨갛아, 좋면).
+- Three drills test a contrasting point as the answer (때, 때문에, -는 것 -> 걸).
+- Isolated honorific verbs can misparse in Kiwi (주무세요 -> 주무/NNG); -세요 still matches.
+- 그래/어때 count as ㅎ irregular: blocked for the generator until that lesson is done.
+
 ## 2026-10-05 -- Stage 7 wrap-up (same session, after deploy)
 **Deployed (web-only follow-ups, stage-6 = stage-7):** live coverage in the Library and
 `/api/podcasts` (DECISIONS 89); placement resume card Dismiss when already placed; Quick

@@ -64,10 +64,12 @@ appear in next batch; no backlog UI exists.
 **Accept (Phase B):** a part plays with line follow; taps/Learn this/finish sync; finishing
 creates no cards for untapped new words; a primer request reaches the next batch.
 
-## Stage 8 -- Grammar track  <- NEXT (Austin, 2026-10-05)
+## Stage 8 -- Grammar track  <- CURRENT (built 2026-10-05, not yet deployed; DECISIONS 92-97)
 - Design session first (Project): SYLLABUS_MAP.md (HTSK lesson -> code ->
   JP parallel -> Kiwi pattern).
 - Lesson cards + select-only drills; generator grammar gating.
+- Built: map L1-50 + threads with Kiwi patterns (L29+ pending Austin's review), 8 lesson
+  cards, Up next gate + /grammar, checker gating, lesson completion in the replay.
 
 ## Stage 9 -- Audio polish
 - Shadowing loop mode, speed control, TTS cache; provider swap hook.
