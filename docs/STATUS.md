@@ -1,5 +1,21 @@
 # STATUS
 
+## 2026-10-05 -- Stage 7 wrap-up (same session, after deploy)
+**Deployed (web-only follow-ups, stage-6 = stage-7):** live coverage in the Library and
+`/api/podcasts` (DECISIONS 89); placement resume card Dismiss when already placed; Quick
+review autoplay toggle; story read-aloud cursor (◀ ↻ ▶, Space/→/←/R, margin markers;
+DECISIONS 90); per-character voice profiles + voice picker (DECISIONS 91). Podcast
+coverage refreshed after Austin's vocab pass (mean 70%, best part 80%).
+
+**Next (Austin):** Stage 8, grammar track, in a NEW session. Start with the design
+step: extend `docs/SYLLABUS_MAP.md` past lesson 28 (current position ~L29) and fill Kiwi
+patterns for the existing rows; map only, no HowToStudyKorean text copied (SPEC 3.4).
+Phase C (paste/.srt ingest) is deferred. Still pending: one `/generate-batch` run (with a
+primer requested first) closes Stage 6's and Stage 7's last acceptance checks.
+
+**Open issues:** ~25% of podcast lexemes lack glosses (gloss-fill pass proposed); see the
+Stage 7 entry below for the rest.
+
 ## 2026-10-05 -- Stage 7 Phases A + B (Claude Code)
 **Done (branch `stage-7` = `stage-6` + podcast work, worktree `.claude/worktrees/podcast-transcripts`):**
 - Phase A (`corpus/podcasts/didi-taewoong/`): 33 Didi & Taewoong episodes downloaded

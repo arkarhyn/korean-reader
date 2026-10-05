@@ -53,16 +53,18 @@ due words included; Austin reads 3 and rates naturalness >= 4/5.
 **Accept:** replaying the event log reproduces identical states; due words
 appear in next batch; no backlog UI exists.
 
-## Stage 7 -- Ingest  <- CURRENT (Phases A + B built 2026-10-05; DECISIONS 84-88)
+## Stage 7 -- Ingest  DONE for now (Phases A + B deployed 2026-10-05; DECISIONS 84-91)
 - Phase A (done): podcast corpus prep -- transcripts, speaker labels, ~10-min parts,
   coverage ranking, podcast word set (`corpus/podcasts/didi-taewoong/`).
-- Phase B (built, not yet deployed): Listen tab -- synced YouTube embed, word taps,
-  "Learn this" mining, due-only grading, per-part primer requests.
-- Phase C: paste / .srt / .vtt ingest page with a coverage report (same pipeline).
+- Phase B (deployed): Listen tab -- synced YouTube embed, word taps, "Learn this"
+  mining, due-only grading, per-part primer requests. Extras: live coverage, story
+  read-aloud cursor, per-character voices + voice picker.
+- Phase C (deferred by Austin; podcasts are enough for now): paste / .srt / .vtt ingest
+  page with a coverage report (same pipeline).
 **Accept (Phase B):** a part plays with line follow; taps/Learn this/finish sync; finishing
 creates no cards for untapped new words; a primer request reaches the next batch.
 
-## Stage 8 -- Grammar track
+## Stage 8 -- Grammar track  <- NEXT (Austin, 2026-10-05)
 - Design session first (Project): SYLLABUS_MAP.md (HTSK lesson -> code ->
   JP parallel -> Kiwi pattern).
 - Lesson cards + select-only drills; generator grammar gating.
