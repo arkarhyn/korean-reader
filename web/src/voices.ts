@@ -25,9 +25,42 @@ export function voiceFor(label: string): VoiceProfile {
   return PROFILES[name] ?? DEFAULT_VOICE;
 }
 
-/** Pick a Korean voice: the alternate one if asked for and the device has two or more. */
-export function pickVoice<V extends { lang: string; name: string }>(voices: V[], alt: boolean): V | undefined {
-  const ko = voices.filter((v) => v.lang.replace("_", "-").toLowerCase().startsWith("ko"));
+export type VoiceRole = "default" | "alt"; // women & narration / men
+export type VoicePrefs = Partial<Record<VoiceRole, string>>; // voice name per role
+const PREFS_KEY = "tts.voices";
+
+export function loadVoicePrefs(): VoicePrefs {
+  try {
+    return JSON.parse(localStorage.getItem(PREFS_KEY) ?? "{}") as VoicePrefs;
+  } catch {
+    return {};
+  }
+}
+
+export function saveVoicePrefs(prefs: VoicePrefs) {
+  try {
+    localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+  } catch {
+    /* preference only */
+  }
+}
+
+export function koreanVoices<V extends { lang: string }>(voices: V[]): V[] {
+  return voices.filter((v) => v.lang.replace("_", "-").toLowerCase().startsWith("ko"));
+}
+
+/**
+ * Pick a Korean voice for a role: the one chosen in the voice picker if this device has it,
+ * else the second Korean voice for `alt` (when there are two or more), else the first.
+ */
+export function pickVoice<V extends { lang: string; name: string }>(
+  voices: V[],
+  alt: boolean,
+  prefs: VoicePrefs = {},
+): V | undefined {
+  const ko = koreanVoices(voices);
   if (ko.length === 0) return undefined;
+  const chosen = ko.find((v) => v.name === prefs[alt ? "alt" : "default"]);
+  if (chosen) return chosen;
   return alt && ko.length > 1 ? ko[1] : ko[0];
 }

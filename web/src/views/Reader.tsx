@@ -3,6 +3,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router";
 import Questions from "../components/Questions";
 import WordPopover from "../components/WordPopover";
+import VoicePicker from "../components/VoicePicker";
 import WordSpans from "../components/WordSpans";
 import { db } from "../db";
 import { readerKey, spokenText, step } from "../readAloud";
@@ -69,6 +70,7 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
   // Read-aloud cursor (DECISIONS 90): one line per step; word taps never move it or replay.
   const [cursor, setCursor] = useState<number | null>(null);
   const [autoplay, setAutoplay] = useState(loadAutoplay);
+  const [voicesOpen, setVoicesOpen] = useState(false);
   const count = episode.paragraphs.length;
 
   function speakLine(idx: number) {
@@ -241,10 +243,18 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
               <span className={`inline-block size-3 rounded-sm border border-rule ${autoplay ? "bg-seal-wash" : ""}`} />
               Autoplay
             </button>
+            <button
+              type="button"
+              onClick={() => setVoicesOpen(true)}
+              className="flex min-h-11 items-center rounded-full px-2 text-xs text-ink-soft active:bg-paper-deep"
+            >
+              Voices
+            </button>
             <span className="ml-auto hidden text-[11px] text-ink-soft sm:inline">Space/→ next · ← back · R replay</span>
           </div>
         </div>
       )}
+      {voicesOpen && <VoicePicker onClose={() => setVoicesOpen(false)} />}
 
       {active && w.activeLexeme && (
         <WordPopover

@@ -437,6 +437,8 @@ Do not reverse an entry without asking Austin.
     when one exists. Narration and non-main speakers use the default voice. Devices have one
     or two Korean system voices, so this is distinguishable rather than natural; real
     distinct voices = server-generated audio in Stage 9 (needs an engine evaluation).
+    Voice picker (reader bar → Voices): choose the device voice for "women & narration" and
+    for "men", with previews; saved per device by voice name, automatic choice if missing.
 
 ## OPEN
 

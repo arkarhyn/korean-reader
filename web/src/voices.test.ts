@@ -22,4 +22,11 @@ describe("pickVoice", () => {
     expect(pickVoice([en, ko1], true)).toBe(ko1);
     expect(pickVoice([en], false)).toBeUndefined();
   });
+
+  it("uses the voice picker's choice when this device has it", () => {
+    const ko3 = { name: "C", lang: "ko-KR" };
+    expect(pickVoice([ko1, ko2, ko3], true, { alt: "C" })).toBe(ko3);
+    expect(pickVoice([ko1, ko2, ko3], false, { default: "B", alt: "C" })).toBe(ko2);
+    expect(pickVoice([ko1, ko2], true, { alt: "gone" })).toBe(ko2); // missing here -> automatic
+  });
 });
