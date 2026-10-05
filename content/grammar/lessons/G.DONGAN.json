@@ -1,0 +1,71 @@
+{
+  "code": "G.DONGAN",
+  "title_en": "동안 -- 'for / during'",
+  "summary_en": "Marks a stretch of time: how long something lasted, or the span during which something else happened.",
+  "ja_parallel": "間（あいだ）／〜間（かん）",
+  "ja_diff_note": "동안 covers both 間 (during) and the duration suffix 〜間 (三日間 = 3일 동안). After a verb it always takes -는, even for past events (자는 동안 = 寝ている間), and it never marks a single point in time -- that is 때.",
+  "notes": [
+    "Noun + 동안: 방학 동안, 일주일 동안, 두 시간 동안 (= 二時間).",
+    "Verb stem + -는 동안 = while: 엄마가 요리하는 동안. Keep -는 even in the past: 제가 자는 동안 비가 왔어요.",
+    "동안 = a span; 때 = a point or occasion (어렸을 때); 중 = in the middle of an activity (회의 중).",
+    "오랫동안 (for a long time) is written as one word."
+  ],
+  "examples": [
+    {
+      "ko": "서울에 있는 동안 할머니 댁에서 지냈어요.",
+      "en": "While I was in Seoul, I stayed at Grandma's place.",
+      "ja": "ソウルにいる間、おばあちゃんの家で過ごしました。"
+    },
+    {
+      "ko": "나 샤워하는 동안 밥 좀 해 줘.",
+      "en": "Make some rice while I shower, would you?",
+      "ja": "私がシャワーしてる間、ご飯炊いといて。"
+    }
+  ],
+  "drills": [
+    {
+      "prompt_ko": "두 시간 ___ 기다렸어.",
+      "prompt_en": "I waited for two hours.",
+      "options": [
+        "동안",
+        "때",
+        "까지"
+      ],
+      "answer": 0,
+      "explain_en": "A length of time takes 동안 (二時間待った); 때 marks a point, and 까지 needs an end point, not a length."
+    },
+    {
+      "prompt_ko": "아빠가 텃밭에서 일하는 ___ 엄마는 김밥을 만들었어요.",
+      "prompt_en": "While Dad worked in the garden, Mom made gimbap.",
+      "options": [
+        "전에",
+        "때문에",
+        "동안"
+      ],
+      "answer": 2,
+      "explain_en": "-는 + 동안 means 'while'; 전에 needs -기 전에 and 때문에 needs -기 때문에."
+    },
+    {
+      "prompt_ko": "서윤이가 ___ 동안 나는 설거지했어.",
+      "prompt_en": "While Seoyun was showering, I did the dishes.",
+      "options": [
+        "샤워한",
+        "샤워하는",
+        "샤워했던"
+      ],
+      "answer": 1,
+      "explain_en": "동안 always takes the -는 form, even when the whole sentence is in the past."
+    },
+    {
+      "prompt_ko": "어렸을 ___ 일본에 살았어요.",
+      "prompt_en": "When I was little, I lived in Japan.",
+      "options": [
+        "동안",
+        "때",
+        "중"
+      ],
+      "answer": 1,
+      "explain_en": "-았/었을 때 is the fixed 'when (I was)' pattern; 동안 would need -는, and 중 attaches to action nouns."
+    }
+  ]
+}

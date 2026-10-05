@@ -7,7 +7,7 @@ from pydantic import AwareDatetime, BaseModel, ConfigDict, Field
 EventType = Literal[
     "episode_open", "word_tap", "episode_complete", "question_answer", "mine_word",
     "flag_sentence", "placement_answer", "grammar_drill_answer", "set_state", "word_untap", "review_answer",
-    "primer_request",
+    "primer_request", "grammar_lesson_complete",
 ]
 
 
@@ -105,12 +105,24 @@ class ReviewItemOut(BaseModel):
     answer_idx: int
 
 
+class GrammarPointOut(BaseModel):
+    code: str
+    label_ko: str
+    htsk_lesson: int | None
+    teach_order: float  # GrammarPoint.order: teach_order, else the HTSK lesson
+    state: str  # new / introduced / practicing / solid (no row = new)
+    ja_parallel: str | None
+    ja_diff_note: str | None
+    lesson: dict[str, Any] | None  # lesson card (Stage 8), NULL until written
+
+
 class SyncPull(BaseModel):
     server_time: datetime
     episodes: list[EpisodeFull]
     lexeme_states: list[LexemeStateOut]
     completed: list[CompletedOut] = []  # read marks from every device; always the full list
     review_items: list[ReviewItemOut] = []  # Quick review: due words, always the full (short) list
+    grammar: list[GrammarPointOut] = []  # every grammar point + state + lesson card, always the full list
 
 
 class GrammarItemOut(BaseModel):

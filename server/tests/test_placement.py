@@ -25,7 +25,8 @@ from .conftest import fake_lookup
 
 
 def test_every_grammar_point_has_two_check_sentences():
-    codes = {p.code for p in load_grammar_points()}
+    # Placement covers HTSK 1-28; later points (Stage 8) are taught by lesson cards.
+    codes = {p.code for p in load_grammar_points() if p.htsk_lesson is not None and p.htsk_lesson <= 28}
     per_code = Counter(c for it in items.grammar_items() for c in it["codes"])
     ids = [it["id"] for it in items.grammar_items()]
     assert len(ids) == len(set(ids))

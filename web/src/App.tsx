@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import { Route, Routes } from "react-router";
 import { syncer } from "./sync";
+import GrammarLesson, { GrammarList } from "./views/GrammarLesson";
 import Library from "./views/Library";
 import Listen from "./views/Listen";
 import ListenPart from "./views/ListenPart";
@@ -21,6 +22,8 @@ export default function App() {
       <Route path="/listen/:id" element={<ListenPart />} />
       <Route path="/words" element={<WordSetList />} />
       <Route path="/words/:setId" element={<WordSetChecklist />} />
+      <Route path="/grammar" element={<GrammarList />} />
+      <Route path="/grammar/:code" element={<GrammarLesson />} />
     </Routes>
   );
 }

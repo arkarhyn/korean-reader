@@ -48,7 +48,8 @@ def morphemes(text: str) -> list[Morph]:
     """Raw Kiwi morphemes with base tags (grammar pattern matching works on these)."""
     if not text.strip():
         return []
-    return [Morph(t.form, base_tag(t.tag), t.start, t.start + t.len) for t in _kiwi().tokenize(text)]
+    return [Morph(t.form, base_tag(t.tag), t.start, t.start + t.len, str(t.tag).endswith("-I"))
+            for t in _kiwi().tokenize(text)]
 
 
 def analyze(text: str) -> list[Token]:

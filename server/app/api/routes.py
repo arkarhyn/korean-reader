@@ -12,7 +12,7 @@ from .. import word_sets
 from ..analyzer import proper_nouns
 from ..coverage import known_by_alias
 from ..db import get_session
-from ..db.models import Episode, Event, Lexeme, LexemeState, utcnow
+from ..db.models import Episode, Event, GrammarPoint, GrammarState, Lexeme, LexemeState, utcnow
 from ..generation import build_context
 from ..ingest import raw_known_keys
 from ..placement import items as placement_items
@@ -20,7 +20,7 @@ from ..placement import service as placement
 from ..podcasts import podcasts_out
 from ..review import review_items
 from ..srs import derive, known_until, load_card
-from .schemas import (CompletedOut, EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, GrammarItemOut, LexemeOut,
+from .schemas import (CompletedOut, EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, GrammarItemOut, GrammarPointOut, LexemeOut,
                       LexemeStateOut, PlacementOut, QuestionOut, ReviewItemOut, SyncPull, VocabItemOut)
 
 router = APIRouter(prefix="/api")
@@ -110,7 +110,17 @@ def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get
         lexeme_states=[_state_out(s) for s in session.scalars(states)],
         completed=list(completed.values()),
         review_items=[ReviewItemOut(**it) for it in review_items(session)],
+        grammar=grammar_out(session),
     )
+
+
+def grammar_out(session: Session) -> list[GrammarPointOut]:
+    """Every grammar point in teaching order with its state and lesson card (the client gates on these)."""
+    states = {g.code: g.state for g in session.scalars(select(GrammarState))}
+    points = sorted(session.scalars(select(GrammarPoint)), key=lambda gp: (gp.order, gp.code))
+    return [GrammarPointOut(code=gp.code, label_ko=gp.label_ko, htsk_lesson=gp.htsk_lesson, teach_order=gp.order,
+                            state=states.get(gp.code, "new"), ja_parallel=gp.ja_parallel,
+                            ja_diff_note=gp.ja_diff_note, lesson=gp.lesson) for gp in points]
 
 
 def _state_out(s: LexemeState) -> LexemeStateOut:

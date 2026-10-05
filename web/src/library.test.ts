@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
-import { buildSections, mainPosition, upNext } from "./library";
-import type { Episode } from "./types";
+import { buildSections, lessonGate, mainPosition, upNext } from "./library";
+import type { Episode, GrammarLesson, GrammarPoint } from "./types";
 
 const ep = (id: string, series: string): Episode => ({
   id,
@@ -57,5 +57,45 @@ describe("mainPosition", () => {
   it("parses season and episode numbers", () => {
     expect(mainPosition("S01E005")).toEqual({ season: 1, episode: 5 });
     expect(mainPosition("legacy-001")).toBeNull();
+  });
+});
+
+describe("lessonGate", () => {
+  const lesson: GrammarLesson = {
+    code: "G.BODA",
+    title_en: "Try doing",
+    summary_en: "",
+    ja_parallel: null,
+    ja_diff_note: null,
+    notes: [],
+    examples: [],
+    drills: [],
+  };
+  const point = (code: string, state: GrammarPoint["state"], withLesson = true): GrammarPoint => ({
+    code,
+    label_ko: code,
+    htsk_lesson: null,
+    teach_order: 1,
+    state,
+    ja_parallel: null,
+    ja_diff_note: null,
+    lesson: withLesson ? { ...lesson, code } : null,
+  });
+  const target = (g: string | null) => ({ ...ep("S01E003", "main"), target_grammar: g });
+
+  it("gates on a new target point that has a lesson", () => {
+    expect(lessonGate(target("G.BODA"), [point("G.BODA", "new")])?.code).toBe("G.BODA");
+  });
+
+  it("does not gate once introduced, without a lesson, without a target, or for an unknown code", () => {
+    expect(lessonGate(target("G.BODA"), [point("G.BODA", "introduced")])).toBeNull();
+    expect(lessonGate(target("G.BODA"), [point("G.BODA", "new", false)])).toBeNull();
+    expect(lessonGate(target(null), [point("G.BODA", "new")])).toBeNull();
+    expect(lessonGate(target("G.DEON"), [point("G.BODA", "new")])).toBeNull();
+    expect(lessonGate(target("G.BODA"), [])).toBeNull();
+  });
+
+  it("tolerates a list of codes and picks the first that gates", () => {
+    expect(lessonGate(target("G.A, G.B"), [point("G.A", "solid"), point("G.B", "new")])?.code).toBe("G.B");
   });
 });

@@ -25,15 +25,27 @@ and `docs/LEARNER_PROFILE.md`. Key fields:
 - `new_word_candidates` (frequent, unknown, glossed): pick most new words from here or
   from what the scene truly needs (e.g. 결혼식)
 - `suggested_targets` (practicing points with a pattern, not recently targeted) and
-  `grammar_avoid` (state `new`: do not use unless it is the episode's target)
+  `grammar_avoid` (state `new` and either tested by placement or with a lesson card waiting:
+  do not use unless it is the episode's target; the checker fails on it)
+- `grammar_untested` (Stage 8: HTSK 29+ points never tested and without a lesson yet, e.g.
+  -아/어서, -(으)면, -지만): usable where natural, but keep them light; the checker warns (`~`)
+- `next_new_targets` (Stage 8): `new` points that have a lesson card, in teaching order
 - `recent_episodes` (summaries for continuity), `flagged_sentences` ("sounds off" taps:
   rewrite or avoid those constructions; mention in the batch report)
 - `primer_requests` (Stage 7): podcast parts Austin tapped "프라이머 만들기" on, each with its
   top unknown `words`. Draft one primer per request in addition to the batch (section 2b).
 
 Pick one target per episode from `suggested_targets`, guided by the arc table's focus.
-A target must have a `kiwi_pattern` in `content/seed/grammar_points.json`; add one
-(plus a test in `server/tests/test_generation.py`) if the arc needs a new point.
+A target must have a `kiwi_pattern` in `content/seed/grammar_points.json` (all SYLLABUS_MAP
+points do; add a row + a test in `server/tests/test_grammar_track.py` if the arc needs another).
+
+**New grammar (Stage 8, SPEC 3.4):** introduce at most ONE new point per batch, as one episode's
+target, normally the first of `next_new_targets`. The app opens its lesson card before that
+episode (Up next gate), and finishing the lesson moves it to `introduced`. To introduce a point
+with no lesson yet, first write `content/grammar/lessons/<code>.json` (same shape as the existing
+files: title, summary, Japanese parallel + where it differs, 2-4 notes, 2 examples, 4 select-only
+drills with a `___` blank and 3 options; original text, never HowToStudyKorean's), then
+`ingest_episodes.py --seed`. Use the point only from that episode on.
 
 ## 2. Draft
 Write `content/episodes/s01/S01E00N.json` (format: `server/app/content/schema.py`):

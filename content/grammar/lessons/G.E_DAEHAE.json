@@ -1,0 +1,71 @@
+{
+  "code": "G.E_DAEHAE",
+  "title_en": "에 대해(서) -- 'about'",
+  "summary_en": "Marks what someone talks, thinks, asks, or knows about.",
+  "ja_parallel": "について／についての",
+  "ja_diff_note": "As 'about' it matches について closely; before a noun it becomes 에 대한 (= についての: 김치에 대한 책). In casual talk it can sound a little formal, so speakers often just use the object instead (그거 얘기했어?), much like 〜のこと in Japanese.",
+  "notes": [
+    "Noun + 에 대해(서) + verb: 결혼식에 대해 이야기했어요. The 서 is optional.",
+    "Before a noun use 에 대한: 한국 음식에 대한 책 (a book about Korean food).",
+    "Typical verbs: 이야기하다, 알다, 생각하다, 물어보다, 듣다.",
+    "에 관해(서) / 에 관한 is a slightly more formal near-synonym (〜に関して)."
+  ],
+  "examples": [
+    {
+      "ko": "아버님, 텃밭에 대해 좀 여쭤봐도 돼요?",
+      "en": "Sir, may I ask you a little about the vegetable garden?",
+      "ja": "お父さん、家庭菜園についてちょっとお聞きしてもいいですか。"
+    },
+    {
+      "ko": "우리 엄마가 너에 대해서 계속 물어봐.",
+      "en": "My mom keeps asking about you.",
+      "ja": "うちのお母さん、あなたのことばっかり聞いてくるよ。"
+    }
+  ],
+  "drills": [
+    {
+      "prompt_ko": "저는 한국 역사___ 잘 몰라요.",
+      "prompt_en": "I don't know much about Korean history.",
+      "options": [
+        "에게",
+        "에 대해서",
+        "부터"
+      ],
+      "answer": 1,
+      "explain_en": "'Know about N' is N에 대해(서) 알다; 에게 marks a person receiving something and 부터 means 'from'."
+    },
+    {
+      "prompt_ko": "이건 김치___ 책이에요.",
+      "prompt_en": "This is a book about kimchi.",
+      "options": [
+        "에 대해",
+        "에 대한",
+        "에 대해서"
+      ],
+      "answer": 1,
+      "explain_en": "Directly before a noun (책) you need the modifier form 에 대한, like についての."
+    },
+    {
+      "prompt_ko": "준수야, 그 영화___ 어떻게 생각해?",
+      "prompt_en": "준수, what do you think about that movie?",
+      "options": [
+        "에 대해",
+        "를 위해",
+        "에서"
+      ],
+      "answer": 0,
+      "explain_en": "'Think about N' is N에 대해 생각하다; 를 위해 means 'for the sake of'."
+    },
+    {
+      "prompt_ko": "엄마는 요리___ 모르는 게 없어요.",
+      "prompt_en": "There's nothing Mom doesn't know about cooking.",
+      "options": [
+        "처럼",
+        "하고",
+        "에 대해"
+      ],
+      "answer": 2,
+      "explain_en": "The topic of knowing takes 에 대해; 처럼 means 'like' and 하고 means 'and/with'."
+    }
+  ]
+}

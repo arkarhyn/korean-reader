@@ -440,6 +440,36 @@ Do not reverse an entry without asking Austin.
     Voice picker (reader bar → Voices): choose the device voice for "women & narration" and
     for "men", with previews; saved per device by voice name, automatic choice if missing.
 
+## 2026-10-05 (Stage 8, Claude Code)
+
+92. **Stage 8 run straight through (Austin, commuting):** map L29-50 + priority threads, then
+    build; Austin asked for it ready to test after the commute, so the map review moved to the
+    end (the map is marked "pending Austin's review"). Lesson cards gate the Up next card.
+    Rejected: stopping after the map. Reason: Austin's request; nothing is irreversible.
+93. **Every grammar point has a Kiwi pattern; 36 new points** (L29-50, L34 skipped as a
+    vocabulary lesson; -는데/-(으)니까/-더니/-기로 하다 pulled forward with `teach_order`).
+    Matchers gain `irr` (Kiwi's -I tag, kept on `Morph`) and `jong` (final consonant) so the
+    irregular points match only visible irregular conjugation. Rejected: a stem word list.
+    Reason: Kiwi already knows which stems are irregular.
+94. **Gating rule for the draft checker:** using a `new` point fails when placement tested it
+    (state row) or a lesson card waits for it; HTSK 29+ points never tested and without a
+    lesson are warnings only (`~`, "keep it light"). A match wholly inside a usable point's match
+    (-기 in -기 전에) is not new use. A `new` target is allowed only with a lesson card.
+    Rejected: blocking all untested L29+ grammar. Reason: -아/어서, -(으)면, -지만, -세요 are
+    in every natural episode, and placement never tested them.
+95. **Lesson completion = `grammar_lesson_complete`:** `new` -> `introduced`, first FSRS review
+    graded by the drill score (>= 75% Good, >= 50% Hard, else Again); a redo grades only when
+    due. `grammar_drill_answer` per drill is stored as data. Episode grammar_checks then move it
+    to practicing as before (DECISIONS 80). Rejected: drills grading straight to practicing.
+    Reason: SPEC's `introduced` = taught but not yet practiced in reading.
+96. **Lesson cards are JSON files** (`content/grammar/lessons/<code>.json`, validated on seed)
+    stored in `grammar_point.lesson` (migration 0005) and sent in sync pull as the full
+    `grammar` list, so lessons work offline. First 8: the six placement-`new` points (동안,
+    에 대해, -아/어지다, 위해, -스럽다, ㅎ irregular) + L29 -기 / -(으)ㅁ. New ones are written in
+    the `/generate-batch` session that introduces the point (at most one new point per batch).
+97. **Lessons can be done ahead from the Grammar list** (`/grammar`, linked at the Library's
+    foot); finishing one unblocks the point for the generator without waiting for the gate.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

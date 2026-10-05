@@ -1,5 +1,5 @@
 import Dexie, { type EntityTable } from "dexie";
-import type { Episode, LexemeState, QueuedEvent, ReviewItem } from "./types";
+import type { Episode, GrammarPoint, LexemeState, QueuedEvent, ReviewItem } from "./types";
 
 export type Progress = { episode_id: string; completed_at: string };
 export type Meta = { key: string; value: string };
@@ -12,6 +12,7 @@ export class ReaderDB extends Dexie {
   progress!: EntityTable<Progress, "episode_id">;
   meta!: EntityTable<Meta, "key">;
   reviewItems!: EntityTable<ReviewItem, "lexeme_id">;
+  grammar!: EntityTable<GrammarPoint, "code">;
 
   constructor(name = "korean-reader") {
     super(name);
@@ -24,6 +25,8 @@ export class ReaderDB extends Dexie {
     });
     // Stage 6: Quick review items from the last sync (replaced on every pull).
     this.version(2).stores({ reviewItems: "lexeme_id" });
+    // Stage 8: grammar points + lessons from the last sync (replaced on every pull).
+    this.version(3).stores({ grammar: "code" });
   }
 }
 

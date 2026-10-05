@@ -75,7 +75,7 @@ def test_check_draft_counts_names_known_and_splits_new_from_due(seeded):
 
 
 def test_check_draft_flags_new_grammar_and_unpatterned_target(seeded):
-    r = check_draft(seeded, _doc("저는 밥을 먹기 위해 왔어요.", target="G.TOPIC"))
+    r = check_draft(seeded, _doc("저는 밥을 먹기 위해 왔어요.", target="G.NO_SUCH"))
     assert any("no kiwi_pattern" in p for p in r.problems)
     assert any("G.WIHAE" in p for p in r.problems)
 

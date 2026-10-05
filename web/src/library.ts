@@ -1,4 +1,4 @@
-import type { Episode, LexemeState } from "./types";
+import type { Episode, GrammarPoint, LexemeState } from "./types";
 import { countsKnown } from "./wordActions";
 
 // Library organization: an "up next" pick plus sections by series.
@@ -79,4 +79,20 @@ export function upNext(sections: Section[], read: Set<string>): Episode | undefi
     if (ep) return ep;
   }
   return undefined;
+}
+
+/** Codes in an episode's target_grammar (normally one; a comma/space list is tolerated). */
+export const targetCodes = (ep: Episode): string[] => (ep.target_grammar ?? "").split(/[\s,]+/).filter(Boolean);
+
+/**
+ * Stage 8 gate on "Up next": the first target grammar point that is still "new" and has a lesson.
+ * The Library then leads with "Grammar first" (the episode stays one tap away).
+ */
+export function lessonGate(ep: Episode, grammar: GrammarPoint[]): GrammarPoint | null {
+  const byCode = new Map(grammar.map((g) => [g.code, g]));
+  for (const code of targetCodes(ep)) {
+    const g = byCode.get(code);
+    if (g && g.state === "new" && g.lesson) return g;
+  }
+  return null;
 }

@@ -3,9 +3,9 @@ import { useState } from "react";
 import { Link } from "react-router";
 import SyncChip from "../components/SyncChip";
 import { db } from "../db";
-import { buildSections, HIDDEN_SERIES, liveCoverage, mainPosition, upNext, type Section } from "../library";
+import { buildSections, HIDDEN_SERIES, lessonGate, liveCoverage, mainPosition, upNext, type Section } from "../library";
 import { clearProgress, loadData, loadProgress } from "../placement";
-import type { Episode, LexemeState } from "../types";
+import type { Episode, GrammarPoint, LexemeState } from "../types";
 
 /** Library hides placement calibration passages and podcast parts (they live in the Listen tab). */
 export const libraryEpisodes = (eps: Episode[]) => eps.filter((e) => !HIDDEN_SERIES.has(e.series));
@@ -34,6 +34,9 @@ export default function Library() {
   const canReview = useLiveQuery(async () => (await db.reviewItems.count()) > 0, []);
   // Word states for live coverage: re-renders as words are marked known or reviewed.
   const rows = useLiveQuery(async () => new Map((await db.lexemeStates.toArray()).map((r) => [r.lexeme_id, r])), []) ?? new Map();
+  // Stage 8: grammar points (gate on Up next; the Grammar link shows once any lesson exists).
+  const grammar = useLiveQuery(() => db.grammar.toArray(), []) ?? [];
+  const hasLessons = grammar.some((g) => g.lesson);
 
   const sections = episodes ? buildSections(episodes) : [];
   const next = done ? upNext(sections, done) : undefined;
@@ -79,7 +82,7 @@ export default function Library() {
         </p>
       ) : (
         <>
-          {next && <UpNext ep={next} rows={rows} />}
+          {next && <UpNext ep={next} rows={rows} gate={lessonGate(next, grammar)} />}
           <div className="space-y-10">
             {sections.map((s) => (
               <SectionList key={s.key} section={s} read={done ?? new Set()} nextId={next?.id} rows={rows} />
@@ -88,24 +91,28 @@ export default function Library() {
         </>
       )}
 
-      {placement?.data?.fitted && !placement.progress && (
-        <p className="mt-12 text-center">
-          <Link to="/placement" className="text-xs text-ink-soft underline">
-            Redo placement
-          </Link>
+      {(hasLessons || (placement?.data?.fitted && !placement.progress)) && (
+        <p className="mt-12 flex justify-center gap-6 text-center">
+          {hasLessons && (
+            <Link to="/grammar" className="text-xs text-ink-soft underline">
+              문법 · Grammar
+            </Link>
+          )}
+          {placement?.data?.fitted && !placement.progress && (
+            <Link to="/placement" className="text-xs text-ink-soft underline">
+              Redo placement
+            </Link>
+          )}
         </p>
       )}
     </div>
   );
 }
 
-function UpNext({ ep, rows }: { ep: Episode; rows: States }) {
+function UpNext({ ep, rows, gate }: { ep: Episode; rows: States; gate: GrammarPoint | null }) {
   const label = epLabel(ep);
-  return (
-    <Link
-      to={`/read/${ep.id}`}
-      className="mb-10 block rounded-xl border border-seal bg-seal-wash px-5 py-5 active:opacity-80"
-    >
+  const body = (
+    <>
       <p className="text-xs font-bold tracking-wide text-seal">다음 · UP NEXT</p>
       <h2 className="mt-2 font-title text-2xl font-bold">
         {label && <span className="mr-2 text-seal">{label}</span>}
@@ -118,7 +125,33 @@ function UpNext({ ep, rows }: { ep: Episode; rows: States }) {
           <span key={r}>{REGISTER_LABEL[r] ?? r}</span>
         ))}
       </div>
-    </Link>
+    </>
+  );
+  if (!gate)
+    return (
+      <Link
+        to={`/read/${ep.id}`}
+        className="mb-10 block rounded-xl border border-seal bg-seal-wash px-5 py-5 active:opacity-80"
+      >
+        {body}
+      </Link>
+    );
+  // A new grammar point leads the episode: lesson first, the episode stays one tap away.
+  return (
+    <div className="mb-10 rounded-xl border border-seal bg-seal-wash px-5 py-5">
+      {body}
+      <Link
+        to={`/grammar/${encodeURIComponent(gate.code)}?then=${encodeURIComponent(ep.id)}`}
+        className="mt-4 flex min-h-12 items-center justify-center rounded-full bg-seal px-6 font-title text-lg font-bold text-card active:opacity-80"
+      >
+        Grammar first: {gate.label_ko}
+      </Link>
+      <div className="mt-1 text-center">
+        <Link to={`/read/${ep.id}`} className="inline-flex min-h-11 items-center px-2 text-xs text-ink-soft underline">
+          Skip to the episode
+        </Link>
+      </div>
+    </div>
   );
 }
 

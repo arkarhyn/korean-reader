@@ -31,6 +31,7 @@ class Morph:
     tag: str  # base tag, -I/-R suffix stripped
     start: int
     end: int
+    irr: bool = False  # Kiwi's -I suffix: an irregular predicate stem (덥 VA-I), seen or not
 
 
 @dataclass(frozen=True)

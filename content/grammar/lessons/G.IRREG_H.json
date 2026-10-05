@@ -1,0 +1,71 @@
+{
+  "code": "G.IRREG_H",
+  "title_en": "ㅎ irregular -- 이래요, 빨개요, 하얀",
+  "summary_en": "Adjectives like 이렇다, 그렇다, 어떻다 and color words (빨갛다, 하얗다) lose their ㅎ before vowel endings, with a vowel shift before 아/어.",
+  "ja_parallel": "こう／そう／どう・赤い／白い（意味の対応のみ）",
+  "ja_diff_note": "Japanese has no matching sound change; the parallel is only in meaning (이렇다 = こうだ, 그래요 = そうです, 어때요 = どうですか). The conjugated forms look far from the dictionary form, so learn 그래, 어때, 빨개 as chunks.",
+  "notes": [
+    "Before 아/어: ㅎ drops and the vowel becomes ㅐ: 이렇다 -> 이래요, 어떻다 -> 어때요, 빨갛다 -> 빨개요; 하얗다 -> 하얘요.",
+    "Before 으: ㅎ and 으 both drop: 빨갛다 + -(으)ㄴ -> 빨간, 이렇다 + -(으)면 -> 이러면, 그렇다 + -(으)니까 -> 그러니까.",
+    "Consonant endings keep ㅎ: 빨갛고, 그렇지, 이렇게.",
+    "좋다 (and the verbs 넣다, 놓다, 낳다) are regular: 좋아요, 좋은, 좋으면, 넣어요."
+  ],
+  "examples": [
+    {
+      "ko": "어머님, 이 김치는 왜 이렇게 빨개요?",
+      "en": "Mother, why is this kimchi so red?",
+      "ja": "お母さん、このキムチはどうしてこんなに赤いんですか。"
+    },
+    {
+      "ko": "그래? 그럼 하얀 거 사자.",
+      "en": "Really? Then let's get the white one.",
+      "ja": "そう？じゃあ白いの買おう。"
+    }
+  ],
+  "drills": [
+    {
+      "prompt_ko": "이 셔츠 색깔 어때? 좀 ___?",
+      "prompt_en": "How's the color of this shirt? A bit too red?",
+      "options": [
+        "빨갛아",
+        "빨개",
+        "빨가"
+      ],
+      "answer": 1,
+      "explain_en": "빨갛다 + 아: ㅎ drops and the vowel becomes ㅐ, giving 빨개."
+    },
+    {
+      "prompt_ko": "___ 꽃이 정말 예쁘네요.",
+      "prompt_en": "The white flowers are really pretty.",
+      "options": [
+        "하얀",
+        "하얗은",
+        "하얘"
+      ],
+      "answer": 0,
+      "explain_en": "Before -(으)ㄴ, ㅎ and 으 both drop: 하얗다 -> 하얀."
+    },
+    {
+      "prompt_ko": "날씨가 ___ 공원에 가자.",
+      "prompt_en": "If the weather's nice, let's go to the park.",
+      "options": [
+        "조면",
+        "좋면",
+        "좋으면"
+      ],
+      "answer": 2,
+      "explain_en": "좋다 is regular, so it takes -으면 normally: 좋으면."
+    },
+    {
+      "prompt_ko": "준수가 또 늦게 일어났어? 걔 원래 ___.",
+      "prompt_en": "준수 slept in again? He's always like that.",
+      "options": [
+        "그렇어",
+        "그래",
+        "그런"
+      ],
+      "answer": 1,
+      "explain_en": "그렇다 + 어 -> 그래; 그런 is a noun modifier and can't end the sentence."
+    }
+  ]
+}

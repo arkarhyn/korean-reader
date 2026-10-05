@@ -15,7 +15,8 @@ from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 from .analyzer import analyze, proper_nouns, story_names
-from .analyzer.patterns import count_grammar, seed_patterns
+from .analyzer import morphemes
+from .analyzer.patterns import count_grammar, find, seed_patterns
 from .config import REPO_ROOT
 from .content.schema import Episode as EpisodeDoc
 from .coverage import coverage
@@ -140,10 +141,11 @@ def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
     now = utcnow()
     grows = {g.code: g for g in session.scalars(select(GrammarState))}
     grammar = []
-    for gp in session.scalars(select(GrammarPoint).order_by(GrammarPoint.htsk_lesson, GrammarPoint.code)):
+    for gp in sorted(session.scalars(select(GrammarPoint)), key=lambda gp: (gp.order, gp.code)):
         g = grows.get(gp.code)
-        grammar.append({"code": gp.code, "label_ko": gp.label_ko, "lesson": gp.htsk_lesson,
-                        "state": g.state if g else "new", "ja": gp.ja_parallel, "pattern": bool(gp.kiwi_pattern),
+        grammar.append({"code": gp.code, "label_ko": gp.label_ko, "lesson": gp.htsk_lesson, "order": gp.order,
+                        "state": g.state if g else "new", "tested": g is not None, "has_lesson": gp.lesson is not None,
+                        "ja": gp.ja_parallel, "pattern": bool(gp.kiwi_pattern),
                         "due": g is not None and due_now(g.state, g.fsrs_card, now)})
 
     episodes = session.scalars(select(Episode).where(Episode.series.in_(CONTENT_SERIES))
@@ -169,7 +171,10 @@ def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
         "new_word_candidates": [_lexeme_row(lx) for lx in candidates],
         "grammar": grammar,
         "grammar_usable": [g["code"] for g in grammar if g["state"] in GRAMMAR_USABLE],
-        "grammar_avoid": [g["code"] for g in grammar if g["state"] == "new"],
+        "grammar_avoid": [g["code"] for g in grammar if g["state"] == "new" and (g["tested"] or g["has_lesson"])],
+        "grammar_untested": [g["code"] for g in grammar if g["state"] == "new" and not g["tested"] and not g["has_lesson"]],
+        # Stage 8: at most one new point per batch, as one episode's target; its lesson card gates that episode.
+        "next_new_targets": [g["code"] for g in grammar if g["state"] == "new" and g["has_lesson"] and g["pattern"]][:3],
         "suggested_targets": suggested,
         "recent_episodes": [{"id": e.id, "series": e.series, "title_ko": e.title_ko, "title_en": e.title_en,
                              "target_grammar": e.target_grammar, "summary": e.summary, "coverage": e.coverage,
@@ -204,6 +209,7 @@ class DraftReport:
     unknown: list[Unknown]
     avoid_grammar: dict[str, int] = field(default_factory=dict)
     problems: list[str] = field(default_factory=list)
+    warnings: list[str] = field(default_factory=list)  # reported, not failing
 
     @property
     def new_words(self) -> list[Unknown]:
@@ -227,6 +233,22 @@ def batch_due_coverage(session: Session, docs: list[EpisodeDoc], top: int = 15) 
     due = [lx.lemma for lx, _ in due_lexemes(session)[:top]]
     used = {t.lemma for doc in docs for para in doc.paragraphs for t in analyze(para.ko) if t.kind == "content"}
     return [w for w in due if w in used], [w for w in due if w not in used]
+
+
+def _inside_usable(text: str, usable: set[str]) -> Counter[str]:
+    """Per code, matches lying wholly inside a match of a usable point (-기 in -기 전에): not new use."""
+    patterns = seed_patterns()
+    morphs = morphemes(text)
+    spans = {code: find(morphs, pat) for code, pat in patterns.items()}
+    cover = [sp for code in usable if code in spans for sp in spans[code]]
+    out: Counter[str] = Counter()
+    for code, sps in spans.items():
+        if code in usable:
+            continue
+        n = sum(1 for s, e in sps if any(cs <= s and e <= ce and (cs, ce) != (s, e) for cs, ce in cover))
+        if n:
+            out[code] = n
+    return out
 
 
 def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] | None = None) -> DraftReport:
@@ -253,8 +275,16 @@ def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] |
                                is_due=lx is not None and lx.id in due_ids))
 
     gstates = {g.code: g.state for g in session.scalars(select(GrammarState))}
+    lessons = {gp.code for gp in session.scalars(select(GrammarPoint)) if gp.lesson}  # JSON null != SQL NULL
     grammar_counts = sum((count_grammar(para.ko) for para in doc.paragraphs), Counter())
-    avoid = {c: n for c, n in grammar_counts.items() if gstates.get(c, "new") == "new" and c != doc.target_grammar}
+    usable = {c for c, st in gstates.items() if st in GRAMMAR_USABLE}
+    inside = sum((_inside_usable(para.ko, usable) for para in doc.paragraphs), Counter())
+    # Gating (SPEC 3.4, DECISIONS 92): `new` with a state row (placement said unknown) or with a lesson
+    # card waiting = blocked; never tested (L29+, no row) and no lesson yet = a warning only.
+    used_new = {c: n - inside[c] for c, n in grammar_counts.items()
+                if gstates.get(c, "new") == "new" and c != doc.target_grammar and n > inside[c]}
+    avoid = {c: n for c, n in used_new.items() if c in gstates or c in lessons}
+    untested = {c: n for c, n in used_new.items() if c not in avoid}
     target_count = grammar_counts.get(doc.target_grammar, 0) if doc.target_grammar else None
 
     r = DraftReport(doc.id, cov, sum(1 for t in toks if t.kind == "content"), hangul_len(text),
@@ -288,8 +318,17 @@ def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] |
         r.problems.append(f"{doc.target_grammar} has no kiwi_pattern; cannot count it")
     elif not TARGET_GRAMMAR[0] <= (target_count or 0) <= TARGET_GRAMMAR[1]:
         r.problems.append(f"{doc.target_grammar} x{target_count} (want {TARGET_GRAMMAR[0]}-{TARGET_GRAMMAR[1]})")
+    if doc.target_grammar and gstates.get(doc.target_grammar, "new") == "new":
+        if doc.target_grammar in lessons:
+            r.warnings.append(f"target {doc.target_grammar} is new: its lesson card opens before this episode")
+        else:
+            r.problems.append(f"target {doc.target_grammar} is new and has no lesson card "
+                              f"(write content/grammar/lessons/{doc.target_grammar}.json)")
     if not HANGUL_CHARS[0] <= r.hangul <= HANGUL_CHARS[1]:
         r.problems.append(f"{r.hangul} hangul chars (want {HANGUL_CHARS[0]}-{HANGUL_CHARS[1]})")
     if avoid:
         r.problems.append("uses grammar at state new: " + ", ".join(f"{c} x{n}" for c, n in avoid.items()))
+    if untested:
+        r.warnings.append("uses untested grammar (no lesson yet; keep it light): "
+                          + ", ".join(f"{c} x{n}" for c, n in sorted(untested.items(), key=lambda kv: -kv[1])))
     return r

@@ -1,0 +1,71 @@
+{
+  "code": "G.SEUREOPDA",
+  "title_en": "-스럽다 -- 'full of / -like'",
+  "summary_en": "Turns certain nouns into adjectives meaning 'giving the feeling of N' (사랑 -> 사랑스럽다 'lovable', 자연 -> 자연스럽다 'natural').",
+  "ja_parallel": "〜らしい／〜っぽい（性質）",
+  "ja_diff_note": "Like 男らしい or 大人っぽい it means 'having the quality of N', but it never carries the hearsay or guessing らしい (that is -나 보다 / -대요). It is also lexical: only set nouns take it, so you can't attach it freely the way you can with っぽい.",
+  "notes": [
+    "Noun + 스럽다, conjugated as a ㅂ-irregular: 자연스러워요, 사랑스러운 아기, 걱정스러웠어요.",
+    "Common ones: 자연스럽다 (natural), 사랑스럽다 (lovable), 부담스럽다 (too much, burdensome), 어른스럽다 (mature), 촌스럽다 (tacky), 걱정스럽다 (worrying).",
+    "Adverb form: -스럽게: 자연스럽게 말해요.",
+    "Related: -답다 (true to being N: 남자답다) and -적 (Sino 的)."
+  ],
+  "examples": [
+    {
+      "ko": "이선 씨, 한국어 발음이 정말 자연스러워요.",
+      "en": "Ethan, your Korean pronunciation is really natural.",
+      "ja": "イーサンさん、韓国語の発音がとても自然ですね。"
+    },
+    {
+      "ko": "너무 비싼 선물은 좀 부담스러워.",
+      "en": "A really expensive present feels like a bit much.",
+      "ja": "あんまり高いプレゼントはちょっと気が重いな。"
+    }
+  ],
+  "drills": [
+    {
+      "prompt_ko": "준수는 막내인데 가끔 진짜 ___.",
+      "prompt_en": "준수 is the youngest, but sometimes he's really mature.",
+      "options": [
+        "어른스럽어",
+        "어른스러워",
+        "어른스러운"
+      ],
+      "answer": 1,
+      "explain_en": "ㅂ-irregular: 스럽 + 어 -> 스러워; 어른스러운 is a noun modifier and can't end the sentence."
+    },
+    {
+      "prompt_ko": "한국 사람처럼 ___ 말하고 싶어요.",
+      "prompt_en": "I want to speak naturally, like a Korean.",
+      "options": [
+        "자연스러운",
+        "자연적",
+        "자연스럽게"
+      ],
+      "answer": 2,
+      "explain_en": "To modify the verb 말하다 you need the adverb form -스럽게."
+    },
+    {
+      "prompt_ko": "어머님이 반찬을 너무 많이 주셔서 좀 ___.",
+      "prompt_en": "Your mom gave me so many side dishes, it's a bit much.",
+      "options": [
+        "부담스러워",
+        "부담해",
+        "부담스럽어"
+      ],
+      "answer": 0,
+      "explain_en": "부담스럽다 = feeling burdened, and the ㅂ-irregular gives 부담스러워; 부담하다 means 'to bear a cost'."
+    },
+    {
+      "prompt_ko": "정말 ___ 아기네요!",
+      "prompt_en": "What a lovable baby!",
+      "options": [
+        "사랑스러운",
+        "사랑스럽은",
+        "사랑스러워"
+      ],
+      "answer": 0,
+      "explain_en": "Before a noun, ㅂ-irregular 스럽 + 은 becomes 스러운."
+    }
+  ]
+}

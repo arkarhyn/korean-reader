@@ -1,0 +1,71 @@
+{
+  "code": "G.EUM",
+  "title_en": "-(으)ㅁ -- the written-style noun form",
+  "summary_en": "Stem + -(으)ㅁ makes a noun; many results are fixed words (기쁨, 잠, 춤), and in notes and notices it ends a sentence as a terse statement (공사 중임).",
+  "ja_parallel": "連用形名詞（喜び・眠り・踊り）／体言止め",
+  "ja_diff_note": "The fixed nouns line up neatly with 喜び, 悲しみ, 踊り. The memo/notice style (오늘 휴무임, 다 먹었음) has no exact Japanese form; it feels like 体言止め or a terse note. In ordinary speech, don't build new -(으)ㅁ nouns: use -는 것 or -기.",
+  "notes": [
+    "Vowel stem + ㅁ, consonant stem + 음: 자다 -> 잠, 추다 -> 춤, 웃다 -> 웃음, 기쁘다 -> 기쁨, 슬프다 -> 슬픔. ㄹ stems take ㄻ: 살다 -> 삶.",
+    "Common fixed nouns: 잠 (sleep), 꿈 (dream), 춤 (dance), 웃음 (laughter), 걸음 (step), 기쁨 (joy), 슬픔 (sadness).",
+    "Notes and notices end in -(으)ㅁ, past -았/었음: 공사 중임, 오늘 휴무임, 확인했음. Texting uses it jokingly too (배고픔).",
+    "Rough split: -(으)ㅁ = written, states a fact; -기 = the action itself and set frames (하기 싫다); -는 것 = the all-purpose spoken choice."
+  ],
+  "examples": [
+    {
+      "ko": "아빠는 텃밭에서 일하는 게 삶의 기쁨이래.",
+      "en": "Dad says working in the garden is the joy of his life.",
+      "ja": "お父さんは畑仕事が人生の喜びなんだって。"
+    },
+    {
+      "ko": "엄마 오늘 늦음. 저녁은 냉장고에 있음.",
+      "en": "Mom's late today. Dinner's in the fridge.",
+      "ja": "母、今日遅くなる。夕飯は冷蔵庫に。"
+    }
+  ],
+  "drills": [
+    {
+      "prompt_ko": "어젯밤에 ___ 안 와서 피곤해요.",
+      "prompt_en": "I couldn't fall asleep last night, so I'm tired.",
+      "options": [
+        "자기가",
+        "잠이",
+        "자는 게"
+      ],
+      "answer": 1,
+      "explain_en": "'Sleep won't come' is the set phrase 잠이 안 오다, using the noun 잠."
+    },
+    {
+      "prompt_ko": "준수는 ___ 정말 못 춰.",
+      "prompt_en": "준수 really can't dance.",
+      "options": [
+        "춤을",
+        "추기를",
+        "추는 걸"
+      ],
+      "answer": 0,
+      "explain_en": "추다 takes its own noun 춤 as the object: 춤을 추다."
+    },
+    {
+      "prompt_ko": "(냉장고 메모) 우유 다 ___. -서윤",
+      "prompt_en": "(Fridge note) Finished all the milk. -Seoyun",
+      "options": [
+        "먹은 것",
+        "먹었기",
+        "먹었음"
+      ],
+      "answer": 2,
+      "explain_en": "Memos end in -(으)ㅁ, with past -었음 for something already done."
+    },
+    {
+      "prompt_ko": "아, 회사 ___ 싫다.",
+      "prompt_en": "Ugh, I don't want to go to work.",
+      "options": [
+        "감",
+        "가기",
+        "갔음"
+      ],
+      "answer": 1,
+      "explain_en": "The spoken frame 'don't want to' is -기 싫다; -(으)ㅁ doesn't fit it."
+    }
+  ]
+}

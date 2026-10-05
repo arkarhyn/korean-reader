@@ -15,6 +15,8 @@ Rules (Stage 6 plan, Austin 2026-10-05):
 - grammar is graded only by grammar_check answers.
 - set_state is a manual override; "I forgot this" (-> learning) soft-lapses the card.
 - review_answer (Quick review) grades a due card.
+- grammar_lesson_complete (Stage 8): new -> introduced with a first review from the drill
+  score; a redo grades only a due point.
 """
 
 import zlib
@@ -37,6 +39,7 @@ GRADUATE_DAYS = 21.0
 SOFT_LAPSE_DAYS = 3.0
 DEFAULT_DIFFICULTY = 5.0
 EASY_MS = 8000
+LESSON_GOOD, LESSON_HARD = 0.75, 0.5  # drill share right -> Good / Hard, below -> Again
 BASE_DUE = datetime(2000, 1, 1, tzinfo=UTC)  # unreviewed baseline cards: due since forever
 
 LEXEME_STATES = ("new", "seen", "learning", "known", "ignored")
@@ -221,6 +224,29 @@ class Replay:
         rec = self.lex.get(lex_id) if isinstance(lex_id, int) else None
         if rec is not None and is_due(rec.card, ts) and rec.state not in KNOWN:
             rate(rec, lex_id, Rating.Good if p.get("correct") else Rating.Again, ts, LEX)
+
+    def on_grammar_lesson_complete(self, ts: datetime, p: dict[str, Any]) -> None:
+        """Lesson card + drills (Stage 8): a `new` point becomes introduced, its first review graded
+        by the drill score. A later redo grades only when the point is due."""
+        code = p.get("code")
+        if code not in self.grammar_codes:
+            return
+        correct, total = p.get("correct"), p.get("total")
+        if not isinstance(correct, int) or not isinstance(total, int) or total <= 0:
+            return
+        ratio = correct / total
+        rating = Rating.Good if ratio >= LESSON_GOOD else Rating.Hard if ratio >= LESSON_HARD else Rating.Again
+        card_id = grammar_card_id(code)
+        rec = self.gram.get(code)
+        if rec is None:
+            rec = self.gram[code] = Rec(state="new", source="lesson", first_seen_at=ts)
+        if rec.state == "new":
+            rec.card, _ = SCHEDULER.review_card(rec.card or new_card(card_id, ts), rating, ts)
+            rec.state, rec.source = "introduced", "lesson"
+        elif is_due(rec.card, ts):
+            rate(rec, card_id, rating, ts, GRAM)
+        rec.exposures += 1
+        rec.last_seen_at = ts
 
     def on_episode_complete(self, ts: datetime, p: dict[str, Any]) -> None:
         ep_id = p.get("episode_id")

@@ -40,6 +40,8 @@ def main() -> None:
                   f"{len(r.new_words)} new, {len(r.due_words)} due")
             for p in r.problems:
                 print(f"  ! {p}")
+            for w in r.warnings:
+                print(f"  ~ {w}")
             for u in r.unknown:
                 tag = f"due:{u.state}" if u.is_due else (u.state or "no row")
                 rank = f"#{u.rank}" if u.rank else "unranked"

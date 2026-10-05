@@ -1,0 +1,71 @@
+{
+  "code": "G.GI_NOMINAL",
+  "title_en": "-기 -- turning a verb into a noun",
+  "summary_en": "Stem + 기 turns a verb or adjective into a noun ('doing X'), used with particles and in fixed frames like -기 싫다 and -기 쉽다.",
+  "ja_parallel": "〜こと／〜の、連用形名詞（読み・書き）",
+  "ja_diff_note": "-기 covers only part of こと/の: Korean uses -기 for the action in general and in set frames (하기 싫다, 먹기 쉽다), but -는 것 for a specific fact (온 걸 알았다), while Japanese uses こと/の for both. Skill names like 읽기, 쓰기 line up with 読み, 書き.",
+  "notes": [
+    "Stem + 기, no tense: 읽기, 걷기, 요리하기. It takes particles like any noun: 걷기가 좋아요, 요리하기를 좋아해요.",
+    "Fixed frames: -기 싫다 (don't want to), -기 쉽다/어렵다 (easy/hard to), -기 좋다/편하다 (good/convenient for), -기 시작하다 (start to); plus -기 전에 and -기 때문에.",
+    "With 좋아하다 both work (요리하는 것을 / 요리하기를 좋아해요), but for knowing or seeing a fact use -는 것: 비가 온 걸 몰랐어요.",
+    "To-do lists and goals often end in -기: 매일 30분 걷기."
+  ],
+  "examples": [
+    {
+      "ko": "아, 일어나기 싫다. 오늘 일요일이잖아.",
+      "en": "Ugh, I don't want to get up. It's Sunday.",
+      "ja": "あー、起きたくない。今日日曜じゃん。"
+    },
+    {
+      "ko": "이 동네는 산책하기 좋아요.",
+      "en": "This neighborhood is great for walks.",
+      "ja": "この辺は散歩するのにいいですよ。"
+    }
+  ],
+  "drills": [
+    {
+      "prompt_ko": "한국어는 ___ 쉬운데 듣기는 어려워.",
+      "prompt_en": "Reading Korean is easy, but listening is hard.",
+      "options": [
+        "읽기는",
+        "읽는",
+        "읽고"
+      ],
+      "answer": 0,
+      "explain_en": "쉽다 takes a -기 noun ('reading is easy'), matching 듣기는 in the second half."
+    },
+    {
+      "prompt_ko": "비가 와서 밖에 ___ 싫어.",
+      "prompt_en": "It's raining, so I don't want to go out.",
+      "options": [
+        "나가는",
+        "나가기",
+        "나가게"
+      ],
+      "answer": 1,
+      "explain_en": "'Don't want to' is the fixed frame -기 싫다."
+    },
+    {
+      "prompt_ko": "할머니 댁은 지하철역 근처라서 ___ 편해요.",
+      "prompt_en": "Grandma's place is near the subway station, so it's easy to get to.",
+      "options": [
+        "가게",
+        "가는",
+        "가기"
+      ],
+      "answer": 2,
+      "explain_en": "-기 편하다 = convenient to do; the frame needs the -기 noun."
+    },
+    {
+      "prompt_ko": "서윤이가 화가 ___ 몰랐어.",
+      "prompt_en": "I didn't know Seoyun was angry.",
+      "options": [
+        "난 걸",
+        "나기를",
+        "나기"
+      ],
+      "answer": 0,
+      "explain_en": "Knowing a specific fact uses -(으)ㄴ/는 것 (걸), not -기."
+    }
+  ]
+}

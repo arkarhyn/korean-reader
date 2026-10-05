@@ -87,12 +87,38 @@ export type ReviewItem = {
   order?: number;
 };
 
+/** Stage 8 grammar track: a lesson card + examples + fill-the-blank drills. */
+export type GrammarDrill = { prompt_ko: string; prompt_en: string; options: string[]; answer: number; explain_en: string };
+export type GrammarExample = { ko: string; en: string; ja: string };
+export type GrammarLesson = {
+  code: string;
+  title_en: string;
+  summary_en: string;
+  ja_parallel: string | null;
+  ja_diff_note: string | null;
+  notes: string[];
+  examples: GrammarExample[];
+  drills: GrammarDrill[];
+};
+export type GrammarState = "new" | "introduced" | "practicing" | "solid";
+export type GrammarPoint = {
+  code: string;
+  label_ko: string;
+  htsk_lesson: number | null;
+  teach_order: number | null;
+  state: GrammarState;
+  ja_parallel: string | null;
+  ja_diff_note: string | null;
+  lesson: GrammarLesson | null;
+};
+
 export type SyncPull = {
   server_time: string;
   episodes: Episode[];
   lexeme_states: LexemeState[];
   completed?: Completed[]; // read marks from every device
   review_items?: ReviewItem[]; // always the full (short) list
+  grammar?: GrammarPoint[]; // always the full list (older servers omit it)
 };
 
 export type EventType =
@@ -104,6 +130,7 @@ export type EventType =
   | "flag_sentence"
   | "placement_answer"
   | "grammar_drill_answer"
+  | "grammar_lesson_complete"
   | "set_state"
   | "word_untap"
   | "review_answer"

@@ -96,6 +96,15 @@ class GrammarPoint(Base):
     htsk_lesson: Mapped[int | None]
     kiwi_pattern: Mapped[list[Any] | None]
     prereqs: Mapped[list[Any]] = mapped_column(default=list)
+    teach_order: Mapped[float | None]  # overrides htsk_lesson for teaching order (Stage 8)
+    lesson: Mapped[dict[str, Any] | None]  # lesson card, content/grammar/lessons/<code>.json
+
+    @property
+    def order(self) -> float:
+        """Position in the teaching order: teach_order, else the HTSK lesson (unplaced last)."""
+        if self.teach_order is not None:
+            return self.teach_order
+        return float(self.htsk_lesson) if self.htsk_lesson is not None else 999.0
 
 
 class GrammarState(Base):

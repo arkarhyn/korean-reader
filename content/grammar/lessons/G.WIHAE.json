@@ -1,0 +1,71 @@
+{
+  "code": "G.WIHAE",
+  "title_en": "위해(서) -- 'for the sake of / in order to'",
+  "summary_en": "Names a beneficiary (N을 위해) or a purpose (-기 위해): for someone, or in order to do something.",
+  "ja_parallel": "ために",
+  "ja_diff_note": "Covers ために's benefit and purpose uses, but not its cause use: 雨のために中止 is 비 때문에, never 비를 위해. Purpose needs the -기 form of a verb, and in casual speech -(으)려고 is far more common, so 위해 sounds a bit earnest.",
+  "notes": [
+    "N + 을/를 + 위해(서) (위하다 takes an object): 가족을 위해, 너를 위해서.",
+    "Before a noun: N을 위한 N: 엄마를 위한 선물.",
+    "Verb stem + 기 위해(서): 한국어를 배우기 위해. For adjectives, first make a verb: 건강해지기 위해.",
+    "Cause or reason is 때문에. Everyday purpose is often -(으)려고: 살 빼려고 걸어요."
+  ],
+  "examples": [
+    {
+      "ko": "어머님을 위해서 일본 과자를 사 왔어요.",
+      "en": "I brought some Japanese snacks for you, Mother.",
+      "ja": "お母さんのために日本のお菓子を買ってきました。"
+    },
+    {
+      "ko": "이선은 할머니하고 이야기하기 위해서 높임말을 연습해요.",
+      "en": "Ethan practices honorific speech so he can talk with Grandma.",
+      "ja": "イーサンはおばあちゃんと話すために敬語を練習しています。"
+    }
+  ],
+  "drills": [
+    {
+      "prompt_ko": "아버님은 가족___ 평생 열심히 일하셨어요.",
+      "prompt_en": "Father worked hard his whole life for the family.",
+      "options": [
+        "이 위해서",
+        "을 위해서",
+        "에 위해서"
+      ],
+      "answer": 1,
+      "explain_en": "위하다 is transitive, so the beneficiary takes the object particle 을/를."
+    },
+    {
+      "prompt_ko": "한국어를 ___ 위해서 드라마를 봐요.",
+      "prompt_en": "I watch dramas in order to learn Korean.",
+      "options": [
+        "배우기",
+        "배우는",
+        "배워서"
+      ],
+      "answer": 0,
+      "explain_en": "Purpose is verb stem + 기 위해(서); the modifier -는 doesn't attach to 위해."
+    },
+    {
+      "prompt_ko": "비___ 소풍을 못 갔어.",
+      "prompt_en": "We couldn't go on the picnic because of the rain.",
+      "options": [
+        "를 위해서",
+        "때문에",
+        "에 대해서"
+      ],
+      "answer": 1,
+      "explain_en": "Cause is 때문에; unlike ために, 위해 never expresses a reason."
+    },
+    {
+      "prompt_ko": "이건 서윤이___ 선물이야.",
+      "prompt_en": "This is a present for Seoyun.",
+      "options": [
+        "를 위해",
+        "때문에",
+        "를 위한"
+      ],
+      "answer": 2,
+      "explain_en": "Directly before a noun (선물) you need the modifier form 를 위한."
+    }
+  ]
+}

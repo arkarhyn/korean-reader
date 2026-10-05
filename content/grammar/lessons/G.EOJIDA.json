@@ -1,0 +1,71 @@
+{
+  "code": "G.EOJIDA",
+  "title_en": "-아/어지다 -- 'become' (with adjectives)",
+  "summary_en": "Attached to an adjective, it describes a change of state: getting colder, getting busier, getting better.",
+  "ja_parallel": "〜くなる／〜になる",
+  "ja_diff_note": "Same idea as 寒くなる, but Korean fuses 지다 onto the 아/어 form instead of adding a separate なる; for nouns ('become a teacher') Korean uses 되다. On action verbs -아/어지다 turns passive-like (만들어지다 = 作られる), which くなる never does.",
+  "notes": [
+    "Adjective stem + 아/어 + 지다: 춥다 -> 추워지다, 크다 -> 커지다, 바쁘다 -> 바빠지다, 좋다 -> 좋아지다.",
+    "Then conjugate 지다 as usual: 추워졌어요 (got cold), 추워질 거예요 (will get cold), 추워지고 있어요 (is getting cold).",
+    "Nouns take 되다, not 지다: 선생님이 됐어요.",
+    "Don't confuse with -아/어하다 (좋아해요 = likes) or -게 되다 (end up doing, mostly with verbs)."
+  ],
+  "examples": [
+    {
+      "ko": "날씨가 많이 추워졌어요. 텃밭 채소는 괜찮아요?",
+      "en": "The weather has gotten really cold. Are the garden vegetables okay?",
+      "ja": "だいぶ寒くなりましたね。畑の野菜は大丈夫ですか。"
+    },
+    {
+      "ko": "너 한국어 진짜 좋아졌다!",
+      "en": "Your Korean has gotten so much better!",
+      "ja": "韓国語、ほんとに上手になったね！"
+    }
+  ],
+  "drills": [
+    {
+      "prompt_ko": "요즘 회사 일이 많이 ___.",
+      "prompt_en": "Work has gotten really busy lately.",
+      "options": [
+        "바쁘졌어요",
+        "바빠졌어요",
+        "바빠했어요"
+      ],
+      "answer": 1,
+      "explain_en": "바쁘다 drops ㅡ before 아 (바빠), then adds 지다; 바빠하다 means 'act busy', not 'become busy'."
+    },
+    {
+      "prompt_ko": "밥 먹으니까 기분이 ___.",
+      "prompt_en": "Now that I've eaten, I feel better.",
+      "options": [
+        "좋아했어",
+        "좋아졌어",
+        "좋게 했어"
+      ],
+      "answer": 1,
+      "explain_en": "좋아지다 = to get better (良くなる); 좋아했어 means 'liked'."
+    },
+    {
+      "prompt_ko": "준수 키가 많이 ___.",
+      "prompt_en": "준수 has gotten a lot taller!",
+      "options": [
+        "커했네",
+        "크졌네",
+        "커졌네"
+      ],
+      "answer": 2,
+      "explain_en": "크다 drops ㅡ to 커, then adds 지다: 커졌네."
+    },
+    {
+      "prompt_ko": "제 친구는 내년에 선생님이 ___.",
+      "prompt_en": "My friend will become a teacher next year.",
+      "options": [
+        "될 거예요",
+        "질 거예요",
+        "해질 거예요"
+      ],
+      "answer": 0,
+      "explain_en": "With a noun, 'become' is 이/가 되다; 지다 only attaches to adjectives here."
+    }
+  ]
+}

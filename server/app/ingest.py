@@ -19,7 +19,7 @@ from .coverage import coverage, expand_known
 from .db.models import (ContextSentence, Episode, EpisodeParagraph, GrammarPoint, GrammarState, Lexeme, LexemeState,
                         Question, utcnow)
 from .krdict.client import KrdictEntry
-from .seed import load_flagged_vocab, load_grammar_points
+from .seed import load_flagged_vocab, load_grammar_points, load_lessons
 from .srs import counts_known, due_now
 
 Lookup = Callable[[str, str], KrdictEntry | None]
@@ -251,14 +251,19 @@ def seed(session: Session, lookup: Lookup | None) -> None:
         if session.get(GrammarPoint, code) is None:
             session.add(GrammarPoint(code=code, label_ko=label))
     session.flush()
-    for p in load_grammar_points():
+    lessons = load_lessons()
+    points = load_grammar_points()
+    if unknown := lessons.keys() - {p.code for p in points}:
+        raise ValueError(f"lessons for codes not in grammar_points.json: {sorted(unknown)}")
+    for p in points:
         gp = session.get(GrammarPoint, p.code)
         if gp is None:
             gp = GrammarPoint(code=p.code)
             session.add(gp)
-        gp.label_ko, gp.htsk_lesson = p.label_ko, p.htsk_lesson
+        gp.label_ko, gp.htsk_lesson, gp.teach_order = p.label_ko, p.htsk_lesson, p.teach_order
         gp.ja_parallel, gp.ja_diff_note = p.ja_parallel, p.ja_diff_note
         gp.kiwi_pattern = p.kiwi_pattern
+        gp.lesson = lessons.get(p.code)
     session.flush()
 
     lexemes, grammar = load_flagged_vocab()

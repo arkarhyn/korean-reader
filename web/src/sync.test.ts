@@ -10,6 +10,7 @@ function fakeServer() {
   let posts = 0;
   let completed: { episode_id: string; completed_at: string }[] = [];
   let reviewItems: unknown[] | undefined;
+  let grammar: unknown[] | undefined;
   const fetchFn = vi.fn(async (url: string, init?: RequestInit) => {
     if (down) throw new TypeError("Failed to fetch");
     if (url.startsWith("/api/events/batch")) {
@@ -27,6 +28,7 @@ function fakeServer() {
         lexeme_states: [],
         completed,
         review_items: reviewItems,
+        ...(grammar !== undefined ? { grammar } : {}),
       });
     }
     return new Response(null, { status: 404 });
@@ -38,6 +40,7 @@ function fakeServer() {
     posts: () => posts,
     setCompleted: (c: typeof completed) => (completed = c),
     setReviewItems: (r: unknown[] | undefined) => (reviewItems = r),
+    setGrammar: (g: unknown[] | undefined) => (grammar = g),
   };
 }
 
@@ -108,6 +111,22 @@ describe("sync", () => {
     server.setReviewItems(undefined);
     await s.sync();
     expect(await db.reviewItems.count()).toBe(1);
+  });
+
+  it("replaces grammar points wholesale on every pull (missing = none)", async () => {
+    const server = fakeServer();
+    const s = createSync(db, server.fetchFn);
+    const point = (code: string, state = "new") => ({ code, label_ko: code, htsk_lesson: null, teach_order: 1, state,
+      ja_parallel: null, ja_diff_note: null, lesson: null });
+    server.setGrammar([point("G.A"), point("G.B")]);
+    await s.sync();
+    expect((await db.grammar.toArray()).map((g) => g.code).sort()).toEqual(["G.A", "G.B"]);
+    server.setGrammar([point("G.B", "introduced")]);
+    await s.sync();
+    expect(await db.grammar.toArray()).toMatchObject([{ code: "G.B", state: "introduced" }]);
+    server.setGrammar(undefined);
+    await s.sync();
+    expect(await db.grammar.count()).toBe(0);
   });
 
   it("shares one run between concurrent triggers", async () => {

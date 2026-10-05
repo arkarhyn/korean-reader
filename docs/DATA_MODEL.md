@@ -63,8 +63,10 @@ paragraph's translation.
 | ja_parallel | TEXT NULL | `〜ことにする` (filled from SYLLABUS_MAP) |
 | ja_diff_note | TEXT NULL | where the parallel breaks |
 | htsk_lesson | INTEGER NULL | syllabus position |
-| kiwi_pattern | JSON | morpheme matcher: list of alternatives, each a list of `{form?, tag?, form_re?}` for consecutive Kiwi morphemes (`app/analyzer/patterns.py`). Filled for the Stage 5 targets and `new` points; rest in Stage 8 |
+| kiwi_pattern | JSON | morpheme matcher: list of alternatives, each a list of `{form?, tag?, form_re?}` for consecutive Kiwi morphemes (`app/analyzer/patterns.py`). Filled for every point (Stage 8); also keys `irr` (Kiwi -I stem) and `jong` (final consonant) |
 | prereqs | JSON | list of codes |
+| teach_order | REAL NULL | teaching position when it differs from htsk_lesson (priority threads; Stage 8) |
+| lesson | JSON NULL | lesson card from `content/grammar/lessons/<code>.json` (Stage 8): title_en, summary_en, ja_parallel, ja_diff_note, notes[], examples[2] {ko,en,ja}, drills[3-5] {prompt_ko with `___`, prompt_en, options[], answer, explain_en} |
 
 ### grammar_state
 Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
@@ -130,6 +132,9 @@ Types: `episode_open`, `word_tap`, `episode_complete`, `question_answer`,
 `mine_word`, `flag_sentence`, `placement_answer`, `grammar_drill_answer`,
 `set_state` (manual override, e.g. ignore), `word_untap` (Stage 5), `review_answer` (Stage 6),
 `primer_request {episode_id}` (Stage 7: pre-teach a podcast part; fulfilled by a `primer` episode with `source = primer:<part id>`).
+`grammar_drill_answer {code, drill_idx, correct, ms, visit}` (Stage 8: one per drill, first tap; data only) and
+`grammar_lesson_complete {code, correct, total, visit}` (Stage 8: replay moves `new` -> `introduced` with a first
+FSRS review from the score: >= 75% Good, >= 50% Hard, else Again; a redo grades only a due point).
 
 Payloads written by the Stage 3 reader:
 `episode_open {episode_id}`, `word_tap {episode_id, paragraph_idx, start, end,
