@@ -1,13 +1,15 @@
 import { useLiveQuery } from "dexie-react-hooks";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router";
 import Questions from "../components/Questions";
 import WordPopover from "../components/WordPopover";
 import WordSpans from "../components/WordSpans";
 import { db } from "../db";
+import { readerKey, spokenText, step } from "../readAloud";
 import { segment } from "../segments";
 import { speakerColor } from "../speakers";
 import { syncer } from "../sync";
+import { tts } from "../tts";
 import type { Episode, Paragraph, Question } from "../types";
 import { type OnTap, useWordTaps } from "../useWordTaps";
 
@@ -47,11 +49,73 @@ export default function Reader() {
 // finishing hands the tapped lexemes back instead of logging episode_complete.
 export type PlacementMode = { onDone: (tapped: number[]) => void };
 
+const AUTOPLAY_KEY = "reader.autoplay";
+
+function loadAutoplay(): boolean {
+  try {
+    return localStorage.getItem(AUTOPLAY_KEY) === "1";
+  } catch {
+    return false;
+  }
+}
+
 export function EpisodeView({ episode, placement }: { episode: Episode; placement?: PlacementMode }) {
   const navigate = useNavigate();
   const w = useWordTaps(episode);
   const [shown, setShown] = useState<Set<number>>(new Set());
   const [highlight, setHighlight] = useState(loadHighlight);
+
+  // Read-aloud cursor (DECISIONS 90): one line per step; word taps never move it or replay.
+  const [cursor, setCursor] = useState<number | null>(null);
+  const [autoplay, setAutoplay] = useState(loadAutoplay);
+  const count = episode.paragraphs.length;
+
+  function speakLine(idx: number) {
+    const p = episode.paragraphs[idx];
+    if (p) tts.speak(spokenText(p.ko, speakerLabelEnd(p.ko)));
+  }
+
+  function goTo(idx: number | null, play = autoplay) {
+    if (idx === null) return;
+    setCursor(idx);
+    if (play) speakLine(idx);
+    document.getElementById(`para-${idx}`)?.scrollIntoView({ block: "center", behavior: "smooth" });
+  }
+
+  const move = (delta: number) => goTo(step(cursor, delta, count));
+  const replay = () => (cursor === null ? goTo(step(null, 1, count), true) : speakLine(cursor));
+
+  function toggleAutoplay() {
+    const on = !autoplay;
+    setAutoplay(on);
+    try {
+      localStorage.setItem(AUTOPLAY_KEY, on ? "1" : "0");
+    } catch {
+      /* preference only */
+    }
+  }
+
+  // Laptop: Space / → next, ← back, R replay (not while typing; not in placement).
+  const keyRef = useRef<(e: KeyboardEvent) => void>(() => {});
+  keyRef.current = (e) => {
+    if (placement) return;
+    const t = e.target as HTMLElement | null;
+    if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.isContentEditable)) return;
+    const action = readerKey(e);
+    if (!action) return;
+    e.preventDefault();
+    if (action === "next") move(1);
+    else if (action === "prev") move(-1);
+    else replay();
+  };
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => keyRef.current(e);
+    window.addEventListener("keydown", onKey);
+    return () => {
+      window.removeEventListener("keydown", onKey);
+      tts.stop(); // leaving the story stops the voice
+    };
+  }, []);
 
   function toggleHighlight() {
     setHighlight((h) => {
@@ -128,6 +192,8 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
               })
             }
             onTap={w.tap}
+            current={!placement && cursor === p.idx}
+            onMark={placement ? undefined : () => goTo(p.idx)}
           />
         ))}
       </article>
@@ -151,6 +217,32 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
         </button>
       </div>
 
+      {!placement && tts.available() && (
+        <div className="fixed inset-x-0 bottom-0 z-10 border-t border-rule bg-paper/95 pb-[max(0.5rem,env(safe-area-inset-bottom))] backdrop-blur">
+          <div className="mx-auto flex max-w-[36rem] items-center gap-2 px-4 pt-2">
+            <button type="button" onClick={() => move(-1)} aria-label="Previous line" className={barBtn}>
+              ◀
+            </button>
+            <button type="button" onClick={replay} aria-label="Play line" className={barBtn}>
+              ↻
+            </button>
+            <button type="button" onClick={() => move(1)} aria-label="Next line" className={barBtn}>
+              ▶
+            </button>
+            <button
+              type="button"
+              onClick={toggleAutoplay}
+              aria-pressed={autoplay}
+              className="ml-1 flex min-h-11 items-center gap-2 rounded-full px-2 text-xs text-ink-soft active:bg-paper-deep"
+            >
+              <span className={`inline-block size-3 rounded-sm border border-rule ${autoplay ? "bg-seal-wash" : ""}`} />
+              Autoplay
+            </button>
+            <span className="ml-auto hidden text-[11px] text-ink-soft sm:inline">Space/→ next · ← back · R replay</span>
+          </div>
+        </div>
+      )}
+
       {active && w.activeLexeme && (
         <WordPopover
           lexeme={w.activeLexeme}
@@ -168,6 +260,8 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
     </div>
   );
 }
+
+const barBtn = "flex size-11 items-center justify-center rounded-full border border-rule text-base active:bg-paper-deep";
 
 export function HighlightToggle({ on, onToggle }: { on: boolean; onToggle: () => void }) {
   return (
@@ -193,6 +287,10 @@ type ParaProps = {
   canShowEn: boolean;
   onToggleEn: () => void;
   onTap: OnTap;
+  /** The read-aloud cursor is on this line. */
+  current?: boolean;
+  /** Margin marker: move the read-aloud cursor here (absent in placement). */
+  onMark?: () => void;
 };
 
 /** "화자: 대사" dialogue lines (DECISIONS 71): length of the speaker label incl. ": ", else 0. */
@@ -217,13 +315,13 @@ export function EnToggle({ shown, onToggle }: { shown: boolean; onToggle: () => 
   );
 }
 
-function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn, onTap }: ParaProps) {
+function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn, onTap, current, onMark }: ParaProps) {
   const segs = useMemo(() => segment(p.ko, p.tokens), [p.ko, p.tokens]);
   const labelEnd = speakerLabelEnd(p.ko);
   const labelColor = labelEnd ? speakerColor(p.ko.slice(0, labelEnd)) : undefined;
   const label = segs.filter((s) => s.start < labelEnd);
   const body = segs.filter((s) => s.start >= labelEnd);
-  return (
+  const text = (
     // Dialogue: hanging indent, so a wrapped line never looks like a new paragraph.
     // Narration: flush left with extra space around it, so it reads as its own beat.
     <div className={labelEnd ? "" : "py-2"}>
@@ -244,6 +342,26 @@ function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn
           {p.en}
         </p>
       )}
+    </div>
+  );
+  if (!onMark) return text;
+  return (
+    <div
+      id={`para-${p.idx}`}
+      className={`-mx-2 flex gap-1 rounded-md pr-2 transition-colors ${current ? "bg-seal-wash" : ""}`}
+    >
+      <button
+        type="button"
+        onClick={onMark}
+        aria-label={`Read from line ${p.idx + 1}`}
+        aria-current={current}
+        className={`mt-[0.55em] flex size-8 shrink-0 items-start justify-center rounded-full font-ui text-sm leading-none active:bg-paper-deep ${
+          current ? "text-seal" : "text-rule"
+        }`}
+      >
+        {current ? "▸" : "·"}
+      </button>
+      <div className="min-w-0 flex-1">{text}</div>
     </div>
   );
 }

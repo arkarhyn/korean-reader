@@ -3,6 +3,7 @@
 export interface TtsProvider {
   available(): boolean;
   speak(text: string, opts?: { rate?: number }): void;
+  stop(): void;
 }
 
 class WebSpeechProvider implements TtsProvider {
@@ -23,6 +24,10 @@ class WebSpeechProvider implements TtsProvider {
     const v = this.voice();
     if (v) u.voice = v;
     speechSynthesis.speak(u);
+  }
+
+  stop() {
+    if (this.available()) speechSynthesis.cancel();
   }
 }
 

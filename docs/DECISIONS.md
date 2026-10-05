@@ -426,6 +426,12 @@ Do not reverse an entry without asking Austin.
     current word states (`liveCoverage`, SPEC 7 like the known tint) and `/api/podcasts`
     computes parts' % on request; the stored `episode.coverage` stays the at-ingest snapshot
     (generator / checker record). Rejected: re-ingesting to refresh numbers.
+90. **Read-aloud cursor in stories (Austin):** a highlighted current line moved with a
+    bottom bar (◀ ↻ ▶ + Autoplay, saved per device) or Space/→, ←, R on the laptop; a margin
+    marker beside each line jumps there. One line (paragraph) per step; the speaker label is
+    not spoken; word taps never move the cursor or replay. Not in placement. Rejected:
+    Shift+click (no Shift on the phone), tapping the speaker label (narration has none),
+    sentence-sized steps.
 
 ## OPEN
 
