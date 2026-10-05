@@ -23,11 +23,14 @@
   Existing S01 episodes: only real issues flagged (ㅎ irregular 그래요/빨간 = blocked until
   that lesson is done; L29+ forms as warnings).
 
-**Not deployed.** Deploy (Austin's OK needed; same pattern as Stage 7): back up the live DB,
-stop the service, fast-forward `stage-6` to `stage-8`, `cd server; uv run python
-scripts/ingest_episodes.py --seed` (migration 0005 + lessons), `cd web; npm run build`, start.
+**Deployed 2026-10-05 (Austin OK'd):** live DB backed up to
+`%TEMP%\kr5\live_backup_pre_stage8.db` (886 events, integrity ok, at 0004); service stopped;
+`stage-6` fast-forwarded to `stage-8` (b19c0a7); migration 0005 + `ingest_episodes.py --seed`
+(srs: 0 rows changed; replay stable); web rebuilt; service started; health OK (sync pull: 10
+episodes, 92 grammar points / 8 lessons, 20 review items; `/grammar` 200; podcasts intact).
+Rollback: stop service, restore the backup, reset `stage-6` to 68ad101, rebuild web, start.
 
-**Next:** deploy; Austin does lessons from `/grammar` (each one unblocks its point for the
+**Next:** Austin does lessons from `/grammar` (each one unblocks its point for the
 generator) and reviews the L29+ map rows; then `/generate-batch` (first batch with a new
 target: G.DONGAN or whatever is first in `next_new_targets`; also closes Stage 6/7 checks).
 
