@@ -8,7 +8,7 @@ import { segment, sentenceAt } from "../segments";
 import { speakerColor } from "../speakers";
 import { syncer } from "../sync";
 import type { Episode, Paragraph, Question, WordStatus } from "../types";
-import { KNOWN_STATES, setWordState, untap } from "../wordActions";
+import { countsKnown, KNOWN_STATES, setWordState, untap } from "../wordActions";
 
 const HIGHLIGHT_KEY = "reader.highlightKnown";
 
@@ -53,17 +53,18 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
   const opened = useRef(false);
 
   const lexIds = useMemo(() => Object.keys(episode.lexemes).map(Number), [episode.lexemes]);
-  const states = useLiveQuery(async () => {
-    const rows = await db.lexemeStates.bulkGet(lexIds);
-    return new Map(rows.flatMap((r) => (r ? [[r.lexeme_id, r.state] as const] : [])));
+  const rows = useLiveQuery(async () => {
+    const found = await db.lexemeStates.bulkGet(lexIds);
+    return new Map(found.flatMap((r) => (r ? [[r.lexeme_id, r] as const] : [])));
   }, [lexIds]);
+  const states = useMemo(() => new Map([...(rows ?? [])].map(([id, r]) => [id, r.state])), [rows]);
   const known = useMemo(() => {
     const s = new Set<number>();
     for (const id of lexIds) {
-      if (KNOWN_STATES.has(states?.get(id) ?? "") || episode.lexemes[String(id)]?.counts_known) s.add(id);
+      if (countsKnown(rows?.get(id)) || episode.lexemes[String(id)]?.counts_known) s.add(id);
     }
     return s;
-  }, [lexIds, states, episode.lexemes]);
+  }, [lexIds, rows, episode.lexemes]);
 
   function toggleHighlight() {
     setHighlight((h) => {
@@ -134,7 +135,7 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
     if (to === "undo") {
       const prev = changedRef.current.get(lex);
       if (prev === undefined) return;
-      await setWordState(db, log, lex, prev, { episode_id: episode.id });
+      await setWordState(db, log, lex, prev, { episode_id: episode.id, undo: true });
       changedRef.current.delete(lex);
     } else {
       if (to === "known") await untapActive(); // knowing it means the tap wasn't a lookup
@@ -158,12 +159,19 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
       choice_idx: choice,
       correct: choice === q.answer_idx,
       ms,
+      // What was checked travels with the answer, so a later re-ingest can't change the replay.
+      kind: q.kind,
+      target_ref: q.target_ref,
     });
   }
 
   async function finish() {
     if (placement) return placement.onDone([...tappedRef.current]);
-    await syncer.logEvent("episode_complete", { episode_id: episode.id, tapped_lexeme_ids: [...tappedRef.current] });
+    await syncer.logEvent("episode_complete", {
+      episode_id: episode.id,
+      tapped_lexeme_ids: [...tappedRef.current],
+      lexeme_ids: lexIds, // the words this version of the episode contained (hidden SRS reviews)
+    });
     await db.progress.put({ episode_id: episode.id, completed_at: new Date().toISOString() });
     void syncer.sync();
     navigate("/");

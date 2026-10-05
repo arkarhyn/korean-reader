@@ -1,7 +1,7 @@
 import "fake-indexeddb/auto";
 import { beforeEach, describe, expect, it, vi } from "vitest";
 import { ReaderDB } from "./db";
-import { setWordState, untap } from "./wordActions";
+import { countsKnown, setWordState, untap } from "./wordActions";
 
 let db: ReaderDB;
 const log = vi.fn(async () => undefined);
@@ -36,6 +36,20 @@ describe("setWordState", () => {
 
   it("treats a word with no state as new", async () => {
     expect(await setWordState(db, log, 9, "known", { episode_id: "S01E001" })).toBe("new");
+  });
+});
+
+describe("countsKnown", () => {
+  const now = Date.parse("2026-10-05T12:00:00Z");
+  const row = (state: string, due?: string | null) => ({ lexeme_id: 1, state, updated_at: "", due });
+  it("matches SPEC 7: known/ignored, or learning until retrievability falls to 0.9", () => {
+    expect(countsKnown(row("known"), now)).toBe(true);
+    expect(countsKnown(row("ignored"), now)).toBe(true);
+    expect(countsKnown(row("learning", "2026-10-06T00:00:00Z"), now)).toBe(true);
+    expect(countsKnown(row("learning", "2026-10-05T11:00:00Z"), now)).toBe(false);
+    expect(countsKnown(row("learning", null), now)).toBe(false);
+    expect(countsKnown(row("seen"), now)).toBe(false);
+    expect(countsKnown(undefined, now)).toBe(false);
   });
 });
 

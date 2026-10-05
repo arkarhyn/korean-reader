@@ -46,7 +46,7 @@ each calibration passage's observed tap rate falls inside the leave-one-out
 **Accept:** batch of 5 episodes all in 95-98% band, target grammar 4-6x each,
 due words included; Austin reads 3 and rates naturalness >= 4/5.
 
-## Stage 6 -- Hidden SRS  <- CURRENT
+## Stage 6 -- Hidden SRS  <- CURRENT (built 2026-10-05; "due words appear in next batch" checked by the next /generate-batch)
 - Event -> FSRS derivation job (words + grammar); replayable.
 - Meaning checks (~1 in 5 due words); generator due-weighting.
 - Optional Quick review (tap-only, stored context + audio).

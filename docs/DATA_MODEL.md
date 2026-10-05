@@ -25,13 +25,19 @@ subset in IndexedDB (Dexie) and an outbound event queue.
 |---|---|---|
 | lexeme_id | FK PK | |
 | state | TEXT | `new` / `seen` / `learning` / `known` / `ignored` |
-| fsrs_card | JSON | py-fsrs card (stability, difficulty, due, reps, lapses, state) |
-| exposures | INTEGER | encounters without a tap (incl. non-due) |
-| lookups | INTEGER | taps |
+| fsrs_card | JSON | py-fsrs 6 `Card.to_dict()` (card_id = lexeme id, stability, difficulty, due, last_review, state); derived |
+| exposures | INTEGER | encounters without a tap (incl. non-due); derived |
+| lookups | INTEGER | taps minus untaps; derived |
 | first_seen_at | DATETIME | |
-| last_seen_at | DATETIME | |
+| last_seen_at | DATETIME | last completed encounter / set_state; derived |
 | source | TEXT | `placement` / `episode` / `ingest` / `manual` |
+| base_state | TEXT NULL | replay baseline written by placement / seed (migration 0003) |
+| base_source | TEXT NULL | `placement` / `manual` (flagged seed) |
 | updated_at | DATETIME | sync pull cursor (DECISIONS 35) |
+
+`state`, `source`, `fsrs_card`, `exposures`, `lookups`, `last_seen_at` are rebuilt from
+`base_state` + the event log by `app.srs.derive` (Stage 6). A `learning` word counts as
+known until `last_review + stability` (retrievability 0.9) and is due after it.
 
 ### context_sentence (auto-built "card" fields)
 | column | type | notes |
@@ -40,8 +46,12 @@ subset in IndexedDB (Dexie) and an outbound event queue.
 | lexeme_id | FK | |
 | sentence_ko | TEXT | |
 | sentence_en | TEXT NULL | |
-| origin | TEXT | `episode:<id>` / `ingest:<id>` |
+| origin | TEXT | `episode:<id>` / `ingest:<id>` (indexed; replaced on re-ingest) |
 | audio_ref | TEXT NULL | TTS cache key |
+| start, end | INTEGER NULL | the word's span in `sentence_ko` (Quick review highlight; migration 0003) |
+
+Filled by ingest, one row per (lexeme, sentence) of an episode; `sentence_en` is the
+paragraph's translation.
 
 ## Grammar
 
@@ -116,7 +126,7 @@ Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
 
 Types: `episode_open`, `word_tap`, `episode_complete`, `question_answer`,
 `mine_word`, `flag_sentence`, `placement_answer`, `grammar_drill_answer`,
-`set_state` (manual override, e.g. ignore), `word_untap` (Stage 5).
+`set_state` (manual override, e.g. ignore), `word_untap` (Stage 5), `review_answer` (Stage 6).
 
 Payloads written by the Stage 3 reader:
 `episode_open {episode_id}`, `word_tap {episode_id, paragraph_idx, start, end,
@@ -128,11 +138,16 @@ Stage 5 reader: `set_state {lexeme_id, state, prev_state?, episode_id?}` from th
 popover: "I know this word" (state `known`), "I forgot this" (state `learning`);
 the undo sends the previous state. Word-set checklists send the same
 event with `word_set: <set id>` instead of `episode_id` (DECISIONS 68). The server
-applies it on receipt (lexeme_state source `manual`, DECISIONS 54/56);
-`app.events.replay_manual_states` re-applies the log. `word_untap {episode_id,
+applies it on receipt (lexeme_state source `manual`, DECISIONS 54/56). `word_untap {episode_id,
 paragraph_idx, start, end, lexeme_id}` cancels the latest `word_tap` of that
 lexeme in the visit (mistap); `episode_complete.tapped_lexeme_ids` already
 excludes it.
+
+Stage 6 additions: `episode_complete.lexeme_ids` (every content lexeme in the version
+read), `question_answer.kind` / `target_ref`, `set_state.undo: true` on an undo (the
+replay restores the SRS card), and `review_answer {lexeme_id, context_id, choice_idx,
+correct, ms}` from Quick review. Older events without the new fields fall back to the
+current episode / question rows; question ids stay stable across re-ingest.
 
 Placement (Stage 4) writes `placement_answer {attempt_id, section, ms, ...}`:
 `grammar {item_id, got_it}`, `vocab {item_id, yes}`, `calibration {episode_id,
@@ -143,8 +158,10 @@ event; within an attempt the last answer per item wins.
 
 Schema is managed by Alembic (`server/migrations/`).
 
-FSRS updates are DERIVED from events in a server job, so scoring rules can
-change and state can be rebuilt by replaying the log.
+FSRS updates are DERIVED from events, so scoring rules can change and state can be
+rebuilt by replaying the log: `app.srs.derive` resets every state row to its baseline
+and replays all events after each accepted event batch, after placement fit and after
+ingest (`scripts/derive_srs.py` for dry runs and checks).
 
 ## Story continuity
 

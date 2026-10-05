@@ -1,5 +1,50 @@
 # STATUS
 
+## 2026-10-05 -- Stage 6 (Claude Code)
+**Done (branch `stage-6-srs`, worktree `.claude/worktrees/stage-6-srs`, on top of `stage-6`):**
+- Hidden SRS (`server/app/srs.py`): baseline columns (migration 0003) + full replay of
+  the event log after every event batch, placement fit and ingest; py-fsrs, no fuzz.
+  Rules in DECISIONS 75-83: tapped -> Again, soft lapse for known words (Austin), untapped
+  new word -> Good, due -> Good, meaning checks, graduation at S >= 21 d, grammar from
+  grammar_check only. Due / counts-known = before/after last_review + stability.
+- Generator: `due` ordered by retrievability (then unreviewed by rank) with
+  retrievability in the context; due grammar first in `suggested_targets`; checker wants
+  ~1 meaning check per 5 due words and prints batch coverage of the top-15 due; skill updated.
+- Ingest: meaning_check target_ref -> lexeme id; question ids stable across re-ingest;
+  `context_sentence` rows with the word's span.
+- Quick review: `review_items` in sync pull, `/review` (sentence + TTS + 3 meanings),
+  `review_answer` event, "복습" link in the Library only when items exist, no counts.
+- Reader: known tint follows SPEC 7 (learning until R 0.9); `episode_complete.lexeme_ids`,
+  `question_answer.kind/target_ref`, `set_state.undo`.
+- `scripts/derive_srs.py` (dry run / `--rebase` / `--check` / `--apply`).
+- Tests: server 135 passed (incl. the acceptance test: random out-of-order API batches ==
+  one-shot replay; derive twice changes nothing), web 33 passed, tsc clean, build OK.
+- Checked on a copy of the live DB: rebase + derive 40 ms, replay stable; re-ingest
+  changes nothing; in Chrome a Quick review answer graded 놓치다 (Good, S 2.3 d), and
+  finishing S01E004 with one tap graded 텃밭 Again and 4 untapped new words Good.
+
+**Live dry run (copy of the live DB, not applied):** 594 -> 603 words count as known.
+New ones (read untapped, known for ~2 days, then due): 결혼식, 긴장, 넣다, 당신, 받다, 봉투,
+쓰다, 전, 축의금. One known word demoted by a tap (soft lapse): 길다. 94 due; top:
+부르다, 긴장하다, 곧, 그러다, 그릇, 댁, 데려오다, 또, 모두, 식탁, 하루, 단톡방, then
+placement `seen` words (대하다, 보이다, 가지다...).
+
+**Not deployed yet** -- waiting for Austin's OK on the dry run. Deploy steps:
+merge `stage-6-srs` into `stage-6`; back up the live DB (sqlite backup API); stop the service;
+`cd server; uv run python scripts/derive_srs.py --rebase --check --apply`;
+`uv run python scripts/ingest_episodes.py` (fills context sentences, resolves meaning checks);
+`cd web; npm run build`; start the service.
+
+**Next:** deploy, then `/generate-batch` (acceptance: due words appear in the batch; the
+checker's `batch:` line). Stage 6 is DONE once that batch passes.
+
+**Open issues:**
+- Context sentences from legacy episodes carry the whole paragraph's English.
+- 94 due at first: never-reviewed placement `seen` words wait behind reviewed ones; the
+  generator only weaves 1-3 per episode (by design, no backlog).
+- Old question answers to S01E003-005 from before their regeneration point at deleted
+  questions and are skipped by the replay.
+
 ## 2026-10-04 -- Stage 5 (Claude Code, overnight)
 **Done (branch `stage-5`):**
 - Popover "알아요" (mark known; "✓ 알아요 · 취소" undoes within the visit) and

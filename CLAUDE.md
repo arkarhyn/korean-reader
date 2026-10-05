@@ -56,6 +56,7 @@ Reference as needed: `docs/SPEC.md`, `docs/DATA_MODEL.md`,
 - placement report (dry run; `--apply` writes): `cd server; uv run python scripts/placement_report.py`
 - generation context: `cd server; uv run python scripts/export_context.py` (-> `content/generation-context.json`; also `GET /api/export/generation-context`)
 - coverage check: `cd server; uv run python scripts/coverage_check.py ../content/episodes/s01/S01E001.json ...` (exit 1 on any failing draft)
+- hidden SRS replay (dry run by default; runs automatically after every event batch): `cd server; uv run python scripts/derive_srs.py [--db PATH] [--rebase] [--check] [--apply]`
 - generate a batch: `/generate-batch` skill (`.claude/skills/generate-batch/`)
 - word sets: edit `content/seed/word_sets.json`, then `cd server; uv run python scripts/ingest_episodes.py --seed` (creates lexemes; served at `GET /api/word-sets`)
 

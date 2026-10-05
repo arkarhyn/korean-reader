@@ -280,6 +280,9 @@ def test_ingest_resolves_meaning_check_and_builds_context_sentences(db):
     ctx = s.scalar(select(ContextSentence).where(ContextSentence.lexeme_id == ids["김치"],
                                                  ContextSentence.origin == "episode:S01E001"))
     assert ctx.sentence_ko == "김치도 좋습니다." and ctx.sentence_ko[ctx.start:ctx.end] == "김치도"
+    ingest_episode(s, _doc(), fake_lookup)  # re-ingest keeps question ids (answers point at them)
+    assert s.scalar(select(Question).where(Question.episode_id == "S01E001",
+                                           Question.kind == "meaning_check")).id == q.id
     with pytest.raises(ValueError):
         bad = _doc("S01E002")
         bad.questions[0].target_ref = "없는말"

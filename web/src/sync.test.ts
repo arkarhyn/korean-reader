@@ -9,6 +9,7 @@ function fakeServer() {
   let down = false;
   let posts = 0;
   let completed: { episode_id: string; completed_at: string }[] = [];
+  let reviewItems: unknown[] | undefined;
   const fetchFn = vi.fn(async (url: string, init?: RequestInit) => {
     if (down) throw new TypeError("Failed to fetch");
     if (url.startsWith("/api/events/batch")) {
@@ -20,7 +21,13 @@ function fakeServer() {
       return Response.json({ accepted, duplicate });
     }
     if (url.startsWith("/api/sync/pull")) {
-      return Response.json({ server_time: "2026-10-03T00:00:00Z", episodes: [], lexeme_states: [], completed });
+      return Response.json({
+        server_time: "2026-10-03T00:00:00Z",
+        episodes: [],
+        lexeme_states: [],
+        completed,
+        review_items: reviewItems,
+      });
     }
     return new Response(null, { status: 404 });
   });
@@ -30,6 +37,7 @@ function fakeServer() {
     setDown: (d: boolean) => (down = d),
     posts: () => posts,
     setCompleted: (c: typeof completed) => (completed = c),
+    setReviewItems: (r: unknown[] | undefined) => (reviewItems = r),
   };
 }
 
@@ -84,6 +92,22 @@ describe("sync", () => {
     await s.sync();
     expect((await db.progress.get("S01E001"))?.completed_at).toBe("2026-10-04T10:00:00Z");
     expect((await db.progress.get("S01E002"))?.completed_at).toBe("2026-10-04T11:00:00Z");
+  });
+
+  it("replaces Quick review items on every pull (an older server sends none: keep them)", async () => {
+    const server = fakeServer();
+    const s = createSync(db, server.fetchFn);
+    const item = (id: number) => ({ lexeme_id: id, lemma: "w", pos: "NNG", gloss_en: "g", hanja: null, context_id: 1,
+      sentence_ko: "w.", sentence_en: null, start: 0, end: 1, options: ["g", "a", "b"], answer_idx: 0 });
+    server.setReviewItems([item(2), item(1)]);
+    await s.sync();
+    expect((await db.reviewItems.get(2))?.order).toBe(0);
+    server.setReviewItems([item(3)]);
+    await s.sync();
+    expect((await db.reviewItems.toArray()).map((r) => r.lexeme_id)).toEqual([3]);
+    server.setReviewItems(undefined);
+    await s.sync();
+    expect(await db.reviewItems.count()).toBe(1);
   });
 
   it("shares one run between concurrent triggers", async () => {

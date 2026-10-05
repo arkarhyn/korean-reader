@@ -38,15 +38,40 @@ export type Episode = {
   lexemes: Record<string, Lexeme>;
 };
 
-export type LexemeState = { lexeme_id: number; state: string; updated_at: string };
+export type LexemeState = {
+  lexeme_id: number;
+  state: string;
+  updated_at: string;
+  /** Hidden SRS: a `learning` word counts as known until this time (retrievability 0.9), due after it. */
+  due?: string | null;
+};
 
 export type Completed = { episode_id: string; completed_at: string };
+
+/** Quick review (SPEC 3.2): a due word in a stored context sentence, with a 3-option meaning pick. */
+export type ReviewItem = {
+  lexeme_id: number;
+  lemma: string;
+  pos: string;
+  gloss_en: string;
+  hanja: string | null;
+  context_id: number;
+  sentence_ko: string;
+  sentence_en: string | null;
+  start: number;
+  end: number;
+  options: string[];
+  answer_idx: number;
+  /** Position in the server's priority list (set on sync; IndexedDB returns rows by key). */
+  order?: number;
+};
 
 export type SyncPull = {
   server_time: string;
   episodes: Episode[];
   lexeme_states: LexemeState[];
   completed?: Completed[]; // read marks from every device
+  review_items?: ReviewItem[]; // always the full (short) list
 };
 
 export type EventType =
@@ -59,7 +84,8 @@ export type EventType =
   | "placement_answer"
   | "grammar_drill_answer"
   | "set_state"
-  | "word_untap";
+  | "word_untap"
+  | "review_answer";
 
 export type Device = "laptop" | "iphone";
 

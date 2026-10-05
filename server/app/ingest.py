@@ -178,7 +178,6 @@ def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, pub
     if publish:
         ep.status = "published"  # re-ingest without --publish keeps the current status
     ep.paragraphs.clear()
-    ep.questions.clear()
     session.flush()
 
     report = IngestReport(doc.id, coverage=1.0, content_tokens=0)
@@ -204,10 +203,19 @@ def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, pub
     ep_lex_ids = {t["lex"] for p in ep.paragraphs for t in p.tokens if "lex" in t}
     for lx in session.scalars(select(Lexeme).where(Lexeme.id.in_(ep_lex_ids)).order_by(Lexeme.id)):
         lemma_ids.setdefault(lx.lemma, lx.id)
+    # Questions are updated in place by idx so their ids stay stable: question_answer events
+    # point at them, and the SRS replay reads older answers through them.
+    existing = {q.idx: q for q in ep.questions}
     for idx, q in enumerate(doc.questions):
-        ep.questions.append(Question(idx=idx, kind=q.kind, prompt_ko=q.prompt_ko, prompt_en=q.prompt_en,
-                                     options=list(q.options), answer_idx=q.answer_idx,
-                                     target_ref=resolve_target_ref(q, lemma_ids)))
+        row = existing.pop(idx, None)
+        if row is None:
+            row = Question(idx=idx)
+            ep.questions.append(row)
+        row.kind, row.prompt_ko, row.prompt_en = q.kind, q.prompt_ko, q.prompt_en
+        row.options, row.answer_idx = list(q.options), q.answer_idx
+        row.target_ref = resolve_target_ref(q, lemma_ids)
+    for row in existing.values():
+        ep.questions.remove(row)
 
     session.execute(delete(ContextSentence).where(ContextSentence.origin == f"episode:{doc.id}"))
     session.add_all(context_rows(doc.id, ep.paragraphs))

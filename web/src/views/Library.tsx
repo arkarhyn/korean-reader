@@ -23,6 +23,8 @@ export default function Library() {
   const episodes = useLiveQuery(async () => libraryEpisodes(await db.episodes.toArray()), []);
   const placement = useLiveQuery(async () => ({ data: await loadData(db), progress: await loadProgress(db) }), []);
   const done = useLiveQuery(async () => new Set((await db.progress.toArray()).map((p) => p.episode_id)), []);
+  // Quick review is optional: a plain link when there is something to review, never a count.
+  const canReview = useLiveQuery(async () => (await db.reviewItems.count()) > 0, []);
 
   const sections = episodes ? buildSections(episodes) : [];
   const next = done ? upNext(sections, done) : undefined;
@@ -32,6 +34,14 @@ export default function Library() {
       <header className="mb-8 flex items-center justify-between gap-3">
         <h1 className="font-title text-3xl font-extrabold tracking-tight">읽기</h1>
         <div className="flex items-center gap-2">
+          {canReview && (
+            <Link
+              to="/review"
+              className="flex min-h-11 items-center rounded-full border border-rule px-4 font-title text-sm font-bold active:bg-paper-deep"
+            >
+              복습
+            </Link>
+          )}
           <Link
             to="/words"
             className="flex min-h-11 items-center rounded-full border border-rule px-4 font-title text-sm font-bold active:bg-paper-deep"

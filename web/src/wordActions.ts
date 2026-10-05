@@ -1,5 +1,5 @@
 import type { ReaderDB } from "./db";
-import type { EventType } from "./types";
+import type { EventType, LexemeState } from "./types";
 
 type Log = (type: EventType, payload: Record<string, unknown>) => Promise<unknown>;
 
@@ -8,16 +8,24 @@ type Log = (type: EventType, payload: Record<string, unknown>) => Promise<unknow
 
 export const KNOWN_STATES = new Set(["known", "ignored"]);
 
+/** SPEC 7 (same rule as the server): known/ignored, or learning until its retrievability falls to 0.9. */
+export function countsKnown(row: LexemeState | undefined, now = Date.now()): boolean {
+  if (!row) return false;
+  if (KNOWN_STATES.has(row.state)) return true;
+  return row.state === "learning" && !!row.due && Date.parse(row.due) > now;
+}
+
 /**
  * Set a word's state ("known" = I know this word, "learning" = I forgot this, or a
- * previous state to undo). Returns the state it had before, for an undo.
+ * previous state to undo). Returns the state it had before, for an undo. An undo is
+ * flagged so the server's replay restores the word's SRS card too.
  */
 export async function setWordState(
   db: ReaderDB,
   log: Log,
   lexemeId: number,
   state: string,
-  context: { episode_id?: string; word_set?: string },
+  context: { episode_id?: string; word_set?: string; undo?: boolean },
 ): Promise<string> {
   const prev = (await db.lexemeStates.get(lexemeId))?.state ?? "new";
   await log("set_state", { lexeme_id: lexemeId, state, prev_state: prev, ...context });

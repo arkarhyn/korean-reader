@@ -17,7 +17,11 @@ and `docs/LEARNER_PROFILE.md`. Key fields:
 - `next_episode_id`, `targets` (coverage 95-98%, 3-6 new words, target grammar 4-6x, 400-700 hangul)
 - `known` (lemma/POS strings), `proper_nouns` (count as known; add new canon names to
   `content/seed/proper_nouns.json` BEFORE checking)
-- `due` (learning first, then seen): weave 1-3 per episode, prefer words that fit the scene
+- `due` (hidden SRS, Stage 6): FSRS-due words in priority order -- reviewed words least
+  likely remembered first (`retrievability`), then never-reviewed ones (`reviewed: false`)
+  by frequency. Weave 1-3 per episode, working down from the top of the list across the
+  batch (prefer ones that fit the scene); a due word counts as unknown for coverage
+- `suggested_targets` lists due grammar first
 - `new_word_candidates` (frequent, unknown, glossed): pick most new words from here or
   from what the scene truly needs (e.g. 결혼식)
 - `suggested_targets` (practicing points with a pattern, not recently targeted) and
@@ -47,15 +51,18 @@ Writing rules:
 - New words: use each at least twice when natural (it is the first exposure).
 - Target grammar 4-6 times, in natural spots; don't stack it into one paragraph.
 - English `en` per paragraph: faithful, natural translation (it's a reading aid).
-- 3-5 questions, tap-only: 2-3 comprehension, 1 meaning_check on a due or new word
-  (`target_ref` = the lemma), optionally 1 grammar_check (`target_ref` = code).
-  Options in Korean, short, one clearly right answer.
+- 3-5 questions, tap-only: 2-3 comprehension; meaning checks on **due** words, about 1 per
+  5 due words woven in, at least 1 (`target_ref` = the lemma; ingest stores the lexeme id;
+  answers grade the word's SRS card); optionally 1 grammar_check (`target_ref` = code; this
+  is the only thing that grades grammar). Options short, one clearly right answer.
 - At most one Japanese-parallel moment per episode, correct about where it breaks.
 
 ## 3. Coverage swap loop
 ```
 uv run python scripts/coverage_check.py ../content/episodes/s01/S01E00N.json
 ```
+Run it on all drafts at once at the end: the `batch:` line shows how many of the top-15
+due words the batch uses; cover as many as fit naturally and list the rest in the report.
 Fix every `!` problem. For unknown words not meant as new/due, swap to a known synonym
 or restructure. Watch for analyzer artifacts (a name split into pieces -> add it to
 proper_nouns.json; an odd lemma -> rephrase). Re-run until OK. If a beat cannot reach

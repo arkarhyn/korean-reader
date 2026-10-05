@@ -341,6 +341,56 @@ Do not reverse an entry without asking Austin.
     them. Rejected: muting narration's color (narration is already the harder
     text to read).
 
+## 2026-10-05 (Stage 6, Claude Code)
+
+75. **Hidden SRS = full replay from a baseline after every event batch.** Placement and
+    the flagged seed write `base_state`/`base_source` (migration 0003); `app.srs.derive`
+    resets every lexeme/grammar state row to its baseline and replays the whole log in
+    (ts, id) order, writing only rows that change (~40 ms on the live log). py-fsrs with
+    no fuzzing, no learning/relearning steps, card_id = lexeme id, reviews at the event's
+    client time: state is a pure function of baseline + log. Replaces DECISIONS 56's
+    on-receipt `apply_set_state` (set_state is one of the replayed rules, still immediate).
+    Rejected: incremental updates (two code paths; replay must equal live); re-running the
+    placement fit inside every replay (depends on the lexeme table, slower).
+76. **Grading rules (Austin's answers to the Stage 6 questions):** on `episode_complete`
+    (not placement series), per distinct content lexeme: tapped -> Again; untapped and due
+    -> Good; untapped with no card and not known -> new card as Good (first encounter read
+    without a lookup); untapped known / not due -> exposure only. Meaning check wrong ->
+    Again, right and untapped -> Good (Easy if <= 8 s). Story names never graded;
+    alias-known words count as known. One rating per word per completion.
+    Rejected: exposure-only for new words (SPEC 3.2 literal; leaves earlier-batch words
+    unknown forever).
+77. **Soft lapse instead of a full reset (Austin: Anki lapses made reviews a grind).** A
+    tapped known word (and "I forgot this") goes to `learning` with stability <= 3 d and its
+    difficulty unchanged (5 if it had no card), so two untapped encounters regraduate it
+    (3 -> 11 -> 35 d). "I forgot this" is due at once (last review backdated one stability).
+    Rejected: FSRS Again on a known word (difficulty 5 -> 8.3, ~4 encounters to recover);
+    ignoring taps on known words.
+78. **Graduation at stability >= 21 d:** learning -> known, grammar practicing -> solid.
+    Known words keep their card; a later tap soft-lapses them.
+79. **Due / counts-known use last_review + stability, not `card.due`.** FSRS stability is
+    the time until retrievability falls to 0.9, so SPEC 7's "learning with R >= 0.9" is
+    exactly "before last_review + S". py-fsrs rounds intervals up to whole days (>= 1),
+    which would have counted a word tapped today as known until tomorrow. Sent to the
+    client as `lexeme_states[].due` for the known tint.
+80. **Grammar graded only by grammar_check answers** (Austin); presence is an exposure.
+    introduced/practicing points start with an unreviewed card; due grammar is listed first
+    in `suggested_targets`. Stage 8 drills plug in later.
+81. **Due order for the generator:** reviewed cards least retrievable first, then
+    never-reviewed cards (placement `seen`, flagged seed, "I forgot") by frequency rank.
+    No queue and no backlog: the generator weaves 1-3 per episode from the top; the rest wait.
+    Meaning checks: max(1, round(due words woven / 5)) per episode, on due words; ingest
+    stores the lexeme id as `target_ref`; the checker prints batch coverage of the top-15 due.
+82. **Quick review = 3-option meaning pick (Austin)** on a stored context sentence (ingest
+    fills `context_sentence` with the word's span) + TTS; up to 20 items in sync pull,
+    sessions of 10, answered items dropped locally; `review_answer` grades only due cards.
+    The Library shows a plain "복습" link when items exist -- no counts, badges or totals
+    anywhere. Rejected: self-grade reveal (self-report).
+83. **Replay inputs travel with events:** `episode_complete.lexeme_ids`, `question_answer.kind
+    /target_ref`, `set_state.undo`. Ingest now updates questions in place by idx so ids stay
+    stable (re-ingest had been replacing them, which silently dropped old answers from the
+    replay). Older events fall back to current episode/question rows.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

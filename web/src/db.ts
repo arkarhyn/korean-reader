@@ -1,5 +1,5 @@
 import Dexie, { type EntityTable } from "dexie";
-import type { Episode, LexemeState, QueuedEvent } from "./types";
+import type { Episode, LexemeState, QueuedEvent, ReviewItem } from "./types";
 
 export type Progress = { episode_id: string; completed_at: string };
 export type Meta = { key: string; value: string };
@@ -11,6 +11,7 @@ export class ReaderDB extends Dexie {
   queue!: EntityTable<QueuedEvent, "id">;
   progress!: EntityTable<Progress, "episode_id">;
   meta!: EntityTable<Meta, "key">;
+  reviewItems!: EntityTable<ReviewItem, "lexeme_id">;
 
   constructor(name = "korean-reader") {
     super(name);
@@ -21,6 +22,8 @@ export class ReaderDB extends Dexie {
       progress: "episode_id",
       meta: "key",
     });
+    // Stage 6: Quick review items from the last sync (replaced on every pull).
+    this.version(2).stores({ reviewItems: "lexeme_id" });
   }
 }
 
