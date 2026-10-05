@@ -4,7 +4,7 @@ import { Link } from "react-router";
 import SyncChip from "../components/SyncChip";
 import { db } from "../db";
 import { buildSections, HIDDEN_SERIES, liveCoverage, mainPosition, upNext, type Section } from "../library";
-import { loadData, loadProgress } from "../placement";
+import { clearProgress, loadData, loadProgress } from "../placement";
 import type { Episode, LexemeState } from "../types";
 
 /** Library hides placement calibration passages and podcast parts (they live in the Listen tab). */
@@ -68,7 +68,10 @@ export default function Library() {
       </header>
 
       {placement && !placement.data?.fitted && <PlacementCard resume={placement.progress?.step} />}
-      {placement?.progress && placement.data?.fitted && <PlacementCard resume={placement.progress.step} />}
+      {placement?.progress && placement.data?.fitted && (
+        // Already placed: an unfinished attempt left on this device can be thrown away.
+        <PlacementCard resume={placement.progress.step} onDismiss={() => void clearProgress(db)} />
+      )}
 
       {episodes === undefined ? null : episodes.length === 0 ? (
         <p className="mt-16 text-center text-ink-soft">
@@ -193,20 +196,35 @@ function EpisodeRow({ ep, read, next, rows }: { ep: Episode; read: boolean; next
   );
 }
 
-function PlacementCard({ resume }: { resume?: string }) {
+function PlacementCard({ resume, onDismiss }: { resume?: string; onDismiss?: () => void }) {
   const [title, sub] =
     resume === "done"
       ? ["배치 테스트 마무리", "Answers saved; tap to finish the fit"]
       : resume
         ? ["배치 테스트 계속하기", "Continue placement where you stopped"]
         : ["배치 테스트", "Start here: placement, about 25 minutes"];
-  return (
+  const card = (
     <Link
       to="/placement"
-      className="mb-6 block rounded-lg border border-seal bg-seal-wash px-4 py-4 active:opacity-80"
+      className={`block rounded-lg border border-seal bg-seal-wash px-4 py-4 active:opacity-80 ${onDismiss ? "" : "mb-6"}`}
     >
       <h2 className="font-title text-xl font-bold text-seal">{title}</h2>
       <p className="mt-0.5 text-sm text-ink-soft">{sub}</p>
     </Link>
+  );
+  if (!onDismiss) return card;
+  return (
+    <div className="mb-6">
+      {card}
+      <div className="mt-1 text-right">
+        <button
+          type="button"
+          onClick={onDismiss}
+          className="min-h-11 px-2 text-xs text-ink-soft underline active:opacity-70"
+        >
+          Dismiss · discard this unfinished attempt
+        </button>
+      </div>
+    </div>
   );
 }
