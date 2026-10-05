@@ -1,0 +1,3829 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Didi and Jeong Tae-woong's Yomojomo of Korean Life"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life is a podcast where two people living in Korea talk about the various aspects of Korean life."
+    } ]
+  }, {
+    "tStartMs": 19000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So what was today's topic?"
+    } ]
+  }, {
+    "tStartMs": 22000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Today's topic is board games."
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Board games!"
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Actually, it's been quite a while since I've played board games."
+    } ]
+  }, {
+    "tStartMs": 31000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you play board games often, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 33000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I played last week too."
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "From what I heard, you play board games every week."
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "We set up the group to meet every week, you see."
+    } ]
+  }, {
+    "tStartMs": 46000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But actually, when one or two people can't make it, we can't play."
+    } ]
+  }, {
+    "tStartMs": 51000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So it seems like we usually play once every two to three weeks."
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's still playing pretty often, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'm curious if there are other people who play board games this often."
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 64000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "So today I'd like to hear from you about why you got so into board games and things like that."
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "What do you think is the appeal of board games?"
+    } ]
+  }, {
+    "tStartMs": 76000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Well, board games are..."
+    } ]
+  }, {
+    "tStartMs": 79000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "The best thing about board games is that you play with people."
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "With people?"
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 88000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Unlike online games where you play alone, you also communicate with people."
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 94000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Interacting while playing seems to be the biggest advantage, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 99000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. Of course, you can play games with people online too."
+    } ]
+  }, {
+    "tStartMs": 104000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But actually sitting next to or facing real people."
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "Getting together directly and spending time together doing something fun."
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I think that's the core identity of board games."
+    } ]
+  }, {
+    "tStartMs": 129000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But there are several things you can do with other people, right?"
+    } ]
+  }, {
+    "tStartMs": 132000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Like sports, where you can play by colliding with other people."
+    } ]
+  }, {
+    "tStartMs": 138000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But with board games, you don't need to go to some big space."
+    } ]
+  }, {
+    "tStartMs": 144000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Or prepare something special or anything like that."
+    } ]
+  }, {
+    "tStartMs": 147000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Is it an advantage that you can play more comfortably?"
+    } ]
+  }, {
+    "tStartMs": 151000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Absolutely."
+    } ]
+  }, {
+    "tStartMs": 155000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And what I mean is..."
+    } ]
+  }, {
+    "tStartMs": 159000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "You can't help but communicate."
+    } ]
+  }, {
+    "tStartMs": 164000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Communicate?"
+    } ]
+  }, {
+    "tStartMs": 165000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 167000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You have to read each other's thoughts."
+    } ]
+  }, {
+    "tStartMs": 170000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You have to talk to each other."
+    } ]
+  }, {
+    "tStartMs": 174000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Of course, there are games where you can't speak."
+    } ]
+  }, {
+    "tStartMs": 178000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But in any case, you have to share your thoughts with each other in different ways."
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Isn't that incredibly appealing?"
+    } ]
+  }, {
+    "tStartMs": 186000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So it's a form of communication, board games are."
+    } ]
+  }, {
+    "tStartMs": 189000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 190000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's why you can become friends really quickly when you play board games."
+    } ]
+  }, {
+    "tStartMs": 194000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 195000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 196000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's great."
+    } ]
+  }, {
+    "tStartMs": 197000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's really great."
+    } ]
+  }, {
+    "tStartMs": 198000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It seems good for icebreakers too?"
+    } ]
+  }, {
+    "tStartMs": 202000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, it's really good."
+    } ]
+  }, {
+    "tStartMs": 205000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Board games?"
+    } ]
+  }, {
+    "tStartMs": 206000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I mentioned I was thinking about a language exchange meetup, remember?"
+    } ]
+  }, {
+    "tStartMs": 210000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Should we try playing board games?"
+    } ]
+  }, {
+    "tStartMs": 212000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That would be really good."
+    } ]
+  }, {
+    "tStartMs": 213000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "As an icebreaker?"
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 216000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I think it'll be fun."
+    } ]
+  }, {
+    "tStartMs": 217000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 218000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Oh, so what kind of board games does Tae-woong like?"
+    } ]
+  }, {
+    "tStartMs": 222000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Do you have any?"
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The style I like"
+    } ]
+  }, {
+    "tStartMs": 227000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "is games where the board game setup is simple, first of all."
+    } ]
+  }, {
+    "tStartMs": 232000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, yes. The rules?"
+    } ]
+  }, {
+    "tStartMs": 234000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's not?"
+    } ]
+  }, {
+    "tStartMs": 236000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Not games that need a huge board or a wide map"
+    } ]
+  }, {
+    "tStartMs": 243000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "just something you can play with one deck of cards."
+    } ]
+  }, {
+    "tStartMs": 247000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I like games with that kind of simple setup,"
+    } ]
+  }, {
+    "tStartMs": 252000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and there are so many fun games among them,"
+    } ]
+  }, {
+    "tStartMs": 258000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but the games I'm about to mention are all games you play with just one pack of cards."
+    } ]
+  }, {
+    "tStartMs": 263000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, please tell us."
+    } ]
+  }, {
+    "tStartMs": 265000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'll start with the easier ones."
+    } ]
+  }, {
+    "tStartMs": 269000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jacks Nymph."
+    } ]
+  }, {
+    "tStartMs": 271000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Pardon?"
+    } ]
+  }, {
+    "tStartMs": 272000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Jacks Nymph."
+    } ]
+  }, {
+    "tStartMs": 273000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it English?"
+    } ]
+  }, {
+    "tStartMs": 274000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's probably German."
+    } ]
+  }, {
+    "tStartMs": 276000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Jacks Nymph?"
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, you can search for it in Korean."
+    } ]
+  }, {
+    "tStartMs": 279000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jacks Nymph."
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, Jacks Nymph."
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, Jacks Nymph and"
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and The Mind."
+    } ]
+  }, {
+    "tStartMs": 287000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think I've heard of The Mind."
+    } ]
+  }, {
+    "tStartMs": 289000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I mentioned it to Didi before,"
+    } ]
+  }, {
+    "tStartMs": 292000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so you heard it from Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 294000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The Mind."
+    } ]
+  }, {
+    "tStartMs": 295000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And Skull King."
+    } ]
+  }, {
+    "tStartMs": 298000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Skull King."
+    } ]
+  }, {
+    "tStartMs": 300000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I don't know it though."
+    } ]
+  }, {
+    "tStartMs": 302000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And Spicy."
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Spicy."
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'll stop here for now."
+    } ]
+  }, {
+    "tStartMs": 310000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "These are all different games, right?"
+    } ]
+  }, {
+    "tStartMs": 312000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Are they completely different games?"
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "They're all completely different games."
+    } ]
+  }, {
+    "tStartMs": 316000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Spicy is cute."
+    } ]
+  }, {
+    "tStartMs": 318000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There's a tiger picture on it."
+    } ]
+  }, {
+    "tStartMs": 319000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It really is cute, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 322000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I want to make something like this."
+    } ]
+  }, {
+    "tStartMs": 326000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's a really well-made game."
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 331000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "If I get into board games later, let's make something like this together."
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Board game cards and stuff."
+    } ]
+  }, {
+    "tStartMs": 335000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That would be so nice."
+    } ]
+  }, {
+    "tStartMs": 337000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think it'll be fun."
+    } ]
+  }, {
+    "tStartMs": 339000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There are also board game enthusiasts who would play together."
+    } ]
+  }, {
+    "tStartMs": 343000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Who are willing to participate gladly."
+    } ]
+  }, {
+    "tStartMs": 345000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But I'm curious about something"
+    } ]
+  }, {
+    "tStartMs": 347000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "these things keep repeating, right?"
+    } ]
+  }, {
+    "tStartMs": 350000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 352000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There's no new story,"
+    } ]
+  }, {
+    "tStartMs": 355000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "you keep playing with the same rules,"
+    } ]
+  }, {
+    "tStartMs": 359000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "doesn't it get boring after playing it about five times?"
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's not exactly the case."
+    } ]
+  }, {
+    "tStartMs": 366000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 367000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. That's because"
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "you're not winning all the time."
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You win and lose,"
+    } ]
+  }, {
+    "tStartMs": 377000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so you keep thinking about it,"
+    } ]
+  }, {
+    "tStartMs": 379000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and despite that,"
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "you can get tired of it."
+    } ]
+  }, {
+    "tStartMs": 384000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So taking that into account, those kinds of games"
+    } ]
+  }, {
+    "tStartMs": 387000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "mostly have expansions, extensions."
+    } ]
+  }, {
+    "tStartMs": 393000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "After playing the base version of the game,"
+    } ]
+  }, {
+    "tStartMs": 395000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "there's a system where you can add various rules to it."
+    } ]
+  }, {
+    "tStartMs": 402000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So it really never ends."
+    } ]
+  }, {
+    "tStartMs": 404000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So since you said board games are a form of communication,"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "are there definitely certain people who find it more fun when playing together?"
+    } ]
+  }, {
+    "tStartMs": 415000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 417000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Game etiquette?"
+    } ]
+  }, {
+    "tStartMs": 419000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Wouldn't that naturally exist?"
+    } ]
+  }, {
+    "tStartMs": 422000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What is board game etiquette?"
+    } ]
+  }, {
+    "tStartMs": 425000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "First, if I call this etiquette,"
+    } ]
+  }, {
+    "tStartMs": 431000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "it might be a bit of a hasty expression,"
+    } ]
+  }, {
+    "tStartMs": 435000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it's more like a style, a tendency?"
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think you could look at it that way,"
+    } ]
+  }, {
+    "tStartMs": 440000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "but what I think is good"
+    } ]
+  }, {
+    "tStartMs": 447000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "is, as I said at first,"
+    } ]
+  }, {
+    "tStartMs": 448000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "when you see it as an extension of communication activity,"
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "whether you can just enjoy board games"
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that seems to be all there is to it."
+    } ]
+  }, {
+    "tStartMs": 462000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So you always have to win."
+    } ]
+  }, {
+    "tStartMs": 467000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You absolutely have to win."
+    } ]
+  }, {
+    "tStartMs": 469000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If you lose, you get upset and your face shows it."
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then that's not so good."
+    } ]
+  }, {
+    "tStartMs": 476000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "If your competitive spirit is too strong,"
+    } ]
+  }, {
+    "tStartMs": 479000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it's not just board games,"
+    } ]
+  }, {
+    "tStartMs": 482000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it's like that with anything."
+    } ]
+  }, {
+    "tStartMs": 483000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, do you have a strong competitive spirit?"
+    } ]
+  }, {
+    "tStartMs": 486000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't have a strong one."
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I have my own competitive spirit."
+    } ]
+  }, {
+    "tStartMs": 498000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I have to enjoy being in this moment."
+    } ]
+  }, {
+    "tStartMs": 502000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Am I enjoying myself well?"
+    } ]
+  }, {
+    "tStartMs": 504000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And am I making this moment enjoyable for others."
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's about it?"
+    } ]
+  }, {
+    "tStartMs": 513000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So even though I didn't intend it,"
+    } ]
+  }, {
+    "tStartMs": 518000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I ended up beating the other person too decisively."
+    } ]
+  }, {
+    "tStartMs": 523000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then I don't laugh at them too much."
+    } ]
+  }, {
+    "tStartMs": 526000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't tease them too much."
+    } ]
+  }, {
+    "tStartMs": 529000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You have good etiquette."
+    } ]
+  }, {
+    "tStartMs": 531000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 532000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I think it's most important that the atmosphere stays joyful and exciting."
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So the whole thing needs to be fun rather than my winning or losing."
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 545000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because I like that kind of atmosphere."
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's a very warm way of thinking."
+    } ]
+  }, {
+    "tStartMs": 549000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's my victory."
+    } ]
+  }, {
+    "tStartMs": 552000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I have serious competitive spirit."
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "One of the reasons I don't play games"
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "is that I feel like I'd lose my character a bit."
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because I've tried various things."
+    } ]
+  }, {
+    "tStartMs": 564000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Board games, billiards, bowling, things like that."
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When you first try them, you can't do them well, right?"
+    } ]
+  }, {
+    "tStartMs": 571000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I can't accept myself being bad at it."
+    } ]
+  }, {
+    "tStartMs": 574000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 575000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I feel like I'm being really pathetic at myself"
+    } ]
+  }, {
+    "tStartMs": 579000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and I can't enjoy it."
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're a scary person."
+    } ]
+  }, {
+    "tStartMs": 584000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So playing board games might create distance between people."
+    } ]
+  }, {
+    "tStartMs": 589000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But that's why in board game meetups, at that gathering"
+    } ]
+  }, {
+    "tStartMs": 597000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the person who knows the rules in the most detail"
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "and is most familiar with the game is called a \"rulemaster.\""
+    } ]
+  }, {
+    "tStartMs": 605720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A technical term, yes."
+    } ]
+  }, {
+    "tStartMs": 607720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Or you could also call them a \"meetup organizer\" or something like that."
+    } ]
+  }, {
+    "tStartMs": 610120,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But the role of those people is important."
+    } ]
+  }, {
+    "tStartMs": 613920,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "When people like you, Didi, come for the first time,"
+    } ]
+  }, {
+    "tStartMs": 618360,
+    "dDurationMs": 6359,
+    "segs": [ {
+      "utf8": "they need to let you win appropriately and help you feel the fun."
+    } ]
+  }, {
+    "tStartMs": 624719,
+    "dDurationMs": 5321,
+    "segs": [ {
+      "utf8": "Otherwise, someone recommends it saying it's fun,"
+    } ]
+  }, {
+    "tStartMs": 630040,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "you come not knowing what it is, and you keep losing."
+    } ]
+  }, {
+    "tStartMs": 633240,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And they tease you."
+    } ]
+  }, {
+    "tStartMs": 636240,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "How bad would you feel and not want to do it?"
+    } ]
+  }, {
+    "tStartMs": 640639,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Then it would be really hard for new people to join that group, right?"
+    } ]
+  }, {
+    "tStartMs": 645639,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Wow, Teacher Tae-woong, are you a rulemaster?"
+    } ]
+  }, {
+    "tStartMs": 648240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm not."
+    } ]
+  }, {
+    "tStartMs": 649240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, you're not?"
+    } ]
+  }, {
+    "tStartMs": 650240,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 651639,
+    "dDurationMs": 7921,
+    "segs": [ {
+      "utf8": "In the group I'm in now, there are 4 friends including me,"
+    } ]
+  }, {
+    "tStartMs": 659560,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "but 2 of them are very genuine board game enthusiasts,"
+    } ]
+  }, {
+    "tStartMs": 664760,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "real enthusiasts."
+    } ]
+  }, {
+    "tStartMs": 665760,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes, real enthusiasts."
+    } ]
+  }, {
+    "tStartMs": 667360,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "Friends who buy and collect board games."
+    } ]
+  }, {
+    "tStartMs": 672559,
+    "dDurationMs": 6801,
+    "segs": [ {
+      "utf8": "So after doing that meetup, we try new board games,"
+    } ]
+  }, {
+    "tStartMs": 679480,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "and just thinking roughly, I think we've tried about 6 or 7 of them."
+    } ]
+  }, {
+    "tStartMs": 683879,
+    "dDurationMs": 5601,
+    "segs": [ {
+      "utf8": "But they say they haven't even started yet."
+    } ]
+  }, {
+    "tStartMs": 689480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 690480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "They say it's endless, the fun of board games is still?"
+    } ]
+  }, {
+    "tStartMs": 693480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I guess that's how it is."
+    } ]
+  }, {
+    "tStartMs": 697480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 698480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So meeting a good rulemaster like that is important,"
+    } ]
+  }, {
+    "tStartMs": 701480,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "and when I participate, I also think I need to learn your mindset, Teacher Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 708599,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's about everyone having fun together."
+    } ]
+  }, {
+    "tStartMs": 710599,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 711599,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think that's what's important."
+    } ]
+  }, {
+    "tStartMs": 714599,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Because inevitably there are times when you lose,"
+    } ]
+  }, {
+    "tStartMs": 719599,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "and you need to get through those times in a warm and pleasant way"
+    } ]
+  }, {
+    "tStartMs": 727599,
+    "dDurationMs": 4001,
+    "segs": [ {
+      "utf8": "so the whole game can stay fun."
+    } ]
+  }, {
+    "tStartMs": 731600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 732600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'll take that to heart."
+    } ]
+  }, {
+    "tStartMs": 736720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So when did board games start for you?"
+    } ]
+  }, {
+    "tStartMs": 739720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When did you start doing them so often?"
+    } ]
+  }, {
+    "tStartMs": 741720,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Board games started with a friend who's in my group now,"
+    } ]
+  }, {
+    "tStartMs": 747720,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "someone I met when I was doing public service work in my early twenties."
+    } ]
+  }, {
+    "tStartMs": 754720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't know about that friend."
+    } ]
+  }, {
+    "tStartMs": 757720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't know the origin of that friend either."
+    } ]
+  }, {
+    "tStartMs": 760720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't know where that friend started from,"
+    } ]
+  }, {
+    "tStartMs": 763839,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but that friend was already a board game enthusiast."
+    } ]
+  }, {
+    "tStartMs": 768839,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I got to meet a friend who was already a board game enthusiast,"
+    } ]
+  }, {
+    "tStartMs": 772839,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and with several other friends I used to play with during public service,"
+    } ]
+  }, {
+    "tStartMs": 777839,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "we'd go to that friend's place and mainly played board games."
+    } ]
+  }, {
+    "tStartMs": 782839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So that's essentially when I got into it."
+    } ]
+  }, {
+    "tStartMs": 784839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's when I started."
+    } ]
+  }, {
+    "tStartMs": 786839,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So that's how I came to enjoy board games."
+    } ]
+  }, {
+    "tStartMs": 792960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But the truth is,"
+    } ]
+  }, {
+    "tStartMs": 795960,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "I don't have that many male friends or friend groups."
+    } ]
+  }, {
+    "tStartMs": 807960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Usually do you have more groups with girls?"
+    } ]
+  }, {
+    "tStartMs": 811960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "No. I don't have that either."
+    } ]
+  }, {
+    "tStartMs": 814960,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't have many groups?"
+    } ]
+  }, {
+    "tStartMs": 816960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I didn't have any groups at all."
+    } ]
+  }, {
+    "tStartMs": 820080,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Because the guys my age"
+    } ]
+  }, {
+    "tStartMs": 825080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "usually in middle school, high school, early twenties"
+    } ]
+  }, {
+    "tStartMs": 829080,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "the things they would do when they gathered"
+    } ]
+  }, {
+    "tStartMs": 833080,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "were mostly going to PC bangs"
+    } ]
+  }, {
+    "tStartMs": 836080,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "or going to bars"
+    } ]
+  }, {
+    "tStartMs": 839080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "things like that,"
+    } ]
+  }, {
+    "tStartMs": 841080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but I didn't like either of those."
+    } ]
+  }, {
+    "tStartMs": 843080,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So whenever I tried to get close with a few friends,"
+    } ]
+  }, {
+    "tStartMs": 848199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "all the other kids would go to PC bangs"
+    } ]
+  }, {
+    "tStartMs": 851199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and I wouldn't go, you know?"
+    } ]
+  }, {
+    "tStartMs": 854199,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "I can see how that would be."
+    } ]
+  }, {
+    "tStartMs": 856200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So even when several guys got together,"
+    } ]
+  }, {
+    "tStartMs": 860200,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I couldn't really enjoy participating in that group activity."
+    } ]
+  }, {
+    "tStartMs": 866200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But then when I started playing board games, it was so much fun."
+    } ]
+  }, {
+    "tStartMs": 869200,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That group activity."
+    } ]
+  }, {
+    "tStartMs": 872200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And you don't have to drink that much"
+    } ]
+  }, {
+    "tStartMs": 876320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and you don't have to go to a PC bang"
+    } ]
+  }, {
+    "tStartMs": 878320,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but when you play board games you have to use your head like solving a puzzle"
+    } ]
+  }, {
+    "tStartMs": 882320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and you also end up talking more with your friends"
+    } ]
+  }, {
+    "tStartMs": 885320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it's great."
+    } ]
+  }, {
+    "tStartMs": 886320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 887320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 888320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's how I fell in love with it."
+    } ]
+  }, {
+    "tStartMs": 891320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What I thought was great was"
+    } ]
+  }, {
+    "tStartMs": 894320,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "this time my middle school friends came over to my place after such a long time."
+    } ]
+  }, {
+    "tStartMs": 899320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It was a group of girls."
+    } ]
+  }, {
+    "tStartMs": 902320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But after talking for a bit, suddenly one friend"
+    } ]
+  }, {
+    "tStartMs": 905440,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "asked, \"Want to watch Netflix?\""
+    } ]
+  }, {
+    "tStartMs": 908440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So after that"
+    } ]
+  }, {
+    "tStartMs": 910440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we hadn't seen each other in such a long time"
+    } ]
+  }, {
+    "tStartMs": 912440,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but just watching Netflix felt like such a waste"
+    } ]
+  }, {
+    "tStartMs": 917440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I suggested we talk more,"
+    } ]
+  }, {
+    "tStartMs": 921440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but they said, \"What else is there to talk about?\""
+    } ]
+  }, {
+    "tStartMs": 923440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and \"Isn't this really fun?\""
+    } ]
+  }, {
+    "tStartMs": 925440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "watching together is fun too,"
+    } ]
+  }, {
+    "tStartMs": 927440,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but it's an activity where you can't talk much"
+    } ]
+  }, {
+    "tStartMs": 931440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so I felt disappointed."
+    } ]
+  }, {
+    "tStartMs": 933559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm someone who likes watching videos,"
+    } ]
+  }, {
+    "tStartMs": 935559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but still when you meet with people"
+    } ]
+  }, {
+    "tStartMs": 938559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you want to communicate to some degree"
+    } ]
+  }, {
+    "tStartMs": 940559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but conversation also has its limits, right?"
+    } ]
+  }, {
+    "tStartMs": 942559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "sometimes as you keep going the topics run out"
+    } ]
+  }, {
+    "tStartMs": 945559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "in those moments, if you do something like board games"
+    } ]
+  }, {
+    "tStartMs": 948559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "you can talk to some degree"
+    } ]
+  }, {
+    "tStartMs": 951559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and have fun at the same time"
+    } ]
+  }, {
+    "tStartMs": 953559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "right?"
+    } ]
+  }, {
+    "tStartMs": 954559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think that's what's good about it."
+    } ]
+  }, {
+    "tStartMs": 956559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Of course, just because you play board games"
+    } ]
+  }, {
+    "tStartMs": 959559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "doesn't mean you talk about"
+    } ]
+  }, {
+    "tStartMs": 962679,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "recent updates or"
+    } ]
+  }, {
+    "tStartMs": 965679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "each other's philosophical thoughts or things like that"
+    } ]
+  }, {
+    "tStartMs": 966679,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but when you play board games"
+    } ]
+  }, {
+    "tStartMs": 969679,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "you can see many different sides of the other person."
+    } ]
+  }, {
+    "tStartMs": 973679,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "how much more generous he's become"
+    } ]
+  }, {
+    "tStartMs": 976679,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "how much softer he's become"
+    } ]
+  }, {
+    "tStartMs": 980679,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "how much sharper his mind has gotten lately"
+    } ]
+  }, {
+    "tStartMs": 984679,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "you get to know those kinds of things better, right?"
+    } ]
+  }, {
+    "tStartMs": 990799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "these things are harder to notice"
+    } ]
+  }, {
+    "tStartMs": 992799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "when you're watching Netflix together"
+    } ]
+  }, {
+    "tStartMs": 995799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and when it comes to a gathering"
+    } ]
+  }, {
+    "tStartMs": 998799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "where board games are the center"
+    } ]
+  }, {
+    "tStartMs": 1001799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that gathering becomes really"
+    } ]
+  }, {
+    "tStartMs": 1004799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "just from my limited experience"
+    } ]
+  }, {
+    "tStartMs": 1007799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that gathering becomes"
+    } ]
+  }, {
+    "tStartMs": 1010799,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "maintained with a pretty wholesome vibe."
+    } ]
+  }, {
+    "tStartMs": 1014799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1015799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1016799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Just hearing about it sounds wholesome."
+    } ]
+  }, {
+    "tStartMs": 1019920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "If four guys"
+    } ]
+  }, {
+    "tStartMs": 1022920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "met once every two or three weeks"
+    } ]
+  }, {
+    "tStartMs": 1025920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and every time they met they'd go have a drink"
+    } ]
+  }, {
+    "tStartMs": 1028920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "then"
+    } ]
+  }, {
+    "tStartMs": 1030920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that's not really a big problem either"
+    } ]
+  }, {
+    "tStartMs": 1033920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but you wouldn't be able to catch big issues, I think"
+    } ]
+  }, {
+    "tStartMs": 1036920,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that's what comes to mind"
+    } ]
+  }, {
+    "tStartMs": 1038920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "but anyway"
+    } ]
+  }, {
+    "tStartMs": 1039920,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "compared to a gathering centered on board games"
+    } ]
+  }, {
+    "tStartMs": 1043920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it's not as good."
+    } ]
+  }, {
+    "tStartMs": 1047040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1048040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the kinds of things that can happen are different"
+    } ]
+  }, {
+    "tStartMs": 1053040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the surrounding environment is different"
+    } ]
+  }, {
+    "tStartMs": 1055040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the kinds of thoughts you can have are different"
+    } ]
+  }, {
+    "tStartMs": 1058040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it's a much more wholesome hobby?"
+    } ]
+  }, {
+    "tStartMs": 1061040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "activity, I think."
+    } ]
+  }, {
+    "tStartMs": 1063040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I realized that"
+    } ]
+  }, {
+    "tStartMs": 1064040,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "after I learned it back during that public service gathering"
+    } ]
+  }, {
+    "tStartMs": 1069040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and since then when I meet my middle school friends"
+    } ]
+  }, {
+    "tStartMs": 1072040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "there are three or four of us"
+    } ]
+  }, {
+    "tStartMs": 1075160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and we've tried it once"
+    } ]
+  }, {
+    "tStartMs": 1078160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and knowing that good effect"
+    } ]
+  }, {
+    "tStartMs": 1082160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I went on a dispatch to Bangladesh, you know."
+    } ]
+  }, {
+    "tStartMs": 1085160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1087160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but in the country of Bangladesh"
+    } ]
+  }, {
+    "tStartMs": 1091160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "there don't seem to be that many activities"
+    } ]
+  }, {
+    "tStartMs": 1095160,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that young people my age can do"
+    } ]
+  }, {
+    "tStartMs": 1099160,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and also because of security and those kinds of characteristics"
+    } ]
+  }, {
+    "tStartMs": 1102279,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "we'd probably have to spend a lot of time indoors"
+    } ]
+  }, {
+    "tStartMs": 1106279,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and also"
+    } ]
+  }, {
+    "tStartMs": 1109279,
+    "dDurationMs": 3001,
+    "segs": [ {
+      "utf8": "you can't keep making new friends your age"
+    } ]
+  }, {
+    "tStartMs": 1112280,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so it's"
+    } ]
+  }, {
+    "tStartMs": 1114280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "with a limited group of people"
+    } ]
+  }, {
+    "tStartMs": 1117280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that you'd have to see for a long time"
+    } ]
+  }, {
+    "tStartMs": 1120280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and I anticipated that"
+    } ]
+  }, {
+    "tStartMs": 1123280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so I went to teach Korean"
+    } ]
+  }, {
+    "tStartMs": 1126280,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and at the organization I belonged to"
+    } ]
+  }, {
+    "tStartMs": 1129400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "there were friends who came as interns"
+    } ]
+  }, {
+    "tStartMs": 1132400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "embassy interns"
+    } ]
+  }, {
+    "tStartMs": 1135400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and at another company"
+    } ]
+  }, {
+    "tStartMs": 1138400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "a friend who came on dispatch"
+    } ]
+  }, {
+    "tStartMs": 1141400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "there were a few friends like this."
+    } ]
+  }, {
+    "tStartMs": 1144400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "we called that gathering the Bangladesh gathering"
+    } ]
+  }, {
+    "tStartMs": 1147400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and they weren't all Korean speakers"
+    } ]
+  }, {
+    "tStartMs": 1150400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they were all Korean friends"
+    } ]
+  }, {
+    "tStartMs": 1152400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They're not people who teach Korean,"
+    } ]
+  }, {
+    "tStartMs": 1154400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they're people who came for different reasons, right?"
+    } ]
+  }, {
+    "tStartMs": 1156400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1157520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "One friend works at a hospital"
+    } ]
+  }, {
+    "tStartMs": 1160520,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "another friend works at an aid organization"
+    } ]
+  }, {
+    "tStartMs": 1166520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "things like that."
+    } ]
+  }, {
+    "tStartMs": 1169520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So before I went on dispatch to Bangladesh"
+    } ]
+  }, {
+    "tStartMs": 1172520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "before even thinking about working"
+    } ]
+  }, {
+    "tStartMs": 1175520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I went there and made friends"
+    } ]
+  }, {
+    "tStartMs": 1178520,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and a group would form there"
+    } ]
+  }, {
+    "tStartMs": 1181520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I thought I should turn that group into a board game gathering."
+    } ]
+  }, {
+    "tStartMs": 1185640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's what I thought,"
+    } ]
+  }, {
+    "tStartMs": 1188640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and the board games I mentioned earlier"
+    } ]
+  }, {
+    "tStartMs": 1191640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "compact ones made with just one pack of cards"
+    } ]
+  }, {
+    "tStartMs": 1194640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "games that can be configured that way"
+    } ]
+  }, {
+    "tStartMs": 1196640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I bought about five or six of them and brought them along."
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "So there were about six or seven of those friends, and it was awkward, you know?"
+    } ]
+  }, {
+    "tStartMs": 1207040,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "So we met for the first time, said hello, ate together. And was it the second meeting? Around that time I quietly pulled out a board game"
+    } ]
+  }, {
+    "tStartMs": 1216240,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "and started playing. But everyone really loved it."
+    } ]
+  }, {
+    "tStartMs": 1223760,
+    "dDurationMs": 11480,
+    "segs": [ {
+      "utf8": "And among them were friends who had already come on dispatch about six months before I arrived and had been there for about six months"
+    } ]
+  }, {
+    "tStartMs": 1235240,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "those friends came without that kind of preparation, so they didn't have much to do in that country."
+    } ]
+  }, {
+    "tStartMs": 1243520,
+    "dDurationMs": 7759,
+    "segs": [ {
+      "utf8": "There was nothing to do for fun. But I brought board games like that"
+    } ]
+  }, {
+    "tStartMs": 1251279,
+    "dDurationMs": 9721,
+    "segs": [ {
+      "utf8": "and we did something fun. Something new. Yes. So I was really like light and salt, a kind of hope for them."
+    } ]
+  }, {
+    "tStartMs": 1261000,
+    "dDurationMs": 10519,
+    "segs": [ {
+      "utf8": "I see. A fun guy came. So that's what it was. So that gathering started meeting almost every week from then on"
+    } ]
+  }, {
+    "tStartMs": 1271519,
+    "dDurationMs": 9360,
+    "segs": [ {
+      "utf8": "really almost every week, like 8 or 9 times out of 10, we'd meet and play board games for at least three hours every weekend."
+    } ]
+  }, {
+    "tStartMs": 1280879,
+    "dDurationMs": 10360,
+    "segs": [ {
+      "utf8": "How many people were there? In that gathering? Almost a fixed group of six. You can all play board games as one team. Even with six people?"
+    } ]
+  }, {
+    "tStartMs": 1291239,
+    "dDurationMs": 10640,
+    "segs": [ {
+      "utf8": "Of course. It's fun. The more people, the more fun it is. I see. But board games are ultimately games, right?"
+    } ]
+  }, {
+    "tStartMs": 1301879,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "There's winning and losing. You win and lose. Yes. You need penalties to make it fun. All games do."
+    } ]
+  }, {
+    "tStartMs": 1308879,
+    "dDurationMs": 10400,
+    "segs": [ {
+      "utf8": "So we bet a lot. You bet? Yes. Betting on meal costs. Meal costs. Betting on coffee costs. We did that a lot."
+    } ]
+  }, {
+    "tStartMs": 1319279,
+    "dDurationMs": 9120,
+    "segs": [ {
+      "utf8": "That's wholesome. Very. So naturally, these were friends who came to do difficult work."
+    } ]
+  }, {
+    "tStartMs": 1328399,
+    "dDurationMs": 9481,
+    "segs": [ {
+      "utf8": "The situation wasn't that good and they were separated from their families in that country and living so harshly."
+    } ]
+  }, {
+    "tStartMs": 1337880,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "So when we gathered, negative feelings could have taken over the gathering."
+    } ]
+  }, {
+    "tStartMs": 1350880,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "That kind of energy? Yes. Actually, each person always had that stress hiding a little bit."
+    } ]
+  }, {
+    "tStartMs": 1358240,
+    "dDurationMs": 11599,
+    "segs": [ {
+      "utf8": "But we were able to keep that gathering wholesome and somewhat positive. Still able to laugh and have fun."
+    } ]
+  }, {
+    "tStartMs": 1369839,
+    "dDurationMs": 7961,
+    "segs": [ {
+      "utf8": "I see. Really, truly board games. So those friends said things like that too. Bringing board games was really a move from heaven."
+    } ]
+  }, {
+    "tStartMs": 1377800,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "It has that much power. Yes. The power of board games."
+    } ]
+  }, {
+    "tStartMs": 1383360,
+    "dDurationMs": 12119,
+    "segs": [ {
+      "utf8": "Now most of those friends have come back to Korea and we meet maybe two or three times a year, and every time we meet we always play board games."
+    } ]
+  }, {
+    "tStartMs": 1395479,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Really? Yes. I keep wanting to do it more and more? Board games? Right. Right."
+    } ]
+  }, {
+    "tStartMs": 1400679,
+    "dDurationMs": 15000,
+    "segs": [ {
+      "utf8": "Yes. So for people who are thinking about trying a board game gathering like this, I'd like to know about good spaces or ways to start a board game gathering like this."
+    } ]
+  }, {
+    "tStartMs": 1415679,
+    "dDurationMs": 6401,
+    "segs": [ {
+      "utf8": "Where do you usually gather? There are places called board game cafes where you can actually play board games. There are."
+    } ]
+  }, {
+    "tStartMs": 1422080,
+    "dDurationMs": 20679,
+    "segs": [ {
+      "utf8": "Do you go to those? For our current gathering, since there are already friends who have board games, we usually go to a spacious cafe with not many people and just sit in a corner and play."
+    } ]
+  }, {
+    "tStartMs": 1442759,
+    "dDurationMs": 15040,
+    "segs": [ {
+      "utf8": "But in the case of the Bangladesh gathering I mentioned earlier, now we don't have any members who own board games. When I left Bangladesh, I gave all the board games to the junior friends who were staying."
+    } ]
+  }, {
+    "tStartMs": 1457799,
+    "dDurationMs": 10201,
+    "segs": [ {
+      "utf8": "Yes. You're like a board game fairy. Right. But I wrote my name on the case with a permanent marker and told them to definitely keep it. My name."
+    } ]
+  }, {
+    "tStartMs": 1468679,
+    "dDurationMs": 19321,
+    "segs": [ {
+      "utf8": "Anyway, so for that gathering, when we meet we go to a board game cafe. Actually, if there's no one in the gathering who's a board gamer or knows the rules, wouldn't going to a board game cafe be the easiest?"
+    } ]
+  }, {
+    "tStartMs": 1488000,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "Right. They explain everything. Yes. These days you can watch tutorial videos on a tablet."
+    } ]
+  }, {
+    "tStartMs": 1496320,
+    "dDurationMs": 11280,
+    "segs": [ {
+      "utf8": "Since I don't know board games well, and since I'm going with friends who don't know either, we always just play Halli Galli and Da Vinci Code, always the same ones, so I got tired of it."
+    } ]
+  }, {
+    "tStartMs": 1507600,
+    "dDurationMs": 6479,
+    "segs": [ {
+      "utf8": "Oh, it's really endless. I should try the games you introduced today."
+    } ]
+  }, {
+    "tStartMs": 1514079,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Those can be really good icebreaker games."
+    } ]
+  }, {
+    "tStartMs": 1517839,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "Teacher Taeyong, does your board game gathering have a name?"
+    } ]
+  }, {
+    "tStartMs": 1520600,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "It's the Jeong Taeyong Board Game Promotion Society."
+    } ]
+  }, {
+    "tStartMs": 1525160,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "That sounds so uncool. Board Game Promotion Society?"
+    } ]
+  }, {
+    "tStartMs": 1530679,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1532040,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Have you played with your family too?"
+    } ]
+  }, {
+    "tStartMs": 1534320,
+    "dDurationMs": 13840,
+    "segs": [ {
+      "utf8": "Oh, yes. Sometimes when I go to my uncle's house in Busan for holidays, and my aunt from Seoul comes down to that house."
+    } ]
+  }, {
+    "tStartMs": 1548160,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "Then sometimes we have. But it's still fun. Even playing with family."
+    } ]
+  }, {
+    "tStartMs": 1553279,
+    "dDurationMs": 6721,
+    "segs": [ {
+      "utf8": "Really? Usually at holidays there are traditional games like Yut-nori, right? Those are actually board games too, right?"
+    } ]
+  }, {
+    "tStartMs": 1560000,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "Oh, I was going to talk about that too. That's right."
+    } ]
+  }, {
+    "tStartMs": 1562519,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "That Yut-nori really, how should I put it? It really raises the tension. Of the family."
+    } ]
+  }, {
+    "tStartMs": 1569679,
+    "dDurationMs": 761,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1570440,
+    "dDurationMs": 10239,
+    "segs": [ {
+      "utf8": "But since we always do the same thing, I think they'd like it if you spread things like this. Board games with simple rules."
+    } ]
+  }, {
+    "tStartMs": 1580679,
+    "dDurationMs": 6761,
+    "segs": [ {
+      "utf8": "So Yut-nori is basically a type of board game that we've been playing since ancient times, right?"
+    } ]
+  }, {
+    "tStartMs": 1587440,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Right. Oh, that's true. We gather during holidays."
+    } ]
+  }, {
+    "tStartMs": 1591720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. We already know the fun of it."
+    } ]
+  }, {
+    "tStartMs": 1593720,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "This is a game that was in our DNA."
+    } ]
+  }, {
+    "tStartMs": 1596839,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1598040,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "Yut-nori is like that too. Family members gather after a long time and all laugh together in a warm atmosphere and communicate."
+    } ]
+  }, {
+    "tStartMs": 1606760,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "Yes, so. But if you get too absorbed, you really start shouting."
+    } ]
+  }, {
+    "tStartMs": 1610959,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "You can even end up fighting, really."
+    } ]
+  }, {
+    "tStartMs": 1612600,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "You can definitely end up fighting."
+    } ]
+  }, {
+    "tStartMs": 1613959,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Most of the time people play it for money."
+    } ]
+  }, {
+    "tStartMs": 1617959,
+    "dDurationMs": 6921,
+    "segs": [ {
+      "utf8": "Well, when I was in Bangladesh, I spent January 1st there."
+    } ]
+  }, {
+    "tStartMs": 1624880,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "No, I mean Seollal. I was in Bangladesh during Seollal too."
+    } ]
+  }, {
+    "tStartMs": 1627760,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1628320,
+    "dDurationMs": 9120,
+    "segs": [ {
+      "utf8": "At that time, a friend of mine, a Korean friend who came to work at a different organization in Bangladesh,"
+    } ]
+  }, {
+    "tStartMs": 1637440,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "the organization he worked at had a somewhat religious character."
+    } ]
+  }, {
+    "tStartMs": 1642959,
+    "dDurationMs": 5241,
+    "segs": [ {
+      "utf8": "So there was a church there too. Where that friend lived."
+    } ]
+  }, {
+    "tStartMs": 1648200,
+    "dDurationMs": 7479,
+    "segs": [ {
+      "utf8": "So I became close with the families of the church members who attended there."
+    } ]
+  }, {
+    "tStartMs": 1655679,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "So that church pastor and a few families of those Korean residents and that friend invited me."
+    } ]
+  }, {
+    "tStartMs": 1663839,
+    "dDurationMs": 2881,
+    "segs": [ {
+      "utf8": "to a Seoul holiday gathering."
+    } ]
+  }, {
+    "tStartMs": 1666720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So I went and ate the food that those families made together."
+    } ]
+  }, {
+    "tStartMs": 1670920,
+    "dDurationMs": 9720,
+    "segs": [ {
+      "utf8": "But after dinner, they suddenly pulled out Yut-nori. The Yut-nori board."
+    } ]
+  }, {
+    "tStartMs": 1680640,
+    "dDurationMs": 7159,
+    "segs": [ {
+      "utf8": "But Yut-nori is cool. I saw it written like \"Republic of Korea Embassy\" these days."
+    } ]
+  }, {
+    "tStartMs": 1687799,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Last year the ambassador came and played it together, I heard."
+    } ]
+  }, {
+    "tStartMs": 1690959,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "Wow, yes."
+    } ]
+  }, {
+    "tStartMs": 1692440,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "But anyway, so we played Yut-nori and we split into two teams."
+    } ]
+  }, {
+    "tStartMs": 1698600,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "And while playing, people were shouting \"Teacher Tae-woong, Teacher Tae-woong!\""
+    } ]
+  }, {
+    "tStartMs": 1703679,
+    "dDurationMs": 6481,
+    "segs": [ {
+      "utf8": "Saying things like \"That's childish, that's childish!\" while playing Yut-nori."
+    } ]
+  }, {
+    "tStartMs": 1710880,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "I was on a different team from the pastor."
+    } ]
+  }, {
+    "tStartMs": 1716000,
+    "dDurationMs": 8039,
+    "segs": [ {
+      "utf8": "But strangely, with that Yut-nori, when I threw the yut, good combinations kept coming out."
+    } ]
+  }, {
+    "tStartMs": 1724039,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Like, the yut and things like that kept coming out well."
+    } ]
+  }, {
+    "tStartMs": 1728119,
+    "dDurationMs": 5401,
+    "segs": [ {
+      "utf8": "Everyone got a bit excited, I think."
+    } ]
+  }, {
+    "tStartMs": 1733520,
+    "dDurationMs": 7639,
+    "segs": [ {
+      "utf8": "But the pastor's neck veins were bulging and he was like, \"You have to throw the yut higher, higher, higher!\""
+    } ]
+  }, {
+    "tStartMs": 1741159,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Seriously?"
+    } ]
+  }, {
+    "tStartMs": 1742119,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "Yes, seriously excited. He kept saying to throw the yut higher, higher."
+    } ]
+  }, {
+    "tStartMs": 1747640,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "That comment always comes out. That's right."
+    } ]
+  }, {
+    "tStartMs": 1751359,
+    "dDurationMs": 9440,
+    "segs": [ {
+      "utf8": "But as a follow-up story, the pastor got so excited and shouted like that."
+    } ]
+  }, {
+    "tStartMs": 1760799,
+    "dDurationMs": 11281,
+    "segs": [ {
+      "utf8": "Last year, the ambassador, the ambassador also kept saying to throw it higher."
+    } ]
+  }, {
+    "tStartMs": 1772080,
+    "dDurationMs": 7479,
+    "segs": [ {
+      "utf8": "In front of Yut-nori, your job and age don't matter. They don't matter."
+    } ]
+  }, {
+    "tStartMs": 1779559,
+    "dDurationMs": 6401,
+    "segs": [ {
+      "utf8": "That's right. At that time we bet on ice cream. I ate the ice cream deliciously."
+    } ]
+  }, {
+    "tStartMs": 1785960,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Ice cream. Oh, you won."
+    } ]
+  }, {
+    "tStartMs": 1788200,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 1790400,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "Right, Yut-nori is fun. You need luck too, and it's a game where you capture the opponent and stuff like that."
+    } ]
+  }, {
+    "tStartMs": 1798000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's strategy involved."
+    } ]
+  }, {
+    "tStartMs": 1801000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong, is there a board game you're good at?"
+    } ]
+  }, {
+    "tStartMs": 1803800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "A game I'm good at?"
+    } ]
+  }, {
+    "tStartMs": 1805400,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1807700,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "This is it, bring it on."
+    } ]
+  }, {
+    "tStartMs": 1809800,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "There's a game called Dalmoti."
+    } ]
+  }, {
+    "tStartMs": 1812100,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Dalmoti, what kind of game is it?"
+    } ]
+  }, {
+    "tStartMs": 1813800,
+    "dDurationMs": 6499,
+    "segs": [ {
+      "utf8": "Dalmoti is a game that up to 9 people can play."
+    } ]
+  }, {
+    "tStartMs": 1820299,
+    "dDurationMs": 6601,
+    "segs": [ {
+      "utf8": "It's a very unique game, and first of all it's a card game."
+    } ]
+  }, {
+    "tStartMs": 1826900,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Where should I start explaining?"
+    } ]
+  }, {
+    "tStartMs": 1829900,
+    "dDurationMs": 4699,
+    "segs": [ {
+      "utf8": "It's a game with hierarchy."
+    } ]
+  }, {
+    "tStartMs": 1834599,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "There's a king, and below that there are high-ranking people like nobility,"
+    } ]
+  }, {
+    "tStartMs": 1841099,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "and there are ordinary people,"
+    } ]
+  }, {
+    "tStartMs": 1844799,
+    "dDurationMs": 5401,
+    "segs": [ {
+      "utf8": "and below that there are serfs, slaves, very low-ranking people,"
+    } ]
+  }, {
+    "tStartMs": 1850200,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "and you take turns playing cards,"
+    } ]
+  }, {
+    "tStartMs": 1852400,
+    "dDurationMs": 6699,
+    "segs": [ {
+      "utf8": "based on the cards you have in your hand at the start according to certain game rules,"
+    } ]
+  }, {
+    "tStartMs": 1859099,
+    "dDurationMs": 5701,
+    "segs": [ {
+      "utf8": "whoever plays all their cards first becomes 1st place."
+    } ]
+  }, {
+    "tStartMs": 1864800,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "And then in order you become 1st place, 2nd place, 3rd place,"
+    } ]
+  }, {
+    "tStartMs": 1867300,
+    "dDurationMs": 9100,
+    "segs": [ {
+      "utf8": "In this round, whoever plays all their cards first becomes the king in the next round."
+    } ]
+  }, {
+    "tStartMs": 1876400,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "And another unique thing is that, as you mentioned, there are higher-ranking people and lower-ranking people starting from that king."
+    } ]
+  }, {
+    "tStartMs": 1884800,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "When the game starts, the person who is king begins with better cards."
+    } ]
+  }, {
+    "tStartMs": 1891300,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "So it's an unequal game."
+    } ]
+  }, {
+    "tStartMs": 1893699,
+    "dDurationMs": 6301,
+    "segs": [ {
+      "utf8": "So when playing the game, those below that level,"
+    } ]
+  }, {
+    "tStartMs": 1900000,
+    "dDurationMs": 7599,
+    "segs": [ {
+      "utf8": "people who start with bad ranks in the lower class find it really difficult to climb up."
+    } ]
+  }, {
+    "tStartMs": 1907599,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "And the person who started at the top, who was king from the beginning, can have an easier time throughout the game."
+    } ]
+  }, {
+    "tStartMs": 1914599,
+    "dDurationMs": 2301,
+    "segs": [ {
+      "utf8": "Oh my, reality is reflected in it."
+    } ]
+  }, {
+    "tStartMs": 1916900,
+    "dDurationMs": 2299,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1919199,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "But I'm good at that game."
+    } ]
+  }, {
+    "tStartMs": 1922099,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But isn't it luck at first?"
+    } ]
+  }, {
+    "tStartMs": 1924099,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "The beginning is luck, yes."
+    } ]
+  }, {
+    "tStartMs": 1926699,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "What I mean is, even if I start at the bottom, I will definitely climb up."
+    } ]
+  }, {
+    "tStartMs": 1932399,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1933300,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1934699,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What do you have to be good at to be good at this?"
+    } ]
+  }, {
+    "tStartMs": 1937699,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "What do you have to be good at?"
+    } ]
+  }, {
+    "tStartMs": 1940300,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "What's the secret?"
+    } ]
+  }, {
+    "tStartMs": 1942600,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Situational judgment ability?"
+    } ]
+  }, {
+    "tStartMs": 1945800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1946800,
+    "dDurationMs": 7899,
+    "segs": [ {
+      "utf8": "Among the cards I'm holding, I need to identify the good cards well, and then"
+    } ]
+  }, {
+    "tStartMs": 1954699,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "when to use those good cards,"
+    } ]
+  }, {
+    "tStartMs": 1957600,
+    "dDurationMs": 9599,
+    "segs": [ {
+      "utf8": "when to reveal my high cards, my good options—I need to figure out those things,"
+    } ]
+  }, {
+    "tStartMs": 1967199,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "and for that, besides me, what weapons do other people have and what hidden cards do they have, what are they hiding,"
+    } ]
+  }, {
+    "tStartMs": 1976399,
+    "dDurationMs": 8401,
+    "segs": [ {
+      "utf8": "when a hand fight breaks out, whether I should bow my head or jump in and fight too,"
+    } ]
+  }, {
+    "tStartMs": 1984800,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "that kind of situational judgment ability."
+    } ]
+  }, {
+    "tStartMs": 1987399,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "That requires high skill."
+    } ]
+  }, {
+    "tStartMs": 1989699,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 1990500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Then, Teacher Tae-woong, do you not do escape rooms?"
+    } ]
+  }, {
+    "tStartMs": 1993600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I like them."
+    } ]
+  }, {
+    "tStartMs": 1995000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I thought you would."
+    } ]
+  }, {
+    "tStartMs": 1996100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I really like them."
+    } ]
+  }, {
+    "tStartMs": 1997100,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "Both escape rooms and board games seem like good ways to get comfortable at first."
+    } ]
+  }, {
+    "tStartMs": 2002800,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2004199,
+    "dDurationMs": 2101,
+    "segs": [ {
+      "utf8": "Even if people are awkward with each other."
+    } ]
+  }, {
+    "tStartMs": 2006300,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "Escape room cafes really seem like one of the unique things to enjoy."
+    } ]
+  }, {
+    "tStartMs": 2013500,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2014300,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Do other countries have them?"
+    } ]
+  }, {
+    "tStartMs": 2015899,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Other countries probably have them too."
+    } ]
+  }, {
+    "tStartMs": 2018500,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "These days there are really evolved escape rooms too."
+    } ]
+  }, {
+    "tStartMs": 2023800,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "There's one in Seoul—I don't remember the name—but there's an escape room you do with actual actors."
+    } ]
+  }, {
+    "tStartMs": 2029500,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Are there NPCs?"
+    } ]
+  }, {
+    "tStartMs": 2031000,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Yes, there are."
+    } ]
+  }, {
+    "tStartMs": 2033100,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "But it's a bit expensive."
+    } ]
+  }, {
+    "tStartMs": 2034699,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I suppose it would be."
+    } ]
+  }, {
+    "tStartMs": 2036699,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "They use people."
+    } ]
+  }, {
+    "tStartMs": 2038600,
+    "dDurationMs": 10799,
+    "segs": [ {
+      "utf8": "Since they use people, there are actors you can talk to, like you're entering a haunted house."
+    } ]
+  }, {
+    "tStartMs": 2049399,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "I want to try something like that. Something with really big scale."
+    } ]
+  }, {
+    "tStartMs": 2053699,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "There are things actors can do, and there are horror escape rooms too."
+    } ]
+  }, {
+    "tStartMs": 2057799,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "I've done that. Something like that."
+    } ]
+  }, {
+    "tStartMs": 2059200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "You've done it?"
+    } ]
+  }, {
+    "tStartMs": 2060000,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Yes. But that's when I confirmed once more that I'm not scared."
+    } ]
+  }, {
+    "tStartMs": 2064600,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2065299,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2066200,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Wasn't it scary?"
+    } ]
+  }, {
+    "tStartMs": 2067000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Not at all."
+    } ]
+  }, {
+    "tStartMs": 2069500,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Really."
+    } ]
+  }, {
+    "tStartMs": 2070100,
+    "dDurationMs": 699,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2070799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2072299,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Horror... can you go to a haunted house?"
+    } ]
+  }, {
+    "tStartMs": 2074799,
+    "dDurationMs": 4301,
+    "segs": [ {
+      "utf8": "It's been so long since I've been to a haunted house."
+    } ]
+  }, {
+    "tStartMs": 2079100,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "But wouldn't it be similar? To a horror escape room?"
+    } ]
+  }, {
+    "tStartMs": 2083899,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Really? I haven't done it. I haven't done either of them."
+    } ]
+  }, {
+    "tStartMs": 2086899,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "A haunted house is just walking through it, right?"
+    } ]
+  }, {
+    "tStartMs": 2091299,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Right. But it's dark and they startle you."
+    } ]
+  }, {
+    "tStartMs": 2095799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm fine with it."
+    } ]
+  }, {
+    "tStartMs": 2097799,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2098899,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 2100100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What a man."
+    } ]
+  }, {
+    "tStartMs": 2101100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'm the kind of person who..."
+    } ]
+  }, {
+    "tStartMs": 2105200,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "When I play horror games, I know you get startled a lot."
+    } ]
+  }, {
+    "tStartMs": 2111100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But that's a game."
+    } ]
+  }, {
+    "tStartMs": 2115100,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Wouldn't it be scarier if it were real?"
+    } ]
+  }, {
+    "tStartMs": 2117700,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "Real... is that so?"
+    } ]
+  }, {
+    "tStartMs": 2121399,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Now that you mention it, can you watch horror movies?"
+    } ]
+  }, {
+    "tStartMs": 2123899,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "I watch horror movies just fine."
+    } ]
+  }, {
+    "tStartMs": 2126600,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "Really? You're quite brave."
+    } ]
+  }, {
+    "tStartMs": 2130299,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "I have a bit of a strange habit, you know."
+    } ]
+  }, {
+    "tStartMs": 2137799,
+    "dDurationMs": 4701,
+    "segs": [ {
+      "utf8": "When I'm scared, I laugh."
+    } ]
+  }, {
+    "tStartMs": 2142500,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It's weird."
+    } ]
+  }, {
+    "tStartMs": 2146200,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2147299,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes. I have that kind of thing. About me."
+    } ]
+  }, {
+    "tStartMs": 2148799,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "I feel scared."
+    } ]
+  }, {
+    "tStartMs": 2150700,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Yes. And when you suddenly get startled like that."
+    } ]
+  }, {
+    "tStartMs": 2155100,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That... how do you say it? When they suddenly scare you?"
+    } ]
+  }, {
+    "tStartMs": 2159200,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Jump scare?"
+    } ]
+  }, {
+    "tStartMs": 2160500,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2161200,
+    "dDurationMs": 6699,
+    "segs": [ {
+      "utf8": "When something like that startles me suddenly, my mouth... laughter just spreads across my face."
+    } ]
+  }, {
+    "tStartMs": 2167899,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "It's scary."
+    } ]
+  }, {
+    "tStartMs": 2169100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like this right now."
+    } ]
+  }, {
+    "tStartMs": 2171100,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Really? Is it because you're embarrassed?"
+    } ]
+  }, {
+    "tStartMs": 2174000,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Embarrassment that I got startled."
+    } ]
+  }, {
+    "tStartMs": 2176700,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "Because it's fun."
+    } ]
+  }, {
+    "tStartMs": 2179899,
+    "dDurationMs": 701,
+    "segs": [ {
+      "utf8": "The thrill."
+    } ]
+  }, {
+    "tStartMs": 2180600,
+    "dDurationMs": 3699,
+    "segs": [ {
+      "utf8": "They scare you like this? Like this."
+    } ]
+  }, {
+    "tStartMs": 2184299,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "They frighten you like this? That kind of fun."
+    } ]
+  }, {
+    "tStartMs": 2188399,
+    "dDurationMs": 4301,
+    "segs": [ {
+      "utf8": "True fear."
+    } ]
+  }, {
+    "tStartMs": 2192700,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Really? You're on another level."
+    } ]
+  }, {
+    "tStartMs": 2197000,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Right. It's just like, oh, that's interesting? That kind of feeling."
+    } ]
+  }, {
+    "tStartMs": 2200500,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Look at this."
+    } ]
+  }, {
+    "tStartMs": 2201100,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yay, yay."
+    } ]
+  }, {
+    "tStartMs": 2201700,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Yay, yay."
+    } ]
+  }, {
+    "tStartMs": 2204200,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2206399,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "Do you have a fear of heights or something?"
+    } ]
+  }, {
+    "tStartMs": 2210000,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "I think I might."
+    } ]
+  }, {
+    "tStartMs": 2211799,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Do you laugh then too? With that kind of fear?"
+    } ]
+  }, {
+    "tStartMs": 2214399,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Like, amusement park rides."
+    } ]
+  }, {
+    "tStartMs": 2215700,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I ride amusement park rides well."
+    } ]
+  }, {
+    "tStartMs": 2219000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I ride them laughing. While laughing."
+    } ]
+  }, {
+    "tStartMs": 2221500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "With amusement park rides, it's not that smile I mentioned earlier"
+    } ]
+  }, {
+    "tStartMs": 2224600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow, like this."
+    } ]
+  }, {
+    "tStartMs": 2225600,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Joy?"
+    } ]
+  }, {
+    "tStartMs": 2226399,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Hey, like this."
+    } ]
+  }, {
+    "tStartMs": 2229399,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "You've got nerves of steel."
+    } ]
+  }, {
+    "tStartMs": 2230799,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "You tell the person next to you to open their eyes."
+    } ]
+  }, {
+    "tStartMs": 2234000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So you're that kind of person."
+    } ]
+  }, {
+    "tStartMs": 2236200,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Hey, look at that. Like this."
+    } ]
+  }, {
+    "tStartMs": 2238000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "You okay? You okay? Open your eyes. Like this."
+    } ]
+  }, {
+    "tStartMs": 2240200,
+    "dDurationMs": 3099,
+    "segs": [ {
+      "utf8": "So there's nothing really scary for you then."
+    } ]
+  }, {
+    "tStartMs": 2243299,
+    "dDurationMs": 1901,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 2245200,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "There's a reason I say I'm a real man."
+    } ]
+  }, {
+    "tStartMs": 2250200,
+    "dDurationMs": 1699,
+    "segs": [ {
+      "utf8": "A real man indeed."
+    } ]
+  }, {
+    "tStartMs": 2251899,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I learned something new."
+    } ]
+  }, {
+    "tStartMs": 2253299,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2255100,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So today we talked about board games in various ways."
+    } ]
+  }, {
+    "tStartMs": 2260100,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "You continue to have board game gatherings, right?"
+    } ]
+  }, {
+    "tStartMs": 2263700,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Oh, of course. Naturally."
+    } ]
+  }, {
+    "tStartMs": 2266100,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "Then I hope you'll continue to spread this kind of fun culture."
+    } ]
+  }, {
+    "tStartMs": 2270899,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I'd really like that."
+    } ]
+  }, {
+    "tStartMs": 2273299,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "Understood."
+    } ]
+  }, {
+    "tStartMs": 2274200,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "I should try it too."
+    } ]
+  }, {
+    "tStartMs": 2276299,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. One more board game recommendation."
+    } ]
+  }, {
+    "tStartMs": 2281299,
+    "dDurationMs": 3301,
+    "segs": [ {
+      "utf8": "There's a game called Las Vegas."
+    } ]
+  }, {
+    "tStartMs": 2284600,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "If you go to a board game café, they'll probably have it."
+    } ]
+  }, {
+    "tStartMs": 2288200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "That game is also very simple and fun."
+    } ]
+  }, {
+    "tStartMs": 2291600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Understood."
+    } ]
+  }, {
+    "tStartMs": 2293000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "The board games we talked about today—"
+    } ]
+  }, {
+    "tStartMs": 2295500,
+    "dDurationMs": 3899,
+    "segs": [ {
+      "utf8": "Jackson Hint, The Mind, Skull King, and Las Vegas—"
+    } ]
+  }, {
+    "tStartMs": 2299399,
+    "dDurationMs": 2701,
+    "segs": [ {
+      "utf8": "please try them all,"
+    } ]
+  }, {
+    "tStartMs": 2302100,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "and if you know anyone else who likes board games, let us know in the comments."
+    } ]
+  }, {
+    "tStartMs": 2306299,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes. So then—"
+    } ]
+  }, {
+    "tStartMs": 2307899,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "Oh? I haven't thought about next week's topic yet."
+    } ]
+  }, {
+    "tStartMs": 2311000,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Should we do that?"
+    } ]
+  }, {
+    "tStartMs": 2312400,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Taiwan?"
+    } ]
+  }, {
+    "tStartMs": 2313000,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Oh, Taiwan."
+    } ]
+  }, {
+    "tStartMs": 2315200,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "Is that okay?"
+    } ]
+  }, {
+    "tStartMs": 2317599,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "That's fine."
+    } ]
+  }, {
+    "tStartMs": 2318700,
+    "dDurationMs": 1099,
+    "segs": [ {
+      "utf8": "Yes. So then—"
+    } ]
+  }, {
+    "tStartMs": 2319799,
+    "dDurationMs": 3101,
+    "segs": [ {
+      "utf8": "Oh, I thought it would be fun to talk about"
+    } ]
+  }, {
+    "tStartMs": 2322900,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "a country that's a place we travel to in common,"
+    } ]
+  }, {
+    "tStartMs": 2326200,
+    "dDurationMs": 2099,
+    "segs": [ {
+      "utf8": "so next week we're going to"
+    } ]
+  }, {
+    "tStartMs": 2328299,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "talk about Taiwan in various ways,"
+    } ]
+  }, {
+    "tStartMs": 2330000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "so please look forward to it,"
+    } ]
+  }, {
+    "tStartMs": 2332400,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "and this has been Didi."
+    } ]
+  }, {
+    "tStartMs": 2334700,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 2335700,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Thank you. This was Jeong Tae-woong."
+    } ]
+  } ]
+}

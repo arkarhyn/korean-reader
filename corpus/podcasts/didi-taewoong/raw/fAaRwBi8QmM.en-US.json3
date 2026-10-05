@@ -1,0 +1,5851 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Didi and Jeong Tae-woong's Yomojomo of Korean Life"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life is a podcast where two people living in Korea talk about the various aspects of Korean life."
+    } ]
+  }, {
+    "tStartMs": 19000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So we're filming Yomojomo again after a long time, three weeks later."
+    } ]
+  }, {
+    "tStartMs": 23000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What was this week's topic?"
+    } ]
+  }, {
+    "tStartMs": 25000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This week's topic came up last time while we were playing a game."
+    } ]
+  }, {
+    "tStartMs": 29000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's cafes."
+    } ]
+  }, {
+    "tStartMs": 31000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Cafes. Cafes are spaces where you can drink coffee and chat and such,"
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and since there are especially many of them in Korea, I wanted to talk about it once."
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But you played a game last time, right?"
+    } ]
+  }, {
+    "tStartMs": 44000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Didn't it sound fun when you heard it? In its own way?"
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Uh, yes it did."
+    } ]
+  }, {
+    "tStartMs": 50000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You didn't listen to it?"
+    } ]
+  }, {
+    "tStartMs": 51000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Uh, I'm caught."
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Please listen to it just once."
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It was surprisingly fun."
+    } ]
+  }, {
+    "tStartMs": 60000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm sorry. I only listened up until the game part."
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 64000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Now there's a game segment in the latter part, so"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'd appreciate it if you all listened to the end."
+    } ]
+  }, {
+    "tStartMs": 72000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm asking for your support."
+    } ]
+  }, {
+    "tStartMs": 73000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. So we're going to talk about cafes,"
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you go to cafes often? Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 80000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I wouldn't say I go often."
+    } ]
+  }, {
+    "tStartMs": 84000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Because I don't go alone."
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? You don't get takeout?"
+    } ]
+  }, {
+    "tStartMs": 89000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't get takeout either."
+    } ]
+  }, {
+    "tStartMs": 91000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I see. So you only go when you have plans?"
+    } ]
+  }, {
+    "tStartMs": 96000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. When I meet friends."
+    } ]
+  }, {
+    "tStartMs": 100000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't drink coffee much?"
+    } ]
+  }, {
+    "tStartMs": 102000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "When I drink coffee, my heart starts pounding,"
+    } ]
+  }, {
+    "tStartMs": 108000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 110000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 112000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They say I'm sensitive to caffeine."
+    } ]
+  }, {
+    "tStartMs": 114000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hmm. Then I won't drink it."
+    } ]
+  }, {
+    "tStartMs": 116000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 118000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'm drinking it right now. An iced Americano."
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But even someone like me, if I keep drinking coffee out of habit,"
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I hear you get used to it a bit."
+    } ]
+  }, {
+    "tStartMs": 131000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But I don't feel the need to adapt to coffee that much,"
+    } ]
+  }, {
+    "tStartMs": 139000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 141000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You don't drink energy drinks either?"
+    } ]
+  }, {
+    "tStartMs": 144000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I can't. Isn't that even stronger?"
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah. So you really do react to caffeine."
+    } ]
+  }, {
+    "tStartMs": 149000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 150000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Then during exam periods or back in the day when you had to stay up all night,"
+    } ]
+  }, {
+    "tStartMs": 154000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "when you were really tired, how did you get through it?"
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That was when I was too young."
+    } ]
+  }, {
+    "tStartMs": 161000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "With stamina?"
+    } ]
+  }, {
+    "tStartMs": 162000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "No. Back then I did drink it occasionally."
+    } ]
+  }, {
+    "tStartMs": 165000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah. Your heart."
+    } ]
+  }, {
+    "tStartMs": 167000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then it worked properly."
+    } ]
+  }, {
+    "tStartMs": 170000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When I was working at a company, I really couldn't live without coffee."
+    } ]
+  }, {
+    "tStartMs": 174000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 175000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I was so tired."
+    } ]
+  }, {
+    "tStartMs": 177000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm weak in the mornings, you see."
+    } ]
+  }, {
+    "tStartMs": 180000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Ah. Did you go to bed late back then too?"
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I think I went to bed pretty late, around 1 or 2 a.m."
+    } ]
+  }, {
+    "tStartMs": 190000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yeah. And then I woke up at 7,"
+    } ]
+  }, {
+    "tStartMs": 196000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so I only got about 6 or 5 hours of sleep, and I was really tired."
+    } ]
+  }, {
+    "tStartMs": 200000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, that makes sense."
+    } ]
+  }, {
+    "tStartMs": 202000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You can live without it."
+    } ]
+  }, {
+    "tStartMs": 203000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But you're right, these days I'm sleeping enough,"
+    } ]
+  }, {
+    "tStartMs": 206000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so it seems like I'm okay without the caffeine."
+    } ]
+  }, {
+    "tStartMs": 208000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 209000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So now it's more like drinking it for the taste?"
+    } ]
+  }, {
+    "tStartMs": 211000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because it's refreshing."
+    } ]
+  }, {
+    "tStartMs": 212000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it tasty?"
+    } ]
+  }, {
+    "tStartMs": 214000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's really delicious, right?"
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's bitter, though."
+    } ]
+  }, {
+    "tStartMs": 217000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like an Americano?"
+    } ]
+  }, {
+    "tStartMs": 219000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. The bitter taste."
+    } ]
+  }, {
+    "tStartMs": 222000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The taste? The aroma? The aroma is good, you know. Coffee has that."
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The aroma is good, right?"
+    } ]
+  }, {
+    "tStartMs": 227000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yeah. I think I drink it for that feeling."
+    } ]
+  }, {
+    "tStartMs": 230000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "A warm Americano is like a warm tea, and the aroma is really good,"
+    } ]
+  }, {
+    "tStartMs": 236000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I think of it that way,"
+    } ]
+  }, {
+    "tStartMs": 238000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and an iced Americano has a really good aroma,"
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but I drink it like a really refreshing beverage,"
+    } ]
+  }, {
+    "tStartMs": 243000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so that's what it's like."
+    } ]
+  }, {
+    "tStartMs": 245000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "For me, because it's bitter."
+    } ]
+  }, {
+    "tStartMs": 247000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You don't like it because it's bitter?"
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 249000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What about alcohol?"
+    } ]
+  }, {
+    "tStartMs": 251000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't like alcohol either."
+    } ]
+  }, {
+    "tStartMs": 253000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah. So you don't drink it for the taste?"
+    } ]
+  }, {
+    "tStartMs": 255000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 256000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 258000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Highballs and things like that are tasty,"
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "right."
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But things other than that, just ones with a bitter taste?"
+    } ]
+  }, {
+    "tStartMs": 264000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Well, there are other tasty coffees besides Americano, you know."
+    } ]
+  }, {
+    "tStartMs": 268000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you like those better?"
+    } ]
+  }, {
+    "tStartMs": 270000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 271000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Café mocha, cappuccino, latte, vanilla latte."
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think those taste bitter too."
+    } ]
+  }, {
+    "tStartMs": 279000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Mm. Is that so?"
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yeah. So I think there's a bitter taste to them."
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There is a bitter taste."
+    } ]
+  }, {
+    "tStartMs": 285000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But they make it harmonize with sweetness like this."
+    } ]
+  }, {
+    "tStartMs": 289000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Just sweet, just sweet."
+    } ]
+  }, {
+    "tStartMs": 291000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But something like an Oreo milkshake is just sweet, you know."
+    } ]
+  }, {
+    "tStartMs": 295000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you like that better?"
+    } ]
+  }, {
+    "tStartMs": 297000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I like that kind of taste better than coffee taste."
+    } ]
+  }, {
+    "tStartMs": 299000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah. Is that so?"
+    } ]
+  }, {
+    "tStartMs": 301000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 302000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I bought a coffee machine last year, actually."
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That capsule coffee machine."
+    } ]
+  }, {
+    "tStartMs": 309000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 310000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you have one at your place, by any chance?"
+    } ]
+  }, {
+    "tStartMs": 312000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "At my place, I don't drink coffee,"
+    } ]
+  }, {
+    "tStartMs": 317000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but my mother likes coffee,"
+    } ]
+  }, {
+    "tStartMs": 320000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "so we don't have a capsule machine or anything like that,"
+    } ]
+  }, {
+    "tStartMs": 323000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but we have that machine that grinds the beans?"
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "We have something like that."
+    } ]
+  }, {
+    "tStartMs": 328000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So with those beans, I brew coffee directly and drink it."
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There are tools like that."
+    } ]
+  }, {
+    "tStartMs": 337000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It really seems like it."
+    } ]
+  }, {
+    "tStartMs": 340000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How do I put it."
+    } ]
+  }, {
+    "tStartMs": 342000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It seems like a real activity of enjoying coffee."
+    } ]
+  }, {
+    "tStartMs": 345000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That seems to be the case."
+    } ]
+  }, {
+    "tStartMs": 347000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Capsules are just convenient to consume"
+    } ]
+  }, {
+    "tStartMs": 350000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "My mom really loves coffee, and so do I."
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So I saw what my mother uses"
+    } ]
+  }, {
+    "tStartMs": 358000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And I bought one following her example"
+    } ]
+  }, {
+    "tStartMs": 362000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But I keep buying them even though I have some at home."
+    } ]
+  }, {
+    "tStartMs": 366000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I think I made a mistake buying it."
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is there a big difference in taste?"
+    } ]
+  }, {
+    "tStartMs": 371000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's some difference in taste too"
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And especially with iced drinks like this"
+    } ]
+  }, {
+    "tStartMs": 378000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You have to prepare ice as well, right?"
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So it seems like a hassle, this too."
+    } ]
+  }, {
+    "tStartMs": 384000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see. But the ice thing is a bit of a hassle, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 387000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And in Korea there are a lot of cafes where Americanos are really cheap."
+    } ]
+  }, {
+    "tStartMs": 391000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 392000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Like 1,500 won?"
+    } ]
+  }, {
+    "tStartMs": 395000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So it seems like you just end up buying it."
+    } ]
+  }, {
+    "tStartMs": 400000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So you drink it almost every day?"
+    } ]
+  }, {
+    "tStartMs": 404000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Not really."
+    } ]
+  }, {
+    "tStartMs": 405000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "These days I sleep a lot"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Two or three times a week? When I want to?"
+    } ]
+  }, {
+    "tStartMs": 412000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I drink it."
+    } ]
+  }, {
+    "tStartMs": 415000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So you mainly do takeout a lot, then."
+    } ]
+  }, {
+    "tStartMs": 419000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When I'm alone, yes"
+    } ]
+  }, {
+    "tStartMs": 421000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And when I have plans with friends, I always seem to go to a cafe."
+    } ]
+  }, {
+    "tStartMs": 425000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Is there perhaps something like, this kind of cafe is good?"
+    } ]
+  }, {
+    "tStartMs": 431000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There is something like that."
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "When I talk with friends at a cafe"
+    } ]
+  }, {
+    "tStartMs": 439000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I like cafes where the desserts are delicious."
+    } ]
+  }, {
+    "tStartMs": 442000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, that's important."
+    } ]
+  }, {
+    "tStartMs": 444000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "A cafe with somewhat unique or delicious desserts."
+    } ]
+  }, {
+    "tStartMs": 450000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So when I talk with friends"
+    } ]
+  }, {
+    "tStartMs": 453000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Not just talking, but this is delicious, taking photos"
+    } ]
+  }, {
+    "tStartMs": 457000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I like a cafe where we can do all these things together"
+    } ]
+  }, {
+    "tStartMs": 461000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you have something like that, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 463000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Well, since I don't drink coffee myself"
+    } ]
+  }, {
+    "tStartMs": 467000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Instead, since I'm already here, let's eat something delicious"
+    } ]
+  }, {
+    "tStartMs": 470000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I always have this kind of thought"
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So if the dessert is delicious, it's really nice"
+    } ]
+  }, {
+    "tStartMs": 476000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And if the chairs are comfortable, wouldn't that be good?"
+    } ]
+  }, {
+    "tStartMs": 482000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Comfortable chairs"
+    } ]
+  }, {
+    "tStartMs": 484000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "If you're going to sit for a long time and talk"
+    } ]
+  }, {
+    "tStartMs": 486000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right, right"
+    } ]
+  }, {
+    "tStartMs": 489000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you have a favorite cafe dessert?"
+    } ]
+  }, {
+    "tStartMs": 491000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I like Earl Grey cake."
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You like the Earl Grey flavor?"
+    } ]
+  }, {
+    "tStartMs": 496000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes, I really like it."
+    } ]
+  }, {
+    "tStartMs": 499000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How about you, Didi?"
+    } ]
+  }, {
+    "tStartMs": 501000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I just like cheesecake?"
+    } ]
+  }, {
+    "tStartMs": 504000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Like the dense, crumbly brownie cheesecake kind."
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That would go well with an Americano."
+    } ]
+  }, {
+    "tStartMs": 512000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 515000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I had my birthday a few days ago"
+    } ]
+  }, {
+    "tStartMs": 517000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 519000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "My birthday was last week."
+    } ]
+  }, {
+    "tStartMs": 522000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Happy birthday."
+    } ]
+  }, {
+    "tStartMs": 524000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 526000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Don't you receive a lot of café gift certificates?"
+    } ]
+  }, {
+    "tStartMs": 531000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 533000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Even when I use them, they seem to keep piling up."
+    } ]
+  }, {
+    "tStartMs": 536000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, you use them?"
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 541000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, I'd prefer it if people didn't give me those kinds of things."
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What kind? Café emoticons?"
+    } ]
+  }, {
+    "tStartMs": 546000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, café gift certificates?"
+    } ]
+  }, {
+    "tStartMs": 548000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Gift certificates, yes."
+    } ]
+  }, {
+    "tStartMs": 549000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, gift certificates themselves?"
+    } ]
+  }, {
+    "tStartMs": 551000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, café gift certificates."
+    } ]
+  }, {
+    "tStartMs": 552000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Café gift certificates."
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Why, why?"
+    } ]
+  }, {
+    "tStartMs": 556000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because you don't eat them?"
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because I don't eat them."
+    } ]
+  }, {
+    "tStartMs": 558000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, that makes sense."
+    } ]
+  }, {
+    "tStartMs": 560000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I think it would be good to explain briefly for the subscribers."
+    } ]
+  }, {
+    "tStartMs": 565000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "In Korea, there's something called gift certificates,"
+    } ]
+  }, {
+    "tStartMs": 570000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Is that a compound word of \"gift\" and \"emoticon\"?"
+    } ]
+  }, {
+    "tStartMs": 573000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It probably is."
+    } ]
+  }, {
+    "tStartMs": 575000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The term \"gift emoticon\" is used a lot."
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You know how people send emoticons a lot on KakaoTalk."
+    } ]
+  }, {
+    "tStartMs": 584000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Well, it's like sending gift coupons the same way."
+    } ]
+  }, {
+    "tStartMs": 589000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So the most common ones sent are"
+    } ]
+  }, {
+    "tStartMs": 592000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Starbucks Americano and soft, fluffy cake."
+    } ]
+  }, {
+    "tStartMs": 597000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You know castella, right?"
+    } ]
+  }, {
+    "tStartMs": 598000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Soft, fluffy castella."
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "The whipped cream castella set is sent a lot, and then the person who receives the gift certificate"
+    } ]
+  }, {
+    "tStartMs": 608400,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "can go to Starbucks and show the coupon to get it. That's right."
+    } ]
+  }, {
+    "tStartMs": 616120,
+    "dDurationMs": 10720,
+    "segs": [ {
+      "utf8": "It seems like a safe gift and one you don't have to think too hard about. That's right. The price is reasonable and"
+    } ]
+  }, {
+    "tStartMs": 626840,
+    "dDurationMs": 11279,
+    "segs": [ {
+      "utf8": "it's the most comfortable way to just pick this and give it as a gift, and the gift is done. And also, most people drink coffee anyway,"
+    } ]
+  }, {
+    "tStartMs": 638119,
+    "dDurationMs": 9281,
+    "segs": [ {
+      "utf8": "That's right. So people send it. Even if they don't use cosmetics, they'll drink coffee, so they send it."
+    } ]
+  }, {
+    "tStartMs": 647400,
+    "dDurationMs": 11239,
+    "segs": [ {
+      "utf8": "Yeah, that's true. I sent one to Teacher Tae-woong once too. Oh, before? Yes. When I first appeared on Didi's channel. Right, right."
+    } ]
+  }, {
+    "tStartMs": 658639,
+    "dDurationMs": 8441,
+    "segs": [ {
+      "utf8": "I had that thought back then. It felt awkward to send a gift, and it felt awkward to send money."
+    } ]
+  }, {
+    "tStartMs": 667080,
+    "dDurationMs": 6759,
+    "segs": [ {
+      "utf8": "So it's only for cafés. You don't have to send those kinds of things. Really, that was the point."
+    } ]
+  }, {
+    "tStartMs": 673839,
+    "dDurationMs": 16481,
+    "segs": [ {
+      "utf8": "Right. I really didn't need to send it. Oh, unnecessary. So sometimes when family or friends gather, I have this gift certificate, so let's go together. I'll pay."
+    } ]
+  }, {
+    "tStartMs": 690320,
+    "dDurationMs": 12480,
+    "segs": [ {
+      "utf8": "Isn't it okay to use it that way? Well, that's the thing. Actually, I don't have to pay there. I don't even need to spend my own money."
+    } ]
+  }, {
+    "tStartMs": 702800,
+    "dDurationMs": 11560,
+    "segs": [ {
+      "utf8": "I have a gift certificate, so I'll use it. That's exactly the same as saying I have 20,000 won in my wallet, so I'll use it. But also, when someone gives you something with a gift certificate, doesn't it not feel as grateful?"
+    } ]
+  }, {
+    "tStartMs": 714360,
+    "dDurationMs": 6479,
+    "segs": [ {
+      "utf8": "That's right. So it's like, oh, I slept well. Yes! Like that. Oh, it's not that great."
+    } ]
+  }, {
+    "tStartMs": 720839,
+    "dDurationMs": 7521,
+    "segs": [ {
+      "utf8": "Yeah, it's not even a gift they received. There's room for improvement."
+    } ]
+  }, {
+    "tStartMs": 728360,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "But still, when someone gives you a gift, the heart behind it is what matters. You're grateful, right. That's true."
+    } ]
+  }, {
+    "tStartMs": 736520,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "So do you have a favorite franchise? A café you don't like the coffee at but go to often?"
+    } ]
+  }, {
+    "tStartMs": 745720,
+    "dDurationMs": 11160,
+    "segs": [ {
+      "utf8": "Oh, I think I did. I can't remember well these days. A few years ago, there's a franchise called Hasam-dong Coffee that really took off."
+    } ]
+  }, {
+    "tStartMs": 756880,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "I've never heard of it. Oh, and is it only in Busan? It might be. It's a franchise that started in Busan."
+    } ]
+  }, {
+    "tStartMs": 763600,
+    "dDurationMs": 11280,
+    "segs": [ {
+      "utf8": "Oh, Hasam-dong Coffee. Yes. I really liked the dalgona latte at Hasam-dong Coffee. Back then."
+    } ]
+  }, {
+    "tStartMs": 774880,
+    "dDurationMs": 7080,
+    "segs": [ {
+      "utf8": "Did you try that? Yes, but it probably didn't have coffee in it. Huh, really?"
+    } ]
+  }, {
+    "tStartMs": 781960,
+    "dDurationMs": 10640,
+    "segs": [ {
+      "utf8": "Yes, there are menu items with coffee and menu items without coffee, so I just had the dalgona drink without the coffee."
+    } ]
+  }, {
+    "tStartMs": 792600,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "It must have been the peak of sweetness. It really felt like my mind was getting strange."
+    } ]
+  }, {
+    "tStartMs": 799080,
+    "dDurationMs": 8640,
+    "segs": [ {
+      "utf8": "Dalgona coffee. That TikTok thing where you stir it 3,000 times, that was dalgona, right? Yeah, it probably was."
+    } ]
+  }, {
+    "tStartMs": 807720,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "Like stirring it and eating it on top? When it was trending back then. Yeah, that's when it came out."
+    } ]
+  }, {
+    "tStartMs": 817360,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "So really, dalgona, that dalgona from Squid Game episode 1, that sugar candy, so on top of the dalgona latte, you break up pieces of the dalgona itself."
+    } ]
+  }, {
+    "tStartMs": 829360,
+    "dDurationMs": 10199,
+    "segs": [ {
+      "utf8": "and sprinkle it on top. That's right. Yes, you sprinkle it and put it on. Dalgona latte is something you can see fairly often at different cafés,"
+    } ]
+  }, {
+    "tStartMs": 839559,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "and if you come from abroad, it seems like something worth trying once. Yeah, that's true. It has that flavor. That unique taste."
+    } ]
+  }, {
+    "tStartMs": 847479,
+    "dDurationMs": 7961,
+    "segs": [ {
+      "utf8": "That's right. It tastes a bit like burnt sugar, like crème brûlée. Oh, that's right, that's right. It's delicious."
+    } ]
+  }, {
+    "tStartMs": 855440,
+    "dDurationMs": 12040,
+    "segs": [ {
+      "utf8": "Oh, you go there often. Yes. Didi, what about you? Oh, I hadn't been to Ediya in a while, but I went again recently."
+    } ]
+  }, {
+    "tStartMs": 867480,
+    "dDurationMs": 9359,
+    "segs": [ {
+      "utf8": "Idiaa Coffee. It's a blue coffee shop, and it's actually pretty tasty. There's a menu item I'd like to recommend there."
+    } ]
+  }, {
+    "tStartMs": 876839,
+    "dDurationMs": 11881,
+    "segs": [ {
+      "utf8": "Is it White Chocolate Mocha? Yes. That's really delicious. Idiaa. White Chocolate Mocha? Yeah, that's right, that's right. White Chocolate Mocha."
+    } ]
+  }, {
+    "tStartMs": 888760,
+    "dDurationMs": 9440,
+    "segs": [ {
+      "utf8": "It's delicious. Idiaa is delicious. Right. Yes. White Chocolate Mocha. So that does have coffee in it then."
+    } ]
+  }, {
+    "tStartMs": 898200,
+    "dDurationMs": 8240,
+    "segs": [ {
+      "utf8": "It has coffee in it. Then I should drink it in the morning. Either in the morning or maybe they have decaf too."
+    } ]
+  }, {
+    "tStartMs": 906440,
+    "dDurationMs": 10880,
+    "segs": [ {
+      "utf8": "It's nice to drink something warm in winter. There's whipped cream on top. Yes. And it's also delicious as you melt it and eat it."
+    } ]
+  }, {
+    "tStartMs": 917320,
+    "dDurationMs": 10600,
+    "segs": [ {
+      "utf8": "Iced is also fine. Do try it. Understood. And what's another franchise you like?"
+    } ]
+  }, {
+    "tStartMs": 927920,
+    "dDurationMs": 11840,
+    "segs": [ {
+      "utf8": "There's Hollys. When people mention Hollys, foreign subscribers might not be able to find it when they come to Korea."
+    } ]
+  }, {
+    "tStartMs": 939760,
+    "dDurationMs": 11240,
+    "segs": [ {
+      "utf8": "What is it? Hollis? Hollys. The \"holly\" in \"holly-molly.\" Yes. At Hollys Coffee. It's spelled h-o-l-l-y-s. That's right."
+    } ]
+  }, {
+    "tStartMs": 951000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "There, it's not a coffee menu, but I like their kombucha. Oh, that sour one? Yes."
+    } ]
+  }, {
+    "tStartMs": 960880,
+    "dDurationMs": 8959,
+    "segs": [ {
+      "utf8": "I've tried it. Strawberry flavor and Shine Muscat. That's right. Shine Muscat flavor is good, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 969839,
+    "dDurationMs": 13560,
+    "segs": [ {
+      "utf8": "You order it and receive a cup with ice, and then you pour the drink from the bottle into that cup and drink it."
+    } ]
+  }, {
+    "tStartMs": 983399,
+    "dDurationMs": 12761,
+    "segs": [ {
+      "utf8": "Without using a straw, just like drinking beer, you gulp it down refreshingly. The thirst just disappears. Oh, it's really refreshing."
+    } ]
+  }, {
+    "tStartMs": 996760,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "Oh, for those who like kombucha, Hollys. Yes. I recommend it. I think it'd be good to go once."
+    } ]
+  }, {
+    "tStartMs": 1002239,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "Especially in summer like this. So Teacher Tae-woong, you use a laptop, right?"
+    } ]
+  }, {
+    "tStartMs": 1007679,
+    "dDurationMs": 8321,
+    "segs": [ {
+      "utf8": "I use it a lot. Do you often go to cafes with your laptop and work? Not really that often."
+    } ]
+  }, {
+    "tStartMs": 1016000,
+    "dDurationMs": 12480,
+    "segs": [ {
+      "utf8": "Not that often, but when I really can't work at home, that's when I go as a special measure. Does it work better then?"
+    } ]
+  }, {
+    "tStartMs": 1028480,
+    "dDurationMs": 16680,
+    "segs": [ {
+      "utf8": "Well, since I came here to do this. Right. It seems like that. And there's that kind of effect, you know. There's probably the feeling of people watching, and you've paid money too."
+    } ]
+  }, {
+    "tStartMs": 1045160,
+    "dDurationMs": 8519,
+    "segs": [ {
+      "utf8": "Right. It seems better to be surrounded by people than to be alone in your room. Do you do it a lot, Didi?"
+    } ]
+  }, {
+    "tStartMs": 1053679,
+    "dDurationMs": 12761,
+    "segs": [ {
+      "utf8": "I'm not that good at it either, and I just like working in my room, so whether it's work or studying, I do it in my room, but sometimes I just feel like going out when the weather's nice or something, but I don't really have any plans."
+    } ]
+  }, {
+    "tStartMs": 1066440,
+    "dDurationMs": 8919,
+    "segs": [ {
+      "utf8": "So I just grab my stuff and go for a walk, go to a cafe and work, things like that."
+    } ]
+  }, {
+    "tStartMs": 1076359,
+    "dDurationMs": 9521,
+    "segs": [ {
+      "utf8": "People call those people \"study-cafe tribe\" a lot, don't they? Yes. The species that studies in cafes."
+    } ]
+  }, {
+    "tStartMs": 1085880,
+    "dDurationMs": 11199,
+    "segs": [ {
+      "utf8": "When that started coming up, there were discussions about whether it was a problem or not. That's right."
+    } ]
+  }, {
+    "tStartMs": 1097079,
+    "dDurationMs": 9081,
+    "segs": [ {
+      "utf8": "Can you stay for hours? Do you have to order several drinks? Things like that. Yes. What do you think, Teacher Tae-woong? Study-cafe tribe."
+    } ]
+  }, {
+    "tStartMs": 1106160,
+    "dDurationMs": 13920,
+    "segs": [ {
+      "utf8": "Oh, that seems difficult. Nowadays that culture has become pretty natural, hasn't it? It has."
+    } ]
+  }, {
+    "tStartMs": 1120159,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "But I'm not really sure. I actually made an episode about the study-cafe tribe once."
+    } ]
+  }, {
+    "tStartMs": 1129679,
+    "dDurationMs": 8521,
+    "segs": [ {
+      "utf8": "What I thought back then was about those large franchises. The cafes are really big and have lots of seating."
+    } ]
+  }, {
+    "tStartMs": 1138200,
+    "dDurationMs": 12320,
+    "segs": [ {
+      "utf8": "In those places, even if you sit for maybe 2 hours, or at most 3 hours, I don't think it really interferes with business at that level."
+    } ]
+  }, {
+    "tStartMs": 1150520,
+    "dDurationMs": 7639,
+    "segs": [ {
+      "utf8": "So people who study in cafes seem to go there, and they seem to go to those large franchises a lot."
+    } ]
+  }, {
+    "tStartMs": 1158159,
+    "dDurationMs": 10721,
+    "segs": [ {
+      "utf8": "But in small cafes, there needs to be quick turnover. That's right. You need to serve customers, but if they keep sitting, it's tough."
+    } ]
+  }, {
+    "tStartMs": 1168880,
+    "dDurationMs": 12760,
+    "segs": [ {
+      "utf8": "Considering that kind of thing. Yes. That's a reasonable explanation. If you feel like you've been sitting too long, you order something else. Right."
+    } ]
+  }, {
+    "tStartMs": 1182640,
+    "dDurationMs": 8800,
+    "segs": [ {
+      "utf8": "But I'm someone who thinks from the start, why would I study in a cafe anyway?"
+    } ]
+  }, {
+    "tStartMs": 1191440,
+    "dDurationMs": 10320,
+    "segs": [ {
+      "utf8": "Yes. There are people like that. It's noisy, music's playing, lots of people."
+    } ]
+  }, {
+    "tStartMs": 1201000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's not a place for studying."
+    } ]
+  }, {
+    "tStartMs": 1204000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Mm, right."
+    } ]
+  }, {
+    "tStartMs": 1207000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And another problem that came up was this."
+    } ]
+  }, {
+    "tStartMs": 1209000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "While studying in a cafe, going up to a table next to you that's chatting."
+    } ]
+  }, {
+    "tStartMs": 1213000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Surely not..."
+    } ]
+  }, {
+    "tStartMs": 1215000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1216000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's too loud, could you please be quieter? Doing something like that."
+    } ]
+  }, {
+    "tStartMs": 1219000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's..."
+    } ]
+  }, {
+    "tStartMs": 1221000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "When people say there are people like that, posts go up about it."
+    } ]
+  }, {
+    "tStartMs": 1225000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That really seems like wrong behavior."
+    } ]
+  }, {
+    "tStartMs": 1228000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right. So what exactly is a cafe?"
+    } ]
+  }, {
+    "tStartMs": 1232000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "A cafe is a place to drink coffee."
+    } ]
+  }, {
+    "tStartMs": 1236000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And meet people and talk?"
+    } ]
+  }, {
+    "tStartMs": 1240000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1241000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. Nowadays there are study cafes too."
+    } ]
+  }, {
+    "tStartMs": 1244000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Cafes where you can study."
+    } ]
+  }, {
+    "tStartMs": 1245000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1246000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think it'd be good to use those too."
+    } ]
+  }, {
+    "tStartMs": 1250000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Yes. There are libraries, reading rooms, study cafes."
+    } ]
+  }, {
+    "tStartMs": 1257000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Lots of options."
+    } ]
+  }, {
+    "tStartMs": 1259000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Because there can be many different opinions."
+    } ]
+  }, {
+    "tStartMs": 1262000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's right. What do you all think about cafes?"
+    } ]
+  }, {
+    "tStartMs": 1265000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'd appreciate it if you'd leave your thoughts."
+    } ]
+  }, {
+    "tStartMs": 1267000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then should we move on to the next segment?"
+    } ]
+  }, {
+    "tStartMs": 1270000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. Should we move on?"
+    } ]
+  }, {
+    "tStartMs": 1271000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Let's move on to the next segment."
+    } ]
+  }, {
+    "tStartMs": 1276000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "A word-based mini game."
+    } ]
+  }, {
+    "tStartMs": 1280000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This word-based mini game segment is."
+    } ]
+  }, {
+    "tStartMs": 1284000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So what game are we going to play?"
+    } ]
+  }, {
+    "tStartMs": 1286000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Last time we played a game called Twenty Questions, remember?"
+    } ]
+  }, {
+    "tStartMs": 1290000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This time we're going to play another game that's very popular in Korea,"
+    } ]
+  }, {
+    "tStartMs": 1294000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "which is called Word Chain."
+    } ]
+  }, {
+    "tStartMs": 1296000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1297000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Could you explain what Word Chain is, by any chance?"
+    } ]
+  }, {
+    "tStartMs": 1300000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Word Chain is a game where you take turns saying words,"
+    } ]
+  }, {
+    "tStartMs": 1305000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and the first letter of that word"
+    } ]
+  }, {
+    "tStartMs": 1309000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "must be the last letter of the word the previous person said."
+    } ]
+  }, {
+    "tStartMs": 1314000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1316000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "For example, if I said \"apple,\""
+    } ]
+  }, {
+    "tStartMs": 1319000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it ends with the letter for \"gwa.\" So"
+    } ]
+  }, {
+    "tStartMs": 1321000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "the next person starting with that letter would say \"candy\" like this,"
+    } ]
+  }, {
+    "tStartMs": 1324000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and that's how the game works,"
+    } ]
+  }, {
+    "tStartMs": 1326000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and that's why it's called Word Chain—"
+    } ]
+  }, {
+    "tStartMs": 1328000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it means continuing on like that."
+    } ]
+  }, {
+    "tStartMs": 1330000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But since we're Korean language experts,"
+    } ]
+  }, {
+    "tStartMs": 1333000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "if we just play regular Word Chain, it'll be too easy."
+    } ]
+  }, {
+    "tStartMs": 1337000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "We could do it all day long, so"
+    } ]
+  }, {
+    "tStartMs": 1339000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we're going to do an upgraded version"
+    } ]
+  }, {
+    "tStartMs": 1341000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "called Explanation Word Chain."
+    } ]
+  }, {
+    "tStartMs": 1343000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I came up with this."
+    } ]
+  }, {
+    "tStartMs": 1345000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Here's what it is:"
+    } ]
+  }, {
+    "tStartMs": 1347000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the word that I say,"
+    } ]
+  }, {
+    "tStartMs": 1349000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you listeners who are listening right now"
+    } ]
+  }, {
+    "tStartMs": 1351000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "have to explain it too."
+    } ]
+  }, {
+    "tStartMs": 1353000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Explanation Word Chain—"
+    } ]
+  }, {
+    "tStartMs": 1355000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Explanation Word Chain—"
+    } ]
+  }, {
+    "tStartMs": 1357000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you listeners who are listening right now"
+    } ]
+  }, {
+    "tStartMs": 1359000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "have to explain it too."
+    } ]
+  }, {
+    "tStartMs": 1361000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "For example, it was apple earlier, right?"
+    } ]
+  }, {
+    "tStartMs": 1363000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So you'd say \"apple,\""
+    } ]
+  }, {
+    "tStartMs": 1366000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and then explain \"it's a fruit and it's red,"
+    } ]
+  }, {
+    "tStartMs": 1369000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that fruit,"
+    } ]
+  }, {
+    "tStartMs": 1371000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you know the iPhone, right?"
+    } ]
+  }, {
+    "tStartMs": 1373000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it's that fruit drawn on the back of it.\""
+    } ]
+  }, {
+    "tStartMs": 1375000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You have to explain it like this"
+    } ]
+  }, {
+    "tStartMs": 1377000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "in order to move on,"
+    } ]
+  }, {
+    "tStartMs": 1379000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is that even possible?"
+    } ]
+  }, {
+    "tStartMs": 1381000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't know."
+    } ]
+  }, {
+    "tStartMs": 1383000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I thought about it,"
+    } ]
+  }, {
+    "tStartMs": 1385000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and it seems really difficult,"
+    } ]
+  }, {
+    "tStartMs": 1387000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but let's try it."
+    } ]
+  }, {
+    "tStartMs": 1389000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If it takes too long,"
+    } ]
+  }, {
+    "tStartMs": 1393000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "we'll count it as being eliminated."
+    } ]
+  }, {
+    "tStartMs": 1399000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It seems really difficult,"
+    } ]
+  }, {
+    "tStartMs": 1401000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but let's give it a try."
+    } ]
+  }, {
+    "tStartMs": 1403000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Should I go first?"
+    } ]
+  }, {
+    "tStartMs": 1405000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Microphone."
+    } ]
+  }, {
+    "tStartMs": 1409000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A microphone is something that can"
+    } ]
+  }, {
+    "tStartMs": 1411000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "record what a person is saying,"
+    } ]
+  }, {
+    "tStartMs": 1413000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and when you're singing, you hold it in your hand"
+    } ]
+  }, {
+    "tStartMs": 1415000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and use it to sing."
+    } ]
+  }, {
+    "tStartMs": 1419000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Good."
+    } ]
+  }, {
+    "tStartMs": 1421000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Starting with something big, huh?"
+    } ]
+  }, {
+    "tStartMs": 1423000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1425000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "starting with English, English—"
+    } ]
+  }, {
+    "tStartMs": 1429000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "let me try."
+    } ]
+  }, {
+    "tStartMs": 1431000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Crayon."
+    } ]
+  }, {
+    "tStartMs": 1433000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A crayon is"
+    } ]
+  }, {
+    "tStartMs": 1435000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a tool that can color,"
+    } ]
+  }, {
+    "tStartMs": 1437000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "not a pencil,"
+    } ]
+  }, {
+    "tStartMs": 1439000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "something like colored pencils."
+    } ]
+  }, {
+    "tStartMs": 1441000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a tool."
+    } ]
+  }, {
+    "tStartMs": 1443000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ski resort."
+    } ]
+  }, {
+    "tStartMs": 1445000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A ski resort is"
+    } ]
+  }, {
+    "tStartMs": 1447000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you know, winter sports skiing."
+    } ]
+  }, {
+    "tStartMs": 1449000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like going down a slide in a snowy place,"
+    } ]
+  }, {
+    "tStartMs": 1451000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a place where you can do that kind of activity."
+    } ]
+  }, {
+    "tStartMs": 1453000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a ski resort."
+    } ]
+  }, {
+    "tStartMs": 1455000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A ski resort is just"
+    } ]
+  }, {
+    "tStartMs": 1457000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a place where you ski, right?"
+    } ]
+  }, {
+    "tStartMs": 1459000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Can you say it that way?"
+    } ]
+  }, {
+    "tStartMs": 1461000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, you can."
+    } ]
+  }, {
+    "tStartMs": 1463000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a place where you ski."
+    } ]
+  }, {
+    "tStartMs": 1465000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "For me,"
+    } ]
+  }, {
+    "tStartMs": 1467000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "rainy season."
+    } ]
+  }, {
+    "tStartMs": 1469000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Usually in summer,"
+    } ]
+  }, {
+    "tStartMs": 1473000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "for a long period of time,"
+    } ]
+  }, {
+    "tStartMs": 1475000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the period when it rains a lot,"
+    } ]
+  }, {
+    "tStartMs": 1477000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we call that the rainy season."
+    } ]
+  }, {
+    "tStartMs": 1479000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You did well."
+    } ]
+  }, {
+    "tStartMs": 1481000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ra—"
+    } ]
+  }, {
+    "tStartMs": 1483000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The microphone isn't working."
+    } ]
+  }, {
+    "tStartMs": 1485000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wizard."
+    } ]
+  }, {
+    "tStartMs": 1487000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A wizard is a person who uses magic."
+    } ]
+  }, {
+    "tStartMs": 1491000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No,"
+    } ]
+  }, {
+    "tStartMs": 1493000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that works as a word."
+    } ]
+  }, {
+    "tStartMs": 1495000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "For example, a typical one is"
+    } ]
+  }, {
+    "tStartMs": 1499000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Harry Potter? He's a wizard."
+    } ]
+  }, {
+    "tStartMs": 1501000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So that's how it will come out."
+    } ]
+  }, {
+    "tStartMs": 1503000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ski resort wizard."
+    } ]
+  }, {
+    "tStartMs": 1507000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "We ended with the letter \"sa.\""
+    } ]
+  }, {
+    "tStartMs": 1509000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Then for me,"
+    } ]
+  }, {
+    "tStartMs": 1511000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'll go with the letter \"sa.\""
+    } ]
+  }, {
+    "tStartMs": 1513000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "\"Sa\" is"
+    } ]
+  }, {
+    "tStartMs": 1517000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a difficult word for beginners,"
+    } ]
+  }, {
+    "tStartMs": 1519000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "is it a Chinese character?"
+    } ]
+  }, {
+    "tStartMs": 1521000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When a person dies,"
+    } ]
+  }, {
+    "tStartMs": 1523000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "then the reason that person"
+    } ]
+  }, {
+    "tStartMs": 1525000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "died"
+    } ]
+  }, {
+    "tStartMs": 1527000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "is called the cause of death."
+    } ]
+  }, {
+    "tStartMs": 1529000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 1531000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the cause of death is"
+    } ]
+  }, {
+    "tStartMs": 1533000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "starved to death because of hunger."
+    } ]
+  }, {
+    "tStartMs": 1535000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Or drowned in water."
+    } ]
+  }, {
+    "tStartMs": 1537000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "We call it the cause of death like this."
+    } ]
+  }, {
+    "tStartMs": 1539000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1541000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Casualties."
+    } ]
+  }, {
+    "tStartMs": 1545000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This is a word that might be"
+    } ]
+  }, {
+    "tStartMs": 1549000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a bit difficult for beginners."
+    } ]
+  }, {
+    "tStartMs": 1551000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Casualties are"
+    } ]
+  }, {
+    "tStartMs": 1553000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a term that comes up a lot in the news,"
+    } ]
+  }, {
+    "tStartMs": 1555000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and when an accident happens,"
+    } ]
+  }, {
+    "tStartMs": 1557000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "lots of things get broken,"
+    } ]
+  }, {
+    "tStartMs": 1559000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and among those things, people"
+    } ]
+  }, {
+    "tStartMs": 1561000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "get injured too, you know."
+    } ]
+  }, {
+    "tStartMs": 1563000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's what casualties are."
+    } ]
+  }, {
+    "tStartMs": 1565000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It refers to the damage to people."
+    } ]
+  }, {
+    "tStartMs": 1567000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1569000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How badly people were injured."
+    } ]
+  }, {
+    "tStartMs": 1571000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When talking about things like this,"
+    } ]
+  }, {
+    "tStartMs": 1573000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the human casualties were large."
+    } ]
+  }, {
+    "tStartMs": 1575000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They were small. You can talk about it that way."
+    } ]
+  }, {
+    "tStartMs": 1577000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's a good explanation."
+    } ]
+  }, {
+    "tStartMs": 1579000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm going to"
+    } ]
+  }, {
+    "tStartMs": 1581000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "sunrise."
+    } ]
+  }, {
+    "tStartMs": 1583000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm going to do a sunrise viewing."
+    } ]
+  }, {
+    "tStartMs": 1585000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Sunrise viewing."
+    } ]
+  }, {
+    "tStartMs": 1587000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a sunrise viewing."
+    } ]
+  }, {
+    "tStartMs": 1589000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In the morning"
+    } ]
+  }, {
+    "tStartMs": 1591000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the sun rises, you know."
+    } ]
+  }, {
+    "tStartMs": 1593000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So when the sun rises,"
+    } ]
+  }, {
+    "tStartMs": 1595000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you go to see it."
+    } ]
+  }, {
+    "tStartMs": 1597000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Sunrise viewing."
+    } ]
+  }, {
+    "tStartMs": 1599000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "New Year"
+    } ]
+  }, {
+    "tStartMs": 1601000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "On January 1st, the first day of the new year,"
+    } ]
+  }, {
+    "tStartMs": 1603000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "many people go to see the sunrise."
+    } ]
+  }, {
+    "tStartMs": 1605000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's nice."
+    } ]
+  }, {
+    "tStartMs": 1607000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've never seen a sunrise yet."
+    } ]
+  }, {
+    "tStartMs": 1609000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I haven't either."
+    } ]
+  }, {
+    "tStartMs": 1611000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You could do it your whole life though?"
+    } ]
+  }, {
+    "tStartMs": 1613000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Barbershop."
+    } ]
+  }, {
+    "tStartMs": 1615000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A place where you get a haircut."
+    } ]
+  }, {
+    "tStartMs": 1617000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A place where you get"
+    } ]
+  }, {
+    "tStartMs": 1619000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a haircut."
+    } ]
+  }, {
+    "tStartMs": 1621000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When we say haircut,"
+    } ]
+  }, {
+    "tStartMs": 1623000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the activity of cutting hair,"
+    } ]
+  }, {
+    "tStartMs": 1625000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "making it look nice and things like that—"
+    } ]
+  }, {
+    "tStartMs": 1627000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a place where you can do that. A barbershop."
+    } ]
+  }, {
+    "tStartMs": 1629000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Especially men often go to"
+    } ]
+  }, {
+    "tStartMs": 1631000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a barbershop to get their hair cut."
+    } ]
+  }, {
+    "tStartMs": 1633000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1635000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Women don't usually"
+    } ]
+  }, {
+    "tStartMs": 1637000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "say they're going to a barbershop."
+    } ]
+  }, {
+    "tStartMs": 1639000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Men usually say they're going to a salon."
+    } ]
+  }, {
+    "tStartMs": 1643000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm going to do Socrates."
+    } ]
+  }, {
+    "tStartMs": 1645000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Socrates is"
+    } ]
+  }, {
+    "tStartMs": 1647000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a Greek philosopher who"
+    } ]
+  }, {
+    "tStartMs": 1649000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "left behind the famous saying \"Even an unjust law is still law\""
+    } ]
+  }, {
+    "tStartMs": 1651000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and"
+    } ]
+  }, {
+    "tStartMs": 1653000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "died by drinking poison."
+    } ]
+  }, {
+    "tStartMs": 1659000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'll do Switzerland."
+    } ]
+  }, {
+    "tStartMs": 1661000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How should I explain it?"
+    } ]
+  }, {
+    "tStartMs": 1665000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Switzerland is"
+    } ]
+  }, {
+    "tStartMs": 1669000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a country name, right?"
+    } ]
+  }, {
+    "tStartMs": 1671000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think everyone probably knows it,"
+    } ]
+  }, {
+    "tStartMs": 1673000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so I don't think an explanation is necessary,"
+    } ]
+  }, {
+    "tStartMs": 1675000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but it's the country with"
+    } ]
+  }, {
+    "tStartMs": 1677000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a cross on"
+    } ]
+  }, {
+    "tStartMs": 1679000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a red flag."
+    } ]
+  }, {
+    "tStartMs": 1681000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What is it famous for?"
+    } ]
+  }, {
+    "tStartMs": 1683000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What is Switzerland famous for?"
+    } ]
+  }, {
+    "tStartMs": 1685000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Watches."
+    } ]
+  }, {
+    "tStartMs": 1687000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Switzerland? Matterhorn?"
+    } ]
+  }, {
+    "tStartMs": 1689000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Eiffel? The Alps?"
+    } ]
+  }, {
+    "tStartMs": 1691000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a country I really want to visit."
+    } ]
+  }, {
+    "tStartMs": 1693000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What kind of country is it?"
+    } ]
+  }, {
+    "tStartMs": 1695000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Try doing a Google image"
+    } ]
+  }, {
+    "tStartMs": 1697000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "search for it."
+    } ]
+  }, {
+    "tStartMs": 1699000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's such a beautiful place."
+    } ]
+  }, {
+    "tStartMs": 1701000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Isn't this wrong?"
+    } ]
+  }, {
+    "tStartMs": 1703000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Doesn't this explanation work?"
+    } ]
+  }, {
+    "tStartMs": 1705000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Isn't it sufficient?"
+    } ]
+  }, {
+    "tStartMs": 1707000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's good."
+    } ]
+  }, {
+    "tStartMs": 1709000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Then if that's how it comes out,"
+    } ]
+  }, {
+    "tStartMs": 1711000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 1713000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "will choose Spain."
+    } ]
+  }, {
+    "tStartMs": 1715000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What does that mean?"
+    } ]
+  }, {
+    "tStartMs": 1719000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Spain."
+    } ]
+  }, {
+    "tStartMs": 1721000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Gambas and paella are"
+    } ]
+  }, {
+    "tStartMs": 1723000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "famous in that country."
+    } ]
+  }, {
+    "tStartMs": 1725000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Have you been there?"
+    } ]
+  }, {
+    "tStartMs": 1727000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I haven't been."
+    } ]
+  }, {
+    "tStartMs": 1729000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'd like to visit Spain sometime too."
+    } ]
+  }, {
+    "tStartMs": 1731000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In..."
+    } ]
+  }, {
+    "tStartMs": 1733000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Population?"
+    } ]
+  }, {
+    "tStartMs": 1735000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Population?"
+    } ]
+  }, {
+    "tStartMs": 1737000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Population is"
+    } ]
+  }, {
+    "tStartMs": 1739000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1741000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Population?"
+    } ]
+  }, {
+    "tStartMs": 1743000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The number of people?"
+    } ]
+  }, {
+    "tStartMs": 1745000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The population of South Korea is"
+    } ]
+  }, {
+    "tStartMs": 1747000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "a few hundred people."
+    } ]
+  }, {
+    "tStartMs": 1749000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A few hundred thousand people."
+    } ]
+  }, {
+    "tStartMs": 1751000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1753000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Does the number of people"
+    } ]
+  }, {
+    "tStartMs": 1755000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "mean population?"
+    } ]
+  }, {
+    "tStartMs": 1757000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wrong! That's incorrect."
+    } ]
+  }, {
+    "tStartMs": 1759000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's my victory."
+    } ]
+  }, {
+    "tStartMs": 1761000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wait. What's population?"
+    } ]
+  }, {
+    "tStartMs": 1763000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Population."
+    } ]
+  }, {
+    "tStartMs": 1765000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Population is"
+    } ]
+  }, {
+    "tStartMs": 1767000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the number of people living in a country or region,"
+    } ]
+  }, {
+    "tStartMs": 1769000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and also, or rather,"
+    } ]
+  }, {
+    "tStartMs": 1771000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the collection of human beings"
+    } ]
+  }, {
+    "tStartMs": 1773000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "living in a certain area"
+    } ]
+  }, {
+    "tStartMs": 1775000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "is what it means."
+    } ]
+  }, {
+    "tStartMs": 1777000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That collection of people,"
+    } ]
+  }, {
+    "tStartMs": 1779000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the group itself can also be referred to that way."
+    } ]
+  }, {
+    "tStartMs": 1781000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1783000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But it can also be a number, so then?"
+    } ]
+  }, {
+    "tStartMs": 1785000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1787000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1789000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think it would be good to learn"
+    } ]
+  }, {
+    "tStartMs": 1791000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "example sentences like that."
+    } ]
+  }, {
+    "tStartMs": 1793000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What is the population of South Korea?"
+    } ]
+  }, {
+    "tStartMs": 1795000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it fifty million?"
+    } ]
+  }, {
+    "tStartMs": 1797000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 1800000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "You can talk about it like this."
+    } ]
+  }, {
+    "tStartMs": 1803320,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Because I was a bit uncertain,"
+    } ]
+  }, {
+    "tStartMs": 1805360,
+    "dDurationMs": 320,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1805680,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "I'll go with Tae-woong as the winner."
+    } ]
+  }, {
+    "tStartMs": 1807240,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Oh, I really won."
+    } ]
+  }, {
+    "tStartMs": 1809160,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Oh, it's one-on-one."
+    } ]
+  }, {
+    "tStartMs": 1810600,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Tae-woong and I were one to zero."
+    } ]
+  }, {
+    "tStartMs": 1812320,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "In the last match,"
+    } ]
+  }, {
+    "tStartMs": 1813280,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Now it's tied one to one."
+    } ]
+  }, {
+    "tStartMs": 1815000,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Oh, so we have to do one more round."
+    } ]
+  }, {
+    "tStartMs": 1816840,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Let's do one more game,"
+    } ]
+  }, {
+    "tStartMs": 1817920,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Oh, the game we did last time was"
+    } ]
+  }, {
+    "tStartMs": 1819559,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "Just one person asks a question and the other guesses,"
+    } ]
+  }, {
+    "tStartMs": 1822200,
+    "dDurationMs": 359,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1822559,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "Was that it?"
+    } ]
+  }, {
+    "tStartMs": 1823840,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1825160,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "This time we should make it a bit harder."
+    } ]
+  }, {
+    "tStartMs": 1827120,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "After trying it,"
+    } ]
+  }, {
+    "tStartMs": 1828959,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Let's ban English."
+    } ]
+  }, {
+    "tStartMs": 1830320,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "Oh, only Korean."
+    } ]
+  }, {
+    "tStartMs": 1832439,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Oh, only Korean."
+    } ]
+  }, {
+    "tStartMs": 1833919,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "Understood."
+    } ]
+  }, {
+    "tStartMs": 1834439,
+    "dDurationMs": 4241,
+    "segs": [ {
+      "utf8": "So we're talking pure Korean words or Sino-Korean words, right?"
+    } ]
+  }, {
+    "tStartMs": 1838680,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1839360,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Understood."
+    } ]
+  }, {
+    "tStartMs": 1840720,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Tae-woong, please go first."
+    } ]
+  }, {
+    "tStartMs": 1842759,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Me first?"
+    } ]
+  }, {
+    "tStartMs": 1844160,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "You first."
+    } ]
+  }, {
+    "tStartMs": 1845880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Okay, I'll do a picture frame."
+    } ]
+  }, {
+    "tStartMs": 1848320,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "A picture frame."
+    } ]
+  }, {
+    "tStartMs": 1849080,
+    "dDurationMs": 679,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1849759,
+    "dDurationMs": 5761,
+    "segs": [ {
+      "utf8": "It's a frame that you hang photos or pictures on."
+    } ]
+  }, {
+    "tStartMs": 1855520,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "Hmm."
+    } ]
+  }, {
+    "tStartMs": 1856799,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "I'll do a bicycle."
+    } ]
+  }, {
+    "tStartMs": 1859720,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "A bicycle is"
+    } ]
+  }, {
+    "tStartMs": 1861400,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "Something with two wheels,"
+    } ]
+  }, {
+    "tStartMs": 1863919,
+    "dDurationMs": 881,
+    "segs": [ {
+      "utf8": "A vehicle that you ride,"
+    } ]
+  }, {
+    "tStartMs": 1864800,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "And it's something you can move with,"
+    } ]
+  }, {
+    "tStartMs": 1868639,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "By directly stepping on the pedals"
+    } ]
+  }, {
+    "tStartMs": 1870760,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "And going forward, that thing."
+    } ]
+  }, {
+    "tStartMs": 1873839,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "It's a means of transportation."
+    } ]
+  }, {
+    "tStartMs": 1875000,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Oh yes, good."
+    } ]
+  }, {
+    "tStartMs": 1876639,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1877800,
+    "dDurationMs": 719,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1878519,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "I'll do a giant."
+    } ]
+  }, {
+    "tStartMs": 1879879,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "A giant."
+    } ]
+  }, {
+    "tStartMs": 1880639,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Yes, a giant."
+    } ]
+  }, {
+    "tStartMs": 1881680,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "It's an extremely big person."
+    } ]
+  }, {
+    "tStartMs": 1883879,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Do giants actually exist?"
+    } ]
+  }, {
+    "tStartMs": 1885599,
+    "dDurationMs": 561,
+    "segs": [ {
+      "utf8": "In this world?"
+    } ]
+  }, {
+    "tStartMs": 1886160,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "In reality, it's not a real concept."
+    } ]
+  }, {
+    "tStartMs": 1888680,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "It usually appears a lot in fairy tales."
+    } ]
+  }, {
+    "tStartMs": 1890559,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1890959,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "In movies or"
+    } ]
+  }, {
+    "tStartMs": 1892360,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Giant is good, and it ends with \"in\" again."
+    } ]
+  }, {
+    "tStartMs": 1895040,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "I'll do perseverance."
+    } ]
+  }, {
+    "tStartMs": 1896639,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "Perseverance."
+    } ]
+  }, {
+    "tStartMs": 1898800,
+    "dDurationMs": 1719,
+    "segs": [ {
+      "utf8": "Am I a person with strong perseverance or a weak person, when we say perseverance,"
+    } ]
+  }, {
+    "tStartMs": 1900519,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "This is talking about the ability to endure."
+    } ]
+  }, {
+    "tStartMs": 1902599,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "It's the ability to be patient."
+    } ]
+  }, {
+    "tStartMs": 1906639,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Uh, the ability to wait"
+    } ]
+  }, {
+    "tStartMs": 1908559,
+    "dDurationMs": 1241,
+    "segs": [ {
+      "utf8": "The ability to endure"
+    } ]
+  }, {
+    "tStartMs": 1909800,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "It's like this"
+    } ]
+  }, {
+    "tStartMs": 1910680,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Do you know the marshmallow experiment?"
+    } ]
+  }, {
+    "tStartMs": 1912400,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Where children don't eat the marshmallow"
+    } ]
+  }, {
+    "tStartMs": 1915760,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "And we see how many minutes they can hold out"
+    } ]
+  }, {
+    "tStartMs": 1918080,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "We do this kind of experiment"
+    } ]
+  }, {
+    "tStartMs": 1920360,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "The ability to hold out in that situation"
+    } ]
+  }, {
+    "tStartMs": 1922239,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "The ability to endure in some kind of crisis situation"
+    } ]
+  }, {
+    "tStartMs": 1925320,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "We call this kind of thing patience"
+    } ]
+  }, {
+    "tStartMs": 1927839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, good"
+    } ]
+  }, {
+    "tStartMs": 1928839,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "That's a very good explanation"
+    } ]
+  }, {
+    "tStartMs": 1931919,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "Yes, if it's patience, then I"
+    } ]
+  }, {
+    "tStartMs": 1934440,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I will go with psychology"
+    } ]
+  }, {
+    "tStartMs": 1936360,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "Psychology"
+    } ]
+  }, {
+    "tStartMs": 1937919,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Yes, psychology is the human mind"
+    } ]
+  }, {
+    "tStartMs": 1941679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, so"
+    } ]
+  }, {
+    "tStartMs": 1942679,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "Uh, what could that person's psychology be"
+    } ]
+  }, {
+    "tStartMs": 1945720,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "If you ask like this"
+    } ]
+  }, {
+    "tStartMs": 1947520,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "Uh, what kind of heart does that person have right now to be like that"
+    } ]
+  }, {
+    "tStartMs": 1951119,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "You can understand it that way"
+    } ]
+  }, {
+    "tStartMs": 1953880,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "Good"
+    } ]
+  }, {
+    "tStartMs": 1955639,
+    "dDurationMs": 1321,
+    "segs": [ {
+      "utf8": "Ah, it's a characteristic of the final syllable game"
+    } ]
+  }, {
+    "tStartMs": 1956960,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Words that end in ri"
+    } ]
+  }, {
+    "tStartMs": 1959080,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "Can also be done with ro"
+    } ]
+  }, {
+    "tStartMs": 1960399,
+    "dDurationMs": 681,
+    "segs": [ {
+      "utf8": "Yeah, that's right"
+    } ]
+  }, {
+    "tStartMs": 1961080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In Korean, it's allowed"
+    } ]
+  }, {
+    "tStartMs": 1963080,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "In the final syllable game"
+    } ]
+  }, {
+    "tStartMs": 1964679,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "So I'll try it with ro"
+    } ]
+  }, {
+    "tStartMs": 1966759,
+    "dDurationMs": 1241,
+    "segs": [ {
+      "utf8": "Immigration?"
+    } ]
+  }, {
+    "tStartMs": 1968000,
+    "dDurationMs": 1279,
+    "segs": [ {
+      "utf8": "Immigration"
+    } ]
+  }, {
+    "tStartMs": 1969279,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Immigration is when instead of the country I'm currently living in"
+    } ]
+  }, {
+    "tStartMs": 1972279,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "I move to a different country and live there"
+    } ]
+  }, {
+    "tStartMs": 1977440,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Uh yes, yes, yes"
+    } ]
+  }, {
+    "tStartMs": 1978520,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Right, right"
+    } ]
+  }, {
+    "tStartMs": 1979320,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Yes yes yes"
+    } ]
+  }, {
+    "tStartMs": 1980960,
+    "dDurationMs": 679,
+    "segs": [ {
+      "utf8": "That's it"
+    } ]
+  }, {
+    "tStartMs": 1981639,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "So I was originally Korean"
+    } ]
+  }, {
+    "tStartMs": 1984600,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "And like, I came to the United States, I went to the United States"
+    } ]
+  }, {
+    "tStartMs": 1987160,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "You can say it like this"
+    } ]
+  }, {
+    "tStartMs": 1988960,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Yes, good"
+    } ]
+  }, {
+    "tStartMs": 1990800,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "I will go with civilian"
+    } ]
+  }, {
+    "tStartMs": 1993759,
+    "dDurationMs": 761,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 1994520,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Civilian might be a slightly difficult word"
+    } ]
+  }, {
+    "tStartMs": 1996559,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Civilian"
+    } ]
+  }, {
+    "tStartMs": 1997279,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "Yes, it's mainly a word used in the military"
+    } ]
+  }, {
+    "tStartMs": 2000240,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2001199,
+    "dDurationMs": 5881,
+    "segs": [ {
+      "utf8": "A soldier has a special status as a soldier, right"
+    } ]
+  }, {
+    "tStartMs": 2007080,
+    "dDurationMs": 479,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2007559,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "But from that perspective"
+    } ]
+  }, {
+    "tStartMs": 2009479,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "A person who is not a soldier"
+    } ]
+  }, {
+    "tStartMs": 2010919,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "A regular person outside the military"
+    } ]
+  }, {
+    "tStartMs": 2013839,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "We call those people civilians"
+    } ]
+  }, {
+    "tStartMs": 2016320,
+    "dDurationMs": 879,
+    "segs": [ {
+      "utf8": "Mm"
+    } ]
+  }, {
+    "tStartMs": 2017199,
+    "dDurationMs": 5241,
+    "segs": [ {
+      "utf8": "So like, at some military facility, civilians are not allowed"
+    } ]
+  }, {
+    "tStartMs": 2022440,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "Like, civilians cannot enter"
+    } ]
+  }, {
+    "tStartMs": 2024399,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Like this"
+    } ]
+  }, {
+    "tStartMs": 2025639,
+    "dDurationMs": 361,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2026000,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "When we say the word civilian"
+    } ]
+  }, {
+    "tStartMs": 2027960,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "It's a person who has nothing to do with the military"
+    } ]
+  }, {
+    "tStartMs": 2030119,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "They say it's a civilian."
+    } ]
+  }, {
+    "tStartMs": 2031919,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "There's \"in\" again."
+    } ]
+  }, {
+    "tStartMs": 2033039,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "\"In.\""
+    } ]
+  }, {
+    "tStartMs": 2035800,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "\"In\"—why does it seem like there are so many of these?"
+    } ]
+  }, {
+    "tStartMs": 2039559,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "\"Inji.\""
+    } ]
+  }, {
+    "tStartMs": 2041520,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "I'll use \"inji.\""
+    } ]
+  }, {
+    "tStartMs": 2042559,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "\"Inji.\""
+    } ]
+  }, {
+    "tStartMs": 2043160,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "\"Inji\"—there are a lot of difficult words coming up."
+    } ]
+  }, {
+    "tStartMs": 2045279,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "For example,"
+    } ]
+  }, {
+    "tStartMs": 2046559,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I am right now"
+    } ]
+  }, {
+    "tStartMs": 2048479,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "aware of what's happening in my body,"
+    } ]
+  }, {
+    "tStartMs": 2050839,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "I'm cognizing it."
+    } ]
+  }, {
+    "tStartMs": 2052320,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "You can use it like this,"
+    } ]
+  }, {
+    "tStartMs": 2056359,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It means to recognize and be aware of something."
+    } ]
+  }, {
+    "tStartMs": 2059359,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "To understand something with my mind,"
+    } ]
+  }, {
+    "tStartMs": 2062399,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "When you use it like this, you say \"inji.\""
+    } ]
+  }, {
+    "tStartMs": 2065600,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "Does that make sense?"
+    } ]
+  }, {
+    "tStartMs": 2067679,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "\"Inji\"—wouldn't that be okay?"
+    } ]
+  }, {
+    "tStartMs": 2069640,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 2070040,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So when you say something like \"inji ability has declined,\""
+    } ]
+  }, {
+    "tStartMs": 2073160,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "it means"
+    } ]
+  }, {
+    "tStartMs": 2074880,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "when something happens,"
+    } ]
+  }, {
+    "tStartMs": 2077559,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "what this is,"
+    } ]
+  }, {
+    "tStartMs": 2079480,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "the ability to grasp"
+    } ]
+  }, {
+    "tStartMs": 2081320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "the ability to understand those kinds of things has declined."
+    } ]
+  }, {
+    "tStartMs": 2085160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 2087880,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "\"Inji.\""
+    } ]
+  }, {
+    "tStartMs": 2090399,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "\"Jigu.\""
+    } ]
+  }, {
+    "tStartMs": 2092359,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "\"Jigu\" is the planet we live on right now."
+    } ]
+  }, {
+    "tStartMs": 2097679,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 2101679,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "\"Gudu.\""
+    } ]
+  }, {
+    "tStartMs": 2102519,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "How should I explain this?"
+    } ]
+  }, {
+    "tStartMs": 2104799,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "\"Gudu\" isn't that shoe, that dress shoe,"
+    } ]
+  }, {
+    "tStartMs": 2108559,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "I'll use \"gudu.\""
+    } ]
+  }, {
+    "tStartMs": 2109799,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "You know how there's this kind of thing?"
+    } ]
+  }, {
+    "tStartMs": 2111000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2114320,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "\"Gu\" is a Chinese character that means \"mouth.\""
+    } ]
+  }, {
+    "tStartMs": 2118640,
+    "dDurationMs": 879,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2119519,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "So I'll say it in words."
+    } ]
+  }, {
+    "tStartMs": 2121279,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "When you write an expression like this on paper"
+    } ]
+  }, {
+    "tStartMs": 2124320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "instead of doing it like this in writing,"
+    } ]
+  }, {
+    "tStartMs": 2125920,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "I'll convey it in words."
+    } ]
+  }, {
+    "tStartMs": 2127239,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "When you want to talk like this,"
+    } ]
+  }, {
+    "tStartMs": 2129279,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "you say \"gudu.\""
+    } ]
+  }, {
+    "tStartMs": 2132760,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So when you say \"gudu contract,\""
+    } ]
+  }, {
+    "tStartMs": 2135880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "usually you don't sign documents"
+    } ]
+  }, {
+    "tStartMs": 2138880,
+    "dDurationMs": 639,
+    "segs": [ {
+      "utf8": "or anything like that,"
+    } ]
+  }, {
+    "tStartMs": 2139519,
+    "dDurationMs": 1241,
+    "segs": [ {
+      "utf8": "you just do it by mouth."
+    } ]
+  }, {
+    "tStartMs": 2140760,
+    "dDurationMs": 479,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2141239,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "By word."
+    } ]
+  }, {
+    "tStartMs": 2142720,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Like this, like this, we'll do it this way."
+    } ]
+  }, {
+    "tStartMs": 2144480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "When you do it like this, it's called a gudu contract."
+    } ]
+  }, {
+    "tStartMs": 2146760,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 2147480,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "Such a detailed explanation."
+    } ]
+  }, {
+    "tStartMs": 2149359,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "So \"du.\""
+    } ]
+  }, {
+    "tStartMs": 2151320,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "I'll use \"dusang.\""
+    } ]
+  }, {
+    "tStartMs": 2152200,
+    "dDurationMs": 879,
+    "segs": [ {
+      "utf8": "\"Dusang.\""
+    } ]
+  }, {
+    "tStartMs": 2153079,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "\"Dusang.\""
+    } ]
+  }, {
+    "tStartMs": 2154679,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "The word \"dusang\" means"
+    } ]
+  }, {
+    "tStartMs": 2156640,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "our head, you know?"
+    } ]
+  }, {
+    "tStartMs": 2158279,
+    "dDurationMs": 721,
+    "segs": [ {
+      "utf8": "Head"
+    } ]
+  }, {
+    "tStartMs": 2159000,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2159920,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "It's about the shape of this head."
+    } ]
+  }, {
+    "tStartMs": 2163559,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "So when someone has a pretty head shape"
+    } ]
+  }, {
+    "tStartMs": 2165799,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "like that"
+    } ]
+  }, {
+    "tStartMs": 2167079,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "now when I shave my head"
+    } ]
+  }, {
+    "tStartMs": 2169160,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "cut all my hair really short"
+    } ]
+  }, {
+    "tStartMs": 2172000,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "when I become bald"
+    } ]
+  }, {
+    "tStartMs": 2173839,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "that head shape is pretty, you know?"
+    } ]
+  }, {
+    "tStartMs": 2176600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "The head shape isn't all bumpy or anything"
+    } ]
+  }, {
+    "tStartMs": 2179320,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "a smooth shape is usually in Korea"
+    } ]
+  }, {
+    "tStartMs": 2181399,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "considered pretty, I think."
+    } ]
+  }, {
+    "tStartMs": 2183320,
+    "dDurationMs": 479,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2183799,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "When we say someone has a pretty head shape"
+    } ]
+  }, {
+    "tStartMs": 2186000,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "shape"
+    } ]
+  }, {
+    "tStartMs": 2186480,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Oh, how do I end this"
+    } ]
+  }, {
+    "tStartMs": 2190200,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "lovesickness"
+    } ]
+  }, {
+    "tStartMs": 2191480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "there's a word called lovesickness"
+    } ]
+  }, {
+    "tStartMs": 2194480,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "I should tell you a difficult word"
+    } ]
+  }, {
+    "tStartMs": 2197119,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "lovesickness, you know"
+    } ]
+  }, {
+    "tStartMs": 2199760,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "we talk about it like this"
+    } ]
+  }, {
+    "tStartMs": 2201519,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "when you miss something and want to see it"
+    } ]
+  }, {
+    "tStartMs": 2204600,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "and it keeps flickering in your eyes"
+    } ]
+  }, {
+    "tStartMs": 2207119,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and you can't even eat"
+    } ]
+  }, {
+    "tStartMs": 2210119,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "it's like a kind of depression, I think"
+    } ]
+  }, {
+    "tStartMs": 2213079,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "that's what we call lovesickness."
+    } ]
+  }, {
+    "tStartMs": 2215640,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "Oh, that's good."
+    } ]
+  }, {
+    "tStartMs": 2216160,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Oh this is really"
+    } ]
+  }, {
+    "tStartMs": 2218000,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "like a battle of geniuses"
+    } ]
+  }, {
+    "tStartMs": 2221600,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "an explanation showdown"
+    } ]
+  }, {
+    "tStartMs": 2222720,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "Yes, I will pay a sick visit for illness."
+    } ]
+  }, {
+    "tStartMs": 2225679,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Sick visit"
+    } ]
+  }, {
+    "tStartMs": 2227040,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "like, someone other than me gets sick"
+    } ]
+  }, {
+    "tStartMs": 2231279,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "and is admitted to the hospital"
+    } ]
+  }, {
+    "tStartMs": 2232559,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "they eat and sleep at the hospital"
+    } ]
+  }, {
+    "tStartMs": 2234760,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "at that time, for that person"
+    } ]
+  }, {
+    "tStartMs": 2236880,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "you go to that hospital"
+    } ]
+  }, {
+    "tStartMs": 2239079,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "greet them"
+    } ]
+  }, {
+    "tStartMs": 2240799,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and ask how they're doing, if they're having a hard time"
+    } ]
+  }, {
+    "tStartMs": 2243359,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "that thing"
+    } ]
+  }, {
+    "tStartMs": 2246000,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "is called a sick visit."
+    } ]
+  }, {
+    "tStartMs": 2248119,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "That's nice, in Korea people usually bring"
+    } ]
+  }, {
+    "tStartMs": 2250839,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "fruit juice or fruit"
+    } ]
+  }, {
+    "tStartMs": 2252480,
+    "dDurationMs": 879,
+    "segs": [ {
+      "utf8": "when going to pay a sick visit"
+    } ]
+  }, {
+    "tStartMs": 2253359,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2254799,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "Massage"
+    } ]
+  }, {
+    "tStartMs": 2259399,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "Do you all know what massage is?"
+    } ]
+  }, {
+    "tStartMs": 2261040,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "asking for a massage"
+    } ]
+  }, {
+    "tStartMs": 2262320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we talk about it like this"
+    } ]
+  }, {
+    "tStartMs": 2264320,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "sports athletes"
+    } ]
+  }, {
+    "tStartMs": 2266000,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "when they play soccer or things like that"
+    } ]
+  }, {
+    "tStartMs": 2268320,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "sometimes they get cramps in their legs"
+    } ]
+  }, {
+    "tStartMs": 2270920,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "like when you suddenly use muscles quickly"
+    } ]
+  }, {
+    "tStartMs": 2273200,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "that area gets all bunched up"
+    } ]
+  }, {
+    "tStartMs": 2274959,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "and it hurts and is difficult"
+    } ]
+  }, {
+    "tStartMs": 2277679,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "when that happens, people who help"
+    } ]
+  }, {
+    "tStartMs": 2281239,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "go and rub the legs like this"
+    } ]
+  }, {
+    "tStartMs": 2283760,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "those kinds of things are called massage."
+    } ]
+  }, {
+    "tStartMs": 2286279,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Then I will get anesthesia."
+    } ]
+  }, {
+    "tStartMs": 2288399,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Anesthesia"
+    } ]
+  }, {
+    "tStartMs": 2290200,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "Anesthesia is mainly used in hospitals"
+    } ]
+  }, {
+    "tStartMs": 2293839,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "before doing something very painful to your body"
+    } ]
+  }, {
+    "tStartMs": 2297679,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "using a certain medication"
+    } ]
+  }, {
+    "tStartMs": 2300239,
+    "dDurationMs": 3641,
+    "segs": [ {
+      "utf8": "to make that area feel nothing at all"
+    } ]
+  }, {
+    "tStartMs": 2303880,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "So when you go to the dentist"
+    } ]
+  }, {
+    "tStartMs": 2305799,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "and have a tooth pulled"
+    } ]
+  }, {
+    "tStartMs": 2306959,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "or get some treatment done"
+    } ]
+  }, {
+    "tStartMs": 2308720,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "if you just did it without anything, it would hurt too much"
+    } ]
+  }, {
+    "tStartMs": 2311279,
+    "dDurationMs": 4041,
+    "segs": [ {
+      "utf8": "so they inject anesthetic medicine with a syringe"
+    } ]
+  }, {
+    "tStartMs": 2315320,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "and even if you have painful surgery"
+    } ]
+  }, {
+    "tStartMs": 2318479,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "they make it so you don't feel the pain"
+    } ]
+  }, {
+    "tStartMs": 2320559,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "that's what we call anesthesia"
+    } ]
+  }, {
+    "tStartMs": 2322880,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Got it"
+    } ]
+  }, {
+    "tStartMs": 2326000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "\"Truth in drunkenness\""
+    } ]
+  }, {
+    "tStartMs": 2328000,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "is a saying we have"
+    } ]
+  }, {
+    "tStartMs": 2329599,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "That's a real word, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 2331880,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "Is it?"
+    } ]
+  }, {
+    "tStartMs": 2332919,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "It's a real word, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 2334599,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "Or is it?"
+    } ]
+  }, {
+    "tStartMs": 2335880,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Is it just a song title or something?"
+    } ]
+  }, {
+    "tStartMs": 2337919,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "Is it originally a real word?"
+    } ]
+  }, {
+    "tStartMs": 2339960,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Don't you think it is?"
+    } ]
+  }, {
+    "tStartMs": 2340760,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "\"Truth in drunkenness\" is"
+    } ]
+  }, {
+    "tStartMs": 2342799,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 2344359,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I mean, does it appear in the dictionary?"
+    } ]
+  }, {
+    "tStartMs": 2346919,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Does it appear?"
+    } ]
+  }, {
+    "tStartMs": 2347679,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "Does it show up?"
+    } ]
+  }, {
+    "tStartMs": 2349440,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I'm not really sure about that"
+    } ]
+  }, {
+    "tStartMs": 2351840,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "but let me explain it first"
+    } ]
+  }, {
+    "tStartMs": 2355159,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "So this is when someone is drunk"
+    } ]
+  }, {
+    "tStartMs": 2357479,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "when a person has had alcohol and is intoxicated"
+    } ]
+  }, {
+    "tStartMs": 2361239,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "things they couldn't normally talk about"
+    } ]
+  }, {
+    "tStartMs": 2363479,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "the feelings and thoughts inside their heart"
+    } ]
+  }, {
+    "tStartMs": 2365880,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "they share truthfully and sincerely"
+    } ]
+  }, {
+    "tStartMs": 2369520,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "they open up and talk about it"
+    } ]
+  }, {
+    "tStartMs": 2371119,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "that's what we call \"truth in drunkenness\""
+    } ]
+  }, {
+    "tStartMs": 2373320,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "but the word doesn't exist?"
+    } ]
+  }, {
+    "tStartMs": 2374960,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "It doesn't exist, does it?"
+    } ]
+  }, {
+    "tStartMs": 2377440,
+    "dDurationMs": 1719,
+    "segs": [ {
+      "utf8": "It's not an original word, is it?"
+    } ]
+  }, {
+    "tStartMs": 2379159,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "The word itself has existed"
+    } ]
+  }, {
+    "tStartMs": 2381679,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "since 1976, apparently"
+    } ]
+  }, {
+    "tStartMs": 2382760,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "This phrase"
+    } ]
+  }, {
+    "tStartMs": 2383440,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Huh? Really?"
+    } ]
+  }, {
+    "tStartMs": 2384840,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2385520,
+    "dDurationMs": 2839,
+    "segs": [ {
+      "utf8": "Isn't that the AI lying?"
+    } ]
+  }, {
+    "tStartMs": 2388359,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "No, it's not"
+    } ]
+  }, {
+    "tStartMs": 2390039,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's recorded in Naver News"
+    } ]
+  }, {
+    "tStartMs": 2392039,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "July 3rd, 1976 in the Kyunghyang Shinmun"
+    } ]
+  }, {
+    "tStartMs": 2395559,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Whoa whoa whoa?"
+    } ]
+  }, {
+    "tStartMs": 2396760,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "Ohhh okay, that's great"
+    } ]
+  }, {
+    "tStartMs": 2400039,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "By the way, I really hate \"truth in drunkenness\""
+    } ]
+  }, {
+    "tStartMs": 2404359,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "so please tell me things when you're sober"
+    } ]
+  }, {
+    "tStartMs": 2405880,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "Right, when you're sober"
+    } ]
+  }, {
+    "tStartMs": 2406719,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "things you can't say sober, don't say them"
+    } ]
+  }, {
+    "tStartMs": 2408440,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Exactly. That's right."
+    } ]
+  }, {
+    "tStartMs": 2410440,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Oh, this isn't ending."
+    } ]
+  }, {
+    "tStartMs": 2412740,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "It's intense."
+    } ]
+  }, {
+    "tStartMs": 2413640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You have to hit the final word."
+    } ]
+  }, {
+    "tStartMs": 2415640,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "The final word is..."
+    } ]
+  }, {
+    "tStartMs": 2417639,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "There aren't many, right?"
+    } ]
+  }, {
+    "tStartMs": 2418440,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "There aren't many Korean words."
+    } ]
+  }, {
+    "tStartMs": 2421340,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Like sodium—that's not a Korean word anyway."
+    } ]
+  }, {
+    "tStartMs": 2424139,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "I know one."
+    } ]
+  }, {
+    "tStartMs": 2425840,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2426639,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How do I guide you?"
+    } ]
+  }, {
+    "tStartMs": 2428580,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "But sodium and things like that don't have Korean words originally."
+    } ]
+  }, {
+    "tStartMs": 2432380,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, sodium is..."
+    } ]
+  }, {
+    "tStartMs": 2433880,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Right, sodium is sodium."
+    } ]
+  }, {
+    "tStartMs": 2435380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2436380,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Next, is there one that starts with \"dam\"?"
+    } ]
+  }, {
+    "tStartMs": 2437880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, \"dam,\" \"dam.\""
+    } ]
+  }, {
+    "tStartMs": 2439380,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Courage."
+    } ]
+  }, {
+    "tStartMs": 2440380,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, okay."
+    } ]
+  }, {
+    "tStartMs": 2441880,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "\"Courage is strong,\" \"courage is weak.\""
+    } ]
+  }, {
+    "tStartMs": 2444880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "We use it like this a lot."
+    } ]
+  }, {
+    "tStartMs": 2446380,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Courage is the ability to endure scary things"
+    } ]
+  }, {
+    "tStartMs": 2450380,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and not get startled."
+    } ]
+  }, {
+    "tStartMs": 2453380,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "So because I have strong courage,"
+    } ]
+  }, {
+    "tStartMs": 2456619,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I can play horror games well."
+    } ]
+  }, {
+    "tStartMs": 2459619,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Because I have strong courage,"
+    } ]
+  }, {
+    "tStartMs": 2461119,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I can ride scary roller coasters well."
+    } ]
+  }, {
+    "tStartMs": 2464120,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "People say it like this a lot."
+    } ]
+  }, {
+    "tStartMs": 2466120,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "My courage is level 1."
+    } ]
+  }, {
+    "tStartMs": 2468620,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 2471120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And here's another rule of the word chain game—"
+    } ]
+  }, {
+    "tStartMs": 2473120,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can change the final consonant to \"n\" and go backwards, right?"
+    } ]
+  }, {
+    "tStartMs": 2476120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2477120,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Paradox, I'll go with paradox."
+    } ]
+  }, {
+    "tStartMs": 2479620,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Paradox."
+    } ]
+  }, {
+    "tStartMs": 2480620,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, how did you know?"
+    } ]
+  }, {
+    "tStartMs": 2482620,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "A paradox is, a paradox is..."
+    } ]
+  }, {
+    "tStartMs": 2486620,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I just keep having English words in my head."
+    } ]
+  }, {
+    "tStartMs": 2489620,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "How should I explain it?"
+    } ]
+  }, {
+    "tStartMs": 2491120,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, this is a difficult word."
+    } ]
+  }, {
+    "tStartMs": 2493620,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Explaining paradox is hard."
+    } ]
+  }, {
+    "tStartMs": 2495620,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I can't do it."
+    } ]
+  }, {
+    "tStartMs": 2500120,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Well, then this game is our victory."
+    } ]
+  }, {
+    "tStartMs": 2505120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How frustrating."
+    } ]
+  }, {
+    "tStartMs": 2506620,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "How should I explain it?"
+    } ]
+  }, {
+    "tStartMs": 2508120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I kept thinking about paradoxes."
+    } ]
+  }, {
+    "tStartMs": 2510120,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Paradoxes, yes."
+    } ]
+  }, {
+    "tStartMs": 2511620,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A paradox, how should I explain it?"
+    } ]
+  }, {
+    "tStartMs": 2513620,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "A paradox is, first of all"
+    } ]
+  }, {
+    "tStartMs": 2515860,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "something that doesn't make sense"
+    } ]
+  }, {
+    "tStartMs": 2518860,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "in its structure?"
+    } ]
+  }, {
+    "tStartMs": 2520360,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it?"
+    } ]
+  }, {
+    "tStartMs": 2522360,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I just searched for an example"
+    } ]
+  }, {
+    "tStartMs": 2525860,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "\"I am lying.\""
+    } ]
+  }, {
+    "tStartMs": 2528860,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "There's a statement like that."
+    } ]
+  }, {
+    "tStartMs": 2530860,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 2531860,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I, I am lying right now."
+    } ]
+  }, {
+    "tStartMs": 2534360,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's a paradox?"
+    } ]
+  }, {
+    "tStartMs": 2535860,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "They say that's a paradox."
+    } ]
+  }, {
+    "tStartMs": 2537360,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Why is that?"
+    } ]
+  }, {
+    "tStartMs": 2538360,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I am lying right now."
+    } ]
+  }, {
+    "tStartMs": 2539860,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Huh? What do you mean by that?"
+    } ]
+  }, {
+    "tStartMs": 2542100,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I'm telling you, I am lying right now."
+    } ]
+  }, {
+    "tStartMs": 2545100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I got it."
+    } ]
+  }, {
+    "tStartMs": 2547600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What should I say?"
+    } ]
+  }, {
+    "tStartMs": 2548600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 2551100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This doesn't make sense, actually."
+    } ]
+  }, {
+    "tStartMs": 2554100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 2555100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "So at first glance it sounds true"
+    } ]
+  }, {
+    "tStartMs": 2559600,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "but clearly"
+    } ]
+  }, {
+    "tStartMs": 2561600,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "there's something that doesn't make sense hidden in it"
+    } ]
+  }, {
+    "tStartMs": 2565100,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and you discover it?"
+    } ]
+  }, {
+    "tStartMs": 2566100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think that's what they call a paradox."
+    } ]
+  }, {
+    "tStartMs": 2568339,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "I'm bringing up something unnecessarily difficult"
+    } ]
+  }, {
+    "tStartMs": 2571839,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "There's also a book like this."
+    } ]
+  }, {
+    "tStartMs": 2573339,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "There's something called \"the paradox of love\""
+    } ]
+  }, {
+    "tStartMs": 2576839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Love is difficult."
+    } ]
+  }, {
+    "tStartMs": 2578839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But love is beautiful."
+    } ]
+  }, {
+    "tStartMs": 2580839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "These two opposite things"
+    } ]
+  }, {
+    "tStartMs": 2583339,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "exist, but neither one can be proven"
+    } ]
+  }, {
+    "tStartMs": 2587339,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I think it's like that."
+    } ]
+  }, {
+    "tStartMs": 2588839,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Back in the day, General Yi Sun-sin"
+    } ]
+  }, {
+    "tStartMs": 2592339,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "said, \"Those who wish to live will die.\""
+    } ]
+  }, {
+    "tStartMs": 2595580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2596580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Those who wish to live will die."
+    } ]
+  }, {
+    "tStartMs": 2599580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Those who wish to die will live."
+    } ]
+  }, {
+    "tStartMs": 2601580,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "He said it like that, didn't he?"
+    } ]
+  }, {
+    "tStartMs": 2603580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Actually, that's paradoxical."
+    } ]
+  }, {
+    "tStartMs": 2606580,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Why would someone die if they want to live?"
+    } ]
+  }, {
+    "tStartMs": 2609580,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Why would someone live if they want to die?"
+    } ]
+  }, {
+    "tStartMs": 2612080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "So."
+    } ]
+  }, {
+    "tStartMs": 2613080,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes, it could be like that."
+    } ]
+  }, {
+    "tStartMs": 2616580,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Like this, surprisingly"
+    } ]
+  }, {
+    "tStartMs": 2618580,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "it's difficult for us to explain the exact meaning."
+    } ]
+  }, {
+    "tStartMs": 2623820,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's a really beautiful expression."
+    } ]
+  }, {
+    "tStartMs": 2626320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 2627820,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "In the poem \"The Silence of My Beloved\" by poet Han Yong-hun"
+    } ]
+  }, {
+    "tStartMs": 2630320,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "there's a line like this."
+    } ]
+  }, {
+    "tStartMs": 2632820,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Ah"
+    } ]
+  }, {
+    "tStartMs": 2635820,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I need to do \"ah.\""
+    } ]
+  }, {
+    "tStartMs": 2639320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah"
+    } ]
+  }, {
+    "tStartMs": 2640320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "My beloved has gone"
+    } ]
+  }, {
+    "tStartMs": 2641820,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "but I did not send my beloved away."
+    } ]
+  }, {
+    "tStartMs": 2643820,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's so sad."
+    } ]
+  }, {
+    "tStartMs": 2648320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's so sad."
+    } ]
+  }, {
+    "tStartMs": 2650059,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Someone the person loved left them,"
+    } ]
+  }, {
+    "tStartMs": 2654059,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so they disappeared,"
+    } ]
+  }, {
+    "tStartMs": 2656559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but I didn't let that person go."
+    } ]
+  }, {
+    "tStartMs": 2660559,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "That's a paradoxical situation."
+    } ]
+  }, {
+    "tStartMs": 2663059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Paradox."
+    } ]
+  }, {
+    "tStartMs": 2664559,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Right. Now when I look at Tae's logic,"
+    } ]
+  }, {
+    "tStartMs": 2666059,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "wait, didn't they leave?"
+    } ]
+  }, {
+    "tStartMs": 2668059,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "These are people who don't understand life."
+    } ]
+  }, {
+    "tStartMs": 2670059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Those people."
+    } ]
+  }, {
+    "tStartMs": 2673059,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They left, so if you say it like that, then"
+    } ]
+  }, {
+    "tStartMs": 2675059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it becomes a paradox again."
+    } ]
+  }, {
+    "tStartMs": 2676059,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2677299,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's interesting."
+    } ]
+  }, {
+    "tStartMs": 2678299,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Anyway, that's my victory."
+    } ]
+  }, {
+    "tStartMs": 2681799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So now it's 1 to 2."
+    } ]
+  }, {
+    "tStartMs": 2683299,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Tae-yong teacher has 2 points."
+    } ]
+  }, {
+    "tStartMs": 2684799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I have 1 point."
+    } ]
+  }, {
+    "tStartMs": 2686799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In the next game,"
+    } ]
+  }, {
+    "tStartMs": 2689799,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'll bring a game that's more favorable to me."
+    } ]
+  }, {
+    "tStartMs": 2694799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "So now"
+    } ]
+  }, {
+    "tStartMs": 2696799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "let's end the game here"
+    } ]
+  }, {
+    "tStartMs": 2698799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "and the next week's topic"
+    } ]
+  }, {
+    "tStartMs": 2700799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Tae-yong teacher chose for us."
+    } ]
+  }, {
+    "tStartMs": 2702299,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "What should we talk about?"
+    } ]
+  }, {
+    "tStartMs": 2703799,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Yes, next week's topic is"
+    } ]
+  }, {
+    "tStartMs": 2705540,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "a word that"
+    } ]
+  }, {
+    "tStartMs": 2706540,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "came up while we were"
+    } ]
+  }, {
+    "tStartMs": 2708540,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "playing word chain."
+    } ]
+  }, {
+    "tStartMs": 2709540,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's"
+    } ]
+  }, {
+    "tStartMs": 2710540,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "jangma."
+    } ]
+  }, {
+    "tStartMs": 2712040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Jangma."
+    } ]
+  }, {
+    "tStartMs": 2713040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's the season when it rains a lot, right?"
+    } ]
+  }, {
+    "tStartMs": 2715040,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2715540,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right now it's exactly jangma season,"
+    } ]
+  }, {
+    "tStartMs": 2718040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and in three weeks"
+    } ]
+  }, {
+    "tStartMs": 2720040,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "what the situation will be like,"
+    } ]
+  }, {
+    "tStartMs": 2721540,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "talking about things like that, we'll"
+    } ]
+  }, {
+    "tStartMs": 2723540,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "discuss jangma from every angle."
+    } ]
+  }, {
+    "tStartMs": 2726040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Thank you so much"
+    } ]
+  }, {
+    "tStartMs": 2727040,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "for the enjoyable conversation today, Tae-yong teacher."
+    } ]
+  }, {
+    "tStartMs": 2730040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The pleasure is mine."
+    } ]
+  }, {
+    "tStartMs": 2731540,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I'll see you in three weeks."
+    } ]
+  }, {
+    "tStartMs": 2733279,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "This has been Didi and"
+    } ]
+  }, {
+    "tStartMs": 2734779,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2735779,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

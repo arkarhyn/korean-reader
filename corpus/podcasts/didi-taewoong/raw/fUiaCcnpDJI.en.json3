@@ -1,0 +1,5005 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 9926,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11886,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13722,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "\u003cYomojomo of Korean Life\u003e is a podcast where two people living in Korea"
+    } ]
+  }, {
+    "tStartMs": 16766,
+    "dDurationMs": 4088,
+    "segs": [ {
+      "utf8": "talk about the ins and outs of Korean life."
+    } ]
+  }, {
+    "tStartMs": 20854,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "What was today's topic?"
+    } ]
+  }, {
+    "tStartMs": 22897,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "Today's topic was autumn's sea... autumn as a season, they say,"
+    } ]
+  }, {
+    "tStartMs": 26735,
+    "dDurationMs": 2877,
+    "segs": [ {
+      "utf8": "it's the season of reading, right? Autumn?"
+    } ]
+  }, {
+    "tStartMs": 29612,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Yes, it's autumn."
+    } ]
+  }, {
+    "tStartMs": 31364,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Autumn is the season of reading."
+    } ]
+  }, {
+    "tStartMs": 33199,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "Yes, so this week's topic is reading."
+    } ]
+  }, {
+    "tStartMs": 35577,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "That's right, the weather has already gotten quite cool."
+    } ]
+  }, {
+    "tStartMs": 39497,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "Autumn has arrived."
+    } ]
+  }, {
+    "tStartMs": 40415,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "When you think of autumn, there are a few keywords that come to mind,"
+    } ]
+  }, {
+    "tStartMs": 43543,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "like delicious food that tastes good, and reading too, of course."
+    } ]
+  }, {
+    "tStartMs": 50383,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "So today we're going to talk about the ins and outs of reading."
+    } ]
+  }, {
+    "tStartMs": 54679,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "But first, I want to tell you about last week's quiz answer."
+    } ]
+  }, {
+    "tStartMs": 58683,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "But there were so many correct answers."
+    } ]
+  }, {
+    "tStartMs": 62020,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "So today I'm just going to display them on screen."
+    } ]
+  }, {
+    "tStartMs": 65815,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "The answer was number 3, IU."
+    } ]
+  }, {
+    "tStartMs": 69152,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "IU was the singer we didn't recommend."
+    } ]
+  }, {
+    "tStartMs": 71988,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "Those who got the answer right will be marked on screen."
+    } ]
+  }, {
+    "tStartMs": 75700,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Congratulations."
+    } ]
+  }, {
+    "tStartMs": 77452,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "And I'll tell you about this week's quiz right away."
+    } ]
+  }, {
+    "tStartMs": 81539,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "Today's quiz question is this."
+    } ]
+  }, {
+    "tStartMs": 85293,
+    "dDurationMs": 5047,
+    "segs": [ {
+      "utf8": "What book did Didi and Teacher Tae-woong not mention today?"
+    } ]
+  }, {
+    "tStartMs": 90340,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So first! 'Almond' by author Won-pyeong Sohn."
+    } ]
+  }, {
+    "tStartMs": 95220,
+    "dDurationMs": 5589,
+    "segs": [ {
+      "utf8": "Second is, 'School Nurse Ahn Eun-young' by author Se-rang Jung."
+    } ]
+  }, {
+    "tStartMs": 100809,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "Third is, 'The Courage to Be Disliked' by author Ichiro Kishimi."
+    } ]
+  }, {
+    "tStartMs": 105730,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Yes! Among these three books,"
+    } ]
+  }, {
+    "tStartMs": 107607,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "which book we don't talk about later,"
+    } ]
+  }, {
+    "tStartMs": 111111,
+    "dDurationMs": 4754,
+    "segs": [ {
+      "utf8": "please leave many comments below with your answer, and thank you."
+    } ]
+  }, {
+    "tStartMs": 115865,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "So we're going to talk about reading."
+    } ]
+  }, {
+    "tStartMs": 118701,
+    "dDurationMs": 3421,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong reads a lot, right?"
+    } ]
+  }, {
+    "tStartMs": 122122,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "I don't read that much, actually."
+    } ]
+  }, {
+    "tStartMs": 125333,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Weren't you reading on the subway all the time?"
+    } ]
+  }, {
+    "tStartMs": 127877,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "I don't take the subway much, so I don't read."
+    } ]
+  }, {
+    "tStartMs": 130255,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "Oh, so you don't go out much."
+    } ]
+  }, {
+    "tStartMs": 132423,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "I've just been at home lately... haha."
+    } ]
+  }, {
+    "tStartMs": 133716,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Oh, but you were always reading on the subway~"
+    } ]
+  }, {
+    "tStartMs": 135718,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "That's right, haha."
+    } ]
+  }, {
+    "tStartMs": 139722,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "No, well, I'm just joking."
+    } ]
+  }, {
+    "tStartMs": 141349,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "I read sometimes when I have a break these days."
+    } ]
+  }, {
+    "tStartMs": 145895,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "But I don't really set aside time to read or anything like that."
+    } ]
+  }, {
+    "tStartMs": 150108,
+    "dDurationMs": 5964,
+    "segs": [ {
+      "utf8": "It's just when I'm really tired and want some quiet rest,"
+    } ]
+  }, {
+    "tStartMs": 156072,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "that's when I sometimes read a book."
+    } ]
+  }, {
+    "tStartMs": 158116,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Rather than watching videos or something,"
+    } ]
+  }, {
+    "tStartMs": 159993,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "when I want to read quietly and calmly, I read a book."
+    } ]
+  }, {
+    "tStartMs": 164831,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "When was the last time you read?"
+    } ]
+  }, {
+    "tStartMs": 169210,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Um... when was it?"
+    } ]
+  }, {
+    "tStartMs": 172380,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "It's a bit fuzzy."
+    } ]
+  }, {
+    "tStartMs": 173756,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "It's fuzzy, but I think it was about a week ago."
+    } ]
+  }, {
+    "tStartMs": 177677,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "That's probably it."
+    } ]
+  }, {
+    "tStartMs": 179762,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "Actually, I really don't read books either."
+    } ]
+  }, {
+    "tStartMs": 184017,
+    "dDurationMs": 5255,
+    "segs": [ {
+      "utf8": "But! Starting this year, I began reading,"
+    } ]
+  }, {
+    "tStartMs": 189272,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "and I barely managed to talk about this topic today."
+    } ]
+  }, {
+    "tStartMs": 192901,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "There are so many types of books—novels, self-help books, essays,"
+    } ]
+  }, {
+    "tStartMs": 197739,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "there are sci-fi novels too, and poetry collections, books with poems,"
+    } ]
+  }, {
+    "tStartMs": 202368,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "or books needed for business,"
+    } ]
+  }, {
+    "tStartMs": 206331,
+    "dDurationMs": 5505,
+    "segs": [ {
+      "utf8": "or books to gain knowledge, like economics, management, science, history."
+    } ]
+  }, {
+    "tStartMs": 211836,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "There are books like these too, but what kind of books do you mainly read, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 217258,
+    "dDurationMs": 7174,
+    "segs": [ {
+      "utf8": "These days I'm reading novels and I really like novels."
+    } ]
+  }, {
+    "tStartMs": 224432,
+    "dDurationMs": 9092,
+    "segs": [ {
+      "utf8": "But until a few years ago, I was really into things like... economic knowledge and self-help books."
+    } ]
+  }, {
+    "tStartMs": 233524,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "I was super into that kind of stuff."
+    } ]
+  }, {
+    "tStartMs": 237904,
+    "dDurationMs": 5589,
+    "segs": [ {
+      "utf8": "So I read a lot, really a lot."
+    } ]
+  }, {
+    "tStartMs": 243493,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "But honestly, I'm not sure if it helped that much."
+    } ]
+  }, {
+    "tStartMs": 246996,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 248623,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "Yeah ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 250250,
+    "dDurationMs": 2293,
+    "segs": [ {
+      "utf8": "Even though you read so much?"
+    } ]
+  }, {
+    "tStartMs": 252543,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Yeah, reading from books and"
+    } ]
+  }, {
+    "tStartMs": 255713,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "actually doing things myself are two different stories, you know?"
+    } ]
+  }, {
+    "tStartMs": 258466,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "It's often just in that moment."
+    } ]
+  }, {
+    "tStartMs": 260802,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 261469,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "My motivation is at MAX, but the moment I close the book"
+    } ]
+  }, {
+    "tStartMs": 264973,
+    "dDurationMs": 6339,
+    "segs": [ {
+      "utf8": "I go back to my daily life, that kind of thing happens, right?"
+    } ]
+  }, {
+    "tStartMs": 271312,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Um... is it okay to use this kind of expression?"
+    } ]
+  }, {
+    "tStartMs": 273481,
+    "dDurationMs": 5547,
+    "segs": [ {
+      "utf8": "Like, I get this rush only when I'm reading the book,"
+    } ]
+  }, {
+    "tStartMs": 279028,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "and when I close the book and have to do my tasks,"
+    } ]
+  }, {
+    "tStartMs": 281364,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "my energy kind of dies..."
+    } ]
+  }, {
+    "tStartMs": 283408,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "Self-help books are usually like that."
+    } ]
+  }, {
+    "tStartMs": 286744,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "You have to read them periodically."
+    } ]
+  }, {
+    "tStartMs": 290415,
+    "dDurationMs": 5213,
+    "segs": [ {
+      "utf8": "When you feel like you need that kind of rush, you have to read them once in a while."
+    } ]
+  }, {
+    "tStartMs": 295628,
+    "dDurationMs": 668,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 296296,
+    "dDurationMs": 3878,
+    "segs": [ {
+      "utf8": "So these days you mainly read novels?"
+    } ]
+  }, {
+    "tStartMs": 300174,
+    "dDurationMs": 793,
+    "segs": [ {
+      "utf8": "Yes, I do."
+    } ]
+  }, {
+    "tStartMs": 300967,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "What genre?"
+    } ]
+  }, {
+    "tStartMs": 302969,
+    "dDurationMs": 6798,
+    "segs": [ {
+      "utf8": "The genre is kind of similar to movies and dramas for me,"
+    } ]
+  }, {
+    "tStartMs": 309767,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "something that feels thrilling or"
+    } ]
+  }, {
+    "tStartMs": 312478,
+    "dDurationMs": 5047,
+    "segs": [ {
+      "utf8": "something with tension—I like that kind of novel."
+    } ]
+  }, {
+    "tStartMs": 317525,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "I've never read one before."
+    } ]
+  }, {
+    "tStartMs": 320028,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So the book you're reading now is a thrilling book?"
+    } ]
+  }, {
+    "tStartMs": 323948,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "It is."
+    } ]
+  }, {
+    "tStartMs": 324615,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 326159,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "Right now... actually I'm reading three books."
+    } ]
+  }, {
+    "tStartMs": 331122,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "I also read multiple things at once."
+    } ]
+  }, {
+    "tStartMs": 332915,
+    "dDurationMs": 4797,
+    "segs": [ {
+      "utf8": "Yeah, but one of them is a novel, and here..."
+    } ]
+  }, {
+    "tStartMs": 337712,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "So pretty!!"
+    } ]
+  }, {
+    "tStartMs": 339881,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "Right ㅋㅋㅋ - it's really pretty, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 342675,
+    "dDurationMs": 5756,
+    "segs": [ {
+      "utf8": "Now that I look at it again, the cover is shiny and pretty - it's so dazzling, right?"
+    } ]
+  }, {
+    "tStartMs": 348431,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "The title is \u003cWonderland\u003e,"
+    } ]
+  }, {
+    "tStartMs": 352435,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "Is this by an American author? A Canadian author?"
+    } ]
+  }, {
+    "tStartMs": 355688,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "It's written by an author named The Glass Kennedy,"
+    } ]
+  }, {
+    "tStartMs": 359817,
+    "dDurationMs": 5714,
+    "segs": [ {
+      "utf8": "and unlike this shiny cover, the content is quite dark."
+    } ]
+  }, {
+    "tStartMs": 365531,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "It seems so hopeful..."
+    } ]
+  }, {
+    "tStartMs": 368659,
+    "dDurationMs": 7550,
+    "segs": [ {
+      "utf8": "If you look closely, an angel is holding a broken star."
+    } ]
+  }, {
+    "tStartMs": 376209,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "So that's expressed kind of like glass, or a mirror?"
+    } ]
+  }, {
+    "tStartMs": 380755,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "To explain simply what kind of setting this novel has,"
+    } ]
+  }, {
+    "tStartMs": 385009,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "in the near future, America"
+    } ]
+  }, {
+    "tStartMs": 388471,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "you know, that country America,"
+    } ]
+  }, {
+    "tStartMs": 390932,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "America gets split in half."
+    } ]
+  }, {
+    "tStartMs": 394560,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "Like South Korea and North Korea?"
+    } ]
+  }, {
+    "tStartMs": 396396,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 397814,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "So... - the West, the East..."
+    } ]
+  }, {
+    "tStartMs": 400191,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "Yes! It changes like that, it gets divided like that."
+    } ]
+  }, {
+    "tStartMs": 404112,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "Which America are you from, in this world where you're fighting like this?"
+    } ]
+  }, {
+    "tStartMs": 409075,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "The main character is a spy,"
+    } ]
+  }, {
+    "tStartMs": 412745,
+    "dDurationMs": 5255,
+    "segs": [ {
+      "utf8": "and goes into the middle region to do some kind of mission."
+    } ]
+  }, {
+    "tStartMs": 418000,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "So they have to carry out that mission,"
+    } ]
+  }, {
+    "tStartMs": 419752,
+    "dDurationMs": 6256,
+    "segs": [ {
+      "utf8": "and that mission is to kill their half-sibling, their half-twin sibling,"
+    } ]
+  }, {
+    "tStartMs": 426008,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "no wait, no, their half-sibling."
+    } ]
+  }, {
+    "tStartMs": 428428,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "Oh!!!"
+    } ]
+  }, {
+    "tStartMs": 431222,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "I really dislike it."
+    } ]
+  }, {
+    "tStartMs": 432890,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "She has to kill her half-sister."
+    } ]
+  }, {
+    "tStartMs": 436310,
+    "dDurationMs": 3546,
+    "segs": [ {
+      "utf8": "But according to the intelligence and stories we hear,"
+    } ]
+  }, {
+    "tStartMs": 439856,
+    "dDurationMs": 6339,
+    "segs": [ {
+      "utf8": "that half-sister is also a spy trying to kill her older sister."
+    } ]
+  }, {
+    "tStartMs": 446195,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "So it's a story about carrying out that operation."
+    } ]
+  }, {
+    "tStartMs": 448823,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "\"Meeting here of all places...\""
+    } ]
+  }, {
+    "tStartMs": 450408,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 450908,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "\"So who will die in the end!\" kind of thing."
+    } ]
+  }, {
+    "tStartMs": 453578,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Yes, it's fascinating."
+    } ]
+  }, {
+    "tStartMs": 455913,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "That sounds fun, and what else are you reading?"
+    } ]
+  }, {
+    "tStartMs": 460376,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "And the other two are... one is"
+    } ]
+  }, {
+    "tStartMs": 466215,
+    "dDurationMs": 5381,
+    "segs": [ {
+      "utf8": "a book called \"The Little Human\" written by an author named Marvin Harris."
+    } ]
+  }, {
+    "tStartMs": 471596,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "The Little Human, yes."
+    } ]
+  }, {
+    "tStartMs": 473556,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "The Little Human, this book is..."
+    } ]
+  }, {
+    "tStartMs": 475016,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "Why is it called the Little Human?"
+    } ]
+  }, {
+    "tStartMs": 476684,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "It's an anthropology book."
+    } ]
+  }, {
+    "tStartMs": 479020,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "It's a bit unfamiliar, right?"
+    } ]
+  }, {
+    "tStartMs": 480563,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Anthropology is"
+    } ]
+  }, {
+    "tStartMs": 482440,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "how our human race evolved in the old days, like Australopithecus,"
+    } ]
+  }, {
+    "tStartMs": 487320,
+    "dDurationMs": 5046,
+    "segs": [ {
+      "utf8": "or Homo sapiens sapiens, you know,"
+    } ]
+  }, {
+    "tStartMs": 492366,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "it's the study of how we humans"
+    } ]
+  }, {
+    "tStartMs": 494535,
+    "dDurationMs": 5047,
+    "segs": [ {
+      "utf8": "lived back in those ancient times."
+    } ]
+  }, {
+    "tStartMs": 499582,
+    "dDurationMs": 5756,
+    "segs": [ {
+      "utf8": "So this book talks about how we lived when we were primitive people,"
+    } ]
+  }, {
+    "tStartMs": 505338,
+    "dDurationMs": 6173,
+    "segs": [ {
+      "utf8": "and from that primitive state to what we are now,"
+    } ]
+  }, {
+    "tStartMs": 511511,
+    "dDurationMs": 6423,
+    "segs": [ {
+      "utf8": "how all these big and small changes accumulated little by little."
+    } ]
+  }, {
+    "tStartMs": 517934,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "That's what this book is about."
+    } ]
+  }, {
+    "tStartMs": 520186,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "Oh, that sounds interesting."
+    } ]
+  }, {
+    "tStartMs": 524023,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "It seems like you've read about halfway through,"
+    } ]
+  }, {
+    "tStartMs": 526943,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "was there anything particularly interesting in it?"
+    } ]
+  }, {
+    "tStartMs": 530655,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "Interesting content, well, the book is a bit boring actually,"
+    } ]
+  }, {
+    "tStartMs": 534450,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "so there's nothing that really stuck with me."
+    } ]
+  }, {
+    "tStartMs": 536744,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Why did you start reading it? I'm curious about that."
+    } ]
+  }, {
+    "tStartMs": 540164,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "That's kind of funny too."
+    } ]
+  }, {
+    "tStartMs": 542750,
+    "dDurationMs": 4922,
+    "segs": [ {
+      "utf8": "Actually, since I was born in '93,"
+    } ]
+  }, {
+    "tStartMs": 547672,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "I'm 31 years old now,"
+    } ]
+  }, {
+    "tStartMs": 550508,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "or 33 in Korean age,"
+    } ]
+  }, {
+    "tStartMs": 553761,
+    "dDurationMs": 7424,
+    "segs": [ {
+      "utf8": "it was an assignment when I entered high school."
+    } ]
+  }, {
+    "tStartMs": 561185,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 562019,
+    "dDurationMs": 5673,
+    "segs": [ {
+      "utf8": "Yes, the feeling was that before entering high school,"
+    } ]
+  }, {
+    "tStartMs": 567692,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "after graduating middle school there's winter break, right?"
+    } ]
+  }, {
+    "tStartMs": 570444,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "And like a winter break assignment,"
+    } ]
+  }, {
+    "tStartMs": 574115,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "the high school I was entering gave us this task."
+    } ]
+  }, {
+    "tStartMs": 576659,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Read all of this?"
+    } ]
+  }, {
+    "tStartMs": 578536,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "Yes, and there were several other books besides this one."
+    } ]
+  }, {
+    "tStartMs": 581330,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "That boring book?"
+    } ]
+  }, {
+    "tStartMs": 583207,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 584041,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "But I didn't read it."
+    } ]
+  }, {
+    "tStartMs": 587211,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "I didn't write a book report either."
+    } ]
+  }, {
+    "tStartMs": 589714,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "Turns out no one in the entire school read it."
+    } ]
+  }, {
+    "tStartMs": 593175,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "A failed assignment!"
+    } ]
+  }, {
+    "tStartMs": 594885,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "But the teachers didn't have any expectations either."
+    } ]
+  }, {
+    "tStartMs": 597513,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "What, seriously? ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 599098,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Anyway, that's how it was..."
+    } ]
+  }, {
+    "tStartMs": 600516,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "It was just for show."
+    } ]
+  }, {
+    "tStartMs": 602226,
+    "dDurationMs": 7549,
+    "segs": [ {
+      "utf8": "Yes, but a few years ago there were some really good books"
+    } ]
+  }, {
+    "tStartMs": 609775,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "that became quite a hot topic in Korea too."
+    } ]
+  }, {
+    "tStartMs": 613112,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "One was Professor Jared Diamond's \"Guns, Germs, and Steel.\""
+    } ]
+  }, {
+    "tStartMs": 616782,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "Oh, I've heard of it."
+    } ]
+  }, {
+    "tStartMs": 618576,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "You've heard of it, right?"
+    } ]
+  }, {
+    "tStartMs": 620244,
+    "dDurationMs": 5589,
+    "segs": [ {
+      "utf8": "And there's a book called \"Sapiens\" written by an author named Yuval Harari."
+    } ]
+  }, {
+    "tStartMs": 625833,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "That author probably visited Korea not too long ago."
+    } ]
+  }, {
+    "tStartMs": 629712,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "But I actually remembered this book by chance,"
+    } ]
+  }, {
+    "tStartMs": 633758,
+    "dDurationMs": 4754,
+    "segs": [ {
+      "utf8": "and just for fun I searched for it on a book-buying website,"
+    } ]
+  }, {
+    "tStartMs": 638512,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "this book, this \"Small Human\" book,"
+    } ]
+  }, {
+    "tStartMs": 641849,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "it's like the prototype of \"Guns, Germs, and Steel\" and \"Sapiens,\" you know?"
+    } ]
+  }, {
+    "tStartMs": 646187,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Ah, yes."
+    } ]
+  }, {
+    "tStartMs": 647480,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "It's an old book that came out back then,"
+    } ]
+  }, {
+    "tStartMs": 650816,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "so I wanted to understand a bit"
+    } ]
+  }, {
+    "tStartMs": 653277,
+    "dDurationMs": 8675,
+    "segs": [ {
+      "utf8": "what my high school teachers meant by that, something I missed in the past..."
+    } ]
+  }, {
+    "tStartMs": 661952,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "and I started reading it,"
+    } ]
+  }, {
+    "tStartMs": 663496,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 664705,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "It's boring and nothing's stuck in my head yet."
+    } ]
+  }, {
+    "tStartMs": 667541,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Yes, there's one thing that stuck with me, just one thing."
+    } ]
+  }, {
+    "tStartMs": 670461,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 672088,
+    "dDurationMs": 6047,
+    "segs": [ {
+      "utf8": "That humans and orangutans, chimpanzees, gorillas"
+    } ]
+  }, {
+    "tStartMs": 678135,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "evolved differently, and the reason we evolved into humans instead of staying as monkeys"
+    } ]
+  }, {
+    "tStartMs": 683307,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "is probably"
+    } ]
+  }, {
+    "tStartMs": 685935,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "because our arm strength was weak, or something like that."
+    } ]
+  }, {
+    "tStartMs": 689397,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Really? Yes."
+    } ]
+  }, {
+    "tStartMs": 691190,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "So we started walking on two legs, then?"
+    } ]
+  }, {
+    "tStartMs": 694860,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 696487,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "If our arms were strong,"
+    } ]
+  }, {
+    "tStartMs": 699031,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "we could hang from trees and live there,"
+    } ]
+  }, {
+    "tStartMs": 701701,
+    "dDurationMs": 3294,
+    "segs": [ {
+      "utf8": "and if we only ate fruit hanging from trees,"
+    } ]
+  }, {
+    "tStartMs": 704995,
+    "dDurationMs": 1544,
+    "segs": [ {
+      "utf8": "there'd be no need to come down to the ground."
+    } ]
+  }, {
+    "tStartMs": 706539,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Because on the ground there are lions"
+    } ]
+  }, {
+    "tStartMs": 709250,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "and lots of dangerous animals, right?"
+    } ]
+  }, {
+    "tStartMs": 711419,
+    "dDurationMs": 6339,
+    "segs": [ {
+      "utf8": "But humans didn't do that, so we just walked around"
+    } ]
+  }, {
+    "tStartMs": 717758,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "and evolved to live on two legs."
+    } ]
+  }, {
+    "tStartMs": 720094,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "That's how I remember it."
+    } ]
+  }, {
+    "tStartMs": 721804,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "That's fascinating."
+    } ]
+  }, {
+    "tStartMs": 723764,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "It's true that our arms don't have much strength."
+    } ]
+  }, {
+    "tStartMs": 725933,
+    "dDurationMs": 5672,
+    "segs": [ {
+      "utf8": "Yes, and the reason our brain got bigger too—"
+    } ]
+  }, {
+    "tStartMs": 731605,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "when we were primitive humans,"
+    } ]
+  }, {
+    "tStartMs": 735985,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "to catch things like deer and eat the meat,"
+    } ]
+  }, {
+    "tStartMs": 740448,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "we had to chase them, right?"
+    } ]
+  }, {
+    "tStartMs": 741866,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 742950,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "But instead of being fast,"
+    } ]
+  }, {
+    "tStartMs": 745661,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "we had to run for a long time to catch them."
+    } ]
+  }, {
+    "tStartMs": 750040,
+    "dDurationMs": 5423,
+    "segs": [ {
+      "utf8": "And to do that, the brain had to get bigger."
+    } ]
+  }, {
+    "tStartMs": 755463,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 756964,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "If you have to use your body for a long time,"
+    } ]
+  }, {
+    "tStartMs": 759967,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "the brain has to be bigger so the body can sweat well..."
+    } ]
+  }, {
+    "tStartMs": 766307,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "I'm sorry."
+    } ]
+  }, {
+    "tStartMs": 767516,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "I don't remember the details exactly."
+    } ]
+  }, {
+    "tStartMs": 770728,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Anyway, that's how it was."
+    } ]
+  }, {
+    "tStartMs": 772480,
+    "dDurationMs": 792,
+    "segs": [ {
+      "utf8": "Anyway, that's how it was."
+    } ]
+  }, {
+    "tStartMs": 773272,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Anyway, that's how the brain got bigger."
+    } ]
+  }, {
+    "tStartMs": 775941,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "It's written about certain characteristics of humans that caused all that."
+    } ]
+  }, {
+    "tStartMs": 779445,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 781572,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "I hope you read it all the way to the end."
+    } ]
+  }, {
+    "tStartMs": 783657,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Oh, I will read it."
+    } ]
+  }, {
+    "tStartMs": 784658,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "\"Small Human.\""
+    } ]
+  }, {
+    "tStartMs": 786160,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "So what about the third book?"
+    } ]
+  }, {
+    "tStartMs": 788162,
+    "dDurationMs": 6882,
+    "segs": [ {
+      "utf8": "The third book is \"Code\" by Charles Petzold."
+    } ]
+  }, {
+    "tStartMs": 795044,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Oh, that's cool, this one too."
+    } ]
+  }, {
+    "tStartMs": 797379,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "Yes, it's a book called \"Code,\" and it seems like a really well-written book."
+    } ]
+  }, {
+    "tStartMs": 801217,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "In what way?"
+    } ]
+  }, {
+    "tStartMs": 802510,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "Well, what kind of book is it—"
+    } ]
+  }, {
+    "tStartMs": 805971,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "\"Code,\" because the title is \"Code,\""
+    } ]
+  }, {
+    "tStartMs": 808390,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "It might feel like a programming book, but it's not."
+    } ]
+  }, {
+    "tStartMs": 814480,
+    "dDurationMs": 9968,
+    "segs": [ {
+      "utf8": "Really, way back before the very first computers were even made,"
+    } ]
+  }, {
+    "tStartMs": 824448,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "how they used electricity to create machines,"
+    } ]
+  }, {
+    "tStartMs": 832081,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "and made electrical circuits, and through that,"
+    } ]
+  }, {
+    "tStartMs": 835376,
+    "dDurationMs": 5755,
+    "segs": [ {
+      "utf8": "how buttons were created and all that led to computers being made—"
+    } ]
+  }, {
+    "tStartMs": 841131,
+    "dDurationMs": 6006,
+    "segs": [ {
+      "utf8": "it's a book that explains all of that in a relatively easy and detailed way."
+    } ]
+  }, {
+    "tStartMs": 847137,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Is that a book that programmers read a lot?"
+    } ]
+  }, {
+    "tStartMs": 851267,
+    "dDurationMs": 5213,
+    "segs": [ {
+      "utf8": "It's definitely related to programming and..."
+    } ]
+  }, {
+    "tStartMs": 856480,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "Programmers would probably know about this book."
+    } ]
+  }, {
+    "tStartMs": 860776,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "You get curious sometimes, you know?"
+    } ]
+  }, {
+    "tStartMs": 861902,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "How does a computer do its job on a computer?"
+    } ]
+  }, {
+    "tStartMs": 865614,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "How does it do these things?"
+    } ]
+  }, {
+    "tStartMs": 868242,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "I got curious about that too sometimes and checked it out, and this book really explains that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 874081,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "So it explains it in a way that's not too difficult?"
+    } ]
+  }, {
+    "tStartMs": 878460,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 879920,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "So then one novel, one technical book, one anthropology book?"
+    } ]
+  }, {
+    "tStartMs": 885342,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Yes, they're all different."
+    } ]
+  }, {
+    "tStartMs": 886927,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "You read such a variety of things."
+    } ]
+  }, {
+    "tStartMs": 888888,
+    "dDurationMs": 875,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 889763,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "The book I'm reading these days is"
+    } ]
+  }, {
+    "tStartMs": 892558,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "'The Courage to Be Disliked'—I got a recommendation for it and I'm reading it."
+    } ]
+  }, {
+    "tStartMs": 897646,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "For people who don't really have a reading habit,"
+    } ]
+  }, {
+    "tStartMs": 900357,
+    "dDurationMs": 5673,
+    "segs": [ {
+      "utf8": "it seems like a good book for people who find reading difficult—for beginners."
+    } ]
+  }, {
+    "tStartMs": 906030,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "It's not written as regular sentences,"
+    } ]
+  }, {
+    "tStartMs": 908032,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "it's in dialogue format."
+    } ]
+  }, {
+    "tStartMs": 910618,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "So there are exactly two characters talking to each other."
+    } ]
+  }, {
+    "tStartMs": 915289,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "One is a young man who wants to learn something,"
+    } ]
+  }, {
+    "tStartMs": 918542,
+    "dDurationMs": 3796,
+    "segs": [ {
+      "utf8": "and the other is a grandfather who has understood everything."
+    } ]
+  }, {
+    "tStartMs": 922338,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "So as those two have a conversation,"
+    } ]
+  }, {
+    "tStartMs": 924173,
+    "dDurationMs": 6506,
+    "segs": [ {
+      "utf8": "they discuss from beginning to end, and it's really good."
+    } ]
+  }, {
+    "tStartMs": 930679,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "It just flows really smoothly,"
+    } ]
+  }, {
+    "tStartMs": 933557,
+    "dDurationMs": 7591,
+    "segs": [ {
+      "utf8": "and I think people studying Korean would find it good to read too, since it's easy."
+    } ]
+  }, {
+    "tStartMs": 941148,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "Was there a part that really resonated with you?"
+    } ]
+  }, {
+    "tStartMs": 944109,
+    "dDurationMs": 3254,
+    "segs": [ {
+      "utf8": "A part that resonated?"
+    } ]
+  }, {
+    "tStartMs": 947363,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "This kind of story comes up:"
+    } ]
+  }, {
+    "tStartMs": 948614,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "'Do you believe that people... can change?'"
+    } ]
+  }, {
+    "tStartMs": 951450,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "That's the overall message,"
+    } ]
+  }, {
+    "tStartMs": 954036,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "whether people can change or not,"
+    } ]
+  }, {
+    "tStartMs": 957247,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and the young man says they can't change, absolutely not."
+    } ]
+  }, {
+    "tStartMs": 960250,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "There's the environment you've lived in,"
+    } ]
+  }, {
+    "tStartMs": 962878,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "and there are things that won't change no matter what, he keeps saying,"
+    } ]
+  }, {
+    "tStartMs": 966590,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "but the grandfather who has understood everything says"
+    } ]
+  }, {
+    "tStartMs": 969134,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "people can change,"
+    } ]
+  }, {
+    "tStartMs": 971345,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "but you need the courage to change."
+    } ]
+  }, {
+    "tStartMs": 974682,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "If you just have that courage, you can change."
+    } ]
+  }, {
+    "tStartMs": 976725,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Anyone, anything."
+    } ]
+  }, {
+    "tStartMs": 979436,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 980479,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "That's the kind of story it is."
+    } ]
+  }, {
+    "tStartMs": 981563,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "Oh, what do you think about that, Didi?"
+    } ]
+  }, {
+    "tStartMs": 983691,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "I've read partway through it,"
+    } ]
+  }, {
+    "tStartMs": 985985,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "and I'm reading it while relating to it a lot."
+    } ]
+  }, {
+    "tStartMs": 988028,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "Right, people can change,"
+    } ]
+  }, {
+    "tStartMs": 990114,
+    "dDurationMs": 5922,
+    "segs": [ {
+      "utf8": "but how do you do it? I keep thinking I'll understand as I read further,"
+    } ]
+  }, {
+    "tStartMs": 996036,
+    "dDurationMs": 4922,
+    "segs": [ {
+      "utf8": "and so far it's definitely not clear like 'if you do it this way, it works.'"
+    } ]
+  }, {
+    "tStartMs": 1000958,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I don't really understand that yet."
+    } ]
+  }, {
+    "tStartMs": 1002668,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "I'm still reading it."
+    } ]
+  }, {
+    "tStartMs": 1005462,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "I read that book a while ago too."
+    } ]
+  }, {
+    "tStartMs": 1007881,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "What did you think of it?"
+    } ]
+  }, {
+    "tStartMs": 1008966,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "I read it about five or six years ago,"
+    } ]
+  }, {
+    "tStartMs": 1011635,
+    "dDurationMs": 4088,
+    "segs": [ {
+      "utf8": "and it just read really, really naturally."
+    } ]
+  }, {
+    "tStartMs": 1015723,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1017057,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "And I think I was in some kind of zone back then."
+    } ]
+  }, {
+    "tStartMs": 1022229,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1022896,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "\"What is this? I already know this story,\" kind of thing."
+    } ]
+  }, {
+    "tStartMs": 1026734,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "I'm already that grandfather, you know?"
+    } ]
+  }, {
+    "tStartMs": 1030070,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "Why are you telling me something so obvious?"
+    } ]
+  }, {
+    "tStartMs": 1033032,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1034450,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "But, but you know that question Didi mentioned earlier?"
+    } ]
+  }, {
+    "tStartMs": 1040330,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "Oh, this is a bit off-topic, but"
+    } ]
+  }, {
+    "tStartMs": 1042583,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "I have my own answer to it."
+    } ]
+  }, {
+    "tStartMs": 1044501,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Can people change?"
+    } ]
+  }, {
+    "tStartMs": 1046086,
+    "dDurationMs": 584,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1046670,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "Oh, what answer do you have?"
+    } ]
+  }, {
+    "tStartMs": 1048672,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "People can change and they do change."
+    } ]
+  }, {
+    "tStartMs": 1052176,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "And sometimes people change without courage, without even realizing it."
+    } ]
+  }, {
+    "tStartMs": 1056263,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "And sometimes people change even when they don't want to change."
+    } ]
+  }, {
+    "tStartMs": 1059433,
+    "dDurationMs": 7549,
+    "segs": [ {
+      "utf8": "But the thing that's very important in that question, the one important thing I think is,"
+    } ]
+  }, {
+    "tStartMs": 1066982,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "I can change."
+    } ]
+  }, {
+    "tStartMs": 1069234,
+    "dDurationMs": 5714,
+    "segs": [ {
+      "utf8": "But I can't change others."
+    } ]
+  }, {
+    "tStartMs": 1074948,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1076742,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "That's in the book too."
+    } ]
+  }, {
+    "tStartMs": 1078494,
+    "dDurationMs": 542,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1079036,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "It talks about separating others and other people from myself and thinking about it that way."
+    } ]
+  }, {
+    "tStartMs": 1084666,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "It seems like I've entered the zone again. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 1088545,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "Really... there's nothing left to learn."
+    } ]
+  }, {
+    "tStartMs": 1093258,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "It's worth studying anthropology."
+    } ]
+  }, {
+    "tStartMs": 1095511,
+    "dDurationMs": 1876,
+    "segs": [ {
+      "utf8": "I'm sorry."
+    } ]
+  }, {
+    "tStartMs": 1098055,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "I think you could graduate from self-help books."
+    } ]
+  }, {
+    "tStartMs": 1100933,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Sorry... [laughs]"
+    } ]
+  }, {
+    "tStartMs": 1103185,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "I'm reading this right now."
+    } ]
+  }, {
+    "tStartMs": 1105562,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "And there's a book called Die with Zero."
+    } ]
+  }, {
+    "tStartMs": 1109983,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "\"Die with zero.\""
+    } ]
+  }, {
+    "tStartMs": 1111568,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "Die with Zero."
+    } ]
+  }, {
+    "tStartMs": 1112986,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "In Korean it's translated as \"The Art of Reversing,\" which is how it's translated."
+    } ]
+  }, {
+    "tStartMs": 1117699,
+    "dDurationMs": 1419,
+    "segs": [ {
+      "utf8": "Completely different, right?"
+    } ]
+  }, {
+    "tStartMs": 1119118,
+    "dDurationMs": 7424,
+    "segs": [ {
+      "utf8": "The translation is a bit disappointing, but the author is Bill Perkins."
+    } ]
+  }, {
+    "tStartMs": 1126542,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "It seems like it didn't do very well in Korea."
+    } ]
+  }, {
+    "tStartMs": 1130796,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "I checked it out because it ranked high on bestseller lists abroad."
+    } ]
+  }, {
+    "tStartMs": 1135134,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "This book is just, literally,"
+    } ]
+  }, {
+    "tStartMs": 1139263,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "you know, the money you have,"
+    } ]
+  }, {
+    "tStartMs": 1141265,
+    "dDurationMs": 6131,
+    "segs": [ {
+      "utf8": "time and money, experiences—you should spend all of these before you die and then die."
+    } ]
+  }, {
+    "tStartMs": 1147396,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "That's what it says."
+    } ]
+  }, {
+    "tStartMs": 1150232,
+    "dDurationMs": 5505,
+    "segs": [ {
+      "utf8": "But as he makes these arguments, he's received a lot of criticism?"
+    } ]
+  }, {
+    "tStartMs": 1155737,
+    "dDurationMs": 2211,
+    "segs": [ {
+      "utf8": "Or things like that."
+    } ]
+  }, {
+    "tStartMs": 1157948,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "For example, like, isn't that just YOLO?"
+    } ]
+  }, {
+    "tStartMs": 1161535,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "If you just spend money all the time, what do you do later?"
+    } ]
+  }, {
+    "tStartMs": 1164163,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "Questions like that could come up, right?"
+    } ]
+  }, {
+    "tStartMs": 1167416,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "Those kinds of things are explained like this is how you should do it, so like, answers to the questions?"
+    } ]
+  }, {
+    "tStartMs": 1174006,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Those things are written in there too."
+    } ]
+  }, {
+    "tStartMs": 1175841,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "Oh, so that's why you're trying to YOLO."
+    } ]
+  }, {
+    "tStartMs": 1180137,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Are you in Japan right now?"
+    } ]
+  }, {
+    "tStartMs": 1182848,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "Oh, right, we're filming this before going to Japan, so we're filming it in advance."
+    } ]
+  }, {
+    "tStartMs": 1187227,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "I literally bought a plane ticket after reading this book."
+    } ]
+  }, {
+    "tStartMs": 1190772,
+    "dDurationMs": 793,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1191565,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1194318,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "But the problem is now..."
+    } ]
+  }, {
+    "tStartMs": 1196528,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "The front of the book is like \"Spend money now!!\""
+    } ]
+  }, {
+    "tStartMs": 1199531,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "\"Spend it while you're young!!\" that kind of thing, and the back is..."
+    } ]
+  }, {
+    "tStartMs": 1204161,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "There's a section that explains some safer mechanisms."
+    } ]
+  }, {
+    "tStartMs": 1209166,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "I only read the front part so far..."
+    } ]
+  }, {
+    "tStartMs": 1212085,
+    "dDurationMs": 4547,
+    "segs": [ {
+      "utf8": "Ah, I see. I'll read it all and think about it."
+    } ]
+  }, {
+    "tStartMs": 1216632,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "But the part before that really resonated with me..."
+    } ]
+  }, {
+    "tStartMs": 1219635,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "Right? When I feel like I can go now, I should go then."
+    } ]
+  }, {
+    "tStartMs": 1224723,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "So with that thought, I went ahead and made the reservation."
+    } ]
+  }, {
+    "tStartMs": 1228268,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Yes, that's right. Things that are bad for your body tend to taste good."
+    } ]
+  }, {
+    "tStartMs": 1234691,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "I'm trying to eat a lot of delicious things."
+    } ]
+  }, {
+    "tStartMs": 1236360,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "The message seems to be like that too."
+    } ]
+  }, {
+    "tStartMs": 1238111,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1240280,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "So... people whose lives aren't fun these days."
+    } ]
+  }, {
+    "tStartMs": 1246870,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "I think it would be good for those people to read it once."
+    } ]
+  }, {
+    "tStartMs": 1250916,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1252084,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "Boring..."
+    } ]
+  }, {
+    "tStartMs": 1253168,
+    "dDurationMs": 5506,
+    "segs": [ {
+      "utf8": "And I have some books I bought recently."
+    } ]
+  }, {
+    "tStartMs": 1258674,
+    "dDurationMs": 5338,
+    "segs": [ {
+      "utf8": "Since I mainly read books like these, I think I can see what kind of books I usually read."
+    } ]
+  }, {
+    "tStartMs": 1264012,
+    "dDurationMs": 7967,
+    "segs": [ {
+      "utf8": "The first book is a self-help book called \"The Power of Solitude: Turning Expectations into Reality.\""
+    } ]
+  }, {
+    "tStartMs": 1271979,
+    "dDurationMs": 6131,
+    "segs": [ {
+      "utf8": "And this one is a book called Zero to One."
+    } ]
+  }, {
+    "tStartMs": 1278110,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "It's a book written by Peter Thiel."
+    } ]
+  }, {
+    "tStartMs": 1280362,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Oh! Have you read it?"
+    } ]
+  }, {
+    "tStartMs": 1282322,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "I've read it, yes I have."
+    } ]
+  }, {
+    "tStartMs": 1283282,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "Wow... I'm not sure what it is, but I bought it because it's supposedly famous."
+    } ]
+  }, {
+    "tStartMs": 1287786,
+    "dDurationMs": 4129,
+    "segs": [ {
+      "utf8": "Yes, it's a book written by the founder of PayPal."
+    } ]
+  }, {
+    "tStartMs": 1291915,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "I see, I didn't know that when I bought it."
+    } ]
+  }, {
+    "tStartMs": 1294459,
+    "dDurationMs": 5881,
+    "segs": [ {
+      "utf8": "Next is Blue Ocean Strategy, which is a business book."
+    } ]
+  }, {
+    "tStartMs": 1300340,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "A Wall Street Journal bestseller!"
+    } ]
+  }, {
+    "tStartMs": 1303051,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "Isn't it a book that came out quite a while ago?"
+    } ]
+  }, {
+    "tStartMs": 1304678,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "It seems like it, yes."
+    } ]
+  }, {
+    "tStartMs": 1307848,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "But I haven't read it yet."
+    } ]
+  }, {
+    "tStartMs": 1311476,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "The reason I started reading books this year was because of Alain de Botton."
+    } ]
+  }, {
+    "tStartMs": 1318066,
+    "dDurationMs": 8259,
+    "segs": [ {
+      "utf8": "Alain de Botton writes psychology books but in a way that reads like novels."
+    } ]
+  }, {
+    "tStartMs": 1326325,
+    "dDurationMs": 2293,
+    "segs": [ {
+      "utf8": "I'm reading this one right now."
+    } ]
+  }, {
+    "tStartMs": 1328618,
+    "dDurationMs": 3963,
+    "segs": [ {
+      "utf8": "I've read almost everything related to love by now."
+    } ]
+  }, {
+    "tStartMs": 1332581,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "Recently I bought this one about anxiety."
+    } ]
+  }, {
+    "tStartMs": 1337502,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "The power of solitude?"
+    } ]
+  }, {
+    "tStartMs": 1339004,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Yes, you already spent a lot of time alone, didn't you?"
+    } ]
+  }, {
+    "tStartMs": 1342424,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1344217,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "But now you're trying to get some strength from that, is that it?"
+    } ]
+  }, {
+    "tStartMs": 1347220,
+    "dDurationMs": 7925,
+    "segs": [ {
+      "utf8": "When I work alone, it's enjoyable, but sometimes there are moments when I feel lonely."
+    } ]
+  }, {
+    "tStartMs": 1355145,
+    "dDurationMs": 7049,
+    "segs": [ {
+      "utf8": "I wanted to know how to use this solitude and loneliness well, so I bought it."
+    } ]
+  }, {
+    "tStartMs": 1362194,
+    "dDurationMs": 6798,
+    "segs": [ {
+      "utf8": "It seems like you can read self-help books and psychology books quite interestingly."
+    } ]
+  }, {
+    "tStartMs": 1368992,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "So when you read books, do you prefer physical books? How about you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 1373705,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1375499,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "You don't read e-books much?"
+    } ]
+  }, {
+    "tStartMs": 1377459,
+    "dDurationMs": 5464,
+    "segs": [ {
+      "utf8": "I didn't originally, but when I went to Bangladesh before,"
+    } ]
+  }, {
+    "tStartMs": 1382923,
+    "dDurationMs": 6047,
+    "segs": [ {
+      "utf8": "I couldn't get many Korean books there, so I brought e-books with me."
+    } ]
+  }, {
+    "tStartMs": 1388970,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "An e-reader."
+    } ]
+  }, {
+    "tStartMs": 1391264,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "Do you have one? You have a reader too?"
+    } ]
+  }, {
+    "tStartMs": 1392766,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "I borrowed it from my sister."
+    } ]
+  }, {
+    "tStartMs": 1394935,
+    "dDurationMs": 6548,
+    "segs": [ {
+      "utf8": "I returned it now, but I feel like something is missing."
+    } ]
+  }, {
+    "tStartMs": 1401483,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "Hmm... I see."
+    } ]
+  }, {
+    "tStartMs": 1405237,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "For people who read physical books,"
+    } ]
+  }, {
+    "tStartMs": 1407781,
+    "dDurationMs": 5672,
+    "segs": [ {
+      "utf8": "Yes, the feeling of reading a book is very different."
+    } ]
+  }, {
+    "tStartMs": 1413453,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "And some research result?"
+    } ]
+  }, {
+    "tStartMs": 1415997,
+    "dDurationMs": 4422,
+    "segs": [ {
+      "utf8": "I heard there's something like this,"
+    } ]
+  }, {
+    "tStartMs": 1420419,
+    "dDurationMs": 4337,
+    "segs": [ {
+      "utf8": "Reading on e-books rather than physical books"
+    } ]
+  }, {
+    "tStartMs": 1424756,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "Doesn't stay in your head as long, they say."
+    } ]
+  }, {
+    "tStartMs": 1428260,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1429386,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Yes, that's what they say."
+    } ]
+  }, {
+    "tStartMs": 1430387,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "What kind of effect could that be?"
+    } ]
+  }, {
+    "tStartMs": 1431721,
+    "dDurationMs": 3421,
+    "segs": [ {
+      "utf8": "They say you forget it more quickly."
+    } ]
+  }, {
+    "tStartMs": 1435142,
+    "dDurationMs": 3628,
+    "segs": [ {
+      "utf8": "But I still think it's good to read even if it's that."
+    } ]
+  }, {
+    "tStartMs": 1438770,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "That's right, it's better than not reading at all."
+    } ]
+  }, {
+    "tStartMs": 1440272,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Better than not reading at all."
+    } ]
+  }, {
+    "tStartMs": 1441523,
+    "dDurationMs": 5964,
+    "segs": [ {
+      "utf8": "Paper books are nice when you can sit down and read like this?"
+    } ]
+  }, {
+    "tStartMs": 1447487,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Yeah, those times are good."
+    } ]
+  }, {
+    "tStartMs": 1449448,
+    "dDurationMs": 3461,
+    "segs": [ {
+      "utf8": "But there are times like on the subway when you're standing, you know?"
+    } ]
+  }, {
+    "tStartMs": 1452909,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "In those cases I read e-books."
+    } ]
+  }, {
+    "tStartMs": 1455871,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Oh, on your phone?"
+    } ]
+  }, {
+    "tStartMs": 1456788,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Yes, on my phone."
+    } ]
+  }, {
+    "tStartMs": 1459332,
+    "dDurationMs": 6257,
+    "segs": [ {
+      "utf8": "But the other day at the salon, I was reading like this on my phone while getting my hair done,"
+    } ]
+  }, {
+    "tStartMs": 1465589,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "and the stylist said to me, \"You really have amazing concentration!\""
+    } ]
+  }, {
+    "tStartMs": 1470510,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "Because your phone keeps getting notifications, right?"
+    } ]
+  }, {
+    "tStartMs": 1472596,
+    "dDurationMs": 4588,
+    "segs": [ {
+      "utf8": "Like Instagram messages or KakaoTalk alerts coming in,"
+    } ]
+  }, {
+    "tStartMs": 1477184,
+    "dDurationMs": 2043,
+    "segs": [ {
+      "utf8": "so it's easy to get distracted by those."
+    } ]
+  }, {
+    "tStartMs": 1479227,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1480103,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "But I don't get notifications, so... ㅋㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1482772,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "I can just concentrate and read?!"
+    } ]
+  }, {
+    "tStartMs": 1485775,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1488069,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "But the reason I don't read e-books on my phone is"
+    } ]
+  }, {
+    "tStartMs": 1491781,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "because I'm worried the battery will drain quickly..."
+    } ]
+  }, {
+    "tStartMs": 1493575,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "Get a new phone ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1496036,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "No, but originally with phones,"
+    } ]
+  }, {
+    "tStartMs": 1499873,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "the screen display uses the most battery, right?"
+    } ]
+  }, {
+    "tStartMs": 1504127,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "But e-books don't drain it that much."
+    } ]
+  }, {
+    "tStartMs": 1506796,
+    "dDurationMs": 459,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1507255,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "Videos drain it quickly, video playback does."
+    } ]
+  }, {
+    "tStartMs": 1511176,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "Oh I see, but e-books have a white background, right?"
+    } ]
+  }, {
+    "tStartMs": 1516139,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "Bright colors, so it doesn't drain quickly?"
+    } ]
+  }, {
+    "tStartMs": 1519100,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "It's because you're just opening a downloaded book,"
+    } ]
+  }, {
+    "tStartMs": 1523271,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "it's the same as displaying a photo,"
+    } ]
+  }, {
+    "tStartMs": 1526191,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "so it doesn't drain quickly."
+    } ]
+  }, {
+    "tStartMs": 1527984,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "Oh, I guess my phone is just really old ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1531863,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, do you have a life-changing book?"
+    } ]
+  }, {
+    "tStartMs": 1535283,
+    "dDurationMs": 5089,
+    "segs": [ {
+      "utf8": "I do have a life-changing book. What is it?"
+    } ]
+  }, {
+    "tStartMs": 1540372,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "A life-changing book... it's a novel,"
+    } ]
+  }, {
+    "tStartMs": 1542749,
+    "dDurationMs": 793,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1543542,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "One I've mentioned many times that I really love,"
+    } ]
+  }, {
+    "tStartMs": 1546753,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "it's a novel called 'Bleach' written by author Jang Gang-myeong."
+    } ]
+  }, {
+    "tStartMs": 1553593,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "This novel called Bleach is a pretty dark novel,"
+    } ]
+  }, {
+    "tStartMs": 1557639,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "and it's also a novel with a lot of tension,"
+    } ]
+  }, {
+    "tStartMs": 1561226,
+    "dDurationMs": 5422,
+    "segs": [ {
+      "utf8": "and I happened to come across a certain part of that book"
+    } ]
+  }, {
+    "tStartMs": 1566648,
+    "dDurationMs": 5047,
+    "segs": [ {
+      "utf8": "back then when someone posted that part on Facebook,"
+    } ]
+  }, {
+    "tStartMs": 1571695,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "and that post was so interesting."
+    } ]
+  }, {
+    "tStartMs": 1575115,
+    "dDurationMs": 3044,
+    "segs": [ {
+      "utf8": "So I became really curious about that book."
+    } ]
+  }, {
+    "tStartMs": 1578159,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "So I borrowed and read that book from the library,"
+    } ]
+  }, {
+    "tStartMs": 1581871,
+    "dDurationMs": 7633,
+    "segs": [ {
+      "utf8": "and it gave me my first experience of finding a book fun to read."
+    } ]
+  }, {
+    "tStartMs": 1591172,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "The sentences seemed a bit strange, but after reading that book - I understood."
+    } ]
+  }, {
+    "tStartMs": 1595093,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "I felt for the first time that reading a book could be fun."
+    } ]
+  }, {
+    "tStartMs": 1597596,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "For me it's like that Alain de Botton book or something."
+    } ]
+  }, {
+    "tStartMs": 1600307,
+    "dDurationMs": 4337,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1604644,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "I realized that novels could be this fun..."
+    } ]
+  }, {
+    "tStartMs": 1607522,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "I should definitely check it out."
+    } ]
+  }, {
+    "tStartMs": 1609524,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "Because, the reason I felt that way especially is"
+    } ]
+  }, {
+    "tStartMs": 1612485,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "since I was young I wanted to look cool,"
+    } ]
+  }, {
+    "tStartMs": 1618325,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "so I tried to force myself to like books."
+    } ]
+  }, {
+    "tStartMs": 1621578,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "So thick books at my relatives' house, like Momo,"
+    } ]
+  }, {
+    "tStartMs": 1625874,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "Right, Momo ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1628376,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "Momo or Paulo Coelho's The Alchemist,"
+    } ]
+  }, {
+    "tStartMs": 1631921,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "The Alchemist! Everyone has that one."
+    } ]
+  }, {
+    "tStartMs": 1634215,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "Those kinds of things that everyone read, things that looked cool,"
+    } ]
+  }, {
+    "tStartMs": 1637677,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "I just forced myself to read those."
+    } ]
+  }, {
+    "tStartMs": 1641723,
+    "dDurationMs": 4212,
+    "segs": [ {
+      "utf8": "I tried to experience the fun of reading books, even if forced,"
+    } ]
+  }, {
+    "tStartMs": 1645935,
+    "dDurationMs": 2712,
+    "segs": [ {
+      "utf8": "but honestly I couldn't feel it back then."
+    } ]
+  }, {
+    "tStartMs": 1648647,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "But when I read \"Bleach\" by author Jang Kang-myung,"
+    } ]
+  }, {
+    "tStartMs": 1652025,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "wow, reading books is really fun."
+    } ]
+  }, {
+    "tStartMs": 1655362,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "That was the first time I felt it."
+    } ]
+  }, {
+    "tStartMs": 1658114,
+    "dDurationMs": 6799,
+    "segs": [ {
+      "utf8": "And after that, this is also what I originally wanted to talk about,"
+    } ]
+  }, {
+    "tStartMs": 1664913,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "how to find fun books!"
+    } ]
+  }, {
+    "tStartMs": 1669793,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "That's a golden lecture!"
+    } ]
+  }, {
+    "tStartMs": 1670877,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "Well, of course a good way is to find and read"
+    } ]
+  }, {
+    "tStartMs": 1675882,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "other books written by that author, right?"
+    } ]
+  }, {
+    "tStartMs": 1679302,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "Ah, so first I discovered the fun of reading books,"
+    } ]
+  }, {
+    "tStartMs": 1683473,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "and after that, it's about how to find more fun books, right?"
+    } ]
+  }, {
+    "tStartMs": 1686935,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Yes, in my case that's what I'm talking about."
+    } ]
+  }, {
+    "tStartMs": 1688645,
+    "dDurationMs": 7966,
+    "segs": [ {
+      "utf8": "But at that time, author Jang Kang-myung probably had only three books total."
+    } ]
+  }, {
+    "tStartMs": 1696611,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "Because it was very early on, so I read all three books."
+    } ]
+  }, {
+    "tStartMs": 1702450,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "After reading them all, I was like wow, this is fun,"
+    } ]
+  }, {
+    "tStartMs": 1706079,
+    "dDurationMs": 3086,
+    "segs": [ {
+      "utf8": "but then I discovered another method,"
+    } ]
+  }, {
+    "tStartMs": 1709165,
+    "dDurationMs": 9260,
+    "segs": [ {
+      "utf8": "because author Jang Kang-myung won quite a prestigious literary award with \"Bleach\" in Korea,"
+    } ]
+  }, {
+    "tStartMs": 1718425,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "was it the Hankyoreh Literary Award?"
+    } ]
+  }, {
+    "tStartMs": 1720635,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "The Hankyoreh Literary Award."
+    } ]
+  }, {
+    "tStartMs": 1722637,
+    "dDurationMs": 4254,
+    "segs": [ {
+      "utf8": "I'm not exactly sure, but anyway he won that kind of literary award,"
+    } ]
+  }, {
+    "tStartMs": 1726891,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and that award had gone up to the 20-something-th edition,"
+    } ]
+  }, {
+    "tStartMs": 1731771,
+    "dDurationMs": 7967,
+    "segs": [ {
+      "utf8": "so I thought, well, the books that won in previous years and the year before that would be fun too, right?"
+    } ]
+  }, {
+    "tStartMs": 1739738,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "So I also read other books that won that award,"
+    } ]
+  }, {
+    "tStartMs": 1742699,
+    "dDurationMs": 5088,
+    "segs": [ {
+      "utf8": "and while they didn't have exactly the same fun as author Jang Kang-myung's books,"
+    } ]
+  }, {
+    "tStartMs": 1747787,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "I still felt the individuality of other authors,"
+    } ]
+  }, {
+    "tStartMs": 1750623,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "and I ended up feeling more joy in reading books."
+    } ]
+  }, {
+    "tStartMs": 1753001,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "That can happen."
+    } ]
+  }, {
+    "tStartMs": 1754961,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "Award-winning works."
+    } ]
+  }, {
+    "tStartMs": 1756463,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Right, award-winning works."
+    } ]
+  }, {
+    "tStartMs": 1757464,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "Looking for other award-winning works?"
+    } ]
+  }, {
+    "tStartMs": 1760383,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "That sounds like a good idea."
+    } ]
+  }, {
+    "tStartMs": 1762135,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "When watching movies too, when you don't know what to watch on Netflix,"
+    } ]
+  }, {
+    "tStartMs": 1765638,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "if you just click on \"Academy Award-winning films\""
+    } ]
+  }, {
+    "tStartMs": 1768516,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "and watch them, they're all pretty fun anyway."
+    } ]
+  }, {
+    "tStartMs": 1770769,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1771603,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "So there's a method like that."
+    } ]
+  }, {
+    "tStartMs": 1773354,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1775648,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "So that's how I discovered the joy of reading novels."
+    } ]
+  }, {
+    "tStartMs": 1779527,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "I'm still at that exact stage where I don't know yet."
+    } ]
+  }, {
+    "tStartMs": 1782280,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "Momo, no matter how much I look at \"The Alchemist,\" I can't turn the pages."
+    } ]
+  }, {
+    "tStartMs": 1786701,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "Right, it doesn't really touch your heart like that."
+    } ]
+  }, {
+    "tStartMs": 1790455,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Was it that I just haven't met \"Bleach\" yet?"
+    } ]
+  }, {
+    "tStartMs": 1792499,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Exactly!"
+    } ]
+  }, {
+    "tStartMs": 1795502,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "If that's the case, I really do read it."
+    } ]
+  }, {
+    "tStartMs": 1797629,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "So when people ask what my life book is,"
+    } ]
+  }, {
+    "tStartMs": 1801382,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "people probably have different definitions of what a life book is,"
+    } ]
+  }, {
+    "tStartMs": 1805845,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "but I can boldly say that my life book is \"Bleach.\""
+    } ]
+  }, {
+    "tStartMs": 1812435,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "Thank you for the good recommendation."
+    } ]
+  }, {
+    "tStartMs": 1814729,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "If everyone says they don't know the fun of novels,"
+    } ]
+  }, {
+    "tStartMs": 1818566,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "it might be that you just haven't met \"Bleach\" yet."
+    } ]
+  }, {
+    "tStartMs": 1821778,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1823446,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "When I think of a life book, I don't have that much data to call it a life book like that,"
+    } ]
+  }, {
+    "tStartMs": 1827450,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "but like Teacher Tae-woong, the first book that made me feel reading was fun"
+    } ]
+  }, {
+    "tStartMs": 1829536,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "was a book by Alain de Botton, so his books seem fun to me."
+    } ]
+  }, {
+    "tStartMs": 1833540,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "That book is called \"Romantic Love and the Everyday After,\""
+    } ]
+  }, {
+    "tStartMs": 1838169,
+    "dDurationMs": 6715,
+    "segs": [ {
+      "utf8": "and the reason this book, Alain de Botton's book, is fun is..."
+    } ]
+  }, {
+    "tStartMs": 1844884,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "I kind of like details, you see,"
+    } ]
+  }, {
+    "tStartMs": 1849055,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "no matter what work I look at, those detailed, somewhat cute things,"
+    } ]
+  }, {
+    "tStartMs": 1851724,
+    "dDurationMs": 8384,
+    "segs": [ {
+      "utf8": "I like those."
+    } ]
+  }, {
+    "tStartMs": 1860108,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "It has a bit of funny comedy mixed in here and there."
+    } ]
+  }, {
+    "tStartMs": 1864821,
+    "dDurationMs": 6339,
+    "segs": [ {
+      "utf8": "Like about five parts per book? It was fun finding and reading those kinds of things."
+    } ]
+  }, {
+    "tStartMs": 1871160,
+    "dDurationMs": 1836,
+    "segs": [ {
+      "utf8": "What kind of details?"
+    } ]
+  }, {
+    "tStartMs": 1872996,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "Well... it's something that everyone thinks about in their head,"
+    } ]
+  }, {
+    "tStartMs": 1877375,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "but can't express in words,"
+    } ]
+  }, {
+    "tStartMs": 1879878,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "and it's presented in a really light way... like drawing a picture or something,"
+    } ]
+  }, {
+    "tStartMs": 1884299,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "or explaining it by drawing a picture,"
+    } ]
+  }, {
+    "tStartMs": 1887302,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "I can't really explain it!"
+    } ]
+  }, {
+    "tStartMs": 1890805,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Are you going to show us?"
+    } ]
+  }, {
+    "tStartMs": 1892265,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Yes, let me show you this."
+    } ]
+  }, {
+    "tStartMs": 1893850,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "Suddenly a formula appears in the book, a formula."
+    } ]
+  }, {
+    "tStartMs": 1897604,
+    "dDurationMs": 792,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1898396,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Can you see it?"
+    } ]
+  }, {
+    "tStartMs": 1900648,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "But what this is about is"
+    } ]
+  }, {
+    "tStartMs": 1903109,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "the probability of me meeting a certain person,"
+    } ]
+  }, {
+    "tStartMs": 1906654,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "like when I say I met this fateful person and alone..."
+    } ]
+  }, {
+    "tStartMs": 1910825,
+    "dDurationMs": 4421,
+    "segs": [ {
+      "utf8": "I get all excited and calculate it,"
+    } ]
+  }, {
+    "tStartMs": 1915246,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "but you don't really need to include something like this,"
+    } ]
+  }, {
+    "tStartMs": 1917665,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "a formula like this,"
+    } ]
+  }, {
+    "tStartMs": 1919500,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "but when you do this kind of thing by yourself,"
+    } ]
+  }, {
+    "tStartMs": 1922003,
+    "dDurationMs": 7007,
+    "segs": [ {
+      "utf8": "like \"we met with a one-in-a-million probability\"?"
+    } ]
+  }, {
+    "tStartMs": 1929010,
+    "dDurationMs": 5505,
+    "segs": [ {
+      "utf8": "These small points? I found that kind of interesting."
+    } ]
+  }, {
+    "tStartMs": 1934515,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Is that a novel?"
+    } ]
+  }, {
+    "tStartMs": 1935725,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "It's a novel."
+    } ]
+  }, {
+    "tStartMs": 1937101,
+    "dDurationMs": 3379,
+    "segs": [ {
+      "utf8": "A woman and a man meet and it goes like this and like that,"
+    } ]
+  }, {
+    "tStartMs": 1940480,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "and in between, it's a novel that unfolds the psychology?"
+    } ]
+  }, {
+    "tStartMs": 1944275,
+    "dDurationMs": 6215,
+    "segs": [ {
+      "utf8": "Ah~ that author Alain de Botton writes that kind of genre,"
+    } ]
+  }, {
+    "tStartMs": 1950490,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "it seems like he writes a lot of novels with that kind of theme,"
+    } ]
+  }, {
+    "tStartMs": 1953660,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "it seems like he writes a lot about the theme of love."
+    } ]
+  }, {
+    "tStartMs": 1955954,
+    "dDurationMs": 4587,
+    "segs": [ {
+      "utf8": "Wow, then you must be good at real-life romance too?"
+    } ]
+  }, {
+    "tStartMs": 1960541,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "I was curious about that too—did this person get married? I wonder?"
+    } ]
+  }, {
+    "tStartMs": 1964712,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "I was thinking like this,"
+    } ]
+  }, {
+    "tStartMs": 1967131,
+    "dDurationMs": 2962,
+    "segs": [ {
+      "utf8": "but it seems he got married well,"
+    } ]
+  }, {
+    "tStartMs": 1970093,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "and from what I can see, he's having children and living well."
+    } ]
+  }, {
+    "tStartMs": 1974639,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "So now, finally, for people studying Korean,"
+    } ]
+  }, {
+    "tStartMs": 1979102,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "since many people studying Korean are listening,"
+    } ]
+  }, {
+    "tStartMs": 1982230,
+    "dDurationMs": 6423,
+    "segs": [ {
+      "utf8": "should we recommend one book each for them?"
+    } ]
+  }, {
+    "tStartMs": 1988653,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "I've read this novel once too,"
+    } ]
+  }, {
+    "tStartMs": 1992115,
+    "dDurationMs": 6131,
+    "segs": [ {
+      "utf8": "and I'd like to recommend the novel \"Only Hana on Earth\" by author Jung Se-rang."
+    } ]
+  }, {
+    "tStartMs": 1998246,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "\"Only Hana\"?"
+    } ]
+  }, {
+    "tStartMs": 2000039,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "Yes, originally you can say \"only one\" on Earth, right, yes."
+    } ]
+  }, {
+    "tStartMs": 2004877,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "But the main character's name is Hana—Kim Hana, Jung Hana,"
+    } ]
+  }, {
+    "tStartMs": 2010717,
+    "dDurationMs": 3795,
+    "segs": [ {
+      "utf8": "I can't remember the last name, so..."
+    } ]
+  }, {
+    "tStartMs": 2014512,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "Only Hana."
+    } ]
+  }, {
+    "tStartMs": 2015596,
+    "dDurationMs": 543,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 2016139,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "So \"Only Hana on Earth,\""
+    } ]
+  }, {
+    "tStartMs": 2019475,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "What's it about?"
+    } ]
+  }, {
+    "tStartMs": 2021144,
+    "dDurationMs": 2627,
+    "segs": [ {
+      "utf8": "It's a book with that kind of title, and the content is..."
+    } ]
+  }, {
+    "tStartMs": 2023771,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "SF romance? Should I call it that?"
+    } ]
+  }, {
+    "tStartMs": 2027942,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "The setting is really unique."
+    } ]
+  }, {
+    "tStartMs": 2030403,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Yes!"
+    } ]
+  }, {
+    "tStartMs": 2031946,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "There's a woman named Hana,"
+    } ]
+  }, {
+    "tStartMs": 2034991,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "and she really values the environment,"
+    } ]
+  }, {
+    "tStartMs": 2038661,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "and she's a main character who recycles well and things like that."
+    } ]
+  }, {
+    "tStartMs": 2041706,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2042665,
+    "dDurationMs": 9385,
+    "segs": [ {
+      "utf8": "But one day, an alien from space who values the environment very much comes down to Earth,"
+    } ]
+  }, {
+    "tStartMs": 2052050,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "and comes to meet this Hana."
+    } ]
+  }, {
+    "tStartMs": 2056429,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "So it's a romance novel between the two of them."
+    } ]
+  }, {
+    "tStartMs": 2059849,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "A romance with an alien?"
+    } ]
+  }, {
+    "tStartMs": 2061601,
+    "dDurationMs": 5797,
+    "segs": [ {
+      "utf8": "Yes, but the alien doesn't look like an alien on the surface."
+    } ]
+  }, {
+    "tStartMs": 2067398,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "You don't mean he looks like Kim Soo-hyun?"
+    } ]
+  }, {
+    "tStartMs": 2070151,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "Probably... that's not it... oh, can I talk about this?"
+    } ]
+  }, {
+    "tStartMs": 2074447,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "Is it not a spoiler?"
+    } ]
+  }, {
+    "tStartMs": 2075323,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Oh, then please don't mention it."
+    } ]
+  }, {
+    "tStartMs": 2077658,
+    "dDurationMs": 292,
+    "segs": [ {
+      "utf8": "Okay, okay."
+    } ]
+  }, {
+    "tStartMs": 2077950,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "So content about appearance comes up too? What he looks like?"
+    } ]
+  }, {
+    "tStartMs": 2080995,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Yes, yes, yes, it's about a person's appearance, a person's appearance."
+    } ]
+  }, {
+    "tStartMs": 2083915,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 2086584,
+    "dDurationMs": 4213,
+    "segs": [ {
+      "utf8": "But the reason I chose this..."
+    } ]
+  }, {
+    "tStartMs": 2090797,
+    "dDurationMs": 4379,
+    "segs": [ {
+      "utf8": "The content isn't really too difficult or complicated."
+    } ]
+  }, {
+    "tStartMs": 2095176,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2095843,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "It's exactly what I explained to you, that's all it is."
+    } ]
+  }, {
+    "tStartMs": 2100306,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "And the book isn't really that long either."
+    } ]
+  }, {
+    "tStartMs": 2102725,
+    "dDurationMs": 2086,
+    "segs": [ {
+      "utf8": "Oh, that sounds fun?"
+    } ]
+  }, {
+    "tStartMs": 2104811,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "Yes, and I think there aren't really any major conflicts in it."
+    } ]
+  }, {
+    "tStartMs": 2109315,
+    "dDurationMs": 6507,
+    "segs": [ {
+      "utf8": "Oh, so it's a book you can read smoothly and comfortably, it sounds fun."
+    } ]
+  }, {
+    "tStartMs": 2115822,
+    "dDurationMs": 6506,
+    "segs": [ {
+      "utf8": "Something warm and cute and charming."
+    } ]
+  }, {
+    "tStartMs": 2122328,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "That kind of comfortable novel, so I recommend it, it's good."
+    } ]
+  }, {
+    "tStartMs": 2126666,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "You recommended 'Only Han-ah on Earth'."
+    } ]
+  }, {
+    "tStartMs": 2130044,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "I'd like to recommend an essay collection."
+    } ]
+  }, {
+    "tStartMs": 2133673,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "I've mentioned it many times before, there's the 'Anyway' series."
+    } ]
+  }, {
+    "tStartMs": 2138177,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "The Anyway series."
+    } ]
+  }, {
+    "tStartMs": 2139220,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "Yes, ah~"
+    } ]
+  }, {
+    "tStartMs": 2140596,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "You know it?"
+    } ]
+  }, {
+    "tStartMs": 2141848,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Anyway Hyun-su-dong."
+    } ]
+  }, {
+    "tStartMs": 2143391,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Anyway Foreign Languages."
+    } ]
+  }, {
+    "tStartMs": 2144934,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "Anyway Walks... that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 2149647,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "There might be Anyway Hyun-su-dong."
+    } ]
+  }, {
+    "tStartMs": 2151149,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Or not? Yes, anyway."
+    } ]
+  }, {
+    "tStartMs": 2154819,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "There's no Anyway Hyun-su-dong, what book did you read?"
+    } ]
+  }, {
+    "tStartMs": 2157155,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2159657,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Anyway Vegan,"
+    } ]
+  }, {
+    "tStartMs": 2161242,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "Anyway Ballet, that kind of series."
+    } ]
+  }, {
+    "tStartMs": 2165079,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "The authors are all different."
+    } ]
+  }, {
+    "tStartMs": 2166747,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "They wrote about their own interests."
+    } ]
+  }, {
+    "tStartMs": 2170209,
+    "dDurationMs": 4797,
+    "segs": [ {
+      "utf8": "Ah, there is a book called 'Anyway Hyun-su-dong' by author Jang Kang-myung."
+    } ]
+  }, {
+    "tStartMs": 2175006,
+    "dDurationMs": 4754,
+    "segs": [ {
+      "utf8": "A fierce Jang Kang-myung fan ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2179760,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "So the topics are very diverse."
+    } ]
+  }, {
+    "tStartMs": 2184390,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "You can read whatever topic you want, whatever topic interests you."
+    } ]
+  }, {
+    "tStartMs": 2188102,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "These books are all really thin, and they're essays, you know."
+    } ]
+  }, {
+    "tStartMs": 2192440,
+    "dDurationMs": 4629,
+    "segs": [ {
+      "utf8": "I learned somewhere that essays are in first person."
+    } ]
+  }, {
+    "tStartMs": 2197069,
+    "dDurationMs": 2378,
+    "segs": [ {
+      "utf8": "Because you're writing about what you experienced."
+    } ]
+  }, {
+    "tStartMs": 2199447,
+    "dDurationMs": 4463,
+    "segs": [ {
+      "utf8": "That's supposedly the easiest to read at first."
+    } ]
+  }, {
+    "tStartMs": 2203910,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "Rather than talking about someone else's story."
+    } ]
+  }, {
+    "tStartMs": 2205411,
+    "dDurationMs": 3545,
+    "segs": [ {
+      "utf8": "Everything is written as 'I was like this'."
+    } ]
+  }, {
+    "tStartMs": 2208956,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "It seems like a good one to try first."
+    } ]
+  }, {
+    "tStartMs": 2213127,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2214879,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "The one I enjoyed reading was Anyway Foreign Languages."
+    } ]
+  }, {
+    "tStartMs": 2217590,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "If you like learning foreign languages,"
+    } ]
+  }, {
+    "tStartMs": 2220176,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "I think you can read that smoothly too."
+    } ]
+  }, {
+    "tStartMs": 2223930,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "An essay about foreign languages."
+    } ]
+  }, {
+    "tStartMs": 2225431,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2226724,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 2227892,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "Yes, so we introduced these books."
+    } ]
+  }, {
+    "tStartMs": 2230228,
+    "dDurationMs": 4546,
+    "segs": [ {
+      "utf8": "If there's anyone who wanted to try reading Korean books, when you come to Korea or"
+    } ]
+  }, {
+    "tStartMs": 2234774,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Or order them online or as an ebook,"
+    } ]
+  }, {
+    "tStartMs": 2238444,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "I think it would be good to check them out."
+    } ]
+  }, {
+    "tStartMs": 2240571,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2241322,
+    "dDurationMs": 3211,
+    "segs": [ {
+      "utf8": "So we've talked about books from every angle so far,"
+    } ]
+  }, {
+    "tStartMs": 2244533,
+    "dDurationMs": 2628,
+    "segs": [ {
+      "utf8": "And we'll move on to the next segment."
+    } ]
+  }, {
+    "tStartMs": 2247161,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "Yes, sounds good."
+    } ]
+  }, {
+    "tStartMs": 2250873,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "A mini game done with words!"
+    } ]
+  }, {
+    "tStartMs": 2258172,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "This is the \u003cMini Game Done with Words\u003e segment."
+    } ]
+  }, {
+    "tStartMs": 2261133,
+    "dDurationMs": 7842,
+    "segs": [ {
+      "utf8": "So today I'm thinking we'll do the speed game we did in the movie episode last time."
+    } ]
+  }, {
+    "tStartMs": 2268975,
+    "dDurationMs": 3128,
+    "segs": [ {
+      "utf8": "It seemed like that was fun."
+    } ]
+  }, {
+    "tStartMs": 2272103,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Movies were easy, but I think this one will be a bit harder."
+    } ]
+  }, {
+    "tStartMs": 2275773,
+    "dDurationMs": 7466,
+    "segs": [ {
+      "utf8": "We're going to see who can talk about more books faster."
+    } ]
+  }, {
+    "tStartMs": 2283239,
+    "dDurationMs": 5547,
+    "segs": [ {
+      "utf8": "Like last time, we have a 5-second time limit, and you have to mention book titles within 5 seconds each."
+    } ]
+  }, {
+    "tStartMs": 2288786,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "We set a theme first..."
+    } ]
+  }, {
+    "tStartMs": 2291289,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "There's a theme too?"
+    } ]
+  }, {
+    "tStartMs": 2292456,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "We should mention the theme."
+    } ]
+  }, {
+    "tStartMs": 2293791,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "For example, like five characters or more,"
+    } ]
+  }, {
+    "tStartMs": 2297420,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "or sci-fi books, that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 2299672,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "Yeah, I feel like it'll end quickly."
+    } ]
+  }, {
+    "tStartMs": 2304844,
+    "dDurationMs": 6506,
+    "segs": [ {
+      "utf8": "But while we were talking about this, Tae-woong said shouldn't we also mention the author?"
+    } ]
+  }, {
+    "tStartMs": 2311350,
+    "dDurationMs": 2461,
+    "segs": [ {
+      "utf8": "I don't think we need to mention the author."
+    } ]
+  }, {
+    "tStartMs": 2313811,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "Right, I don't think we'd know the author anyway."
+    } ]
+  }, {
+    "tStartMs": 2317565,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "We're planning to go through this very speedily and quickly."
+    } ]
+  }, {
+    "tStartMs": 2321235,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "First theme."
+    } ]
+  }, {
+    "tStartMs": 2323612,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "Should we do novels?"
+    } ]
+  }, {
+    "tStartMs": 2325239,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "Novels? Okay."
+    } ]
+  }, {
+    "tStartMs": 2328284,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Please raise your hand."
+    } ]
+  }, {
+    "tStartMs": 2329827,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Novels, understood."
+    } ]
+  }, {
+    "tStartMs": 2331078,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "You have a 5-second time limit."
+    } ]
+  }, {
+    "tStartMs": 2333247,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Yes yes yes, 5 seconds."
+    } ]
+  }, {
+    "tStartMs": 2334957,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "You go first, Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2338252,
+    "dDurationMs": 1627,
+    "segs": [ {
+      "utf8": "Start!"
+    } ]
+  }, {
+    "tStartMs": 2339879,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "The Little Prince."
+    } ]
+  }, {
+    "tStartMs": 2340629,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Ugh."
+    } ]
+  }, {
+    "tStartMs": 2342590,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "My Sweet Orange Tree."
+    } ]
+  }, {
+    "tStartMs": 2344925,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Um, yes."
+    } ]
+  }, {
+    "tStartMs": 2347928,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Bleach."
+    } ]
+  }, {
+    "tStartMs": 2353809,
+    "dDurationMs": 584,
+    "segs": [ {
+      "utf8": "Momo."
+    } ]
+  }, {
+    "tStartMs": 2358981,
+    "dDurationMs": 2294,
+    "segs": [ {
+      "utf8": "The Catcher in the Rye."
+    } ]
+  }, {
+    "tStartMs": 2361275,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "Novels, novels..."
+    } ]
+  }, {
+    "tStartMs": 2365112,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "Something new, something new, something new, something new..."
+    } ]
+  }, {
+    "tStartMs": 2368407,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Heungbu and Nolbu."
+    } ]
+  }, {
+    "tStartMs": 2369867,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "Huh? What's that?"
+    } ]
+  }, {
+    "tStartMs": 2371369,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "(insisting) Isn't that a novel? Heungbu and Nolbu?"
+    } ]
+  }, {
+    "tStartMs": 2373037,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "Isn't that a folk tale?"
+    } ]
+  }, {
+    "tStartMs": 2374288,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "Isn't that a folk tale?"
+    } ]
+  }, {
+    "tStartMs": 2378167,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "Why does The Little Prince count but Heungbu and Nolbu doesn't?"
+    } ]
+  }, {
+    "tStartMs": 2381754,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "It's not a folk tale—it's a properly published book."
+    } ]
+  }, {
+    "tStartMs": 2384673,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Please give me another chance."
+    } ]
+  }, {
+    "tStartMs": 2390429,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "Animal Farm?"
+    } ]
+  }, {
+    "tStartMs": 2392973,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "I was going to say that."
+    } ]
+  }, {
+    "tStartMs": 2402733,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "No Longer Human!"
+    } ]
+  }, {
+    "tStartMs": 2404902,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "Is that a novel?"
+    } ]
+  }, {
+    "tStartMs": 2406987,
+    "dDurationMs": 1043,
+    "segs": [ {
+      "utf8": "Isn't that a novel?"
+    } ]
+  }, {
+    "tStartMs": 2408030,
+    "dDurationMs": 793,
+    "segs": [ {
+      "utf8": "Is it?"
+    } ]
+  }, {
+    "tStartMs": 2408823,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Or is it an essay?"
+    } ]
+  }, {
+    "tStartMs": 2411534,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "I don't know, let's move on."
+    } ]
+  }, {
+    "tStartMs": 2412868,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "Oh yes yes yes."
+    } ]
+  }, {
+    "tStartMs": 2415371,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "Convenience Store Human."
+    } ]
+  }, {
+    "tStartMs": 2418290,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "That's a real novel, right?"
+    } ]
+  }, {
+    "tStartMs": 2419291,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Yes, it is."
+    } ]
+  }, {
+    "tStartMs": 2420876,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 2421836,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "It's a Japanese novel."
+    } ]
+  }, {
+    "tStartMs": 2424839,
+    "dDurationMs": 1543,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 2426382,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Dolgorutt's Dream Department Store."
+    } ]
+  }, {
+    "tStartMs": 2429385,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "Ah, it's on my desk right now."
+    } ]
+  }, {
+    "tStartMs": 2432221,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2433139,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2435808,
+    "dDurationMs": 709,
+    "segs": [ {
+      "utf8": "Okay..."
+    } ]
+  }, {
+    "tStartMs": 2443691,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Four..."
+    } ]
+  }, {
+    "tStartMs": 2444984,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "I can't concentrate."
+    } ]
+  }, {
+    "tStartMs": 2447069,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "I don't know."
+    } ]
+  }, {
+    "tStartMs": 2449238,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "Should I give you 5 more seconds?"
+    } ]
+  }, {
+    "tStartMs": 2450823,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "No..."
+    } ]
+  }, {
+    "tStartMs": 2452616,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "This round is my victory."
+    } ]
+  }, {
+    "tStartMs": 2454118,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Ah, it's difficult, it's really difficult."
+    } ]
+  }, {
+    "tStartMs": 2456287,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Yeah, that's why."
+    } ]
+  }, {
+    "tStartMs": 2458539,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "Heungbu and Nolbu?"
+    } ]
+  }, {
+    "tStartMs": 2462293,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "Ah, there are young ladies too and many others."
+    } ]
+  }, {
+    "tStartMs": 2464628,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "Fool fool, as soon as this starts my head goes completely blank."
+    } ]
+  }, {
+    "tStartMs": 2468883,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "That's right, yeah, it's not easy."
+    } ]
+  }, {
+    "tStartMs": 2471886,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "Really, the next theme."
+    } ]
+  }, {
+    "tStartMs": 2474138,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Four letters or more?"
+    } ]
+  }, {
+    "tStartMs": 2475306,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "Ah, by number of letters?"
+    } ]
+  }, {
+    "tStartMs": 2478017,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "Four letters or more."
+    } ]
+  }, {
+    "tStartMs": 2479768,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "Ah, I can't think of anything."
+    } ]
+  }, {
+    "tStartMs": 2483606,
+    "dDurationMs": 1084,
+    "segs": [ {
+      "utf8": "Should I go first?"
+    } ]
+  }, {
+    "tStartMs": 2484690,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2486734,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "I decided to live like this."
+    } ]
+  }, {
+    "tStartMs": 2489695,
+    "dDurationMs": 2586,
+    "segs": [ {
+      "utf8": "Huh? Is there a book like that?"
+    } ]
+  }, {
+    "tStartMs": 2492281,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "Yes, it's a healing essay."
+    } ]
+  }, {
+    "tStartMs": 2495910,
+    "dDurationMs": 1793,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 2497703,
+    "dDurationMs": 4087,
+    "segs": [ {
+      "utf8": "\"The Boy Comes\" which won the Nobel Prize in Literature."
+    } ]
+  }, {
+    "tStartMs": 2501790,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "The Vegetarian."
+    } ]
+  }, {
+    "tStartMs": 2504627,
+    "dDurationMs": 3378,
+    "segs": [ {
+      "utf8": "Homo Dominans."
+    } ]
+  }, {
+    "tStartMs": 2508005,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "I want to die but I want to eat tteokbokki."
+    } ]
+  }, {
+    "tStartMs": 2510758,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Ah... can't I use ones from before?"
+    } ]
+  }, {
+    "tStartMs": 2514178,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 2515471,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Can't I use ones from the previous round either?"
+    } ]
+  }, {
+    "tStartMs": 2517223,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "No, no."
+    } ]
+  }, {
+    "tStartMs": 2519892,
+    "dDurationMs": 2878,
+    "segs": [ {
+      "utf8": "The Alchemist, I didn't say that, right?"
+    } ]
+  }, {
+    "tStartMs": 2522770,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "What do I do!!!"
+    } ]
+  }, {
+    "tStartMs": 2525439,
+    "dDurationMs": 2711,
+    "segs": [ {
+      "utf8": "It's already over."
+    } ]
+  }, {
+    "tStartMs": 2528150,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "I can't think of anything."
+    } ]
+  }, {
+    "tStartMs": 2530277,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "Two..."
+    } ]
+  }, {
+    "tStartMs": 2533989,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "Two and a half... half of two and a half..."
+    } ]
+  }, {
+    "tStartMs": 2538327,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Even with 30 seconds I don't think I'll come up with anything."
+    } ]
+  }, {
+    "tStartMs": 2543541,
+    "dDurationMs": 7007,
+    "segs": [ {
+      "utf8": "Alice in Wonderland!"
+    } ]
+  }, {
+    "tStartMs": 2550548,
+    "dDurationMs": 5463,
+    "segs": [ {
+      "utf8": "21 Lessons for the 21st Century."
+    } ]
+  }, {
+    "tStartMs": 2556011,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "It's Yuval Noah Harari's book."
+    } ]
+  }, {
+    "tStartMs": 2560724,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Harry Potter."
+    } ]
+  }, {
+    "tStartMs": 2562601,
+    "dDurationMs": 3587,
+    "segs": [ {
+      "utf8": "Oh!"
+    } ]
+  }, {
+    "tStartMs": 2566188,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Genius!"
+    } ]
+  }, {
+    "tStartMs": 2567648,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "Oh, The Lord of the Rings!"
+    } ]
+  }, {
+    "tStartMs": 2570150,
+    "dDurationMs": 2128,
+    "segs": [ {
+      "utf8": "Here we go again! Dammit."
+    } ]
+  }, {
+    "tStartMs": 2577199,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "Suddenly I thought of a lot."
+    } ]
+  }, {
+    "tStartMs": 2578701,
+    "dDurationMs": 3962,
+    "segs": [ {
+      "utf8": "Really? I can't think of anything."
+    } ]
+  }, {
+    "tStartMs": 2582663,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "The Sadness of Young Werther? Is that right?"
+    } ]
+  }, {
+    "tStartMs": 2588043,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 2590212,
+    "dDurationMs": 3712,
+    "segs": [ {
+      "utf8": "I'm having trouble remembering the title."
+    } ]
+  }, {
+    "tStartMs": 2593924,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "The Game of Thrones series."
+    } ]
+  }, {
+    "tStartMs": 2597136,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "A Small Ball Thrown by a Dwarf."
+    } ]
+  }, {
+    "tStartMs": 2601432,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Oh, The Chronicles of Narnia."
+    } ]
+  }, {
+    "tStartMs": 2604101,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "Are all those books?"
+    } ]
+  }, {
+    "tStartMs": 2606186,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "Yes, they're all original books."
+    } ]
+  }, {
+    "tStartMs": 2607104,
+    "dDurationMs": 417,
+    "segs": [ {
+      "utf8": "All of it."
+    } ]
+  }, {
+    "tStartMs": 2607521,
+    "dDurationMs": 2795,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2610316,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "A hundred-year-old man who escaped through the window."
+    } ]
+  }, {
+    "tStartMs": 2614486,
+    "dDurationMs": 4046,
+    "segs": [ {
+      "utf8": "I don't think that's the title."
+    } ]
+  }, {
+    "tStartMs": 2618532,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "It's exactly \"A hundred-year-old man who escaped through the window.\""
+    } ]
+  }, {
+    "tStartMs": 2622286,
+    "dDurationMs": 625,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 2622911,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2623662,
+    "dDurationMs": 5297,
+    "segs": [ {
+      "utf8": "Oh~ okay, okay."
+    } ]
+  }, {
+    "tStartMs": 2628959,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Zorba the Greek."
+    } ]
+  }, {
+    "tStartMs": 2632796,
+    "dDurationMs": 3629,
+    "segs": [ {
+      "utf8": "I don't know what either of those are—I've never heard of them before."
+    } ]
+  }, {
+    "tStartMs": 2636425,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Those are books that exist."
+    } ]
+  }, {
+    "tStartMs": 2637593,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 2638719,
+    "dDurationMs": 334,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2639053,
+    "dDurationMs": 6089,
+    "segs": [ {
+      "utf8": "..."
+    } ]
+  }, {
+    "tStartMs": 2645142,
+    "dDurationMs": 3462,
+    "segs": [ {
+      "utf8": "I don't know... I can't concentrate..."
+    } ]
+  }, {
+    "tStartMs": 2648604,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "Are you forfeiting? Are you forfeiting?"
+    } ]
+  }, {
+    "tStartMs": 2649772,
+    "dDurationMs": 1376,
+    "segs": [ {
+      "utf8": "I'm going to forfeit."
+    } ]
+  }, {
+    "tStartMs": 2651148,
+    "dDurationMs": 2544,
+    "segs": [ {
+      "utf8": "It's not a forfeit—five seconds have passed."
+    } ]
+  }, {
+    "tStartMs": 2653692,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "That's my victory."
+    } ]
+  }, {
+    "tStartMs": 2654860,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "Third edition."
+    } ]
+  }, {
+    "tStartMs": 2655778,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "I really need to read some books..."
+    } ]
+  }, {
+    "tStartMs": 2656987,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Yes, so that's my second victory."
+    } ]
+  }, {
+    "tStartMs": 2659990,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "Okay, so today's game goes to Teacher Tae-woong as the winner."
+    } ]
+  }, {
+    "tStartMs": 2663494,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I think it's a tie though?"
+    } ]
+  }, {
+    "tStartMs": 2665204,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "Oh, you're right."
+    } ]
+  }, {
+    "tStartMs": 2666330,
+    "dDurationMs": 5172,
+    "segs": [ {
+      "utf8": "We played a game last time, but it actually went on too long, so we edited it out."
+    } ]
+  }, {
+    "tStartMs": 2671502,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "So we're treating it as if it didn't happen."
+    } ]
+  }, {
+    "tStartMs": 2673128,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "And since Teacher Tae-woong won today,"
+    } ]
+  }, {
+    "tStartMs": 2674838,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "We're back to square one."
+    } ]
+  }, {
+    "tStartMs": 2677174,
+    "dDurationMs": 1877,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 2679051,
+    "dDurationMs": 1126,
+    "segs": [ {
+      "utf8": "This is surprisingly difficult, so"
+    } ]
+  }, {
+    "tStartMs": 2680177,
+    "dDurationMs": 3754,
+    "segs": [ {
+      "utf8": "You all should try it too when you have nothing to do with your friends."
+    } ]
+  }, {
+    "tStartMs": 2683931,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "All my energy is completely drained now."
+    } ]
+  }, {
+    "tStartMs": 2685224,
+    "dDurationMs": 4838,
+    "segs": [ {
+      "utf8": "I really... I used up all my brains today."
+    } ]
+  }, {
+    "tStartMs": 2690062,
+    "dDurationMs": 2794,
+    "segs": [ {
+      "utf8": "So now we need to think about the next topic."
+    } ]
+  }, {
+    "tStartMs": 2692856,
+    "dDurationMs": 4296,
+    "segs": [ {
+      "utf8": "The next Yomojomo will probably come out in November."
+    } ]
+  }, {
+    "tStartMs": 2697152,
+    "dDurationMs": 3212,
+    "segs": [ {
+      "utf8": "We just did some brainstorming,"
+    } ]
+  }, {
+    "tStartMs": 2700364,
+    "dDurationMs": 3295,
+    "segs": [ {
+      "utf8": "And the next one won't be about Korean life as a theme, but"
+    } ]
+  }, {
+    "tStartMs": 2703659,
+    "dDurationMs": 4963,
+    "segs": [ {
+      "utf8": "We'll be talking about YouTube, a topic where we can share our own stories."
+    } ]
+  }, {
+    "tStartMs": 2708622,
+    "dDurationMs": 4671,
+    "segs": [ {
+      "utf8": "Next time we'll be discussing what it's like to live as a YouTuber in Korea,"
+    } ]
+  }, {
+    "tStartMs": 2713293,
+    "dDurationMs": 5256,
+    "segs": [ {
+      "utf8": "And we'll talk about Yomojomo with the theme of a YouTuber's life."
+    } ]
+  }, {
+    "tStartMs": 2718549,
+    "dDurationMs": 876,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 2719425,
+    "dDurationMs": 1626,
+    "segs": [ {
+      "utf8": "And have a good month ahead,"
+    } ]
+  }, {
+    "tStartMs": 2721051,
+    "dDurationMs": 2127,
+    "segs": [ {
+      "utf8": "And probably around next month,"
+    } ]
+  }, {
+    "tStartMs": 2723178,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong's channel might also make a comeback, which is something"
+    } ]
+  }, {
+    "tStartMs": 2727349,
+    "dDurationMs": 2044,
+    "segs": [ {
+      "utf8": "Oh, that's right, around that time."
+    } ]
+  }, {
+    "tStartMs": 2729393,
+    "dDurationMs": 4212,
+    "segs": [ {
+      "utf8": "Since we heard that news, please check out Teacher Tae-woong's channel a lot,"
+    } ]
+  }, {
+    "tStartMs": 2733605,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "And I'm planning to appear on it too,"
+    } ]
+  }, {
+    "tStartMs": 2736608,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "So I'd appreciate it if you watch that as well."
+    } ]
+  }, {
+    "tStartMs": 2739653,
+    "dDurationMs": 2377,
+    "segs": [ {
+      "utf8": "Yes, so this has been Didi and"
+    } ]
+  }, {
+    "tStartMs": 2742030,
+    "dDurationMs": 1127,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2743157,
+    "dDurationMs": 1293,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

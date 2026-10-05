@@ -1,0 +1,6731 @@
+{
+ "playlist_index": 13,
+ "id": "4P76opVPN2Y",
+ "title": "산책할 때 듣는 노래 추천! 🎧 (Song Recommendations for Your Walk) | 한국생활 요모조모 ♯21",
+ "url": "https://www.youtube.com/watch?v=4P76opVPN2Y",
+ "channel": "Didi's Korean Culture Podcast",
+ "upload_date": "20250917",
+ "duration_s": 2175,
+ "order": 21,
+ "show_no": 21,
+ "sources": {
+  "ko": "auto",
+  "en": "manual"
+ },
+ "segments": [
+  {
+   "start_ms": 250,
+   "end_ms": 1400,
+   "ko": "[음악]"
+  },
+  {
+   "start_ms": 640,
+   "end_ms": 2480,
+   "ko": "디디와"
+  },
+  {
+   "start_ms": 1400,
+   "end_ms": 4710,
+   "ko": "정태용의",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2480,
+   "end_ms": 9590,
+   "ko": "한국생활조보조모",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 4710,
+   "end_ms": 9590,
+   "ko": "[음악]"
+  },
+  {
+   "start_ms": 10000,
+   "end_ms": 13519,
+   "ko": "안녕하세요. 디디입니다.",
+   "speaker_change": true,
+   "en": "Hello, this is Didi."
+  },
+  {
+   "start_ms": 11840,
+   "end_ms": 16240,
+   "ko": "안녕하세요. 정태홍입니다.",
+   "speaker_change": true,
+   "en": "Hello, this is Jeong Tae-woong."
+  },
+  {
+   "start_ms": 13519,
+   "end_ms": 18359,
+   "ko": "한국생활 요모조모는 한국에서 살아가는",
+   "speaker_change": true,
+   "en": "Yomojomo is a podcast where two people living in Korea"
+  },
+  {
+   "start_ms": 16240,
+   "end_ms": 20720,
+   "ko": "두 사람이 한국 생활의 요모조모를"
+  },
+  {
+   "start_ms": 18359,
+   "end_ms": 23240,
+   "ko": "이야기하는 팟캐스트입니다. 오늘도",
+   "en": "talk about the ins and outs of life in Korea."
+  },
+  {
+   "start_ms": 20720,
+   "end_ms": 24480,
+   "ko": "태홍 쌤 한 달 만에 돌아오셨습니다.",
+   "en": "Teacher Tae-woong is back after a month, welcome!"
+  },
+  {
+   "start_ms": 23240,
+   "end_ms": 26240,
+   "ko": "반갑습니다."
+  },
+  {
+   "start_ms": 24480,
+   "end_ms": 27119,
+   "ko": "아, 네. 감사합니다. 또 초대해",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 26240,
+   "end_ms": 30199,
+   "ko": "주셔서.",
+   "en": "Yes, thank you for inviting me again."
+  },
+  {
+   "start_ms": 27119,
+   "end_ms": 32360,
+   "ko": "네. 잘 지내셨나요?",
+   "speaker_change": true,
+   "en": "How have you been? Over the past month?"
+  },
+  {
+   "start_ms": 30199,
+   "end_ms": 34680,
+   "ko": "네. 어떻게든 잘 지내고 있습니다.",
+   "en": "Yes, I'm getting by one way or another."
+  },
+  {
+   "start_ms": 32360,
+   "end_ms": 34840,
+   "ko": "네. 벌써 9월이에요.",
+   "speaker_change": true,
+   "en": "Yes, it's already September."
+  },
+  {
+   "start_ms": 34680,
+   "end_ms": 37000,
+   "ko": "아,"
+  },
+  {
+   "start_ms": 34840,
+   "end_ms": 38160,
+   "ko": "시간이 빠른데 9월인데 9월 같지가",
+   "speaker_change": true,
+   "en": "Time flies, but it doesn't feel like September."
+  },
+  {
+   "start_ms": 37000,
+   "end_ms": 40039,
+   "ko": "않네요."
+  },
+  {
+   "start_ms": 38160,
+   "end_ms": 42160,
+   "ko": "왜? 어떤 점에서요?",
+   "speaker_change": true,
+   "en": "In what way?"
+  },
+  {
+   "start_ms": 40039,
+   "end_ms": 42960,
+   "ko": "9월인데 8월 갔네요.",
+   "speaker_change": true,
+   "en": "It feels like August even though it's September."
+  },
+  {
+   "start_ms": 42160,
+   "end_ms": 43760,
+   "ko": "더워서요?",
+   "speaker_change": true,
+   "en": "Because it's hot?"
+  },
+  {
+   "start_ms": 42960,
+   "end_ms": 46000,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes... [laughs]"
+  },
+  {
+   "start_ms": 43760,
+   "end_ms": 47039,
+   "ko": "아, 그래요? 여긴 좀 시원해졌는데.",
+   "speaker_change": true,
+   "en": "Oh, is that so? It's cooled down a bit here."
+  },
+  {
+   "start_ms": 46000,
+   "end_ms": 47559,
+   "ko": "아, 그런가요?",
+   "speaker_change": true,
+   "en": "Is that so?"
+  },
+  {
+   "start_ms": 47039,
+   "end_ms": 49160,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 47559,
+   "end_ms": 51160,
+   "ko": "아, 부럽네요.",
+   "speaker_change": true,
+   "en": "Oh, I'm envious."
+  },
+  {
+   "start_ms": 49160,
+   "end_ms": 54920,
+   "ko": "부산 아직 좀 덥구나.",
+   "speaker_change": true,
+   "en": "Busan is still pretty hot."
+  },
+  {
+   "start_ms": 51160,
+   "end_ms": 56120,
+   "ko": "네. 아직 에어컨을 켜지 않으면",
+   "speaker_change": true,
+   "en": "Yes, I can't survive without turning on the air conditioner."
+  },
+  {
+   "start_ms": 54920,
+   "end_ms": 59039,
+   "ko": "살 수가 없습니다.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 56120,
+   "end_ms": 60680,
+   "ko": "저도 지금은 에어컨 틀고 있는데 금방",
+   "speaker_change": true,
+   "en": "I'm running the air conditioner now too, but it'll cool down soon."
+  },
+  {
+   "start_ms": 59039,
+   "end_ms": 61559,
+   "ko": "시원해질 거예요."
+  },
+  {
+   "start_ms": 60680,
+   "end_ms": 63519,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 61559,
+   "end_ms": 68680,
+   "ko": "그 말 들어보셨나요?",
+   "speaker_change": true,
+   "en": "Have you heard that saying?"
+  },
+  {
+   "start_ms": 63519,
+   "end_ms": 71479,
+   "ko": "가을 한 번이면 내볼 내복",
+   "en": "One autumn rain and then one set of..."
+  },
+  {
+   "start_ms": 68680,
+   "end_ms": 73159,
+   "ko": "한 벌 들어보신 적 있어요?",
+   "en": "One set of long underwear! [laughs] (One autumn rain, one set of long underwear) Have you heard of it?"
+  },
+  {
+   "start_ms": 71479,
+   "end_ms": 76439,
+   "ko": "어. 아니요. 처음 들어봐요.",
+   "speaker_change": true,
+   "en": "No, this is the first time I've heard it."
+  },
+  {
+   "start_ms": 73159,
+   "end_ms": 78960,
+   "ko": "그래요? 가을에 비가 오면은 금방",
+   "speaker_change": true,
+   "en": "Really? When it rains in autumn,"
+  },
+  {
+   "start_ms": 76439,
+   "end_ms": 81920,
+   "ko": "금방 추워진다고 해 가지고 그런",
+   "en": "there's a saying like that because it gets cold quickly."
+  },
+  {
+   "start_ms": 78960,
+   "end_ms": 83200,
+   "ko": "속담도 있습니다. 오. 어, 그렇게"
+  },
+  {
+   "start_ms": 81920,
+   "end_ms": 87040,
+   "ko": "됐으면 좋겠습니다.",
+   "en": "I hope it happens that way."
+  },
+  {
+   "start_ms": 83200,
+   "end_ms": 89439,
+   "ko": "네. 시원해질 거예요. 어, 저번에는",
+   "speaker_change": true,
+   "en": "Yes, it'll cool down."
+  },
+  {
+   "start_ms": 87040,
+   "end_ms": 92159,
+   "ko": "영상이랑 같이 찍어서 그런지 많은",
+   "en": "Last time we filmed together with a video,"
+  },
+  {
+   "start_ms": 89439,
+   "end_ms": 94720,
+   "ko": "분들이 퀴즈도 참여해 주시고 댓글도",
+   "en": "so many people participated in the quiz"
+  },
+  {
+   "start_ms": 92159,
+   "end_ms": 96759,
+   "ko": "남겨 주셨어요.",
+   "en": "and left comments."
+  },
+  {
+   "start_ms": 94720,
+   "end_ms": 98640,
+   "ko": "너무너무 감사드리고요. 저번 퀴즈",
+   "en": "I'm so very grateful."
+  },
+  {
+   "start_ms": 96759,
+   "end_ms": 102159,
+   "ko": "정답자 먼저 바로 발표하도록",
+   "en": "Let me announce the answer to last week's quiz right away."
+  },
+  {
+   "start_ms": 98640,
+   "end_ms": 105040,
+   "ko": "하겠습니다. 저번 퀴즈의 정답은",
+   "en": "The answer to last week's quiz was"
+  },
+  {
+   "start_ms": 102159,
+   "end_ms": 106680,
+   "ko": "2번. 매주 수요일은 영화 티켓이",
+   "en": "that option 2, \"Movie tickets are cheap every Wednesday,\" was incorrect."
+  },
+  {
+   "start_ms": 105040,
+   "end_ms": 109439,
+   "ko": "저렴하다가"
+  },
+  {
+   "start_ms": 106680,
+   "end_ms": 112880,
+   "ko": "오답이었어요. 그래서 매주 수요일이"
+  },
+  {
+   "start_ms": 109439,
+   "end_ms": 115600,
+   "ko": "아니라 매달 마지막 주 수요일이 영화",
+   "en": "So it's not every Wednesday, but the last Wednesday of every month"
+  },
+  {
+   "start_ms": 112880,
+   "end_ms": 118960,
+   "ko": "티켓이 저렴한 날이었습니다.",
+   "en": "when movie tickets are cheap. No wait,"
+  },
+  {
+   "start_ms": 115600,
+   "end_ms": 121560,
+   "ko": "정답자는 난디 님, 오회 님, 이리나"
+  },
+  {
+   "start_ms": 118960,
+   "end_ms": 124479,
+   "ko": "님, 골리노자님,"
+  },
+  {
+   "start_ms": 121560,
+   "end_ms": 127719,
+   "ko": "사라 님, 광미 님, 주자원님,"
+  },
+  {
+   "start_ms": 124479,
+   "end_ms": 131080,
+   "ko": "리모니모 님, 조나스터디스 코리아"
+  },
+  {
+   "start_ms": 127719,
+   "end_ms": 133040,
+   "ko": "님, 시즈 님, 존 케네스프레스 님,"
+  },
+  {
+   "start_ms": 131080,
+   "end_ms": 135200,
+   "ko": "토모카 님, 다이 님이었습니다."
+  },
+  {
+   "start_ms": 133040,
+   "end_ms": 137080,
+   "ko": "아니, 왜 이렇게 많아요?",
+   "speaker_change": true,
+   "en": "Why are there so many?"
+  },
+  {
+   "start_ms": 135200,
+   "end_ms": 139200,
+   "ko": "엄청 많았어요.",
+   "speaker_change": true,
+   "en": "There were so many!"
+  },
+  {
+   "start_ms": 137080,
+   "end_ms": 141480,
+   "ko": "다들 끝까지",
+   "en": "It seems everyone listened all the way to the end."
+  },
+  {
+   "start_ms": 139200,
+   "end_ms": 143560,
+   "ko": "끝까지 들어 주셨나 봐요. 네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 141480,
+   "end_ms": 146440,
+   "ko": "그렇게 끝까지 들어야 풀 수 있었던",
+   "en": "Yes, it was a problem you had to listen to the very end to solve,"
+  },
+  {
+   "start_ms": 143560,
+   "end_ms": 148319,
+   "ko": "문젠데. 맞아요.",
+   "en": "that's right."
+  },
+  {
+   "start_ms": 146440,
+   "end_ms": 149599,
+   "ko": "문제를 좀 어렵게 해도 괜찮겠다는",
+   "speaker_change": true,
+   "en": "I'm thinking maybe it's okay to make the problems a bit harder."
+  },
+  {
+   "start_ms": 148319,
+   "end_ms": 152440,
+   "ko": "생각도 드네요."
+  },
+  {
+   "start_ms": 149599,
+   "end_ms": 155280,
+   "ko": "그러네요. 오늘 좀 쉽게 가져왔는데",
+   "speaker_change": true,
+   "en": "I see, I brought something easier today,"
+  },
+  {
+   "start_ms": 152440,
+   "end_ms": 156760,
+   "ko": "오늘도 한번 지켜보고 다음 주 퀴즈에",
+   "en": "so let's see how it goes today"
+  },
+  {
+   "start_ms": 155280,
+   "end_ms": 157760,
+   "ko": "참고하도록 하겠습니다.",
+   "en": "and I'll use it as reference for next week's quiz."
+  },
+  {
+   "start_ms": 156760,
+   "end_ms": 160560,
+   "ko": "좋습니다.",
+   "speaker_change": true,
+   "en": "Sounds good."
+  },
+  {
+   "start_ms": 157760,
+   "end_ms": 161760,
+   "ko": "오늘 어떤 주제로 이야기하려고",
+   "speaker_change": true,
+   "en": "What topic were you planning to talk about today?"
+  },
+  {
+   "start_ms": 160560,
+   "end_ms": 163519,
+   "ko": "했나요?"
+  },
+  {
+   "start_ms": 161760,
+   "end_ms": 167720,
+   "ko": "이번 주제는",
+   "speaker_change": true,
+   "en": "This week's topic is..."
+  },
+  {
+   "start_ms": 163519,
+   "end_ms": 170040,
+   "ko": "한국어 공부하다가 쉬면서 산책할 때",
+   "en": "While taking a break from studying Korean,"
+  },
+  {
+   "start_ms": 167720,
+   "end_ms": 173800,
+   "ko": "듣기 좋은 음악",
+   "en": "music that's nice to listen to while taking a walk—"
+  },
+  {
+   "start_ms": 170040,
+   "end_ms": 176239,
+   "ko": "그 노래에 세곡씩 추천하기. 맞아요.",
+   "en": "recommending 3 songs each? That's right."
+  },
+  {
+   "start_ms": 173800,
+   "end_ms": 178680,
+   "ko": "잘 기억하셨습니다. 산책할 때 듣는",
+   "en": "You remembered well. A playlist for listening while taking a walk,"
+  },
+  {
+   "start_ms": 176239,
+   "end_ms": 182879,
+   "ko": "플레이리스트 총 여섯 곡 추천해 드릴",
+   "en": "I'll be recommending a total of 6 songs."
+  },
+  {
+   "start_ms": 178680,
+   "end_ms": 187599,
+   "ko": "거예요. 그래서 오늘의 퀴즈는 오늘",
+   "en": "So today's quiz is from the 6 songs I'll be recommending today."
+  },
+  {
+   "start_ms": 182879,
+   "end_ms": 191159,
+   "ko": "추천해 드릴 여섯 곡 중에 없는 가수"
+  },
+  {
+   "start_ms": 187599,
+   "end_ms": 192640,
+   "ko": "한 분 맞춰 주시면 됩니다. 그래서",
+   "en": "You just need to guess one singer we haven't mentioned."
+  },
+  {
+   "start_ms": 191159,
+   "end_ms": 195640,
+   "ko": "첫 번째는",
+   "en": "So the first one is"
+  },
+  {
+   "start_ms": 192640,
+   "end_ms": 198879,
+   "ko": "1번 가수는 바로바로",
+   "speaker_change": true,
+   "en": "Singer number 1 is right away"
+  },
+  {
+   "start_ms": 195640,
+   "end_ms": 202159,
+   "ko": "BTS 방탄소년단입니다.",
+   "en": "BTS, Bangtan Sonyeondan."
+  },
+  {
+   "start_ms": 198879,
+   "end_ms": 205400,
+   "ko": "2번 가수는 베게린이라는",
+   "en": "Singer number 2 is a singer named Baek Yerin,"
+  },
+  {
+   "start_ms": 202159,
+   "end_ms": 207200,
+   "ko": "가수고요. 3번 가수는",
+   "en": "and singer number 3 is"
+  },
+  {
+   "start_ms": 205400,
+   "end_ms": 209720,
+   "ko": "아이유입니다.",
+   "speaker_change": true,
+   "en": "IU."
+  },
+  {
+   "start_ms": 207200,
+   "end_ms": 212879,
+   "ko": "네.이 세 가수 중에서 저희가 오늘",
+   "speaker_change": true,
+   "en": "Yes, among these three singers,"
+  },
+  {
+   "start_ms": 209720,
+   "end_ms": 215799,
+   "ko": "언급하지 않은 가수 한 분을 맞춰",
+   "en": "you just need to guess one singer we haven't mentioned today,"
+  },
+  {
+   "start_ms": 212879,
+   "end_ms": 217920,
+   "ko": "주시면 되고요. 아래 댓글로 남겨"
+  },
+  {
+   "start_ms": 215799,
+   "end_ms": 220439,
+   "ko": "주시면 감사하겠습니다.",
+   "en": "and if you leave your answer in the comments below, I'd appreciate it."
+  },
+  {
+   "start_ms": 217920,
+   "end_ms": 220680,
+   "ko": "산책할 때 듣는 플레이리스트예요.",
+   "en": "It's a playlist I listen to when I take walks. Yes."
+  },
+  {
+   "start_ms": 220439,
+   "end_ms": 223120,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 220680,
+   "end_ms": 225560,
+   "ko": "어, 태용 쌤이 실제로 산책할 때",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 223120,
+   "end_ms": 227480,
+   "ko": "듣는 노래들로 가져와 주셨나요?",
+   "en": "Did Teacher Tae-woong bring songs you actually listen to when you take walks?"
+  },
+  {
+   "start_ms": 225560,
+   "end_ms": 228080,
+   "ko": "어, 그런 곡도 있고.",
+   "speaker_change": true,
+   "en": "Some of them are,"
+  },
+  {
+   "start_ms": 227480,
+   "end_ms": 230959,
+   "ko": "네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 228080,
+   "end_ms": 231879,
+   "ko": "그 또 사실 저는 한국어 공부를 하진",
+   "speaker_change": true,
+   "en": "and actually, I don't study Korean, you know,"
+  },
+  {
+   "start_ms": 230959,
+   "end_ms": 232959,
+   "ko": "않잖아요."
+  },
+  {
+   "start_ms": 231879,
+   "end_ms": 235680,
+   "ko": "아, 그죠.",
+   "speaker_change": true,
+   "en": "Oh, that's right."
+  },
+  {
+   "start_ms": 232959,
+   "end_ms": 237799,
+   "ko": "그래서 또 한국어 공부하시는 분들을",
+   "speaker_change": true,
+   "en": "so I also included some songs"
+  },
+  {
+   "start_ms": 235680,
+   "end_ms": 238680,
+   "ko": "위해 특별히 넣은 곡들도 좀",
+   "en": "specifically for people who are studying Korean."
+  },
+  {
+   "start_ms": 237799,
+   "end_ms": 240959,
+   "ko": "있습니다."
+  },
+  {
+   "start_ms": 238680,
+   "end_ms": 241280,
+   "ko": "아, 그렇구나.",
+   "speaker_change": true,
+   "en": "Ah, I see."
+  },
+  {
+   "start_ms": 240959,
+   "end_ms": 243760,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 241280,
+   "end_ms": 246599,
+   "ko": "산책은 요즘 자주 하세요?",
+   "speaker_change": true,
+   "en": "Do you take walks often these days?"
+  },
+  {
+   "start_ms": 243760,
+   "end_ms": 247280,
+   "ko": "요즘 비가 자주 와서",
+   "speaker_change": true,
+   "en": "It's been raining a lot lately, so I haven't been able to do it often."
+  },
+  {
+   "start_ms": 246599,
+   "end_ms": 249040,
+   "ko": "응응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 247280,
+   "end_ms": 251480,
+   "ko": "자주 하지는 못했어요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 249040,
+   "end_ms": 252159,
+   "ko": "아, 비가 많이 왔죠.",
+   "speaker_change": true,
+   "en": "Ah, there's been a lot of rain."
+  },
+  {
+   "start_ms": 251480,
+   "end_ms": 253519,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 252159,
+   "end_ms": 255319,
+   "ko": "비가 안 올 때는?",
+   "speaker_change": true,
+   "en": "When it's not raining?"
+  },
+  {
+   "start_ms": 253519,
+   "end_ms": 257919,
+   "ko": "안 올 때는 자주 니다.",
+   "speaker_change": true,
+   "en": "When it's not, I do it often."
+  },
+  {
+   "start_ms": 255319,
+   "end_ms": 260120,
+   "ko": "보통 언제 하세요? 산 책은? 저는",
+   "speaker_change": true,
+   "en": "Usually when do you take walks?"
+  },
+  {
+   "start_ms": 257919,
+   "end_ms": 262639,
+   "ko": "산책을 잘하진 않아요.",
+   "en": "I don't really take walks much."
+  },
+  {
+   "start_ms": 260120,
+   "end_ms": 265400,
+   "ko": "어, 아침에",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 262639,
+   "end_ms": 267960,
+   "ko": "안 뛰면 그냥 산책을 하기도 하고.",
+   "en": "If I don't run in the morning, I sometimes just take a walk instead,"
+  },
+  {
+   "start_ms": 265400,
+   "end_ms": 270360,
+   "ko": "음. 런닝이 없는 날에.",
+   "speaker_change": true,
+   "en": "Hmm, on days when there's no running?"
+  },
+  {
+   "start_ms": 267960,
+   "end_ms": 271000,
+   "ko": "네. 네. 요즘 낮에는 산책을 할 수",
+   "speaker_change": true,
+   "en": "Yes, these days I can't take walks during the day."
+  },
+  {
+   "start_ms": 270360,
+   "end_ms": 272520,
+   "ko": "없어요."
+  },
+  {
+   "start_ms": 271000,
+   "end_ms": 274840,
+   "ko": "오, 너무 덥죠?",
+   "speaker_change": true,
+   "en": "It's too hot, right?"
+  },
+  {
+   "start_ms": 272520,
+   "end_ms": 275840,
+   "ko": "네. 네. 너무 햇볕이 뜨거워요.",
+   "speaker_change": true,
+   "en": "Yes, the sun is too strong."
+  },
+  {
+   "start_ms": 274840,
+   "end_ms": 279120,
+   "ko": "어, 네. 맞아요.",
+   "speaker_change": true,
+   "en": "Yes, that's right."
+  },
+  {
+   "start_ms": 275840,
+   "end_ms": 279840,
+   "ko": "그래서 제가 산책하는 길에",
+   "speaker_change": true,
+   "en": "So on the path where I take walks,"
+  },
+  {
+   "start_ms": 279120,
+   "end_ms": 281960,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 279840,
+   "end_ms": 282680,
+   "ko": "오른쪽에 산이 있거든요.",
+   "speaker_change": true,
+   "en": "there's a mountain on the right side,"
+  },
+  {
+   "start_ms": 281960,
+   "end_ms": 286240,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 282680,
+   "end_ms": 287520,
+   "ko": "근데 딱 그 산까지만 해가 지면",
+   "speaker_change": true,
+   "en": "but as soon as the sun sets just past that mountain,"
+  },
+  {
+   "start_ms": 286240,
+   "end_ms": 290720,
+   "ko": "으응음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 287520,
+   "end_ms": 291280,
+   "ko": "그 그 산으로 그늘이 만들어져요.",
+   "en": "the mountain creates shade."
+  },
+  {
+   "start_ms": 290720,
+   "end_ms": 293840,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 291280,
+   "end_ms": 296000,
+   "ko": "그래서 딱 그 시간부터 나갑니다.",
+   "speaker_change": true,
+   "en": "So I go out right from that time."
+  },
+  {
+   "start_ms": 293840,
+   "end_ms": 296800,
+   "ko": "아, 그늘이 좀 생길 때.",
+   "speaker_change": true,
+   "en": "Ah, when some shade starts to appear?"
+  },
+  {
+   "start_ms": 296000,
+   "end_ms": 298560,
+   "ko": "네. 네.",
+   "speaker_change": true,
+   "en": "Yes, yes."
+  },
+  {
+   "start_ms": 296800,
+   "end_ms": 300919,
+   "ko": "그게 몇 시쯤이에요?",
+   "speaker_change": true,
+   "en": "What time is that around?"
+  },
+  {
+   "start_ms": 298560,
+   "end_ms": 303000,
+   "ko": "음, 한 7시.",
+   "speaker_change": true,
+   "en": "Around 7 o'clock?"
+  },
+  {
+   "start_ms": 300919,
+   "end_ms": 304400,
+   "ko": "아, 밤.",
+   "speaker_change": true,
+   "en": "Ah, at night?"
+  },
+  {
+   "start_ms": 303000,
+   "end_ms": 307240,
+   "ko": "네. 네. 맞아요.",
+   "speaker_change": true,
+   "en": "Yes, yes, that's right."
+  },
+  {
+   "start_ms": 304400,
+   "end_ms": 308440,
+   "ko": "어. 아, 밤 산책 좋네요. 여름",
+   "speaker_change": true,
+   "en": "Ah, evening walks at night are nice, summer evening walks."
+  },
+  {
+   "start_ms": 307240,
+   "end_ms": 310080,
+   "ko": "저녁 산책."
+  },
+  {
+   "start_ms": 308440,
+   "end_ms": 312479,
+   "ko": "아, 네. 좋습니다.",
+   "speaker_change": true,
+   "en": "Ah, yes, it's nice."
+  },
+  {
+   "start_ms": 310080,
+   "end_ms": 314680,
+   "ko": "음. 그러면 공원으로 가시나요? 집",
+   "speaker_change": true,
+   "en": "So do you go to a park? A park near your house?"
+  },
+  {
+   "start_ms": 312479,
+   "end_ms": 319600,
+   "ko": "근처 공원. 아니요. 저희 집"
+  },
+  {
+   "start_ms": 314680,
+   "end_ms": 320759,
+   "ko": "근처에는 공원은 없고 바닷가가 있어서",
+   "en": "No, there's no park near our house, but there's a beach,"
+  },
+  {
+   "start_ms": 319600,
+   "end_ms": 321520,
+   "ko": "부산.",
+   "en": "Busan!"
+  },
+  {
+   "start_ms": 320759,
+   "end_ms": 323080,
+   "ko": "네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 321520,
+   "end_ms": 325520,
+   "ko": "바닷가",
+   "speaker_change": true,
+   "en": "- Yes, yes, the beach... - As expected..."
+  },
+  {
+   "start_ms": 323080,
+   "end_ms": 327160,
+   "ko": "그리고 아주 예쁜 산책로가 있는",
+   "speaker_change": true,
+   "en": "and since we live in a neighborhood with a very beautiful walking path,"
+  },
+  {
+   "start_ms": 325520,
+   "end_ms": 327880,
+   "ko": "동네에 살기 때문에"
+  },
+  {
+   "start_ms": 327160,
+   "end_ms": 330479,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 327880,
+   "end_ms": 333039,
+   "ko": "그니까 아까 말씀드렸듯이 산책로를",
+   "speaker_change": true,
+   "en": "as I mentioned earlier, when you walk on the path,"
+  },
+  {
+   "start_ms": 330479,
+   "end_ms": 333560,
+   "ko": "걸으면 오른편에는 산이 있는데",
+   "en": "there's a mountain on the right side,"
+  },
+  {
+   "start_ms": 333039,
+   "end_ms": 335560,
+   "ko": "네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 333560,
+   "end_ms": 337360,
+   "ko": "왼편으로는 바다가 있습니다.",
+   "speaker_change": true,
+   "en": "and the sea on the left side."
+  },
+  {
+   "start_ms": 335560,
+   "end_ms": 340680,
+   "ko": "그리고 그 길에는",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 337360,
+   "end_ms": 343880,
+   "ko": "되게 예쁜 어 빨간색, 초록색,",
+   "speaker_change": true,
+   "en": "And on that path, there are very pretty red, green,"
+  },
+  {
+   "start_ms": 340680,
+   "end_ms": 345800,
+   "ko": "파란색의 그 해변 열차도 지나가요.",
+   "en": "and blue beach trains that pass by."
+  },
+  {
+   "start_ms": 343880,
+   "end_ms": 347199,
+   "ko": "우와.",
+   "speaker_change": true,
+   "en": "Wow..."
+  },
+  {
+   "start_ms": 345800,
+   "end_ms": 348600,
+   "ko": "그래서 아주 산책하기 좋은",
+   "speaker_change": true,
+   "en": "So it's a really nice neighborhood for taking walks."
+  },
+  {
+   "start_ms": 347199,
+   "end_ms": 350680,
+   "ko": "동네입니다."
+  },
+  {
+   "start_ms": 348600,
+   "end_ms": 352639,
+   "ko": "산책할 맛이 나겠네요. 저도 거기",
+   "speaker_change": true,
+   "en": "It would be nice to go for a walk."
+  },
+  {
+   "start_ms": 350680,
+   "end_ms": 354120,
+   "ko": "살면 산책할 거 같으네요.",
+   "en": "If I lived there, I think I'd go for walks too."
+  },
+  {
+   "start_ms": 352639,
+   "end_ms": 356479,
+   "ko": "음. 그럼요. 그럼요.",
+   "speaker_change": true,
+   "en": "Absolutely, absolutely."
+  },
+  {
+   "start_ms": 354120,
+   "end_ms": 357400,
+   "ko": "그러면 이제 추천해 볼까요? 한 곡",
+   "speaker_change": true,
+   "en": "So shall we start recommending songs now? One by one?"
+  },
+  {
+   "start_ms": 356479,
+   "end_ms": 358160,
+   "ko": "한 곡씩."
+  },
+  {
+   "start_ms": 357400,
+   "end_ms": 360960,
+   "ko": "좋습니다.",
+   "speaker_change": true,
+   "en": "Sounds good."
+  },
+  {
+   "start_ms": 358160,
+   "end_ms": 361600,
+   "ko": "태홍쌤 먼저 추천해 주세요. 첫 번째",
+   "speaker_change": true,
+   "en": "Teacher Tae-woong, please recommend the first song first."
+  },
+  {
+   "start_ms": 360960,
+   "end_ms": 364639,
+   "ko": "곡."
+  },
+  {
+   "start_ms": 361600,
+   "end_ms": 365160,
+   "ko": "네. 제가 첫 번째로 고른 곡은",
+   "speaker_change": true,
+   "en": "Yes. The first song I picked is"
+  },
+  {
+   "start_ms": 364639,
+   "end_ms": 368800,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 365160,
+   "end_ms": 369720,
+   "ko": "어, 조셀린 브라운이라는 가수의",
+   "speaker_change": true,
+   "en": "by a singer named Jocelyn Brown,"
+  },
+  {
+   "start_ms": 368800,
+   "end_ms": 371280,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 369720,
+   "end_ms": 372440,
+   "ko": "Somebody else이라는",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 371280,
+   "end_ms": 373919,
+   "ko": "노래인데요.",
+   "en": "and it's a song called \"Somebody Else's Guy.\""
+  },
+  {
+   "start_ms": 372440,
+   "end_ms": 376440,
+   "ko": "음. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 373919,
+   "end_ms": 378599,
+   "ko": "네. 네. 지난 에피소드에 예고드렸듯",
+   "speaker_change": true,
+   "en": "As I mentioned in the last episode, I didn't bring only Korean songs."
+  },
+  {
+   "start_ms": 376440,
+   "end_ms": 380240,
+   "ko": "한국 노래만 가지고 온 건 아닙니다."
+  },
+  {
+   "start_ms": 378599,
+   "end_ms": 382039,
+   "ko": "맞아요. 저도 그래요.",
+   "speaker_change": true,
+   "en": "That's right, me too."
+  },
+  {
+   "start_ms": 380240,
+   "end_ms": 385400,
+   "ko": "네. 아, 노래가 꽤 길어요.",
+   "speaker_change": true,
+   "en": "Yes, the song is quite long."
+  },
+  {
+   "start_ms": 382039,
+   "end_ms": 386880,
+   "ko": "6분 30초예요. 네. 네. 옛날",
+   "speaker_change": true,
+   "en": "It's 6 minutes and 30 seconds."
+  },
+  {
+   "start_ms": 385400,
+   "end_ms": 387919,
+   "ko": "노래가 좀 이렇게 긴 곡들이",
+   "en": "Old songs often had long tracks like this."
+  },
+  {
+   "start_ms": 386880,
+   "end_ms": 390280,
+   "ko": "많습니다."
+  },
+  {
+   "start_ms": 387919,
+   "end_ms": 392280,
+   "ko": "아, 네. 전 처음 봤는데.",
+   "speaker_change": true,
+   "en": "I'm seeing this for the first time."
+  },
+  {
+   "start_ms": 390280,
+   "end_ms": 393000,
+   "ko": "네.이 이 곡을 고르신 이유가",
+   "speaker_change": true,
+   "en": "Is there a reason you picked this song?"
+  },
+  {
+   "start_ms": 392280,
+   "end_ms": 395160,
+   "ko": "있을까요?"
+  },
+  {
+   "start_ms": 393000,
+   "end_ms": 397880,
+   "ko": "아, 있죠. 있죠.",
+   "speaker_change": true,
+   "en": "There is, there is."
+  },
+  {
+   "start_ms": 395160,
+   "end_ms": 398840,
+   "ko": "어. 자, 생각을 해 봅시다.",
+   "en": "Well... let's think about it."
+  },
+  {
+   "start_ms": 397880,
+   "end_ms": 400880,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 398840,
+   "end_ms": 401759,
+   "ko": "한국 공부를 막 해요.",
+   "speaker_change": true,
+   "en": "You're studying Korean hard."
+  },
+  {
+   "start_ms": 400880,
+   "end_ms": 403880,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 401759,
+   "end_ms": 404520,
+   "ko": "그러다가 산책을 하러 나가야 돼요.",
+   "speaker_change": true,
+   "en": "Then you need to go out for a walk."
+  },
+  {
+   "start_ms": 403880,
+   "end_ms": 407599,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 404520,
+   "end_ms": 409520,
+   "ko": "그러면 뭐 옷도 좀 챙겨 입고 그",
+   "speaker_change": true,
+   "en": "So you put on some clothes and sneakers,"
+  },
+  {
+   "start_ms": 407599,
+   "end_ms": 412440,
+   "ko": "운동화도 신고."
+  },
+  {
+   "start_ms": 409520,
+   "end_ms": 413599,
+   "ko": "그리고 문 나가서이 건물 밖으로",
+   "speaker_change": true,
+   "en": "and then you go out the door and leave this building, right?"
+  },
+  {
+   "start_ms": 412440,
+   "end_ms": 414560,
+   "ko": "나가야겠죠."
+  },
+  {
+   "start_ms": 413599,
+   "end_ms": 416800,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 414560,
+   "end_ms": 417960,
+   "ko": "이제 그렇게 준비하는 시간이",
+   "speaker_change": true,
+   "en": "You need time to prepare like that."
+  },
+  {
+   "start_ms": 416800,
+   "end_ms": 421160,
+   "ko": "필요하잖아요."
+  },
+  {
+   "start_ms": 417960,
+   "end_ms": 424120,
+   "ko": "네. 어 근데 이바디에스",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 421160,
+   "end_ms": 425800,
+   "ko": "가이의 노래에",
+   "en": "But in this \"Somebody Else's Guy\" song,"
+  },
+  {
+   "start_ms": 424120,
+   "end_ms": 426319,
+   "ko": "앞에 1분이"
+  },
+  {
+   "start_ms": 425800,
+   "end_ms": 428520,
+   "ko": "응",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 426319,
+   "end_ms": 430039,
+   "ko": "좀 준비하는 부분입니다.",
+   "speaker_change": true,
+   "en": "the first minute is a preparation part."
+  },
+  {
+   "start_ms": 428520,
+   "end_ms": 431960,
+   "ko": "에",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 430039,
+   "end_ms": 435120,
+   "ko": "왜요? 왜요?",
+   "speaker_change": true,
+   "en": "Why? Why?"
+  },
+  {
+   "start_ms": 431960,
+   "end_ms": 435879,
+   "ko": "그 뭐라 그러지? 노래의 비트라고",
+   "speaker_change": true,
+   "en": "What do you call it?"
+  },
+  {
+   "start_ms": 435120,
+   "end_ms": 436280,
+   "ko": "하나요?"
+  },
+  {
+   "start_ms": 435879,
+   "end_ms": 438639,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 436280,
+   "end_ms": 439479,
+   "ko": "그 반복되는 그 고개 그 부분이",
+   "speaker_change": true,
+   "en": "The beat of the song, right? There's a repeating part of the song."
+  },
+  {
+   "start_ms": 438639,
+   "end_ms": 440400,
+   "ko": "있잖아요."
+  },
+  {
+   "start_ms": 439479,
+   "end_ms": 443160,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 440400,
+   "end_ms": 443720,
+   "ko": "근데 그게 노래를 시작하자마자 나오지",
+   "speaker_change": true,
+   "en": "But it doesn't come right when the song starts."
+  },
+  {
+   "start_ms": 443160,
+   "end_ms": 445680,
+   "ko": "않아요."
+  },
+  {
+   "start_ms": 443720,
+   "end_ms": 449599,
+   "ko": "음. 음. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 445680,
+   "end_ms": 451599,
+   "ko": "시작한 1분 동안은이 조셀린 브라운이",
+   "speaker_change": true,
+   "en": "For the first minute after it starts, Jocelyn Brown sings solo by herself."
+  },
+  {
+   "start_ms": 449599,
+   "end_ms": 451840,
+   "ko": "혼자 솔로를 합니다. 그 막 막"
+  },
+  {
+   "start_ms": 451599,
+   "end_ms": 452960,
+   "ko": "그렇게"
+  },
+  {
+   "start_ms": 451840,
+   "end_ms": 455479,
+   "ko": "각역을 뽐내며",
+   "speaker_change": true,
+   "en": "Showing off her vocal ability."
+  },
+  {
+   "start_ms": 452960,
+   "end_ms": 456280,
+   "ko": "네. 네. 워밍업을 준비 운동을",
+   "speaker_change": true,
+   "en": "Yes yes, she's warming up, doing warm-up exercises."
+  },
+  {
+   "start_ms": 455479,
+   "end_ms": 457560,
+   "ko": "해요."
+  },
+  {
+   "start_ms": 456280,
+   "end_ms": 459000,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 457560,
+   "end_ms": 459560,
+   "ko": "이제 그때",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 459000,
+   "end_ms": 461000,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 459560,
+   "end_ms": 461560,
+   "ko": "신발도 신고",
+   "speaker_change": true,
+   "en": "So then you put on your shoes and open the door and head out."
+  },
+  {
+   "start_ms": 461000,
+   "end_ms": 463680,
+   "ko": "어",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 461560,
+   "end_ms": 466919,
+   "ko": "네. 문도 열고 하면서 나가는 거죠.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 463680,
+   "end_ms": 467599,
+   "ko": "아 나도이 조셀린 브라운에 맞춰서",
+   "speaker_change": true,
+   "en": "I also match up with this Jocelyn Brown"
+  },
+  {
+   "start_ms": 466919,
+   "end_ms": 468720,
+   "ko": "그렇죠. 그렇죠.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 467599,
+   "end_ms": 468960,
+   "ko": "준비를 해서",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 468720,
+   "end_ms": 470840,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 468960,
+   "end_ms": 471400,
+   "ko": "1분 정도 준비하고 이제 나가는",
+   "speaker_change": true,
+   "en": "and prepare, spend about a minute getting ready, and then head out."
+  },
+  {
+   "start_ms": 470840,
+   "end_ms": 474120,
+   "ko": "거죠."
+  },
+  {
+   "start_ms": 471400,
+   "end_ms": 476080,
+   "ko": "네. 그리고 나가면 이제 본 노래가",
+   "speaker_change": true,
+   "en": "And once I go out, the main song begins."
+  },
+  {
+   "start_ms": 474120,
+   "end_ms": 476840,
+   "ko": "시작이 됩니다. 진짜 노래가.",
+   "en": "The song is really"
+  },
+  {
+   "start_ms": 476080,
+   "end_ms": 479440,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 476840,
+   "end_ms": 481039,
+   "ko": "근데 그 노래가 굉장히 신납니다.",
+   "speaker_change": true,
+   "en": "but that song is really upbeat."
+  },
+  {
+   "start_ms": 479440,
+   "end_ms": 483120,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 481039,
+   "end_ms": 483720,
+   "ko": "비트가 굉장히 신나요.",
+   "speaker_change": true,
+   "en": "The beat is really upbeat."
+  },
+  {
+   "start_ms": 483120,
+   "end_ms": 487280,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 483720,
+   "end_ms": 489360,
+   "ko": "근데 우리는 지금까지 긴 시간이든",
+   "speaker_change": true,
+   "en": "But up until now, whether for a long time or a short time,"
+  },
+  {
+   "start_ms": 487280,
+   "end_ms": 490400,
+   "ko": "짧은 시간이든 집중해서 한국어 공부를"
+  },
+  {
+   "start_ms": 489360,
+   "end_ms": 491479,
+   "ko": "하고 있었잖아요.",
+   "en": "we've been studying Korean with full concentration, right?"
+  },
+  {
+   "start_ms": 490400,
+   "end_ms": 493720,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 491479,
+   "end_ms": 495080,
+   "ko": "몸이 뻣뻣해졌어요.",
+   "speaker_change": true,
+   "en": "Our bodies have gotten stiff."
+  },
+  {
+   "start_ms": 493720,
+   "end_ms": 498039,
+   "ko": "뻣뻣해졌어요.",
+   "speaker_change": true,
+   "en": "They've gotten stiff. [laughs]"
+  },
+  {
+   "start_ms": 495080,
+   "end_ms": 502199,
+   "ko": "네. 그럼이 뻣뻣해진이 어깨와 목.",
+   "speaker_change": true,
+   "en": "Yes, so these stiff shoulders and neck and things like that,"
+  },
+  {
+   "start_ms": 498039,
+   "end_ms": 505199,
+   "ko": "응. 이런 것들을 그이 비트에 맞춰서",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 502199,
+   "end_ms": 507080,
+   "ko": "좀 풀어 주기 굉장히 좋습니다.",
+   "speaker_change": true,
+   "en": "it's really great to loosen them up to this beat."
+  },
+  {
+   "start_ms": 505199,
+   "end_ms": 509120,
+   "ko": "이해 이해되시나요? 그 근데 이거는요",
+   "speaker_change": true,
+   "en": "Do you understand? But this, no matter how much I explain it,"
+  },
+  {
+   "start_ms": 507080,
+   "end_ms": 510759,
+   "ko": "이렇게 제가 아무리 설명해도 직접"
+  },
+  {
+   "start_ms": 509120,
+   "end_ms": 512080,
+   "ko": "들어보지 않으면 느낄 수 없어요.",
+   "en": "you can't feel it unless you listen to it directly."
+  },
+  {
+   "start_ms": 510759,
+   "end_ms": 512800,
+   "ko": "네. 아 그래요?",
+   "speaker_change": true,
+   "en": "Oh really?"
+  },
+  {
+   "start_ms": 512080,
+   "end_ms": 516080,
+   "ko": "네. 네.",
+   "speaker_change": true,
+   "en": "Yes yes."
+  },
+  {
+   "start_ms": 512800,
+   "end_ms": 518479,
+   "ko": "아 이번에도 저희가 유튜브 정책상",
+   "speaker_change": true,
+   "en": "Oh, this time too, due to YouTube policy we can't include the whole song,"
+  },
+  {
+   "start_ms": 516080,
+   "end_ms": 520200,
+   "ko": "노래를 다 넣어 드릴 순 없는데"
+  },
+  {
+   "start_ms": 518479,
+   "end_ms": 520880,
+   "ko": "조금씩 잘라 넣어 드리도록",
+   "en": "so we'll cut it up a bit and include it for you."
+  },
+  {
+   "start_ms": 520200,
+   "end_ms": 522560,
+   "ko": "하겠습니다."
+  },
+  {
+   "start_ms": 520880,
+   "end_ms": 523839,
+   "ko": "조금만 들어도 충분합니다.",
+   "speaker_change": true,
+   "en": "Even a little bit is enough."
+  },
+  {
+   "start_ms": 522560,
+   "end_ms": 525880,
+   "ko": "아 그래요?네",
+   "speaker_change": true,
+   "en": "Oh really?"
+  },
+  {
+   "start_ms": 523839,
+   "end_ms": 529720,
+   "ko": "일단 워밍업 파트부터",
+   "speaker_change": true,
+   "en": "Yes, let's start with the warming-up part first."
+  },
+  {
+   "start_ms": 525880,
+   "end_ms": 529720,
+   "ko": "워밍업 파트부터 좀 들어볼까요?",
+   "speaker_change": true,
+   "en": "Let's listen to the warming-up part first, shall we?"
+  },
+  {
+   "start_ms": 530600,
+   "end_ms": 534519,
+   "ko": "사바나에 온 거 같아요.",
+   "en": "It feels like I'm in the savanna."
+  },
+  {
+   "start_ms": 536279,
+   "end_ms": 539160,
+   "ko": "어, 충분합니다.이 정도",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 537240,
+   "end_ms": 539680,
+   "ko": "소울이 소울풀합니다. 네. 네.",
+   "speaker_change": true,
+   "en": "That's enough—it's soulful... it's very soulful. Yes yes, it is soulful."
+  },
+  {
+   "start_ms": 539160,
+   "end_ms": 542630,
+   "ko": "소울하죠."
+  },
+  {
+   "start_ms": 539680,
+   "end_ms": 545120,
+   "ko": "이렇게 해서 이제 점점점 올라가서",
+   "speaker_change": true,
+   "en": "And like this, it gradually gradually gradually goes up."
+  },
+  {
+   "start_ms": 542630,
+   "end_ms": 548120,
+   "ko": "[음악]"
+  },
+  {
+   "start_ms": 545120,
+   "end_ms": 548120,
+   "ko": "이렇게",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 548240,
+   "end_ms": 549760,
+   "ko": "막"
+  },
+  {
+   "start_ms": 548760,
+   "end_ms": 551040,
+   "ko": "풀어 줘야 돼요.",
+   "speaker_change": true,
+   "en": "You have to... just loosen it up"
+  },
+  {
+   "start_ms": 549760,
+   "end_ms": 553880,
+   "ko": "네. 네. 네. 몸이",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 551040,
+   "end_ms": 555040,
+   "ko": "막 움직이지 않나요? 오이 이거 이거",
+   "speaker_change": true,
+   "en": "Yes yes yes, your body doesn't move well, right? - You have to loosen your shoulders"
+  },
+  {
+   "start_ms": 553880,
+   "end_ms": 556839,
+   "ko": "이거",
+   "en": "This this this"
+  },
+  {
+   "start_ms": 555040,
+   "end_ms": 559800,
+   "ko": "어",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 556839,
+   "end_ms": 561560,
+   "ko": "좋다. 이렇게이 공부를 하느라",
+   "speaker_change": true,
+   "en": "Good Shoulders and the back of the neck and lower back that have gotten stiff from studying like this"
+  },
+  {
+   "start_ms": 559800,
+   "end_ms": 565240,
+   "ko": "뻣뻣해진이"
+  },
+  {
+   "start_ms": 561560,
+   "end_ms": 565480,
+   "ko": "어깨와 뒷목과 뭐 허리 등등을",
+   "en": "You can loosen them up like this"
+  },
+  {
+   "start_ms": 565240,
+   "end_ms": 567920,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 565480,
+   "end_ms": 569560,
+   "ko": "이렇게 풀어 줄 수 있습니다.음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 567920,
+   "end_ms": 571519,
+   "ko": "풀어 주고",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 569560,
+   "end_ms": 574160,
+   "ko": "또 뒷부분에도 스토리가 있나요?",
+   "speaker_change": true,
+   "en": "Loosen it up and... is there also a story in the back part?"
+  },
+  {
+   "start_ms": 571519,
+   "end_ms": 575279,
+   "ko": "아 뒷부분이 대체로 이런 느낌이에요.",
+   "speaker_change": true,
+   "en": "The back part generally feels like this, and it keeps repeating"
+  },
+  {
+   "start_ms": 574160,
+   "end_ms": 577720,
+   "ko": "계속 이게 반복해요."
+  },
+  {
+   "start_ms": 575279,
+   "end_ms": 580959,
+   "ko": "계속 신나는 느낌.네 네. 네.이",
+   "speaker_change": true,
+   "en": "It keeps feeling exciting?"
+  },
+  {
+   "start_ms": 577720,
+   "end_ms": 581640,
+   "ko": "비트에 뭐 악기가 추가됐다가 빠졌다가",
+   "en": "Yes, instruments are added and removed from this beat"
+  },
+  {
+   "start_ms": 580959,
+   "end_ms": 584200,
+   "ko": "아",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 581640,
+   "end_ms": 585279,
+   "ko": "아주 그냥이 펑키함에",
+   "speaker_change": true,
+   "en": "Just a time of being completely soaked in this funkiness"
+  },
+  {
+   "start_ms": 584200,
+   "end_ms": 588240,
+   "ko": "네.이",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 585279,
+   "end_ms": 589120,
+   "ko": "흠뻑 젖는 시간. 5분간에 펑크 급행",
+   "speaker_change": true,
+   "en": "A 5-minute funk express train"
+  },
+  {
+   "start_ms": 588240,
+   "end_ms": 591480,
+   "ko": "열차."
+  },
+  {
+   "start_ms": 589120,
+   "end_ms": 592480,
+   "ko": "어. 아 되게 신난다.",
+   "speaker_change": true,
+   "en": "Oh, it's really exciting"
+  },
+  {
+   "start_ms": 591480,
+   "end_ms": 594680,
+   "ko": "아 그러니까요.",
+   "speaker_change": true,
+   "en": "Ah, exactly"
+  },
+  {
+   "start_ms": 592480,
+   "end_ms": 595360,
+   "ko": "발걸음이 가벼울 거 같아요.이 노래를",
+   "speaker_change": true,
+   "en": "Your footsteps would feel light when you listen to this song"
+  },
+  {
+   "start_ms": 594680,
+   "end_ms": 596600,
+   "ko": "들으면."
+  },
+  {
+   "start_ms": 595360,
+   "end_ms": 596959,
+   "ko": "발걸음에요.",
+   "speaker_change": true,
+   "en": "Your footsteps,"
+  },
+  {
+   "start_ms": 596600,
+   "end_ms": 599880,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 596959,
+   "end_ms": 601000,
+   "ko": "그 이런 스텝이 생겨요.",
+   "speaker_change": true,
+   "en": "This kind of step comes out"
+  },
+  {
+   "start_ms": 599880,
+   "end_ms": 602480,
+   "ko": "리듬 스텝.",
+   "speaker_change": true,
+   "en": "Rhythm step"
+  },
+  {
+   "start_ms": 601000,
+   "end_ms": 603560,
+   "ko": "네. 네. 이렇게 막.",
+   "speaker_change": true,
+   "en": "Yes yes, like this..."
+  },
+  {
+   "start_ms": 602480,
+   "end_ms": 604000,
+   "ko": "음. 음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 603560,
+   "end_ms": 605279,
+   "ko": "그래서",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 604000,
+   "end_ms": 608640,
+   "ko": "어 괜찮은데요.",
+   "speaker_change": true,
+   "en": "Oh, that's not bad?"
+  },
+  {
+   "start_ms": 605279,
+   "end_ms": 610120,
+   "ko": "이어폰 밖에 소리를 듣지 못하는 다른",
+   "speaker_change": true,
+   "en": "Not being able to hear the sound outside the earphones"
+  },
+  {
+   "start_ms": 608640,
+   "end_ms": 611399,
+   "ko": "사람들은 좀 이상하게 생각할 수도",
+   "en": "Other people might think it's a bit strange"
+  },
+  {
+   "start_ms": 610120,
+   "end_ms": 613440,
+   "ko": "있습니다."
+  },
+  {
+   "start_ms": 611399,
+   "end_ms": 614800,
+   "ko": "아 발이 저절로 움직여요? 이거 참을",
+   "speaker_change": true,
+   "en": "Ah, your feet move on their own? This is something you can't resist?"
+  },
+  {
+   "start_ms": 613440,
+   "end_ms": 617079,
+   "ko": "수 없는 거예요?에"
+  },
+  {
+   "start_ms": 614800,
+   "end_ms": 618160,
+   "ko": "그렇다니까요.",
+   "speaker_change": true,
+   "en": "Yes, that's right"
+  },
+  {
+   "start_ms": 617079,
+   "end_ms": 621160,
+   "ko": "초고요.",
+   "speaker_change": true,
+   "en": "It's the best"
+  },
+  {
+   "start_ms": 618160,
+   "end_ms": 622720,
+   "ko": "와우 좋은 곡속에 처음부터 엄청",
+   "speaker_change": true,
+   "en": "Wow, great song recommendation, it's such an exciting song from the start"
+  },
+  {
+   "start_ms": 621160,
+   "end_ms": 624880,
+   "ko": "신나는 노래네요.네"
+  },
+  {
+   "start_ms": 622720,
+   "end_ms": 626880,
+   "ko": "그렇죠. 그렇죠. 아니, 듣는데 제가",
+   "speaker_change": true,
+   "en": "Yes, that's right, that's right"
+  },
+  {
+   "start_ms": 624880,
+   "end_ms": 630240,
+   "ko": "준비한 노래랑 너무 결이 다른",
+   "en": "But listening to it, the song I prepared has such a different feel"
+  },
+  {
+   "start_ms": 626880,
+   "end_ms": 632640,
+   "ko": "거예요. 그래서 좋은 플레이스트가 안",
+   "en": "So I don't think a good playlist will be made today"
+  },
+  {
+   "start_ms": 630240,
+   "end_ms": 635079,
+   "ko": "만들어질 것 같아요. 오늘은 되게 막"
+  },
+  {
+   "start_ms": 632640,
+   "end_ms": 635959,
+   "ko": "신났다가 갑자기",
+   "en": "It gets really exciting and then suddenly..."
+  },
+  {
+   "start_ms": 635079,
+   "end_ms": 638360,
+   "ko": "아, 네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 635959,
+   "end_ms": 640240,
+   "ko": "너무 장르가 달라서 이제 제 거",
+   "speaker_change": true,
+   "en": "The genre is just too different"
+  },
+  {
+   "start_ms": 638360,
+   "end_ms": 643200,
+   "ko": "추천으로 넘어가도 될까요? 네. 네.",
+   "en": "Can I move on to my recommendation now?"
+  },
+  {
+   "start_ms": 640240,
+   "end_ms": 645680,
+   "ko": "넘어가죠. 제가 첫 번째로 고른",
+   "en": "Yes yes, let's move on The first song I picked is"
+  },
+  {
+   "start_ms": 643200,
+   "end_ms": 647279,
+   "ko": "노래는 나츠노세이라는",
+   "en": "A song called 'Natsu no Kage (Summer's Shadow)'"
+  },
+  {
+   "start_ms": 645680,
+   "end_ms": 650279,
+   "ko": "노래고요."
+  },
+  {
+   "start_ms": 647279,
+   "end_ms": 653000,
+   "ko": "일본 곡입니다. 한국어 뜻으로 하면은",
+   "en": "It's a Japanese song"
+  },
+  {
+   "start_ms": 650279,
+   "end_ms": 654120,
+   "ko": "여름의 그림자라는",
+   "en": "In Korean, it's a song called 'Summer's Shadow'"
+  },
+  {
+   "start_ms": 653000,
+   "end_ms": 656279,
+   "ko": "노래고"
+  },
+  {
+   "start_ms": 654120,
+   "end_ms": 658079,
+   "ko": "가수는 미세스 그린 애플이라는",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 656279,
+   "end_ms": 659000,
+   "ko": "밴드입니다.",
+   "en": "The artist is a band called Mrs. Green Apple"
+  },
+  {
+   "start_ms": 658079,
+   "end_ms": 662560,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 659000,
+   "end_ms": 665440,
+   "ko": "네.이 노래를 고른 이유는 노래가",
+   "speaker_change": true,
+   "en": "The reason I picked this song is"
+  },
+  {
+   "start_ms": 662560,
+   "end_ms": 668800,
+   "ko": "완전 여름 그 자체예요.",
+   "en": "The song is summer itself"
+  },
+  {
+   "start_ms": 665440,
+   "end_ms": 671600,
+   "ko": "네. 그 제목에서부터 알 수 있듯이",
+   "speaker_change": true,
+   "en": "As you can tell from the title"
+  },
+  {
+   "start_ms": 668800,
+   "end_ms": 675000,
+   "ko": "여름에 관련된 노래인데",
+   "en": "It's a song related to summer"
+  },
+  {
+   "start_ms": 671600,
+   "end_ms": 675720,
+   "ko": "그 노래 안에 여름 소리들이 들어가",
+   "en": "And there are summer sounds in the song"
+  },
+  {
+   "start_ms": 675000,
+   "end_ms": 676399,
+   "ko": "있어요."
+  },
+  {
+   "start_ms": 675720,
+   "end_ms": 678639,
+   "ko": "우와",
+   "speaker_change": true,
+   "en": "Wow"
+  },
+  {
+   "start_ms": 676399,
+   "end_ms": 680880,
+   "ko": "막 메미 소리나",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 678639,
+   "end_ms": 682000,
+   "ko": "얼음잔 소리 같은 거",
+   "en": "Like the sound of cicadas or... the sound of an ice glass?"
+  },
+  {
+   "start_ms": 680880,
+   "end_ms": 684800,
+   "ko": "어",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 682000,
+   "end_ms": 686880,
+   "ko": "막 바람 소리 같은 것도 들리고 뭐",
+   "speaker_change": true,
+   "en": "You can also hear wind sounds"
+  },
+  {
+   "start_ms": 684800,
+   "end_ms": 689600,
+   "ko": "종소리나 이런 것들",
+   "en": "Bell sounds and things like that? You hear those kinds of things"
+  },
+  {
+   "start_ms": 686880,
+   "end_ms": 692200,
+   "ko": "그런게 들려서 저는 자전거를 자주",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 689600,
+   "end_ms": 695360,
+   "ko": "타거든요. 산책은 안 하지만. 그래서",
+   "en": "I ride my bike often, though I don't take walks"
+  },
+  {
+   "start_ms": 692200,
+   "end_ms": 698839,
+   "ko": "딱 이어폰을 처음 꽂고이 노래를 틀고",
+   "en": "So I just plug in my earphones and play this song"
+  },
+  {
+   "start_ms": 695360,
+   "end_ms": 701800,
+   "ko": "자전거를 타고 가면은 그 지금",
+   "en": "And ride my bike"
+  },
+  {
+   "start_ms": 698839,
+   "end_ms": 704120,
+   "ko": "노래에서 들리는 메미소린지 밖에서",
+   "en": "Whether the cicada sound I hear in the song now"
+  },
+  {
+   "start_ms": 701800,
+   "end_ms": 707920,
+   "ko": "들리는 메미소린지 막 그게 다",
+   "en": "Or the cicada sound from outside all mix together"
+  },
+  {
+   "start_ms": 704120,
+   "end_ms": 709600,
+   "ko": "섞이면서 완전 여름을 제대로"
+  },
+  {
+   "start_ms": 707920,
+   "end_ms": 710680,
+   "ko": "상쾌하게 즐길 수 있었던",
+   "speaker_change": true,
+   "en": "It was a song where I could really enjoy summer fresh and properly"
+  },
+  {
+   "start_ms": 709600,
+   "end_ms": 713240,
+   "ko": "노래였습니다."
+  },
+  {
+   "start_ms": 710680,
+   "end_ms": 714639,
+   "ko": "어 좋습니다. ASMR 기능이 같이",
+   "speaker_change": true,
+   "en": "That's great It's a song that has an ASMR function too"
+  },
+  {
+   "start_ms": 713240,
+   "end_ms": 716920,
+   "ko": "있는 노래네요.네"
+  },
+  {
+   "start_ms": 714639,
+   "end_ms": 719480,
+   "ko": "그래서 굳이 산척하지 않아도이 노래는",
+   "speaker_change": true,
+   "en": "Yes, so even without taking a walk"
+  },
+  {
+   "start_ms": 716920,
+   "end_ms": 720800,
+   "ko": "그냥 듣고만 있어도 여름을 느낄 수가",
+   "en": "You can feel summer just by listening to this song"
+  },
+  {
+   "start_ms": 719480,
+   "end_ms": 722200,
+   "ko": "있는 그런 노래예요.",
+   "en": "That kind of song"
+  },
+  {
+   "start_ms": 720800,
+   "end_ms": 723480,
+   "ko": "음. 음, 좋습니다.",
+   "speaker_change": true,
+   "en": "That's great"
+  },
+  {
+   "start_ms": 722200,
+   "end_ms": 726480,
+   "ko": "한번 들어 보실래요?",
+   "speaker_change": true,
+   "en": "Would you like to listen to it once?"
+  },
+  {
+   "start_ms": 723480,
+   "end_ms": 726480,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 726680,
+   "end_ms": 730079,
+   "ko": "여름",
+   "speaker_change": true,
+   "en": "Summer...✨"
+  },
+  {
+   "start_ms": 729079,
+   "end_ms": 731160,
+   "ko": "아니,",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 730079,
+   "end_ms": 734040,
+   "ko": "여름 그 자체",
+   "speaker_change": true,
+   "en": "Summer itself..."
+  },
+  {
+   "start_ms": 731160,
+   "end_ms": 734880,
+   "ko": "이게 뮤비만 이런게 아니죠.",
+   "speaker_change": true,
+   "en": "It's not just in the music video, right?"
+  },
+  {
+   "start_ms": 734040,
+   "end_ms": 738079,
+   "ko": "뭐가요?",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 734880,
+   "end_ms": 740040,
+   "ko": "아, 아, 그 지금 우리가 뮤비를",
+   "speaker_change": true,
+   "en": "What do you mean?"
+  },
+  {
+   "start_ms": 738079,
+   "end_ms": 740920,
+   "ko": "들었잖아요. 네. 네. 네. 뮤직",
+   "en": "We just listened to the music video"
+  },
+  {
+   "start_ms": 740040,
+   "end_ms": 741360,
+   "ko": "비디오."
+  },
+  {
+   "start_ms": 740920,
+   "end_ms": 742920,
+   "ko": "예.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 741360,
+   "end_ms": 744399,
+   "ko": "아, 그까 뮤직 비디오만 이런게",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 742920,
+   "end_ms": 745000,
+   "ko": "아니라 이제 그냥",
+   "en": "It's not just in the music video"
+  },
+  {
+   "start_ms": 744399,
+   "end_ms": 746440,
+   "ko": "아니에요. 아니에요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 745000,
+   "end_ms": 748959,
+   "ko": "노래만 들어도 이렇다는 거죠.",
+   "speaker_change": true,
+   "en": "Even if you just listen to the song, it's like that, right?"
+  },
+  {
+   "start_ms": 746440,
+   "end_ms": 749560,
+   "ko": "노래만 들어도 이런 소리들이 깔려",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 748959,
+   "end_ms": 752160,
+   "ko": "있어요.",
+   "en": "Even just listening to the song, there are these sounds layered in"
+  },
+  {
+   "start_ms": 749560,
+   "end_ms": 754279,
+   "ko": "어.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 752160,
+   "end_ms": 756279,
+   "ko": "들었어요? 얼음잔 소리.",
+   "en": "Did you hear them?"
+  },
+  {
+   "start_ms": 754279,
+   "end_ms": 757560,
+   "ko": "어,",
+   "speaker_change": true,
+   "en": "The sound of ice in a glass?"
+  },
+  {
+   "start_ms": 756279,
+   "end_ms": 760120,
+   "ko": "들렸어요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 757560,
+   "end_ms": 763120,
+   "ko": "이런 소리들이 들어 있어요.",
+   "speaker_change": true,
+   "en": "I heard it, there are sounds like that in it"
+  },
+  {
+   "start_ms": 760120,
+   "end_ms": 763120,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 764839,
+   "end_ms": 768959,
+   "ko": "자, 그래서 가사를 한번",
+   "speaker_change": true,
+   "en": "So I wanted to explain the lyrics to you"
+  },
+  {
+   "start_ms": 767320,
+   "end_ms": 769600,
+   "ko": "설명해 드리고 싶은데",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 768959,
+   "end_ms": 771240,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 769600,
+   "end_ms": 774880,
+   "ko": "나츠노세이라고",
+   "speaker_change": true,
+   "en": "It's called \"natsu no sei,\" and"
+  },
+  {
+   "start_ms": 771240,
+   "end_ms": 779360,
+   "ko": "해서 그 여름의 그림자라는 뜻이",
+   "en": "it can mean \"summer's shadow,\""
+  },
+  {
+   "start_ms": 774880,
+   "end_ms": 783120,
+   "ko": "되기도 하는데 여기 그 동음의요라고",
+   "en": "what do you call that, a \"homonym\"?"
+  },
+  {
+   "start_ms": 779360,
+   "end_ms": 786480,
+   "ko": "하나요? 같은 소데 뜻이 다른 거",
+   "en": "Same sound but different meaning"
+  },
+  {
+   "start_ms": 783120,
+   "end_ms": 788040,
+   "ko": "이게 여름의 탓, 여름 때문에라는",
+   "speaker_change": true,
+   "en": "It also means \"summer's fault,\" \"because of summer\""
+  },
+  {
+   "start_ms": 786480,
+   "end_ms": 789000,
+   "ko": "뜻도 돼요."
+  },
+  {
+   "start_ms": 788040,
+   "end_ms": 792639,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 789000,
+   "end_ms": 795600,
+   "ko": "그래서 완전 청춘 가사거든요. 가사도",
+   "speaker_change": true,
+   "en": "So it's completely youth lyrics, the lyrics too"
+  },
+  {
+   "start_ms": 792639,
+   "end_ms": 797519,
+   "ko": "막 더워서",
+   "en": "Like it's so hot..."
+  },
+  {
+   "start_ms": 795600,
+   "end_ms": 798839,
+   "ko": "예를 들면 좋아하는 사람이랑 있는데",
+   "en": "For example, you're with someone you like and your face gets red"
+  },
+  {
+   "start_ms": 797519,
+   "end_ms": 799560,
+   "ko": "얼굴이 빨개졌어."
+  },
+  {
+   "start_ms": 798839,
+   "end_ms": 802839,
+   "ko": "어.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 799560,
+   "end_ms": 803120,
+   "ko": "근데 그거는 여름 탓을 하는 거예요.",
+   "speaker_change": true,
+   "en": "But you're blaming it on summer"
+  },
+  {
+   "start_ms": 802839,
+   "end_ms": 805519,
+   "ko": "오.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 803120,
+   "end_ms": 805839,
+   "ko": "이건 여름이라서 그래.",
+   "speaker_change": true,
+   "en": "It's because it's summer"
+  },
+  {
+   "start_ms": 805519,
+   "end_ms": 808920,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 805839,
+   "end_ms": 811399,
+   "ko": "이런 전체적인 가사. 그 어렸을 때",
+   "speaker_change": true,
+   "en": "This whole lyrical theme of youthful freshness when you're young"
+  },
+  {
+   "start_ms": 808920,
+   "end_ms": 813839,
+   "ko": "폭푸탐. 으, 풋풋하네요.",
+   "en": "It's so fresh"
+  },
+  {
+   "start_ms": 811399,
+   "end_ms": 816959,
+   "ko": "네. 여름 탓으로 돌렸는데 하지만",
+   "speaker_change": true,
+   "en": "Blaming it on summer"
+  },
+  {
+   "start_ms": 813839,
+   "end_ms": 819480,
+   "ko": "분명히 나는 그 시절을 기억하고",
+   "en": "But I clearly remember that time"
+  },
+  {
+   "start_ms": 816959,
+   "end_ms": 820199,
+   "ko": "있다. 이렇게 마무리가 되는"
+  },
+  {
+   "start_ms": 819480,
+   "end_ms": 823160,
+   "ko": "음",
+   "speaker_change": true,
+   "en": "It ends like this—youth, summer,"
+  },
+  {
+   "start_ms": 820199,
+   "end_ms": 824920,
+   "ko": "청춘, 여름,",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 823160,
+   "end_ms": 825639,
+   "ko": "자연 이런 노래입니다.",
+   "speaker_change": true,
+   "en": "nature, that kind of song"
+  },
+  {
+   "start_ms": 824920,
+   "end_ms": 827240,
+   "ko": "와",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 825639,
+   "end_ms": 827920,
+   "ko": "다르죠. 아까 태웅 쌤이랑",
+   "speaker_change": true,
+   "en": "It's different, right, from what Tae-woong brought earlier"
+  },
+  {
+   "start_ms": 827240,
+   "end_ms": 829000,
+   "ko": "어터",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 827920,
+   "end_ms": 831639,
+   "ko": "가져온 거랑",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 829000,
+   "end_ms": 835079,
+   "ko": "그게 더 산책에 어울리는 거 같네요.",
+   "speaker_change": true,
+   "en": "That one seems more suited for a walk"
+  },
+  {
+   "start_ms": 831639,
+   "end_ms": 836880,
+   "ko": "아 그래요? 왜요? 아니에요.",
+   "speaker_change": true,
+   "en": "Oh really? Why? No, it's not"
+  },
+  {
+   "start_ms": 835079,
+   "end_ms": 837720,
+   "ko": "좀 아까"
+  },
+  {
+   "start_ms": 836880,
+   "end_ms": 840440,
+   "ko": "네",
+   "speaker_change": true,
+   "en": "When I listened to Tae-woong's song earlier"
+  },
+  {
+   "start_ms": 837720,
+   "end_ms": 840880,
+   "ko": "태용 쌤 노래 들으면서 되게 신나게",
+   "speaker_change": true,
+   "en": "I walked pretty energetically"
+  },
+  {
+   "start_ms": 840440,
+   "end_ms": 844199,
+   "ko": "네네"
+  },
+  {
+   "start_ms": 840880,
+   "end_ms": 848279,
+   "ko": "걸었다면 이거는 느긋하게 바람을 좀",
+   "speaker_change": true,
+   "en": "With this one, you'd walk leisurely, feeling the breeze a bit"
+  },
+  {
+   "start_ms": 844199,
+   "end_ms": 849240,
+   "ko": "느끼면서 느긋하게 산책할 때 들으면",
+   "en": "I think it would be nice to listen to while taking a relaxed walk"
+  },
+  {
+   "start_ms": 848279,
+   "end_ms": 851120,
+   "ko": "좋을 거 같아요."
+  },
+  {
+   "start_ms": 849240,
+   "end_ms": 854759,
+   "ko": "아 근데 사실 산책 이렇게 느긋하게",
+   "speaker_change": true,
+   "en": "But actually, who takes a walk that leisurely? Nobody really does that"
+  },
+  {
+   "start_ms": 851120,
+   "end_ms": 856360,
+   "ko": "하지. 누가 막 이렇게 합니까?"
+  },
+  {
+   "start_ms": 854759,
+   "end_ms": 858399,
+   "ko": "치듬. 예. 아",
+   "speaker_change": true,
+   "en": "Boom-chick boom-chick"
+  },
+  {
+   "start_ms": 856360,
+   "end_ms": 859759,
+   "ko": "스트레스가 많으면 그럴 수도 있어요.",
+   "speaker_change": true,
+   "en": "If you have a lot of stress, you might"
+  },
+  {
+   "start_ms": 858399,
+   "end_ms": 861600,
+   "ko": "아 그럴 수도 있죠. 맞아요.",
+   "speaker_change": true,
+   "en": "You might, that's true"
+  },
+  {
+   "start_ms": 859759,
+   "end_ms": 862279,
+   "ko": "음. 제가 스트레스가 좀 많은가",
+   "speaker_change": true,
+   "en": "I guess I have quite a bit of stress these days"
+  },
+  {
+   "start_ms": 861600,
+   "end_ms": 863480,
+   "ko": "봅니다. 요즘"
+  },
+  {
+   "start_ms": 862279,
+   "end_ms": 864000,
+   "ko": "그런가 봐요.",
+   "speaker_change": true,
+   "en": "Seems like it"
+  },
+  {
+   "start_ms": 863480,
+   "end_ms": 865560,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 864000,
+   "end_ms": 867440,
+   "ko": "어깨도 풀어주고.",
+   "speaker_change": true,
+   "en": "Loosen up your shoulders too..."
+  },
+  {
+   "start_ms": 865560,
+   "end_ms": 868800,
+   "ko": "네. 아, 그렇네요.",
+   "speaker_change": true,
+   "en": "Yeah, that's right"
+  },
+  {
+   "start_ms": 867440,
+   "end_ms": 869759,
+   "ko": "네. 이게 저의 첫 번째",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 868800,
+   "end_ms": 872360,
+   "ko": "노래였습니다."
+  },
+  {
+   "start_ms": 869759,
+   "end_ms": 874519,
+   "ko": "음.",
+   "speaker_change": true,
+   "en": "That was my first song"
+  },
+  {
+   "start_ms": 872360,
+   "end_ms": 878000,
+   "ko": "가끔 이렇게"
+  },
+  {
+   "start_ms": 874519,
+   "end_ms": 880720,
+   "ko": "어, 자연의 소리",
+   "en": "Sometimes, like, sounds of nature?"
+  },
+  {
+   "start_ms": 878000,
+   "end_ms": 882639,
+   "ko": "이런 거를 노래 넣는",
+   "en": "These kinds of techniques of putting them in songs,"
+  },
+  {
+   "start_ms": 880720,
+   "end_ms": 883279,
+   "ko": "그 방법, 기법들이",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 882639,
+   "end_ms": 885320,
+   "ko": "어, 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 883279,
+   "end_ms": 886480,
+   "ko": "어, 되게 좋은 거 같더라고요.",
+   "speaker_change": true,
+   "en": "I think they're really good"
+  },
+  {
+   "start_ms": 885320,
+   "end_ms": 890759,
+   "ko": "맞아요.",
+   "speaker_change": true,
+   "en": "That's right"
+  },
+  {
+   "start_ms": 886480,
+   "end_ms": 893560,
+   "ko": "네. 그 제가 좋아하는 일본 DJ가",
+   "speaker_change": true,
+   "en": "I have a favorite Japanese DJ"
+  },
+  {
+   "start_ms": 890759,
+   "end_ms": 894480,
+   "ko": "있는데 지금은이 세상에 없는 분이",
+   "en": "Someone who's no longer in this world now"
+  },
+  {
+   "start_ms": 893560,
+   "end_ms": 895079,
+   "ko": "있는데"
+  },
+  {
+   "start_ms": 894480,
+   "end_ms": 901360,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 895079,
+   "end_ms": 905279,
+   "ko": "그분이 만든 곡 중에 그 이제 어",
+   "speaker_change": true,
+   "en": "Among the songs that person made"
+  },
+  {
+   "start_ms": 901360,
+   "end_ms": 908639,
+   "ko": "드럼 스네어라고 하는 이제 궁 궁탕",
+   "en": "There's a drum snare, you know, boom boom tap boom tap,"
+  },
+  {
+   "start_ms": 905279,
+   "end_ms": 909440,
+   "ko": "궁탕 하면 그 탕탕 소리 나는 악기를"
+  },
+  {
+   "start_ms": 908639,
+   "end_ms": 911759,
+   "ko": "네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 909440,
+   "end_ms": 913959,
+   "ko": "그 귀뚜라미 소리로",
+   "speaker_change": true,
+   "en": "there's a song where the instrument that makes that tapping sound is expressed as a cricket sound"
+  },
+  {
+   "start_ms": 911759,
+   "end_ms": 914800,
+   "ko": "그 표현한 곡이 있거든요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 913959,
+   "end_ms": 917600,
+   "ko": "네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 914800,
+   "end_ms": 919959,
+   "ko": "그 누자베스라는 DJ의 DJ",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 917600,
+   "end_ms": 921240,
+   "ko": "프로듀서의 곡이 하나 있는데",
+   "en": "There's a song by a DJ producer named Nujabes"
+  },
+  {
+   "start_ms": 919959,
+   "end_ms": 924199,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 921240,
+   "end_ms": 927079,
+   "ko": "근데 그것도 좋습니다. 밖에 나가서",
+   "en": "That's good too"
+  },
+  {
+   "start_ms": 924199,
+   "end_ms": 927920,
+   "ko": "풀벌레에 우는 시즌에 들으면 아주",
+   "en": "If you go outside and listen to it during grass insect season, it's really nice"
+  },
+  {
+   "start_ms": 927079,
+   "end_ms": 929920,
+   "ko": "좋습니다."
+  },
+  {
+   "start_ms": 927920,
+   "end_ms": 933399,
+   "ko": "그러니까 이게 지금 내 이어폰에서",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 929920,
+   "end_ms": 935440,
+   "ko": "나는 소린지 밖에서 나는 소린지",
+   "en": "So it's like, is this sound coming from my earphones or from outside"
+  },
+  {
+   "start_ms": 933399,
+   "end_ms": 936839,
+   "ko": "조화롭게 섞이는",
+   "en": "I think the experience of them blending together harmoniously is nice"
+  },
+  {
+   "start_ms": 935440,
+   "end_ms": 939360,
+   "ko": "경험이 좋은 거 같아요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 936839,
+   "end_ms": 941040,
+   "ko": "맞아요. 맞아요.",
+   "speaker_change": true,
+   "en": "That's right, that's right"
+  },
+  {
+   "start_ms": 939360,
+   "end_ms": 943680,
+   "ko": "이렇게 저는 일본 곡 하나",
+   "speaker_change": true,
+   "en": "So I brought one Japanese song like this."
+  },
+  {
+   "start_ms": 941040,
+   "end_ms": 945120,
+   "ko": "가져왔고요. 두 번째 태용 쌤의 추천",
+   "en": "What's the second song that Teacher Tae-woong recommends?"
+  },
+  {
+   "start_ms": 943680,
+   "end_ms": 949480,
+   "ko": "곡은 어떤 건가요?"
+  },
+  {
+   "start_ms": 945120,
+   "end_ms": 951040,
+   "ko": "네. 제가 두 번째로 뽑은 곡은 어이",
+   "speaker_change": true,
+   "en": "The second song I picked is"
+  },
+  {
+   "start_ms": 949480,
+   "end_ms": 951440,
+   "ko": "킹TS",
+   "en": "This... King TS!"
+  },
+  {
+   "start_ms": 951040,
+   "end_ms": 953759,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 951440,
+   "end_ms": 956160,
+   "ko": "BTS의",
+   "speaker_change": true,
+   "en": "BTS's..."
+  },
+  {
+   "start_ms": 953759,
+   "end_ms": 958480,
+   "ko": "무슨 소린가 했네. 네.",
+   "speaker_change": true,
+   "en": "ㅋㅋㅋ I wasn't sure what you were saying, yes."
+  },
+  {
+   "start_ms": 956160,
+   "end_ms": 959720,
+   "ko": "예. 킹 킹TS 갓 갓티 TS의",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 958480,
+   "end_ms": 962240,
+   "ko": "네. 갓티 TS의",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 959720,
+   "end_ms": 966880,
+   "ko": "네. 낙원이라는 곡입니다.",
+   "speaker_change": true,
+   "en": "It's a song called \"Paradise\" by Got7 (Got+TS)."
+  },
+  {
+   "start_ms": 962240,
+   "end_ms": 968959,
+   "ko": "아 좋은데. 약간 한국 곡 억지로",
+   "speaker_change": true,
+   "en": "That's nice, but... Aren't you kind of forcing a Korean song"
+  },
+  {
+   "start_ms": 966880,
+   "end_ms": 969519,
+   "ko": "가져오려고"
+  },
+  {
+   "start_ms": 968959,
+   "end_ms": 973000,
+   "ko": "어 억지로",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 969519,
+   "end_ms": 976399,
+   "ko": "의도에서 BTS 고르신 거 아닌가요?",
+   "speaker_change": true,
+   "en": "and intentionally picking BTS?"
+  },
+  {
+   "start_ms": 973000,
+   "end_ms": 979959,
+   "ko": "억지로라고는 하지 마십시오.",
+   "speaker_change": true,
+   "en": "Please don't say I forced it."
+  },
+  {
+   "start_ms": 976399,
+   "end_ms": 981920,
+   "ko": "어 뭐 감히 해야 되는데 이러면서",
+   "en": "Like \"I have to do a Korean song\" and..."
+  },
+  {
+   "start_ms": 979959,
+   "end_ms": 983319,
+   "ko": "지금 BTS 지금 억지로 갖고 왔다고",
+   "speaker_change": true,
+   "en": "You can't say I forcibly brought BTS."
+  },
+  {
+   "start_ms": 981920,
+   "end_ms": 984800,
+   "ko": "하시면 안 됩니다."
+  },
+  {
+   "start_ms": 983319,
+   "end_ms": 987079,
+   "ko": "지금 조심하세요.",
+   "speaker_change": true,
+   "en": "Be careful ㅋㅋㅋ"
+  },
+  {
+   "start_ms": 984800,
+   "end_ms": 990040,
+   "ko": "아 진짜 좋아해서 가져오신 거죠?",
+   "speaker_change": true,
+   "en": "You really like it and brought it, right?"
+  },
+  {
+   "start_ms": 987079,
+   "end_ms": 993240,
+   "ko": "아네 그 저는",
+   "speaker_change": true,
+   "en": "Ah yes, yes."
+  },
+  {
+   "start_ms": 990040,
+   "end_ms": 995600,
+   "ko": "어 저는 사실 BTS나 뭐 뭐 뭐",
+   "en": "I'm... actually not a fan of idols like BTS or BLACKPINK."
+  },
+  {
+   "start_ms": 993240,
+   "end_ms": 998560,
+   "ko": "블랙핑크나 이런"
+  },
+  {
+   "start_ms": 995600,
+   "end_ms": 1000160,
+   "ko": "아이돌의 팬이 아닙니다. 음."
+  },
+  {
+   "start_ms": 998560,
+   "end_ms": 1004560,
+   "ko": "정말 솔직히 얘기해서",
+   "speaker_change": true,
+   "en": "To be really honest about it,"
+  },
+  {
+   "start_ms": 1000160,
+   "end_ms": 1007199,
+   "ko": "네. 그런데 제가 듣기에 좋은 노래들",
+   "speaker_change": true,
+   "en": "but songs that sound good to me,"
+  },
+  {
+   "start_ms": 1004560,
+   "end_ms": 1009639,
+   "ko": "그냥 좋은 노래는 상관없이 좋아해요.",
+   "en": "I like them regardless of whether they're just good songs."
+  },
+  {
+   "start_ms": 1007199,
+   "end_ms": 1012000,
+   "ko": "네. 근데 그래서 그중에 좋아하는",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1009639,
+   "end_ms": 1012920,
+   "ko": "BTS의 노래들이 여러 곡 있는데",
+   "en": "But that's why there are several BTS songs I like among them,"
+  },
+  {
+   "start_ms": 1012000,
+   "end_ms": 1014480,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1012920,
+   "end_ms": 1015440,
+   "ko": "그 중에 하나입니다.",
+   "speaker_change": true,
+   "en": "and this is one of them."
+  },
+  {
+   "start_ms": 1014480,
+   "end_ms": 1018000,
+   "ko": "오",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1015440,
+   "end_ms": 1021519,
+   "ko": "참고로 블랙핑크 노래 중에는 릴리라는",
+   "speaker_change": true,
+   "en": "By the way, among BLACKPINK songs,"
+  },
+  {
+   "start_ms": 1018000,
+   "end_ms": 1025640,
+   "ko": "노래를 제일 좋아합니다. 윌리",
+   "en": "I like the song \"Lily\" the best."
+  },
+  {
+   "start_ms": 1021519,
+   "end_ms": 1028199,
+   "ko": "네. 네. 네. 어. 어.",
+   "en": "<Really>"
+  },
+  {
+   "start_ms": 1025640,
+   "end_ms": 1030280,
+   "ko": "네. Really? 네. 이거요",
+   "speaker_change": true,
+   "en": "It's \"Really?!\""
+  },
+  {
+   "start_ms": 1028199,
+   "end_ms": 1030880,
+   "ko": "발음이 이상해서 다시 말해 봤는데",
+   "speaker_change": true,
+   "en": "The pronunciation was strange so I said it again,"
+  },
+  {
+   "start_ms": 1030280,
+   "end_ms": 1032120,
+   "ko": "아무튼"
+  },
+  {
+   "start_ms": 1030880,
+   "end_ms": 1035319,
+   "ko": "네.이",
+   "speaker_change": true,
+   "en": "Anyway, BTS's Paradise,"
+  },
+  {
+   "start_ms": 1032120,
+   "end_ms": 1036760,
+   "ko": "BTS의 낙원 영어 영어 이름이 따로",
+   "speaker_change": true,
+   "en": "it probably has a separate English name."
+  },
+  {
+   "start_ms": 1035319,
+   "end_ms": 1038559,
+   "ko": "있을 거예요, 아마."
+  },
+  {
+   "start_ms": 1036760,
+   "end_ms": 1039520,
+   "ko": "패라다이스인 거 같아요.",
+   "speaker_change": true,
+   "en": "I think it's Paradise."
+  },
+  {
+   "start_ms": 1038559,
+   "end_ms": 1040240,
+   "ko": "맞아요.",
+   "speaker_change": true,
+   "en": "That's right."
+  },
+  {
+   "start_ms": 1039520,
+   "end_ms": 1042360,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1040240,
+   "end_ms": 1043640,
+   "ko": "그래서 그 노래를 가지고 왔는데요.",
+   "speaker_change": true,
+   "en": "So I brought that song,"
+  },
+  {
+   "start_ms": 1042360,
+   "end_ms": 1046760,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1043640,
+   "end_ms": 1049600,
+   "ko": "가사가 대부분이 한국어인데",
+   "speaker_change": true,
+   "en": "and most of the lyrics are in Korean,"
+  },
+  {
+   "start_ms": 1046760,
+   "end_ms": 1050640,
+   "ko": "음. 저는 그런 한국 노래를 되게",
+   "speaker_change": true,
+   "en": "and I really like Korean songs like that."
+  },
+  {
+   "start_ms": 1049600,
+   "end_ms": 1051440,
+   "ko": "좋아하거든요."
+  },
+  {
+   "start_ms": 1050640,
+   "end_ms": 1056200,
+   "ko": "응. 응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1051440,
+   "end_ms": 1058600,
+   "ko": "요즘 한국 팝 뭐 힙합 노래들이",
+   "speaker_change": true,
+   "en": "These days Korean pop and hip-hop songs"
+  },
+  {
+   "start_ms": 1056200,
+   "end_ms": 1059960,
+   "ko": "한국어 조금 있고 대부분 영어인",
+   "en": "often have a little Korean and mostly English,"
+  },
+  {
+   "start_ms": 1058600,
+   "end_ms": 1060760,
+   "ko": "경우가 많은데"
+  },
+  {
+   "start_ms": 1059960,
+   "end_ms": 1064120,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1060760,
+   "end_ms": 1065600,
+   "ko": "근데 한국어가 대부분인 가사가 그",
+   "speaker_change": true,
+   "en": "but lyrics that are mostly in Korean have so much charm."
+  },
+  {
+   "start_ms": 1064120,
+   "end_ms": 1067480,
+   "ko": "엄청 매력이 있더라고요."
+  },
+  {
+   "start_ms": 1065600,
+   "end_ms": 1070559,
+   "ko": "음. 저도 좋아해요.",
+   "speaker_change": true,
+   "en": "I like it too."
+  },
+  {
+   "start_ms": 1067480,
+   "end_ms": 1074160,
+   "ko": "네. 근데 그중에이",
+   "speaker_change": true,
+   "en": "Yes. But among them, this song \"Paradise\""
+  },
+  {
+   "start_ms": 1070559,
+   "end_ms": 1077679,
+   "ko": "낙원이라는 곡은 가사 메시지도 너무",
+   "en": "has such a good message in the lyrics too."
+  },
+  {
+   "start_ms": 1074160,
+   "end_ms": 1078760,
+   "ko": "좋아요. 아 이거는 뭐 그 가사",
+   "en": "This is... the entire lyrics"
+  },
+  {
+   "start_ms": 1077679,
+   "end_ms": 1079280,
+   "ko": "전체가"
+  },
+  {
+   "start_ms": 1078760,
+   "end_ms": 1083240,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1079280,
+   "end_ms": 1085600,
+   "ko": "어 어떤 꿈이라는 거에 대해서",
+   "speaker_change": true,
+   "en": "are about not carrying too much burden about a certain dream,"
+  },
+  {
+   "start_ms": 1083240,
+   "end_ms": 1086360,
+   "ko": "너무 부담감을 갖지 말라고"
+  },
+  {
+   "start_ms": 1085600,
+   "end_ms": 1088159,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1086360,
+   "end_ms": 1089080,
+   "ko": "좀 막 너무 대단한 꿈을 가질 필요",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1088159,
+   "end_ms": 1090159,
+   "ko": "없다.",
+   "en": "you don't need to have such a grand dream,"
+  },
+  {
+   "start_ms": 1089080,
+   "end_ms": 1092400,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1090159,
+   "end_ms": 1095640,
+   "ko": "그렇게 안심시켜 주고 좀 응원하고",
+   "speaker_change": true,
+   "en": "it reassures you like that and encourages you and"
+  },
+  {
+   "start_ms": 1092400,
+   "end_ms": 1096360,
+   "ko": "위로해 주는 편지 같은 메시지거든요.",
+   "en": "it's like a comforting letter message."
+  },
+  {
+   "start_ms": 1095640,
+   "end_ms": 1098880,
+   "ko": "네."
+  },
+  {
+   "start_ms": 1096360,
+   "end_ms": 1101120,
+   "ko": "그리고 비트도 좋습니다. 사실.",
+   "speaker_change": true,
+   "en": "And the beat is good too, actually."
+  },
+  {
+   "start_ms": 1098880,
+   "end_ms": 1103280,
+   "ko": "아, 좀 신나는 노래인가요? 이것도",
+   "speaker_change": true,
+   "en": "Oh, is this an upbeat song too?"
+  },
+  {
+   "start_ms": 1101120,
+   "end_ms": 1104280,
+   "ko": "그렇게 막 신나는 건 아니에요.",
+   "speaker_change": true,
+   "en": "It's not that upbeat like that."
+  },
+  {
+   "start_ms": 1103280,
+   "end_ms": 1104720,
+   "ko": "그래요?",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1104280,
+   "end_ms": 1105919,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Is that so? I should listen to it."
+  },
+  {
+   "start_ms": 1104720,
+   "end_ms": 1107039,
+   "ko": "들어봐야겠는데요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1105919,
+   "end_ms": 1110240,
+   "ko": "좋습니다.",
+   "speaker_change": true,
+   "en": "Good."
+  },
+  {
+   "start_ms": 1107039,
+   "end_ms": 1110240,
+   "ko": "먼저 들어보겠습니다.",
+   "speaker_change": true,
+   "en": "Let me listen to it first."
+  },
+  {
+   "start_ms": 1110600,
+   "end_ms": 1113720,
+   "ko": "어떻게 난 이걸 처음 들어봤을까?",
+   "en": "How have I never heard this before?"
+  },
+  {
+   "start_ms": 1112400,
+   "end_ms": 1116320,
+   "ko": "처음 들어봐요.",
+   "en": "I'm hearing it for the first time."
+  },
+  {
+   "start_ms": 1113720,
+   "end_ms": 1118000,
+   "ko": "어,이 앨범에 또 좋은 노래들이 여러",
+   "speaker_change": true,
+   "en": "There are several other good songs on this album too."
+  },
+  {
+   "start_ms": 1116320,
+   "end_ms": 1119940,
+   "ko": "개 있어요."
+  },
+  {
+   "start_ms": 1118000,
+   "end_ms": 1122999,
+   "ko": "제가 좋아하는 노래들이."
+  },
+  {
+   "start_ms": 1119940,
+   "end_ms": 1122999,
+   "ko": "[음악]",
+   "en": "Songs that I like."
+  },
+  {
+   "start_ms": 1124000,
+   "end_ms": 1128360,
+   "ko": "제가 좋아하는 부분은 뒤에 나와요.",
+   "en": "The part I like comes later."
+  },
+  {
+   "start_ms": 1129159,
+   "end_ms": 1136000,
+   "ko": "완전 보이 그룹 같은 그 느낌이",
+   "speaker_change": true,
+   "en": "It has a completely boy group kind of feel."
+  },
+  {
+   "start_ms": 1133000,
+   "end_ms": 1136000,
+   "ko": "나요."
+  },
+  {
+   "start_ms": 1136120,
+   "end_ms": 1142080,
+   "ko": "가사가 되게 위로를 해주는 내용이죠.",
+   "speaker_change": true,
+   "en": "The lyrics are really comforting content."
+  },
+  {
+   "start_ms": 1139039,
+   "end_ms": 1144360,
+   "ko": "괜찮아. 띵딩띵딩.",
+   "speaker_change": true,
+   "en": "That's fine~ Ding ding ding ding ding~"
+  },
+  {
+   "start_ms": 1142080,
+   "end_ms": 1145480,
+   "ko": "이렇게이 아마이 곡을 유튜브에서",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1144360,
+   "end_ms": 1146440,
+   "ko": "찾으면",
+   "en": "If you probably search for this song on YouTube,"
+  },
+  {
+   "start_ms": 1145480,
+   "end_ms": 1148039,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1146440,
+   "end_ms": 1150840,
+   "ko": "어,"
+  },
+  {
+   "start_ms": 1148039,
+   "end_ms": 1152240,
+   "ko": "가사가 좋다는 댓글이 엄청 많이",
+   "en": "you'll see a ton of comments saying the lyrics are good."
+  },
+  {
+   "start_ms": 1150840,
+   "end_ms": 1154320,
+   "ko": "보이거든요."
+  },
+  {
+   "start_ms": 1152240,
+   "end_ms": 1159320,
+   "ko": "아, 네. 네. 네. 네. 그러네요.",
+   "speaker_change": true,
+   "en": "Oh yeah, yeah, yeah, that's right."
+  },
+  {
+   "start_ms": 1154320,
+   "end_ms": 1161120,
+   "ko": "실제로 이런 BTS 같은팝",
+   "speaker_change": true,
+   "en": "Actually, with K-pop groups like BTS,"
+  },
+  {
+   "start_ms": 1159320,
+   "end_ms": 1163280,
+   "ko": "어, 그룹들의"
+  },
+  {
+   "start_ms": 1161120,
+   "end_ms": 1163880,
+   "ko": "가사를 이해하고 싶어서",
+   "en": "there are a lot of people who start learning Korean"
+  },
+  {
+   "start_ms": 1163280,
+   "end_ms": 1167080,
+   "ko": "응응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1163880,
+   "end_ms": 1168520,
+   "ko": "한국어를 배우기 시작하는 분들도 많은",
+   "speaker_change": true,
+   "en": "because they want to understand the lyrics."
+  },
+  {
+   "start_ms": 1167080,
+   "end_ms": 1169240,
+   "ko": "걸로 알고 있어요."
+  },
+  {
+   "start_ms": 1168520,
+   "end_ms": 1173159,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1169240,
+   "end_ms": 1174039,
+   "ko": "근데 이왕이면 그 가사의 메시지나",
+   "speaker_change": true,
+   "en": "But if possible, I think it's good when people like"
+  },
+  {
+   "start_ms": 1173159,
+   "end_ms": 1176919,
+   "ko": "음. 음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1174039,
+   "end_ms": 1177480,
+   "ko": "어, 그런 어, 뭐랄까 감성",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1176919,
+   "end_ms": 1180640,
+   "ko": "응. 응. 응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1177480,
+   "end_ms": 1182039,
+   "ko": "그런게 좋 좋으면 좋다고",
+   "speaker_change": true,
+   "en": "the message of the lyrics or, how do I put it, the emotional tone and things like that."
+  },
+  {
+   "start_ms": 1180640,
+   "end_ms": 1183120,
+   "ko": "생각하거든요."
+  },
+  {
+   "start_ms": 1182039,
+   "end_ms": 1183520,
+   "ko": "맞아요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1183120,
+   "end_ms": 1185360,
+   "ko": "네. 아,",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1183520,
+   "end_ms": 1186559,
+   "ko": "그래야 더 노래도 네.",
+   "speaker_change": true,
+   "en": "That's right, and then you listen to the song more."
+  },
+  {
+   "start_ms": 1185360,
+   "end_ms": 1190240,
+   "ko": "듣게 되고.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1186559,
+   "end_ms": 1193120,
+   "ko": "네. 그 저는 한국어를 배우시는",
+   "speaker_change": true,
+   "en": "Yes, I hope that people learning Korean"
+  },
+  {
+   "start_ms": 1190240,
+   "end_ms": 1194640,
+   "ko": "분들이 좀 좋은 감성으로 입문을",
+   "en": "can start with a good emotional foundation."
+  },
+  {
+   "start_ms": 1193120,
+   "end_ms": 1197679,
+   "ko": "하시면 좋겠어요."
+  },
+  {
+   "start_ms": 1194640,
+   "end_ms": 1199760,
+   "ko": "음. 음. 반대의 케이스가 있어요?",
+   "speaker_change": true,
+   "en": "Is there a case of the opposite?"
+  },
+  {
+   "start_ms": 1197679,
+   "end_ms": 1202480,
+   "ko": "아, 뭐",
+   "speaker_change": true,
+   "en": "Well, I don't think there really is..."
+  },
+  {
+   "start_ms": 1199760,
+   "end_ms": 1203919,
+   "ko": "없는 거 같긴 한데 예를 들면 뭐",
+   "en": "For example,"
+  },
+  {
+   "start_ms": 1202480,
+   "end_ms": 1205559,
+   "ko": "욕이나 비난이",
+   "en": "curses or insults..."
+  },
+  {
+   "start_ms": 1203919,
+   "end_ms": 1208000,
+   "ko": "아, 네. 네. 네. 음.",
+   "speaker_change": true,
+   "en": "Oh yeah, yeah, I understand."
+  },
+  {
+   "start_ms": 1205559,
+   "end_ms": 1211080,
+   "ko": "이해됐어요. 네. 네. 많이 있는",
+   "en": "Yeah, if there are a lot of those and people start with that,"
+  },
+  {
+   "start_ms": 1208000,
+   "end_ms": 1212000,
+   "ko": "걸로 입문을 하면 아무래도 좀"
+  },
+  {
+   "start_ms": 1211080,
+   "end_ms": 1213880,
+   "ko": "아, 그죠. 그죠.",
+   "speaker_change": true,
+   "en": "I think it might not be so good, you know?"
+  },
+  {
+   "start_ms": 1212000,
+   "end_ms": 1216240,
+   "ko": "그렇지 않을까 싶은데 그이 비단",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1213880,
+   "end_ms": 1218320,
+   "ko": "노래뿐만이 아니라 네.",
+   "en": "And it's not just songs—"
+  },
+  {
+   "start_ms": 1216240,
+   "end_ms": 1221320,
+   "ko": "네. 그 한국의 컨텐츠들이 굉장히",
+   "speaker_change": true,
+   "en": "there's a huge amount of Korean content out there."
+  },
+  {
+   "start_ms": 1218320,
+   "end_ms": 1222720,
+   "ko": "많잖아요. 근데 그중에는 뭐 약자를"
+  },
+  {
+   "start_ms": 1221320,
+   "end_ms": 1223600,
+   "ko": "조롱한다거나",
+   "en": "But some of it mocks the weak,"
+  },
+  {
+   "start_ms": 1222720,
+   "end_ms": 1225679,
+   "ko": "응. 응. 응. 음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1223600,
+   "end_ms": 1226600,
+   "ko": "뭐 나랑 생각이 다른 사람들한테 화를",
+   "speaker_change": true,
+   "en": "or gets angry at people who think differently,"
+  },
+  {
+   "start_ms": 1225679,
+   "end_ms": 1227360,
+   "ko": "내거나"
+  },
+  {
+   "start_ms": 1226600,
+   "end_ms": 1230280,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1227360,
+   "end_ms": 1232600,
+   "ko": "좀 그런 식의 콘텐츠로",
+   "speaker_change": true,
+   "en": "or that kind of content,"
+  },
+  {
+   "start_ms": 1230280,
+   "end_ms": 1234120,
+   "ko": "한국을 접하고 한국어를 접할 수도",
+   "en": "and people could encounter Korea and Korean through that."
+  },
+  {
+   "start_ms": 1232600,
+   "end_ms": 1236120,
+   "ko": "있는데 음"
+  },
+  {
+   "start_ms": 1234120,
+   "end_ms": 1238559,
+   "ko": "근데 최대 가능하면 최대한 이렇게",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1236120,
+   "end_ms": 1243400,
+   "ko": "밝고 좀 긍정적이고",
+   "en": "But I think it would be nice if people could encounter Korea"
+  },
+  {
+   "start_ms": 1238559,
+   "end_ms": 1244480,
+   "ko": "좀 희망적인 걸로 한국을 접하면 좋을",
+   "en": "as brightly, positively, and hopefully as possible."
+  },
+  {
+   "start_ms": 1243400,
+   "end_ms": 1247640,
+   "ko": "것 같아요."
+  },
+  {
+   "start_ms": 1244480,
+   "end_ms": 1248919,
+   "ko": "네. 한국어 배우실 때도 아름다운",
+   "speaker_change": true,
+   "en": "Yes, and when learning Korean,"
+  },
+  {
+   "start_ms": 1247640,
+   "end_ms": 1251400,
+   "ko": "한국어",
+   "en": "I think it's good to hear a lot of beautiful Korean."
+  },
+  {
+   "start_ms": 1248919,
+   "end_ms": 1252960,
+   "ko": "많이 들으시면 좋을 거 같아요. 그",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1251400,
+   "end_ms": 1255799,
+   "ko": "K팝이"
+  },
+  {
+   "start_ms": 1252960,
+   "end_ms": 1257840,
+   "ko": "뭐 한류 열풍이다 이러면서 전",
+   "speaker_change": true,
+   "en": "K-pop is spreading worldwide as this Korean Wave phenomenon,"
+  },
+  {
+   "start_ms": 1255799,
+   "end_ms": 1258480,
+   "ko": "세계적으로 나가고 있잖아요.",
+   "en": "you know?"
+  },
+  {
+   "start_ms": 1257840,
+   "end_ms": 1261480,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1258480,
+   "end_ms": 1263919,
+   "ko": "근데 전 이게 처음으로 처음에는 그냥",
+   "speaker_change": true,
+   "en": "But at first, I thought"
+  },
+  {
+   "start_ms": 1261480,
+   "end_ms": 1266720,
+   "ko": "그 퍼포먼스가 좋아서 좋아하시는 줄",
+   "en": "people just liked it because the performance was good."
+  },
+  {
+   "start_ms": 1263919,
+   "end_ms": 1269000,
+   "ko": "알았는데 이런 가사를 보고 되게",
+   "en": "But when I see lyrics like these,"
+  },
+  {
+   "start_ms": 1266720,
+   "end_ms": 1270000,
+   "ko": "위로를 받고 하시는 분들도 있는 거",
+   "en": "it seems like there are people who get real comfort from them,"
+  },
+  {
+   "start_ms": 1269000,
+   "end_ms": 1273200,
+   "ko": "같아 가지고"
+  },
+  {
+   "start_ms": 1270000,
+   "end_ms": 1274919,
+   "ko": "음. 요런 희망찬 약간 위로가 되는",
+   "speaker_change": true,
+   "en": "and I think these hopeful, somewhat comforting lyrics are really nice."
+  },
+  {
+   "start_ms": 1273200,
+   "end_ms": 1276840,
+   "ko": "가사 좋은 거 같습니다."
+  },
+  {
+   "start_ms": 1274919,
+   "end_ms": 1280640,
+   "ko": "네, 그렇습니다. 아, 그리고 아,",
+   "speaker_change": true,
+   "en": "Yes, that's right."
+  },
+  {
+   "start_ms": 1276840,
+   "end_ms": 1281400,
+   "ko": "또이 곡을 골은 결정적인 이유는",
+   "en": "And the decisive reason I chose this song is"
+  },
+  {
+   "start_ms": 1280640,
+   "end_ms": 1285520,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1281400,
+   "end_ms": 1288600,
+   "ko": "제가 어, 지난주 주말이었나?",
+   "speaker_change": true,
+   "en": "last weekend, or was it"
+  },
+  {
+   "start_ms": 1285520,
+   "end_ms": 1290880,
+   "ko": "지지난주 주말에 그 컴프리엔서블 인풋",
+   "en": "the weekend before last,"
+  },
+  {
+   "start_ms": 1288600,
+   "end_ms": 1292279,
+   "ko": "코리안 채널에서 라이브를 하다가",
+   "en": "I did a live stream on the Comprehensible Input Korean channel,"
+  },
+  {
+   "start_ms": 1290880,
+   "end_ms": 1295200,
+   "ko": "응. 응. 응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1292279,
+   "end_ms": 1297640,
+   "ko": "그 라이브 시청자 구독자분들한테 그런",
+   "speaker_change": true,
+   "en": "and I asked the live viewers and subscribers something like that."
+  },
+  {
+   "start_ms": 1295200,
+   "end_ms": 1299159,
+   "ko": "걸 물어봤거든요. 여러분은 한국어"
+  },
+  {
+   "start_ms": 1297640,
+   "end_ms": 1302760,
+   "ko": "공부 왜 하냐고.",
+   "en": "I asked, \"Why are you studying Korean?\""
+  },
+  {
+   "start_ms": 1299159,
+   "end_ms": 1304799,
+   "ko": "음. 진짜 진짜 저는 궁금해서 이게",
+   "speaker_change": true,
+   "en": "I was really, really curious,"
+  },
+  {
+   "start_ms": 1302760,
+   "end_ms": 1308880,
+   "ko": "재밌냐고",
+   "en": "I asked, \"Is this fun?\""
+  },
+  {
+   "start_ms": 1304799,
+   "end_ms": 1310559,
+   "ko": "물어 물어봤는데 그 왜 공부하냐는",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1308880,
+   "end_ms": 1311360,
+   "ko": "이유가 되게 다양하더라고요.",
+   "en": "And the reasons why they study turned out to be really diverse."
+  },
+  {
+   "start_ms": 1310559,
+   "end_ms": 1314120,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1311360,
+   "end_ms": 1315880,
+   "ko": "근데 그중에는 어 그냥 외국어 할 줄",
+   "speaker_change": true,
+   "en": "But among them, there were things like, \"Well, it's cool if you can speak a foreign language,\""
+  },
+  {
+   "start_ms": 1314120,
+   "end_ms": 1316760,
+   "ko": "알면 멋있잖아요."
+  },
+  {
+   "start_ms": 1315880,
+   "end_ms": 1319200,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1316760,
+   "end_ms": 1320159,
+   "ko": "그냥 이런 그냥 별거 아닌 이유도",
+   "speaker_change": true,
+   "en": "just these kinds of simple reasons too."
+  },
+  {
+   "start_ms": 1319200,
+   "end_ms": 1320760,
+   "ko": "많았어요."
+  },
+  {
+   "start_ms": 1320159,
+   "end_ms": 1324159,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1320760,
+   "end_ms": 1326159,
+   "ko": "그러니까 꼭 대단한 꿈, 대단한",
+   "speaker_change": true,
+   "en": "So it's not like you need some grand dream"
+  },
+  {
+   "start_ms": 1324159,
+   "end_ms": 1326919,
+   "ko": "이유가 필요한게 아니었던 거죠.",
+   "en": "or a grand reason."
+  },
+  {
+   "start_ms": 1326159,
+   "end_ms": 1328480,
+   "ko": "그렇죠?",
+   "speaker_change": true,
+   "en": "That's right."
+  },
+  {
+   "start_ms": 1326919,
+   "end_ms": 1329520,
+   "ko": "네. 그냥 내가 재밌게 하면",
+   "speaker_change": true,
+   "en": "If I'm just having fun doing it, that's enough,"
+  },
+  {
+   "start_ms": 1328480,
+   "end_ms": 1330320,
+   "ko": "그만이고."
+  },
+  {
+   "start_ms": 1329520,
+   "end_ms": 1332120,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1330320,
+   "end_ms": 1333120,
+   "ko": "네. 그냥 내가 이거 해서 좀 좋으면",
+   "speaker_change": true,
+   "en": "if I just feel good doing this, that's enough,"
+  },
+  {
+   "start_ms": 1332120,
+   "end_ms": 1334159,
+   "ko": "그만이고."
+  },
+  {
+   "start_ms": 1333120,
+   "end_ms": 1337279,
+   "ko": "응. 응. 응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1334159,
+   "end_ms": 1338039,
+   "ko": "근데 그게이 가사랑 좀 연결되는 거",
+   "speaker_change": true,
+   "en": "and I think that connects a bit with these lyrics,"
+  },
+  {
+   "start_ms": 1337279,
+   "end_ms": 1339360,
+   "ko": "같아서"
+  },
+  {
+   "start_ms": 1338039,
+   "end_ms": 1341039,
+   "ko": "음.이",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1339360,
+   "end_ms": 1343600,
+   "ko": "곡을 골랐습니다.",
+   "speaker_change": true,
+   "en": "so I chose this song."
+  },
+  {
+   "start_ms": 1341039,
+   "end_ms": 1345120,
+   "ko": "한국어 공부하실 때도 뭐 대단한 거",
+   "speaker_change": true,
+   "en": "When studying Korean, you don't have to achieve something grand."
+  },
+  {
+   "start_ms": 1343600,
+   "end_ms": 1346799,
+   "ko": "아니도 된다."
+  },
+  {
+   "start_ms": 1345120,
+   "end_ms": 1348000,
+   "ko": "그렇죠. 아, 제가 말을 너무 많이",
+   "speaker_change": true,
+   "en": "That's right. I feel like I'm talking too much..."
+  },
+  {
+   "start_ms": 1346799,
+   "end_ms": 1348919,
+   "ko": "하는 거 같은데."
+  },
+  {
+   "start_ms": 1348000,
+   "end_ms": 1349679,
+   "ko": "왜요? 왜요?",
+   "speaker_change": true,
+   "en": "Why?"
+  },
+  {
+   "start_ms": 1348919,
+   "end_ms": 1350840,
+   "ko": "아, 근데",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1349679,
+   "end_ms": 1352440,
+   "ko": "좋죠. 네.",
+   "speaker_change": true,
+   "en": "It's nice, right?"
+  },
+  {
+   "start_ms": 1350840,
+   "end_ms": 1353360,
+   "ko": "근데 저도 어릴 때 많이 했던",
+   "speaker_change": true,
+   "en": "But I did that a lot when I was young too"
+  },
+  {
+   "start_ms": 1352440,
+   "end_ms": 1353880,
+   "ko": "건데요."
+  },
+  {
+   "start_ms": 1353360,
+   "end_ms": 1356360,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1353880,
+   "end_ms": 1358320,
+   "ko": "이렇게 배우는 외국어로",
+   "speaker_change": true,
+   "en": "When you learn a foreign language by singing along like this"
+  },
+  {
+   "start_ms": 1356360,
+   "end_ms": 1358840,
+   "ko": "응. 노래 따라 부르면",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1358320,
+   "end_ms": 1361159,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1358840,
+   "end_ms": 1364200,
+   "ko": "발음이 굉장히 좋아집니다.",
+   "speaker_change": true,
+   "en": "Your pronunciation improves tremendously"
+  },
+  {
+   "start_ms": 1361159,
+   "end_ms": 1366159,
+   "ko": "음. 발음에 도움이 되는군요.",
+   "speaker_change": true,
+   "en": "So it helps with pronunciation"
+  },
+  {
+   "start_ms": 1364200,
+   "end_ms": 1367799,
+   "ko": "네. 네. 진짜 도움이 많이 돼요.",
+   "speaker_change": true,
+   "en": "Yes, it really helps a lot"
+  },
+  {
+   "start_ms": 1366159,
+   "end_ms": 1371000,
+   "ko": "네. 어머. 그래요.",
+   "speaker_change": true,
+   "en": "Oh, really?"
+  },
+  {
+   "start_ms": 1367799,
+   "end_ms": 1372640,
+   "ko": "저는 어릴 때 카니의 웨스트의 랩을",
+   "speaker_change": true,
+   "en": "When I was young, I used to follow along with Kanye West's rap exactly"
+  },
+  {
+   "start_ms": 1371000,
+   "end_ms": 1374000,
+   "ko": "그대로 따라했었거든요."
+  },
+  {
+   "start_ms": 1372640,
+   "end_ms": 1375880,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes, yes"
+  },
+  {
+   "start_ms": 1374000,
+   "end_ms": 1377159,
+   "ko": "굉장히 어릴 때 한 20년 전에",
+   "speaker_change": true,
+   "en": "Very young, like 20 years ago"
+  },
+  {
+   "start_ms": 1375880,
+   "end_ms": 1379360,
+   "ko": "엄청 빠를 거 같은데요.",
+   "speaker_change": true,
+   "en": "It must have been really fast, right?"
+  },
+  {
+   "start_ms": 1377159,
+   "end_ms": 1380120,
+   "ko": "아니 한 15년 전에 15년 전.",
+   "speaker_change": true,
+   "en": "No, like 15 years ago, 15 years ago"
+  },
+  {
+   "start_ms": 1379360,
+   "end_ms": 1381960,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes"
+  },
+  {
+   "start_ms": 1380120,
+   "end_ms": 1383919,
+   "ko": "네. 그때",
+   "speaker_change": true,
+   "en": "Yes, and my English pronunciation improved a lot back then"
+  },
+  {
+   "start_ms": 1381960,
+   "end_ms": 1385440,
+   "ko": "영어 발음이 굉장히 좋아졌었습니다."
+  },
+  {
+   "start_ms": 1383919,
+   "end_ms": 1388200,
+   "ko": "어.",
+   "speaker_change": true,
+   "en": "Um~ the lyrics, the lyrics..."
+  },
+  {
+   "start_ms": 1385440,
+   "end_ms": 1389760,
+   "ko": "가사. 가사. 그 가사는 어땠나요?",
+   "en": "How were those lyrics? Was it pretty English?"
+  },
+  {
+   "start_ms": 1388200,
+   "end_ms": 1392000,
+   "ko": "예쁜 영어였나요?"
+  },
+  {
+   "start_ms": 1389760,
+   "end_ms": 1395000,
+   "ko": "어, 꼭 그렇지만은 않았던 거",
+   "speaker_change": true,
+   "en": "Um, I don't think it was quite like that"
+  },
+  {
+   "start_ms": 1392000,
+   "end_ms": 1395000,
+   "ko": "같아요."
+  },
+  {
+   "start_ms": 1395080,
+   "end_ms": 1399559,
+   "ko": "요런 희망 아, 요런 좋은 가사가"
+  },
+  {
+   "start_ms": 1397159,
+   "end_ms": 1401679,
+   "ko": "있는 거 배웠으면 또 좋았을 텐데.",
+   "en": "I wish I had learned songs with such good lyrics"
+  },
+  {
+   "start_ms": 1399559,
+   "end_ms": 1402720,
+   "ko": "아, 그러니까요. 알려 주는 사람이",
+   "speaker_change": true,
+   "en": "Exactly There was no one to teach me"
+  },
+  {
+   "start_ms": 1401679,
+   "end_ms": 1404039,
+   "ko": "없었구나."
+  },
+  {
+   "start_ms": 1402720,
+   "end_ms": 1406760,
+   "ko": "아, 그렇죠.",
+   "speaker_change": true,
+   "en": "That's right"
+  },
+  {
+   "start_ms": 1404039,
+   "end_ms": 1408480,
+   "ko": "네. 지금이라도 어, 발음에 굉장히",
+   "speaker_change": true,
+   "en": "Yes, even now..."
+  },
+  {
+   "start_ms": 1406760,
+   "end_ms": 1410520,
+   "ko": "도움이 된다고 하네요.",
+   "en": "They say it helps a lot with pronunciation"
+  },
+  {
+   "start_ms": 1408480,
+   "end_ms": 1412720,
+   "ko": "가사 따라부르기. 또 좋아하는 노래",
+   "speaker_change": true,
+   "en": "Singing along to the lyrics"
+  },
+  {
+   "start_ms": 1410520,
+   "end_ms": 1416360,
+   "ko": "있으세요? BTS 노래 중에.",
+   "en": "Do you have any other favorite songs? Among BTS songs"
+  },
+  {
+   "start_ms": 1412720,
+   "end_ms": 1417000,
+   "ko": "어, 많은데. 그 같은 앨범에",
+   "speaker_change": true,
+   "en": "There are many, but on that same album"
+  },
+  {
+   "start_ms": 1416360,
+   "end_ms": 1419520,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1417000,
+   "end_ms": 1421039,
+   "ko": "어. 아, 이게이 이름을 기억하기",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1419520,
+   "end_ms": 1421760,
+   "ko": "어려운 노래가 있거든요.",
+   "en": "There's a song that's hard to remember the name of, you know?"
+  },
+  {
+   "start_ms": 1421039,
+   "end_ms": 1424480,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes"
+  },
+  {
+   "start_ms": 1421760,
+   "end_ms": 1424880,
+   "ko": "왜냐면 그 이름이 어떤 단어가 아니라",
+   "speaker_change": true,
+   "en": "Because that name isn't a word"
+  },
+  {
+   "start_ms": 1424480,
+   "end_ms": 1427360,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1424880,
+   "end_ms": 1429120,
+   "ko": "그 숫자예요. 숫자 뭐 1, 4 뭐",
+   "speaker_change": true,
+   "en": "It's numbers, numbers 1, 4, what what what what what like that"
+  },
+  {
+   "start_ms": 1427360,
+   "end_ms": 1430760,
+   "ko": "뭐 뭐 뭐 뭐 이렇게 아."
+  },
+  {
+   "start_ms": 1429120,
+   "end_ms": 1434360,
+   "ko": "아. 어. 네. 네. 네.",
+   "speaker_change": true,
+   "en": "Yes"
+  },
+  {
+   "start_ms": 1430760,
+   "end_ms": 1436120,
+   "ko": "근데 그 가사도 되게 수준이 수준이",
+   "speaker_change": true,
+   "en": "But the lyrics of that song are really sophisticated"
+  },
+  {
+   "start_ms": 1434360,
+   "end_ms": 1437279,
+   "ko": "높아요."
+  },
+  {
+   "start_ms": 1436120,
+   "end_ms": 1439720,
+   "ko": "오.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1437279,
+   "end_ms": 1441360,
+   "ko": "그 명왕성. 명왕성. 그 옛날",
+   "speaker_change": true,
+   "en": "Pluto?"
+  },
+  {
+   "start_ms": 1439720,
+   "end_ms": 1445279,
+   "ko": "우주에 있는 명왕성. 네. 네.",
+   "speaker_change": true,
+   "en": "Pluto in space?"
+  },
+  {
+   "start_ms": 1441360,
+   "end_ms": 1448320,
+   "ko": "옛날에는 그 태양계 그 태양계에 있던",
+   "en": "Back in the day, Pluto was an official planet in the solar system, right?"
+  },
+  {
+   "start_ms": 1445279,
+   "end_ms": 1449039,
+   "ko": "그 공식 별이었잖아요. 명왕성이."
+  },
+  {
+   "start_ms": 1448320,
+   "end_ms": 1451559,
+   "ko": "네. 네.",
+   "speaker_change": true,
+   "en": "Yes"
+  },
+  {
+   "start_ms": 1449039,
+   "end_ms": 1452799,
+   "ko": "근데 언젠가 그 명왕성이 태양계에서",
+   "speaker_change": true,
+   "en": "But then at some point Pluto was removed from the solar system"
+  },
+  {
+   "start_ms": 1451559,
+   "end_ms": 1453440,
+   "ko": "빠졌거든요."
+  },
+  {
+   "start_ms": 1452799,
+   "end_ms": 1458559,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1453440,
+   "end_ms": 1460600,
+   "ko": "근데 그거를 그이 그 인간 관계로",
+   "speaker_change": true,
+   "en": "But they changed that into a story about human relationships"
+  },
+  {
+   "start_ms": 1458559,
+   "end_ms": 1461960,
+   "ko": "바꿔서 이야기를 해요."
+  },
+  {
+   "start_ms": 1460600,
+   "end_ms": 1463520,
+   "ko": "어.",
+   "speaker_change": true,
+   "en": "And that was so..."
+  },
+  {
+   "start_ms": 1461960,
+   "end_ms": 1464480,
+   "ko": "근데 아 그게 너무",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1463520,
+   "end_ms": 1467399,
+   "ko": "철학적인데요.",
+   "speaker_change": true,
+   "en": "Philosophical, right?"
+  },
+  {
+   "start_ms": 1464480,
+   "end_ms": 1469360,
+   "ko": "어. 철학적이고 시적이고 그 너무",
+   "speaker_change": true,
+   "en": "It was philosophical and poetic and the way it was expressed was so beautiful"
+  },
+  {
+   "start_ms": 1467399,
+   "end_ms": 1471360,
+   "ko": "예뻤어요. 그 표현 방법이."
+  },
+  {
+   "start_ms": 1469360,
+   "end_ms": 1472880,
+   "ko": "134340이라는",
+   "en": "The song is called 134340"
+  },
+  {
+   "start_ms": 1471360,
+   "end_ms": 1476080,
+   "ko": "노래라고 합니다."
+  },
+  {
+   "start_ms": 1472880,
+   "end_ms": 1479080,
+   "ko": "어떻게 외워 이거? 134340.",
+   "speaker_change": true,
+   "en": "How do you even remember that? 134340"
+  },
+  {
+   "start_ms": 1476080,
+   "end_ms": 1480360,
+   "ko": "어, 요것도 추가로 들어보실 분들은",
+   "speaker_change": true,
+   "en": "For those who want to listen to this additionally, please give it a listen"
+  },
+  {
+   "start_ms": 1479080,
+   "end_ms": 1480880,
+   "ko": "한번 들어 주세요."
+  },
+  {
+   "start_ms": 1480360,
+   "end_ms": 1482559,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1480880,
+   "end_ms": 1485799,
+   "ko": "BTS의",
+   "speaker_change": true,
+   "en": "BTS's Paradise"
+  },
+  {
+   "start_ms": 1482559,
+   "end_ms": 1488720,
+   "ko": "낙원. 네. 두 번째 노래였고 저의",
+   "en": "Yes, that was my second song"
+  },
+  {
+   "start_ms": 1485799,
+   "end_ms": 1491480,
+   "ko": "두 번째 노래는 사실 저도 한국 노래",
+   "en": "And my second song is!"
+  },
+  {
+   "start_ms": 1488720,
+   "end_ms": 1493640,
+   "ko": "하나 가져와야 될 거 같아서",
+   "en": "Actually, I thought I should bring a Korean song too"
+  },
+  {
+   "start_ms": 1491480,
+   "end_ms": 1494520,
+   "ko": "가져왔거든요.",
+   "en": "So I brought one"
+  },
+  {
+   "start_ms": 1493640,
+   "end_ms": 1496440,
+   "ko": "아. 어",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1494520,
+   "end_ms": 1498399,
+   "ko": "아 저는 아닙니다. 저 억지로 한 거",
+   "speaker_change": true,
+   "en": "I'm not, I didn't force it"
+  },
+  {
+   "start_ms": 1496440,
+   "end_ms": 1500360,
+   "ko": "아닙니다."
+  },
+  {
+   "start_ms": 1498399,
+   "end_ms": 1501919,
+   "ko": "저도",
+   "speaker_change": true,
+   "en": "*I too* haha"
+  },
+  {
+   "start_ms": 1500360,
+   "end_ms": 1503840,
+   "ko": "저도 그랬거든요.",
+   "en": "I did that too~"
+  },
+  {
+   "start_ms": 1501919,
+   "end_ms": 1506919,
+   "ko": "아 네",
+   "speaker_change": true,
+   "en": "Yes"
+  },
+  {
+   "start_ms": 1503840,
+   "end_ms": 1509200,
+   "ko": "저는 아 좀 많아요. 근데 노래에",
+   "speaker_change": true,
+   "en": "I!"
+  },
+  {
+   "start_ms": 1506919,
+   "end_ms": 1512640,
+   "ko": "좋은 노래들 너무 많아 가지고",
+   "en": "Oh there are quite a few, but there are so many good songs"
+  },
+  {
+   "start_ms": 1509200,
+   "end_ms": 1514960,
+   "ko": "아 그래도 산책 플레이리스트인데",
+   "speaker_change": true,
+   "en": "Oh but it's a walking playlist"
+  },
+  {
+   "start_ms": 1512640,
+   "end_ms": 1516679,
+   "ko": "산책이라는 노래가 빠지면 좀 서운하지",
+   "en": "If a song called 'Walking' is missing, wouldn't it feel a bit sad?"
+  },
+  {
+   "start_ms": 1514960,
+   "end_ms": 1520159,
+   "ko": "않을까 해서"
+  },
+  {
+   "start_ms": 1516679,
+   "end_ms": 1521000,
+   "ko": "베린의 베게린이라는 가수의 산책이라는",
+   "speaker_change": true,
+   "en": "Baek Yerin, a singer named Baek Yerin, the song 'Walking'"
+  },
+  {
+   "start_ms": 1520159,
+   "end_ms": 1521320,
+   "ko": "노래를"
+  },
+  {
+   "start_ms": 1521000,
+   "end_ms": 1523440,
+   "ko": "아",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1521320,
+   "end_ms": 1526679,
+   "ko": "두 번째 노래로 선택했습니다. 그냥",
+   "speaker_change": true,
+   "en": "I chose it as the second song."
+  },
+  {
+   "start_ms": 1523440,
+   "end_ms": 1529480,
+   "ko": "그대로 갖고 왔네요.",
+   "en": "I just brought it as is."
+  },
+  {
+   "start_ms": 1526679,
+   "end_ms": 1531720,
+   "ko": "맞아요. 그냥. 아, 근데",
+   "speaker_change": true,
+   "en": "That's right, just like that!ㅋㅋㅋ"
+  },
+  {
+   "start_ms": 1529480,
+   "end_ms": 1532480,
+   "ko": "좋아해요,이 노래 노래방에서도 자주",
+   "en": "Ah but I really like this song, I sing it often at the noraebang too."
+  },
+  {
+   "start_ms": 1531720,
+   "end_ms": 1533279,
+   "ko": "부르고요."
+  },
+  {
+   "start_ms": 1532480,
+   "end_ms": 1534640,
+   "ko": "오.",
+   "speaker_change": true,
+   "en": "Oh..."
+  },
+  {
+   "start_ms": 1533279,
+   "end_ms": 1536480,
+   "ko": "좋아하는 노래입니다.",
+   "speaker_change": true,
+   "en": "It's a song I like."
+  },
+  {
+   "start_ms": 1534640,
+   "end_ms": 1538919,
+   "ko": "한국 하시죠, 이번에 그러면?",
+   "speaker_change": true,
+   "en": "Let's do one song, then this time."
+  },
+  {
+   "start_ms": 1536480,
+   "end_ms": 1541320,
+   "ko": "네. 됐고요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1538919,
+   "end_ms": 1542320,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "That works."
+  },
+  {
+   "start_ms": 1541320,
+   "end_ms": 1543000,
+   "ko": "괜찮고요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1542320,
+   "end_ms": 1545960,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "It's fine."
+  },
+  {
+   "start_ms": 1543000,
+   "end_ms": 1548080,
+   "ko": "아, 좀 고민했어요. 약간 감성 힙합",
+   "speaker_change": true,
+   "en": "I thought about it a bit—I like sensual hip-hop and things like that too."
+  },
+  {
+   "start_ms": 1545960,
+   "end_ms": 1550679,
+   "ko": "이런 것도 좋고"
+  },
+  {
+   "start_ms": 1548080,
+   "end_ms": 1553279,
+   "ko": "산책할 때 좋을 것 같긴 한데 산책할",
+   "speaker_change": true,
+   "en": "It seems like it would be good for taking a walk."
+  },
+  {
+   "start_ms": 1550679,
+   "end_ms": 1554600,
+   "ko": "때는 역시 네. 네. 요렇게 가사에",
+   "en": "But when taking a walk, it's really nice to listen like this, matching the lyrics."
+  },
+  {
+   "start_ms": 1553279,
+   "end_ms": 1557000,
+   "ko": "맞춰서"
+  },
+  {
+   "start_ms": 1554600,
+   "end_ms": 1558679,
+   "ko": "듣는 것도 좋기 때문에 가져와",
+   "speaker_change": true,
+   "en": "So I brought it along."
+  },
+  {
+   "start_ms": 1557000,
+   "end_ms": 1559600,
+   "ko": "봤고요. 우선 바로 들어 볼까요?",
+   "en": "Should we listen to it right away, bit by bit?"
+  },
+  {
+   "start_ms": 1558679,
+   "end_ms": 1561720,
+   "ko": "조금씩."
+  },
+  {
+   "start_ms": 1559600,
+   "end_ms": 1563520,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1561720,
+   "end_ms": 1566000,
+   "ko": "어,",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1563520,
+   "end_ms": 1568120,
+   "ko": "발걸음이 가벼워지는 느낌인데요.",
+   "en": "It feels like your footsteps become lighter?"
+  },
+  {
+   "start_ms": 1566000,
+   "end_ms": 1569080,
+   "ko": "발레리나가 되는 기분일 거 같은데요.",
+   "speaker_change": true,
+   "en": "It feels like you've become a ballerina?"
+  },
+  {
+   "start_ms": 1568120,
+   "end_ms": 1570520,
+   "ko": "어, 맞아요. 맞아요.",
+   "speaker_change": true,
+   "en": "That's right, that's right—right?"
+  },
+  {
+   "start_ms": 1569080,
+   "end_ms": 1574559,
+   "ko": "그죠?",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1570520,
+   "end_ms": 1577760,
+   "ko": "한방 산책하다 보면",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1574559,
+   "end_ms": 1578600,
+   "ko": "좀 동요 같지 않나요? 그 멜로디",
+   "speaker_change": true,
+   "en": "Doesn't it sound a bit like a children's song? The melody and all?"
+  },
+  {
+   "start_ms": 1577760,
+   "end_ms": 1579720,
+   "ko": "같은 게."
+  },
+  {
+   "start_ms": 1578600,
+   "end_ms": 1582000,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1579720,
+   "end_ms": 1585720,
+   "ko": "제가 노래방에서 부르면 이제 동요가",
+   "en": "When I sing it at the noraebang, it really becomes a children's song, just like that."
+  },
+  {
+   "start_ms": 1582000,
+   "end_ms": 1588039,
+   "ko": "돼요. 그냥 어린이 어린이 동요",
+   "en": "A children's nursery rhyme."
+  },
+  {
+   "start_ms": 1585720,
+   "end_ms": 1593080,
+   "ko": "하지만 백일리 님이 부르는 거",
+   "speaker_change": true,
+   "en": "But when you listen to Baek Yerin singing it,"
+  },
+  {
+   "start_ms": 1588039,
+   "end_ms": 1594919,
+   "ko": "들어보면 진짜 감성 촉촉입니다.",
+   "en": "it's really a song that's emotionally tender and moist."
+  },
+  {
+   "start_ms": 1593080,
+   "end_ms": 1597919,
+   "ko": "음이",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1594919,
+   "end_ms": 1601799,
+   "ko": "노래가 원래는 원곡이 따로 있어요.",
+   "speaker_change": true,
+   "en": "This song originally has a different original version."
+  },
+  {
+   "start_ms": 1597919,
+   "end_ms": 1604120,
+   "ko": "소희라는 가수의 산책인데 노래가",
+   "en": "It's \"A Walk\" by a singer named So-hee."
+  },
+  {
+   "start_ms": 1601799,
+   "end_ms": 1606159,
+   "ko": "좋아서 여러 가지 리메이크 곡들이",
+   "en": "Because the song is so good, there are several remade versions out there."
+  },
+  {
+   "start_ms": 1604120,
+   "end_ms": 1607640,
+   "ko": "나와 있어요. 베일린 님도 있고 또",
+   "en": "There's Baek Yerin's version too."
+  },
+  {
+   "start_ms": 1606159,
+   "end_ms": 1609080,
+   "ko": "다른 가수분들이 하신 것도",
+   "en": "And there are versions by other singers as well."
+  },
+  {
+   "start_ms": 1607640,
+   "end_ms": 1614200,
+   "ko": "있거든요.음 음. 음."
+  },
+  {
+   "start_ms": 1609080,
+   "end_ms": 1616080,
+   "ko": "그래서 좋고 노래를 들어보면 가사는",
+   "speaker_change": true,
+   "en": "So that's good... When you listen to the song, the lyrics are"
+  },
+  {
+   "start_ms": 1614200,
+   "end_ms": 1616440,
+   "ko": "산책을 진짜 하는 내용인데",
+   "en": "actually about taking a real walk."
+  },
+  {
+   "start_ms": 1616080,
+   "end_ms": 1619840,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1616440,
+   "end_ms": 1622840,
+   "ko": "산책을 할 때 아,이 사람이랑 같이",
+   "speaker_change": true,
+   "en": "When you're taking a walk, like \"I wish I had done this with this person,\""
+  },
+  {
+   "start_ms": 1619840,
+   "end_ms": 1625399,
+   "ko": "했으면 좋겠다. 뭔가 누군가",
+   "en": "you think of someone, someone while"
+  },
+  {
+   "start_ms": 1622840,
+   "end_ms": 1626279,
+   "ko": "누군가를 떠올리면서 산책하는 그런",
+   "speaker_change": true,
+   "en": "taking a walk—that kind of lyrics."
+  },
+  {
+   "start_ms": 1625399,
+   "end_ms": 1626640,
+   "ko": "가사예요."
+  },
+  {
+   "start_ms": 1626279,
+   "end_ms": 1629720,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1626640,
+   "end_ms": 1632240,
+   "ko": "근데 그 누군가는 상상하기 나름인",
+   "speaker_change": true,
+   "en": "But that someone is up to your imagination."
+  },
+  {
+   "start_ms": 1629720,
+   "end_ms": 1634520,
+   "ko": "거죠. 좋아하는 사람일 수도 있고",
+   "en": "It could be someone you like,"
+  },
+  {
+   "start_ms": 1632240,
+   "end_ms": 1635320,
+   "ko": "돌아가신 누구일 수도 있고 되게",
+   "en": "It could be someone who has passed away,"
+  },
+  {
+   "start_ms": 1634520,
+   "end_ms": 1636520,
+   "ko": "다양한",
+   "en": "really diverse..."
+  },
+  {
+   "start_ms": 1635320,
+   "end_ms": 1637679,
+   "ko": "아, 그렇구나.",
+   "speaker_change": true,
+   "en": "Ah, I see."
+  },
+  {
+   "start_ms": 1636520,
+   "end_ms": 1639520,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1637679,
+   "end_ms": 1641039,
+   "ko": "아. 어, 근데 저는 그런 가사를",
+   "speaker_change": true,
+   "en": "Ah but I really like lyrics like that."
+  },
+  {
+   "start_ms": 1639520,
+   "end_ms": 1642799,
+   "ko": "굉장히 좋아합니다."
+  },
+  {
+   "start_ms": 1641039,
+   "end_ms": 1643440,
+   "ko": "어, 어떤 이렇게 상상할 수 있는",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1642799,
+   "end_ms": 1643960,
+   "ko": "가사요?",
+   "en": "Like, lyrics you can imagine like this? Lyrics you can interpret?"
+  },
+  {
+   "start_ms": 1643440,
+   "end_ms": 1646080,
+   "ko": "어, 네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1643960,
+   "end_ms": 1646360,
+   "ko": "해석하는 가사. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1646080,
+   "end_ms": 1648279,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1646360,
+   "end_ms": 1649840,
+   "ko": "그리고",
+   "speaker_change": true,
+   "en": "Yes, and it could be a story a man is telling,"
+  },
+  {
+   "start_ms": 1648279,
+   "end_ms": 1651559,
+   "ko": "남자가"
+  },
+  {
+   "start_ms": 1649840,
+   "end_ms": 1653000,
+   "ko": "하는 이야기일 수도 있고 여자가 하는"
+  },
+  {
+   "start_ms": 1651559,
+   "end_ms": 1653799,
+   "ko": "이야기일 수도 있는 가사.",
+   "en": "or it could be a story a woman is telling—those kinds of lyrics."
+  },
+  {
+   "start_ms": 1653000,
+   "end_ms": 1656279,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1653799,
+   "end_ms": 1658159,
+   "ko": "저는 그런 가사들을 너무 좋아해요.",
+   "speaker_change": true,
+   "en": "I really love lyrics like that."
+  },
+  {
+   "start_ms": 1656279,
+   "end_ms": 1659000,
+   "ko": "어, 상상에 맞기는",
+   "speaker_change": true,
+   "en": "Leaving it to imagination."
+  },
+  {
+   "start_ms": 1658159,
+   "end_ms": 1661880,
+   "ko": "네. 네. 이제",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1659000,
+   "end_ms": 1664440,
+   "ko": "상상을 누구로 하느냐에 따라서 노래가",
+   "speaker_change": true,
+   "en": "Depending on who you imagine it to be,"
+  },
+  {
+   "start_ms": 1661880,
+   "end_ms": 1666720,
+   "ko": "굉장히 슬퍼질 수도 있고요. 되게",
+   "en": "the song can become really sad,"
+  },
+  {
+   "start_ms": 1664440,
+   "end_ms": 1669679,
+   "ko": "설레는 노래가 될 수도 있는 음.",
+   "en": "or it can become a really exciting song—that kind of song."
+  },
+  {
+   "start_ms": 1666720,
+   "end_ms": 1671679,
+   "ko": "그런 노래입니다."
+  },
+  {
+   "start_ms": 1669679,
+   "end_ms": 1673480,
+   "ko": "아, 그 그러게요. 진짜 슬퍼질 수도",
+   "speaker_change": true,
+   "en": "Right, it really could become sad."
+  },
+  {
+   "start_ms": 1671679,
+   "end_ms": 1676039,
+   "ko": "있겠네요."
+  },
+  {
+   "start_ms": 1673480,
+   "end_ms": 1678240,
+   "ko": "다시는 못 보는 사람이랑 같이",
+   "en": "With someone you can never see again,"
+  },
+  {
+   "start_ms": 1676039,
+   "end_ms": 1678880,
+   "ko": "산책했으면 좋겠다라는 노래일 수도",
+   "en": "wishing you had taken a walk together—that could be the song."
+  },
+  {
+   "start_ms": 1678240,
+   "end_ms": 1680360,
+   "ko": "있고."
+  },
+  {
+   "start_ms": 1678880,
+   "end_ms": 1682640,
+   "ko": "아, 너무 슬프다.",
+   "speaker_change": true,
+   "en": "Ah, that's so sad."
+  },
+  {
+   "start_ms": 1680360,
+   "end_ms": 1686320,
+   "ko": "헤어진 연인일 수도 있고.",
+   "speaker_change": true,
+   "en": "It could be an ex-lover."
+  },
+  {
+   "start_ms": 1682640,
+   "end_ms": 1688799,
+   "ko": "그건 그렇게 슬프진 않네요.",
+   "speaker_change": true,
+   "en": "That's not quite as sad."
+  },
+  {
+   "start_ms": 1686320,
+   "end_ms": 1691720,
+   "ko": "냉정하시네요.",
+   "speaker_change": true,
+   "en": "You're being cold-hearted."
+  },
+  {
+   "start_ms": 1688799,
+   "end_ms": 1692840,
+   "ko": "네, 맞아 맞아. 좋은데요. 이제 세",
+   "speaker_change": true,
+   "en": "This is nice—should we move on to the third one now?"
+  },
+  {
+   "start_ms": 1691720,
+   "end_ms": 1694600,
+   "ko": "번째 넘어가 볼까요?"
+  },
+  {
+   "start_ms": 1692840,
+   "end_ms": 1696880,
+   "ko": "네. 좋습니다.",
+   "speaker_change": true,
+   "en": "Yes, sounds good."
+  },
+  {
+   "start_ms": 1694600,
+   "end_ms": 1699039,
+   "ko": "세 번째 태용 쌤 추천곡은요.",
+   "speaker_change": true,
+   "en": "So what's Tae-woong's recommendation for the third song?"
+  },
+  {
+   "start_ms": 1696880,
+   "end_ms": 1702399,
+   "ko": "세 번째 추천곡은",
+   "speaker_change": true,
+   "en": "The third recommendation is"
+  },
+  {
+   "start_ms": 1699039,
+   "end_ms": 1705519,
+   "ko": "더 스피너즈. 더스피너의",
+   "en": "The Spinners, The Spinners' \"I'll Be Around\""
+  },
+  {
+   "start_ms": 1702399,
+   "end_ms": 1707559,
+   "ko": "알라운드입니다. 알라운드.",
+   "en": "is the song."
+  },
+  {
+   "start_ms": 1705519,
+   "end_ms": 1708720,
+   "ko": "엄청 듬치듬거릴 거 같은데요,",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1707559,
+   "end_ms": 1710519,
+   "ko": "벌써부터.",
+   "en": "It seems like it's going to be really boom-chick boom-chick, doesn't it? Already?"
+  },
+  {
+   "start_ms": 1708720,
+   "end_ms": 1711640,
+   "ko": "어,",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1710519,
+   "end_ms": 1712000,
+   "ko": "하지만.",
+   "en": "But!"
+  },
+  {
+   "start_ms": 1711640,
+   "end_ms": 1713159,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1712000,
+   "end_ms": 1714600,
+   "ko": "아닙니다.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1713159,
+   "end_ms": 1717120,
+   "ko": "오,",
+   "speaker_change": true,
+   "en": "That's not it."
+  },
+  {
+   "start_ms": 1714600,
+   "end_ms": 1718039,
+   "ko": "둠치할 수도 있고 안 할 수도 있는",
+   "speaker_change": true,
+   "en": "It's a song that can go boom-chick boom-chick or it might not."
+  },
+  {
+   "start_ms": 1717120,
+   "end_ms": 1718679,
+   "ko": "곡이에요."
+  },
+  {
+   "start_ms": 1718039,
+   "end_ms": 1721159,
+   "ko": "네. 네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1718679,
+   "end_ms": 1722720,
+   "ko": "근데 이거는요.",
+   "speaker_change": true,
+   "en": "But this one, you see,"
+  },
+  {
+   "start_ms": 1721159,
+   "end_ms": 1724320,
+   "ko": "아, 정말 이거 제가 정말 좋아하는",
+   "en": "Oh, this is really a song I really love."
+  },
+  {
+   "start_ms": 1722720,
+   "end_ms": 1724840,
+   "ko": "노래입니다. 막 정말 많이들은"
+  },
+  {
+   "start_ms": 1724320,
+   "end_ms": 1725760,
+   "ko": "노래인데",
+   "en": "A song I've listened to a lot,"
+  },
+  {
+   "start_ms": 1724840,
+   "end_ms": 1726519,
+   "ko": "진짜",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1725760,
+   "end_ms": 1730679,
+   "ko": "그냥",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1726519,
+   "end_ms": 1730960,
+   "ko": "그냥 그냥 틀면 좋다입니다.",
+   "speaker_change": true,
+   "en": "and whenever it plays, it's just \"great!\""
+  },
+  {
+   "start_ms": 1730679,
+   "end_ms": 1731640,
+   "ko": "누구"
+  },
+  {
+   "start_ms": 1730960,
+   "end_ms": 1734919,
+   "ko": "누가 틀어도",
+   "speaker_change": true,
+   "en": "No matter who listens to it?"
+  },
+  {
+   "start_ms": 1731640,
+   "end_ms": 1737399,
+   "ko": "누가 그 누가 들어도 그렇",
+   "speaker_change": true,
+   "en": "No matter who listens to it, they'll feel this way."
+  },
+  {
+   "start_ms": 1734919,
+   "end_ms": 1738760,
+   "ko": "진짜요? 유명한 노래 같은데요?",
+   "speaker_change": true,
+   "en": "Really? It seems like a famous song?"
+  },
+  {
+   "start_ms": 1737399,
+   "end_ms": 1741320,
+   "ko": "아, 그런가? 유명한가요?",
+   "speaker_change": true,
+   "en": "Oh, is it? Is it famous?"
+  },
+  {
+   "start_ms": 1738760,
+   "end_ms": 1741600,
+   "ko": "유튜브 재생수를 보니까 많이 진행된",
+   "speaker_change": true,
+   "en": "Looking at the YouTube view count, it seems to have been played a lot."
+  },
+  {
+   "start_ms": 1741320,
+   "end_ms": 1743000,
+   "ko": "거 같은데."
+  },
+  {
+   "start_ms": 1741600,
+   "end_ms": 1744360,
+   "ko": "명국 명곡이에요.",
+   "speaker_change": true,
+   "en": "It's a masterpiece."
+  },
+  {
+   "start_ms": 1743000,
+   "end_ms": 1745960,
+   "ko": "명곡 띵곡.",
+   "speaker_change": true,
+   "en": "A masterpiece, a banger?"
+  },
+  {
+   "start_ms": 1744360,
+   "end_ms": 1748240,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1745960,
+   "end_ms": 1750120,
+   "ko": "그냥 들으면 와 좋다.",
+   "en": "You just listen and go \"Wow, that's great.\""
+  },
+  {
+   "start_ms": 1748240,
+   "end_ms": 1752480,
+   "ko": "아무다 들을까요? 그냥 바로",
+   "speaker_change": true,
+   "en": "Should we just play it without asking or questioning? Right away?"
+  },
+  {
+   "start_ms": 1750120,
+   "end_ms": 1753440,
+   "ko": "네",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1752480,
+   "end_ms": 1755039,
+   "ko": "좋다.",
+   "speaker_change": true,
+   "en": "Great!"
+  },
+  {
+   "start_ms": 1753440,
+   "end_ms": 1756279,
+   "ko": "좋죠.",
+   "speaker_change": true,
+   "en": "It's good, right?"
+  },
+  {
+   "start_ms": 1755039,
+   "end_ms": 1760399,
+   "ko": "네",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1756279,
+   "end_ms": 1762240,
+   "ko": "되게 되게 막 선선한 바람이 내",
+   "speaker_change": true,
+   "en": "There's like this cool breeze,"
+  },
+  {
+   "start_ms": 1760399,
+   "end_ms": 1764919,
+   "ko": "머리를 스치고 지나가는 느낌",
+   "en": "brushing past my head—don't you feel that?"
+  },
+  {
+   "start_ms": 1762240,
+   "end_ms": 1767080,
+   "ko": "아닌가요? 맞네요. 아, 부산이",
+   "en": "That's right."
+  },
+  {
+   "start_ms": 1764919,
+   "end_ms": 1768600,
+   "ko": "그려지는데요. 저는 뭔가 바닷가",
+   "en": "I picture Busan, you know? Something like the seaside."
+  },
+  {
+   "start_ms": 1767080,
+   "end_ms": 1769919,
+   "ko": "어, 맞아요. 맞아요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1768600,
+   "end_ms": 1771880,
+   "ko": "어,",
+   "speaker_change": true,
+   "en": "That's right, that's right."
+  },
+  {
+   "start_ms": 1769919,
+   "end_ms": 1772799,
+   "ko": "바닷가에서 저는 바닷가 산책 자주",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1771880,
+   "end_ms": 1774200,
+   "ko": "하니까",
+   "en": "I go for seaside walks often,"
+  },
+  {
+   "start_ms": 1772799,
+   "end_ms": 1776559,
+   "ko": "어,",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1774200,
+   "end_ms": 1777679,
+   "ko": "사실 별다른 이유가 필요 없는",
+   "speaker_change": true,
+   "en": "so really, this song doesn't need any special reason, you'd agree, right?"
+  },
+  {
+   "start_ms": 1776559,
+   "end_ms": 1780080,
+   "ko": "곡이죠. 인정하시죠?"
+  },
+  {
+   "start_ms": 1777679,
+   "end_ms": 1783880,
+   "ko": "네. 네. 너무 좋네요.",
+   "speaker_change": true,
+   "en": "Yes, it's so good."
+  },
+  {
+   "start_ms": 1780080,
+   "end_ms": 1785919,
+   "ko": "어, 그런데 거기에다가",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1783880,
+   "end_ms": 1786440,
+   "ko": "그이 제목이",
+   "en": "And on top of that, the title \"I'll Be Around\""
+  },
+  {
+   "start_ms": 1785919,
+   "end_ms": 1789960,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1786440,
+   "end_ms": 1792240,
+   "ko": "그 I'll be가 뭐 내가 너",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1789960,
+   "end_ms": 1793600,
+   "ko": "주위에 있을 거야. 이런 말이거든요.",
+   "en": "means like \"I'll be around you,\" you know?"
+  },
+  {
+   "start_ms": 1792240,
+   "end_ms": 1796320,
+   "ko": "네.",
+   "speaker_change": true,
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1793600,
+   "end_ms": 1798720,
+   "ko": "어떤 가사하냐면",
+   "en": "What the lyrics are saying is,"
+  },
+  {
+   "start_ms": 1796320,
+   "end_ms": 1801360,
+   "ko": "어이 경우에는 그 사람한테 하는"
+  },
+  {
+   "start_ms": 1798720,
+   "end_ms": 1802000,
+   "ko": "이야기라고 저는 생각하는데",
+   "en": "in this case, I think it's something being said to a person,"
+  },
+  {
+   "start_ms": 1801360,
+   "end_ms": 1805000,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1802000,
+   "end_ms": 1805320,
+   "ko": "뭐 너는 너의 선택을 할 거고",
+   "speaker_change": true,
+   "en": "you're going to make your own choices,"
+  },
+  {
+   "start_ms": 1805000,
+   "end_ms": 1807399,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1805320,
+   "end_ms": 1808720,
+   "ko": "그 네가 원하는 건 너의 선 네가",
+   "speaker_change": true,
+   "en": "what you want is what you want,"
+  },
+  {
+   "start_ms": 1807399,
+   "end_ms": 1809080,
+   "ko": "원하는 건데"
+  },
+  {
+   "start_ms": 1808720,
+   "end_ms": 1813840,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1809080,
+   "end_ms": 1816919,
+   "ko": "그 나는 뭐 너를 위해 그 뭐 너의",
+   "speaker_change": true,
+   "en": "but I'm going to be"
+  },
+  {
+   "start_ms": 1813840,
+   "end_ms": 1818760,
+   "ko": "근처에 있을 거니까 그냥 네가",
+   "en": "near you for you,"
+  },
+  {
+   "start_ms": 1816919,
+   "end_ms": 1819880,
+   "ko": "언제든지 나를 부르고 싶을 때 나를",
+   "en": "so whenever you want to call me, just call me,"
+  },
+  {
+   "start_ms": 1818760,
+   "end_ms": 1820559,
+   "ko": "불러 줘."
+  },
+  {
+   "start_ms": 1819880,
+   "end_ms": 1822640,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1820559,
+   "end_ms": 1823960,
+   "ko": "어. 네가 언제든지 내가 필요하면",
+   "speaker_change": true,
+   "en": "whenever you need me, let me know,"
+  },
+  {
+   "start_ms": 1822640,
+   "end_ms": 1824640,
+   "ko": "알려 줘."
+  },
+  {
+   "start_ms": 1823960,
+   "end_ms": 1827880,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1824640,
+   "end_ms": 1829399,
+   "ko": "그러면 내가 근처에 있으니까 언제든지",
+   "speaker_change": true,
+   "en": "and since I'll be nearby,"
+  },
+  {
+   "start_ms": 1827880,
+   "end_ms": 1832360,
+   "ko": "나타날 거야.",
+   "en": "I'll show up anytime."
+  },
+  {
+   "start_ms": 1829399,
+   "end_ms": 1833440,
+   "ko": "이렇게 든든할 수가.",
+   "speaker_change": true,
+   "en": "How reassuring is that!"
+  },
+  {
+   "start_ms": 1832360,
+   "end_ms": 1833640,
+   "ko": "그래서",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1833440,
+   "end_ms": 1836279,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1833640,
+   "end_ms": 1838799,
+   "ko": "그 한국어 공부를 하시는 우리",
+   "speaker_change": true,
+   "en": "So for those of you"
+  },
+  {
+   "start_ms": 1836279,
+   "end_ms": 1840000,
+   "ko": "구독자님들의 주변에",
+   "en": "studying Korean, our subscribers,"
+  },
+  {
+   "start_ms": 1838799,
+   "end_ms": 1841799,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1840000,
+   "end_ms": 1842360,
+   "ko": "어 터치 몇 번 하면",
+   "speaker_change": true,
+   "en": "with just a few taps,"
+  },
+  {
+   "start_ms": 1841799,
+   "end_ms": 1843880,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1842360,
+   "end_ms": 1846159,
+   "ko": "저희의 유튜브 콘텐츠가 있지",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1843880,
+   "end_ms": 1849159,
+   "ko": "않습니까?",
+   "en": "our YouTube content is right there, isn't it?!"
+  },
+  {
+   "start_ms": 1846159,
+   "end_ms": 1852039,
+   "ko": "태용쌤과 디디가 RB 어라운드니까.",
+   "speaker_change": true,
+   "en": "Tae-woong and Didi are \"I'll Be Around,\" so to speak..."
+  },
+  {
+   "start_ms": 1849159,
+   "end_ms": 1853760,
+   "ko": "그렇죠. 저희는 언제나 있습니다.",
+   "speaker_change": true,
+   "en": "That's right, we're always here."
+  },
+  {
+   "start_ms": 1852039,
+   "end_ms": 1855240,
+   "ko": "음. 음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1853760,
+   "end_ms": 1856240,
+   "ko": "어, 그래서 어,",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1855240,
+   "end_ms": 1859519,
+   "ko": "와우.이",
+   "speaker_change": true,
+   "en": "Wow."
+  },
+  {
+   "start_ms": 1856240,
+   "end_ms": 1861480,
+   "ko": "외국어를 공부하다 보면 그 언제나 막",
+   "speaker_change": true,
+   "en": "When you're studying a foreign language,"
+  },
+  {
+   "start_ms": 1859519,
+   "end_ms": 1862399,
+   "ko": "1년 365일 24시간 할 수",
+   "en": "you can't do it 365 days a year, 24 hours a day, you know?"
+  },
+  {
+   "start_ms": 1861480,
+   "end_ms": 1862919,
+   "ko": "없어요."
+  },
+  {
+   "start_ms": 1862399,
+   "end_ms": 1866039,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1862919,
+   "end_ms": 1869159,
+   "ko": "하다 보면 뭐 중간에 다른 재밌는",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1866039,
+   "end_ms": 1869679,
+   "ko": "넷플릭스 쇼도 볼 일이 있고",
+   "en": "As you're doing it, sometimes you want to watch an interesting Netflix show in between,"
+  },
+  {
+   "start_ms": 1869159,
+   "end_ms": 1871760,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1869679,
+   "end_ms": 1872320,
+   "ko": "뭐 재밌는 게임을 할 때도 있고",
+   "speaker_change": true,
+   "en": "or sometimes you play a fun game,"
+  },
+  {
+   "start_ms": 1871760,
+   "end_ms": 1873279,
+   "ko": "그래서"
+  },
+  {
+   "start_ms": 1872320,
+   "end_ms": 1876320,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1873279,
+   "end_ms": 1877880,
+   "ko": "좀 음. 관심이 멀어질 때도",
+   "speaker_change": true,
+   "en": "so your interest can drift away sometimes,"
+  },
+  {
+   "start_ms": 1876320,
+   "end_ms": 1880480,
+   "ko": "있거든요. 응. 응. 응."
+  },
+  {
+   "start_ms": 1877880,
+   "end_ms": 1881039,
+   "ko": "근데 그게 나쁜게 아니에요. 제",
+   "speaker_change": true,
+   "en": "but that's not a bad thing, in my opinion."
+  },
+  {
+   "start_ms": 1880480,
+   "end_ms": 1881639,
+   "ko": "생각엔."
+  },
+  {
+   "start_ms": 1881039,
+   "end_ms": 1883559,
+   "ko": "음. 음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1881639,
+   "end_ms": 1884080,
+   "ko": "당연히 그럴 수 있어요. 살다 보면.",
+   "speaker_change": true,
+   "en": "Of course that can happen when you're living life."
+  },
+  {
+   "start_ms": 1883559,
+   "end_ms": 1886360,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1884080,
+   "end_ms": 1886720,
+   "ko": "어. 그 언제든 그래도",
+   "speaker_change": true,
+   "en": "Anytime works!"
+  },
+  {
+   "start_ms": 1886360,
+   "end_ms": 1889080,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1886720,
+   "end_ms": 1890440,
+   "ko": "언제든 다시 생각이 났을 때",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1889080,
+   "end_ms": 1892399,
+   "ko": "음.",
+   "speaker_change": true,
+   "en": "There's always a place to come back to whenever you think of it again."
+  },
+  {
+   "start_ms": 1890440,
+   "end_ms": 1893460,
+   "ko": "돌아올 자리가 있습니다.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1892399,
+   "end_ms": 1895080,
+   "ko": "뭐",
+   "speaker_change": true,
+   "en": "Wow..."
+  },
+  {
+   "start_ms": 1893460,
+   "end_ms": 1898559,
+   "ko": "[음악]"
+  },
+  {
+   "start_ms": 1895080,
+   "end_ms": 1899039,
+   "ko": "그런 유튜버가 된다는 거 좋네요.",
+   "en": "It's nice to become that kind of YouTuber."
+  },
+  {
+   "start_ms": 1898559,
+   "end_ms": 1901799,
+   "ko": "그렇죠.",
+   "speaker_change": true,
+   "en": "Right?"
+  },
+  {
+   "start_ms": 1899039,
+   "end_ms": 1902399,
+   "ko": "언제든 여기 있으니까 넷플릭스 보고",
+   "speaker_change": true,
+   "en": "'I'm always here,"
+  },
+  {
+   "start_ms": 1901799,
+   "end_ms": 1903080,
+   "ko": "와.",
+   "en": "go watch Netflix and come back!"
+  },
+  {
+   "start_ms": 1902399,
+   "end_ms": 1905880,
+   "ko": "응.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1903080,
+   "end_ms": 1907120,
+   "ko": "나 언제든 여기 매조 올리고 있어.",
+   "speaker_change": true,
+   "en": "I'm uploading new content here every week!'"
+  },
+  {
+   "start_ms": 1905880,
+   "end_ms": 1909480,
+   "ko": "음. 음. 그렇죠.",
+   "speaker_change": true,
+   "en": "Right."
+  },
+  {
+   "start_ms": 1907120,
+   "end_ms": 1911240,
+   "ko": "우와. 좋다.",
+   "speaker_change": true,
+   "en": "Wow, that's great!"
+  },
+  {
+   "start_ms": 1909480,
+   "end_ms": 1912639,
+   "ko": "좋죠. We will be",
+   "speaker_change": true,
+   "en": "It is."
+  },
+  {
+   "start_ms": 1911240,
+   "end_ms": 1914320,
+   "ko": "around입니다. 여러분,",
+   "en": "We will be around, everyone."
+  },
+  {
+   "start_ms": 1912639,
+   "end_ms": 1916840,
+   "ko": "그렇습니다.",
+   "speaker_change": true,
+   "en": "That's right."
+  },
+  {
+   "start_ms": 1914320,
+   "end_ms": 1917919,
+   "ko": "어, 언제든 돌아오시고 노래도 너무",
+   "speaker_change": true,
+   "en": "And the song is really nice too."
+  },
+  {
+   "start_ms": 1916840,
+   "end_ms": 1921440,
+   "ko": "좋네요."
+  },
+  {
+   "start_ms": 1917919,
+   "end_ms": 1922000,
+   "ko": "그러니까 틀면 좋다니까요.",
+   "speaker_change": true,
+   "en": "It's good when you play it!"
+  },
+  {
+   "start_ms": 1921440,
+   "end_ms": 1925080,
+   "ko": "너무 좋아.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1922000,
+   "end_ms": 1926840,
+   "ko": "틀면 좋아. 뭔가 이렇게 드라이브나",
+   "speaker_change": true,
+   "en": "It's good when you play it!"
+  },
+  {
+   "start_ms": 1925080,
+   "end_ms": 1927799,
+   "ko": "내가 노래를 성곡해서 틀어야 될 때",
+   "en": "You know, sometimes when you're driving or you need to pick a song to play yourself,"
+  },
+  {
+   "start_ms": 1926840,
+   "end_ms": 1928880,
+   "ko": "있잖아요."
+  },
+  {
+   "start_ms": 1927799,
+   "end_ms": 1931519,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1928880,
+   "end_ms": 1934279,
+   "ko": "그때 은근히 고민이 될 때가 있는데",
+   "speaker_change": true,
+   "en": "there are times when you're genuinely unsure what to choose,"
+  },
+  {
+   "start_ms": 1931519,
+   "end_ms": 1934720,
+   "ko": "이거 그냥 틀으면 그냥 다들 좋아할",
+   "speaker_change": true,
+   "en": "but if you just play this one, everyone will like it."
+  },
+  {
+   "start_ms": 1934279,
+   "end_ms": 1936519,
+   "ko": "겁니다."
+  },
+  {
+   "start_ms": 1934720,
+   "end_ms": 1938840,
+   "ko": "아, 맞습니다. 어, 너 좋다.",
+   "speaker_change": true,
+   "en": "Right, like \"Oh? That's a good song, what is it?\" that kind of thing."
+  },
+  {
+   "start_ms": 1936519,
+   "end_ms": 1940880,
+   "ko": "뭐야? 이렇게."
+  },
+  {
+   "start_ms": 1938840,
+   "end_ms": 1941919,
+   "ko": "맞아. 오. 좋아요.",
+   "speaker_change": true,
+   "en": "That's nice."
+  },
+  {
+   "start_ms": 1940880,
+   "end_ms": 1943200,
+   "ko": "네. 좋습니다.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1941919,
+   "end_ms": 1944919,
+   "ko": "좋은 노래 세 가지 추천",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1943200,
+   "end_ms": 1947399,
+   "ko": "감사드리고요.",
+   "en": "Thank you for the three song recommendations,"
+  },
+  {
+   "start_ms": 1944919,
+   "end_ms": 1949039,
+   "ko": "마지막으로 제제 세 번째 노래 추천해",
+   "en": "and lastly, I'll recommend my third song."
+  },
+  {
+   "start_ms": 1947399,
+   "end_ms": 1950039,
+   "ko": "드리도록 하겠습니다."
+  },
+  {
+   "start_ms": 1949039,
+   "end_ms": 1954720,
+   "ko": "으흠.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1950039,
+   "end_ms": 1956919,
+   "ko": "저는 클린 앤티라는 노래고요.",
+   "speaker_change": true,
+   "en": "It's a song called 'Clean and Dirty',"
+  },
+  {
+   "start_ms": 1954720,
+   "end_ms": 1957679,
+   "ko": "하바드. 하버드."
+  },
+  {
+   "start_ms": 1956919,
+   "end_ms": 1958279,
+   "ko": "하버드요.",
+   "speaker_change": true,
+   "en": "Harvard."
+  },
+  {
+   "start_ms": 1957679,
+   "end_ms": 1959720,
+   "ko": "하버드요.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1958279,
+   "end_ms": 1961159,
+   "ko": "네. 하버드.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1959720,
+   "end_ms": 1963159,
+   "ko": "하버드 대학교요.",
+   "speaker_change": true,
+   "en": "Harvard University?"
+  },
+  {
+   "start_ms": 1961159,
+   "end_ms": 1963639,
+   "ko": "하버드 대학교 할 때 그 하버드인 거",
+   "speaker_change": true,
+   "en": "It seems like it's that Harvard from Harvard University."
+  },
+  {
+   "start_ms": 1963159,
+   "end_ms": 1965240,
+   "ko": "같아요."
+  },
+  {
+   "start_ms": 1963639,
+   "end_ms": 1968080,
+   "ko": "오.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1965240,
+   "end_ms": 1969360,
+   "ko": "이거는 저는 원래 좀 골고루 가져오고",
+   "speaker_change": true,
+   "en": "I brought this because I originally wanted to bring a variety,"
+  },
+  {
+   "start_ms": 1968080,
+   "end_ms": 1971000,
+   "ko": "싶어서 가져온 거거든요."
+  },
+  {
+   "start_ms": 1969360,
+   "end_ms": 1973799,
+   "ko": "음. 한국 노래 하나, 일본 노래",
+   "speaker_change": true,
+   "en": "one Korean song, one Japanese song,"
+  },
+  {
+   "start_ms": 1971000,
+   "end_ms": 1977519,
+   "ko": "하나, 팝송 하나 가져오려고 해서",
+   "en": "and I wanted to bring one pop song,"
+  },
+  {
+   "start_ms": 1973799,
+   "end_ms": 1980440,
+   "ko": "팝송이라고 생각하고 가져온 건데",
+   "en": "so I brought it thinking it was a pop song,"
+  },
+  {
+   "start_ms": 1977519,
+   "end_ms": 1983519,
+   "ko": "이것도 일본 노래였어요. 근데 가사가",
+   "en": "but it turned out to be a Japanese song too. But because the lyrics are in English,"
+  },
+  {
+   "start_ms": 1980440,
+   "end_ms": 1984760,
+   "ko": "영어라서 저는 지금까지 팝송이라고",
+   "en": "I've been thinking of it as a pop song until now."
+  },
+  {
+   "start_ms": 1983519,
+   "end_ms": 1986559,
+   "ko": "생각하고 있었어요."
+  },
+  {
+   "start_ms": 1984760,
+   "end_ms": 1989679,
+   "ko": "으흠. 좋아요.",
+   "speaker_change": true,
+   "en": "That's nice."
+  },
+  {
+   "start_ms": 1986559,
+   "end_ms": 1992039,
+   "ko": "한국분들이라면 아마 광고나 어딘가에서",
+   "speaker_change": true,
+   "en": "Korean people have probably heard this song at least once in an advertisement"
+  },
+  {
+   "start_ms": 1989679,
+   "end_ms": 1993240,
+   "ko": "한 번쯤은 들어보셨을 노래입니다.",
+   "en": "or somewhere."
+  },
+  {
+   "start_ms": 1992039,
+   "end_ms": 1996320,
+   "ko": "음.이",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 1993240,
+   "end_ms": 1998039,
+   "ko": "이 노래는 가사는 전 솔직히 잘",
+   "en": "This song,"
+  },
+  {
+   "start_ms": 1996320,
+   "end_ms": 2001200,
+   "ko": "모르고요.",
+   "en": "honestly, I don't really know the lyrics,"
+  },
+  {
+   "start_ms": 1998039,
+   "end_ms": 2003159,
+   "ko": "하지만 그 멜로디가 진짜",
+   "speaker_change": true,
+   "en": "but that melody is really like a gentle breeze, a gentle breeze."
+  },
+  {
+   "start_ms": 2001200,
+   "end_ms": 2003720,
+   "ko": "산들바람이에요. 산들바람.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2003159,
+   "end_ms": 2006000,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2003720,
+   "end_ms": 2007760,
+   "ko": "이게 노래 딱 시작하면은 바람이 그냥",
+   "speaker_change": true,
+   "en": "As soon as the song starts,"
+  },
+  {
+   "start_ms": 2006000,
+   "end_ms": 2009639,
+   "ko": "불어옵니다.",
+   "en": "the breeze just blows in."
+  },
+  {
+   "start_ms": 2007760,
+   "end_ms": 2011720,
+   "ko": "그런 노래 틀어 볼게요.",
+   "speaker_change": true,
+   "en": "That's the kind of song it is, so let me play it for you."
+  },
+  {
+   "start_ms": 2009639,
+   "end_ms": 2012480,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2011720,
+   "end_ms": 2015639,
+   "ko": "바람.",
+   "speaker_change": true,
+   "en": "A breeze"
+  },
+  {
+   "start_ms": 2012480,
+   "end_ms": 2017799,
+   "ko": "응. 부러워요.",
+   "speaker_change": true,
+   "en": "blows in. 💨"
+  },
+  {
+   "start_ms": 2015639,
+   "end_ms": 2020279,
+   "ko": "뭔가 엔딩 크레딧 같다.",
+   "speaker_change": true,
+   "en": "It sounds like an ending credit."
+  },
+  {
+   "start_ms": 2017799,
+   "end_ms": 2022519,
+   "ko": "어, 이제 집에 돌아갈 때 들으세요.",
+   "speaker_change": true,
+   "en": "Listen to it on your way home."
+  },
+  {
+   "start_ms": 2020279,
+   "end_ms": 2024039,
+   "ko": "이제 선택 다 끝나고 마지막에",
+   "en": "After your walk is done, at the very end..."
+  },
+  {
+   "start_ms": 2022519,
+   "end_ms": 2025919,
+   "ko": "아, 돌아가는 길이구나.",
+   "speaker_change": true,
+   "en": "Oh, it's the way back home."
+  },
+  {
+   "start_ms": 2024039,
+   "end_ms": 2028240,
+   "ko": "응. 돌아가요.",
+   "speaker_change": true,
+   "en": "Yeah, you're heading back."
+  },
+  {
+   "start_ms": 2025919,
+   "end_ms": 2030200,
+   "ko": "지금 저 옆으로 막 이름들 막 내려갈",
+   "speaker_change": true,
+   "en": "Right now it feels like names are scrolling down next to me."
+  },
+  {
+   "start_ms": 2028240,
+   "end_ms": 2032480,
+   "ko": "것 같아요."
+  },
+  {
+   "start_ms": 2030200,
+   "end_ms": 2035840,
+   "ko": "엔딩 크레딧 그 느낌이에요.",
+   "speaker_change": true,
+   "en": "It has that ending credit feeling?"
+  },
+  {
+   "start_ms": 2032480,
+   "end_ms": 2038519,
+   "ko": "네. 그까이 소리가 휘파람 소리",
+   "speaker_change": true,
+   "en": "This sound is like a whistling sound,"
+  },
+  {
+   "start_ms": 2035840,
+   "end_ms": 2043559,
+   "ko": "같기도 하고 바람 소리 같기도 하고",
+   "en": "and also like a wind sound, refreshing?"
+  },
+  {
+   "start_ms": 2038519,
+   "end_ms": 2043559,
+   "ko": "산뜻한 그런 노래예요. 가사가 봐요.",
+   "en": "It's that kind of refreshing song. The lyrics, let me see,"
+  },
+  {
+   "start_ms": 2045000,
+   "end_ms": 2047840,
+   "ko": "영어예요. 그래서 전 팝성인 줄",
+   "speaker_change": true,
+   "en": "they're in English, so I thought it was a pop song."
+  },
+  {
+   "start_ms": 2046919,
+   "end_ms": 2049440,
+   "ko": "알았어요."
+  },
+  {
+   "start_ms": 2047840,
+   "end_ms": 2049639,
+   "ko": "어때요? 들어보신 적 있어요, 태영",
+   "speaker_change": true,
+   "en": "What do you think? Have you heard it before, Teacher Tae-woong?"
+  },
+  {
+   "start_ms": 2049440,
+   "end_ms": 2050960,
+   "ko": "쌤?"
+  },
+  {
+   "start_ms": 2049639,
+   "end_ms": 2054480,
+   "ko": "어, 저는 처음 들어봐요.",
+   "speaker_change": true,
+   "en": "I'm hearing it for the first time."
+  },
+  {
+   "start_ms": 2050960,
+   "end_ms": 2055720,
+   "ko": "아, 그래요? 어딘가 광고에서 쓰인",
+   "speaker_change": true,
+   "en": "Oh, is that so? It seemed like it was used in an advertisement somewhere."
+  },
+  {
+   "start_ms": 2054480,
+   "end_ms": 2058440,
+   "ko": "거 같더라고요."
+  },
+  {
+   "start_ms": 2055720,
+   "end_ms": 2059960,
+   "ko": "언제 나온 노래인지 아시나요? 좀",
+   "speaker_change": true,
+   "en": "Do you know when the song came out?"
+  },
+  {
+   "start_ms": 2058440,
+   "end_ms": 2062960,
+   "ko": "많이 오래됐어요.",
+   "en": "It's quite old."
+  },
+  {
+   "start_ms": 2059960,
+   "end_ms": 2064359,
+   "ko": "여기 유튜브에 올라온 것만 해도 한",
+   "speaker_change": true,
+   "en": "Even just the version uploaded on YouTube here is over ten years old."
+  },
+  {
+   "start_ms": 2062960,
+   "end_ms": 2065879,
+   "ko": "10년 넘었고."
+  },
+  {
+   "start_ms": 2064359,
+   "end_ms": 2068520,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2065879,
+   "end_ms": 2069639,
+   "ko": "저 저는 이런 레트로한 노래를 굉장히",
+   "en": "I really like retro songs like this."
+  },
+  {
+   "start_ms": 2068520,
+   "end_ms": 2070800,
+   "ko": "좋아합니다."
+  },
+  {
+   "start_ms": 2069639,
+   "end_ms": 2071200,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2070800,
+   "end_ms": 2073879,
+   "ko": "음.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2071200,
+   "end_ms": 2076399,
+   "ko": "이건 진짜 좋습니다. 진짜 딱 산책",
+   "speaker_change": true,
+   "en": "This one is really good."
+  },
+  {
+   "start_ms": 2073879,
+   "end_ms": 2078280,
+   "ko": "플레이리스트 생각하고 제일 먼저",
+   "en": "I was thinking of a walking playlist, and"
+  },
+  {
+   "start_ms": 2076399,
+   "end_ms": 2080720,
+   "ko": "떠오른 노래가 얘였어요.",
+   "en": "this was the first song that came to mind."
+  },
+  {
+   "start_ms": 2078280,
+   "end_ms": 2082520,
+   "ko": "음. 딱 집으로 돌아가는 길 산책",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2080720,
+   "end_ms": 2084200,
+   "ko": "끝나고 돌아가는 길에",
+   "en": "On the way home after the walk ends,"
+  },
+  {
+   "start_ms": 2082520,
+   "end_ms": 2085240,
+   "ko": "음. 마무리하기 좋은 그런",
+   "speaker_change": true,
+   "en": "it's the kind of song that's good for wrapping things up."
+  },
+  {
+   "start_ms": 2084200,
+   "end_ms": 2087879,
+   "ko": "노래였습니다."
+  },
+  {
+   "start_ms": 2085240,
+   "end_ms": 2088560,
+   "ko": "네. 네. 엔딩 크레딧을 등 뒤에",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2087879,
+   "end_ms": 2090960,
+   "ko": "네.",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2088560,
+   "end_ms": 2093800,
+   "ko": "네. 올리면서",
+   "speaker_change": true,
+   "en": "Like putting the end credits behind your back as you walk,"
+  },
+  {
+   "start_ms": 2090960,
+   "end_ms": 2096839,
+   "ko": "음. 엔딩 크레딧. 엔딩",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2093800,
+   "end_ms": 2097880,
+   "ko": "크레딧이구나. 생각해 본 적 없어요.",
+   "en": "I've never thought of it as end credits before."
+  },
+  {
+   "start_ms": 2096839,
+   "end_ms": 2099440,
+   "ko": "아, 그런 느낌이네요.",
+   "speaker_change": true,
+   "en": "But now that you mention it, there is that feeling."
+  },
+  {
+   "start_ms": 2097880,
+   "end_ms": 2101640,
+   "ko": "듣고 보니 네.",
+   "speaker_change": true,
+   "en": "Now that I listen to it... yes, wrapping up so nicely like this,"
+  },
+  {
+   "start_ms": 2099440,
+   "end_ms": 2104320,
+   "ko": "이렇게 잘 마무리하고 여섯 곳까지 딱",
+   "speaker_change": true,
+   "en": "if we listen to all six songs,"
+  },
+  {
+   "start_ms": 2101640,
+   "end_ms": 2105520,
+   "ko": "들으면 산책 딱 잘 마무리할 수 있지",
+   "en": "I think we could wrap up the walk really well, don't you think?"
+  },
+  {
+   "start_ms": 2104320,
+   "end_ms": 2107280,
+   "ko": "않을까 생각합니다."
+  },
+  {
+   "start_ms": 2105520,
+   "end_ms": 2109800,
+   "ko": "음. 좋습니다.",
+   "speaker_change": true,
+   "en": "That's great."
+  },
+  {
+   "start_ms": 2107280,
+   "end_ms": 2112839,
+   "ko": "오늘 퀴즈도 앞에 말씀드린 거 이제",
+   "speaker_change": true,
+   "en": "So with today's quiz, you should be able to get the answer now from what we mentioned earlier, right?"
+  },
+  {
+   "start_ms": 2109800,
+   "end_ms": 2114640,
+   "ko": "맞출 수 있겠죠? 지금 댓글로 퀴즈",
+   "en": "Please leave your quiz answer in the comments,"
+  },
+  {
+   "start_ms": 2112839,
+   "end_ms": 2117000,
+   "ko": "정답 남겨 주시고요."
+  },
+  {
+   "start_ms": 2114640,
+   "end_ms": 2119800,
+   "ko": "그러면 이제 다음 주제를 생각해 볼",
+   "speaker_change": true,
+   "en": "and then we'll think about the next topic."
+  },
+  {
+   "start_ms": 2117000,
+   "end_ms": 2122079,
+   "ko": "건데 다음 주제는 어떤게 좋을까요?",
+   "en": "What would be a good next topic?"
+  },
+  {
+   "start_ms": 2119800,
+   "end_ms": 2126480,
+   "ko": "다음 주제는음"
+  },
+  {
+   "start_ms": 2122079,
+   "end_ms": 2128520,
+   "ko": "10월은 가을의 계절 가을은 천고",
+   "en": "The next topic is that October is the season of autumn, and autumn is the season of clear skies and high horses,"
+  },
+  {
+   "start_ms": 2126480,
+   "end_ms": 2130520,
+   "ko": "마비의 계절이자 독서의 계절이지",
+   "en": "and also the season of reading, isn't it?"
+  },
+  {
+   "start_ms": 2128520,
+   "end_ms": 2132040,
+   "ko": "않습니까? 맞습니다.",
+   "en": "That's right."
+  },
+  {
+   "start_ms": 2130520,
+   "end_ms": 2133960,
+   "ko": "그러면",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2132040,
+   "end_ms": 2134800,
+   "ko": "어떤 책 재밌는지",
+   "en": "So... what books are interesting,"
+  },
+  {
+   "start_ms": 2133960,
+   "end_ms": 2137520,
+   "ko": "음",
+   "speaker_change": true
+  },
+  {
+   "start_ms": 2134800,
+   "end_ms": 2140119,
+   "ko": "저희가 어떤 기준으로 어떤 취향으로",
+   "speaker_change": true,
+   "en": "what standards and tastes do we have when we read books and enjoy them,"
+  },
+  {
+   "start_ms": 2137520,
+   "end_ms": 2143280,
+   "ko": "책 읽고 좋아하는지"
+  },
+  {
+   "start_ms": 2140119,
+   "end_ms": 2145440,
+   "ko": "또 그리고 가장 좋아하는 책 재밌게",
+   "en": "and also our favorite books, books we've enjoyed reading—"
+  },
+  {
+   "start_ms": 2143280,
+   "end_ms": 2146280,
+   "ko": "읽은 책 이런 거 공유하면 좋을 거",
+   "en": "I think it would be good to share things like this."
+  },
+  {
+   "start_ms": 2145440,
+   "end_ms": 2148520,
+   "ko": "같아요."
+  },
+  {
+   "start_ms": 2146280,
+   "end_ms": 2151119,
+   "ko": "너무 좋을 것 같습니다. 다음 주제는",
+   "speaker_change": true,
+   "en": "That sounds really great."
+  },
+  {
+   "start_ms": 2148520,
+   "end_ms": 2155520,
+   "ko": "책으로 또 요모조모 이야기해 보도록",
+   "en": "For the next topic, we'll talk about books in Yomojomo style."
+  },
+  {
+   "start_ms": 2151119,
+   "end_ms": 2157040,
+   "ko": "하겠습니다. 그러면 여기까지 디디와",
+   "en": "So that's it for today with Didi and"
+  },
+  {
+   "start_ms": 2155520,
+   "end_ms": 2158880,
+   "ko": "정태웅이었습니다.",
+   "speaker_change": true,
+   "en": "Jeong Tae-woong."
+  },
+  {
+   "start_ms": 2157040,
+   "end_ms": 2173459,
+   "ko": "감사합니다.",
+   "en": "Thank you."
+  },
+  {
+   "start_ms": 2158880,
+   "end_ms": 2173459,
+   "ko": "[음악]"
+  }
+ ],
+ "hangul_chars": 8649,
+ "description": "【Didi와 정태웅의 한국생활 요모조모】\n한국에서 살아가는 두 사람이 한국 생활의 요모조모를 이야기하는 팟캐스트!\n한 달에 한 번 수요일 21시 업로드 됩니다.\n\n0:00 오랜만이에요!\n1:35 지난주 퀴즈 정답자\n2:59 이번주 퀴즈\n4:00 태웅쌤의 산책 코스\n5:57 태웅쌤의 첫 번째 곡\n10:40 Didi의 첫 번째 곡\n15:40 태웅쌤의 두 번째 곡\n24:43 Didi의 두 번째 곡\n28:12 태웅쌤의 세 번째 곡\n32:22 Didi의 세 번째 곡\n\n태웅쌤 유튜브 채널: @ComprehensibleInputKorean @AllThingsKoreanPodcast @HalfHalfKoreanEnglishPodcast \n\n✶ 주제 추천과 사연은 여기로:\ndidifromkorea@gmail.com\n\n✶ Instagram:\nDidi: https://www.instagram.com/didikoreanpodcast\n정태웅: https://www.instagram.com/vivoestasbona\n\n#koreanpodcast #koreanlistening #한국어팟캐스트"
+}

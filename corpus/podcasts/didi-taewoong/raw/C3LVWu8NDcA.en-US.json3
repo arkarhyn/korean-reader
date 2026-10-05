@@ -1,0 +1,4465 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yomojomo of Life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 19000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Could you introduce today's topic for us?"
+    } ]
+  }, {
+    "tStartMs": 22000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Today's topic is something that happened recently in Korea. It's the rainy season."
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "The rainy season is called the season of rain that repeats every summer in Korea,"
+    } ]
+  }, {
+    "tStartMs": 34000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "and we call the period when a lot of rain falls mainly between the end of June and mid-July the rainy season."
+    } ]
+  }, {
+    "tStartMs": 41000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This period changes a little bit every year."
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So recently, they said the rainy season would come at the end of June, but then it didn't come, and then it came back,"
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and last week there was a lot of rain nationwide."
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How has it been where you are, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 59000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "As you know, I'm in Busan, right?"
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "In Busan too, they kept saying rain was coming but it didn't come,"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and then last week it rained really heavily for several days."
+    } ]
+  }, {
+    "tStartMs": 72000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Right, it kept coming here too, I'm in the Gyeonggi-do area,"
+    } ]
+  }, {
+    "tStartMs": 77000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and today we wanted to let everyone participate,"
+    } ]
+  }, {
+    "tStartMs": 81000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so before we talk about the episode, I'd like to give you a quiz."
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The quiz is that we're going to talk about three things,"
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and you just need to figure out which one is correct and which ones are wrong,"
+    } ]
+  }, {
+    "tStartMs": 95000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and out of the three things, two are correct and one is wrong."
+    } ]
+  }, {
+    "tStartMs": 99000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So you need to find which one is wrong and which number it is."
+    } ]
+  }, {
+    "tStartMs": 104000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So the one wrong answer is the correct answer."
+    } ]
+  }, {
+    "tStartMs": 107000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes, you just need to write down which one is wrong."
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "First, during the rainy season, the amount of food delivery orders increases."
+    } ]
+  }, {
+    "tStartMs": 118000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Second, the rainy season is 30 days every year."
+    } ]
+  }, {
+    "tStartMs": 124000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Third, Korea's representative rainy day food is pajeon."
+    } ]
+  }, {
+    "tStartMs": 132000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's right. There might be hints in our conversation,"
+    } ]
+  }, {
+    "tStartMs": 136000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so please listen all the way through and leave your answer,"
+    } ]
+  }, {
+    "tStartMs": 140000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and we'll announce the answer in the next episode."
+    } ]
+  }, {
+    "tStartMs": 143000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Please participate a lot."
+    } ]
+  }, {
+    "tStartMs": 145000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How did you spend the rainy season?"
+    } ]
+  }, {
+    "tStartMs": 148000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "For me, there's not really much difference, honestly."
+    } ]
+  }, {
+    "tStartMs": 153000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Were you at home?"
+    } ]
+  }, {
+    "tStartMs": 154000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 155000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I ended up staying home even more."
+    } ]
+  }, {
+    "tStartMs": 158000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "We all work from home,"
+    } ]
+  }, {
+    "tStartMs": 161000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but Teacher Tae-woong, you do exercise, don't you?"
+    } ]
+  }, {
+    "tStartMs": 163000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 165000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Did that not affect you? Like taking walks or things like that?"
+    } ]
+  }, {
+    "tStartMs": 168000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I couldn't take walks."
+    } ]
+  }, {
+    "tStartMs": 171000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 173000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But sometimes I do go out,"
+    } ]
+  }, {
+    "tStartMs": 177000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "when it rains a lot I wear a raincoat,"
+    } ]
+  }, {
+    "tStartMs": 181000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "a long raincoat that comes down to my legs,"
+    } ]
+  }, {
+    "tStartMs": 185000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and when I walk alone on a deserted walking path,"
+    } ]
+  }, {
+    "tStartMs": 189000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "it feels like a scene from a horror movie."
+    } ]
+  }, {
+    "tStartMs": 194000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 195000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is the raincoat disposable?"
+    } ]
+  }, {
+    "tStartMs": 197000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "No. I use a sturdy raincoat that I can keep using."
+    } ]
+  }, {
+    "tStartMs": 201000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It seems like it's good to have one."
+    } ]
+  }, {
+    "tStartMs": 203000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It seems that way. Sometimes when it rains really hard I just give up"
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and don't worry about getting a little wet, and that seems nice."
+    } ]
+  }, {
+    "tStartMs": 212000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The raincoat I wear is also a sturdy raincoat, I think,"
+    } ]
+  }, {
+    "tStartMs": 216000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but under heavy rain pouring down,"
+    } ]
+  }, {
+    "tStartMs": 221000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "when I walk for about an hour,"
+    } ]
+  }, {
+    "tStartMs": 223000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "water gets all over my body anyway."
+    } ]
+  }, {
+    "tStartMs": 226000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see. So it doesn't block it completely."
+    } ]
+  }, {
+    "tStartMs": 229000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It seems that way."
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So did you substitute exercise by taking walks in a raincoat?"
+    } ]
+  }, {
+    "tStartMs": 236000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Exercise can be done at home too"
+    } ]
+  }, {
+    "tStartMs": 241000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So it's really great"
+    } ]
+  }, {
+    "tStartMs": 243000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's good to keep exercising"
+    } ]
+  }, {
+    "tStartMs": 247000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Didi, do you dislike typhoons more, or the rainy season more?"
+    } ]
+  }, {
+    "tStartMs": 254000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Typhoons don't seem to happen much recently. Big typhoons"
+    } ]
+  }, {
+    "tStartMs": 259000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't have many memories of it happening"
+    } ]
+  }, {
+    "tStartMs": 263000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Or it just passes quickly"
+    } ]
+  }, {
+    "tStartMs": 266000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And the rainy season wasn't so bad because"
+    } ]
+  }, {
+    "tStartMs": 272000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "For me, it was extremely hot, but around the rainy season"
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The temperature dropped and it felt cool"
+    } ]
+  }, {
+    "tStartMs": 280000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That part was okay"
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And since I'm at home anyway"
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I don't really dislike it that much. Neither the rainy season nor typhoons"
+    } ]
+  }, {
+    "tStartMs": 289000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What about you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 290000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yeah, if you don't go outside, that makes sense"
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But if you think about it from a commuter's perspective, the rainy season seems harder"
+    } ]
+  }, {
+    "tStartMs": 298000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right. And it's not just a few days either. It's for weeks"
+    } ]
+  }, {
+    "tStartMs": 302000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You always have to carry an umbrella with you"
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I forgot about it for a moment, but I have a memory of that being difficult"
+    } ]
+  }, {
+    "tStartMs": 309000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That's right. Actually, I tend to like typhoons"
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Typhoons? Why?"
+    } ]
+  }, {
+    "tStartMs": 315000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Like I mentioned earlier, when I walk alone on a hiking trail with no one around"
+    } ]
+  }, {
+    "tStartMs": 321000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I find it fun to see the thunder"
+    } ]
+  }, {
+    "tStartMs": 324000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You walk around even in typhoons?"
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Sometimes. Yes"
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's awesome"
+    } ]
+  }, {
+    "tStartMs": 331000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can see that thunder really up close, you know"
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Like the loud, rumbling thunder sound"
+    } ]
+  }, {
+    "tStartMs": 338000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Thunder is the sound and lightning is what you see"
+    } ]
+  }, {
+    "tStartMs": 341000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right. Both of those"
+    } ]
+  }, {
+    "tStartMs": 343000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That thunder boom, rumble, boom boom sound right from below"
+    } ]
+  }, {
+    "tStartMs": 348000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And I see the lightning right next to me too"
+    } ]
+  }, {
+    "tStartMs": 351000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There's that kind of fun to it"
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You find that fun?"
+    } ]
+  }, {
+    "tStartMs": 356000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think it is fun"
+    } ]
+  }, {
+    "tStartMs": 358000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "For me, it was last week, I think"
+    } ]
+  }, {
+    "tStartMs": 362000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When the rainy season was really dragging on"
+    } ]
+  }, {
+    "tStartMs": 364000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There was a day with really intense thunder and lightning in the early morning"
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It was really loud and I kept getting startled"
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Even though thunder and lightning aren't that scary"
+    } ]
+  }, {
+    "tStartMs": 378000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When you hear them, you do get a bit startled"
+    } ]
+  }, {
+    "tStartMs": 381000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right. You do get startled"
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You've got nerves of steel"
+    } ]
+  }, {
+    "tStartMs": 386000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm not sure. Maybe I've played too many horror games?"
+    } ]
+  }, {
+    "tStartMs": 388000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's the thing"
+    } ]
+  }, {
+    "tStartMs": 389000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "My dopamine levels"
+    } ]
+  }, {
+    "tStartMs": 394000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Have gone up"
+    } ]
+  }, {
+    "tStartMs": 396000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I think that might be it"
+    } ]
+  }, {
+    "tStartMs": 397000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't get startled easily anymore"
+    } ]
+  }, {
+    "tStartMs": 401000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I like the rainy season less than typhoons"
+    } ]
+  }, {
+    "tStartMs": 404000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Less. It's not fun and there's no thrill"
+    } ]
+  }, {
+    "tStartMs": 408000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's humid"
+    } ]
+  }, {
+    "tStartMs": 409000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And actually, you like bright days, right"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right. In summer, those kinds of scenes are pretty too"
+    } ]
+  }, {
+    "tStartMs": 416000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When you see the sunlight in a bright morning"
+    } ]
+  }, {
+    "tStartMs": 419000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Your energy goes up and all that"
+    } ]
+  }, {
+    "tStartMs": 423000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But when it rains, it feels a bit depressing"
+    } ]
+  }, {
+    "tStartMs": 425000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 427000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But last week was the end of the rainy season"
+    } ]
+  }, {
+    "tStartMs": 431000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Starting this week, it seems to be getting bright and sunny again."
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It feels like the beginning of midsummer."
+    } ]
+  }, {
+    "tStartMs": 438000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But actually, I don't know much about that."
+    } ]
+  }, {
+    "tStartMs": 441000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's a characteristic of the rainy season."
+    } ]
+  }, {
+    "tStartMs": 443000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 446000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Actually, I mentioned before that it had disappeared."
+    } ]
+  }, {
+    "tStartMs": 449000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 450000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I looked it up."
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "There's a place called the Korea Meteorological Administration that forecasts the weather, right?"
+    } ]
+  }, {
+    "tStartMs": 456000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "They don't officially announce the rainy season—"
+    } ]
+  }, {
+    "tStartMs": 462000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The start and end of the rainy season."
+    } ]
+  }, {
+    "tStartMs": 465000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When we say the rainy season has ended,"
+    } ]
+  }, {
+    "tStartMs": 469000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "it's information from the internet"
+    } ]
+  }, {
+    "tStartMs": 470000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "or information that came out in the news somewhere,"
+    } ]
+  }, {
+    "tStartMs": 475000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but the actual government agency doesn't officially say anything about it."
+    } ]
+  }, {
+    "tStartMs": 478000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They say they can't."
+    } ]
+  }, {
+    "tStartMs": 479000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So that's the real truth."
+    } ]
+  }, {
+    "tStartMs": 485000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I mean, how would you even know that?"
+    } ]
+  }, {
+    "tStartMs": 489000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 491000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So when it rains, Teacher Tae-woong, what's difficult for you?"
+    } ]
+  }, {
+    "tStartMs": 495000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "For me, it's just—"
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Just that breathing feels difficult, I guess?"
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "My body feels heavy."
+    } ]
+  }, {
+    "tStartMs": 502000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, when it rains, of course"
+    } ]
+  }, {
+    "tStartMs": 504000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "yes, it's always dark outside,"
+    } ]
+  }, {
+    "tStartMs": 509000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and there's this kind of droopy feeling,"
+    } ]
+  }, {
+    "tStartMs": 512000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "oh, like no mood at all,"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "like I don't feel that drive to work hard or anything,"
+    } ]
+  }, {
+    "tStartMs": 519000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so it's not great."
+    } ]
+  }, {
+    "tStartMs": 522000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It definitely seems to exist."
+    } ]
+  }, {
+    "tStartMs": 523000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 524000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The sky is dark too, so I can't even open my eyes well in the morning."
+    } ]
+  }, {
+    "tStartMs": 527000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, that's true, that's true."
+    } ]
+  }, {
+    "tStartMs": 528000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 529000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And I sleep more too."
+    } ]
+  }, {
+    "tStartMs": 531000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 532000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It gets sluggish."
+    } ]
+  }, {
+    "tStartMs": 533000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 534000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I have a few things."
+    } ]
+  }, {
+    "tStartMs": 536000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The thing I hate the most"
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "is no matter how much I style my hair before going out,"
+    } ]
+  }, {
+    "tStartMs": 541000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it all falls apart in like 30 seconds."
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 545000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because of the humidity."
+    } ]
+  }, {
+    "tStartMs": 546000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And also because of the humidity,"
+    } ]
+  }, {
+    "tStartMs": 549000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "when I do laundry"
+    } ]
+  }, {
+    "tStartMs": 551000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I dry it inside my room,"
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "because I don't have a balcony."
+    } ]
+  }, {
+    "tStartMs": 556000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It doesn't dry—the laundry never dries."
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So I have to keep running a circulator fan or something like that,"
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and even then it doesn't dry well,"
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so I end up running it a couple of times,"
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "things like that happen too."
+    } ]
+  }, {
+    "tStartMs": 570000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That would really be inconvenient in daily life."
+    } ]
+  }, {
+    "tStartMs": 573000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 575000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It would be nice to have at least a dryer."
+    } ]
+  }, {
+    "tStartMs": 577000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 578000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I really want to buy a dryer."
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "But it's expensive, you know."
+    } ]
+  }, {
+    "tStartMs": 581000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Actually, a dryer and a circulator are kind of essential items."
+    } ]
+  }, {
+    "tStartMs": 585000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "In a one-room apartment."
+    } ]
+  }, {
+    "tStartMs": 587000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 589000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Then the good thing is."
+    } ]
+  }, {
+    "tStartMs": 591000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 592000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "People talk about that a lot, you know."
+    } ]
+  }, {
+    "tStartMs": 593000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like food you eat on rainy days."
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 597000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, do you have any foods that come to mind when it rains?"
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I have it."
+    } ]
+  }, {
+    "tStartMs": 602000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Braised pork with kimchi?"
+    } ]
+  }, {
+    "tStartMs": 604000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 606000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What is it? It's jjamppong for me."
+    } ]
+  }, {
+    "tStartMs": 608000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, that's good."
+    } ]
+  }, {
+    "tStartMs": 610000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jjamppong on a rainy day."
+    } ]
+  }, {
+    "tStartMs": 612000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's nice, right? It's the best."
+    } ]
+  }, {
+    "tStartMs": 614000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "On rainy days, I feel like eating some noodles."
+    } ]
+  }, {
+    "tStartMs": 616000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jjamppong, jjajangmyeon, things like that."
+    } ]
+  }, {
+    "tStartMs": 618000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 620000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And what gets talked about a lot is"
+    } ]
+  }, {
+    "tStartMs": 622000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I have, you know,"
+    } ]
+  }, {
+    "tStartMs": 624000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "things cooked in oil,"
+    } ]
+  }, {
+    "tStartMs": 626000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jeon cooking?"
+    } ]
+  }, {
+    "tStartMs": 628000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's always"
+    } ]
+  }, {
+    "tStartMs": 630000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "not very satisfying, but"
+    } ]
+  }, {
+    "tStartMs": 632000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that kind of feeling."
+    } ]
+  }, {
+    "tStartMs": 634000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The feeling is definitely different."
+    } ]
+  }, {
+    "tStartMs": 636000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It doesn't seem sweet like pancakes at all, right?"
+    } ]
+  }, {
+    "tStartMs": 638000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "With syrup drizzled on it."
+    } ]
+  }, {
+    "tStartMs": 640000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 642000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I eat it dipped in soy sauce,"
+    } ]
+  }, {
+    "tStartMs": 644000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it's a salty dish."
+    } ]
+  }, {
+    "tStartMs": 646000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's salty, right?"
+    } ]
+  }, {
+    "tStartMs": 648000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Didi,"
+    } ]
+  }, {
+    "tStartMs": 650000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "do you prefer noodles?"
+    } ]
+  }, {
+    "tStartMs": 652000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Or do you prefer jeon?"
+    } ]
+  }, {
+    "tStartMs": 654000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Um,"
+    } ]
+  }, {
+    "tStartMs": 656000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think I eat noodles."
+    } ]
+  }, {
+    "tStartMs": 658000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Honestly, I only eat jeon"
+    } ]
+  }, {
+    "tStartMs": 660000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "during ancestral rites or"
+    } ]
+  }, {
+    "tStartMs": 662000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "holidays, and"
+    } ]
+  }, {
+    "tStartMs": 664000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've almost never bought it."
+    } ]
+  }, {
+    "tStartMs": 666000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jeon is more of a thing you eat with alcohol rather than with rice,"
+    } ]
+  }, {
+    "tStartMs": 668000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "at pojangmacha or"
+    } ]
+  }, {
+    "tStartMs": 670000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "drinking tents, you know?"
+    } ]
+  }, {
+    "tStartMs": 672000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You order it with makgeolli and jeon,"
+    } ]
+  }, {
+    "tStartMs": 674000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "like a jeon assortment or something."
+    } ]
+  }, {
+    "tStartMs": 676000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And since I don't drink much anyway,"
+    } ]
+  }, {
+    "tStartMs": 678000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've never"
+    } ]
+  }, {
+    "tStartMs": 680000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "bought it,"
+    } ]
+  }, {
+    "tStartMs": 682000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so I think I eat noodles."
+    } ]
+  }, {
+    "tStartMs": 684000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So then,"
+    } ]
+  }, {
+    "tStartMs": 686000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "what if I got a romantic interest?"
+    } ]
+  }, {
+    "tStartMs": 688000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "To my romantic interest,"
+    } ]
+  }, {
+    "tStartMs": 690000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "since it's a rainy"
+    } ]
+  }, {
+    "tStartMs": 692000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "day for us,"
+    } ]
+  }, {
+    "tStartMs": 694000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "should we go eat some jjamppong?"
+    } ]
+  }, {
+    "tStartMs": 696000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "saying it like that,"
+    } ]
+  }, {
+    "tStartMs": 698000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "or should we go eat pajeon since it's rainy?"
+    } ]
+  }, {
+    "tStartMs": 700000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "talking like that—which one"
+    } ]
+  }, {
+    "tStartMs": 702000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "do you think would"
+    } ]
+  }, {
+    "tStartMs": 704000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "make my romantic interest's"
+    } ]
+  }, {
+    "tStartMs": 706000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "heart feel better?"
+    } ]
+  }, {
+    "tStartMs": 708000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 710000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Both are fine, though?"
+    } ]
+  }, {
+    "tStartMs": 712000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 714000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Both are naturally"
+    } ]
+  }, {
+    "tStartMs": 716000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "something to say?"
+    } ]
+  }, {
+    "tStartMs": 718000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Something you can understand and relate to?"
+    } ]
+  }, {
+    "tStartMs": 720000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 722000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you want jjamppong or pajeon?"
+    } ]
+  }, {
+    "tStartMs": 724000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Of course pajeon."
+    } ]
+  }, {
+    "tStartMs": 726000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Don't you think so?"
+    } ]
+  }, {
+    "tStartMs": 728000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "On rainy days, it's pajeon and makgeolli."
+    } ]
+  }, {
+    "tStartMs": 730000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's kind of in Korea, kind of"
+    } ]
+  }, {
+    "tStartMs": 732000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "like that?"
+    } ]
+  }, {
+    "tStartMs": 734000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Doesn't it become kind of official? Or not?"
+    } ]
+  }, {
+    "tStartMs": 736000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It is kind of official."
+    } ]
+  }, {
+    "tStartMs": 738000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But noodles"
+    } ]
+  }, {
+    "tStartMs": 740000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Noodles seem kind of official too."
+    } ]
+  }, {
+    "tStartMs": 742000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It feels like everyone shares that feeling?"
+    } ]
+  }, {
+    "tStartMs": 744000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "On rainy days it's flour."
+    } ]
+  }, {
+    "tStartMs": 746000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 750000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Or not? It could be different for each person."
+    } ]
+  }, {
+    "tStartMs": 752000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Well, both are flour anyway."
+    } ]
+  }, {
+    "tStartMs": 754000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 756000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "On rainy days, alcohol and flour"
+    } ]
+  }, {
+    "tStartMs": 758000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "are craved."
+    } ]
+  }, {
+    "tStartMs": 760000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's a saying that you want to eat them."
+    } ]
+  }, {
+    "tStartMs": 762000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I wonder why."
+    } ]
+  }, {
+    "tStartMs": 764000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I looked it up a bit,"
+    } ]
+  }, {
+    "tStartMs": 766000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and when you eat flour,"
+    } ]
+  }, {
+    "tStartMs": 768000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it apparently relieves sadness."
+    } ]
+  }, {
+    "tStartMs": 770000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? Is that really true?"
+    } ]
+  }, {
+    "tStartMs": 772000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's carbohydrates,"
+    } ]
+  }, {
+    "tStartMs": 774000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and things like vitamin B"
+    } ]
+  }, {
+    "tStartMs": 776000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "are contained in it, so it can help"
+    } ]
+  }, {
+    "tStartMs": 778000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "with relieving sadness."
+    } ]
+  }, {
+    "tStartMs": 780000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 782000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There might be some effect like that"
+    } ]
+  }, {
+    "tStartMs": 784000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "too, right?"
+    } ]
+  }, {
+    "tStartMs": 786000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 788000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's the first time I'm hearing that."
+    } ]
+  }, {
+    "tStartMs": 790000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 792000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It makes sense though."
+    } ]
+  }, {
+    "tStartMs": 794000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But when it rains like that,"
+    } ]
+  }, {
+    "tStartMs": 796000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "should we go eat makgeolli? When people say that,"
+    } ]
+  }, {
+    "tStartMs": 798000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they really like it."
+    } ]
+  }, {
+    "tStartMs": 800000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's good, like that."
+    } ]
+  }, {
+    "tStartMs": 802000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No, pajeon is delicious."
+    } ]
+  }, {
+    "tStartMs": 804000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Pajeon? Seafood pajeon?"
+    } ]
+  }, {
+    "tStartMs": 806000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Not seafood pajeon,"
+    } ]
+  }, {
+    "tStartMs": 808000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "is there another kind of pajeon?"
+    } ]
+  }, {
+    "tStartMs": 810000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Well, there's beef pajeon with bulgogi and things like that, right?"
+    } ]
+  }, {
+    "tStartMs": 812000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 814000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think there probably is."
+    } ]
+  }, {
+    "tStartMs": 816000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I only remember eating"
+    } ]
+  }, {
+    "tStartMs": 818000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "seafood pajeon with shrimp in it."
+    } ]
+  }, {
+    "tStartMs": 820000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Mm, that's delicious."
+    } ]
+  }, {
+    "tStartMs": 822000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's kind of the standard,"
+    } ]
+  }, {
+    "tStartMs": 824000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you know, the menu item."
+    } ]
+  }, {
+    "tStartMs": 826000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The one with squid and shrimp."
+    } ]
+  }, {
+    "tStartMs": 828000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That sounds delicious."
+    } ]
+  }, {
+    "tStartMs": 830000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But I like that."
+    } ]
+  }, {
+    "tStartMs": 832000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Not big scallions but small scallions"
+    } ]
+  }, {
+    "tStartMs": 834000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "made into pajeon, I like that."
+    } ]
+  }, {
+    "tStartMs": 836000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh right, if the scallions are too big,"
+    } ]
+  }, {
+    "tStartMs": 838000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "they kind of linger in your mouth for a while,"
+    } ]
+  }, {
+    "tStartMs": 840000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it's too strong."
+    } ]
+  }, {
+    "tStartMs": 842000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the taste of scallions"
+    } ]
+  }, {
+    "tStartMs": 844000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and rather than pajeon,"
+    } ]
+  }, {
+    "tStartMs": 846000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I prefer buchu jeon."
+    } ]
+  }, {
+    "tStartMs": 870000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "A spoken mini-game."
+    } ]
+  }, {
+    "tStartMs": 900000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong teaches Korean to Korean language learners through games."
+    } ]
+  }, {
+    "tStartMs": 930000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong teaches Korean to Korean language learners through games."
+    } ]
+  }, {
+    "tStartMs": 952000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I have 10 umbrellas at home."
+    } ]
+  }, {
+    "tStartMs": 960000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I often wear slippers during the rainy season."
+    } ]
+  }, {
+    "tStartMs": 978000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I don't run on rainy days."
+    } ]
+  }, {
+    "tStartMs": 991000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I have rain boots."
+    } ]
+  }, {
+    "tStartMs": 999000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I've rolled down the stairs on a rainy day before."
+    } ]
+  }, {
+    "tStartMs": 1010000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I've been camping on a rainy day before."
+    } ]
+  }, {
+    "tStartMs": 1020000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I don't run on rainy days."
+    } ]
+  }, {
+    "tStartMs": 1025000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I don't exercise on rainy days."
+    } ]
+  }, {
+    "tStartMs": 1037000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I take walks on rainy days."
+    } ]
+  }, {
+    "tStartMs": 1054000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You're talking about me as a person, right?"
+    } ]
+  }, {
+    "tStartMs": 1060000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Let's make it recent times."
+    } ]
+  }, {
+    "tStartMs": 1064000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, do you have a question?"
+    } ]
+  }, {
+    "tStartMs": 1071000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I feel like you'd definitely have rain boots."
+    } ]
+  }, {
+    "tStartMs": 1074000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1076000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Because a lot of people have rain boots."
+    } ]
+  }, {
+    "tStartMs": 1081000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Rain boots."
+    } ]
+  }, {
+    "tStartMs": 1084000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Rain boots were trendy too, weren't they?"
+    } ]
+  }, {
+    "tStartMs": 1087000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I feel like you'd definitely have them. So it might be a trick too."
+    } ]
+  }, {
+    "tStartMs": 1093000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I didn't think you'd definitely have them."
+    } ]
+  }, {
+    "tStartMs": 1096000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you have rain boots?"
+    } ]
+  }, {
+    "tStartMs": 1098000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't have them."
+    } ]
+  }, {
+    "tStartMs": 1100000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't have a lot of other things too."
+    } ]
+  }, {
+    "tStartMs": 1103000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "For example, slippers?"
+    } ]
+  }, {
+    "tStartMs": 1106000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's a question about the problem, so."
+    } ]
+  }, {
+    "tStartMs": 1112000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You don't have slippers because you wear them?"
+    } ]
+  }, {
+    "tStartMs": 1115000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's about the problem, so I can't say."
+    } ]
+  }, {
+    "tStartMs": 1118000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Please don't ask leading questions like that."
+    } ]
+  }, {
+    "tStartMs": 1122000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But then how am I supposed to guess?"
+    } ]
+  }, {
+    "tStartMs": 1125000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Well, we've talked about a lot of things so far, you know."
+    } ]
+  }, {
+    "tStartMs": 1128000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "10 umbrellas at home? That's too hard."
+    } ]
+  }, {
+    "tStartMs": 1133000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You didn't actually count them, did you? Just for this problem today."
+    } ]
+  }, {
+    "tStartMs": 1137000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You went over to the umbrella stand there."
+    } ]
+  }, {
+    "tStartMs": 1140000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "One, two, three, four. Did I count that?"
+    } ]
+  }, {
+    "tStartMs": 1143000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Counting might not be that difficult."
+    } ]
+  }, {
+    "tStartMs": 1147000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Let's talk about it one by one. A story."
+    } ]
+  }, {
+    "tStartMs": 1150000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Well, if you tell a story, of course it's a story about that, right?"
+    } ]
+  }, {
+    "tStartMs": 1154000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So we're detecting whether you're lying or not."
+    } ]
+  }, {
+    "tStartMs": 1157000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You want me to tell a fake story?"
+    } ]
+  }, {
+    "tStartMs": 1160000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Making up a fake story. That's how we'll be able to guess it."
+    } ]
+  }, {
+    "tStartMs": 1168000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Got it. I'll give it a try."
+    } ]
+  }, {
+    "tStartMs": 1171000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What about the first sentence? Keep it short."
+    } ]
+  }, {
+    "tStartMs": 1176000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I live near a tourist area."
+    } ]
+  }, {
+    "tStartMs": 1183000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So there are just a lot of people coming and going. In our neighborhood."
+    } ]
+  }, {
+    "tStartMs": 1189000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "People who don't live here but just pass through."
+    } ]
+  }, {
+    "tStartMs": 1192000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And near my house there's a famous walking trail."
+    } ]
+  }, {
+    "tStartMs": 1197000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So there are a lot of tourists."
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "Sometimes when it rains, customers buy umbrellas at convenience stores and then"
+    } ]
+  }, {
+    "tStartMs": 1206680,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "just leave the umbrellas on the street."
+    } ]
+  }, {
+    "tStartMs": 1210360,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Like, perfectly fine umbrellas."
+    } ]
+  }, {
+    "tStartMs": 1211960,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1212960,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1213960,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "So I can just take those umbrellas home with me, right?"
+    } ]
+  }, {
+    "tStartMs": 1219400,
+    "dDurationMs": 1159,
+    "segs": [ {
+      "utf8": "Picking up umbrellas."
+    } ]
+  }, {
+    "tStartMs": 1220559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1221559,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "I pick them up and bring them home."
+    } ]
+  }, {
+    "tStartMs": 1223120,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1224200,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "And that's how I've accumulated nine of them."
+    } ]
+  }, {
+    "tStartMs": 1226080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1227600,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1229799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1230799,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The second one is"
+    } ]
+  }, {
+    "tStartMs": 1231799,
+    "dDurationMs": 11881,
+    "segs": [ {
+      "utf8": "The second one is, when my socks get wet,"
+    } ]
+  }, {
+    "tStartMs": 1243680,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "oh, it really bothers me."
+    } ]
+  }, {
+    "tStartMs": 1244759,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1246959,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Yes, and I also really hate it when my pants get wet,"
+    } ]
+  }, {
+    "tStartMs": 1252599,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1253599,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "so I wear shorts pretty often."
+    } ]
+  }, {
+    "tStartMs": 1257680,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "Okay, you wear them. Okay."
+    } ]
+  }, {
+    "tStartMs": 1263599,
+    "dDurationMs": 1881,
+    "segs": [ {
+      "utf8": "Yes, I wear shorts frequently."
+    } ]
+  }, {
+    "tStartMs": 1265480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1266480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, and"
+    } ]
+  }, {
+    "tStartMs": 1267480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Running—I don't do that, so how about a story once, well"
+    } ]
+  }, {
+    "tStartMs": 1272480,
+    "dDurationMs": 6159,
+    "segs": [ {
+      "utf8": "I don't run."
+    } ]
+  }, {
+    "tStartMs": 1278639,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "Even on days when it's not raining, I don't run."
+    } ]
+  }, {
+    "tStartMs": 1283360,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I just don't run, basically."
+    } ]
+  }, {
+    "tStartMs": 1286120,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "Oh, I don't run these days."
+    } ]
+  }, {
+    "tStartMs": 1291400,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "On rainy days, hey, and I just don't run."
+    } ]
+  }, {
+    "tStartMs": 1295239,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1296239,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "Oh, it all sounds plausible."
+    } ]
+  }, {
+    "tStartMs": 1300120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1301120,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So you must have nine umbrellas then."
+    } ]
+  }, {
+    "tStartMs": 1303760,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "It all sounds pretty plausible, somehow."
+    } ]
+  }, {
+    "tStartMs": 1308800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'll think about it."
+    } ]
+  }, {
+    "tStartMs": 1309800,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1311800,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "For me, first, I didn't originally have rain boots,"
+    } ]
+  }, {
+    "tStartMs": 1317199,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "and my birthday is in June,"
+    } ]
+  }, {
+    "tStartMs": 1320120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1321120,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "so this year I received a gift."
+    } ]
+  }, {
+    "tStartMs": 1324720,
+    "dDurationMs": 2159,
+    "segs": [ {
+      "utf8": "Rain boots that I wanted to have."
+    } ]
+  }, {
+    "tStartMs": 1326879,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh wow."
+    } ]
+  }, {
+    "tStartMs": 1327879,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "So I got boots."
+    } ]
+  }, {
+    "tStartMs": 1329919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1330919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And the second one is"
+    } ]
+  }, {
+    "tStartMs": 1331919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1332919,
+    "dDurationMs": 5961,
+    "segs": [ {
+      "utf8": "When I was little, I went to an art academy when I was really young,"
+    } ]
+  }, {
+    "tStartMs": 1339039,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and when I was coming home from there, I came down the stairs really fast,"
+    } ]
+  }, {
+    "tStartMs": 1343279,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "and those stairs are slippery, you know,"
+    } ]
+  }, {
+    "tStartMs": 1345800,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "so I was wearing rain boots back then too, when I was little,"
+    } ]
+  }, {
+    "tStartMs": 1349639,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "and they were so slippery that I tumbled down and got really badly hurt."
+    } ]
+  }, {
+    "tStartMs": 1354479,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "Oh, that's detailed though."
+    } ]
+  }, {
+    "tStartMs": 1356600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Uh."
+    } ]
+  }, {
+    "tStartMs": 1357600,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And the third one is"
+    } ]
+  }, {
+    "tStartMs": 1360600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Camping—when I was little, I went to that pretty often too,"
+    } ]
+  }, {
+    "tStartMs": 1363320,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "not that often, but I went sometimes with my family,"
+    } ]
+  }, {
+    "tStartMs": 1367360,
+    "dDurationMs": 5559,
+    "segs": [ {
+      "utf8": "usually Dad's vacation falls during the rainy season a lot,"
+    } ]
+  }, {
+    "tStartMs": 1372919,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "so the timing overlapped a lot."
+    } ]
+  }, {
+    "tStartMs": 1376520,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "I went camping, and it rained so heavily at night"
+    } ]
+  }, {
+    "tStartMs": 1380919,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "that my back got completely soaked."
+    } ]
+  }, {
+    "tStartMs": 1384600,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "I've experienced camping on a rainy day."
+    } ]
+  }, {
+    "tStartMs": 1387320,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1388320,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "Oh right, that's how this game works originally."
+    } ]
+  }, {
+    "tStartMs": 1391639,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It seems like it."
+    } ]
+  }, {
+    "tStartMs": 1392639,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "That's how you're supposed to make a guess, it seems."
+    } ]
+  }, {
+    "tStartMs": 1394399,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right, but there's a lie mixed in among these."
+    } ]
+  }, {
+    "tStartMs": 1396399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's what I mean."
+    } ]
+  }, {
+    "tStartMs": 1397399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1398399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1399399,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Should we pick one?"
+    } ]
+  }, {
+    "tStartMs": 1400399,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Since I haven't done this in years,"
+    } ]
+  }, {
+    "tStartMs": 1402759,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But you can also ask a question here, right?"
+    } ]
+  }, {
+    "tStartMs": 1406119,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1407119,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1408119,
+    "dDurationMs": 5881,
+    "segs": [ {
+      "utf8": "But when I went camping with my family,"
+    } ]
+  }, {
+    "tStartMs": 1414000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "it was before we moved to Gyeonggi Province."
+    } ]
+  }, {
+    "tStartMs": 1415600,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Yes, back then."
+    } ]
+  }, {
+    "tStartMs": 1417960,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Oh, so your older brother went too?"
+    } ]
+  }, {
+    "tStartMs": 1422240,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "That's right, four of us."
+    } ]
+  }, {
+    "tStartMs": 1423679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1424679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I didn't catch a cold."
+    } ]
+  }, {
+    "tStartMs": 1426199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It seems like I didn't catch a cold."
+    } ]
+  }, {
+    "tStartMs": 1428199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because I was young."
+    } ]
+  }, {
+    "tStartMs": 1429199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Pretty sturdy."
+    } ]
+  }, {
+    "tStartMs": 1430199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because I was little."
+    } ]
+  }, {
+    "tStartMs": 1431199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because I was little, because I was little."
+    } ]
+  }, {
+    "tStartMs": 1432199,
+    "dDurationMs": 3961,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 1436160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And I fell down the stairs on a rainy day and went to the hospital."
+    } ]
+  }, {
+    "tStartMs": 1442160,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "My mother raised me to be quite tough."
+    } ]
+  }, {
+    "tStartMs": 1444800,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1445800,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "I just had a lot of bruises on my legs,"
+    } ]
+  }, {
+    "tStartMs": 1451240,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and I rested at home."
+    } ]
+  }, {
+    "tStartMs": 1452240,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "How old were you then?"
+    } ]
+  }, {
+    "tStartMs": 1458920,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "I was very young, five or six years old."
+    } ]
+  }, {
+    "tStartMs": 1462239,
+    "dDurationMs": 11201,
+    "segs": [ {
+      "utf8": "A five-year-old fell down the stairs, didn't even go to the hospital, and nothing was broken."
+    } ]
+  }, {
+    "tStartMs": 1473440,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "That's how they raised me back then."
+    } ]
+  }, {
+    "tStartMs": 1475079,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Hmm."
+    } ]
+  }, {
+    "tStartMs": 1482079,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "I have a question, should I ask?"
+    } ]
+  }, {
+    "tStartMs": 1483519,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "Please, ask anytime if you have a question."
+    } ]
+  }, {
+    "tStartMs": 1486200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So today I counted the umbrellas a bit when I went there."
+    } ]
+  }, {
+    "tStartMs": 1489760,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, you counted them."
+    } ]
+  }, {
+    "tStartMs": 1490760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I counted them to see how many had accumulated."
+    } ]
+  }, {
+    "tStartMs": 1494760,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "Yes, of course."
+    } ]
+  }, {
+    "tStartMs": 1496079,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "But exactly ten had fallen."
+    } ]
+  }, {
+    "tStartMs": 1497880,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1499119,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "You must have felt really good, exactly ten falling."
+    } ]
+  }, {
+    "tStartMs": 1501920,
+    "dDurationMs": 9080,
+    "segs": [ {
+      "utf8": "Oh, like one of three problems happened, and I felt good about it."
+    } ]
+  }, {
+    "tStartMs": 1511000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "There's this debate in Korea, you know."
+    } ]
+  }, {
+    "tStartMs": 1513160,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "Whether you wear slippers on rainy days or wear socks and sneakers."
+    } ]
+  }, {
+    "tStartMs": 1520480,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "But I didn't even know there was such a debate."
+    } ]
+  }, {
+    "tStartMs": 1523359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh really."
+    } ]
+  }, {
+    "tStartMs": 1524359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1525359,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "It might just be something my friends around me talk about."
+    } ]
+  }, {
+    "tStartMs": 1527480,
+    "dDurationMs": 8879,
+    "segs": [ {
+      "utf8": "Oh but wearing socks and sneakers is just the same, just what you normally"
+    } ]
+  }, {
+    "tStartMs": 1536359,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "wear anyway."
+    } ]
+  }, {
+    "tStartMs": 1538040,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "Right, it means you do it as usual."
+    } ]
+  }, {
+    "tStartMs": 1541119,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "So the choice there is this."
+    } ]
+  }, {
+    "tStartMs": 1543040,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "I just walk around whether water gets in or not."
+    } ]
+  }, {
+    "tStartMs": 1546559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm going to get wet anyway."
+    } ]
+  }, {
+    "tStartMs": 1547559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1548559,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "Is it the type where you're careful and wear sneakers to keep water out as much as possible,"
+    } ]
+  }, {
+    "tStartMs": 1553200,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "or is it the ocean where you just go for it?"
+    } ]
+  }, {
+    "tStartMs": 1554880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1555880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1556880,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong just stomps right through it."
+    } ]
+  }, {
+    "tStartMs": 1559559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm going to get wet anyway."
+    } ]
+  }, {
+    "tStartMs": 1562559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1563559,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "My pants are going to get wet, so I just stomp through."
+    } ]
+  }, {
+    "tStartMs": 1566920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Splash."
+    } ]
+  }, {
+    "tStartMs": 1567920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1568920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1569920,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "Why can't you answer?"
+    } ]
+  }, {
+    "tStartMs": 1573399,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "Wait, wait—I said I dislike it earlier, right?"
+    } ]
+  }, {
+    "tStartMs": 1577880,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "This sentence is a bit odd here."
+    } ]
+  }, {
+    "tStartMs": 1580359,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I said I dislike it earlier."
+    } ]
+  }, {
+    "tStartMs": 1583359,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "You said you dislike getting your pants wet, right?"
+    } ]
+  }, {
+    "tStartMs": 1585920,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Yes, I dislike getting my pants wet. I dislike getting my pants wet."
+    } ]
+  }, {
+    "tStartMs": 1589480,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Pants just cling to your legs, you know."
+    } ]
+  }, {
+    "tStartMs": 1591640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1593640,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "And I also dislike getting my socks wet, so I just go barefoot."
+    } ]
+  }, {
+    "tStartMs": 1598679,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "Now that I think about it, it doesn't seem so bad."
+    } ]
+  }, {
+    "tStartMs": 1601200,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "What? What? What's happening now?"
+    } ]
+  }, {
+    "tStartMs": 1604720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The problem doesn't change."
+    } ]
+  }, {
+    "tStartMs": 1609720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Now that I think about it, what—"
+    } ]
+  }, {
+    "tStartMs": 1613160,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "And if I have to run anyway,"
+    } ]
+  }, {
+    "tStartMs": 1617000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1618000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I have no choice but to wear socks, right?"
+    } ]
+  }, {
+    "tStartMs": 1619600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1620600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1622600,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "But since you wear them often, you could wear them when exercising too."
+    } ]
+  }, {
+    "tStartMs": 1627359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1628359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That could be the case."
+    } ]
+  }, {
+    "tStartMs": 1629359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1630359,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Let's pick one thing we're sure about then."
+    } ]
+  }, {
+    "tStartMs": 1632160,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I understand by this point."
+    } ]
+  }, {
+    "tStartMs": 1634480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "For me, something certain—"
+    } ]
+  }, {
+    "tStartMs": 1637160,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I think you probably don't run on rainy days."
+    } ]
+  }, {
+    "tStartMs": 1640760,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1643279,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Yes, yes, yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1647679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Confirmed."
+    } ]
+  }, {
+    "tStartMs": 1648679,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "But as a side note,"
+    } ]
+  }, {
+    "tStartMs": 1650640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1651640,
+    "dDurationMs": 7319,
+    "segs": [ {
+      "utf8": "I did that 366-day running challenge last year—you know, running every single day for a year."
+    } ]
+  }, {
+    "tStartMs": 1658959,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1659959,
+    "dDurationMs": 4961,
+    "segs": [ {
+      "utf8": "And then around July or August I caught COVID and didn't run,"
+    } ]
+  }, {
+    "tStartMs": 1664920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1665920,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "but up until then I ran no matter what, even when it rained."
+    } ]
+  }, {
+    "tStartMs": 1670200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 1671200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1672200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1673200,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "But these days, when it rains, I don't run."
+    } ]
+  }, {
+    "tStartMs": 1676839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Huh."
+    } ]
+  }, {
+    "tStartMs": 1677839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1678839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1679839,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "So I've fallen down the stairs on a rainy day."
+    } ]
+  }, {
+    "tStartMs": 1685399,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Is that true?"
+    } ]
+  }, {
+    "tStartMs": 1687119,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's true."
+    } ]
+  }, {
+    "tStartMs": 1688119,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Ah yes, the story had so much detail."
+    } ]
+  }, {
+    "tStartMs": 1689920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 1690920,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1691920,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "Well, it wasn't that serious of an injury."
+    } ]
+  }, {
+    "tStartMs": 1694799,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "I think that's why I didn't go to the hospital."
+    } ]
+  }, {
+    "tStartMs": 1696200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1697200,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1698200,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "I got a big bruise."
+    } ]
+  }, {
+    "tStartMs": 1699600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1700600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That happened."
+    } ]
+  }, {
+    "tStartMs": 1701600,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1702600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "So everyone, please be careful not to fall on those stairs."
+    } ]
+  }, {
+    "tStartMs": 1707640,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "You really have to be careful—you can't rush down the stairs."
+    } ]
+  }, {
+    "tStartMs": 1710959,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1711959,
+    "dDurationMs": 5001,
+    "segs": [ {
+      "utf8": "No matter how much of a hurry you're in, you must always hold the handrail when coming down the stairs."
+    } ]
+  }, {
+    "tStartMs": 1716960,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1717960,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "So now we have 2 left."
+    } ]
+  }, {
+    "tStartMs": 1721239,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1724119,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Should we pick one, or what?"
+    } ]
+  }, {
+    "tStartMs": 1726159,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "Um, do you have any questions?"
+    } ]
+  }, {
+    "tStartMs": 1728400,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "I think you probably wear slippers pretty often."
+    } ]
+  }, {
+    "tStartMs": 1733159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1734159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because—"
+    } ]
+  }, {
+    "tStartMs": 1735159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, but you see—"
+    } ]
+  }, {
+    "tStartMs": 1736159,
+    "dDurationMs": 8801,
+    "segs": [ {
+      "utf8": "Because I think you really hate getting your socks wet."
+    } ]
+  }, {
+    "tStartMs": 1744960,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "That's probably why you didn't run either."
+    } ]
+  }, {
+    "tStartMs": 1749159,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "Oh, so that's the reason you don't run."
+    } ]
+  }, {
+    "tStartMs": 1751640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1752640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1754640,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "Um, could I ask what kind of slippers you wear?"
+    } ]
+  }, {
+    "tStartMs": 1758359,
+    "dDurationMs": 2281,
+    "segs": [ {
+      "utf8": "Slippers you wear when it rains."
+    } ]
+  }, {
+    "tStartMs": 1760640,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Jjori."
+    } ]
+  }, {
+    "tStartMs": 1761880,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "Oh, I don't wear jjori."
+    } ]
+  }, {
+    "tStartMs": 1764159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1765159,
+    "dDurationMs": 8121,
+    "segs": [ {
+      "utf8": "Jjori is a slipper where you put it between your big toe and your second toe."
+    } ]
+  }, {
+    "tStartMs": 1773280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You know?"
+    } ]
+  }, {
+    "tStartMs": 1774280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1775280,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's what we call jjori."
+    } ]
+  }, {
+    "tStartMs": 1776280,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "But I don't wear jjori."
+    } ]
+  }, {
+    "tStartMs": 1777479,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "Oh, so just regular three-stripe slippers."
+    } ]
+  }, {
+    "tStartMs": 1779320,
+    "dDurationMs": 2719,
+    "segs": [ {
+      "utf8": "That kind of style of slipper."
+    } ]
+  }, {
+    "tStartMs": 1782039,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Oh, the typical kind of slipper."
+    } ]
+  }, {
+    "tStartMs": 1784359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1785359,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1786359,
+    "dDurationMs": 4521,
+    "segs": [ {
+      "utf8": "You know how water gets into slippers when it rains."
+    } ]
+  }, {
+    "tStartMs": 1790880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It gets all squishy and wet."
+    } ]
+  }, {
+    "tStartMs": 1793880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1794880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Doesn't that happen to you?"
+    } ]
+  }, {
+    "tStartMs": 1795880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It does."
+    } ]
+  }, {
+    "tStartMs": 1796880,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's fine though."
+    } ]
+  }, {
+    "tStartMs": 1797880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But sneakers are the same way."
+    } ]
+  }, {
+    "tStartMs": 1800880,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Don't all shoes do that?"
+    } ]
+  }, {
+    "tStartMs": 1802679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1803679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1805000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "If I wear slippers and step in a puddle and get mud water on my feet like this, that's okay?"
+    } ]
+  }, {
+    "tStartMs": 1815000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then clean water falls from the sky"
+    } ]
+  }, {
+    "tStartMs": 1819000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "So it washes it again?"
+    } ]
+  }, {
+    "tStartMs": 1824000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Transparent water falls from the sky so it's okay."
+    } ]
+  }, {
+    "tStartMs": 1831000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then I also have a question."
+    } ]
+  }, {
+    "tStartMs": 1837000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Did you go camping often with your family when you were young?"
+    } ]
+  }, {
+    "tStartMs": 1842000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Not often, but maybe like three or four times?"
+    } ]
+  }, {
+    "tStartMs": 1846000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "3, 4 times? We didn't go that often."
+    } ]
+  }, {
+    "tStartMs": 1850000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "We weren't really enthusiasts about it."
+    } ]
+  }, {
+    "tStartMs": 1854000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Not enthusiasts?"
+    } ]
+  }, {
+    "tStartMs": 1856000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "In the summer, we'd think, what should we do this time? Let's go to a valley."
+    } ]
+  }, {
+    "tStartMs": 1861000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're not an enthusiast, but did you have a tent?"
+    } ]
+  }, {
+    "tStartMs": 1864000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "We did."
+    } ]
+  }, {
+    "tStartMs": 1866000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Was it a big tent that a family of four could use?"
+    } ]
+  }, {
+    "tStartMs": 1869000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, we had one."
+    } ]
+  }, {
+    "tStartMs": 1877000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's difficult."
+    } ]
+  }, {
+    "tStartMs": 1878000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "But you said rain got inside?"
+    } ]
+  }, {
+    "tStartMs": 1880000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Rain got inside. Old tents weren't that good back then."
+    } ]
+  }, {
+    "tStartMs": 1885000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Do you happen to remember the brand of the tent from back then?"
+    } ]
+  }, {
+    "tStartMs": 1889000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't know, I don't know. I was an I."
+    } ]
+  }, {
+    "tStartMs": 1892000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Do you happen to remember the color of the tent?"
+    } ]
+  }, {
+    "tStartMs": 1894000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was purple."
+    } ]
+  }, {
+    "tStartMs": 1896000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Purple?"
+    } ]
+  }, {
+    "tStartMs": 1898000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It had purple mixed in."
+    } ]
+  }, {
+    "tStartMs": 1900000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Like black and purple mixed together."
+    } ]
+  }, {
+    "tStartMs": 1904000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Do you remember what rice dish you ate when you went camping?"
+    } ]
+  }, {
+    "tStartMs": 1911000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "We made things like spicy fish stew."
+    } ]
+  }, {
+    "tStartMs": 1913000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "We caught fish in the valley."
+    } ]
+  }, {
+    "tStartMs": 1917000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And we grilled things like pork belly."
+    } ]
+  }, {
+    "tStartMs": 1920000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "We also ate ramen, just that kind of feeling?"
+    } ]
+  }, {
+    "tStartMs": 1925000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Are those rubber boots expensive ones?"
+    } ]
+  }, {
+    "tStartMs": 1930000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because I received them as a gift."
+    } ]
+  }, {
+    "tStartMs": 1933000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "They're not over 100,000 won. Probably."
+    } ]
+  }, {
+    "tStartMs": 1937000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Is the person who gave you that gift someone very close to you?"
+    } ]
+  }, {
+    "tStartMs": 1945000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right. My closest friend."
+    } ]
+  }, {
+    "tStartMs": 1950000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What month is that friend's birthday?"
+    } ]
+  }, {
+    "tStartMs": 1953000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's two days different from mine."
+    } ]
+  }, {
+    "tStartMs": 1956000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So we exchange gifts every year. With my older sister."
+    } ]
+  }, {
+    "tStartMs": 1961000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Older sister?"
+    } ]
+  }, {
+    "tStartMs": 1962000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's not easy?"
+    } ]
+  }, {
+    "tStartMs": 1964000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How do you choose 10..."
+    } ]
+  }, {
+    "tStartMs": 1968000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Should we try guessing?"
+    } ]
+  }, {
+    "tStartMs": 1969000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Let's try guessing once."
+    } ]
+  }, {
+    "tStartMs": 1972000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "My guess is that you wear slippers often."
+    } ]
+  }, {
+    "tStartMs": 1978000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Okay, I understand."
+    } ]
+  }, {
+    "tStartMs": 1981000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "My guess is that on rainy days you wear slippers often."
+    } ]
+  }, {
+    "tStartMs": 1988000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "My guess is that you've never gone camping on a rainy day."
+    } ]
+  }, {
+    "tStartMs": 1996000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So the truth is you have rain boots?"
+    } ]
+  }, {
+    "tStartMs": 2003000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The answer is I don't have rain boots."
+    } ]
+  }, {
+    "tStartMs": 2012000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What about you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 2014000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I have 10 umbrellas at home."
+    } ]
+  }, {
+    "tStartMs": 2019000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Exactly 10 umbrellas?"
+    } ]
+  }, {
+    "tStartMs": 2021000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And during the rainy season I absolutely don't wear slippers. I wear sandals."
+    } ]
+  }, {
+    "tStartMs": 2029000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Barefoot?"
+    } ]
+  }, {
+    "tStartMs": 2031000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. I wear sandals barefoot."
+    } ]
+  }, {
+    "tStartMs": 2038000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You've really gone camping before?"
+    } ]
+  }, {
+    "tStartMs": 2041000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "On a rainy day?"
+    } ]
+  }, {
+    "tStartMs": 2043000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2046000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I didn't know it would rain, but it seems like it came at night."
+    } ]
+  }, {
+    "tStartMs": 2051000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Anyway, it rained all night and I have a memory of my back getting damp."
+    } ]
+  }, {
+    "tStartMs": 2056000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So you only went 3, 4 times and didn't go after that?"
+    } ]
+  }, {
+    "tStartMs": 2059000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I guess so. It seems like my mom didn't like it very much."
+    } ]
+  }, {
+    "tStartMs": 2062000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2065000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You were both wrong."
+    } ]
+  }, {
+    "tStartMs": 2066000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It doesn't make sense, things like spicy fish stew."
+    } ]
+  }, {
+    "tStartMs": 2069000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was all true."
+    } ]
+  }, {
+    "tStartMs": 2071000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Anyway, I have 10 umbrellas, so if you want to see them, just let me know and I'll take them out for you."
+    } ]
+  }, {
+    "tStartMs": 2078000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's fine."
+    } ]
+  }, {
+    "tStartMs": 2081000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "When I counted them, there were exactly 10?"
+    } ]
+  }, {
+    "tStartMs": 2082000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2085000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is there an umbrella you reach for often among them?"
+    } ]
+  }, {
+    "tStartMs": 2088000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There is."
+    } ]
+  }, {
+    "tStartMs": 2090000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Should I just show you?"
+    } ]
+  }, {
+    "tStartMs": 2092000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Bring them out."
+    } ]
+  }, {
+    "tStartMs": 2093000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Most of them are convenience store umbrellas. Really. Like I said."
+    } ]
+  }, {
+    "tStartMs": 2097000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I should capture this."
+    } ]
+  }, {
+    "tStartMs": 2098000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Just a moment."
+    } ]
+  }, {
+    "tStartMs": 2100000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm looking."
+    } ]
+  }, {
+    "tStartMs": 2102000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You brought all of them, right? It's 10, right?"
+    } ]
+  }, {
+    "tStartMs": 2104000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It looks like 8."
+    } ]
+  }, {
+    "tStartMs": 2106000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Can you see here?"
+    } ]
+  }, {
+    "tStartMs": 2108000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Just here alone."
+    } ]
+  }, {
+    "tStartMs": 2109000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There's so many."
+    } ]
+  }, {
+    "tStartMs": 2110000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "1, 2, 3, 4, 5."
+    } ]
+  }, {
+    "tStartMs": 2116000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "9 umbrellas."
+    } ]
+  }, {
+    "tStartMs": 2118000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And one more here."
+    } ]
+  }, {
+    "tStartMs": 2120000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And that's 10."
+    } ]
+  }, {
+    "tStartMs": 2122000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're an umbrella millionaire."
+    } ]
+  }, {
+    "tStartMs": 2124000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2126000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And among these, there's also a YouTube umbrella."
+    } ]
+  }, {
+    "tStartMs": 2131000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "YouTube. Back then."
+    } ]
+  }, {
+    "tStartMs": 2134000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I got it at a YouTube event back then."
+    } ]
+  }, {
+    "tStartMs": 2137000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's pretty."
+    } ]
+  }, {
+    "tStartMs": 2139000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "But it's not practical."
+    } ]
+  }, {
+    "tStartMs": 2142000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Anyway, so there were 10 umbrellas like this."
+    } ]
+  }, {
+    "tStartMs": 2144000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The umbrella you reach for often is?"
+    } ]
+  }, {
+    "tStartMs": 2146000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That one is."
+    } ]
+  }, {
+    "tStartMs": 2147000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That one is."
+    } ]
+  }, {
+    "tStartMs": 2150000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "The thinnest and most slender umbrella among the convenience store umbrellas."
+    } ]
+  }, {
+    "tStartMs": 2157000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "An ultra-fine fiber umbrella."
+    } ]
+  }, {
+    "tStartMs": 2158000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. It's incredibly light."
+    } ]
+  }, {
+    "tStartMs": 2162000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's practical."
+    } ]
+  }, {
+    "tStartMs": 2163000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2165000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Thank you. Umbrella haul."
+    } ]
+  }, {
+    "tStartMs": 2173000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's too bad. You both got it wrong. You're good at lying."
+    } ]
+  }, {
+    "tStartMs": 2176000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2177000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You both lie well."
+    } ]
+  }, {
+    "tStartMs": 2179000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This slipper was the trick. Actually."
+    } ]
+  }, {
+    "tStartMs": 2181000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Right. I mean, you're barefoot anyway, but you wear sandals instead of slippers?"
+    } ]
+  }, {
+    "tStartMs": 2187000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Why not slippers? They could float away?"
+    } ]
+  }, {
+    "tStartMs": 2191000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. They can slip off, you know."
+    } ]
+  }, {
+    "tStartMs": 2193000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right. That's right."
+    } ]
+  }, {
+    "tStartMs": 2195000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And those slippers look pretty nice."
+    } ]
+  }, {
+    "tStartMs": 2201000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Slippers you treasure?"
+    } ]
+  }, {
+    "tStartMs": 2202000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yes. They're Nike Stüssy slippers, so they can't get dirty."
+    } ]
+  }, {
+    "tStartMs": 2208000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That makes sense."
+    } ]
+  }, {
+    "tStartMs": 2210000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'm always wondering about boots, whether to buy them or not."
+    } ]
+  }, {
+    "tStartMs": 2216000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Actually, I don't think they'd help much, and I'm not going to trek through the jungle or anything, and anyway it's just"
+    } ]
+  }, {
+    "tStartMs": 2224000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "passing through a few muddy spots, so I didn't think it was worth it and didn't buy them."
+    } ]
+  }, {
+    "tStartMs": 2230000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You wear sandals."
+    } ]
+  }, {
+    "tStartMs": 2232000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. Sandals or sneakers? That's what I do."
+    } ]
+  }, {
+    "tStartMs": 2238000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Still, it was fun guessing."
+    } ]
+  }, {
+    "tStartMs": 2241000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. It was fun."
+    } ]
+  }, {
+    "tStartMs": 2243000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then let's wrap up the minigame here"
+    } ]
+  }, {
+    "tStartMs": 2247000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and next month will be August. It looks like it'll be around the end of August"
+    } ]
+  }, {
+    "tStartMs": 2254000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How about a movie?"
+    } ]
+  }, {
+    "tStartMs": 2256000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sounds good. Sounds good."
+    } ]
+  }, {
+    "tStartMs": 2257000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Let's talk about movies in all sorts of ways."
+    } ]
+  }, {
+    "tStartMs": 2260000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How do you mean?"
+    } ]
+  }, {
+    "tStartMs": 2262000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "How about recommending some Korean movies you've watched recently and enjoyed, or ones you'd like to recommend?"
+    } ]
+  }, {
+    "tStartMs": 2271000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Is this an episode where we can talk about movies in various ways overall?"
+    } ]
+  }, {
+    "tStartMs": 2276000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like where you usually watch movies and things like that."
+    } ]
+  }, {
+    "tStartMs": 2279000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "We can talk about movie-watching culture and things like that."
+    } ]
+  }, {
+    "tStartMs": 2285000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. We could probably talk about types of movie theaters and things like that too."
+    } ]
+  }, {
+    "tStartMs": 2288000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Since we're living in Korea, we can cover all sorts of movie-related topics."
+    } ]
+  }, {
+    "tStartMs": 2291000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. I understand."
+    } ]
+  }, {
+    "tStartMs": 2293000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 2295000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then we'll be back again next week."
+    } ]
+  }, {
+    "tStartMs": 2299000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This has been Didi and Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2302000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 2318000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "See you next week."
+    } ]
+  } ]
+}

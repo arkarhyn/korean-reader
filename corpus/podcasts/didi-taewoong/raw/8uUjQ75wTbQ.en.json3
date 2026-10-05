@@ -1,0 +1,5653 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 9220,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11370,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13030,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Yomojomo is a podcast where two people living in Korea"
+    } ]
+  }, {
+    "tStartMs": 16290,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "talk about the various aspects of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 19970,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "Actually, last time, last week we picked a topic related to YouTube, right?"
+    } ]
+  }, {
+    "tStartMs": 26270,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 27330,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "We were going to talk about what it's like to live as a YouTuber,"
+    } ]
+  }, {
+    "tStartMs": 31110,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "but we got a request topic,"
+    } ]
+  }, {
+    "tStartMs": 33290,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "so today we're going to talk about this instead."
+    } ]
+  }, {
+    "tStartMs": 36470,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 37470,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Hello, Teacher Didi."
+    } ]
+  }, {
+    "tStartMs": 39280,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Thank you so much for uploading so many fun podcasts."
+    } ]
+  }, {
+    "tStartMs": 43740,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "They're helping my studies a lot."
+    } ]
+  }, {
+    "tStartMs": 46220,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I'd like to know what foods make you feel the following,"
+    } ]
+  }, {
+    "tStartMs": 49300,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "and what the differences are between each taste,"
+    } ]
+  }, {
+    "tStartMs": 51530,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and I'd really appreciate it if you could explain them."
+    } ]
+  }, {
+    "tStartMs": 54140,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "If possible, I'd be grateful if two or more people could each share their own feelings."
+    } ]
+  }, {
+    "tStartMs": 59010,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Since I'm Japanese,"
+    } ]
+  }, {
+    "tStartMs": 61090,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "it's hard for me to distinguish the subtle differences in how spicy and tangy tastes are expressed."
+    } ]
+  }, {
+    "tStartMs": 66180,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "Saecomhada, maekkomhada, dalkomhada, eolkkeunhada,"
+    } ]
+  }, {
+    "tStartMs": 70090,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "eolkkeunhada, and so on."
+    } ]
+  }, {
+    "tStartMs": 71490,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 72100,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "And kalkalhada, dambaekhada, siwonhada,"
+    } ]
+  }, {
+    "tStartMs": 76010,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "especially this expression, 'siwonhada',"
+    } ]
+  }, {
+    "tStartMs": 79360,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "and sansseuthada, sangkeumhada, and so on."
+    } ]
+  }, {
+    "tStartMs": 83330,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Yes, so you said it's hard to distinguish between these expressions,"
+    } ]
+  }, {
+    "tStartMs": 87550,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "and today we're going to do our best to explain the differences in Korean taste expressions"
+    } ]
+  }, {
+    "tStartMs": 91900,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "the two of us,"
+    } ]
+  }, {
+    "tStartMs": 95210,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "so it seems like that kind of episode."
+    } ]
+  }, {
+    "tStartMs": 98180,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "Isn't this usually the kind of content style that Didi makes alone?"
+    } ]
+  }, {
+    "tStartMs": 102840,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Oh, like this?"
+    } ]
+  }, {
+    "tStartMs": 104320,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Well, it is."
+    } ]
+  }, {
+    "tStartMs": 105680,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "But the way it was mentioned here,"
+    } ]
+  }, {
+    "tStartMs": 106650,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "having two or more people talk about their feelings"
+    } ]
+  }, {
+    "tStartMs": 109770,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "seems like it would be easier to get a feel for it."
+    } ]
+  }, {
+    "tStartMs": 112910,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "So I thought it would be good to talk about it with Teacher Tae-woong,"
+    } ]
+  }, {
+    "tStartMs": 116220,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and that's why I brought this topic."
+    } ]
+  }, {
+    "tStartMs": 120380,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "And I need to announce last week's quiz answer,"
+    } ]
+  }, {
+    "tStartMs": 122430,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "but I made a mistake last time when editing the quiz."
+    } ]
+  }, {
+    "tStartMs": 126260,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "So there was no answer last week."
+    } ]
+  }, {
+    "tStartMs": 130750,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "This kind of mistake..."
+    } ]
+  }, {
+    "tStartMs": 134260,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "You must have been a bit hasty with your Japan trip coming up?"
+    } ]
+  }, {
+    "tStartMs": 136450,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "It's not like that..."
+    } ]
+  }, {
+    "tStartMs": 139710,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "There was something that was 'not mentioned' that was the problem,"
+    } ]
+  }, {
+    "tStartMs": 143500,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and I cut it out while trying to figure out the answer..."
+    } ]
+  }, {
+    "tStartMs": 148260,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "So anyway, there was no answer,"
+    } ]
+  }, {
+    "tStartMs": 152790,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "and for this week's quiz, I'm going to give you another quiz after we finish talking,"
+    } ]
+  }, {
+    "tStartMs": 156180,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "so please try to get that right, and this time I'll upload it without making a mistake."
+    } ]
+  }, {
+    "tStartMs": 160820,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Yes, so then we're going to talk about taste expressions right away,"
+    } ]
+  }, {
+    "tStartMs": 166140,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "and it seems like there are really a lot of words to express taste in Korea."
+    } ]
+  }, {
+    "tStartMs": 169600,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "There seem to be a lot of words."
+    } ]
+  }, {
+    "tStartMs": 173820,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 176930,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "I'm curious if it's the same in other countries too."
+    } ]
+  }, {
+    "tStartMs": 177350,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Well, yes."
+    } ]
+  }, {
+    "tStartMs": 180060,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "And I think each country probably has diverse expressions for different tastes."
+    } ]
+  }, {
+    "tStartMs": 182070,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "For Korea, from what I looked up,"
+    } ]
+  }, {
+    "tStartMs": 187400,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "there seem to be quite a lot of spicy taste expressions, spicy taste expressions?"
+    } ]
+  }, {
+    "tStartMs": 189610,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Do you know that story?"
+    } ]
+  }, {
+    "tStartMs": 193930,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "You know about Eskimos?"
+    } ]
+  }, {
+    "tStartMs": 196890,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "There are Eskimos, right?"
+    } ]
+  }, {
+    "tStartMs": 199420,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "The language that Eskimos use"
+    } ]
+  }, {
+    "tStartMs": 202810,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "has different words for each type of snowflake that falls"
+    } ]
+  }, {
+    "tStartMs": 208530,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 210490,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 211100,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "Similarly, depending on the food that exists, the language and words"
+    } ]
+  }, {
+    "tStartMs": 217330,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "might have different styles, don't you think?"
+    } ]
+  }, {
+    "tStartMs": 218970,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "That makes sense, because Eskimo people would see various types of snow"
+    } ]
+  }, {
+    "tStartMs": 223370,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Hmm, so different names are attached to them"
+    } ]
+  }, {
+    "tStartMs": 225180,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "I'm curious"
+    } ]
+  }, {
+    "tStartMs": 226620,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "How many do you think there are?"
+    } ]
+  }, {
+    "tStartMs": 229410,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "I forgot about that"
+    } ]
+  }, {
+    "tStartMs": 231980,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "That's as far as I go"
+    } ]
+  }, {
+    "tStartMs": 234220,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Then..."
+    } ]
+  }, {
+    "tStartMs": 235380,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "First, there are some tastes that humans can perceive"
+    } ]
+  }, {
+    "tStartMs": 239420,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "And the first one among them is sweetness"
+    } ]
+  }, {
+    "tStartMs": 242570,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Let's see what kind of expressions there are for it"
+    } ]
+  }, {
+    "tStartMs": 244990,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 247040,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "For sweetness, the representative taste we use is the expression 'sweet'"
+    } ]
+  }, {
+    "tStartMs": 251910,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "'It's sweet'"
+    } ]
+  }, {
+    "tStartMs": 253150,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "I think it's probably the same as the sweetness you all are thinking of"
+    } ]
+  }, {
+    "tStartMs": 256680,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "The sweetness of candy, sugar"
+    } ]
+  }, {
+    "tStartMs": 259210,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "But there are also expressions like this"
+    } ]
+  }, {
+    "tStartMs": 261080,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "sweetly,"
+    } ]
+  }, {
+    "tStartMs": 262290,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "sweetly,"
+    } ]
+  }, {
+    "tStartMs": 264160,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "sweetly-savory"
+    } ]
+  }, {
+    "tStartMs": 265570,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "There are expressions like these"
+    } ]
+  }, {
+    "tStartMs": 267130,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Now let's talk about the differences between these three"
+    } ]
+  }, {
+    "tStartMs": 270530,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "When I think about it, both 'sweetly' and 'sweetly'"
+    } ]
+  }, {
+    "tStartMs": 275740,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "don't just have sweetness alone"
+    } ]
+  }, {
+    "tStartMs": 278000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "there are various tastes, and among them sweetness comes through slightly"
+    } ]
+  }, {
+    "tStartMs": 282240,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "a little bit, when you want to express it that way, you say 'sweetly' or 'sweetly'"
+    } ]
+  }, {
+    "tStartMs": 286970,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "that's how it seems to be used"
+    } ]
+  }, {
+    "tStartMs": 290300,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "What do you think? Do you agree?"
+    } ]
+  }, {
+    "tStartMs": 294300,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I think similarly"
+    } ]
+  }, {
+    "tStartMs": 298940,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "'Sweetly' and 'sweetly' are really similar words"
+    } ]
+  }, {
+    "tStartMs": 302820,
+    "dDurationMs": 8460,
+    "segs": [ {
+      "utf8": "With 'sweetly', the sweet taste I feel"
+    } ]
+  }, {
+    "tStartMs": 311280,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "is a subtle, lingering sensation"
+    } ]
+  }, {
+    "tStartMs": 315040,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "And 'sweetly' is,"
+    } ]
+  }, {
+    "tStartMs": 317150,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "'sweetly' is"
+    } ]
+  }, {
+    "tStartMs": 318010,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "that sweet taste hits your mouth quite strongly and intensely"
+    } ]
+  }, {
+    "tStartMs": 323130,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "That seems like a very accurate explanation"
+    } ]
+  }, {
+    "tStartMs": 325390,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "Is it similar to what you feel too, Didi?"
+    } ]
+  }, {
+    "tStartMs": 327300,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 329060,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Of course, we're not experts in taste evaluation or anything like that"
+    } ]
+  }, {
+    "tStartMs": 333300,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "Right, but it does seem accurate though?"
+    } ]
+  }, {
+    "tStartMs": 336480,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 337220,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "I was impressed"
+    } ]
+  }, {
+    "tStartMs": 338700,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "So we use this word when food is sweet and makes us feel good"
+    } ]
+  }, {
+    "tStartMs": 344990,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "And when we experience something really wonderful or pleasant while living"
+    } ]
+  }, {
+    "tStartMs": 350500,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "when we feel good like that, we say 'sweetly' or 'sweetly', right?"
+    } ]
+  }, {
+    "tStartMs": 354120,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 355200,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "At that time too, 'sweetly' is that feeling of being really pleased"
+    } ]
+  }, {
+    "tStartMs": 359570,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "hitting you strongly all at once"
+    } ]
+  }, {
+    "tStartMs": 362850,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "And the word 'sweetly'"
+    } ]
+  }, {
+    "tStartMs": 365300,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "feels like it's somewhat subtle and somewhat lingering"
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "that kind of feeling"
+    } ]
+  }, {
+    "tStartMs": 372960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see, so the 'sweetly' one feels a bit rich"
+    } ]
+  }, {
+    "tStartMs": 375960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and like a sweetness that lasts longer"
+    } ]
+  }, {
+    "tStartMs": 379080,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "and the 'sweetly' one has more intensity"
+    } ]
+  }, {
+    "tStartMs": 382160,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "when it hits you all at once with sweetness"
+    } ]
+  }, {
+    "tStartMs": 384770,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Yeah, what's my feeling?"
+    } ]
+  }, {
+    "tStartMs": 387330,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "I agree."
+    } ]
+  }, {
+    "tStartMs": 388590,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "I think we can distinguish it like this."
+    } ]
+  }, {
+    "tStartMs": 390270,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "But the overall thing is"
+    } ]
+  }, {
+    "tStartMs": 392870,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "just that you feel a little sweetness."
+    } ]
+  }, {
+    "tStartMs": 396740,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "I think that's enough for you to understand."
+    } ]
+  }, {
+    "tStartMs": 400470,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "So with really spicy food like tteokbokki,"
+    } ]
+  }, {
+    "tStartMs": 405360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "there are cases where you get a bit of sweetness, right?"
+    } ]
+  }, {
+    "tStartMs": 407840,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 408970,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "In those cases you can say it's sweet, it's sugary."
+    } ]
+  }, {
+    "tStartMs": 413230,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "And among taste expressions,"
+    } ]
+  }, {
+    "tStartMs": 415090,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "there are quite a few things with 'kom' attached to them."
+    } ]
+  }, {
+    "tStartMs": 417490,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "Sweet, tangy, spicy-sweet."
+    } ]
+  }, {
+    "tStartMs": 421470,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "When you feel a bit of that taste, it seems like you express it this way."
+    } ]
+  }, {
+    "tStartMs": 426190,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "These 'kom' friends can be attached to each other too."
+    } ]
+  }, {
+    "tStartMs": 430580,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "So in the case of something like tteokbokki,"
+    } ]
+  }, {
+    "tStartMs": 432700,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "spicy-sweet, like spicy-sweet."
+    } ]
+  }, {
+    "tStartMs": 437160,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "You can express it that way."
+    } ]
+  }, {
+    "tStartMs": 439570,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "And what about 'daljakjireuneun'—what do you think about that?"
+    } ]
+  }, {
+    "tStartMs": 444280,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "'Daljakjireuneun'?"
+    } ]
+  }, {
+    "tStartMs": 445750,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "The feeling that comes to me is just..."
+    } ]
+  }, {
+    "tStartMs": 451000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "'Daljak,' right, 'jjak.'"
+    } ]
+  }, {
+    "tStartMs": 453300,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "'Jjak,' 'dal-jjak.'"
+    } ]
+  }, {
+    "tStartMs": 454920,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "It's like you're tapping it a bit similarly to 'jjak,' you know?"
+    } ]
+  }, {
+    "tStartMs": 460270,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 461500,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "So it's daljakjireuneun,"
+    } ]
+  }, {
+    "tStartMs": 462880,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "like the feeling of tapping something slightly sweet."
+    } ]
+  }, {
+    "tStartMs": 467730,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Like a slightly sweet taste is tapped on?"
+    } ]
+  }, {
+    "tStartMs": 475310,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "What's that?—So it's not like your tongue gets completely flooded with sweetness,"
+    } ]
+  }, {
+    "tStartMs": 482090,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "it's just tapping, tapping, tapping on it."
+    } ]
+  }, {
+    "tStartMs": 485030,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Wow, why do you explain things so well?"
+    } ]
+  }, {
+    "tStartMs": 486800,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Oh, is that right?"
+    } ]
+  }, {
+    "tStartMs": 489860,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "For example?"
+    } ]
+  }, {
+    "tStartMs": 491000,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "When you ate something, did it taste a bit daljakjireuneun?"
+    } ]
+  }, {
+    "tStartMs": 494700,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Daljakjireuneun... daljakjireuneun..."
+    } ]
+  }, {
+    "tStartMs": 496960,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Um... um... um..."
+    } ]
+  }, {
+    "tStartMs": 499110,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Like, say, a twisted pastry or something."
+    } ]
+  }, {
+    "tStartMs": 500490,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "You know, with sugar sprinkled on it."
+    } ]
+  }, {
+    "tStartMs": 502220,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 503400,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "But because that sugar is sprinkled on it, it's sweet,"
+    } ]
+  }, {
+    "tStartMs": 507070,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "and the bread is flour so it's savory, right?"
+    } ]
+  }, {
+    "tStartMs": 509700,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 511080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So when you chew that bread,"
+    } ]
+  }, {
+    "tStartMs": 513760,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "the savory taste of the flour bread is there overall,"
+    } ]
+  }, {
+    "tStartMs": 517570,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "and the sugar sprinkled on it"
+    } ]
+  }, {
+    "tStartMs": 520320,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "is tapping, tapping, so it feels daljakjireuneun?"
+    } ]
+  }, {
+    "tStartMs": 524910,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "So as you eat, the sweetness hits your tongue like this, one tap at a time?"
+    } ]
+  }, {
+    "tStartMs": 530970,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 531940,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "So you have to intentionally feel the sweetness,"
+    } ]
+  }, {
+    "tStartMs": 537580,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "this also seems like a subtle sweetness."
+    } ]
+  }, {
+    "tStartMs": 543260,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Daljakjireuneun."
+    } ]
+  }, {
+    "tStartMs": 544790,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "Right, daljakjireuneun is more like a subtle sweetness rather than outright sweetness,"
+    } ]
+  }, {
+    "tStartMs": 548380,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "when it's subtly sweet, you say it's daljakjireuneun."
+    } ]
+  }, {
+    "tStartMs": 554140,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "That's correct."
+    } ]
+  }, {
+    "tStartMs": 555070,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "I'm telling you again, we don't know exactly either."
+    } ]
+  }, {
+    "tStartMs": 559420,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Oh, that's scary."
+    } ]
+  }, {
+    "tStartMs": 561340,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "We're doing our best to explain the tastes we've felt living our lives."
+    } ]
+  }, {
+    "tStartMs": 566410,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 567800,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "So sweetness is like this,"
+    } ]
+  }, {
+    "tStartMs": 570660,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "and now the next taste is sour taste, sour taste."
+    } ]
+  }, {
+    "tStartMs": 575340,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "It's sour when you eat lemon."
+    } ]
+  }, {
+    "tStartMs": 578110,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "What else could there be? Something sour?"
+    } ]
+  }, {
+    "tStartMs": 580030,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "Vinegar?"
+    } ]
+  }, {
+    "tStartMs": 580920,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "It's sour when you eat vinegar."
+    } ]
+  }, {
+    "tStartMs": 582880,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 583760,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Yes, so the words that express sour taste"
+    } ]
+  }, {
+    "tStartMs": 586410,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "I've brought two kinds."
+    } ]
+  }, {
+    "tStartMs": 588130,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "First, the basic form is '시다', '셔요',"
+    } ]
+  }, {
+    "tStartMs": 592530,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "and another taste you can express"
+    } ]
+  }, {
+    "tStartMs": 593620,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "is '새콤하다',"
+    } ]
+  }, {
+    "tStartMs": 595240,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "and there's '시큼하다'."
+    } ]
+  }, {
+    "tStartMs": 597380,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "Should we distinguish between these two?"
+    } ]
+  }, {
+    "tStartMs": 600270,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes, yes, that sounds good."
+    } ]
+  }, {
+    "tStartMs": 601390,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "In my opinion,"
+    } ]
+  }, {
+    "tStartMs": 603750,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "first, like we talked about before, when you add '콤' it becomes \"slightly sour,\" but"
+    } ]
+  }, {
+    "tStartMs": 610970,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "'새콤한' is..."
+    } ]
+  }, {
+    "tStartMs": 612720,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "'새콤한' feels kind of nice."
+    } ]
+  }, {
+    "tStartMs": 615490,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "When you eat it,"
+    } ]
+  }, {
+    "tStartMs": 618540,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "for example, like the sourness of fruit, you know?"
+    } ]
+  }, {
+    "tStartMs": 622390,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "It's a bit fresh and tangy."
+    } ]
+  }, {
+    "tStartMs": 625500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "When you eat that, it doesn't feel bad."
+    } ]
+  }, {
+    "tStartMs": 628600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But '시큼하다' is more like vinegar—"
+    } ]
+  }, {
+    "tStartMs": 631920,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "when you eat it, it's not a sourness that makes you feel good."
+    } ]
+  }, {
+    "tStartMs": 638170,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Like \"Ugh, sour 😖\"—that kind of feeling?"
+    } ]
+  }, {
+    "tStartMs": 639870,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "That's more '시큼하다'."
+    } ]
+  }, {
+    "tStartMs": 642340,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "That's right, I agree."
+    } ]
+  }, {
+    "tStartMs": 643580,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "You agree?"
+    } ]
+  }, {
+    "tStartMs": 644670,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 645680,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Delicious sourness is '새콤하다'."
+    } ]
+  }, {
+    "tStartMs": 647530,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "When something's fermented and sour, that's '시큼하다'."
+    } ]
+  }, {
+    "tStartMs": 651140,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Oh, that's right, that's right—I was actually about to say that."
+    } ]
+  }, {
+    "tStartMs": 653690,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 655420,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "Sometimes there are foods that shouldn't taste sour,"
+    } ]
+  }, {
+    "tStartMs": 658880,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "but they have a sour taste for some reason."
+    } ]
+  }, {
+    "tStartMs": 661410,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 663140,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Then you think, oh, this food must be old."
+    } ]
+  }, {
+    "tStartMs": 667740,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Oh, if I eat this I'll get a stomachache."
+    } ]
+  }, {
+    "tStartMs": 671490,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "We call that the food has gone off, or is stale."
+    } ]
+  }, {
+    "tStartMs": 675240,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 676540,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Like, hmm, why does this doenjang-jjigae taste sour?"
+    } ]
+  }, {
+    "tStartMs": 680190,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Oh, yeah."
+    } ]
+  }, {
+    "tStartMs": 681280,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "You say things like that, right?"
+    } ]
+  }, {
+    "tStartMs": 682630,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 684500,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "It's savory and"
+    } ]
+  }, {
+    "tStartMs": 685890,
+    "dDurationMs": 7480,
+    "segs": [ {
+      "utf8": "something with that kind of mild, nutty flavor,"
+    } ]
+  }, {
+    "tStartMs": 693370,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "and it has a sour taste...? That shouldn't happen."
+    } ]
+  }, {
+    "tStartMs": 696260,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Oh, right."
+    } ]
+  }, {
+    "tStartMs": 698690,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "When the taste of the food has turned sour,"
+    } ]
+  }, {
+    "tStartMs": 701470,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 702810,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "So like you said, Didi,"
+    } ]
+  }, {
+    "tStartMs": 706680,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "you wouldn't say, \"Oh, Mom, the doenjang-jjigae tastes '새콤하다'?\" right?"
+    } ]
+  }, {
+    "tStartMs": 710380,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 712160,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Yes, that's how it is."
+    } ]
+  }, {
+    "tStartMs": 714660,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "'새콤하다' is usually used when talking about something delicious."
+    } ]
+  }, {
+    "tStartMs": 717260,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Oh, this seems really helpful."
+    } ]
+  }, {
+    "tStartMs": 720700,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "It does."
+    } ]
+  }, {
+    "tStartMs": 722290,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "'시큼하다' and '새콤하다'—"
+    } ]
+  }, {
+    "tStartMs": 725020,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "you explained the difference really well,"
+    } ]
+  }, {
+    "tStartMs": 726770,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "next taste!"
+    } ]
+  }, {
+    "tStartMs": 728590,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "Next is '짜다', the salty taste—that's salt, right?"
+    } ]
+  }, {
+    "tStartMs": 733680,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 734580,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "Salt, soy sauce, things like that."
+    } ]
+  }, {
+    "tStartMs": 738670,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "So the basic form for salty taste is 'tta-da' (짜다)."
+    } ]
+  }, {
+    "tStartMs": 741220,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "And now there's another expression to describe salty taste,"
+    } ]
+  }, {
+    "tStartMs": 744960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "which is 'ttabjjal-ha-da' (짭짤하다),"
+    } ]
+  }, {
+    "tStartMs": 747440,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and then there's 'ttabjjo-reum-ha-da' (짭조름하다)."
+    } ]
+  }, {
+    "tStartMs": 749880,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "There are words like this too."
+    } ]
+  }, {
+    "tStartMs": 752180,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Two kinds..."
+    } ]
+  }, {
+    "tStartMs": 753810,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "This is advanced Korean class."
+    } ]
+  }, {
+    "tStartMs": 756670,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 757410,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "What do you think about 'ttabjjal-ha-da' and 'ttabjjo-reum-ha-da'?"
+    } ]
+  }, {
+    "tStartMs": 761540,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "Ah, but honestly speaking,"
+    } ]
+  }, {
+    "tStartMs": 763570,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 764830,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "I didn't really prepare this, you know, what we're talking about right now—"
+    } ]
+  }, {
+    "tStartMs": 769310,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "I'm just freestyling all of it right now."
+    } ]
+  }, {
+    "tStartMs": 771030,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Yes, you're doing really well."
+    } ]
+  }, {
+    "tStartMs": 773710,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Ah, thank you."
+    } ]
+  }, {
+    "tStartMs": 775890,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "I think this is where the charm of Korean really comes out as an expression."
+    } ]
+  }, {
+    "tStartMs": 782690,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "When we eat something salty, what do we do?"
+    } ]
+  }, {
+    "tStartMs": 785720,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Ah, like this, 'tschup tschup' (쩝쩝)."
+    } ]
+  }, {
+    "tStartMs": 787930,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "'Ugh, salty,' like that, right?"
+    } ]
+  }, {
+    "tStartMs": 790830,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "There's that salty feeling in your mouth,"
+    } ]
+  }, {
+    "tStartMs": 793730,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "but after you taste it"
+    } ]
+  }, {
+    "tStartMs": 796190,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and say 'Oh, this is salty!' up to that point,"
+    } ]
+  }, {
+    "tStartMs": 799230,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "that distance—"
+    } ]
+  }, {
+    "tStartMs": 802300,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Oh, 'tta-da' and 'ttabjjal-ha-da' are two syllables each, right?"
+    } ]
+  }, {
+    "tStartMs": 805990,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "But it's subtly salty, like, 'Hmm, is this salty?'"
+    } ]
+  }, {
+    "tStartMs": 811300,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "Then it's ttabjjo-reum..."
+    } ]
+  }, {
+    "tStartMs": 817170,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Can you relate it to the number of syllables too?"
+    } ]
+  }, {
+    "tStartMs": 821860,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "So it expresses the distance before you get to 'tta-da', right?"
+    } ]
+  }, {
+    "tStartMs": 827340,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "'Ttabjjo-reum' with three syllables isn't that strongly salty,"
+    } ]
+  }, {
+    "tStartMs": 833610,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "if it's a bit stronger than that, it's 'ttabjjal-ha-da',"
+    } ]
+  }, {
+    "tStartMs": 836880,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "if it gets stronger than that, it's 'tta-da'."
+    } ]
+  }, {
+    "tStartMs": 839170,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "'Ugh, salty!' like that..."
+    } ]
+  }, {
+    "tStartMs": 844370,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "I think I understand what you mean."
+    } ]
+  }, {
+    "tStartMs": 846560,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 847810,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "As you think about it, the words get longer, you know?"
+    } ]
+  }, {
+    "tStartMs": 849830,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "'Ttabjjo-reum...' like that's what happens."
+    } ]
+  }, {
+    "tStartMs": 853970,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 854980,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "But actually, when it comes to salty taste,"
+    } ]
+  }, {
+    "tStartMs": 858240,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "if you feel it strongly right away,"
+    } ]
+  }, {
+    "tStartMs": 860190,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "that's food without flavor, right?"
+    } ]
+  }, {
+    "tStartMs": 861900,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 863280,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "So when you say 'tta-da,' it has no flavor,"
+    } ]
+  }, {
+    "tStartMs": 866140,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "but when this distance is longer and you feel a moderately salty taste,"
+    } ]
+  }, {
+    "tStartMs": 869810,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "that's really delicious."
+    } ]
+  }, {
+    "tStartMs": 873280,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "So doesn't food that's 'ttabjjo-reum-ha-da' feel worth eating?"
+    } ]
+  }, {
+    "tStartMs": 877630,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I think it's a good expression, 'ttabjjo-reum-ha-da'."
+    } ]
+  }, {
+    "tStartMs": 881230,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Pleasantly salty."
+    } ]
+  }, {
+    "tStartMs": 883720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "The seasoning is just right."
+    } ]
+  }, {
+    "tStartMs": 886120,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "It's 'ttabjjo-reum-ha-da' on the tongue,"
+    } ]
+  }, {
+    "tStartMs": 889020,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "the tongue gets vitality all at once, that kind of feeling."
+    } ]
+  }, {
+    "tStartMs": 892650,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "Wow, do foreign languages have expressions like this?"
+    } ]
+  }, {
+    "tStartMs": 894230,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "A pleasantly salty taste."
+    } ]
+  }, {
+    "tStartMs": 896830,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "'Ttabjjo-reum-ha-da'."
+    } ]
+  }, {
+    "tStartMs": 899590,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "You can express it like this,"
+    } ]
+  }, {
+    "tStartMs": 900670,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "and if it's a bit more salty than that, you feel more of the salty taste, then"
+    } ]
+  }, {
+    "tStartMs": 905320,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "'Oh, this is a bit ttabjjal-ha-da.'"
+    } ]
+  }, {
+    "tStartMs": 907190,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "You can express it like this,"
+    } ]
+  }, {
+    "tStartMs": 908920,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "and really salty stuff you express as 'tta-da'."
+    } ]
+  }, {
+    "tStartMs": 913450,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Wow, we're doing well!"
+    } ]
+  }, {
+    "tStartMs": 916850,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 919500,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "And the bitter taste is..."
+    } ]
+  }, {
+    "tStartMs": 922690,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Like with coffee or alcohol, we say it tastes bitter, right?"
+    } ]
+  }, {
+    "tStartMs": 926500,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "There are words that can express this."
+    } ]
+  }, {
+    "tStartMs": 929390,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "There are these."
+    } ]
+  }, {
+    "tStartMs": 930620,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Sseupsseulhada."
+    } ]
+  }, {
+    "tStartMs": 931940,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "There's also this word, or you can also express it as ssaalsalhada."
+    } ]
+  }, {
+    "tStartMs": 934610,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "You can express it this way too."
+    } ]
+  }, {
+    "tStartMs": 936970,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "What kind of bitter taste is this? A bitter taste that's sseupsseul and ssaalsalhan?"
+    } ]
+  }, {
+    "tStartMs": 942220,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 943800,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Ssaalsalhada feels a bit less bitter than sseupsseulhada, I think."
+    } ]
+  }, {
+    "tStartMs": 949380,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Less bitter than sseupsseulhada?"
+    } ]
+  }, {
+    "tStartMs": 951100,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 952670,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Oh, I thought the two were almost similar."
+    } ]
+  }, {
+    "tStartMs": 956340,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "So I grouped them together."
+    } ]
+  }, {
+    "tStartMs": 959320,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "And usually ssaalsalhada is used with dalkomssaalsalhada."
+    } ]
+  }, {
+    "tStartMs": 963350,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "It seems like it's often used together with sweet."
+    } ]
+  }, {
+    "tStartMs": 969470,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Sweet and ssaalsal."
+    } ]
+  }, {
+    "tStartMs": 971620,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "Does that mean it's a ssaalsal taste you can tolerate?"
+    } ]
+  }, {
+    "tStartMs": 977000,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "A bitter taste you can tolerate?"
+    } ]
+  }, {
+    "tStartMs": 979170,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "A bitter taste you can enjoy?"
+    } ]
+  }, {
+    "tStartMs": 983890,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "I'm not sure about this one."
+    } ]
+  }, {
+    "tStartMs": 986820,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "Ssaalsalhada."
+    } ]
+  }, {
+    "tStartMs": 988510,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "Sseupsseulhada, ssaalsalhada—I don't like bitter foods, so..."
+    } ]
+  }, {
+    "tStartMs": 994880,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Sseupsseulhada."
+    } ]
+  }, {
+    "tStartMs": 996640,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "I think it's a subtle bitter taste."
+    } ]
+  }, {
+    "tStartMs": 1000220,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "A weak, not strong bitter taste—sseupsseulhada, ssaalsalhada."
+    } ]
+  }, {
+    "tStartMs": 1003970,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "It seems like you can express it with these two ways."
+    } ]
+  }, {
+    "tStartMs": 1007100,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Both mean the bitter taste is less, but if I had to distinguish between them,"
+    } ]
+  }, {
+    "tStartMs": 1012460,
+    "dDurationMs": 7190,
+    "segs": [ {
+      "utf8": "Now, ssaalsalhan seems like a bitter taste you can enjoy."
+    } ]
+  }, {
+    "tStartMs": 1019650,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "So with coffee and things like that, is it ssaalsalhan?"
+    } ]
+  }, {
+    "tStartMs": 1024530,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Ah, a bit ssaalsalhan?"
+    } ]
+  }, {
+    "tStartMs": 1028770,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "But I discovered another difference."
+    } ]
+  }, {
+    "tStartMs": 1031350,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Yes, what is it?"
+    } ]
+  }, {
+    "tStartMs": 1033470,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "'Sseupsseulhada' is just 'sseupsseulhada,'"
+    } ]
+  }, {
+    "tStartMs": 1037590,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "But 'ssaalsalhada'"
+    } ]
+  }, {
+    "tStartMs": 1039150,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Is said as 'ssaalsarumhada.'"
+    } ]
+  }, {
+    "tStartMs": 1042100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "'Ssaalsarumhada'?"
+    } ]
+  }, {
+    "tStartMs": 1044200,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "It's getting harder and harder?"
+    } ]
+  }, {
+    "tStartMs": 1046380,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "'Ssaalsarumhada'—why is that?"
+    } ]
+  }, {
+    "tStartMs": 1051220,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "But this is similar to 'jjapjjalhada,'"
+    } ]
+  }, {
+    "tStartMs": 1054210,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "'jjapjorumhada' in some ways."
+    } ]
+  }, {
+    "tStartMs": 1057950,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Oh, yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 1060290,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Yes yes, ssaalsarumhan is that slight bitter feeling"
+    } ]
+  }, {
+    "tStartMs": 1063770,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "That lingers a bit?"
+    } ]
+  }, {
+    "tStartMs": 1067140,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "The bitter taste stays in your mouth a little bit"
+    } ]
+  }, {
+    "tStartMs": 1070670,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "It lasts a while—ssaalsarum~~~~~hage."
+    } ]
+  }, {
+    "tStartMs": 1076260,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Oh yes yes yes."
+    } ]
+  }, {
+    "tStartMs": 1079520,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "So could coffee be ssaalsarumhal?"
+    } ]
+  }, {
+    "tStartMs": 1083740,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Ugh, ssaalsarumhada."
+    } ]
+  }, {
+    "tStartMs": 1087840,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "But usually when people drink coffee,"
+    } ]
+  }, {
+    "tStartMs": 1091390,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "The person drinking coffee wants to look cool—so they pretend it's not bitter?"
+    } ]
+  }, {
+    "tStartMs": 1096860,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Ssaalsarumhada doesn't sound cool."
+    } ]
+  }, {
+    "tStartMs": 1100800,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "It's a bit more homey, the expression?"
+    } ]
+  }, {
+    "tStartMs": 1103020,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Yes, so even though it's ssaalsarumhan,"
+    } ]
+  }, {
+    "tStartMs": 1105200,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "People don't seem to say ssaalsarumhada."
+    } ]
+  }, {
+    "tStartMs": 1108940,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "I think it's also with Korean food"
+    } ]
+  }, {
+    "tStartMs": 1111320,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "Or when explaining herbal medicine ingredients? Medicinal ingredients? Things like that,"
+    } ]
+  }, {
+    "tStartMs": 1116610,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It seems like it's used quite a lot."
+    } ]
+  }, {
+    "tStartMs": 1118850,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1119740,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "It sounds a bit strange when you attach it to foreign food."
+    } ]
+  }, {
+    "tStartMs": 1122270,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1123380,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1124750,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Ginseng, seasoned vegetables."
+    } ]
+  }, {
+    "tStartMs": 1126420,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "We use it when eating things like this."
+    } ]
+  }, {
+    "tStartMs": 1129280,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Slightly bitter."
+    } ]
+  }, {
+    "tStartMs": 1131100,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "You know burnt food?"
+    } ]
+  }, {
+    "tStartMs": 1132690,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "What kind of food?"
+    } ]
+  }, {
+    "tStartMs": 1133610,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "When food is burnt."
+    } ]
+  }, {
+    "tStartMs": 1135230,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 1136580,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "So when you eat something like that, how would you express it?"
+    } ]
+  }, {
+    "tStartMs": 1139680,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Do you say it's bitter?"
+    } ]
+  }, {
+    "tStartMs": 1142350,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "Isn't that right?"
+    } ]
+  }, {
+    "tStartMs": 1143260,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Burnt, bitter."
+    } ]
+  }, {
+    "tStartMs": 1145060,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "We don't say \"bittersweet,\" right?"
+    } ]
+  }, {
+    "tStartMs": 1147520,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1149050,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "When you eat burnt food,"
+    } ]
+  }, {
+    "tStartMs": 1150800,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "First, before you can even express it, you have to spit it out."
+    } ]
+  }, {
+    "tStartMs": 1154450,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Ptooey."
+    } ]
+  }, {
+    "tStartMs": 1157130,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Ugh, ptooey ptooey ptooey! That's the only expression that comes out."
+    } ]
+  }, {
+    "tStartMs": 1161060,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Isn't it just that the taste is gone?"
+    } ]
+  }, {
+    "tStartMs": 1164630,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "Still, if we're talking about taste expressions, I think only \"bitter\" works."
+    } ]
+  }, {
+    "tStartMs": 1169600,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1170920,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "\"Bittersweet\" and \"slightly bitter\" seem to have a somewhat pleasant feeling."
+    } ]
+  }, {
+    "tStartMs": 1174820,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "When you taste this flavor,"
+    } ]
+  }, {
+    "tStartMs": 1176610,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "It's an expression you use for the food itself first."
+    } ]
+  }, {
+    "tStartMs": 1182210,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1183300,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "It's a bit bittersweet."
+    } ]
+  }, {
+    "tStartMs": 1186020,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "You can also use \"bittersweet\" as an emotional expression too."
+    } ]
+  }, {
+    "tStartMs": 1189400,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1190620,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "A somewhat subtly painful feeling."
+    } ]
+  }, {
+    "tStartMs": 1194570,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1195400,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Bittersweet."
+    } ]
+  }, {
+    "tStartMs": 1196600,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "Bittersweet, bittersweet is..."
+    } ]
+  }, {
+    "tStartMs": 1198660,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "It really seems like just the painful kind."
+    } ]
+  }, {
+    "tStartMs": 1202040,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "When you express something like \"it's slightly bitter,\""
+    } ]
+  }, {
+    "tStartMs": 1206620,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "It feels like there's not just bad parts to it?"
+    } ]
+  }, {
+    "tStartMs": 1212020,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "Do you also express a situation as \"slightly bitter\"?"
+    } ]
+  }, {
+    "tStartMs": 1215360,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "This seems like very advanced Korean,"
+    } ]
+  }, {
+    "tStartMs": 1218380,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "So I think it's better to skip it."
+    } ]
+  }, {
+    "tStartMs": 1221170,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 1222160,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "So we could distinguish \"bitter\" to that extent,"
+    } ]
+  }, {
+    "tStartMs": 1224730,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "\"Bitter\" is a bit difficult."
+    } ]
+  }, {
+    "tStartMs": 1225870,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "Since there aren't really many bitter foods,"
+    } ]
+  }, {
+    "tStartMs": 1230900,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "It seems hard to make the connection."
+    } ]
+  }, {
+    "tStartMs": 1232540,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "So then, let's move on to the much-anticipated spicy flavor."
+    } ]
+  }, {
+    "tStartMs": 1236840,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "I think many people probably find it difficult to distinguish when expressing spicy flavors."
+    } ]
+  }, {
+    "tStartMs": 1241520,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "The basic form of spicy is \"mapta,\" right? \"Maewo,\""
+    } ]
+  }, {
+    "tStartMs": 1245050,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "\"Maepne,\" you can say it like this,"
+    } ]
+  }, {
+    "tStartMs": 1247570,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But there are other words"
+    } ]
+  }, {
+    "tStartMs": 1249770,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "I've brought five of them."
+    } ]
+  }, {
+    "tStartMs": 1252380,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "First, \"slightly spicy.\""
+    } ]
+  }, {
+    "tStartMs": 1255010,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Second, \"sharp and spicy.\""
+    } ]
+  }, {
+    "tStartMs": 1257090,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Third, \"tingling spicy.\""
+    } ]
+  }, {
+    "tStartMs": 1259540,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Fourth is \"peppery spicy.\""
+    } ]
+  }, {
+    "tStartMs": 1261810,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Fifth, \"numbing spicy.\""
+    } ]
+  }, {
+    "tStartMs": 1264270,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "I brought these."
+    } ]
+  }, {
+    "tStartMs": 1265850,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "That's a lot, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1267670,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "It really is."
+    } ]
+  }, {
+    "tStartMs": 1268490,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Should I explain it step by step?"
+    } ]
+  }, {
+    "tStartMs": 1270190,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "What do you think about \"maekkomhada\"?"
+    } ]
+  }, {
+    "tStartMs": 1272410,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "Well, it has a somewhat positive meaning, a good connotation."
+    } ]
+  }, {
+    "tStartMs": 1276820,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "I agree."
+    } ]
+  }, {
+    "tStartMs": 1277890,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "It's that kind of spiciness where it's spicy but tasty, you know?"
+    } ]
+  }, {
+    "tStartMs": 1282850,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Is there anything else you're noticing?"
+    } ]
+  }, {
+    "tStartMs": 1285020,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "And also, the spiciness isn't too strong."
+    } ]
+  }, {
+    "tStartMs": 1288280,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It's spicy in an edible way."
+    } ]
+  }, {
+    "tStartMs": 1290560,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 1292160,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "It feels like it's made spicy just to make it taste good."
+    } ]
+  }, {
+    "tStartMs": 1295850,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1297170,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Spicy in an edible way,"
+    } ]
+  }, {
+    "tStartMs": 1299710,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "and it tastes good, so you feel good?"
+    } ]
+  }, {
+    "tStartMs": 1304960,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "Yes, but when you think about it more,"
+    } ]
+  }, {
+    "tStartMs": 1307070,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "all the expressions we're talking about are actually like that, right?"
+    } ]
+  }, {
+    "tStartMs": 1309470,
+    "dDurationMs": 7010,
+    "segs": [ {
+      "utf8": "But I think it would be good to point out where you feel the spiciness,"
+    } ]
+  }, {
+    "tStartMs": 1316480,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "you know?"
+    } ]
+  }, {
+    "tStartMs": 1319500,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Oh, compared to other expressions..."
+    } ]
+  }, {
+    "tStartMs": 1322510,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Okay, so then..."
+    } ]
+  }, {
+    "tStartMs": 1324320,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "\"Maekkomhada\" is just the whole tongue"
+    } ]
+  }, {
+    "tStartMs": 1328570,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "and like the roof of your mouth here, that's where you feel the spiciness."
+    } ]
+  }, {
+    "tStartMs": 1333710,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Oh, when your mouth feels spicy,"
+    } ]
+  }, {
+    "tStartMs": 1335840,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Right, your mouth gets hot."
+    } ]
+  }, {
+    "tStartMs": 1338180,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Right, inside your mouth."
+    } ]
+  }, {
+    "tStartMs": 1339710,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "So what about \"kalkalahada\"?"
+    } ]
+  }, {
+    "tStartMs": 1341670,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "\"Kalkalahada\"..."
+    } ]
+  }, {
+    "tStartMs": 1343340,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "\"Kalkalahada\" is like \"mapta\" or \"maekkomhada,\""
+    } ]
+  }, {
+    "tStartMs": 1348130,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "but your mouth doesn't get hot like that,"
+    } ]
+  }, {
+    "tStartMs": 1349900,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "so there's not that much burden inside your mouth."
+    } ]
+  }, {
+    "tStartMs": 1352060,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Your tongue doesn't suffer that much."
+    } ]
+  }, {
+    "tStartMs": 1354620,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But you feel a bit of spiciness in your throat area."
+    } ]
+  }, {
+    "tStartMs": 1358340,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "That's right, it's the throat. That's what \"kalkalhada\" is."
+    } ]
+  }, {
+    "tStartMs": 1361400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Yes, so you do feel the spiciness,"
+    } ]
+  }, {
+    "tStartMs": 1365120,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "but your mouth doesn't suffer that much,"
+    } ]
+  }, {
+    "tStartMs": 1369530,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "so that refreshing spiciness that comes from here?"
+    } ]
+  }, {
+    "tStartMs": 1373920,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "I think it's kind of like that."
+    } ]
+  }, {
+    "tStartMs": 1376770,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "We'll talk more about the word \"refreshing\" later,"
+    } ]
+  }, {
+    "tStartMs": 1380930,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but \"kalkalhada\" is right—it's a taste that stimulates your throat."
+    } ]
+  }, {
+    "tStartMs": 1385930,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "When you catch a cold, you also say your throat is \"kalkalhada,\""
+    } ]
+  }, {
+    "tStartMs": 1389090,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "when your throat feels a bit hoarse like this."
+    } ]
+  }, {
+    "tStartMs": 1391460,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "Like that, to the point where your throat hurts like this,"
+    } ]
+  }, {
+    "tStartMs": 1395930,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "you feel the spiciness in your throat."
+    } ]
+  }, {
+    "tStartMs": 1399450,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "A typical example is when you eat something like broth."
+    } ]
+  }, {
+    "tStartMs": 1402730,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Broth passes quickly through your mouth like this, right?"
+    } ]
+  }, {
+    "tStartMs": 1406410,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "So when it passes right through your throat here,"
+    } ]
+  }, {
+    "tStartMs": 1409420,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "you feel the spiciness—that's what \"kalkalhada\" seems to be."
+    } ]
+  }, {
+    "tStartMs": 1413390,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 1416250,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Okay, we've covered that, so what about \"eolkkeunhada\"?"
+    } ]
+  }, {
+    "tStartMs": 1421860,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "To talk about \"eolkkeunhada,\" \"eolkkeunhada,\""
+    } ]
+  }, {
+    "tStartMs": 1424800,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "we need to talk about \"refreshing,\" but we said we'd do that later, right?"
+    } ]
+  }, {
+    "tStartMs": 1429290,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "So should we do \"refreshing\" then?"
+    } ]
+  }, {
+    "tStartMs": 1431580,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Should we do \"refreshing\" first?"
+    } ]
+  }, {
+    "tStartMs": 1433500,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Foreigners get really confused about this, you know."
+    } ]
+  }, {
+    "tStartMs": 1439110,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1440500,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Why do you say it's refreshing when you eat hot food?"
+    } ]
+  }, {
+    "tStartMs": 1444210,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1445230,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "I also saw it in books and comics when I was young,"
+    } ]
+  }, {
+    "tStartMs": 1450820,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "like when older people go into a bathhouse and say it's refreshing,"
+    } ]
+  }, {
+    "tStartMs": 1456030,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "saying it's refreshing even though it's hot."
+    } ]
+  }, {
+    "tStartMs": 1459530,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "But originally \"refreshing\" is something closer to cold, right?"
+    } ]
+  }, {
+    "tStartMs": 1463070,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "When the wind blows, your body gets a bit cold, which is"
+    } ]
+  }, {
+    "tStartMs": 1465880,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "refreshing, right?"
+    } ]
+  }, {
+    "tStartMs": 1467190,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "But when you sweat like that"
+    } ]
+  }, {
+    "tStartMs": 1471120,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "your overall blood circulation improves"
+    } ]
+  }, {
+    "tStartMs": 1476620,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "and actually when you sweat"
+    } ]
+  }, {
+    "tStartMs": 1478560,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "you feel a bit refreshed"
+    } ]
+  }, {
+    "tStartMs": 1481640,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "like when you feel refreshed after sleeping well and waking up, your body feels light, right?"
+    } ]
+  }, {
+    "tStartMs": 1484530,
+    "dDurationMs": 6770,
+    "segs": [ {
+      "utf8": "so they use the expression that your overall mood feels refreshing"
+    } ]
+  }, {
+    "tStartMs": 1491300,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "and I think I've seen it explained that way somewhere"
+    } ]
+  }, {
+    "tStartMs": 1494310,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Yeah, I think so too"
+    } ]
+  }, {
+    "tStartMs": 1497090,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "I prepared just one thing for this"
+    } ]
+  }, {
+    "tStartMs": 1501410,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "I also thought about the expression \"refreshing\""
+    } ]
+  }, {
+    "tStartMs": 1505630,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "the \"refreshed\" feeling that Didi mentioned earlier"
+    } ]
+  }, {
+    "tStartMs": 1509410,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "the expression \"refreshed\""
+    } ]
+  }, {
+    "tStartMs": 1511360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "basically your insides feel refreshing"
+    } ]
+  }, {
+    "tStartMs": 1515680,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "so the \"refreshing\" we're talking about here"
+    } ]
+  }, {
+    "tStartMs": 1519570,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "isn't that the outside is refreshing"
+    } ]
+  }, {
+    "tStartMs": 1520950,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "but it's a feeling that my insides are refreshing"
+    } ]
+  }, {
+    "tStartMs": 1524480,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "but when you eat hot food your body gets hot"
+    } ]
+  }, {
+    "tStartMs": 1528860,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "so why would it feel refreshing? You could think that"
+    } ]
+  }, {
+    "tStartMs": 1531970,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "so how to express this word \"refreshing\""
+    } ]
+  }, {
+    "tStartMs": 1533950,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "I thought about it"
+    } ]
+  }, {
+    "tStartMs": 1537540,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "there's this kind of expression in Korean"
+    } ]
+  }, {
+    "tStartMs": 1540640,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "\"a wide-open refreshing highway\""
+    } ]
+  }, {
+    "tStartMs": 1545280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "so we're driving on a highway"
+    } ]
+  }, {
+    "tStartMs": 1549600,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "and there are no other cars in front"
+    } ]
+  }, {
+    "tStartMs": 1552130,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "so I'm the only one on the road"
+    } ]
+  }, {
+    "tStartMs": 1555010,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "so when you just drive straight it feels so refreshing"
+    } ]
+  }, {
+    "tStartMs": 1560030,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "this also isn't just cold air or wind feeling refreshing"
+    } ]
+  }, {
+    "tStartMs": 1565140,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "it's more like that fast whooshing feeling?"
+    } ]
+  }, {
+    "tStartMs": 1568200,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "oh, right"
+    } ]
+  }, {
+    "tStartMs": 1569860,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "but when you eat and drink these warm"
+    } ]
+  }, {
+    "tStartMs": 1574660,
+    "dDurationMs": 8030,
+    "segs": [ {
+      "utf8": "and umami-rich broth-based dishes"
+    } ]
+  }, {
+    "tStartMs": 1582690,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "that warm broth doesn't really catch in your mouth"
+    } ]
+  }, {
+    "tStartMs": 1588500,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "and it goes down your throat smoothly"
+    } ]
+  }, {
+    "tStartMs": 1591750,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "and goes into your stomach"
+    } ]
+  }, {
+    "tStartMs": 1594130,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "and you feel like the path from your mouth to your stomach is wide-open"
+    } ]
+  }, {
+    "tStartMs": 1598960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "and since you feel that warm broth all the way down that path"
+    } ]
+  }, {
+    "tStartMs": 1603360,
+    "dDurationMs": 8190,
+    "segs": [ {
+      "utf8": "it's that feeling of going down smoothly like a wide-open highway"
+    } ]
+  }, {
+    "tStartMs": 1611550,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "you compared it to a highway"
+    } ]
+  }, {
+    "tStartMs": 1613980,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "yes, that's how I thought about it"
+    } ]
+  }, {
+    "tStartMs": 1616140,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "so it's that refreshing feeling of things going down without any blockage?"
+    } ]
+  }, {
+    "tStartMs": 1620990,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "yes"
+    } ]
+  }, {
+    "tStartMs": 1623760,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "so when we talk about something being refreshing"
+    } ]
+  }, {
+    "tStartMs": 1629290,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "so when it's not temperature but the taste is refreshing"
+    } ]
+  }, {
+    "tStartMs": 1633730,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "from what I know, it's all broth"
+    } ]
+  }, {
+    "tStartMs": 1636620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "ah"
+    } ]
+  }, {
+    "tStartMs": 1639140,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "yes it's liquid, yes liquid"
+    } ]
+  }, {
+    "tStartMs": 1642080,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "it's only used for broth"
+    } ]
+  }, {
+    "tStartMs": 1643140,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "liquid right"
+    } ]
+  }, {
+    "tStartMs": 1644540,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "right right"
+    } ]
+  }, {
+    "tStartMs": 1645790,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "yes"
+    } ]
+  }, {
+    "tStartMs": 1646520,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "so this isn't talking about a taste you feel in your mouth, right?"
+    } ]
+  }, {
+    "tStartMs": 1652290,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "it's talking about a feeling"
+    } ]
+  }, {
+    "tStartMs": 1654980,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "yes yes yes"
+    } ]
+  }, {
+    "tStartMs": 1658000,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "so this isn't a spicy taste either"
+    } ]
+  }, {
+    "tStartMs": 1660990,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "you can't express it as a taste"
+    } ]
+  }, {
+    "tStartMs": 1664320,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "temperature and feeling, the feeling when you eat it"
+    } ]
+  }, {
+    "tStartMs": 1670270,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "but if I add one more thing"
+    } ]
+  }, {
+    "tStartMs": 1673250,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "usually broth, what they call broth"
+    } ]
+  }, {
+    "tStartMs": 1678700,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "So like, most broths are that way."
+    } ]
+  }, {
+    "tStartMs": 1682180,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "You extract meat or vegetables or things like that."
+    } ]
+  }, {
+    "tStartMs": 1687370,
+    "dDurationMs": 7090,
+    "segs": [ {
+      "utf8": "So the fat from the meat, the meat broth or the water from the vegetables—"
+    } ]
+  }, {
+    "tStartMs": 1694460,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "When that warm broth goes down your throat,"
+    } ]
+  }, {
+    "tStartMs": 1698200,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "you feel the aroma of the broth spreading through you, you know?"
+    } ]
+  }, {
+    "tStartMs": 1702990,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Right, so when I was originally explaining \"refreshing,\""
+    } ]
+  }, {
+    "tStartMs": 1706820,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I was trying to talk about it as a deep flavor."
+    } ]
+  }, {
+    "tStartMs": 1709500,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "The depth of the broth being deep,"
+    } ]
+  }, {
+    "tStartMs": 1712160,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "like when you put in a lot of ingredients and boil it for a long time, that kind of taste."
+    } ]
+  }, {
+    "tStartMs": 1715710,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "When you say the ingredients have a deep flavor, you can express it as \"refreshing.\""
+    } ]
+  }, {
+    "tStartMs": 1721080,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "That's what I was trying to say..."
+    } ]
+  }, {
+    "tStartMs": 1723420,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "That kind of explanation helps too, but"
+    } ]
+  }, {
+    "tStartMs": 1725290,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "definitely that feeling of it passing through your throat and the feeling when you eat it—"
+    } ]
+  }, {
+    "tStartMs": 1730590,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "it becomes warm like this and calms down,"
+    } ]
+  }, {
+    "tStartMs": 1733410,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "when you get that feeling of your mood improving,"
+    } ]
+  }, {
+    "tStartMs": 1737400,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "that's when you express it as \"refreshing.\""
+    } ]
+  }, {
+    "tStartMs": 1740300,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1741190,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Yes, so for me, it's not just in Korean food,"
+    } ]
+  }, {
+    "tStartMs": 1744810,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "when I went to Vietnam,"
+    } ]
+  }, {
+    "tStartMs": 1747040,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "I ate pho and the broth was so refreshing."
+    } ]
+  }, {
+    "tStartMs": 1752100,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Like that feeling of your stomach settling? You know?"
+    } ]
+  }, {
+    "tStartMs": 1756060,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "In those moments I use \"refreshing\" a lot."
+    } ]
+  }, {
+    "tStartMs": 1759420,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "That deep beef broth"
+    } ]
+  }, {
+    "tStartMs": 1766240,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "goes straight down from your mouth to your stomach with a whoosh."
+    } ]
+  }, {
+    "tStartMs": 1770530,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1772180,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "I think that might not have been perfectly understood,"
+    } ]
+  }, {
+    "tStartMs": 1775670,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "but anyway, since we're talking about \"refreshing,\""
+    } ]
+  }, {
+    "tStartMs": 1778440,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "then what about \"eolkeun\"—\"eolkeun\" means—"
+    } ]
+  }, {
+    "tStartMs": 1784560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "So simply put, when a spicy flavor and a refreshing flavor come together,"
+    } ]
+  }, {
+    "tStartMs": 1789360,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "you can think of it as \"eolkeun.\""
+    } ]
+  }, {
+    "tStartMs": 1793270,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I see, so when spicy and refreshing combine, it becomes eolkeun."
+    } ]
+  }, {
+    "tStartMs": 1798270,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Usually when people say \"refreshing,\" they don't just say"
+    } ]
+  }, {
+    "tStartMs": 1802200,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "\"refreshing\" like that,"
+    } ]
+  }, {
+    "tStartMs": 1804340,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "they say \"Ah~ refreshing\" like this,"
+    } ]
+  }, {
+    "tStartMs": 1807180,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "there's kind of that feeling coming up from here."
+    } ]
+  }, {
+    "tStartMs": 1811170,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "Wow~~~ refreshing, like that."
+    } ]
+  }, {
+    "tStartMs": 1814000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "So the pho you mentioned,"
+    } ]
+  }, {
+    "tStartMs": 1816920,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "gomtang,"
+    } ]
+  }, {
+    "tStartMs": 1818260,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "pork soup rice bowl,"
+    } ]
+  }, {
+    "tStartMs": 1819540,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "these non-spicy foods can be refreshing too, right?"
+    } ]
+  }, {
+    "tStartMs": 1823340,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1824760,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "When you eat those and say \"Ah~~~ refreshing,\""
+    } ]
+  }, {
+    "tStartMs": 1828910,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "like kimchi jjigae,"
+    } ]
+  }, {
+    "tStartMs": 1831090,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "pork kimchi jjigae,"
+    } ]
+  }, {
+    "tStartMs": 1833210,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "things like that, or jjamppong, right?"
+    } ]
+  }, {
+    "tStartMs": 1836510,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "When you eat those it's equally refreshing,"
+    } ]
+  }, {
+    "tStartMs": 1838730,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "but there's also spiciness,"
+    } ]
+  }, {
+    "tStartMs": 1840150,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "so you can say \"Hey, that's eolkeun\" like that."
+    } ]
+  }, {
+    "tStartMs": 1843530,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Perfect."
+    } ]
+  }, {
+    "tStartMs": 1846000,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Usually \"refreshing\" is used a lot together with \"haejangs,\" isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1850580,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Oh, that's a good point—I think it would be good to connect that."
+    } ]
+  }, {
+    "tStartMs": 1854630,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "You might not know the expression \"haejang,\""
+    } ]
+  }, {
+    "tStartMs": 1858440,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "but usually after you drink alcohol,"
+    } ]
+  }, {
+    "tStartMs": 1860160,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "the next day you have a hangover, right?"
+    } ]
+  }, {
+    "tStartMs": 1863370,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "That uncomfortable feeling in your stomach,"
+    } ]
+  }, {
+    "tStartMs": 1865750,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "your mood isn't good and your stomach isn't good,"
+    } ]
+  }, {
+    "tStartMs": 1868690,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "in those times you eat haejang food."
+    } ]
+  }, {
+    "tStartMs": 1871630,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "Food that makes your stomach feel comfortable."
+    } ]
+  }, {
+    "tStartMs": 1875010,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I think it would be good to think about that feeling too."
+    } ]
+  }, {
+    "tStartMs": 1877710,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Your stomach becomes comfortable and settles."
+    } ]
+  }, {
+    "tStartMs": 1879510,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So when you eat those kinds of foods, you say 'Ah, it's refreshing'"
+    } ]
+  }, {
+    "tStartMs": 1883430,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Your stomach feels a bit relieved"
+    } ]
+  }, {
+    "tStartMs": 1884630,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "There are many ways to express it like this"
+    } ]
+  }, {
+    "tStartMs": 1887190,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1888690,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Even up to 'eolkeun'"
+    } ]
+  }, {
+    "tStartMs": 1890180,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Spicy foods that are eolkeun are eaten a lot as hangover cures"
+    } ]
+  }, {
+    "tStartMs": 1894240,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "That's good, really good"
+    } ]
+  }, {
+    "tStartMs": 1896020,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "And now we have 'alssahada' and 'eoleorhada' left"
+    } ]
+  }, {
+    "tStartMs": 1899610,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "What about the 'alssahan' one?"
+    } ]
+  }, {
+    "tStartMs": 1903050,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "I think 'alssahada' is very straightforward"
+    } ]
+  }, {
+    "tStartMs": 1905680,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "There's a very representative food for it"
+    } ]
+  }, {
+    "tStartMs": 1907380,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 1908750,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Wasabi"
+    } ]
+  }, {
+    "tStartMs": 1911290,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "In Korean we call it gochu-naengyi"
+    } ]
+  }, {
+    "tStartMs": 1914780,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "That also makes your mouth hurt and it's not spicy in the regular way"
+    } ]
+  }, {
+    "tStartMs": 1919940,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "It's more like this sharp feeling through your nose"
+    } ]
+  }, {
+    "tStartMs": 1925960,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1928460,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's a bit painful"
+    } ]
+  }, {
+    "tStartMs": 1929460,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "And the tip of the tongue"
+    } ]
+  }, {
+    "tStartMs": 1930660,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "When the tip of my tongue hurts a bit"
+    } ]
+  }, {
+    "tStartMs": 1932880,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "I seem to talk about it being alssahan a lot"
+    } ]
+  }, {
+    "tStartMs": 1937290,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "When you eat things like ddaeng-cho chicken, you say it's alssahan"
+    } ]
+  }, {
+    "tStartMs": 1942210,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "That's right, that's right"
+    } ]
+  }, {
+    "tStartMs": 1942950,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Your nose or the tip of your tongue feels a bit stinging"
+    } ]
+  }, {
+    "tStartMs": 1946780,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "Tingling"
+    } ]
+  }, {
+    "tStartMs": 1948470,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "That kind of spicy taste seems to be what alssahan taste is"
+    } ]
+  }, {
+    "tStartMs": 1952550,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "Yes, and that sharp, prickling feeling?"
+    } ]
+  }, {
+    "tStartMs": 1956440,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "That sharp, prickling feeling"
+    } ]
+  }, {
+    "tStartMs": 1958270,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1959890,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "When you eat things like ddaeng-cho chicken, that's it"
+    } ]
+  }, {
+    "tStartMs": 1965080,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "That's the alssahan taste"
+    } ]
+  }, {
+    "tStartMs": 1965890,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "What about the eoleorhada taste?"
+    } ]
+  }, {
+    "tStartMs": 1967540,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "This one also seems to have a representative food"
+    } ]
+  }, {
+    "tStartMs": 1971040,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 1972130,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Mala tang?"
+    } ]
+  }, {
+    "tStartMs": 1975160,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Mala, mala"
+    } ]
+  }, {
+    "tStartMs": 1977750,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "Your whole mouth gets that eoleorhada feeling from mala"
+    } ]
+  }, {
+    "tStartMs": 1982640,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Is eoleorhada really eoleorhada?"
+    } ]
+  }, {
+    "tStartMs": 1987280,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "I talked about it and thought it was strange"
+    } ]
+  }, {
+    "tStartMs": 1989370,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "I have an expression I think of"
+    } ]
+  }, {
+    "tStartMs": 1991290,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Yes, what is it?"
+    } ]
+  }, {
+    "tStartMs": 1992550,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "What eoleorhada is"
+    } ]
+  }, {
+    "tStartMs": 1995220,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Is a throbbing feeling in your tongue and the roof of your mouth"
+    } ]
+  }, {
+    "tStartMs": 1997850,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Ah, I thought about that"
+    } ]
+  }, {
+    "tStartMs": 1999580,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Like some kind of throbbing pain like that"
+    } ]
+  }, {
+    "tStartMs": 2002930,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "Yes, yes"
+    } ]
+  }, {
+    "tStartMs": 2005040,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "Your tongue is just like this, throbbing throbbing"
+    } ]
+  }, {
+    "tStartMs": 2009970,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "What do I do"
+    } ]
+  }, {
+    "tStartMs": 2011000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Right, it's like a pain like this"
+    } ]
+  }, {
+    "tStartMs": 2014200,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Spicy taste is originally a painful taste anyway"
+    } ]
+  }, {
+    "tStartMs": 2017490,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's painful, that's true, but"
+    } ]
+  }, {
+    "tStartMs": 2021490,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Throbbing pain"
+    } ]
+  }, {
+    "tStartMs": 2023760,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2025390,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "That seems to be what 'eoleorhada' is"
+    } ]
+  }, {
+    "tStartMs": 2027610,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So when I additionally explain the 'mapta' expression"
+    } ]
+  }, {
+    "tStartMs": 2031730,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "What the person who asked that question was confused about"
+    } ]
+  }, {
+    "tStartMs": 2036280,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Is 'sappari' from Japanese"
+    } ]
+  }, {
+    "tStartMs": 2039670,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "There's a similar expression to 'sangkumhada'"
+    } ]
+  }, {
+    "tStartMs": 2041950,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "If you think about it in Korean, it's like eating a lemon salad or"
+    } ]
+  }, {
+    "tStartMs": 2045590,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Something like that, that fresh feeling"
+    } ]
+  }, {
+    "tStartMs": 2049520,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "In Korea, we call that 'sangkkeumhada'"
+    } ]
+  }, {
+    "tStartMs": 2051470,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "or 'santteutthada' — that's how we express it"
+    } ]
+  }, {
+    "tStartMs": 2055520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "So, to answer what you were curious about,"
+    } ]
+  }, {
+    "tStartMs": 2059040,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "it's completely different from 'siwonhada'"
+    } ]
+  }, {
+    "tStartMs": 2062940,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "So it's a similar expression to that Japanese 'sappari'"
+    } ]
+  }, {
+    "tStartMs": 2065560,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "I'll explain just up to 'sangkkeumhada' and 'santteutthada'"
+    } ]
+  }, {
+    "tStartMs": 2070450,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "Can you feel the difference between 'sangkkeumhada' and 'santteutthada'?"
+    } ]
+  }, {
+    "tStartMs": 2077270,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Actually, when I eat food,"
+    } ]
+  }, {
+    "tStartMs": 2080940,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "I've almost never used the expression 'santteutthada'..."
+    } ]
+  }, {
+    "tStartMs": 2084800,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Ah, 'santteutthada'"
+    } ]
+  }, {
+    "tStartMs": 2087930,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "In my opinion,"
+    } ]
+  }, {
+    "tStartMs": 2089300,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "'sangkkeumhan' is closer to fruit, the way I think about it"
+    } ]
+  }, {
+    "tStartMs": 2092880,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "When you eat fruit,"
+    } ]
+  }, {
+    "tStartMs": 2094910,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "it feels kind of refreshing and really refreshing and a bit clean"
+    } ]
+  }, {
+    "tStartMs": 2100860,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "like your mouth gets cleaned"
+    } ]
+  }, {
+    "tStartMs": 2103060,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "things like lemonade"
+    } ]
+  }, {
+    "tStartMs": 2106810,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "you can talk about 'sangkkeumhada'"
+    } ]
+  }, {
+    "tStartMs": 2109810,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "'santteutthada' has a bit of a fresh feeling too"
+    } ]
+  }, {
+    "tStartMs": 2114650,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "the ingredients are fresh"
+    } ]
+  }, {
+    "tStartMs": 2117430,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "and the taste is light and refreshing"
+    } ]
+  }, {
+    "tStartMs": 2122870,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "things like mint"
+    } ]
+  }, {
+    "tStartMs": 2124730,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "your mouth gets a bit cool"
+    } ]
+  }, {
+    "tStartMs": 2127750,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "you could express that as 'santteutthada'"
+    } ]
+  }, {
+    "tStartMs": 2130920,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "things like salad"
+    } ]
+  }, {
+    "tStartMs": 2132450,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Yes, a fresh salad"
+    } ]
+  }, {
+    "tStartMs": 2135080,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "things like that"
+    } ]
+  }, {
+    "tStartMs": 2136920,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "'santteutthada'"
+    } ]
+  }, {
+    "tStartMs": 2138770,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "it seems to be used usually for green things you eat"
+    } ]
+  }, {
+    "tStartMs": 2142810,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Right, mint, salad"
+    } ]
+  }, {
+    "tStartMs": 2145950,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "I think it would be good to express it that way"
+    } ]
+  }, {
+    "tStartMs": 2149910,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "So we've done our best to explain Korean taste expressions now,"
+    } ]
+  }, {
+    "tStartMs": 2155320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "and if there are any other taste differences you were curious about"
+    } ]
+  }, {
+    "tStartMs": 2159280,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "or anything like that, please leave a comment"
+    } ]
+  }, {
+    "tStartMs": 2162210,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "What I'd like to recommend is"
+    } ]
+  }, {
+    "tStartMs": 2165090,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "that tasting it directly is probably"
+    } ]
+  }, {
+    "tStartMs": 2168980,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "coming here and tasting it yourself would be the fastest way to understand, I think"
+    } ]
+  }, {
+    "tStartMs": 2174080,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Come and try something like gukbap and feel 'oh, so this is what siwonhada feels like'"
+    } ]
+  }, {
+    "tStartMs": 2178870,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "it's good to experience that"
+    } ]
+  }, {
+    "tStartMs": 2180990,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Yes, you have to feel what 'siwonhada' feels like"
+    } ]
+  }, {
+    "tStartMs": 2184710,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "It's hard if you just hear it in words"
+    } ]
+  }, {
+    "tStartMs": 2188500,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Right, after drinking heavily at night and the next day"
+    } ]
+  }, {
+    "tStartMs": 2192660,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "when you slurp a spoonful of broth"
+    } ]
+  }, {
+    "tStartMs": 2195930,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "oh, so this is it...!"
+    } ]
+  }, {
+    "tStartMs": 2198810,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "so this is what 'siwonhada' feels like...!"
+    } ]
+  }, {
+    "tStartMs": 2201930,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Perfect"
+    } ]
+  }, {
+    "tStartMs": 2203250,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "So now let me tell you this week's quiz too"
+    } ]
+  }, {
+    "tStartMs": 2206860,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "This week's quiz is"
+    } ]
+  }, {
+    "tStartMs": 2208640,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "about the 'siwonhada' taste, which we mentioned the most,"
+    } ]
+  }, {
+    "tStartMs": 2213690,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and the question is: which of the following is NOT a food with a siwonhada taste?"
+    } ]
+  }, {
+    "tStartMs": 2218290,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Number 1: tteokbokki"
+    } ]
+  }, {
+    "tStartMs": 2220900,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Number 2: rice noodle soup"
+    } ]
+  }, {
+    "tStartMs": 2223390,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "Number 3: pork gukbap"
+    } ]
+  }, {
+    "tStartMs": 2225360,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "So if you know the answer here,"
+    } ]
+  }, {
+    "tStartMs": 2227550,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "please leave lots of comments,"
+    } ]
+  }, {
+    "tStartMs": 2229690,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "and we'll move on to our next segment"
+    } ]
+  }, {
+    "tStartMs": 2232600,
+    "dDurationMs": 10110,
+    "segs": [ {
+      "utf8": "a word-based mini game"
+    } ]
+  }, {
+    "tStartMs": 2242710,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "This segment is a word-based mini game time,"
+    } ]
+  }, {
+    "tStartMs": 2247090,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "and I've brought a new game for you"
+    } ]
+  }, {
+    "tStartMs": 2250710,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "We've talked a lot about taste expressions today, right?"
+    } ]
+  }, {
+    "tStartMs": 2253200,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "So you all and food"
+    } ]
+  }, {
+    "tStartMs": 2256290,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "to help make some connection with this taste"
+    } ]
+  }, {
+    "tStartMs": 2260230,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "is a game I've prepared."
+    } ]
+  }, {
+    "tStartMs": 2261280,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "The game is called the 'Taste Expression Relay Game'."
+    } ]
+  }, {
+    "tStartMs": 2265270,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "'Taste Expression Relay Game'"
+    } ]
+  }, {
+    "tStartMs": 2267020,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "What kind of game is it?"
+    } ]
+  }, {
+    "tStartMs": 2269400,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Now one person talks about a taste first."
+    } ]
+  }, {
+    "tStartMs": 2272940,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "For example, 'spicy'."
+    } ]
+  }, {
+    "tStartMs": 2275320,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Then the next person"
+    } ]
+  }, {
+    "tStartMs": 2277150,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "talks about one spicy food."
+    } ]
+  }, {
+    "tStartMs": 2280730,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Then the next person..."
+    } ]
+  }, {
+    "tStartMs": 2283520,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "For example, what could there be? A spicy food is tteokbokki."
+    } ]
+  }, {
+    "tStartMs": 2286900,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "Then the next person talks about another taste that comes from tteokbokki."
+    } ]
+  }, {
+    "tStartMs": 2292520,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "There could be a sweet taste, right?"
+    } ]
+  }, {
+    "tStartMs": 2294930,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Continuing like that is"
+    } ]
+  }, {
+    "tStartMs": 2296820,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "the Taste Expression Relay Game."
+    } ]
+  }, {
+    "tStartMs": 2299290,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Good, so when two people play, you talk about food and"
+    } ]
+  }, {
+    "tStartMs": 2302640,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "then you just talk about the taste, right?"
+    } ]
+  }, {
+    "tStartMs": 2304660,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Tteokbokki - spicy, shall we do it like that?"
+    } ]
+  }, {
+    "tStartMs": 2307320,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "One person talks about both the taste and the food,"
+    } ]
+  }, {
+    "tStartMs": 2311090,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "and the next person talks about the taste and the food..."
+    } ]
+  }, {
+    "tStartMs": 2314550,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Let me do a practice game just once."
+    } ]
+  }, {
+    "tStartMs": 2317760,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Starting with the taste."
+    } ]
+  }, {
+    "tStartMs": 2319320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Refreshing."
+    } ]
+  }, {
+    "tStartMs": 2320920,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Salad."
+    } ]
+  }, {
+    "tStartMs": 2322770,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Sour."
+    } ]
+  }, {
+    "tStartMs": 2325060,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "So now I'll talk about a sour food"
+    } ]
+  }, {
+    "tStartMs": 2328210,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "without repeating the ingredient, I'll do it with the food."
+    } ]
+  }, {
+    "tStartMs": 2333530,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "But there's no sour food."
+    } ]
+  }, {
+    "tStartMs": 2335640,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Sour food... there is a sour food."
+    } ]
+  }, {
+    "tStartMs": 2338230,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "What if we do jelly or something like that?"
+    } ]
+  }, {
+    "tStartMs": 2340580,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Jelly."
+    } ]
+  }, {
+    "tStartMs": 2342470,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Sweet like this."
+    } ]
+  }, {
+    "tStartMs": 2344450,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Uh, is there nothing?"
+    } ]
+  }, {
+    "tStartMs": 2347820,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Should I just do it like this?"
+    } ]
+  }, {
+    "tStartMs": 2349110,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Let's do it."
+    } ]
+  }, {
+    "tStartMs": 2350880,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Good."
+    } ]
+  }, {
+    "tStartMs": 2352050,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, would you like to go first to start?"
+    } ]
+  }, {
+    "tStartMs": 2354760,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Me first?"
+    } ]
+  }, {
+    "tStartMs": 2355640,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2356940,
+    "dDurationMs": 650,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 2357590,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Sharp and prickly."
+    } ]
+  }, {
+    "tStartMs": 2360370,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Sharp and prickly."
+    } ]
+  }, {
+    "tStartMs": 2361750,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Jjamppong."
+    } ]
+  }, {
+    "tStartMs": 2364660,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "Spicy... why?"
+    } ]
+  }, {
+    "tStartMs": 2368180,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Jjamppong is sharp and prickly?"
+    } ]
+  }, {
+    "tStartMs": 2369650,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "How sharp and prickly is jjamppong?"
+    } ]
+  }, {
+    "tStartMs": 2371720,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Didn't you say jjamppong is hot and intense earlier?"
+    } ]
+  }, {
+    "tStartMs": 2373470,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "Well, that's why you can feel various things, what was the sharp and prickly sensation?"
+    } ]
+  }, {
+    "tStartMs": 2377490,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "It's because your throat feels sharp and prickly, right?"
+    } ]
+  }, {
+    "tStartMs": 2379100,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Ah, well, right, right."
+    } ]
+  }, {
+    "tStartMs": 2381570,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Okay, okay, I accept it. Spicy? Yes."
+    } ]
+  }, {
+    "tStartMs": 2384270,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Jjamppong is spicy."
+    } ]
+  }, {
+    "tStartMs": 2386070,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Spicy? Spicy?"
+    } ]
+  }, {
+    "tStartMs": 2388500,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Spicy? Then malatang."
+    } ]
+  }, {
+    "tStartMs": 2393290,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "So now I talk about the taste?"
+    } ]
+  }, {
+    "tStartMs": 2394720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, so I also have to talk about the taste?"
+    } ]
+  }, {
+    "tStartMs": 2396720,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "Yes, malatang is fine, it's spicy."
+    } ]
+  }, {
+    "tStartMs": 2401050,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Nutty."
+    } ]
+  }, {
+    "tStartMs": 2403920,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Because of the peanut sauce?"
+    } ]
+  }, {
+    "tStartMs": 2406210,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "No, ah, so you're talking about the taste of this food?"
+    } ]
+  }, {
+    "tStartMs": 2409880,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 2411990,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "There must be other flavors to describe malatang, right?"
+    } ]
+  }, {
+    "tStartMs": 2416540,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Oh, I understand now."
+    } ]
+  }, {
+    "tStartMs": 2419200,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "You understand now?"
+    } ]
+  }, {
+    "tStartMs": 2420570,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Oh, then I understand, I understand. Let's try again, again, again."
+    } ]
+  }, {
+    "tStartMs": 2423430,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "So from the beginning again?"
+    } ]
+  }, {
+    "tStartMs": 2424840,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2426680,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Let's start."
+    } ]
+  }, {
+    "tStartMs": 2428150,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Spicy."
+    } ]
+  }, {
+    "tStartMs": 2430680,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Then I'll—"
+    } ]
+  }, {
+    "tStartMs": 2432810,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Tteokbokki is sweet."
+    } ]
+  }, {
+    "tStartMs": 2435320,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Yeah, tteokbokki is spicy and sweet, so—"
+    } ]
+  }, {
+    "tStartMs": 2438940,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2440210,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Sweet?"
+    } ]
+  }, {
+    "tStartMs": 2441240,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 2442360,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Hotteok? It's savory."
+    } ]
+  }, {
+    "tStartMs": 2444790,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Right, savory."
+    } ]
+  }, {
+    "tStartMs": 2447800,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "Hmm... savory?"
+    } ]
+  }, {
+    "tStartMs": 2451980,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Yulmu tea."
+    } ]
+  }, {
+    "tStartMs": 2455830,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "Yulmu tea?"
+    } ]
+  }, {
+    "tStartMs": 2457920,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "It's yulmu tea season, you know."
+    } ]
+  }, {
+    "tStartMs": 2459800,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Um..."
+    } ]
+  }, {
+    "tStartMs": 2461290,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Yulmu tea, how should I explain it?"
+    } ]
+  }, {
+    "tStartMs": 2465450,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "What, seeds?"
+    } ]
+  }, {
+    "tStartMs": 2466550,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Yes, it's a tea made from grains."
+    } ]
+  }, {
+    "tStartMs": 2469590,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "So it's savory."
+    } ]
+  }, {
+    "tStartMs": 2472020,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yulmu tea is sweet."
+    } ]
+  }, {
+    "tStartMs": 2474740,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Sweet?"
+    } ]
+  }, {
+    "tStartMs": 2477860,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Earl Grey cake?"
+    } ]
+  }, {
+    "tStartMs": 2482060,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "It's sweet, it's sweet."
+    } ]
+  }, {
+    "tStartMs": 2484600,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Savory, Earl Grey."
+    } ]
+  }, {
+    "tStartMs": 2486930,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Savory again?"
+    } ]
+  }, {
+    "tStartMs": 2487960,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Isn't Earl Grey savory?"
+    } ]
+  }, {
+    "tStartMs": 2489800,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Come on, what's savory about Earl Grey?"
+    } ]
+  }, {
+    "tStartMs": 2492530,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Then is it tangy?"
+    } ]
+  }, {
+    "tStartMs": 2494850,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "It could be tangy, I think."
+    } ]
+  }, {
+    "tStartMs": 2496840,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Oh, maybe not? Tangy is a bit off too."
+    } ]
+  }, {
+    "tStartMs": 2500780,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Earl Grey is just sweet then?"
+    } ]
+  }, {
+    "tStartMs": 2503820,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Sweet and..."
+    } ]
+  }, {
+    "tStartMs": 2506040,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Fragrant?"
+    } ]
+  }, {
+    "tStartMs": 2507270,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "Fragrant... no, this is too difficult."
+    } ]
+  }, {
+    "tStartMs": 2511540,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Fragrant means it has a nice aroma, right?"
+    } ]
+  }, {
+    "tStartMs": 2515640,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2516150,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "I'll give it to you."
+    } ]
+  }, {
+    "tStartMs": 2517370,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Okay, okay, okay, thank you."
+    } ]
+  }, {
+    "tStartMs": 2520210,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Fragrant."
+    } ]
+  }, {
+    "tStartMs": 2524090,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I keep thinking about tea with this, you know?"
+    } ]
+  }, {
+    "tStartMs": 2528250,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Yuzu tea."
+    } ]
+  }, {
+    "tStartMs": 2530530,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Yuzu tea?"
+    } ]
+  }, {
+    "tStartMs": 2531630,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "Yes, yuzu tea."
+    } ]
+  }, {
+    "tStartMs": 2534520,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "Tangy."
+    } ]
+  }, {
+    "tStartMs": 2536750,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Yuzu tea? Oh, tangy."
+    } ]
+  }, {
+    "tStartMs": 2538370,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Yes, oh this is so—"
+    } ]
+  }, {
+    "tStartMs": 2543060,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "It feels like I'm falling into that trap, tangy?"
+    } ]
+  }, {
+    "tStartMs": 2547010,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Lemon madeleine?"
+    } ]
+  }, {
+    "tStartMs": 2551320,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "It's a dessert."
+    } ]
+  }, {
+    "tStartMs": 2552480,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Sweet."
+    } ]
+  }, {
+    "tStartMs": 2554040,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Oh, sweet."
+    } ]
+  }, {
+    "tStartMs": 2555930,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "Then—"
+    } ]
+  }, {
+    "tStartMs": 2556880,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Jeyuk bokkeum."
+    } ]
+  }, {
+    "tStartMs": 2559260,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Spicy."
+    } ]
+  }, {
+    "tStartMs": 2560850,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "Yes, it's sweet, and jeyuk bokkeum is spicy."
+    } ]
+  }, {
+    "tStartMs": 2565680,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Spicy."
+    } ]
+  }, {
+    "tStartMs": 2567530,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Spicy."
+    } ]
+  }, {
+    "tStartMs": 2568970,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Now let me do this like a proper game."
+    } ]
+  }, {
+    "tStartMs": 2570150,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Not that dessert game."
+    } ]
+  }, {
+    "tStartMs": 2572790,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "A food game instead."
+    } ]
+  }, {
+    "tStartMs": 2574900,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Spicy."
+    } ]
+  }, {
+    "tStartMs": 2576010,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Pork bulgogi."
+    } ]
+  }, {
+    "tStartMs": 2577530,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Salty."
+    } ]
+  }, {
+    "tStartMs": 2579870,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Salty."
+    } ]
+  }, {
+    "tStartMs": 2581370,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Actually, all of them work."
+    } ]
+  }, {
+    "tStartMs": 2582810,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Right, pork kimchi jjim."
+    } ]
+  }, {
+    "tStartMs": 2585270,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Pork kimchi jjim."
+    } ]
+  }, {
+    "tStartMs": 2586330,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "That Tae-woong likes."
+    } ]
+  }, {
+    "tStartMs": 2588290,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Tangy."
+    } ]
+  }, {
+    "tStartMs": 2590510,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Tangy, that's right."
+    } ]
+  }, {
+    "tStartMs": 2592660,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "Aged kimchi is tangy."
+    } ]
+  }, {
+    "tStartMs": 2596630,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Cheonggukjang?"
+    } ]
+  }, {
+    "tStartMs": 2599800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "I haven't tried cheonggukjang before."
+    } ]
+  }, {
+    "tStartMs": 2601900,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "It's also a food made by fermenting beans."
+    } ]
+  }, {
+    "tStartMs": 2605410,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2607040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "And it has that deep, savory flavor."
+    } ]
+  }, {
+    "tStartMs": 2609480,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "That deep, savory taste."
+    } ]
+  }, {
+    "tStartMs": 2611610,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2612820,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "I'll explain the difference next time."
+    } ]
+  }, {
+    "tStartMs": 2614930,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "There's a difference between gosohada and gusuohada."
+    } ]
+  }, {
+    "tStartMs": 2616660,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "It's that deep, savory flavor, right?"
+    } ]
+  }, {
+    "tStartMs": 2618650,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2619770,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "I can only think of soybean paste dishes."
+    } ]
+  }, {
+    "tStartMs": 2623110,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "For that deep, savory taste."
+    } ]
+  }, {
+    "tStartMs": 2625550,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Doenjang jjigae."
+    } ]
+  }, {
+    "tStartMs": 2628050,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Sharp and pungent."
+    } ]
+  }, {
+    "tStartMs": 2629240,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "It can be sharp and pungent."
+    } ]
+  }, {
+    "tStartMs": 2632260,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Sharp and pungent."
+    } ]
+  }, {
+    "tStartMs": 2633280,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "Spicy fish stew."
+    } ]
+  }, {
+    "tStartMs": 2634710,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Spicy."
+    } ]
+  }, {
+    "tStartMs": 2636030,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Spicy means."
+    } ]
+  }, {
+    "tStartMs": 2637790,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Buldak bokkeummyeon."
+    } ]
+  }, {
+    "tStartMs": 2639580,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "Numbing and tingling."
+    } ]
+  }, {
+    "tStartMs": 2641240,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Okay, numbing and tingling."
+    } ]
+  }, {
+    "tStartMs": 2644510,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Let's go back and forth on this game just three times and then wrap it up."
+    } ]
+  }, {
+    "tStartMs": 2647860,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "This one seems like it could go on forever."
+    } ]
+  }, {
+    "tStartMs": 2649950,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "You're right, you're right."
+    } ]
+  }, {
+    "tStartMs": 2651400,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Numbing and tingling?"
+    } ]
+  }, {
+    "tStartMs": 2652540,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "Tiba two-piece chicken, garlic and red pepper chicken."
+    } ]
+  }, {
+    "tStartMs": 2658440,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Nobody can relate to that."
+    } ]
+  }, {
+    "tStartMs": 2660640,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "That one is numbing and tingling, that one!"
+    } ]
+  }, {
+    "tStartMs": 2662600,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "No, nobody's tried it, you listeners."
+    } ]
+  }, {
+    "tStartMs": 2667770,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "What's Tiba two-piece?"
+    } ]
+  }, {
+    "tStartMs": 2670100,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Tiba two-piece chicken is."
+    } ]
+  }, {
+    "tStartMs": 2673730,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Red pepper and garlic chicken."
+    } ]
+  }, {
+    "tStartMs": 2674960,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Red pepper and garlic chicken."
+    } ]
+  }, {
+    "tStartMs": 2676340,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "It does seem like it would be quite numbing and tingling with red pepper and garlic."
+    } ]
+  }, {
+    "tStartMs": 2680190,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Yes, it's red pepper and garlic chicken."
+    } ]
+  }, {
+    "tStartMs": 2681650,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "If you do half fried and half red pepper and garlic, it's really the best."
+    } ]
+  }, {
+    "tStartMs": 2687290,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Even a chicken recommendation."
+    } ]
+  }, {
+    "tStartMs": 2688890,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Yes, anyway and."
+    } ]
+  }, {
+    "tStartMs": 2691030,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Salty."
+    } ]
+  }, {
+    "tStartMs": 2691930,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Salty."
+    } ]
+  }, {
+    "tStartMs": 2693420,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "It's salty."
+    } ]
+  }, {
+    "tStartMs": 2694100,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "I see, it is salty."
+    } ]
+  }, {
+    "tStartMs": 2695520,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "The salty ones—for me it's Japanese ramen."
+    } ]
+  }, {
+    "tStartMs": 2699790,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "It's really salty."
+    } ]
+  }, {
+    "tStartMs": 2701530,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "But because of the pork fat..."
+    } ]
+  }, {
+    "tStartMs": 2704600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "But now that I think about it, ramen doesn't really have a refreshing taste."
+    } ]
+  }, {
+    "tStartMs": 2709520,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Ramen comes in many different types, you know."
+    } ]
+  }, {
+    "tStartMs": 2712740,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "There's tonkotsu ramen, and there's shio ramen too."
+    } ]
+  }, {
+    "tStartMs": 2715710,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "And there's abura as well."
+    } ]
+  }, {
+    "tStartMs": 2718210,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "And shoyu ramen too, isn't there?"
+    } ]
+  }, {
+    "tStartMs": 2720050,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2721110,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "But I think tonkotsu ramen has a refreshing taste."
+    } ]
+  }, {
+    "tStartMs": 2723340,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "You think it has a refreshing taste?"
+    } ]
+  }, {
+    "tStartMs": 2725530,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Because it's pork broth."
+    } ]
+  }, {
+    "tStartMs": 2726870,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "For me, when something is too rich and heavy,"
+    } ]
+  }, {
+    "tStartMs": 2730840,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "it doesn't give off that refreshing feeling."
+    } ]
+  }, {
+    "tStartMs": 2733270,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Because there's oil in it."
+    } ]
+  }, {
+    "tStartMs": 2736050,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "I would say it's nutty."
+    } ]
+  }, {
+    "tStartMs": 2737800,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "That oily flavor."
+    } ]
+  }, {
+    "tStartMs": 2739540,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Nutty?"
+    } ]
+  }, {
+    "tStartMs": 2741060,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Then peanut butter sandwich—"
+    } ]
+  }, {
+    "tStartMs": 2743450,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "I really like it."
+    } ]
+  }, {
+    "tStartMs": 2745200,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "It's sweet."
+    } ]
+  }, {
+    "tStartMs": 2746220,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "And peanuts seem to have a bit of a bitter taste to them."
+    } ]
+  }, {
+    "tStartMs": 2750410,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2751190,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Or not?"
+    } ]
+  }, {
+    "tStartMs": 2752120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "If it's an organic product, it could be like that."
+    } ]
+  }, {
+    "tStartMs": 2755320,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "If it's 100% peanut, there can be a slightly bitter taste to it."
+    } ]
+  }, {
+    "tStartMs": 2760690,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "So we've done this relay game like this."
+    } ]
+  }, {
+    "tStartMs": 2763860,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Since we've done it, I hope it's been helpful for you all to now"
+    } ]
+  }, {
+    "tStartMs": 2767280,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "connect Korean taste expressions with food."
+    } ]
+  }, {
+    "tStartMs": 2771870,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So then, the next topic is—"
+    } ]
+  }, {
+    "tStartMs": 2773790,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "What would be a good next topic?"
+    } ]
+  }, {
+    "tStartMs": 2776600,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "The next topic is actually"
+    } ]
+  }, {
+    "tStartMs": 2778650,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "hobbies."
+    } ]
+  }, {
+    "tStartMs": 2780760,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "It seems like we haven't really talked about hobbies as a proper topic until now,"
+    } ]
+  }, {
+    "tStartMs": 2786110,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "so whether it's hobbies you have these days or hobbies you want to have,"
+    } ]
+  }, {
+    "tStartMs": 2789720,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "I think it would be good to talk about those kinds of things broadly."
+    } ]
+  }, {
+    "tStartMs": 2793070,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Well, that's all from Didi and Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2795830,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

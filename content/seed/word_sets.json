@@ -187,6 +187,34 @@
       {"ko": "축의금", "en": "wedding gift money"}, {"ko": "봉투", "en": "envelope"}, {"ko": "선물", "en": "gift"}, {"ko": "축하", "en": "congratulations"},
       {"ko": "사진", "en": "photo"}, {"ko": "찍다", "en": "take (a photo)"}, {"ko": "손님", "en": "guest"}, {"ko": "파티", "en": "party"},
       {"ko": "인사", "en": "greeting"}, {"ko": "드레스", "en": "dress"}, {"ko": "꽃", "en": "flower"}, {"ko": "반지", "en": "ring"}
+    ]},
+    {"id": "podcast-common", "title_ko": "팟캐스트 자주 나오는 말", "title_en": "Podcast: common words", "items": [
+      {"ko": "같다", "en": "same; (-것 같다) seems", "keys": ["같다/VA"]}, {"ko": "또", "en": "again; also", "keys": ["또/MAG"]}, {"ko": "막", "en": "just; like (filler)", "keys": ["막/MAG"]},
+      {"ko": "그러니까", "en": "so; I mean", "keys": ["그러니까/MAJ"]}, {"ko": "얘기하다", "en": "talk; tell", "keys": ["얘기하다/VV"]}, {"ko": "쓰다", "en": "use; write", "keys": ["쓰다/VV"]},
+      {"ko": "되게", "en": "really; very", "keys": ["되게/MAG"]}, {"ko": "이렇게", "en": "like this", "keys": ["이렇게/MAG"]}, {"ko": "그렇게", "en": "like that", "keys": ["그렇게/MAG"]},
+      {"ko": "그러다", "en": "do that; (그러다가) and then", "keys": ["그러다/VV"]}, {"ko": "이러다", "en": "do this", "keys": ["이러다/VV"]}, {"ko": "주제", "en": "topic", "keys": ["주제/NNG"]},
+      {"ko": "전", "en": "before; previous", "keys": ["전/NNG"]}, {"ko": "대하다", "en": "(에 대해) about", "keys": ["대하다/VV"]}, {"ko": "엄청", "en": "super; a lot", "keys": ["엄청/MAG"]},
+      {"ko": "편", "en": "side; (-는 편이다) tend to", "keys": ["편/NNB"]}, {"ko": "일단", "en": "first; for now", "keys": ["일단/MAG"]}, {"ko": "그", "en": "uh (filler)", "keys": ["그/IC"]},
+      {"ko": "음", "en": "hmm", "keys": ["음/IC"]}, {"ko": "오", "en": "oh", "keys": ["오/IC"]}, {"ko": "와", "en": "wow", "keys": ["와/IC"]},
+      {"ko": "그쵸", "en": "right? (그렇죠)", "keys": ["그쵸/IC"]}, {"ko": "거기", "en": "there", "keys": ["거기/NP"]}, {"ko": "딱", "en": "exactly; just right", "keys": ["딱/MAG"]},
+      {"ko": "저희", "en": "we; our (humble)", "keys": ["저희/NP"]}, {"ko": "항상", "en": "always", "keys": ["항상/MAG"]}, {"ko": "가끔", "en": "sometimes", "keys": ["가끔/MAG"]},
+      {"ko": "마음", "en": "heart; mind", "keys": ["마음/NNG"]}, {"ko": "살아가다", "en": "live; get by", "keys": ["살아가다/VV"]}, {"ko": "재밌다", "en": "fun; interesting", "keys": ["재밌다/VA"]},
+      {"ko": "보이다", "en": "be seen; look", "keys": ["보이다/VV"]}, {"ko": "그래도", "en": "still; even so", "keys": ["그래도/MAJ"]}, {"ko": "받다", "en": "receive; get", "keys": ["받다/VV"]},
+      {"ko": "저번", "en": "last time", "keys": ["저번/NNG"]}, {"ko": "가지다", "en": "have; take", "keys": ["가지다/VV"]}, {"ko": "알리다", "en": "let know; announce", "keys": ["알리다/VV"]},
+      {"ko": "넣다", "en": "put in", "keys": ["넣다/VV"]}, {"ko": "생기다", "en": "come up; get (a thing)", "keys": ["생기다/VV"]}, {"ko": "오래", "en": "for a long time", "keys": ["오래/MAG"]},
+      {"ko": "아까", "en": "a moment ago", "keys": ["아까/MAG"]}, {"ko": "아무튼", "en": "anyway", "keys": ["아무튼/MAG"]}, {"ko": "기억", "en": "memory", "keys": ["기억/NNG"]},
+      {"ko": "옛날", "en": "the old days", "keys": ["옛날/NNG"]}, {"ko": "마지막", "en": "last", "keys": ["마지막/NNG"]}, {"ko": "다양하다", "en": "various", "keys": ["다양하다/VA"]},
+      {"ko": "차이", "en": "difference", "keys": ["차이/NNG"]}, {"ko": "몇", "en": "how many; a few", "keys": ["몇/NR"]}, {"ko": "게임", "en": "game", "keys": ["게임/NNG"]},
+      {"ko": "맞추다", "en": "guess right; match", "keys": ["맞추다/VV"]}, {"ko": "비슷하다", "en": "similar", "keys": ["비슷하다/VA"]}, {"ko": "첫", "en": "first", "keys": ["첫/MM"]},
+      {"ko": "어리다", "en": "young", "keys": ["어리다/VA"]}, {"ko": "원래", "en": "originally; normally", "keys": ["원래/MAG"]}, {"ko": "말다", "en": "(-지 말다) don't", "keys": ["말다/VV"]},
+      {"ko": "댓글", "en": "comment", "keys": ["댓글/NNG"]}, {"ko": "가능하다", "en": "possible", "keys": ["가능하다/VA"]}, {"ko": "만약", "en": "if", "keys": ["만약/NNG"]},
+      {"ko": "남기다", "en": "leave (behind)", "keys": ["남기다/VV"]}, {"ko": "궁금하다", "en": "curious; wonder", "keys": ["궁금하다/VA"]}, {"ko": "혹시", "en": "by any chance", "keys": ["혹시/MAG"]},
+      {"ko": "신기하다", "en": "fascinating; amazing", "keys": ["신기하다/VA"]}, {"ko": "아쉽다", "en": "a shame; too bad", "keys": ["아쉽다/VA"]}, {"ko": "확실히", "en": "definitely", "keys": ["확실히/MAG"]},
+      {"ko": "똑같다", "en": "exactly the same", "keys": ["똑같다/VA"]}, {"ko": "아마", "en": "probably", "keys": ["아마/MAG"]}, {"ko": "아예", "en": "(not) at all; entirely", "keys": ["아예/MAG"]},
+      {"ko": "시키다", "en": "order (food); make someone do", "keys": ["시키다/VV"]}, {"ko": "정답", "en": "right answer", "keys": ["정답/NNG"]}, {"ko": "묻다", "en": "ask", "keys": ["묻다/VV"]},
+      {"ko": "올라가다", "en": "go up", "keys": ["올라가다/VV"]}, {"ko": "아니면", "en": "or; otherwise", "keys": ["아니면/MAJ"]}, {"ko": "쉬다", "en": "rest", "keys": ["쉬다/VV"]},
+      {"ko": "생각나다", "en": "come to mind", "keys": ["생각나다/VV"]}, {"ko": "에피소드", "en": "episode", "keys": ["에피소드/NNG"]}, {"ko": "오케이", "en": "okay", "keys": ["오케이/IC"]},
+      {"ko": "유튜브", "en": "YouTube", "keys": ["유튜브/NNP"]}
     ]}
   ]
 }

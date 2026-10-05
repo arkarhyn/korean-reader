@@ -1,0 +1,4135 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Yomojomo of life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Last week we met offline and talked, so how was your trip to Busan?"
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, I went and came back."
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "As soon as I arrived, I went to a kimbap restaurant in front of my house and ate a bowl of cheese ramen."
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That sounds delicious."
+    } ]
+  }, {
+    "tStartMs": 37000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes, and when I got home like that, it really felt like I had come back."
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Is it a ramen place you go to often? A kimbap restaurant?"
+    } ]
+  }, {
+    "tStartMs": 43000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No, because the taste wasn't good."
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Really? What do you mean?"
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "At that time it probably tasted good. You must have been hungry."
+    } ]
+  }, {
+    "tStartMs": 52000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right. When you're hungry enough to eat anything, places like that seem"
+    } ]
+  }, {
+    "tStartMs": 56000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "pretty decent."
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. I have one announcement."
+    } ]
+  }, {
+    "tStartMs": 61000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Until now, Tae-woong has been coming on Yomojomo every week like this,"
+    } ]
+  }, {
+    "tStartMs": 67000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "but now I'm going to be adding other programs,"
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "so I'm thinking of making Yomojomo maybe once every three weeks or once a month instead."
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So I really want to thank Tae-woong for coming on every week until now."
+    } ]
+  }, {
+    "tStartMs": 82000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "No, I should be the one thanking you."
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No, that's not it."
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And though it's not a lot, I'm really grateful to the subscribers who like Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "No, there are a lot. There are a lot, I'm telling you."
+    } ]
+  }, {
+    "tStartMs": 97000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's modest, but more and more people are listening little by little."
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "On Spotify and YouTube too, I'm really, really grateful."
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 107000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So first, before we start today, I got a question for Tae-woong,"
+    } ]
+  }, {
+    "tStartMs": 112000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and I'm going to read it for you."
+    } ]
+  }, {
+    "tStartMs": 115000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "For me?"
+    } ]
+  }, {
+    "tStartMs": 116000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. It's a question for Tae-woong, and someone asked me through Instagram DM."
+    } ]
+  }, {
+    "tStartMs": 121000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "The ID seems to be read as either Gian or Jui-an,"
+    } ]
+  }, {
+    "tStartMs": 127000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "and they're asking what your Instagram ID \"Vivo Estas Bonas\" means,"
+    } ]
+  }, {
+    "tStartMs": 135000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and this person says they speak Spanish."
+    } ]
+  }, {
+    "tStartMs": 137000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "It seems like it has kind of unusual grammar, something like \"you are alive,\" and they're asking if that's right."
+    } ]
+  }, {
+    "tStartMs": 145000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it right?"
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "My Instagram ID Vivo Estas Bonas is not Spanish,"
+    } ]
+  }, {
+    "tStartMs": 153000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "it's Esperanto."
+    } ]
+  }, {
+    "tStartMs": 157000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "All of a sudden?"
+    } ]
+  }, {
+    "tStartMs": 160000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "It's an artificial language created by Dr. Zamenhof from Poland."
+    } ]
+  }, {
+    "tStartMs": 169000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's a language that was artificially created by a person."
+    } ]
+  }, {
+    "tStartMs": 173000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It's not a script, it's a language."
+    } ]
+  }, {
+    "tStartMs": 176000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So that doctor created this language so that all humans on Earth would use it as a common language for all humanity,"
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "a language that all people would use together."
+    } ]
+  }, {
+    "tStartMs": 188000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it old? How long ago was it made?"
+    } ]
+  }, {
+    "tStartMs": 190000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's probably quite old."
+    } ]
+  }, {
+    "tStartMs": 192000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So there are people who speak that language scattered around the world."
+    } ]
+  }, {
+    "tStartMs": 200000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "So I happened to learn about that language too, and I thought it was really fascinating."
+    } ]
+  }, {
+    "tStartMs": 210000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So at one point I tried to learn it a bit,"
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and my ID Vivo Estas Bonas is in Esperanto,"
+    } ]
+  }, {
+    "tStartMs": 219000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "what does it mean?"
+    } ]
+  }, {
+    "tStartMs": 220000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It means \"Life is good.\""
+    } ]
+  }, {
+    "tStartMs": 224000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Life is good."
+    } ]
+  }, {
+    "tStartMs": 226000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Life is a good thing."
+    } ]
+  }, {
+    "tStartMs": 228000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Since life is good, let's live joyfully."
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 233000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "When you use it as a universal human language, it sounds cool."
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Right. If people all over the world know that language, they would all understand that word."
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 250000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "With that intention, then?"
+    } ]
+  }, {
+    "tStartMs": 252000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 253000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's what they say."
+    } ]
+  }, {
+    "tStartMs": 255000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's really similar to Spanish."
+    } ]
+  }, {
+    "tStartMs": 257000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. It's quite similar."
+    } ]
+  }, {
+    "tStartMs": 259000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's interesting."
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I was surprised when you suddenly said you had a question."
+    } ]
+  }, {
+    "tStartMs": 265000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You're catching me off guard like this every week."
+    } ]
+  }, {
+    "tStartMs": 268000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So now let's get back to introducing the Yomojomo theme properly."
+    } ]
+  }, {
+    "tStartMs": 273000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What's this week's topic?"
+    } ]
+  }, {
+    "tStartMs": 275000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. This week's topic is \"natkkarim\" (being shy with strangers)."
+    } ]
+  }, {
+    "tStartMs": 279000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So Tae-woong suggested this topic last week."
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I wonder if there's a reason you suggested it?"
+    } ]
+  }, {
+    "tStartMs": 287000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "We met in person for the first time last week, right?"
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 295000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "So I was wondering if you felt shy or not."
+    } ]
+  }, {
+    "tStartMs": 302000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Whether your shyness kicked in or not?"
+    } ]
+  }, {
+    "tStartMs": 304000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "How was it? Do you think you're usually someone who feels shy around strangers? Yourself?"
+    } ]
+  }, {
+    "tStartMs": 310000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "These days I don't think I do."
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "These days?"
+    } ]
+  }, {
+    "tStartMs": 316000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 318000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Until when did you feel shy?"
+    } ]
+  }, {
+    "tStartMs": 320000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I think until around twenty, twenty-one? So I felt shy a lot in my early twenties."
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 331000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But did you get over it?"
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 335000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "As I was forced to meet many different people and had to stand in front of people,"
+    } ]
+  }, {
+    "tStartMs": 346000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and had to talk to strangers,"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "after having many experiences like that, my shyness went away."
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Before I ask what kind of person you are, Didi,"
+    } ]
+  }, {
+    "tStartMs": 358000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I'm not sure if the word \"natkkarim\" might be difficult."
+    } ]
+  }, {
+    "tStartMs": 364000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I think \"natkkarim\" has several types,"
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and when I think about it, when you meet a stranger,"
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "you can't show yourself well,"
+    } ]
+  }, {
+    "tStartMs": 377000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "you can't express your opinions well,"
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and there's also some embarrassment,"
+    } ]
+  }, {
+    "tStartMs": 384000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and your words don't come out well, those kinds of symptoms, right?"
+    } ]
+  }, {
+    "tStartMs": 389000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So I think there might be a corresponding word for this in your country too,"
+    } ]
+  }, {
+    "tStartMs": 395000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and when I always try to express in English that I feel shy,"
+    } ]
+  }, {
+    "tStartMs": 401000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it comes out as \"I'm shy with strangers.\""
+    } ]
+  }, {
+    "tStartMs": 404000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's very intuitive."
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. So in that sense, when you meet strangers,"
+    } ]
+  }, {
+    "tStartMs": 410000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "new people, it seems like you get embarrassed or can't speak well."
+    } ]
+  }, {
+    "tStartMs": 418000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "At this point, most of you would understand what it means, right?"
+    } ]
+  }, {
+    "tStartMs": 422000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You would."
+    } ]
+  }, {
+    "tStartMs": 424000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But actually, even though I had shyness,"
+    } ]
+  }, {
+    "tStartMs": 429000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I heard the word \"natkkarim\" quite late."
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 436000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is that a Seoul dialect?"
+    } ]
+  }, {
+    "tStartMs": 439000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm not sure. Me neither."
+    } ]
+  }, {
+    "tStartMs": 440000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it not used much in Busan?"
+    } ]
+  }, {
+    "tStartMs": 442000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But strangely, no one ever told me \"you're shy\" or anything like that,"
+    } ]
+  }, {
+    "tStartMs": 448000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and from that I can understand one thing:"
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "to someone who really is shy,"
+    } ]
+  }, {
+    "tStartMs": 454000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 455000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "it's difficult to say \"you're shy like that\"?"
+    } ]
+  }, {
+    "tStartMs": 459000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Oh right. Usually people say it themselves. I feel shy, that kind of way."
+    } ]
+  }, {
+    "tStartMs": 465000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 467000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So Didi, do you have shyness around strangers now?"
+    } ]
+  }, {
+    "tStartMs": 472000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I do tend to be shy around unfamiliar people,"
+    } ]
+  }, {
+    "tStartMs": 478000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "and back then I started to understand better when I was being shy."
+    } ]
+  }, {
+    "tStartMs": 486000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "For example, I think it's when I want to look good."
+    } ]
+  }, {
+    "tStartMs": 490000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "When I have the thought that I want someone to see me in a good light, that's when I seem to get shy."
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 498000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because of that pressure."
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 501000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, I felt that."
+    } ]
+  }, {
+    "tStartMs": 504000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Actually, I was planning to bring this up later when we talk about tips for overcoming shyness."
+    } ]
+  }, {
+    "tStartMs": 513000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 515000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Would you like to share the tips first then?"
+    } ]
+  }, {
+    "tStartMs": 517000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That, just like you said earlier, Didi,"
+    } ]
+  }, {
+    "tStartMs": 520000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 521000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "when you think something is important and get tense, you can't help but become shy."
+    } ]
+  }, {
+    "tStartMs": 528000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 529000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So what should you do?"
+    } ]
+  }, {
+    "tStartMs": 531000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "You just have to not regard that moment and that person as important."
+    } ]
+  }, {
+    "tStartMs": 540000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But that's the hard part."
+    } ]
+  }, {
+    "tStartMs": 543000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This person is nothing special."
+    } ]
+  }, {
+    "tStartMs": 545000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 546000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They're not important to me."
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mind control."
+    } ]
+  }, {
+    "tStartMs": 548000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like that."
+    } ]
+  }, {
+    "tStartMs": 550000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh but I think that could actually be a useful tip."
+    } ]
+  }, {
+    "tStartMs": 553000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Because rather than constantly thinking about how I am,"
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so instead of thinking I have to look good,"
+    } ]
+  }, {
+    "tStartMs": 561000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "instead of thinking I have to be perfect,"
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "thinking that the other person is nothing special,"
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "that might be an easier way to approach it."
+    } ]
+  }, {
+    "tStartMs": 570000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh that's right."
+    } ]
+  }, {
+    "tStartMs": 571000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right, that's right."
+    } ]
+  }, {
+    "tStartMs": 572000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When you try to look good, you become shy."
+    } ]
+  }, {
+    "tStartMs": 574000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 575000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Because you end up showing a version of yourself that isn't really you."
+    } ]
+  }, {
+    "tStartMs": 579000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Sometimes I go out without even washing my hair."
+    } ]
+  }, {
+    "tStartMs": 584000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's important."
+    } ]
+  }, {
+    "tStartMs": 585000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 586000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "When I'm comfortable like that and there are parts of me that are a bit messy,"
+    } ]
+  }, {
+    "tStartMs": 592000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "nothing terrible happens."
+    } ]
+  }, {
+    "tStartMs": 594000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There aren't that many people who are important to me."
+    } ]
+  }, {
+    "tStartMs": 598000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 599000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Other people don't think of me that way."
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 10600,
+    "segs": [ {
+      "utf8": "When I was studying Japanese, I learned an expression—you know the term \"jack of all trades\"?"
+    } ]
+  }, {
+    "tStartMs": 610600,
+    "dDurationMs": 12119,
+    "segs": [ {
+      "utf8": "There's something called \"jack of all trades syndrome,\" and when I try to be too perfect, I get stressed about it and my true self doesn't come out, so I've been thinking lately that I should build up the courage to let myself be a mess."
+    } ]
+  }, {
+    "tStartMs": 622719,
+    "dDurationMs": 14040,
+    "segs": [ {
+      "utf8": "That's a very good thought."
+    } ]
+  }, {
+    "tStartMs": 636759,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "But you said you don't get shy, so even if one-on-one or like three-on-one meetings are fine,"
+    } ]
+  }, {
+    "tStartMs": 640119,
+    "dDurationMs": 9881,
+    "segs": [ {
+      "utf8": "when you go to a place with a lot of people, you don't feel that sense of shyness?"
+    } ]
+  }, {
+    "tStartMs": 650000,
+    "dDurationMs": 6119,
+    "segs": [ {
+      "utf8": "I don't think I feel it anymore."
+    } ]
+  }, {
+    "tStartMs": 656119,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "That must be comfortable?"
+    } ]
+  }, {
+    "tStartMs": 658240,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 659439,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I'm envious."
+    } ]
+  }, {
+    "tStartMs": 661639,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "When I think about when that started, there's an English expression like this."
+    } ]
+  }, {
+    "tStartMs": 662759,
+    "dDurationMs": 8721,
+    "segs": [ {
+      "utf8": "\"He knows what he does,\" you know that expression?"
+    } ]
+  }, {
+    "tStartMs": 671480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That person knows what kind of person he is."
+    } ]
+  }, {
+    "tStartMs": 674480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "That person knows what kind of person he is."
+    } ]
+  }, {
+    "tStartMs": 678080,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "Since I got into that state, that awkwardness has kind of disappeared."
+    } ]
+  }, {
+    "tStartMs": 683800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I know what I do, you know?"
+    } ]
+  }, {
+    "tStartMs": 685400,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 687639,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "I know what kind of person I am, what kind of thoughts I live with, and so when I meet someone, I can tell them what I do."
+    } ]
+  }, {
+    "tStartMs": 696839,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "From that point on, it seems like that awkwardness went away."
+    } ]
+  }, {
+    "tStartMs": 701040,
+    "dDurationMs": 8960,
+    "segs": [ {
+      "utf8": "Right. So from the moment you know yourself well and start letting go of the burden about the other person?"
+    } ]
+  }, {
+    "tStartMs": 710000,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "Hmm... the shyness around strangers kind of disappeared."
+    } ]
+  }, {
+    "tStartMs": 714639,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Hmm... it must feel really comfortable. Wherever you go."
+    } ]
+  }, {
+    "tStartMs": 719879,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "I actually talked about shyness around strangers on a live stream recently."
+    } ]
+  }, {
+    "tStartMs": 726239,
+    "dDurationMs": 8561,
+    "segs": [ {
+      "utf8": "When I was worried about shyness, I was searching online for ways to overcome it."
+    } ]
+  }, {
+    "tStartMs": 734800,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "And I found this idea that you don't really need to overcome shyness, so I talked about that once."
+    } ]
+  }, {
+    "tStartMs": 742720,
+    "dDurationMs": 10199,
+    "segs": [ {
+      "utf8": "Actually, a lot of people think introverted people or people who are shy around strangers are bad or have complexes about it."
+    } ]
+  }, {
+    "tStartMs": 752919,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "But ultimately there are advantages to those traits too, so if you use them well, you can go in a different, better direction."
+    } ]
+  }, {
+    "tStartMs": 762919,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "What kind of advantages are there?"
+    } ]
+  }, {
+    "tStartMs": 765320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "It seems like people like that tend to have good observation skills."
+    } ]
+  }, {
+    "tStartMs": 769720,
+    "dDurationMs": 9600,
+    "segs": [ {
+      "utf8": "Because they don't show themselves until they've figured out the other person completely."
+    } ]
+  }, {
+    "tStartMs": 779320,
+    "dDurationMs": 11359,
+    "segs": [ {
+      "utf8": "So they keep observing their surroundings and trying to understand other people's relationships, and that tendency seems to give them pretty good observation skills."
+    } ]
+  }, {
+    "tStartMs": 790679,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Wow... you're a dangerous person, aren't you?"
+    } ]
+  }, {
+    "tStartMs": 793080,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 793960,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "In a good way."
+    } ]
+  }, {
+    "tStartMs": 796279,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Everyone's being observed."
+    } ]
+  }, {
+    "tStartMs": 798919,
+    "dDurationMs": 11840,
+    "segs": [ {
+      "utf8": "So Didi, aside from whether you have shyness yourself, you must have met people who are shy before, right?"
+    } ]
+  }, {
+    "tStartMs": 810759,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 811479,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "How was that?"
+    } ]
+  }, {
+    "tStartMs": 813160,
+    "dDurationMs": 9519,
+    "segs": [ {
+      "utf8": "For example, when I meet one-on-one with someone quieter than me, someone shyer than me, it actually feels easier for me to talk."
+    } ]
+  }, {
+    "tStartMs": 822679,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 826759,
+    "dDurationMs": 7601,
+    "segs": [ {
+      "utf8": "So it's like when only introverts gather, an extrovert is forcibly created."
+    } ]
+  }, {
+    "tStartMs": 834360,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 835960,
+    "dDurationMs": 9679,
+    "segs": [ {
+      "utf8": "But I think I told you this before, Didi—when I went to gatherings like that, I said I get shy."
+    } ]
+  }, {
+    "tStartMs": 845639,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Right. You said you can't talk well?"
+    } ]
+  }, {
+    "tStartMs": 847639,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "Yes. Now that I think about it."
+    } ]
+  }, {
+    "tStartMs": 849880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But I figured out the difference."
+    } ]
+  }, {
+    "tStartMs": 851880,
+    "dDurationMs": 5679,
+    "segs": [ {
+      "utf8": "Recently when I went up to Seoul for a YouTube event, I wasn't shy."
+    } ]
+  }, {
+    "tStartMs": 857559,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 859239,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "You weren't shy?"
+    } ]
+  }, {
+    "tStartMs": 860200,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "No. But when I thought about what the problem was, it seems I got really shy because I ended up at a gathering with only women."
+    } ]
+  }, {
+    "tStartMs": 869720,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "But Tae-woong, you're okay talking with women, aren't you?"
+    } ]
+  }, {
+    "tStartMs": 873239,
+    "dDurationMs": 9921,
+    "segs": [ {
+      "utf8": "I'm okay with it, but if there are 20 women and I'm alone, that's a different problem."
+    } ]
+  }, {
+    "tStartMs": 883160,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "That's a situation you can't really experience easily."
+    } ]
+  }, {
+    "tStartMs": 886839,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 887799,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "People of a different category from me."
+    } ]
+  }, {
+    "tStartMs": 890200,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "Yes. I see."
+    } ]
+  }, {
+    "tStartMs": 893399,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "Then I don't think I'd have anything to say."
+    } ]
+  }, {
+    "tStartMs": 895720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Nothing to talk about."
+    } ]
+  }, {
+    "tStartMs": 897720,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "And I can't join in what they're talking about."
+    } ]
+  }, {
+    "tStartMs": 901239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Like I'm just awkwardly there."
+    } ]
+  }, {
+    "tStartMs": 903239,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 903880,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "That must have been it."
+    } ]
+  }, {
+    "tStartMs": 904679,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "That was my last memory of going to a big gathering back then."
+    } ]
+  }, {
+    "tStartMs": 909320,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 910119,
+    "dDurationMs": 6801,
+    "segs": [ {
+      "utf8": "Yes. Back then I told you, Didi, that I get shy a lot at gatherings like that."
+    } ]
+  }, {
+    "tStartMs": 916920,
+    "dDurationMs": 6479,
+    "segs": [ {
+      "utf8": "Now that I think about it, unless it's a special situation like that, it seems I don't get shy much."
+    } ]
+  }, {
+    "tStartMs": 923399,
+    "dDurationMs": 10880,
+    "segs": [ {
+      "utf8": "I see. So when we met two weeks ago, do you talk online a lot like this and meet often? How about you, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 934279,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "It's happened a few times."
+    } ]
+  }, {
+    "tStartMs": 937320,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "How is it each time?"
+    } ]
+  }, {
+    "tStartMs": 939559,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Uh... it wasn't that awkward."
+    } ]
+  }, {
+    "tStartMs": 943959,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "It's not awkward?"
+    } ]
+  }, {
+    "tStartMs": 945239,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 946839,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "But that doesn't mean it's very comfortable either."
+    } ]
+  }, {
+    "tStartMs": 949239,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "There's something there, isn't there?"
+    } ]
+  }, {
+    "tStartMs": 951880,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "Yes. There's definitely something different."
+    } ]
+  }, {
+    "tStartMs": 954839,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "There's a strange feeling."
+    } ]
+  }, {
+    "tStartMs": 956600,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 958279,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "That's right. It's a fascinating feeling."
+    } ]
+  }, {
+    "tStartMs": 961079,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "It's definitely different when you see someone through a screen versus seeing them in person."
+    } ]
+  }, {
+    "tStartMs": 965000,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "It feels like meeting a celebrity."
+    } ]
+  }, {
+    "tStartMs": 966760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "When I have that kind of feeling, seeing someone on screen and then meeting them in person, that's how it is for me."
+    } ]
+  }, {
+    "tStartMs": 970920,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 971959,
+    "dDurationMs": 7361,
+    "segs": [ {
+      "utf8": "The reason I asked Didi earlier how it feels when you meet someone with different shyness is."
+    } ]
+  }, {
+    "tStartMs": 979320,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 980200,
+    "dDurationMs": 9599,
+    "segs": [ {
+      "utf8": "Sometimes when I'm around someone who's very shy, I feel a bit intimidated."
+    } ]
+  }, {
+    "tStartMs": 989799,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "You feel intimidated?"
+    } ]
+  }, {
+    "tStartMs": 991079,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "There are times when I feel intimidated. Yes."
+    } ]
+  }, {
+    "tStartMs": 992679,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Yes. Why is that?"
+    } ]
+  }, {
+    "tStartMs": 993720,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "When you feel intimidated, you lose confidence and your heart becomes a bit weaker, you know?"
+    } ]
+  }, {
+    "tStartMs": 998359,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 999399,
+    "dDurationMs": 5921,
+    "segs": [ {
+      "utf8": "Like, are they not interested in me? Do they dislike me? That kind of thing."
+    } ]
+  }, {
+    "tStartMs": 1005320,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "The opposite way?"
+    } ]
+  }, {
+    "tStartMs": 1006359,
+    "dDurationMs": 8961,
+    "segs": [ {
+      "utf8": "Yes. I keep trying to make the atmosphere better by asking questions and telling various stories, but"
+    } ]
+  }, {
+    "tStartMs": 1015320,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "because the other person is so shy."
+    } ]
+  }, {
+    "tStartMs": 1018839,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The conversation doesn't work. Then do they dislike me?"
+    } ]
+  }, {
+    "tStartMs": 1023799,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "I've felt that way sometimes."
+    } ]
+  }, {
+    "tStartMs": 1026600,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1027799,
+    "dDurationMs": 5841,
+    "segs": [ {
+      "utf8": "But from those people's perspective, they might feel really sorry too, right?"
+    } ]
+  }, {
+    "tStartMs": 1033640,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "They're probably blaming themselves right now. I can't speak like that."
+    } ]
+  }, {
+    "tStartMs": 1037959,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "Hmm. So?"
+    } ]
+  }, {
+    "tStartMs": 1040600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They're probably thinking, this person must be bored with me too."
+    } ]
+  }, {
+    "tStartMs": 1042600,
+    "dDurationMs": 10239,
+    "segs": [ {
+      "utf8": "Hmm. So the best thing you can do for them?"
+    } ]
+  }, {
+    "tStartMs": 1052839,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "I know."
+    } ]
+  }, {
+    "tStartMs": 1053880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Huh? What is it?"
+    } ]
+  }, {
+    "tStartMs": 1056200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Asking them a lot of questions about them?"
+    } ]
+  }, {
+    "tStartMs": 1059320,
+    "dDurationMs": 639,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1059959,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "Letting them talk about themselves a bit?"
+    } ]
+  }, {
+    "tStartMs": 1062760,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1063559,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "I think that's good. Oh, it might only apply to me though."
+    } ]
+  }, {
+    "tStartMs": 1068040,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "The Didi manual."
+    } ]
+  }, {
+    "tStartMs": 1069079,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1069880,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "I think shyness comes from not showing yourself well, so"
+    } ]
+  }, {
+    "tStartMs": 1077720,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "there are times when I just keep asking questions. I don't talk much about myself."
+    } ]
+  }, {
+    "tStartMs": 1083559,
+    "dDurationMs": 8321,
+    "segs": [ {
+      "utf8": "So when someone asks me questions too, I gradually start talking more and my heart opens up a bit."
+    } ]
+  }, {
+    "tStartMs": 1091880,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "Oh. So you need to make them talk about themselves?"
+    } ]
+  }, {
+    "tStartMs": 1099480,
+    "dDurationMs": 9359,
+    "segs": [ {
+      "utf8": "Hmm. But if they seem to struggle with that, sharing my own episode first might be a way too."
+    } ]
+  }, {
+    "tStartMs": 1108839,
+    "dDurationMs": 6001,
+    "segs": [ {
+      "utf8": "Hmm. That seems like a really good approach."
+    } ]
+  }, {
+    "tStartMs": 1114840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I hope it works. Just in case."
+    } ]
+  }, {
+    "tStartMs": 1117320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Yes. I think that's a very good conversation."
+    } ]
+  }, {
+    "tStartMs": 1121159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A way of speaking that opens the door to someone's heart."
+    } ]
+  }, {
+    "tStartMs": 1123159,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1124599,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "When I teach, I'm in the position of listening, so there are times when I don't talk much about myself either, but"
+    } ]
+  }, {
+    "tStartMs": 1132919,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "some students ask me about my stories quite often."
+    } ]
+  }, {
+    "tStartMs": 1137479,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "With those people, I definitely feel my heart opening up more."
+    } ]
+  }, {
+    "tStartMs": 1141000,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 1142440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Yes. Like, they accept even these trivial stories from me."
+    } ]
+  }, {
+    "tStartMs": 1146520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Hmm. Students should take note of that."
+    } ]
+  }, {
+    "tStartMs": 1151400,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "Everything is good. My conversations with my students."
+    } ]
+  }, {
+    "tStartMs": 1155239,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "So we talked a bit about shyness today,"
+    } ]
+  }, {
+    "tStartMs": 1159799,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "and now I'm going to add one more segment to Yomojomo and create it."
+    } ]
+  }, {
+    "tStartMs": 1164679,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "So let's move on to the next segment."
+    } ]
+  }, {
+    "tStartMs": 1168520,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "A word-based mini game."
+    } ]
+  }, {
+    "tStartMs": 1178520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This segment is called a word-based mini game,"
+    } ]
+  }, {
+    "tStartMs": 1182520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and now the image that comes to mind when I think of Teacher Tae-woong is"
+    } ]
+  }, {
+    "tStartMs": 1186520,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "On your Comprehensible Input Korean channel, there's an image of you playing games,"
+    } ]
+  }, {
+    "tStartMs": 1192760,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "so I prepared a time slot where we can play games in a simple way to match that."
+    } ]
+  }, {
+    "tStartMs": 1197239,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Since it's a game played with words, I hope you all will watch it."
+    } ]
+  }, {
+    "tStartMs": 1201000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "These are games you can only listen to with your ears."
+    } ]
+  }, {
+    "tStartMs": 1204000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So for example, a typical one among Korean games is a game called \"Kkeut-mal-it-gi.\""
+    } ]
+  }, {
+    "tStartMs": 1210000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "You take turns saying words one by one, and at the end... what do you call it? The last word?"
+    } ]
+  }, {
+    "tStartMs": 1219000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The last letter?"
+    } ]
+  }, {
+    "tStartMs": 1220000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You continue by using the last letter."
+    } ]
+  }, {
+    "tStartMs": 1223000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Since there are games like that, I prepared a different game for each episode."
+    } ]
+  }, {
+    "tStartMs": 1229000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What do you think?"
+    } ]
+  }, {
+    "tStartMs": 1231000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That sounds good."
+    } ]
+  }, {
+    "tStartMs": 1232000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Do you think it'll be fun?"
+    } ]
+  }, {
+    "tStartMs": 1233000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, absolutely."
+    } ]
+  }, {
+    "tStartMs": 1235000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I put a lot of effort into planning it."
+    } ]
+  }, {
+    "tStartMs": 1237000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But what's the benefit of winning?"
+    } ]
+  }, {
+    "tStartMs": 1239000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The benefit of winning? Do we need something like that to make the game more fun?"
+    } ]
+  }, {
+    "tStartMs": 1243000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't play games much."
+    } ]
+  }, {
+    "tStartMs": 1245000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Then let's do it this way."
+    } ]
+  }, {
+    "tStartMs": 1247000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The loser decides next week's topic?"
+    } ]
+  }, {
+    "tStartMs": 1252000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That becomes a punishment, though."
+    } ]
+  }, {
+    "tStartMs": 1255000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Oh, giving a prize to the winner instead."
+    } ]
+  }, {
+    "tStartMs": 1259000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "For now, let me think about that a bit more."
+    } ]
+  }, {
+    "tStartMs": 1261000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, that sounds good."
+    } ]
+  }, {
+    "tStartMs": 1263000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Let's try it by accumulating points."
+    } ]
+  }, {
+    "tStartMs": 1266000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So the game we're going to play in this episode is a game called \"Twenty Questions.\""
+    } ]
+  }, {
+    "tStartMs": 1272000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you know what kind of game it is?"
+    } ]
+  }, {
+    "tStartMs": 1274000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Twenty Questions—it's called that because you ask twenty questions,"
+    } ]
+  }, {
+    "tStartMs": 1278000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and there's a person who poses the problem and a person who solves it."
+    } ]
+  }, {
+    "tStartMs": 1283000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "The person posing the problem thinks of an answer word in their mind."
+    } ]
+  }, {
+    "tStartMs": 1290000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Then the person solving the problem has to figure out what that answer is,"
+    } ]
+  }, {
+    "tStartMs": 1297000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "and they can ask up to twenty questions to find out the answer."
+    } ]
+  }, {
+    "tStartMs": 1301000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1302000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But is it only yes or no?"
+    } ]
+  }, {
+    "tStartMs": 1305000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's right. It's only yes or no. Yes or no."
+    } ]
+  }, {
+    "tStartMs": 1308000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 1310000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So you have to guess the correct answer within those twenty questions to win,"
+    } ]
+  }, {
+    "tStartMs": 1316000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and if you go over, you lose, right?"
+    } ]
+  }, {
+    "tStartMs": 1318000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Twenty questions is quite enough to ask a lot of questions,"
+    } ]
+  }, {
+    "tStartMs": 1323000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "but depending on what word you choose, you might not be able to guess it."
+    } ]
+  }, {
+    "tStartMs": 1329000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Let's not use words that are too difficult."
+    } ]
+  }, {
+    "tStartMs": 1331000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Of course. This is the first game today."
+    } ]
+  }, {
+    "tStartMs": 1334000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "If you do something like \"white shark,\" there's no way we'd guess it."
+    } ]
+  }, {
+    "tStartMs": 1337000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Or things like \"Josbar.\""
+    } ]
+  }, {
+    "tStartMs": 1339000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Completely random stuff."
+    } ]
+  }, {
+    "tStartMs": 1341000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But since this ends pretty quickly, let's each come up with one."
+    } ]
+  }, {
+    "tStartMs": 1346000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "One each? But what if there are similar words—how do we handle that?"
+    } ]
+  }, {
+    "tStartMs": 1351000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Similar words?"
+    } ]
+  }, {
+    "tStartMs": 1353000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do we have to be honest about that?"
+    } ]
+  }, {
+    "tStartMs": 1355000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Similar words? What are you trying to do?"
+    } ]
+  }, {
+    "tStartMs": 1358000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Well, for example, \"fish\" and \"raw fish.\""
+    } ]
+  }, {
+    "tStartMs": 1362000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1364000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Those basically mean the same thing, right?"
+    } ]
+  }, {
+    "tStartMs": 1368000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "\"Fish\" and \"raw fish\"... but \"raw fish\" is..."
+    } ]
+  }, {
+    "tStartMs": 1372000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Well, \"raw fish\" is a word used when eating,"
+    } ]
+  }, {
+    "tStartMs": 1377000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and \"fish\" is a word for something that's alive,"
+    } ]
+  }, {
+    "tStartMs": 1380000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. Let's distinguish it that precisely."
+    } ]
+  }, {
+    "tStartMs": 1383000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Even that much?"
+    } ]
+  }, {
+    "tStartMs": 1384000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because I'm a Korean language expert."
+    } ]
+  }, {
+    "tStartMs": 1386000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I understand. That sounds good."
+    } ]
+  }, {
+    "tStartMs": 1388000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. I was thinking..."
+    } ]
+  }, {
+    "tStartMs": 1390000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Me too."
+    } ]
+  }, {
+    "tStartMs": 1391000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Let me try to guess first."
+    } ]
+  }, {
+    "tStartMs": 1392000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, okay. Sounds good."
+    } ]
+  }, {
+    "tStartMs": 1394000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Have you thought of something?"
+    } ]
+  }, {
+    "tStartMs": 1395000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. The first one."
+    } ]
+  }, {
+    "tStartMs": 1398000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Can you eat it?"
+    } ]
+  }, {
+    "tStartMs": 1399000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1400000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it a space?"
+    } ]
+  }, {
+    "tStartMs": 1402000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1403000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So if you can't eat it and it's not a space, is it a person?"
+    } ]
+  }, {
+    "tStartMs": 1406000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1408000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it an animal?"
+    } ]
+  }, {
+    "tStartMs": 1409000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1410000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's four questions so far."
+    } ]
+  }, {
+    "tStartMs": 1415000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This is going to be difficult, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1417000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Can you see it with your eyes?"
+    } ]
+  }, {
+    "tStartMs": 1419000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1420000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You can see it with your eyes."
+    } ]
+  }, {
+    "tStartMs": 1423000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Can you touch it?"
+    } ]
+  }, {
+    "tStartMs": 1424000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's correct."
+    } ]
+  }, {
+    "tStartMs": 1426000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah, I think I'm not asking good questions."
+    } ]
+  }, {
+    "tStartMs": 1429000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can touch it."
+    } ]
+  }, {
+    "tStartMs": 1431000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Do you see this every day, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 1436000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1438000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Tae-woong sees this every day."
+    } ]
+  }, {
+    "tStartMs": 1440000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Do you like this, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 1444000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it too abstract?"
+    } ]
+  }, {
+    "tStartMs": 1445000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, but you can ask questions like this."
+    } ]
+  }, {
+    "tStartMs": 1447000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1448000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. But I can also answer vaguely."
+    } ]
+  }, {
+    "tStartMs": 1451000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How?"
+    } ]
+  }, {
+    "tStartMs": 1452000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Well... a little?"
+    } ]
+  }, {
+    "tStartMs": 1455000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, a little?"
+    } ]
+  }, {
+    "tStartMs": 1457000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1458000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I like it a little."
+    } ]
+  }, {
+    "tStartMs": 1460000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1461000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it also around me?"
+    } ]
+  }, {
+    "tStartMs": 1463000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You know the screen you're looking at?"
+    } ]
+  }, {
+    "tStartMs": 1465000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Is it on the screen?"
+    } ]
+  }, {
+    "tStartMs": 1468000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It doesn't seem to be there?"
+    } ]
+  }, {
+    "tStartMs": 1472000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it an object?"
+    } ]
+  }, {
+    "tStartMs": 1474000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's correct."
+    } ]
+  }, {
+    "tStartMs": 1475000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "An object!"
+    } ]
+  }, {
+    "tStartMs": 1477000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's an object, you like it a little, and you see it every day."
+    } ]
+  }, {
+    "tStartMs": 1481000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You like it a little."
+    } ]
+  }, {
+    "tStartMs": 1483000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's ten questions now, right? Ten?"
+    } ]
+  }, {
+    "tStartMs": 1485000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1486000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Halfway there."
+    } ]
+  }, {
+    "tStartMs": 1487000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Is it bigger or smaller than my palm?"
+    } ]
+  }, {
+    "tStartMs": 1491000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It could be big or it could be small."
+    } ]
+  }, {
+    "tStartMs": 1494000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? It could be big or small?"
+    } ]
+  }, {
+    "tStartMs": 1496000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1497000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "One correct answer counts as one question, right?"
+    } ]
+  }, {
+    "tStartMs": 1500000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it this? When I say it like this?"
+    } ]
+  }, {
+    "tStartMs": 1502000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1503000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How many questions are left?"
+    } ]
+  }, {
+    "tStartMs": 1504000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You have nine questions left now."
+    } ]
+  }, {
+    "tStartMs": 1506000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wow, look at this."
+    } ]
+  }, {
+    "tStartMs": 1508000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Um... is it square-shaped?"
+    } ]
+  }, {
+    "tStartMs": 1511000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it yours, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 1512000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, what about mine?"
+    } ]
+  }, {
+    "tStartMs": 1514000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Mine is not rectangular."
+    } ]
+  }, {
+    "tStartMs": 1517000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Huh? It's not rectangular?"
+    } ]
+  }, {
+    "tStartMs": 1521000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it long?"
+    } ]
+  }, {
+    "tStartMs": 1523000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Mine is not long."
+    } ]
+  }, {
+    "tStartMs": 1528000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1529000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1530000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it an electronic device?"
+    } ]
+  }, {
+    "tStartMs": 1531000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's not an electronic device."
+    } ]
+  }, {
+    "tStartMs": 1533000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm out."
+    } ]
+  }, {
+    "tStartMs": 1534000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Six guesses left."
+    } ]
+  }, {
+    "tStartMs": 1536000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it stationery?"
+    } ]
+  }, {
+    "tStartMs": 1538000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's not stationery."
+    } ]
+  }, {
+    "tStartMs": 1540000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I'm out."
+    } ]
+  }, {
+    "tStartMs": 1541000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Five left."
+    } ]
+  }, {
+    "tStartMs": 1543000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Wait, so it's not stationery and not an electronic device?"
+    } ]
+  }, {
+    "tStartMs": 1547000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it used when eating food?"
+    } ]
+  }, {
+    "tStartMs": 1549000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It's not used when eating food."
+    } ]
+  }, {
+    "tStartMs": 1554000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hmm..."
+    } ]
+  }, {
+    "tStartMs": 1556000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "There might be people who use it that way."
+    } ]
+  }, {
+    "tStartMs": 1559000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But generally it's not used that way."
+    } ]
+  }, {
+    "tStartMs": 1562000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Still four left."
+    } ]
+  }, {
+    "tStartMs": 1564000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Can a person wear it?"
+    } ]
+  }, {
+    "tStartMs": 1567000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Doesn't seem like it."
+    } ]
+  }, {
+    "tStartMs": 1568000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1570000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So it's not something you wear, not an electronic device, and not stationery?"
+    } ]
+  }, {
+    "tStartMs": 1575000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Hmm... is this usually under 10,000 won?"
+    } ]
+  }, {
+    "tStartMs": 1580000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Oh, I generally know it to be under 10,000 won."
+    } ]
+  }, {
+    "tStartMs": 1584000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Usually under 10,000 won? Under 10,000 won?"
+    } ]
+  }, {
+    "tStartMs": 1587000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Now we have two guesses left."
+    } ]
+  }, {
+    "tStartMs": 1589000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1590000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Regarding my previous answer,"
+    } ]
+  }, {
+    "tStartMs": 1593000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1594000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm going to give you a very generous, very informative"
+    } ]
+  }, {
+    "tStartMs": 1597000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "different answer."
+    } ]
+  }, {
+    "tStartMs": 1599000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Didi asked if mine was long,"
+    } ]
+  }, {
+    "tStartMs": 1604000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1605000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But someone else's version of this"
+    } ]
+  }, {
+    "tStartMs": 1609000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "could be long,"
+    } ]
+  }, {
+    "tStartMs": 1612000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "and also, as you use it, it can get shorter."
+    } ]
+  }, {
+    "tStartMs": 1618000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "As you use it?"
+    } ]
+  }, {
+    "tStartMs": 1620000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1621000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But you said it's not stationery."
+    } ]
+  }, {
+    "tStartMs": 1623000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1624000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You've told me everything. You've told me everything."
+    } ]
+  }, {
+    "tStartMs": 1628000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "No, I have no idea."
+    } ]
+  }, {
+    "tStartMs": 1631000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You've told me everything."
+    } ]
+  }, {
+    "tStartMs": 1633000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Hmm. As you use it, it gets shorter."
+    } ]
+  }, {
+    "tStartMs": 1636000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? That's it!"
+    } ]
+  }, {
+    "tStartMs": 1638000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Huh? Two guesses left."
+    } ]
+  }, {
+    "tStartMs": 1641000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A candle."
+    } ]
+  }, {
+    "tStartMs": 1642000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A candle?"
+    } ]
+  }, {
+    "tStartMs": 1644000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A candle is..."
+    } ]
+  }, {
+    "tStartMs": 1646000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "it gets shorter as you use it, right?"
+    } ]
+  }, {
+    "tStartMs": 1649000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I just used one of my two guesses."
+    } ]
+  }, {
+    "tStartMs": 1651000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1652000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A candle?"
+    } ]
+  }, {
+    "tStartMs": 1653000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yep."
+    } ]
+  }, {
+    "tStartMs": 1654000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Are you perhaps an English podcaster?"
+    } ]
+  }, {
+    "tStartMs": 1656000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes! That's it!"
+    } ]
+  }, {
+    "tStartMs": 1658000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 1659000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Cho."
+    } ]
+  }, {
+    "tStartMs": 1660000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Cho. I wrote it as \"yangcho\" (candle)."
+    } ]
+  }, {
+    "tStartMs": 1664000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh! Even so,"
+    } ]
+  }, {
+    "tStartMs": 1665000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'll accept it as correct."
+    } ]
+  }, {
+    "tStartMs": 1668000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What is \"candle\"? A Korean language podcaster."
+    } ]
+  }, {
+    "tStartMs": 1671000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Well, people usually say \"candle,\" right?"
+    } ]
+  }, {
+    "tStartMs": 1673000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I said yangcho."
+    } ]
+  }, {
+    "tStartMs": 1674000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Something that smells nice."
+    } ]
+  }, {
+    "tStartMs": 1675000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yangcho."
+    } ]
+  }, {
+    "tStartMs": 1676000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yangcho."
+    } ]
+  }, {
+    "tStartMs": 1677000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 1678000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Phew! That was a bit big."
+    } ]
+  }, {
+    "tStartMs": 1681000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It got longer and then shorter."
+    } ]
+  }, {
+    "tStartMs": 1683000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You told me everything. You told me everything."
+    } ]
+  }, {
+    "tStartMs": 1685000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I was thinking, is it a pencil? Something like that,"
+    } ]
+  }, {
+    "tStartMs": 1689000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I got 1 point."
+    } ]
+  }, {
+    "tStartMs": 1691000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Let me try asking a question too."
+    } ]
+  }, {
+    "tStartMs": 1693000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 1694000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "First question, is it a living thing?"
+    } ]
+  }, {
+    "tStartMs": 1697000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1698000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1699000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Second question, do you have it in your house, Didi?"
+    } ]
+  }, {
+    "tStartMs": 1702000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1704000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't?"
+    } ]
+  }, {
+    "tStartMs": 1706000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hmm..."
+    } ]
+  }, {
+    "tStartMs": 1708000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Third question,"
+    } ]
+  }, {
+    "tStartMs": 1710000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "do ordinary Korean office workers use it?"
+    } ]
+  }, {
+    "tStartMs": 1715000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "They use it."
+    } ]
+  }, {
+    "tStartMs": 1717000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They use it."
+    } ]
+  }, {
+    "tStartMs": 1718000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Fourth question."
+    } ]
+  }, {
+    "tStartMs": 1720000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1721000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Is it bigger than the size of a palm?"
+    } ]
+  }, {
+    "tStartMs": 1724000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's bigger."
+    } ]
+  }, {
+    "tStartMs": 1726000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh! It's bigger."
+    } ]
+  }, {
+    "tStartMs": 1727000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hmm. It's bigger."
+    } ]
+  }, {
+    "tStartMs": 1729000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Fifth question,"
+    } ]
+  }, {
+    "tStartMs": 1731000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "is it an electronic device?"
+    } ]
+  }, {
+    "tStartMs": 1734000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "No, it's not."
+    } ]
+  }, {
+    "tStartMs": 1735000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's not."
+    } ]
+  }, {
+    "tStartMs": 1738000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Sixth question,"
+    } ]
+  }, {
+    "tStartMs": 1739000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "can you break it with your hands?"
+    } ]
+  }, {
+    "tStartMs": 1743000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Can you break it with your hands?"
+    } ]
+  }, {
+    "tStartMs": 1744000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1745000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "With your hands?"
+    } ]
+  }, {
+    "tStartMs": 1746000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1747000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A little?"
+    } ]
+  }, {
+    "tStartMs": 1748000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A little?"
+    } ]
+  }, {
+    "tStartMs": 1751000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1752000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "With your hands a little?"
+    } ]
+  }, {
+    "tStartMs": 1753000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh... a little. A little."
+    } ]
+  }, {
+    "tStartMs": 1757000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "A little. A little means..."
+    } ]
+  }, {
+    "tStartMs": 1760000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You said you don't have it in your house."
+    } ]
+  }, {
+    "tStartMs": 1763000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1764000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh..."
+    } ]
+  }, {
+    "tStartMs": 1766000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And you can break it a little with your hands?"
+    } ]
+  }, {
+    "tStartMs": 1769000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A little."
+    } ]
+  }, {
+    "tStartMs": 1771000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can break it a little with your hands,"
+    } ]
+  }, {
+    "tStartMs": 1773000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and office workers can use it?"
+    } ]
+  }, {
+    "tStartMs": 1775000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hmm... use?"
+    } ]
+  }, {
+    "tStartMs": 1776000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What's the definition of \"사용\"?"
+    } ]
+  }, {
+    "tStartMs": 1778000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "\"To use\"?"
+    } ]
+  }, {
+    "tStartMs": 1779000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1780000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "\"이용\"? \"사용\"?"
+    } ]
+  }, {
+    "tStartMs": 1781000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "\"이용하다\"? \"사용하다\"?"
+    } ]
+  }, {
+    "tStartMs": 1784000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is the price on the expensive side?"
+    } ]
+  }, {
+    "tStartMs": 1786000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, it's expensive."
+    } ]
+  }, {
+    "tStartMs": 1788000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah, it's expensive."
+    } ]
+  }, {
+    "tStartMs": 1789000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's very expensive."
+    } ]
+  }, {
+    "tStartMs": 1790000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Very expensive?"
+    } ]
+  }, {
+    "tStartMs": 1792000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1793000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Think broadly. Broadly."
+    } ]
+  }, {
+    "tStartMs": 1795000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Broadly?"
+    } ]
+  }, {
+    "tStartMs": 1799000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Expand it."
+    } ]
+  }, {
+    "tStartMs": 1800000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Eighth"
+    } ]
+  }, {
+    "tStartMs": 1802000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "space?"
+    } ]
+  }, {
+    "tStartMs": 1804000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a space."
+    } ]
+  }, {
+    "tStartMs": 1806000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 1808000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That space..."
+    } ]
+  }, {
+    "tStartMs": 1810000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It"
+    } ]
+  }, {
+    "tStartMs": 1812000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "is a space"
+    } ]
+  }, {
+    "tStartMs": 1814000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Does it have varied sizes? Is the area varied?"
+    } ]
+  }, {
+    "tStartMs": 1816000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? Is the area"
+    } ]
+  }, {
+    "tStartMs": 1818000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "varied? Since it's a space,"
+    } ]
+  }, {
+    "tStartMs": 1820000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "there are wide areas"
+    } ]
+  }, {
+    "tStartMs": 1822000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and narrow areas too,"
+    } ]
+  }, {
+    "tStartMs": 1824000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so is it varied like that?"
+    } ]
+  }, {
+    "tStartMs": 1826000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, yes, it's quite varied."
+    } ]
+  }, {
+    "tStartMs": 1828000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Does it have a ceiling?"
+    } ]
+  }, {
+    "tStartMs": 1830000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, it does."
+    } ]
+  }, {
+    "tStartMs": 1832000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It has a ceiling."
+    } ]
+  }, {
+    "tStartMs": 1834000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? By any chance,"
+    } ]
+  }, {
+    "tStartMs": 1836000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "can you exercise"
+    } ]
+  }, {
+    "tStartMs": 1838000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "there?"
+    } ]
+  }, {
+    "tStartMs": 1840000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Exercise?"
+    } ]
+  }, {
+    "tStartMs": 1842000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can do most things,"
+    } ]
+  }, {
+    "tStartMs": 1844000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but people mostly don't."
+    } ]
+  }, {
+    "tStartMs": 1846000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This is difficult,"
+    } ]
+  }, {
+    "tStartMs": 1848000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it's easy."
+    } ]
+  }, {
+    "tStartMs": 1850000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What else is there?"
+    } ]
+  }, {
+    "tStartMs": 1852000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it possible to eat food"
+    } ]
+  }, {
+    "tStartMs": 1854000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "in that space?"
+    } ]
+  }, {
+    "tStartMs": 1856000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Eating food is possible there."
+    } ]
+  }, {
+    "tStartMs": 1858000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's difficult, right?"
+    } ]
+  }, {
+    "tStartMs": 1860000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Choosing a good question is"
+    } ]
+  }, {
+    "tStartMs": 1862000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "what makes this game difficult."
+    } ]
+  }, {
+    "tStartMs": 1864000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That space"
+    } ]
+  }, {
+    "tStartMs": 1866000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "—"
+    } ]
+  }, {
+    "tStartMs": 1868000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "does water come out there?"
+    } ]
+  }, {
+    "tStartMs": 1870000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You're asking if water comes out?"
+    } ]
+  }, {
+    "tStartMs": 1872000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There is water."
+    } ]
+  }, {
+    "tStartMs": 1874000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What do you mean by water coming out?"
+    } ]
+  }, {
+    "tStartMs": 1876000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Well, there's a faucet,"
+    } ]
+  }, {
+    "tStartMs": 1878000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "if you want water, you can"
+    } ]
+  }, {
+    "tStartMs": 1880000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "get water there."
+    } ]
+  }, {
+    "tStartMs": 1882000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1884000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it mainly a place where people rest?"
+    } ]
+  }, {
+    "tStartMs": 1886000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It depends on how"
+    } ]
+  }, {
+    "tStartMs": 1888000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "it's used,"
+    } ]
+  }, {
+    "tStartMs": 1890000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "right? The answer is a break room?"
+    } ]
+  }, {
+    "tStartMs": 1892000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wrong."
+    } ]
+  }, {
+    "tStartMs": 1894000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So there are five left now."
+    } ]
+  }, {
+    "tStartMs": 1896000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, I messed up."
+    } ]
+  }, {
+    "tStartMs": 1898000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No,"
+    } ]
+  }, {
+    "tStartMs": 1900000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I even figured out the hint \"space,\""
+    } ]
+  }, {
+    "tStartMs": 1902000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "so"
+    } ]
+  }, {
+    "tStartMs": 1904000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "wait a moment."
+    } ]
+  }, {
+    "tStartMs": 1906000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Go ahead and ask, anything."
+    } ]
+  }, {
+    "tStartMs": 1908000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When \"space\" comes up, what questions can I ask"
+    } ]
+  }, {
+    "tStartMs": 1910000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "now? The person asking the questions"
+    } ]
+  }, {
+    "tStartMs": 1912000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "has to keep going so you don't"
+    } ]
+  }, {
+    "tStartMs": 1914000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "guess the answer correctly."
+    } ]
+  }, {
+    "tStartMs": 1916000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, that's right."
+    } ]
+  }, {
+    "tStartMs": 1918000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There,"
+    } ]
+  }, {
+    "tStartMs": 1920000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Are there a lot of people doing YouTube filming?"
+    } ]
+  }, {
+    "tStartMs": 1922000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "YouTube filming?"
+    } ]
+  }, {
+    "tStartMs": 1924000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1926000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A lot?"
+    } ]
+  }, {
+    "tStartMs": 1928000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 1930000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Could it be a recording studio?"
+    } ]
+  }, {
+    "tStartMs": 1932000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wrong, three questions left."
+    } ]
+  }, {
+    "tStartMs": 1934000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You do a lot of YouTube?"
+    } ]
+  }, {
+    "tStartMs": 1936000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can film, right?"
+    } ]
+  }, {
+    "tStartMs": 1938000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you film a lot?"
+    } ]
+  }, {
+    "tStartMs": 1940000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Could it be a conference room?"
+    } ]
+  }, {
+    "tStartMs": 1942000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1944000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Let me give you a hint."
+    } ]
+  }, {
+    "tStartMs": 1946000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Okay, okay."
+    } ]
+  }, {
+    "tStartMs": 1948000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I used it today as well."
+    } ]
+  }, {
+    "tStartMs": 1954000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Can I capture your expression?"
+    } ]
+  }, {
+    "tStartMs": 1956000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I want to put it in."
+    } ]
+  }, {
+    "tStartMs": 1958000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wait, wait, so then—"
+    } ]
+  }, {
+    "tStartMs": 1960000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Two questions left, right? Two left, right?"
+    } ]
+  }, {
+    "tStartMs": 1962000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Does it have four wheels?"
+    } ]
+  }, {
+    "tStartMs": 1964000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Pardon?"
+    } ]
+  }, {
+    "tStartMs": 1966000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wheels?"
+    } ]
+  }, {
+    "tStartMs": 1968000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a space though?"
+    } ]
+  }, {
+    "tStartMs": 1970000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 1972000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It doesn't have wheels."
+    } ]
+  }, {
+    "tStartMs": 1974000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1976000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can ask one more question and then tell the answer."
+    } ]
+  }, {
+    "tStartMs": 1978000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Let's think simply."
+    } ]
+  }, {
+    "tStartMs": 1980000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is the answer an elevator?"
+    } ]
+  }, {
+    "tStartMs": 1982000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, I should phrase it as a question."
+    } ]
+  }, {
+    "tStartMs": 1984000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wrong."
+    } ]
+  }, {
+    "tStartMs": 1986000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 1988000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A café."
+    } ]
+  }, {
+    "tStartMs": 1992000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "A café, a café."
+    } ]
+  }, {
+    "tStartMs": 1994000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, I really—"
+    } ]
+  }, {
+    "tStartMs": 1996000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Adults—"
+    } ]
+  }, {
+    "tStartMs": 1998000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, I use cafés a lot."
+    } ]
+  }, {
+    "tStartMs": 2000000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I use it every day."
+    } ]
+  }, {
+    "tStartMs": 2002000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 2004000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Can you break it with your hands?"
+    } ]
+  }, {
+    "tStartMs": 2006000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can break it a little bit, they say."
+    } ]
+  }, {
+    "tStartMs": 2010000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, I—"
+    } ]
+  }, {
+    "tStartMs": 2012000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I thought it was a bus or subway."
+    } ]
+  }, {
+    "tStartMs": 2014000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, no."
+    } ]
+  }, {
+    "tStartMs": 2016000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It doesn't move around much."
+    } ]
+  }, {
+    "tStartMs": 2018000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "This café of mine—"
+    } ]
+  }, {
+    "tStartMs": 2020000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I was drinking this too."
+    } ]
+  }, {
+    "tStartMs": 2024000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's unfortunate."
+    } ]
+  }, {
+    "tStartMs": 2026000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 2028000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Didi 1 win"
+    } ]
+  }, {
+    "tStartMs": 2030000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong 1 loss"
+    } ]
+  }, {
+    "tStartMs": 2032000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So we'll wrap up today's mini-game here."
+    } ]
+  }, {
+    "tStartMs": 2038000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So today was"
+    } ]
+  }, {
+    "tStartMs": 2040000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "an episode where we talked about shyness from every angle with Yomojomo"
+    } ]
+  }, {
+    "tStartMs": 2042000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and all that."
+    } ]
+  }, {
+    "tStartMs": 2044000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "For the next topic,"
+    } ]
+  }, {
+    "tStartMs": 2046000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I actually chose café."
+    } ]
+  }, {
+    "tStartMs": 2048000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So as today's game question,"
+    } ]
+  }, {
+    "tStartMs": 2050000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I gave it a try."
+    } ]
+  }, {
+    "tStartMs": 2052000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Next week, what cafés you frequent"
+    } ]
+  }, {
+    "tStartMs": 2054000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "going to a café"
+    } ]
+  }, {
+    "tStartMs": 2056000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "what kind of menu you usually order, things like that"
+    } ]
+  }, {
+    "tStartMs": 2058000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "all the different aspects of cafés"
+    } ]
+  }, {
+    "tStartMs": 2060000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "we'll talk about."
+    } ]
+  }, {
+    "tStartMs": 2062000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "With Teacher Tae-woong from now on,"
+    } ]
+  }, {
+    "tStartMs": 2064000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "not once a week, but like once every 3 weeks?"
+    } ]
+  }, {
+    "tStartMs": 2066000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "once every 4 weeks we'll meet,"
+    } ]
+  }, {
+    "tStartMs": 2068000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but the next episode isn't the end either, so"
+    } ]
+  }, {
+    "tStartMs": 2070000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'd appreciate it if you look forward to it a lot."
+    } ]
+  }, {
+    "tStartMs": 2072000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "See you next month, everyone."
+    } ]
+  }, {
+    "tStartMs": 2074000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, so that's it for here."
+    } ]
+  }, {
+    "tStartMs": 2076000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's been Didi and Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2078000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

@@ -1,0 +1,2773 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life with Didi and Jeong Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello. I'm Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello. I'm Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life is a podcast where two people living in Korea talk about the various aspects of Korean life."
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So what's today's topic?"
+    } ]
+  }, {
+    "tStartMs": 22000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Today's topic is part-time jobs."
+    } ]
+  }, {
+    "tStartMs": 26000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Part-time jobs..."
+    } ]
+  }, {
+    "tStartMs": 29000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's been quite a while since I've done one."
+    } ]
+  }, {
+    "tStartMs": 33000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How about you, Teacher Tae-woong? When was the last time you did one?"
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "For me..."
+    } ]
+  }, {
+    "tStartMs": 39000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it May now?"
+    } ]
+  }, {
+    "tStartMs": 41000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 43000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I did one briefly last May."
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 48000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I only did them until I was in university."
+    } ]
+  }, {
+    "tStartMs": 52000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "So since you've done part-time jobs relatively recently, it seems like we'll be able to hear about various things."
+    } ]
+  }, {
+    "tStartMs": 60000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Do you have quite a lot of experience with part-time jobs?"
+    } ]
+  }, {
+    "tStartMs": 63000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'd say I have quite a lot."
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Could you list them all out? All the part-time jobs you've done so far."
+    } ]
+  }, {
+    "tStartMs": 70000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Let me just talk about everything I can remember."
+    } ]
+  }, {
+    "tStartMs": 75000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Golf driving range."
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Bakery."
+    } ]
+  }, {
+    "tStartMs": 80000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Cafe."
+    } ]
+  }, {
+    "tStartMs": 82000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Movie theater."
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Restaurant."
+    } ]
+  }, {
+    "tStartMs": 88000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "What else is there? And then there was packing delivery boxes at some small company."
+    } ]
+  }, {
+    "tStartMs": 99000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And there's definitely more, but I can't remember."
+    } ]
+  }, {
+    "tStartMs": 102000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But from what you've mentioned so far, it seems like you've covered almost every type of part-time job out there?"
+    } ]
+  }, {
+    "tStartMs": 108000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Usually after graduating from university, the most common ones are restaurants, cafes, movie theaters, fast food places—those kinds of things."
+    } ]
+  }, {
+    "tStartMs": 120000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Where was the bakery?"
+    } ]
+  }, {
+    "tStartMs": 123000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A place called Tous les Jours."
+    } ]
+  }, {
+    "tStartMs": 124000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 125000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's a franchise bakery."
+    } ]
+  }, {
+    "tStartMs": 127000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "I did a bakery too, but the first part-time job I ever did was at Ashley, which is a family restaurant."
+    } ]
+  }, {
+    "tStartMs": 139000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "After that, a kids' cafe. I worked in the restaurant section there. I did that one."
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "A bakery. And an Indian restaurant."
+    } ]
+  }, {
+    "tStartMs": 153000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I did a lot of academy part-time work."
+    } ]
+  }, {
+    "tStartMs": 156000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I worked at an English academy, and I also did short-term gigs like one-day jobs sometimes."
+    } ]
+  }, {
+    "tStartMs": 167000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I've also done a few short-term part-time jobs."
+    } ]
+  }, {
+    "tStartMs": 170000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. What kind of short-term work did you do?"
+    } ]
+  }, {
+    "tStartMs": 173000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "I live in Haeundae, so when there are international events at places like BEXCO, there are opportunities."
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "As a staff member?"
+    } ]
+  }, {
+    "tStartMs": 185000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. It was fun. Those kinds of things."
+    } ]
+  }, {
+    "tStartMs": 188000,
+    "dDurationMs": 18000,
+    "segs": [ {
+      "utf8": "I was curious about that. When you see people working those jobs. A lot of short-term work is like that, right? Flyer distribution or loading and unloading at logistics centers, working at logistics centers sending packages."
+    } ]
+  }, {
+    "tStartMs": 207000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I've done both of those. Logistics center and flyers."
+    } ]
+  }, {
+    "tStartMs": 212000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was thinking about doing a logistics center last year too."
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You didn't do it?"
+    } ]
+  }, {
+    "tStartMs": 217000,
+    "dDurationMs": 21000,
+    "segs": [ {
+      "utf8": "Last year I did do a part-time job, but it wasn't that I kept doing it all year. I stopped for a while, and I was just doing YouTube at home and teaching free-talking classes online. So I felt like I needed to do some physical work."
+    } ]
+  }, {
+    "tStartMs": 241000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So I did a part-time job for a bit."
+    } ]
+  }, {
+    "tStartMs": 244000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because I was staying home too much."
+    } ]
+  }, {
+    "tStartMs": 247000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I see. How long did you do that job for?"
+    } ]
+  }, {
+    "tStartMs": 251000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Three months. That was the package packing one."
+    } ]
+  }, {
+    "tStartMs": 256000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see. Was it really physically demanding?"
+    } ]
+  }, {
+    "tStartMs": 260000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I was constantly moving my body."
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh really? That must have been tough."
+    } ]
+  }, {
+    "tStartMs": 264000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But actually, when I did that, I felt more energized."
+    } ]
+  }, {
+    "tStartMs": 271000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Oh really? Usually when you stay home all the time, you feel kind of sluggish. It's inevitable."
+    } ]
+  }, {
+    "tStartMs": 277000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 278000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 280000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "A logistics center."
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "So among all those part-time jobs, is there one that stands out in your memory, or one that was fun or difficult?"
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "Actually, there are a lot of memories that stand out, whether for good reasons or bad."
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I fought a lot. During part-time jobs."
+    } ]
+  }, {
+    "tStartMs": 308000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I fought a lot with people like managers. I did."
+    } ]
+  }, {
+    "tStartMs": 313000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 315000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. My personality wasn't very good back then."
+    } ]
+  }, {
+    "tStartMs": 318000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's gotten a bit softer now."
+    } ]
+  }, {
+    "tStartMs": 321000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "So you didn't hold back."
+    } ]
+  }, {
+    "tStartMs": 323000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Right. But if I talk about the fights, it gets a bit too dark, you know?"
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So let me tell you about a part-time job with good memories instead."
+    } ]
+  }, {
+    "tStartMs": 336000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Actually, it wasn't good because of the work itself."
+    } ]
+  }, {
+    "tStartMs": 341000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "There's a part-time job that has good memories because of the food I ate while doing it."
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. The food was delicious."
+    } ]
+  }, {
+    "tStartMs": 351000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. What kind of part-time job was it?"
+    } ]
+  }, {
+    "tStartMs": 353000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes. Kimchi jjim came out."
+    } ]
+  }, {
+    "tStartMs": 355000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. It was a kimchi jjim restaurant."
+    } ]
+  }, {
+    "tStartMs": 358000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "A few years ago, when I was studying hard to get my Korean teacher certification."
+    } ]
+  }, {
+    "tStartMs": 366000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But I still needed money back then."
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So I looked for a part-time job that was only on weekends."
+    } ]
+  }, {
+    "tStartMs": 373000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But by chance, there was a kimchi jjim restaurant near my house that was hiring for weekend serving."
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So from weekend mornings to evenings."
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "From weekend mornings to evenings."
+    } ]
+  }, {
+    "tStartMs": 388000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "From weekend mornings to evenings."
+    } ]
+  }, {
+    "tStartMs": 391000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "From weekend mornings to evenings."
+    } ]
+  }, {
+    "tStartMs": 394000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So from weekend mornings to evenings."
+    } ]
+  }, {
+    "tStartMs": 399000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I spent about 8 hours like that at the kimchi jjim restaurant for two days."
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So what I did was simple."
+    } ]
+  }, {
+    "tStartMs": 409000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When customers came, I gave them side dishes and food."
+    } ]
+  }, {
+    "tStartMs": 413000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "And when they finished eating, I cleaned that up."
+    } ]
+  }, {
+    "tStartMs": 416000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And when customers left, I did the payment."
+    } ]
+  }, {
+    "tStartMs": 420000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And since the restaurant wasn't that big,"
+    } ]
+  }, {
+    "tStartMs": 424000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "there were two aunties working there,"
+    } ]
+  }, {
+    "tStartMs": 428000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I got along well with them."
+    } ]
+  }, {
+    "tStartMs": 431000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Were you the only server, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There were two servers including me."
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So one person in the kitchen, two people in the dining area, two of us,"
+    } ]
+  }, {
+    "tStartMs": 443000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "but anyway, we who worked there also had to eat, right?"
+    } ]
+  }, {
+    "tStartMs": 451000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right. Around lunchtime."
+    } ]
+  }, {
+    "tStartMs": 453000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right. But we ate kimchi jjim for meals."
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Because it's a kimchi jjim restaurant."
+    } ]
+  }, {
+    "tStartMs": 460000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Did you eat it every day? Kimchi jjim?"
+    } ]
+  }, {
+    "tStartMs": 463000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I ate it every day."
+    } ]
+  }, {
+    "tStartMs": 466000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Saturday lunch and dinner I ate kimchi jjim,"
+    } ]
+  }, {
+    "tStartMs": 470000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and Sunday lunch and dinner I ate kimchi jjim,"
+    } ]
+  }, {
+    "tStartMs": 473000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and Sunday lunch and dinner I ate kimchi jjim,"
+    } ]
+  }, {
+    "tStartMs": 477000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but if there was a slight difference,"
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "in the evening I added ramen noodles to eat it?"
+    } ]
+  }, {
+    "tStartMs": 488000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ramen noodles were added so I ate noodles too."
+    } ]
+  }, {
+    "tStartMs": 492000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "At lunch I only ate rice,"
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "but really I only ate kimchi jjim."
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Right. Actually, there were times I ate other foods occasionally."
+    } ]
+  }, {
+    "tStartMs": 501000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Like once a month?"
+    } ]
+  }, {
+    "tStartMs": 503000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Was it delicious? Even eating it like that?"
+    } ]
+  }, {
+    "tStartMs": 505000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was delicious."
+    } ]
+  }, {
+    "tStartMs": 507000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Didn't you get tired of it?"
+    } ]
+  }, {
+    "tStartMs": 508000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I didn't get tired of it."
+    } ]
+  }, {
+    "tStartMs": 510000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Really, the combination of white rice and red kimchi broth and pork is unbeatable."
+    } ]
+  }, {
+    "tStartMs": 521000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's a combination you can't easily get tired of."
+    } ]
+  }, {
+    "tStartMs": 523000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 524000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Do you still like it? Kimchi jjim?"
+    } ]
+  }, {
+    "tStartMs": 526000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "The story isn't finished yet."
+    } ]
+  }, {
+    "tStartMs": 528000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Anyway, it took about 10 months to become a Korean teacher,"
+    } ]
+  }, {
+    "tStartMs": 536000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "and in the middle of that, for about 4 or 5 months? I don't remember exactly, but it was probably about 4 or 5 months."
+    } ]
+  }, {
+    "tStartMs": 544000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I did that part-time job every weekend."
+    } ]
+  }, {
+    "tStartMs": 548000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But there was a certain time"
+    } ]
+  }, {
+    "tStartMs": 551000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "when Chuseok came around in the latter part."
+    } ]
+  }, {
+    "tStartMs": 555000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It was the Chuseok holiday break."
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's a holiday."
+    } ]
+  }, {
+    "tStartMs": 559000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But for part-time jobs on weekends like that, holiday breaks are actually treated the same as weekends."
+    } ]
+  }, {
+    "tStartMs": 568000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 569000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So I worked a part-time job for 4 days during the Chuseok holiday break."
+    } ]
+  }, {
+    "tStartMs": 575000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So for 4 days I ate kimchi jjim for lunch and dinner."
+    } ]
+  }, {
+    "tStartMs": 581000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Well, you'd probably get tired of it, right?"
+    } ]
+  }, {
+    "tStartMs": 584000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "For 4 days."
+    } ]
+  }, {
+    "tStartMs": 586000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "After working hard for 4 days and my body becoming completely exhausted, on the 4th and final day after finishing all the work,"
+    } ]
+  }, {
+    "tStartMs": 594000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I came home, took a shower, and watched YouTube or something,"
+    } ]
+  }, {
+    "tStartMs": 599000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 601000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and the next day"
+    } ]
+  }, {
+    "tStartMs": 603000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 600520,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I lay down to sleep."
+    } ]
+  }, {
+    "tStartMs": 602920,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "But I felt a bit hungry."
+    } ]
+  }, {
+    "tStartMs": 607360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Lying in a dark room."
+    } ]
+  }, {
+    "tStartMs": 609840,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "But I started thinking about the kimchi jjim."
+    } ]
+  }, {
+    "tStartMs": 614440,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "You wanted to eat the kimchi jjim you had for dinner again?"
+    } ]
+  }, {
+    "tStartMs": 618240,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "Yes, I remembered that taste."
+    } ]
+  }, {
+    "tStartMs": 620719,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "Is that what you call Stockholm syndrome?"
+    } ]
+  }, {
+    "tStartMs": 623480,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "What's that?"
+    } ]
+  }, {
+    "tStartMs": 625040,
+    "dDurationMs": 10599,
+    "segs": [ {
+      "utf8": "A hostage who's been taken hostage opens their heart to the hostage-taker, the criminal,"
+    } ]
+  }, {
+    "tStartMs": 635639,
+    "dDurationMs": 5201,
+    "segs": [ {
+      "utf8": "and mistakenly thinks they're on the same side—Stockholm syndrome."
+    } ]
+  }, {
+    "tStartMs": 640840,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "That's crazy!"
+    } ]
+  }, {
+    "tStartMs": 642160,
+    "dDurationMs": 3759,
+    "segs": [ {
+      "utf8": "So after that,"
+    } ]
+  }, {
+    "tStartMs": 645919,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "when someone asks me, \"Can you name one of your favorite foods?\""
+    } ]
+  }, {
+    "tStartMs": 651759,
+    "dDurationMs": 3801,
+    "segs": [ {
+      "utf8": "I can answer without hesitation."
+    } ]
+  }, {
+    "tStartMs": 655560,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 656680,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Kimchi jjim."
+    } ]
+  }, {
+    "tStartMs": 660080,
+    "dDurationMs": 5519,
+    "segs": [ {
+      "utf8": "That's when I understood. I realized what love is."
+    } ]
+  }, {
+    "tStartMs": 665599,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "I ate it in the evening, but I thought about it again at night."
+    } ]
+  }, {
+    "tStartMs": 668519,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 669839,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "Ah, yes. Anyway."
+    } ]
+  }, {
+    "tStartMs": 672400,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "It's delicious."
+    } ]
+  }, {
+    "tStartMs": 673760,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "The funny thing is, so the part-time job itself was just manageable."
+    } ]
+  }, {
+    "tStartMs": 680760,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "Right. Usually a restaurant doesn't have anything special."
+    } ]
+  }, {
+    "tStartMs": 685239,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Yes. It wasn't particularly difficult."
+    } ]
+  }, {
+    "tStartMs": 687839,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "But it wasn't particularly easy or particularly comfortable either."
+    } ]
+  }, {
+    "tStartMs": 693599,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "I moved around at a moderate pace,"
+    } ]
+  }, {
+    "tStartMs": 696000,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "and by the time it was moderately done, my legs hurt,"
+    } ]
+  }, {
+    "tStartMs": 699519,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "and by the time it was moderately done, I wanted to rest and felt tired."
+    } ]
+  }, {
+    "tStartMs": 704000,
+    "dDurationMs": 4559,
+    "segs": [ {
+      "utf8": "But it was that part-time job that taught me such joy."
+    } ]
+  }, {
+    "tStartMs": 708559,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "That's precious."
+    } ]
+  }, {
+    "tStartMs": 709879,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "Yes. That's right."
+    } ]
+  }, {
+    "tStartMs": 710800,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "By the way, when I came back from Bangladesh, that kimchi jjim restaurant had gone out of business and disappeared."
+    } ]
+  }, {
+    "tStartMs": 718080,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "Wow. It's not a chain?"
+    } ]
+  }, {
+    "tStartMs": 720559,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "Oh, it is a chain, but it's a small chain."
+    } ]
+  }, {
+    "tStartMs": 724720,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "That's too bad."
+    } ]
+  }, {
+    "tStartMs": 726120,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Yes. That's right."
+    } ]
+  }, {
+    "tStartMs": 727760,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I did a similar part-time job,"
+    } ]
+  }, {
+    "tStartMs": 730240,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "and in a similar situation, I worked part-time only on weekends when I was in college."
+    } ]
+  }, {
+    "tStartMs": 735679,
+    "dDurationMs": 5321,
+    "segs": [ {
+      "utf8": "But that was an Indian restaurant."
+    } ]
+  }, {
+    "tStartMs": 741000,
+    "dDurationMs": 8600,
+    "segs": [ {
+      "utf8": "So I was always eating curry there at that time. For lunch."
+    } ]
+  }, {
+    "tStartMs": 749600,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "But the curry was made by chefs who were Indian."
+    } ]
+  }, {
+    "tStartMs": 754039,
+    "dDurationMs": 6561,
+    "segs": [ {
+      "utf8": "So it wasn't the kind of curry we know, but real cilantro, spices like that, they put in so much,"
+    } ]
+  }, {
+    "tStartMs": 760600,
+    "dDurationMs": 6679,
+    "segs": [ {
+      "utf8": "and it was a curry like a soup with a lot of broth,"
+    } ]
+  }, {
+    "tStartMs": 767279,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "if I had just eaten that every day I think I would have gotten tired of it,"
+    } ]
+  }, {
+    "tStartMs": 771119,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "but honestly, when you work like that and eat, everything tastes good, right?"
+    } ]
+  }, {
+    "tStartMs": 774240,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When you're struggling, when you're hungry and eating."
+    } ]
+  }, {
+    "tStartMs": 776240,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 776960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "So I don't think I got tired of it. I did eat curry every day."
+    } ]
+  }, {
+    "tStartMs": 782800,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "But, they didn't make tandoori chicken?"
+    } ]
+  }, {
+    "tStartMs": 785119,
+    "dDurationMs": 6241,
+    "segs": [ {
+      "utf8": "Sometimes, with tandoori chicken, you know how they don't use chicken wings?"
+    } ]
+  }, {
+    "tStartMs": 791360,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 792320,
+    "dDurationMs": 4439,
+    "segs": [ {
+      "utf8": "You know that part we call wingbones? The small wing?"
+    } ]
+  }, {
+    "tStartMs": 796759,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 797559,
+    "dDurationMs": 6681,
+    "segs": [ {
+      "utf8": "They think that's a dirtier part so it doesn't come out at restaurants. Usually it's the legs."
+    } ]
+  }, {
+    "tStartMs": 804240,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Legs and breast meat."
+    } ]
+  }, {
+    "tStartMs": 807320,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "So since that part was left over, they made chicken wings and gave them to us. Tandoori style."
+    } ]
+  }, {
+    "tStartMs": 813440,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Wow, wings are delicious."
+    } ]
+  }, {
+    "tStartMs": 815479,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "They are delicious. We liked it."
+    } ]
+  }, {
+    "tStartMs": 817320,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 819240,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "We did that for a long time too."
+    } ]
+  }, {
+    "tStartMs": 820919,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That must have been nice."
+    } ]
+  }, {
+    "tStartMs": 822919,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "That's right. I ate Indian food to my heart's content,"
+    } ]
+  }, {
+    "tStartMs": 825880,
+    "dDurationMs": 7239,
+    "segs": [ {
+      "utf8": "I had never eaten it properly before, but after that time I learned there are many kinds, and I came to like it."
+    } ]
+  }, {
+    "tStartMs": 833119,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Indian curry."
+    } ]
+  }, {
+    "tStartMs": 835559,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "So what about the hard parts?"
+    } ]
+  }, {
+    "tStartMs": 838240,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "The hard part-time job was..."
+    } ]
+  }, {
+    "tStartMs": 841399,
+    "dDurationMs": 4921,
+    "segs": [ {
+      "utf8": "It could have been physically hard, or it could have been hard because of people."
+    } ]
+  }, {
+    "tStartMs": 846320,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "Yes. There were so many."
+    } ]
+  }, {
+    "tStartMs": 850039,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "The hardest part."
+    } ]
+  }, {
+    "tStartMs": 852160,
+    "dDurationMs": 8760,
+    "segs": [ {
+      "utf8": "Ah, I can't pick just one."
+    } ]
+  }, {
+    "tStartMs": 860920,
+    "dDurationMs": 7039,
+    "segs": [ {
+      "utf8": "Actually, if I talk about the hardest part, it might cause some problems."
+    } ]
+  }, {
+    "tStartMs": 867959,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 868959,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 869920,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Did something bad happen?"
+    } ]
+  }, {
+    "tStartMs": 871559,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "Yes. So instead of that, I'll tell you about something that was a bit less difficult."
+    } ]
+  }, {
+    "tStartMs": 878079,
+    "dDurationMs": 3641,
+    "segs": [ {
+      "utf8": "You said I worked part-time at a bakery when I was twenty."
+    } ]
+  }, {
+    "tStartMs": 881720,
+    "dDurationMs": 9920,
+    "segs": [ {
+      "utf8": "There were two managers there, and both of those managers were women."
+    } ]
+  }, {
+    "tStartMs": 891640,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "And I'm a twenty-year-old guy, right?"
+    } ]
+  }, {
+    "tStartMs": 895000,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "But they had quite a reputation."
+    } ]
+  }, {
+    "tStartMs": 898839,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "For mistreating part-time workers."
+    } ]
+  }, {
+    "tStartMs": 901600,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Oh, there was a rumor about it."
+    } ]
+  }, {
+    "tStartMs": 903239,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "Yes. But there was no exception for me either, I got scolded, I got picked on."
+    } ]
+  }, {
+    "tStartMs": 915239,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Harassment."
+    } ]
+  }, {
+    "tStartMs": 916279,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Whatever I did, they would criticize me."
+    } ]
+  }, {
+    "tStartMs": 920079,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "And they kept wiping next to me telling me to wrap the bread faster."
+    } ]
+  }, {
+    "tStartMs": 928359,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Yes. That kept happening. So it was really hard on my heart."
+    } ]
+  }, {
+    "tStartMs": 933119,
+    "dDurationMs": 1881,
+    "segs": [ {
+      "utf8": "Why do you think that was?"
+    } ]
+  }, {
+    "tStartMs": 935000,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "I don't know. I don't know if it's like that these days either."
+    } ]
+  }, {
+    "tStartMs": 939440,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "It's probably gotten a lot better these days, right?"
+    } ]
+  }, {
+    "tStartMs": 941559,
+    "dDurationMs": 6161,
+    "segs": [ {
+      "utf8": "Right. You can't just quit. You have to teach them again, usually you should treat them well."
+    } ]
+  }, {
+    "tStartMs": 947720,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 948440,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Why can't they stop harassing, why is it no different?"
+    } ]
+  }, {
+    "tStartMs": 950760,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Oh, but I think you just said something really important."
+    } ]
+  }, {
+    "tStartMs": 954880,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Back then, part-time workers weren't scarce."
+    } ]
+  }, {
+    "tStartMs": 960040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 962200,
+    "dDurationMs": 8759,
+    "segs": [ {
+      "utf8": "When I turned twenty, it was hard for part-time workers to find places to work."
+    } ]
+  }, {
+    "tStartMs": 970959,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Hmm, there are a lot of part-time workers but few places to work."
+    } ]
+  }, {
+    "tStartMs": 975799,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 977359,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But now it's the opposite, right?"
+    } ]
+  }, {
+    "tStartMs": 979359,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "It's completely the opposite."
+    } ]
+  }, {
+    "tStartMs": 980920,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 982040,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "If you don't like it here, you just quit, and you can work at the next place."
+    } ]
+  }, {
+    "tStartMs": 986079,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 986799,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "So when people leave like that, everyone tries to treat them well."
+    } ]
+  }, {
+    "tStartMs": 989760,
+    "dDurationMs": 6319,
+    "segs": [ {
+      "utf8": "Yes. And then eventually I had a big blowout and walked out."
+    } ]
+  }, {
+    "tStartMs": 996079,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 997480,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "Yes. They kept making things difficult for me, and then I had a cold and wasn't feeling well."
+    } ]
+  }, {
+    "tStartMs": 1007000,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "So it felt especially unfair."
+    } ]
+  }, {
+    "tStartMs": 1010559,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "I hadn't done anything wrong, but someone else made a mistake."
+    } ]
+  }, {
+    "tStartMs": 1017839,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And they seemed to think it was my fault."
+    } ]
+  }, {
+    "tStartMs": 1021279,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "That's what it seemed like."
+    } ]
+  }, {
+    "tStartMs": 1023399,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "So they gave me a really hard time about it."
+    } ]
+  }, {
+    "tStartMs": 1027880,
+    "dDurationMs": 4359,
+    "segs": [ {
+      "utf8": "I explained that I didn't do it."
+    } ]
+  }, {
+    "tStartMs": 1032239,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "And I was certain about it."
+    } ]
+  }, {
+    "tStartMs": 1034440,
+    "dDurationMs": 8880,
+    "segs": [ {
+      "utf8": "But they didn't apologize or say they were sorry for the misunderstanding at all."
+    } ]
+  }, {
+    "tStartMs": 1043320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "They just said \"Oh, is that so?\" and moved on."
+    } ]
+  }, {
+    "tStartMs": 1045880,
+    "dDurationMs": 3359,
+    "segs": [ {
+      "utf8": "That's how it got resolved. Just like that."
+    } ]
+  }, {
+    "tStartMs": 1049239,
+    "dDurationMs": 8521,
+    "segs": [ {
+      "utf8": "So I was so upset that my face was dark the whole day, really."
+    } ]
+  }, {
+    "tStartMs": 1057760,
+    "dDurationMs": 5079,
+    "segs": [ {
+      "utf8": "I worked with a blank expression like that."
+    } ]
+  }, {
+    "tStartMs": 1062839,
+    "dDurationMs": 8361,
+    "segs": [ {
+      "utf8": "But then when my part-time job shift was ending, they pulled me aside to the back."
+    } ]
+  }, {
+    "tStartMs": 1071200,
+    "dDurationMs": 8520,
+    "segs": [ {
+      "utf8": "And asked why I was like that, if I was joking around."
+    } ]
+  }, {
+    "tStartMs": 1079720,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "So I couldn't hold back."
+    } ]
+  }, {
+    "tStartMs": 1082480,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "I threw down the broom and trash bag I was holding while cleaning and slammed them on the ground."
+    } ]
+  }, {
+    "tStartMs": 1088920,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "Threw them down hard."
+    } ]
+  }, {
+    "tStartMs": 1093399,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "I said I'm angry because of this and this."
+    } ]
+  }, {
+    "tStartMs": 1095720,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "But didn't you learn at headquarters how to manage your subordinates?"
+    } ]
+  }, {
+    "tStartMs": 1104760,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Didn't you receive training?"
+    } ]
+  }, {
+    "tStartMs": 1106640,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "I got really angry like that and immediately changed my clothes and left."
+    } ]
+  }, {
+    "tStartMs": 1113080,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "Wow, that's impressive. I was just imagining it."
+    } ]
+  }, {
+    "tStartMs": 1120760,
+    "dDurationMs": 10200,
+    "segs": [ {
+      "utf8": "That night the manager called me to apologize."
+    } ]
+  }, {
+    "tStartMs": 1130960,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "But the apology didn't land at all."
+    } ]
+  }, {
+    "tStartMs": 1134159,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "They said it's just their personality, that they misunderstood."
+    } ]
+  }, {
+    "tStartMs": 1140599,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But it didn't feel sorry at all."
+    } ]
+  }, {
+    "tStartMs": 1143919,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "It didn't come across."
+    } ]
+  }, {
+    "tStartMs": 1145400,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "Yes. So I just told them to send my paycheck and hung up."
+    } ]
+  }, {
+    "tStartMs": 1152000,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "Wow, but working there must have been really tough."
+    } ]
+  }, {
+    "tStartMs": 1155679,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Ah, yes. When I was twenty and didn't know anything."
+    } ]
+  }, {
+    "tStartMs": 1158799,
+    "dDurationMs": 3721,
+    "segs": [ {
+      "utf8": "Right. Especially at twenty."
+    } ]
+  }, {
+    "tStartMs": 1162520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's hard on a person."
+    } ]
+  }, {
+    "tStartMs": 1164520,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "That's right. I've done part-time jobs that were physically very demanding too."
+    } ]
+  }, {
+    "tStartMs": 1170159,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "There are a few other things I didn't mention earlier."
+    } ]
+  }, {
+    "tStartMs": 1173799,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "But I think that kind of thing was harder. The mental strain."
+    } ]
+  }, {
+    "tStartMs": 1177400,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "Right. You don't even want to work, and they make it so hard."
+    } ]
+  }, {
+    "tStartMs": 1185200,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "I hope you're managing things well now."
+    } ]
+  }, {
+    "tStartMs": 1188640,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Yes, that would be nice."
+    } ]
+  }, {
+    "tStartMs": 1192280,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "That bakery. Was it a bakery opening?"
+    } ]
+  }, {
+    "tStartMs": 1196599,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "No, I wasn't."
+    } ]
+  }, {
+    "tStartMs": 1197520,
+    "dDurationMs": 959,
+    "segs": [ {
+      "utf8": "Middle shift?"
+    } ]
+  }, {
+    "tStartMs": 1198479,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Closing, you could say?"
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "Closing, closing, the last shift. Yes, usually the part-timers who work when the store opens are called the opening shift, and the people who work until closing are called the closing shift. I was on the opening shift."
+    } ]
+  }, {
+    "tStartMs": 1207720,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "When bread comes out fresh, it's really hot, you know? Oh really? The bread is really hot."
+    } ]
+  }, {
+    "tStartMs": 1215240,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "At Paris Baguette they have glutinous rice donuts, they're round-shaped donuts, and they're really hot."
+    } ]
+  }, {
+    "tStartMs": 1224240,
+    "dDurationMs": 11320,
+    "segs": [ {
+      "utf8": "When I had to display them it was so hard. I called them fireballs. Fireballs."
+    } ]
+  }, {
+    "tStartMs": 1235560,
+    "dDurationMs": 8719,
+    "segs": [ {
+      "utf8": "To that degree? That's how bakeries are. And since it was the opening shift, I had to come in by 7 o'clock."
+    } ]
+  }, {
+    "tStartMs": 1244279,
+    "dDurationMs": 9401,
+    "segs": [ {
+      "utf8": "Even though I worked, it wasn't light out yet because it was winter. That's about how it was, and Teacher Tae-woong had that kind of experience too."
+    } ]
+  }, {
+    "tStartMs": 1253680,
+    "dDurationMs": 8680,
+    "segs": [ {
+      "utf8": "Wow, glutinous rice donuts are fried in oil, right? Yes. Wow, that must have been hot. It was really hot."
+    } ]
+  }, {
+    "tStartMs": 1262360,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "When you work at a bakery, usually you can take some bread home at closing time, right? Oh yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 1270040,
+    "dDurationMs": 6559,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1276599,
+    "dDurationMs": 9320,
+    "segs": [ {
+      "utf8": "There was no leftover at the open. Because there's nothing left. I see. But when bread just comes out, the smell is really good."
+    } ]
+  }, {
+    "tStartMs": 1285919,
+    "dDurationMs": 8241,
+    "segs": [ {
+      "utf8": "Right. Like, it smells so delicious, and you just feel like this. It's torture, you know? Torture? It is torture."
+    } ]
+  }, {
+    "tStartMs": 1294160,
+    "dDurationMs": 8640,
+    "segs": [ {
+      "utf8": "There were times like that. The hardest experience I had was working in a kids' cafe kitchen. A kids' cafe kitchen?"
+    } ]
+  }, {
+    "tStartMs": 1302800,
+    "dDurationMs": 9960,
+    "segs": [ {
+      "utf8": "Yes. At the kids' cafe, it's not the part where you play with kids, but there's a space where kids eat. The kitchen was there."
+    } ]
+  }, {
+    "tStartMs": 1313080,
+    "dDurationMs": 11519,
+    "segs": [ {
+      "utf8": "Oh, I was the only person working, you know. So I had to do all the dishes, cooking, and cleaning by myself."
+    } ]
+  }, {
+    "tStartMs": 1324599,
+    "dDurationMs": 13600,
+    "segs": [ {
+      "utf8": "I was around 21 years old then, and there were so many things that were hard to do alone. For example, like carrying oil containers—those things are really heavy, you know."
+    } ]
+  }, {
+    "tStartMs": 1338199,
+    "dDurationMs": 12161,
+    "segs": [ {
+      "utf8": "Those? Yes. When you try to do those things alone, your body gets tired. And because you have to keep doing it quickly, you have to process things, so that's stressful."
+    } ]
+  }, {
+    "tStartMs": 1350360,
+    "dDurationMs": 6919,
+    "segs": [ {
+      "utf8": "So I didn't last long at that part-time job. A couple of months? Did I last three months? I think it was like that."
+    } ]
+  }, {
+    "tStartMs": 1357279,
+    "dDurationMs": 8241,
+    "segs": [ {
+      "utf8": "But you lasted quite a while, didn't you? I had to find a new job anyway, so I just worked until I could."
+    } ]
+  }, {
+    "tStartMs": 1365520,
+    "dDurationMs": 12480,
+    "segs": [ {
+      "utf8": "Oh, there was another hard thing about it. Because it's a kids' cafe, nursery rhymes play. Songs that kids listen to. But those five songs repeat infinitely."
+    } ]
+  }, {
+    "tStartMs": 1378000,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "That was tiring too. Because you have to listen to it for hours on end."
+    } ]
+  }, {
+    "tStartMs": 1384520,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "Oh, a part-time job that's mentally exhausting in a different way. It was a difficult job in many ways."
+    } ]
+  }, {
+    "tStartMs": 1390600,
+    "dDurationMs": 12159,
+    "segs": [ {
+      "utf8": "Really an extreme part-time job. That's right. Both body and mind. Plus, there's no one to rely on. No one to talk to."
+    } ]
+  }, {
+    "tStartMs": 1402759,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "That's what it was like."
+    } ]
+  }, {
+    "tStartMs": 1406160,
+    "dDurationMs": 15679,
+    "segs": [ {
+      "utf8": "So if Teacher Tae-woong went back to when you were in college or early on, when you had to work part-time, what kind of part-time job do you think you'd do? If you had to do it again."
+    } ]
+  }, {
+    "tStartMs": 1421839,
+    "dDurationMs": 8761,
+    "segs": [ {
+      "utf8": "If possible, I wouldn't want to. But I'd have to. I'd have to. I need to go out and eat."
+    } ]
+  }, {
+    "tStartMs": 1430600,
+    "dDurationMs": 8159,
+    "segs": [ {
+      "utf8": "Oh, if possible I wouldn't want to. But if I had to. Uh, well."
+    } ]
+  }, {
+    "tStartMs": 1438759,
+    "dDurationMs": 6481,
+    "segs": [ {
+      "utf8": "There's nothing specific. No, it's such a difficult question. Really? Do you have one, Didi?"
+    } ]
+  }, {
+    "tStartMs": 1445240,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "I think I'd definitely do a hagwon part-time job instead of restaurant or cafe work. A hagwon part-time job."
+    } ]
+  }, {
+    "tStartMs": 1454839,
+    "dDurationMs": 5761,
+    "segs": [ {
+      "utf8": "But to do that, you'd need some kind of skill to work at a hagwon, wouldn't you?"
+    } ]
+  }, {
+    "tStartMs": 1460600,
+    "dDurationMs": 4959,
+    "segs": [ {
+      "utf8": "Well, but you don't need any special skills."
+    } ]
+  }, {
+    "tStartMs": 1465559,
+    "dDurationMs": 8081,
+    "segs": [ {
+      "utf8": "Well, I really appealed to the fact that I like English."
+    } ]
+  }, {
+    "tStartMs": 1473640,
+    "dDurationMs": 8319,
+    "segs": [ {
+      "utf8": "Like, if you have a test score or two, they'll usually hire you."
+    } ]
+  }, {
+    "tStartMs": 1481959,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I think I'd do an English hagwon again. An English hagwon."
+    } ]
+  }, {
+    "tStartMs": 1486119,
+    "dDurationMs": 7680,
+    "segs": [ {
+      "utf8": "What I'm thinking now is like, doing Korean tutoring on italki or something like that."
+    } ]
+  }, {
+    "tStartMs": 1493799,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "That's the best. You don't even have to commute, right? Isn't that such a great part-time job?"
+    } ]
+  }, {
+    "tStartMs": 1498440,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "That's true. Yes. If I'd known back then. That's pretty much the best. A work-from-home part-time job."
+    } ]
+  }, {
+    "tStartMs": 1506040,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "Yes. But wouldn't you not be able to make much money?"
+    } ]
+  }, {
+    "tStartMs": 1510839,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "That's right. Like, you can't work 4 or 5 hours a day like that."
+    } ]
+  }, {
+    "tStartMs": 1516359,
+    "dDurationMs": 8480,
+    "segs": [ {
+      "utf8": "Exactly. But I want to try something like that. Working at a part-time job where you stay in a dorm."
+    } ]
+  }, {
+    "tStartMs": 1525640,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Like, an amusement park or something?"
+    } ]
+  }, {
+    "tStartMs": 1527480,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Uh, yes yes."
+    } ]
+  }, {
+    "tStartMs": 1529720,
+    "dDurationMs": 559,
+    "segs": [ {
+      "utf8": "Why? Why?"
+    } ]
+  }, {
+    "tStartMs": 1530279,
+    "dDurationMs": 11361,
+    "segs": [ {
+      "utf8": "Well, there's that too, and a younger friend I know works at a large cafe in Jeju Island, and they provide dorms there too."
+    } ]
+  }, {
+    "tStartMs": 1541640,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "How large is it?"
+    } ]
+  }, {
+    "tStartMs": 1543320,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "It was a pretty famous cafe."
+    } ]
+  }, {
+    "tStartMs": 1546839,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Is it good?"
+    } ]
+  }, {
+    "tStartMs": 1548119,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "Yes. She's having a really fun time doing it."
+    } ]
+  }, {
+    "tStartMs": 1551559,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And the people she works with are mostly her age, so it's fun too."
+    } ]
+  }, {
+    "tStartMs": 1557559,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "So working part-time in a travel destination is nice, right?"
+    } ]
+  }, {
+    "tStartMs": 1560040,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 1561720,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "There was a trend for a while of staying in Jeju for a month and working from your accommodation like that."
+    } ]
+  }, {
+    "tStartMs": 1568200,
+    "dDurationMs": 3919,
+    "segs": [ {
+      "utf8": "Oh yes. That's right. It was hugely trendy."
+    } ]
+  }, {
+    "tStartMs": 1572119,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "I'm not sure if it's related to part-time jobs, but have you ever thought about working holiday visas like that?"
+    } ]
+  }, {
+    "tStartMs": 1579959,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "I haven't."
+    } ]
+  }, {
+    "tStartMs": 1583000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "But a lot of people around me went, and it seems good."
+    } ]
+  }, {
+    "tStartMs": 1590040,
+    "dDurationMs": 8319,
+    "segs": [ {
+      "utf8": "It's just that I had more things I wanted to do than a working holiday, so I didn't go."
+    } ]
+  }, {
+    "tStartMs": 1598359,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "But don't you think it would be fun?"
+    } ]
+  }, {
+    "tStartMs": 1600440,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I guess so."
+    } ]
+  }, {
+    "tStartMs": 1601640,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "And you can make a lot of money too."
+    } ]
+  }, {
+    "tStartMs": 1603160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "You can make a lot of money, depending on the country."
+    } ]
+  }, {
+    "tStartMs": 1606040,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1608440,
+    "dDurationMs": 6239,
+    "segs": [ {
+      "utf8": "I also thought that traveling would be the most fun for me, which is why I didn't go."
+    } ]
+  }, {
+    "tStartMs": 1614679,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Yeah, that's right. That's true."
+    } ]
+  }, {
+    "tStartMs": 1617239,
+    "dDurationMs": 13681,
+    "segs": [ {
+      "utf8": "Going all the way there and working at a cafe, it'd probably be just as hard for the same hours."
+    } ]
+  }, {
+    "tStartMs": 1630920,
+    "dDurationMs": 5759,
+    "segs": [ {
+      "utf8": "Oh, but did I tell you about my Cambodia trip? On the podcast?"
+    } ]
+  }, {
+    "tStartMs": 1636679,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "Cambodia trip? No?"
+    } ]
+  }, {
+    "tStartMs": 1639000,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I didn't tell you about Cambodia?"
+    } ]
+  }, {
+    "tStartMs": 1641160,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "No. Only Bangladesh."
+    } ]
+  }, {
+    "tStartMs": 1642679,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Huh? I didn't tell you about it?"
+    } ]
+  }, {
+    "tStartMs": 1645079,
+    "dDurationMs": 8720,
+    "segs": [ {
+      "utf8": "I did a pretty long backpacking trip with a high school friend, and we spent about two weeks in Cambodia."
+    } ]
+  }, {
+    "tStartMs": 1653799,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "There's a place called Siem Reap in Cambodia, and it's the neighborhood where Angkor Wat is located."
+    } ]
+  }, {
+    "tStartMs": 1662839,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So there are a lot of tourists there."
+    } ]
+  }, {
+    "tStartMs": 1666519,
+    "dDurationMs": 11361,
+    "segs": [ {
+      "utf8": "During the day we'd visit Angkor Wat, and at night we'd go to places like Traveler Street and Pub Street to drink."
+    } ]
+  }, {
+    "tStartMs": 1677880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "That kind of area exists there."
+    } ]
+  }, {
+    "tStartMs": 1681880,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "While my friend and I were in that city, we didn't stay at hotels or guesthouses."
+    } ]
+  }, {
+    "tStartMs": 1688760,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "We did something called couchsurfing."
+    } ]
+  }, {
+    "tStartMs": 1692359,
+    "dDurationMs": 5521,
+    "segs": [ {
+      "utf8": "We'd stay at local people's homes by talking to them nicely."
+    } ]
+  }, {
+    "tStartMs": 1697880,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "Yes, somehow..."
+    } ]
+  }, {
+    "tStartMs": 1700839,
+    "dDurationMs": 10560,
+    "segs": [ {
+      "utf8": "But the person who let my friend and me stay was a Filipino artist living in Siem Reap, Cambodia."
+    } ]
+  }, {
+    "tStartMs": 1711399,
+    "dDurationMs": 1441,
+    "segs": [ {
+      "utf8": "Wow..."
+    } ]
+  }, {
+    "tStartMs": 1712840,
+    "dDurationMs": 5199,
+    "segs": [ {
+      "utf8": "Yes, so the house was very clean and tidy."
+    } ]
+  }, {
+    "tStartMs": 1718039,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "There were about three rooms and air conditioning too."
+    } ]
+  }, {
+    "tStartMs": 1721799,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Oh, he's rich."
+    } ]
+  }, {
+    "tStartMs": 1722919,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Yes, so we had a fun time together."
+    } ]
+  }, {
+    "tStartMs": 1727559,
+    "dDurationMs": 11281,
+    "segs": [ {
+      "utf8": "The Filipino artist's main group of friends were French people who worked in Siem Reap."
+    } ]
+  }, {
+    "tStartMs": 1738840,
+    "dDurationMs": 6319,
+    "segs": [ {
+      "utf8": "Since there were so many tourists, there were also many high-end hotels."
+    } ]
+  }, {
+    "tStartMs": 1745159,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "There were a lot of chain hotels, so there were many French people who came to work at those places."
+    } ]
+  }, {
+    "tStartMs": 1753239,
+    "dDurationMs": 7041,
+    "segs": [ {
+      "utf8": "But among that group of French people, one of them, as I mentioned earlier, when night came,"
+    } ]
+  }, {
+    "tStartMs": 1760280,
+    "dDurationMs": 7759,
+    "segs": [ {
+      "utf8": "was the person who ran one of the pubs on that traveler street."
+    } ]
+  }, {
+    "tStartMs": 1768039,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1768679,
+    "dDurationMs": 4961,
+    "segs": [ {
+      "utf8": "So my friend and I would ride motorcycles every day to see Angkor Wat."
+    } ]
+  }, {
+    "tStartMs": 1773640,
+    "dDurationMs": 4959,
+    "segs": [ {
+      "utf8": "And when we came back, we'd take an afternoon nap, and when night came we'd go to Pub Street."
+    } ]
+  }, {
+    "tStartMs": 1778599,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "We'd go to the pub where the French people gathered and drink and hang out, just like that."
+    } ]
+  }, {
+    "tStartMs": 1782599,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hmm, that sounds fun."
+    } ]
+  }, {
+    "tStartMs": 1784599,
+    "dDurationMs": 10640,
+    "segs": [ {
+      "utf8": "Yes, and I became close with the owner, a Frenchman named Alex, and we did things together."
+    } ]
+  }, {
+    "tStartMs": 1795239,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "That Alex, me, my friend, and another American..."
+    } ]
+  }, {
+    "tStartMs": 1800000,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "I made a proposal to two tourist friends"
+    } ]
+  }, {
+    "tStartMs": 1804840,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "about these flyers called flyovers,"
+    } ]
+  }, {
+    "tStartMs": 1809840,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and since there are so many people walking around on Pub Street,"
+    } ]
+  }, {
+    "tStartMs": 1812360,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "if we hand them out for an hour on Pub Street,"
+    } ]
+  }, {
+    "tStartMs": 1816160,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "I'll give you two free drinks—cocktails or whatever alcohol you want."
+    } ]
+  }, {
+    "tStartMs": 1821639,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1822799,
+    "dDurationMs": 4441,
+    "segs": [ {
+      "utf8": "So we made that proposal and they said they'd do it."
+    } ]
+  }, {
+    "tStartMs": 1827240,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "So four men—two Korean and two American—"
+    } ]
+  }, {
+    "tStartMs": 1832720,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "went to that crowded Pub Street"
+    } ]
+  }, {
+    "tStartMs": 1834680,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "and it was amazing."
+    } ]
+  }, {
+    "tStartMs": 1835279,
+    "dDurationMs": 4441,
+    "segs": [ {
+      "utf8": "We just handed out all these papers saying \"One Free Shot Coupon\" and stuff like that,"
+    } ]
+  }, {
+    "tStartMs": 1839720,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and after doing that, we got two free drinks"
+    } ]
+  }, {
+    "tStartMs": 1843320,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "and wow,"
+    } ]
+  }, {
+    "tStartMs": 1844720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "we played late into the night—well, not all night, but pretty late."
+    } ]
+  }, {
+    "tStartMs": 1848000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "That was such a raw, authentic experience, you know?"
+    } ]
+  }, {
+    "tStartMs": 1851200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1852520,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "But what I especially remember about that day"
+    } ]
+  }, {
+    "tStartMs": 1858240,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "is that my friend, the two American guys, and I"
+    } ]
+  }, {
+    "tStartMs": 1860759,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "were just traveling without any real plan,"
+    } ]
+  }, {
+    "tStartMs": 1862799,
+    "dDurationMs": 3321,
+    "segs": [ {
+      "utf8": "handing out flyers there,"
+    } ]
+  }, {
+    "tStartMs": 1866120,
+    "dDurationMs": 7079,
+    "segs": [ {
+      "utf8": "and then some volunteer group—I'm not sure if it was a church or a university volunteer group—"
+    } ]
+  }, {
+    "tStartMs": 1873199,
+    "dDurationMs": 7281,
+    "segs": [ {
+      "utf8": "kids around my age wearing matching group shirts like a volunteer group"
+    } ]
+  }, {
+    "tStartMs": 1880480,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "came out at night to look around."
+    } ]
+  }, {
+    "tStartMs": 1884599,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "They were Korean people my same age,"
+    } ]
+  }, {
+    "tStartMs": 1887279,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "but it felt like they were in a completely different world from me."
+    } ]
+  }, {
+    "tStartMs": 1889120,
+    "dDurationMs": 5719,
+    "segs": [ {
+      "utf8": "Right, I fit in so well here."
+    } ]
+  }, {
+    "tStartMs": 1894839,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "It was a really precious experience."
+    } ]
+  }, {
+    "tStartMs": 1896519,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1897720,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "So in a way, that was also a part-time job, wasn't it?"
+    } ]
+  }, {
+    "tStartMs": 1900279,
+    "dDurationMs": 3441,
+    "segs": [ {
+      "utf8": "Right, it was more like"
+    } ]
+  }, {
+    "tStartMs": 1903720,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "an uncle giving his nephew an errand to run rather than being employed."
+    } ]
+  }, {
+    "tStartMs": 1907360,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "Exactly, exactly."
+    } ]
+  }, {
+    "tStartMs": 1909239,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "That's the perfect amount."
+    } ]
+  }, {
+    "tStartMs": 1912000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That beer must have tasted good after working."
+    } ]
+  }, {
+    "tStartMs": 1914440,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Of course, of course."
+    } ]
+  }, {
+    "tStartMs": 1916360,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I think that was the most fun time in my life."
+    } ]
+  }, {
+    "tStartMs": 1920400,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "Wow, you can have experiences like that."
+    } ]
+  }, {
+    "tStartMs": 1924519,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "I want to try something like that abroad someday too."
+    } ]
+  }, {
+    "tStartMs": 1927080,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "You can do it."
+    } ]
+  }, {
+    "tStartMs": 1927919,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "A reasonable, fun kind of errand-level work."
+    } ]
+  }, {
+    "tStartMs": 1931839,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Yeah, you can do it."
+    } ]
+  }, {
+    "tStartMs": 1933240,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Going back to the part-time job topic,"
+    } ]
+  }, {
+    "tStartMs": 1937000,
+    "dDurationMs": 3039,
+    "segs": [ {
+      "utf8": "do you remember how much the hourly wage was?"
+    } ]
+  }, {
+    "tStartMs": 1940039,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Early twenties hourly wage—"
+    } ]
+  }, {
+    "tStartMs": 1942679,
+    "dDurationMs": 3321,
+    "segs": [ {
+      "utf8": "when I first started,"
+    } ]
+  }, {
+    "tStartMs": 1946000,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "it was just under 5,000 won."
+    } ]
+  }, {
+    "tStartMs": 1949559,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Was it 4,900 won?"
+    } ]
+  }, {
+    "tStartMs": 1953399,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "That's the minimum wage, right? The lowest you can get paid."
+    } ]
+  }, {
+    "tStartMs": 1956880,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "Right, the minimum wage was 4,900 won."
+    } ]
+  }, {
+    "tStartMs": 1961919,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "Now in 2025, the minimum wage is 10,030 won."
+    } ]
+  }, {
+    "tStartMs": 1967080,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "Exactly double."
+    } ]
+  }, {
+    "tStartMs": 1968199,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Yes, double."
+    } ]
+  }, {
+    "tStartMs": 1971399,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "Didn't it go up pretty quickly?"
+    } ]
+  }, {
+    "tStartMs": 1973880,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Is it like that in other countries too?"
+    } ]
+  }, {
+    "tStartMs": 1976160,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "Is it the same in other countries?"
+    } ]
+  }, {
+    "tStartMs": 1977639,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "It doubled in about ten years."
+    } ]
+  }, {
+    "tStartMs": 1980479,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yes, it did go up fast."
+    } ]
+  }, {
+    "tStartMs": 1982279,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "But then again,"
+    } ]
+  }, {
+    "tStartMs": 1984000,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I'm not sure which came first,"
+    } ]
+  }, {
+    "tStartMs": 1987880,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "snacks and ice cream."
+    } ]
+  }, {
+    "tStartMs": 1990440,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Rice prices have gone up so quickly too."
+    } ]
+  }, {
+    "tStartMs": 1992000,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "The cost of living has risen."
+    } ]
+  }, {
+    "tStartMs": 1995320,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Right, I think mine was around 8,000 won back then."
+    } ]
+  }, {
+    "tStartMs": 1999960,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "So we've talked about these various part-time job experiences."
+    } ]
+  }, {
+    "tStartMs": 2005800,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "The conclusion is that if I go back, I really don't want to do it again."
+    } ]
+  }, {
+    "tStartMs": 2009399,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Part-time work."
+    } ]
+  }, {
+    "tStartMs": 2011199,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I'd prefer not to work as much as possible."
+    } ]
+  }, {
+    "tStartMs": 2014279,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I wish I could live without having to."
+    } ]
+  }, {
+    "tStartMs": 2017039,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "That's too real."
+    } ]
+  }, {
+    "tStartMs": 2040000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I think it would be good for people interested in exercise to listen to a lot of it."
+    } ]
+  }, {
+    "tStartMs": 2044000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Then next week we'll talk about exercise in various ways with Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 2050000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This has been Didi and Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2054000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

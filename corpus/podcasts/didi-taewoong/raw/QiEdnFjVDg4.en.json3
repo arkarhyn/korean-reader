@@ -1,0 +1,2593 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+    } ]
+  }, {
+    "tStartMs": 9400,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11360,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13600,
+    "dDurationMs": 7240,
+    "segs": [ {
+      "utf8": "Yomojomo of Life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 20840,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Yes, today we're filming together on camera for the second time."
+    } ]
+  }, {
+    "tStartMs": 25600,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "It's a podcast that comes with video."
+    } ]
+  }, {
+    "tStartMs": 28200,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "What's today's topic?"
+    } ]
+  }, {
+    "tStartMs": 30719,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Today's topic is exercise."
+    } ]
+  }, {
+    "tStartMs": 33959,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "Exercise... exercise..."
+    } ]
+  }, {
+    "tStartMs": 37080,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "Exercise is something I really should do, but I really don't want to do it, at least for me."
+    } ]
+  }, {
+    "tStartMs": 44520,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, do you exercise a lot these days?"
+    } ]
+  }, {
+    "tStartMs": 47560,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 48200,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "You did a lot last year, didn't you?"
+    } ]
+  }, {
+    "tStartMs": 50720,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "No, that came out."
+    } ]
+  }, {
+    "tStartMs": 51880,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Yes, I did exercise a lot last year."
+    } ]
+  }, {
+    "tStartMs": 54360,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Right now I'm lacking in exercise."
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "You don't do it at all?"
+    } ]
+  }, {
+    "tStartMs": 58439,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "I do a little. Really a little. A little that's no different from not doing it."
+    } ]
+  }, {
+    "tStartMs": 62320,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How do you do it? What do you do? Even if it's just a little?"
+    } ]
+  }, {
+    "tStartMs": 65320,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "I go to the park in front of my house in the morning for a walk."
+    } ]
+  }, {
+    "tStartMs": 70959,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Pull-ups."
+    } ]
+  }, {
+    "tStartMs": 73239,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "Like five or six of them?"
+    } ]
+  }, {
+    "tStartMs": 76320,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "And then I come back."
+    } ]
+  }, {
+    "tStartMs": 80199,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "Exercise done."
+    } ]
+  }, {
+    "tStartMs": 81120,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Exercise done."
+    } ]
+  }, {
+    "tStartMs": 83040,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Did you do it today too?"
+    } ]
+  }, {
+    "tStartMs": 84040,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "I did today as well."
+    } ]
+  }, {
+    "tStartMs": 86040,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Still, going out is something, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 88360,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "Ah, I feel like I really have to do at least that, so I'm forcing myself to do it."
+    } ]
+  }, {
+    "tStartMs": 93839,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Why did you stop doing it so much this year?"
+    } ]
+  }, {
+    "tStartMs": 97599,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Because I did it so hard last year."
+    } ]
+  }, {
+    "tStartMs": 100239,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "Burnout?"
+    } ]
+  }, {
+    "tStartMs": 102160,
+    "dDurationMs": 4799,
+    "segs": [ {
+      "utf8": "It seems similar to burnout."
+    } ]
+  }, {
+    "tStartMs": 106959,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And I thought, what if I just don't do it?"
+    } ]
+  }, {
+    "tStartMs": 110879,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "What happens if I don't?"
+    } ]
+  }, {
+    "tStartMs": 112239,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "What happens if I don't?"
+    } ]
+  }, {
+    "tStartMs": 114320,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "Does exercising consistently really make that big of a difference, like people say?"
+    } ]
+  }, {
+    "tStartMs": 119959,
+    "dDurationMs": 5081,
+    "segs": [ {
+      "utf8": "So I did an experiment."
+    } ]
+  }, {
+    "tStartMs": 125040,
+    "dDurationMs": 9040,
+    "segs": [ {
+      "utf8": "How is it? Now that five months have passed and you're not exercising, do you feel a change?"
+    } ]
+  }, {
+    "tStartMs": 134080,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "Actually, I don't think you can say that life is good or bad because of just one thing in such a definitive way."
+    } ]
+  }, {
+    "tStartMs": 142360,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Still, it seems like exercising consistently is good."
+    } ]
+  }, {
+    "tStartMs": 148600,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "That's what they say."
+    } ]
+  }, {
+    "tStartMs": 151279,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "It's good to do it hard."
+    } ]
+  }, {
+    "tStartMs": 154960,
+    "dDurationMs": 14879,
+    "segs": [ {
+      "utf8": "So far, has there been an exercise that you thought fit you best, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 169839,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "I don't think so."
+    } ]
+  }, {
+    "tStartMs": 172160,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Exercise isn't about finding what fits. You just do it."
+    } ]
+  }, {
+    "tStartMs": 175080,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "Yes, you just do it."
+    } ]
+  }, {
+    "tStartMs": 176639,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 178720,
+    "dDurationMs": 5479,
+    "segs": [ {
+      "utf8": "Then is there an exercise you paid for and learned?"
+    } ]
+  }, {
+    "tStartMs": 184199,
+    "dDurationMs": 6881,
+    "segs": [ {
+      "utf8": "As for learning... I don't think there's anything I learned of my own will."
+    } ]
+  }, {
+    "tStartMs": 191080,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "I learned Taekwondo when I was young."
+    } ]
+  }, {
+    "tStartMs": 195919,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "But other than that, I don't think there's anything specific."
+    } ]
+  }, {
+    "tStartMs": 200479,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "What about the gym?"
+    } ]
+  }, {
+    "tStartMs": 202199,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "I started going to the gym from when I was twenty."
+    } ]
+  }, {
+    "tStartMs": 209399,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "PT, which stands for Personal Training. I've never received that."
+    } ]
+  }, {
+    "tStartMs": 214039,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Then how did you know and do it?"
+    } ]
+  }, {
+    "tStartMs": 217039,
+    "dDurationMs": 7961,
+    "segs": [ {
+      "utf8": "I'm sorry for confusing things, but I've never paid for and received PT."
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "When I first went to the gym at twenty,"
+    } ]
+  }, {
+    "tStartMs": 229360,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "The trainer who was working there"
+    } ]
+  }, {
+    "tStartMs": 232479,
+    "dDurationMs": 4761,
+    "segs": [ {
+      "utf8": "Just watched me exercising and taught me. For a while."
+    } ]
+  }, {
+    "tStartMs": 237240,
+    "dDurationMs": 879,
+    "segs": [ {
+      "utf8": "It's free!"
+    } ]
+  }, {
+    "tStartMs": 238119,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "It was really great."
+    } ]
+  }, {
+    "tStartMs": 239720,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "Wow, why did you want to teach me?"
+    } ]
+  }, {
+    "tStartMs": 243399,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "Because I was doing it in a really strange way."
+    } ]
+  }, {
+    "tStartMs": 245240,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "Oh, that's not it."
+    } ]
+  }, {
+    "tStartMs": 246559,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "If you do it like that, you'll get hurt."
+    } ]
+  }, {
+    "tStartMs": 248960,
+    "dDurationMs": 7279,
+    "segs": [ {
+      "utf8": "When I think about it now… what kind of feeling is this?"
+    } ]
+  }, {
+    "tStartMs": 256239,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Should I say it's a bit touching?"
+    } ]
+  }, {
+    "tStartMs": 261399,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Something sad?"
+    } ]
+  }, {
+    "tStartMs": 262200,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Should I say it's sad?"
+    } ]
+  }, {
+    "tStartMs": 263920,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "No, it's more of a good memory than that."
+    } ]
+  }, {
+    "tStartMs": 268720,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "My body was very weak from a young age."
+    } ]
+  }, {
+    "tStartMs": 272200,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "My physique was also small and frail."
+    } ]
+  }, {
+    "tStartMs": 273839,
+    "dDurationMs": 6321,
+    "segs": [ {
+      "utf8": "And I had several major surgeries during middle and high school."
+    } ]
+  }, {
+    "tStartMs": 280160,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "My body was extremely weak."
+    } ]
+  }, {
+    "tStartMs": 282519,
+    "dDurationMs": 3641,
+    "segs": [ {
+      "utf8": "It was like that even until I graduated high school."
+    } ]
+  }, {
+    "tStartMs": 286160,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "When I was around twenty or twenty-one years old, my mother"
+    } ]
+  }, {
+    "tStartMs": 292160,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Because of my surgery records, I did go to the military for public service,"
+    } ]
+  }, {
+    "tStartMs": 299160,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "but I still had to go to boot camp."
+    } ]
+  }, {
+    "tStartMs": 301559,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Since this kid's body was so weak,"
+    } ]
+  }, {
+    "tStartMs": 303959,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "if I sent him to boot camp like this,"
+    } ]
+  }, {
+    "tStartMs": 306440,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "he might struggle and not be able to do things properly."
+    } ]
+  }, {
+    "tStartMs": 312000,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "So my mother took me to the gym."
+    } ]
+  }, {
+    "tStartMs": 316399,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Wow, that makes sense."
+    } ]
+  }, {
+    "tStartMs": 319679,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "You pay the registration fee and all that."
+    } ]
+  }, {
+    "tStartMs": 322160,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And then to the trainer who was there at the time,"
+    } ]
+  }, {
+    "tStartMs": 325320,
+    "dDurationMs": 6160,
+    "segs": [ {
+      "utf8": "this kid's body is very weak and he doesn't exercise properly…"
+    } ]
+  }, {
+    "tStartMs": 331480,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "he did do taekwondo,"
+    } ]
+  }, {
+    "tStartMs": 333160,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "but anyway, so before sending him to the military,"
+    } ]
+  }, {
+    "tStartMs": 337200,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "before sending him to boot camp, I should probably train him properly."
+    } ]
+  }, {
+    "tStartMs": 341720,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "So I told them I was registering and I registered."
+    } ]
+  }, {
+    "tStartMs": 346480,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "But how cute must a young boy have looked."
+    } ]
+  }, {
+    "tStartMs": 353040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "And how sad it must have seemed."
+    } ]
+  }, {
+    "tStartMs": 355200,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "Because his body was weak, it was like this."
+    } ]
+  }, {
+    "tStartMs": 357559,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Yes, so I went to the gym every early morning."
+    } ]
+  }, {
+    "tStartMs": 363359,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "And that trainer took me under his wing completely."
+    } ]
+  }, {
+    "tStartMs": 367079,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "Wow, that's the best."
+    } ]
+  }, {
+    "tStartMs": 368720,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Yes, he taught me a lot of exercises."
+    } ]
+  }, {
+    "tStartMs": 373640,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "You really found a great place."
+    } ]
+  }, {
+    "tStartMs": 376119,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "Yes, he's one of several noble people in my life."
+    } ]
+  }, {
+    "tStartMs": 382359,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "Wow, usually when it's like, the body is weak, you know,"
+    } ]
+  }, {
+    "tStartMs": 385480,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Oh, then we have our personal training course like this."
+    } ]
+  }, {
+    "tStartMs": 389440,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "and they could guide you through it,"
+    } ]
+  }, {
+    "tStartMs": 392519,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "but he did it for me."
+    } ]
+  }, {
+    "tStartMs": 394480,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Yes, he was a very unique person too."
+    } ]
+  }, {
+    "tStartMs": 399000,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 400040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Yes, he wasn't someone who worked out professionally full-time."
+    } ]
+  }, {
+    "tStartMs": 403320,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "He was originally someone who did his own business,"
+    } ]
+  }, {
+    "tStartMs": 406880,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "and he came back to Korea after working in America,"
+    } ]
+  }, {
+    "tStartMs": 410559,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "but he just liked working out,"
+    } ]
+  }, {
+    "tStartMs": 414079,
+    "dDurationMs": 5241,
+    "segs": [ {
+      "utf8": "and he thought his current lifestyle habits"
+    } ]
+  }, {
+    "tStartMs": 419320,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "would be better if he were more of a morning person,"
+    } ]
+  }, {
+    "tStartMs": 422799,
+    "dDurationMs": 6841,
+    "segs": [ {
+      "utf8": "so he volunteered to work the counter at that gym that opens early in the morning,"
+    } ]
+  }, {
+    "tStartMs": 429640,
+    "dDurationMs": 4879,
+    "segs": [ {
+      "utf8": "because to open the gym he had to wake up early,"
+    } ]
+  }, {
+    "tStartMs": 434519,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "so he worked in the morning like that and then clocked out."
+    } ]
+  }, {
+    "tStartMs": 439320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "And he worked out himself and helped people like me,"
+    } ]
+  }, {
+    "tStartMs": 443440,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "and he didn't take money for personal training or anything like that."
+    } ]
+  }, {
+    "tStartMs": 446600,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "He was a really unique person."
+    } ]
+  }, {
+    "tStartMs": 447880,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "That's something, unique indeed."
+    } ]
+  }, {
+    "tStartMs": 450839,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "His determination is remarkable, even so."
+    } ]
+  }, {
+    "tStartMs": 452640,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "Yes, this person had quite a big influence on my values."
+    } ]
+  }, {
+    "tStartMs": 456279,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "Oh really? You did it for quite a long time then?"
+    } ]
+  }, {
+    "tStartMs": 459640,
+    "dDurationMs": 4719,
+    "segs": [ {
+      "utf8": "Yes, I think I did it for over several months, around six months or so."
+    } ]
+  }, {
+    "tStartMs": 464359,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 465559,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "So you learned about fitness equipment and things like that back then?"
+    } ]
+  }, {
+    "tStartMs": 468320,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 471480,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "Anyway, getting back to the topic of exercise"
+    } ]
+  }, {
+    "tStartMs": 476399,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "It seems like there's nothing else besides that?"
+    } ]
+  }, {
+    "tStartMs": 478760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "You didn't learn anything else?"
+    } ]
+  }, {
+    "tStartMs": 480160,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 482160,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "As someone who really dislikes exercise"
+    } ]
+  }, {
+    "tStartMs": 487160,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "I've tried various things with the mindset of, well, if I pay for it I'll do it."
+    } ]
+  }, {
+    "tStartMs": 492760,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "First, when I was young, I took swimming lessons for quite a long time"
+    } ]
+  }, {
+    "tStartMs": 497160,
+    "dDurationMs": 3399,
+    "segs": [ {
+      "utf8": "and that was because my parents sent me"
+    } ]
+  }, {
+    "tStartMs": 500559,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "and as an adult, I've also tried things like personal training, briefly."
+    } ]
+  }, {
+    "tStartMs": 505839,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "I tried it, and I did yoga"
+    } ]
+  }, {
+    "tStartMs": 509440,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "There's squash, which is like tennis."
+    } ]
+  }, {
+    "tStartMs": 513719,
+    "dDurationMs": 4361,
+    "segs": [ {
+      "utf8": "Tennis played with a ball this small, I learned that briefly too"
+    } ]
+  }, {
+    "tStartMs": 518080,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "That's cool."
+    } ]
+  }, {
+    "tStartMs": 519760,
+    "dDurationMs": 4359,
+    "segs": [ {
+      "utf8": "It's cool if you're good at it, but I only learned it briefly."
+    } ]
+  }, {
+    "tStartMs": 524119,
+    "dDurationMs": 5161,
+    "segs": [ {
+      "utf8": "And, and that's it."
+    } ]
+  }, {
+    "tStartMs": 529280,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "I tried it"
+    } ]
+  }, {
+    "tStartMs": 530760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "How was it?"
+    } ]
+  }, {
+    "tStartMs": 533520,
+    "dDurationMs": 5039,
+    "segs": [ {
+      "utf8": "Even when you pay money, you end up not going sometimes, right?"
+    } ]
+  }, {
+    "tStartMs": 539520,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "How should I put it?"
+    } ]
+  }, {
+    "tStartMs": 541320,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "There's a lack of obligation."
+    } ]
+  }, {
+    "tStartMs": 543520,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Even though you're paying to go?"
+    } ]
+  }, {
+    "tStartMs": 546080,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "If I don't go, that's just it."
+    } ]
+  }, {
+    "tStartMs": 549440,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "Like, earlier I mentioned that if I don't go the gym door won't open"
+    } ]
+  }, {
+    "tStartMs": 552919,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "there's nothing like that"
+    } ]
+  }, {
+    "tStartMs": 555320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "if I just don't go, only I lose out"
+    } ]
+  }, {
+    "tStartMs": 559280,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "so it's easy to give up on that too."
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "So even though I couldn't build a habit of exercising"
+    } ]
+  }, {
+    "tStartMs": 567960,
+    "dDurationMs": 2839,
+    "segs": [ {
+      "utf8": "because once I actually go and do it, it's fun"
+    } ]
+  }, {
+    "tStartMs": 570799,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "when I go and do it, I have fun doing it."
+    } ]
+  }, {
+    "tStartMs": 572359,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "Yoga was fun too, and squash was fun."
+    } ]
+  }, {
+    "tStartMs": 576840,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Swimming is fun when you go and do it."
+    } ]
+  }, {
+    "tStartMs": 581080,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "No, it's fun"
+    } ]
+  }, {
+    "tStartMs": 583520,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "but it's annoying to go do it. It's annoying to go"
+    } ]
+  }, {
+    "tStartMs": 587640,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "that preparation process"
+    } ]
+  }, {
+    "tStartMs": 589320,
+    "dDurationMs": 1279,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 590599,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "but still, summer is better than winter"
+    } ]
+  }, {
+    "tStartMs": 593799,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "in winter you have to wear several layers of clothes, right?"
+    } ]
+  }, {
+    "tStartMs": 597280,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "to go exercise"
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "the whole process is so annoying, but in summer I can just put on a t-shirt and pants and go out"
+    } ]
+  }, {
+    "tStartMs": 607000,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "so the season when I exercise the most is now, right now."
+    } ]
+  }, {
+    "tStartMs": 612640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "when things are even a little less annoying."
+    } ]
+  }, {
+    "tStartMs": 617440,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "these days there are apartments with gyms and swimming pools inside, right?"
+    } ]
+  }, {
+    "tStartMs": 623040,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "There are places like that."
+    } ]
+  }, {
+    "tStartMs": 624200,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "If you lived in a place like that, do you think it would help a bit?"
+    } ]
+  }, {
+    "tStartMs": 628840,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "What I've thought about is, if there was someone to do it with, I think I'd do well."
+    } ]
+  }, {
+    "tStartMs": 634560,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "I think I'd go out more often."
+    } ]
+  }, {
+    "tStartMs": 636919,
+    "dDurationMs": 5921,
+    "segs": [ {
+      "utf8": "if there was someone saying let's go, let's go, let's go together"
+    } ]
+  }, {
+    "tStartMs": 642840,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "wouldn't I go out more? than doing it alone?"
+    } ]
+  }, {
+    "tStartMs": 648680,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "I wish I had a workout buddy."
+    } ]
+  }, {
+    "tStartMs": 651919,
+    "dDurationMs": 7961,
+    "segs": [ {
+      "utf8": "Right. That's probably why running clubs and hobby groups exist, right?"
+    } ]
+  }, {
+    "tStartMs": 659880,
+    "dDurationMs": 7079,
+    "segs": [ {
+      "utf8": "Right. These days, is there any exercise you're interested in or want to try?"
+    } ]
+  }, {
+    "tStartMs": 666959,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "An exercise you're thinking of trying."
+    } ]
+  }, {
+    "tStartMs": 669160,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "There's nothing in particular these days, but I'm very interested in exercise."
+    } ]
+  }, {
+    "tStartMs": 676440,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "There are many sports I admire."
+    } ]
+  }, {
+    "tStartMs": 679400,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Yes, what are some examples?"
+    } ]
+  }, {
+    "tStartMs": 680720,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Swimming is a typical one."
+    } ]
+  }, {
+    "tStartMs": 683320,
+    "dDurationMs": 6319,
+    "segs": [ {
+      "utf8": "I didn't learn swimming from a young age, so I don't know how to do it."
+    } ]
+  }, {
+    "tStartMs": 689639,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Okay, swimming."
+    } ]
+  }, {
+    "tStartMs": 690559,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Yes, it seems like it would be really great if I learned it."
+    } ]
+  }, {
+    "tStartMs": 692760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It really would be great."
+    } ]
+  }, {
+    "tStartMs": 695000,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Since it's Busan, right?"
+    } ]
+  }, {
+    "tStartMs": 696599,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 698360,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "And rock climbing."
+    } ]
+  }, {
+    "tStartMs": 701839,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Yes, I've tried rock climbing once before."
+    } ]
+  }, {
+    "tStartMs": 705639,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "But it was fun."
+    } ]
+  }, {
+    "tStartMs": 708599,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "And it seems like a sport that suits me well."
+    } ]
+  }, {
+    "tStartMs": 712279,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "I'm not sure yet, though."
+    } ]
+  }, {
+    "tStartMs": 714239,
+    "dDurationMs": 6921,
+    "segs": [ {
+      "utf8": "Just considering my body type and things like that, it seems like a sport where I'd have an advantage."
+    } ]
+  }, {
+    "tStartMs": 721160,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Yes, and next for me is boxing, kickboxing."
+    } ]
+  }, {
+    "tStartMs": 727040,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "I want to learn kickboxing."
+    } ]
+  }, {
+    "tStartMs": 728839,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Me too."
+    } ]
+  }, {
+    "tStartMs": 729559,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "Yes, and then Brazilian jiu-jitsu."
+    } ]
+  }, {
+    "tStartMs": 732960,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I see a lot of people learning Brazilian jiu-jitsu these days."
+    } ]
+  }, {
+    "tStartMs": 735160,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "Yes, if you learn kickboxing, Brazilian jiu-jitsu, and wrestling in addition to those,"
+    } ]
+  }, {
+    "tStartMs": 743320,
+    "dDurationMs": 9879,
+    "segs": [ {
+      "utf8": "then I think there wouldn't be anyone you couldn't handle with just your bare hands."
+    } ]
+  }, {
+    "tStartMs": 753199,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'm curious because you're learning a lot of sports, those last three especially."
+    } ]
+  }, {
+    "tStartMs": 757199,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Kickboxing, Brazilian jiu-jitsu, things like that?"
+    } ]
+  }, {
+    "tStartMs": 762839,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "Or is it to become stronger?"
+    } ]
+  }, {
+    "tStartMs": 764360,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "To become stronger."
+    } ]
+  }, {
+    "tStartMs": 765520,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 767520,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "I mean, when would you ever get into a fight?"
+    } ]
+  }, {
+    "tStartMs": 770479,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If you do that, you'd probably get into fights a lot."
+    } ]
+  }, {
+    "tStartMs": 774479,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "To gain confidence."
+    } ]
+  }, {
+    "tStartMs": 776119,
+    "dDurationMs": 4401,
+    "segs": [ {
+      "utf8": "No, I don't mean learning that and then fighting outside."
+    } ]
+  }, {
+    "tStartMs": 780520,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "Oh, yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 781839,
+    "dDurationMs": 6920,
+    "segs": [ {
+      "utf8": "You'd do sparring at the gym, like a practice fight."
+    } ]
+  }, {
+    "tStartMs": 788759,
+    "dDurationMs": 1561,
+    "segs": [ {
+      "utf8": "You want to try it?"
+    } ]
+  }, {
+    "tStartMs": 790320,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "It seems like it would be really nerve-wracking."
+    } ]
+  }, {
+    "tStartMs": 792720,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "That's why I want to try it."
+    } ]
+  }, {
+    "tStartMs": 794919,
+    "dDurationMs": 8041,
+    "segs": [ {
+      "utf8": "Even if I learn kickboxing, I don't want to do sparring—I just want to exercise."
+    } ]
+  }, {
+    "tStartMs": 802960,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "Losing is sad, you know."
+    } ]
+  }, {
+    "tStartMs": 806199,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "But people can't live without losing, right?"
+    } ]
+  }, {
+    "tStartMs": 811919,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "People sometimes lose continuously and sometimes win continuously,"
+    } ]
+  }, {
+    "tStartMs": 814679,
+    "dDurationMs": 3401,
+    "segs": [ {
+      "utf8": "so you're repeating losing and winning,"
+    } ]
+  }, {
+    "tStartMs": 818080,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "and that's why I think it's good to do activities where you can lose a lot."
+    } ]
+  }, {
+    "tStartMs": 826160,
+    "dDurationMs": 4959,
+    "segs": [ {
+      "utf8": "When I see people who like sports, there's something I don't understand—"
+    } ]
+  }, {
+    "tStartMs": 831119,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "when their team loses, they get really stressed and sad, right?"
+    } ]
+  }, {
+    "tStartMs": 835839,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I wondered why they'd watch that,"
+    } ]
+  }, {
+    "tStartMs": 839720,
+    "dDurationMs": 4399,
+    "segs": [ {
+      "utf8": "but when you win once, that sense of accomplishment?"
+    } ]
+  }, {
+    "tStartMs": 844119,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "It seems like they watch for that thrill."
+    } ]
+  }, {
+    "tStartMs": 849039,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 850800,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "So Didi, is there nothing you want to learn? Anything you're interested in these days?"
+    } ]
+  }, {
+    "tStartMs": 854919,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "I was curious about kickboxing. Kickboxing."
+    } ]
+  }, {
+    "tStartMs": 859119,
+    "dDurationMs": 7361,
+    "segs": [ {
+      "utf8": "They said it gives you a really intense, strong workout,"
+    } ]
+  }, {
+    "tStartMs": 866480,
+    "dDurationMs": 4879,
+    "segs": [ {
+      "utf8": "and I heard a lot of good reviews about learning it, so I want to go try it,"
+    } ]
+  }, {
+    "tStartMs": 871359,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "but there's only boxing near my house."
+    } ]
+  }, {
+    "tStartMs": 875279,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "But I did hear that kickboxing is better than boxing."
+    } ]
+  }, {
+    "tStartMs": 881679,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "Because you also work your legs."
+    } ]
+  }, {
+    "tStartMs": 883160,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "You have to do kicks too."
+    } ]
+  }, {
+    "tStartMs": 885440,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "I also want to try Pilates."
+    } ]
+  }, {
+    "tStartMs": 887679,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Pilates?"
+    } ]
+  }, {
+    "tStartMs": 889559,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "If I make a lot of money later, I want to try one-on-one Pilates."
+    } ]
+  }, {
+    "tStartMs": 894679,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "With the intensity and posture that fits my body exactly."
+    } ]
+  }, {
+    "tStartMs": 901239,
+    "dDurationMs": 5361,
+    "segs": [ {
+      "utf8": "Do you know that? That Pilates is a person's name?"
+    } ]
+  }, {
+    "tStartMs": 906600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 908720,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "Joseph Pilates?"
+    } ]
+  }, {
+    "tStartMs": 911399,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "Is that the name of the person who developed it?"
+    } ]
+  }, {
+    "tStartMs": 912920,
+    "dDurationMs": 6359,
+    "segs": [ {
+      "utf8": "Yes. And as you can tell from the name, he was a man."
+    } ]
+  }, {
+    "tStartMs": 919279,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "It's an exercise developed by a man."
+    } ]
+  }, {
+    "tStartMs": 920920,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "I think I've heard of that."
+    } ]
+  }, {
+    "tStartMs": 925399,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "But in Korea, there's an image that women do it."
+    } ]
+  }, {
+    "tStartMs": 928839,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 931000,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "Like, it seems like a pretty female instructor would teach it."
+    } ]
+  }, {
+    "tStartMs": 934679,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "That doesn't seem good."
+    } ]
+  }, {
+    "tStartMs": 936040,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 938200,
+    "dDurationMs": 639,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 938839,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Well, just the fact that there's such an image."
+    } ]
+  }, {
+    "tStartMs": 941119,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Oh, I see. It might be difficult for men to do it."
+    } ]
+  }, {
+    "tStartMs": 945839,
+    "dDurationMs": 1881,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 947720,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "People say it's really good, Pilates."
+    } ]
+  }, {
+    "tStartMs": 949399,
+    "dDurationMs": 5321,
+    "segs": [ {
+      "utf8": "But it's an exercise with lots of benefits regardless of gender, and that's true for all exercises, right?"
+    } ]
+  }, {
+    "tStartMs": 954720,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Yes. Ah."
+    } ]
+  }, {
+    "tStartMs": 956480,
+    "dDurationMs": 6079,
+    "segs": [ {
+      "utf8": "But for example, in Korea, running is something only men do."
+    } ]
+  }, {
+    "tStartMs": 962559,
+    "dDurationMs": 4161,
+    "segs": [ {
+      "utf8": "If there's a perception like this, that's a huge problem, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 966720,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "You're right. You found a problem."
+    } ]
+  }, {
+    "tStartMs": 969440,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 970559,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "Surprisingly, there don't seem to be many exercises that only men do."
+    } ]
+  }, {
+    "tStartMs": 975040,
+    "dDurationMs": 3359,
+    "segs": [ {
+      "utf8": "Are there exercises only men do these days?"
+    } ]
+  }, {
+    "tStartMs": 978399,
+    "dDurationMs": 7280,
+    "segs": [ {
+      "utf8": "Usually, ball sports are something women haven't done much since childhood."
+    } ]
+  }, {
+    "tStartMs": 985679,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 989200,
+    "dDurationMs": 11680,
+    "segs": [ {
+      "utf8": "But compared to a few years ago, now with fitness, fitnesss, weight training—those prejudices are gone, right?"
+    } ]
+  }, {
+    "tStartMs": 1000880,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1004720,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "I think they'll gradually disappear."
+    } ]
+  }, {
+    "tStartMs": 1005959,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "They'll gradually disappear."
+    } ]
+  }, {
+    "tStartMs": 1008000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "And there are a lot of women-only things like that."
+    } ]
+  }, {
+    "tStartMs": 1013200,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "That's right. There are women-only gyms."
+    } ]
+  }, {
+    "tStartMs": 1015399,
+    "dDurationMs": 6801,
+    "segs": [ {
+      "utf8": "Women-only gyms, women-only yoga, women-only Pilates—there are things like that."
+    } ]
+  }, {
+    "tStartMs": 1022200,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Have you been to one?"
+    } ]
+  }, {
+    "tStartMs": 1023839,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I actually like that."
+    } ]
+  }, {
+    "tStartMs": 1027359,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "I got PT at a women-only place, and I did yoga at a women-only place too."
+    } ]
+  }, {
+    "tStartMs": 1033000,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "I got women-only PT."
+    } ]
+  }, {
+    "tStartMs": 1036079,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I got PT at a women-only gym."
+    } ]
+  }, {
+    "tStartMs": 1040119,
+    "dDurationMs": 5361,
+    "segs": [ {
+      "utf8": "But the trainers were men."
+    } ]
+  }, {
+    "tStartMs": 1045480,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "So I quit."
+    } ]
+  }, {
+    "tStartMs": 1050320,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "I got a refund, a refund."
+    } ]
+  }, {
+    "tStartMs": 1051799,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "There's a bit of a contradiction there."
+    } ]
+  }, {
+    "tStartMs": 1053279,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "That was inconvenient, what was inconvenient?"
+    } ]
+  }, {
+    "tStartMs": 1057559,
+    "dDurationMs": 7881,
+    "segs": [ {
+      "utf8": "I just don't want to think about anything, but then something comes up that makes me think about it?"
+    } ]
+  }, {
+    "tStartMs": 1065440,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "It's a women-only gym but the trainers are men."
+    } ]
+  }, {
+    "tStartMs": 1071040,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "During PT, there are breaks, right?"
+    } ]
+  }, {
+    "tStartMs": 1076200,
+    "dDurationMs": 7879,
+    "segs": [ {
+      "utf8": "The conversations we'd have during those times, that wasn't fun either."
+    } ]
+  }, {
+    "tStartMs": 1084079,
+    "dDurationMs": 4121,
+    "segs": [ {
+      "utf8": "I didn't like it, that experience."
+    } ]
+  }, {
+    "tStartMs": 1088200,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "I like swimming, swimming."
+    } ]
+  }, {
+    "tStartMs": 1089640,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Swimming?"
+    } ]
+  }, {
+    "tStartMs": 1092720,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I really want to learn swimming."
+    } ]
+  }, {
+    "tStartMs": 1095760,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "How about this summer?"
+    } ]
+  }, {
+    "tStartMs": 1097519,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "I don't think it'll work out."
+    } ]
+  }, {
+    "tStartMs": 1099720,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "You're busy, right?"
+    } ]
+  }, {
+    "tStartMs": 1100559,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1104559,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Swimming is all good, it's really all good."
+    } ]
+  }, {
+    "tStartMs": 1109279,
+    "dDurationMs": 5561,
+    "segs": [ {
+      "utf8": "The process is really the most annoying part, I think."
+    } ]
+  }, {
+    "tStartMs": 1114840,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 1116440,
+    "dDurationMs": 10440,
+    "segs": [ {
+      "utf8": "You have to shower before you go, shower when you're done, dry your hair, and you have to wash your clothes every single day."
+    } ]
+  }, {
+    "tStartMs": 1126880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But you shower in the morning anyway."
+    } ]
+  }, {
+    "tStartMs": 1130880,
+    "dDurationMs": 11880,
+    "segs": [ {
+      "utf8": "So I don't shower before going to the pool, I quickly shower in the shower room at the pool, swim, and then shower again to finish up."
+    } ]
+  }, {
+    "tStartMs": 1142760,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "Either way, my hair is going to dry anyway."
+    } ]
+  }, {
+    "tStartMs": 1144719,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "Thinking about it that way feels nice."
+    } ]
+  }, {
+    "tStartMs": 1146520,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Isn't that how it is?"
+    } ]
+  }, {
+    "tStartMs": 1147640,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "I wish I could do the morning session."
+    } ]
+  }, {
+    "tStartMs": 1149039,
+    "dDurationMs": 4841,
+    "segs": [ {
+      "utf8": "If I do the evening session, I might end up going twice, so."
+    } ]
+  }, {
+    "tStartMs": 1153880,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "That makes sense."
+    } ]
+  }, {
+    "tStartMs": 1154719,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "The morning session sounds good."
+    } ]
+  }, {
+    "tStartMs": 1156840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "If I do it, I'm planning to swim in the morning too."
+    } ]
+  }, {
+    "tStartMs": 1159880,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "I'm thinking I might do it too, this year."
+    } ]
+  }, {
+    "tStartMs": 1163599,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "I should look into morning swimming."
+    } ]
+  }, {
+    "tStartMs": 1166640,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Swimming has the fun of leveling up."
+    } ]
+  }, {
+    "tStartMs": 1170080,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1171080,
+    "dDurationMs": 5599,
+    "segs": [ {
+      "utf8": "Yes, at first you do half kicking, what we call a kickboard?"
+    } ]
+  }, {
+    "tStartMs": 1176679,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "You do it while holding a tube or something, and gradually you move up."
+    } ]
+  }, {
+    "tStartMs": 1182119,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "You learn freestyle, and you learn breaststroke like a frog."
+    } ]
+  }, {
+    "tStartMs": 1188239,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "If you go higher, you can learn butterfly."
+    } ]
+  }, {
+    "tStartMs": 1193159,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "You must be pretty good at swimming, Didi?"
+    } ]
+  }, {
+    "tStartMs": 1196039,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I haven't forgotten."
+    } ]
+  }, {
+    "tStartMs": 1201000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "I heard that when you go to a swimming class, they divide it into beginner, intermediate, and advanced?"
+    } ]
+  }, {
+    "tStartMs": 1209000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "They do divide it, they do."
+    } ]
+  }, {
+    "tStartMs": 1210000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What about you, Didi?"
+    } ]
+  }, {
+    "tStartMs": 1211000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I just do free swimming now."
+    } ]
+  }, {
+    "tStartMs": 1215000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You're at a stage where you don't need classes anymore?"
+    } ]
+  }, {
+    "tStartMs": 1218000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "Right. When I go, they just correct things like posture or technique based on what I already know."
+    } ]
+  }, {
+    "tStartMs": 1228000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Free swimming is nice."
+    } ]
+  }, {
+    "tStartMs": 1231000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "You did a lot of running last year, didn't you?"
+    } ]
+  }, {
+    "tStartMs": 1234000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1235000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Every single day for a whole year?"
+    } ]
+  }, {
+    "tStartMs": 1238000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I wanted to run, and from January to July I ran without missing a single day,"
+    } ]
+  }, {
+    "tStartMs": 1244000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "but I got COVID in July, and from then on I couldn't run every single day,"
+    } ]
+  }, {
+    "tStartMs": 1252000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "but I went out every single day and either walked or ran."
+    } ]
+  }, {
+    "tStartMs": 1257000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I was really shocked when I heard that."
+    } ]
+  }, {
+    "tStartMs": 1260000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "So you really did go out every single day."
+    } ]
+  }, {
+    "tStartMs": 1262000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Right. Literally, I really did go out every day."
+    } ]
+  }, {
+    "tStartMs": 1265000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "How about it? How's the running?"
+    } ]
+  }, {
+    "tStartMs": 1267000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Running... well, actually, it's been several years since I started running,"
+    } ]
+  }, {
+    "tStartMs": 1273000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "and now I can't even remember what the difference was like between when I wasn't running and after I started."
+    } ]
+  }, {
+    "tStartMs": 1287000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You can't remember what life was like before running?"
+    } ]
+  }, {
+    "tStartMs": 1289000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Right. But it's really great."
+    } ]
+  }, {
+    "tStartMs": 1294000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "First of all, my fitness level went up, so I don't get tired as easily,"
+    } ]
+  }, {
+    "tStartMs": 1303000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "and these days I see a lot of people my age and younger friends who struggle even going up a few stairs,"
+    } ]
+  }, {
+    "tStartMs": 1311000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "but I don't have that problem."
+    } ]
+  }, {
+    "tStartMs": 1314000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I think my fitness has really improved."
+    } ]
+  }, {
+    "tStartMs": 1316000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "Yes. And since I mainly run outside, the overall energy of my day, the mood, those kinds of things feel good too."
+    } ]
+  }, {
+    "tStartMs": 1329000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I see. Running really is a great exercise, and it doesn't cost anything."
+    } ]
+  }, {
+    "tStartMs": 1335000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Well, running shoes do cost something, but that's not much."
+    } ]
+  }, {
+    "tStartMs": 1341000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "I have a student who's been running for a really long time."
+    } ]
+  }, {
+    "tStartMs": 1349000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "They're in their 50s now, so they've been doing it for almost their whole life,"
+    } ]
+  }, {
+    "tStartMs": 1356000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "and watching them, what I felt was that exercise itself has meaning,"
+    } ]
+  }, {
+    "tStartMs": 1363000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "but when you exercise, you keep paying attention to what you eat and your health."
+    } ]
+  }, {
+    "tStartMs": 1371000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Since it leads to those things, it seems good in other ways too."
+    } ]
+  }, {
+    "tStartMs": 1375000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, that does seem right."
+    } ]
+  }, {
+    "tStartMs": 1377000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "You naturally think, I should eat protein. More than carbs, since I exercised, I should eat this."
+    } ]
+  }, {
+    "tStartMs": 1387000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "You keep thinking about it. So maybe that's why exercise is meaningful. Maybe it has meaning."
+    } ]
+  }, {
+    "tStartMs": 1395000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's right. Yes. Yes."
+    } ]
+  }, {
+    "tStartMs": 1398000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I paid attention to what I ate too, last year. What do you think?"
+    } ]
+  }, {
+    "tStartMs": 1403000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I haven't paid attention to that in so long."
+    } ]
+  }, {
+    "tStartMs": 1409000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "But I also tend to pay attention to what I eat pretty often."
+    } ]
+  }, {
+    "tStartMs": 1416000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I always try to eat clean when possible. And I don't drink much alcohol either."
+    } ]
+  }, {
+    "tStartMs": 1423000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "And I don't really drink cola or soft drinks like that. I only drink water, or sometimes milk."
+    } ]
+  }, {
+    "tStartMs": 1432000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When you order chicken?"
+    } ]
+  }, {
+    "tStartMs": 1434000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I just eat the chicken by itself."
+    } ]
+  }, {
+    "tStartMs": 1438000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Hamburger?"
+    } ]
+  }, {
+    "tStartMs": 1439000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I just eat the hamburger by itself."
+    } ]
+  }, {
+    "tStartMs": 1443000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't order a set?"
+    } ]
+  }, {
+    "tStartMs": 1445000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Right. I don't eat it. I don't even understand why people eat it anymore."
+    } ]
+  }, {
+    "tStartMs": 1450000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Wow. So that can happen."
+    } ]
+  }, {
+    "tStartMs": 1453000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Yes. What's interesting is that I really ate all of that when I was younger."
+    } ]
+  }, {
+    "tStartMs": 1461000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I really drank all that cola and stuff."
+    } ]
+  }, {
+    "tStartMs": 1465000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Even when I was just resting, I'd open cola and carbonated drinks like that and drink them by myself."
+    } ]
+  }, {
+    "tStartMs": 1472000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But I don't do that anymore."
+    } ]
+  }, {
+    "tStartMs": 1475000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But do you know this? There's a fitness YouTuber called Fitbly."
+    } ]
+  }, {
+    "tStartMs": 1481000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Fitbly."
+    } ]
+  }, {
+    "tStartMs": 1483000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Do you know that video where he ate cheese balls for the first time? That video?"
+    } ]
+  }, {
+    "tStartMs": 1489000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wasn't that during COVID?"
+    } ]
+  }, {
+    "tStartMs": 1491000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "Right. He's a fitness trainer, and there's this video where he eats cheese balls for the first time and almost tears up."
+    } ]
+  }, {
+    "tStartMs": 1502000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "So it's because you got used to it and forgot about it. You forgot. You can forget about that delicious taste."
+    } ]
+  }, {
+    "tStartMs": 1511000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1513000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Wow. You're so healthy. I'm jealous."
+    } ]
+  }, {
+    "tStartMs": 1519000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But you don't pour carbonated drinks like that into your body."
+    } ]
+  }, {
+    "tStartMs": 1524000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "And you exercise consistently."
+    } ]
+  }, {
+    "tStartMs": 1528000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Since you have to exercise the next day, you think about managing your condition so you try not to go to bed too late."
+    } ]
+  }, {
+    "tStartMs": 1537000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "And you try to go to bed as early as possible. You care about your condition."
+    } ]
+  }, {
+    "tStartMs": 1543000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But after doing that, it's like you forgot the taste of cola."
+    } ]
+  }, {
+    "tStartMs": 1551000,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "That strange feeling from back when you were in bad condition? Getting irritated easily."
+    } ]
+  }, {
+    "tStartMs": 1563000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Feeling lethargic."
+    } ]
+  }, {
+    "tStartMs": 1564000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Feeling lethargic and tired and not being able to concentrate. You forget about those things too."
+    } ]
+  }, {
+    "tStartMs": 1573000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "But then sometimes something special happens or there's a special event and your pattern breaks."
+    } ]
+  }, {
+    "tStartMs": 1581000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Then you feel it all over again at that moment. Your body feels so tired and lethargic."
+    } ]
+  }, {
+    "tStartMs": 1589000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Each time, I realize once again that it doesn't suit me."
+    } ]
+  }, {
+    "tStartMs": 1594000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I need to exercise."
+    } ]
+  }, {
+    "tStartMs": 1598000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "What do you think was the most helpful thing? When exercise became a habit and health became a habit?"
+    } ]
+  }, {
+    "tStartMs": 1606000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "But it would be different for each person, but the experience closest to what Didi asked earlier is"
+    } ]
+  }, {
+    "tStartMs": 1617000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "I told you my body was very weak. Even now my body isn't extremely good, but"
+    } ]
+  }, {
+    "tStartMs": 1625000,
+    "dDurationMs": 14000,
+    "segs": [ {
+      "utf8": "Back then it was unusually weak, and at that time, as much as I exercised, I could easily see my body improving and getting better."
+    } ]
+  }, {
+    "tStartMs": 1639000,
+    "dDurationMs": 14000,
+    "segs": [ {
+      "utf8": "It was so hard when doing it and the muscle soreness was so painful and difficult, but as much as that, when I looked in the mirror my appearance looked a bit more presentable, so"
+    } ]
+  }, {
+    "tStartMs": 1654000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "That was so fun. So in the beginning of this long period, I did it with that kind of joy, and"
+    } ]
+  }, {
+    "tStartMs": 1664000,
+    "dDurationMs": 12000,
+    "segs": [ {
+      "utf8": "Then somehow after that, I also found joy in the things I felt from the act of exercising itself, those thoughts, things like that, and"
+    } ]
+  }, {
+    "tStartMs": 1676000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "It changed one by one like that."
+    } ]
+  }, {
+    "tStartMs": 1680000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "It would definitely be fun if you can see it. You're doing well."
+    } ]
+  }, {
+    "tStartMs": 1686000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "So when I was doing public service, I was at the Gijang County Office, and at that county office there weren't just public service workers, but"
+    } ]
+  }, {
+    "tStartMs": 1696000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "There are soldiers called full-time soldiers who wear military uniforms and live a military life,"
+    } ]
+  }, {
+    "tStartMs": 1704000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Friends who commute to the county office. There are soldiers like that too. Like office workers."
+    } ]
+  }, {
+    "tStartMs": 1712000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But those guys also form groups of three or four among themselves and go around,"
+    } ]
+  }, {
+    "tStartMs": 1717000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "I was exercising and really enjoying it as a hobby, and when one of them passed by"
+    } ]
+  }, {
+    "tStartMs": 1726000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "It was quite a while later. After I entered the county office. A stranger."
+    } ]
+  }, {
+    "tStartMs": 1731000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But as he just passed by, that soldier in military uniform"
+    } ]
+  }, {
+    "tStartMs": 1735000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Said, \"Wow, you've gotten really big.\""
+    } ]
+  }, {
+    "tStartMs": 1738000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But I felt kind of proud."
+    } ]
+  }, {
+    "tStartMs": 1741000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Me? Like this."
+    } ]
+  }, {
+    "tStartMs": 1744000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "\"You've gotten really big.\" And he went on."
+    } ]
+  }, {
+    "tStartMs": 1747000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, that must have felt good."
+    } ]
+  }, {
+    "tStartMs": 1749000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It felt really good."
+    } ]
+  }, {
+    "tStartMs": 1751000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So that's the taste of it. I see."
+    } ]
+  }, {
+    "tStartMs": 1756000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "So that was also one of many opportunities, one of the reasons I came to like exercising more."
+    } ]
+  }, {
+    "tStartMs": 1765000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's fun."
+    } ]
+  }, {
+    "tStartMs": 1766000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So there are many pleasures in life like this."
+    } ]
+  }, {
+    "tStartMs": 1769000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "I want to know. The joy of exercise. I hope I'll understand it someday."
+    } ]
+  }, {
+    "tStartMs": 1776000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "If there are people listening to this podcast who really, really love exercising,"
+    } ]
+  }, {
+    "tStartMs": 1782000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I'd really like you to share a lot about the appeal of exercise."
+    } ]
+  }, {
+    "tStartMs": 1786000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And for people like me who don't like exercise, I hope listening to Taeyong's words"
+    } ]
+  }, {
+    "tStartMs": 1791000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "will give us some motivation."
+    } ]
+  }, {
+    "tStartMs": 1794000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That would be great."
+    } ]
+  }, {
+    "tStartMs": 1797000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Next week's topic is creating a playlist."
+    } ]
+  }, {
+    "tStartMs": 1801000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "We'll think a bit more about what kind of playlist to make,"
+    } ]
+  }, {
+    "tStartMs": 1806000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "and we'll create a podcast where the two of us discuss making one playlist together as our goal."
+    } ]
+  }, {
+    "tStartMs": 1815000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yes, so today we've talked about exercise from all angles,"
+    } ]
+  }, {
+    "tStartMs": 1821000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "and next week we'll have a time where we talk about music from all angles."
+    } ]
+  }, {
+    "tStartMs": 1828000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So this has been Didi and Jeong Taeyong. Thank you."
+    } ]
+  } ]
+}

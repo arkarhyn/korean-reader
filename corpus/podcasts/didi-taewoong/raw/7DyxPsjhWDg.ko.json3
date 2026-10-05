@@ -1,0 +1,4135 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "디디와 정태웅의 한국생활 요모조모"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "안녕하세요 디디입니다."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "안녕하세요 정태웅입니다."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "한국생활 요모조모는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다."
+    } ]
+  }, {
+    "tStartMs": 20000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "저번 주에는 오프라인으로 만나서 이야기를 해봤는데 부산 잘 돌아가셨나요?"
+    } ]
+  }, {
+    "tStartMs": 28000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네 다녀왔습니다."
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "도착하자마자 집앞에 있는 분식집에 가서 치즈라면을 한 그릇 먹고"
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맛있겠다"
+    } ]
+  }, {
+    "tStartMs": 37000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "네 그렇게 집에 돌아보니까 진짜 돌아온 것 같더라고요."
+    } ]
+  }, {
+    "tStartMs": 40000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "자주 가는 라면 집인가요? 분식집인가요?"
+    } ]
+  }, {
+    "tStartMs": 43000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니요 맛이 없어서"
+    } ]
+  }, {
+    "tStartMs": 45000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그래요? 뭐야"
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그때는 맛있었겠다. 배고팠을 테니까"
+    } ]
+  }, {
+    "tStartMs": 52000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그렇죠. 뭘 먹어도 맛있을 때 그런 곳을 가면"
+    } ]
+  }, {
+    "tStartMs": 56000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좀 괜찮죠"
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그렇죠. 공지사항이 하나 있습니다."
+    } ]
+  }, {
+    "tStartMs": 61000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "요모조모를 지금까지는 매주 이렇게 태웅쌤이 나와주셔서 했는데"
+    } ]
+  }, {
+    "tStartMs": 67000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "이제 다른 프로그램들을 제가 추가하게 돼서"
+    } ]
+  }, {
+    "tStartMs": 71000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "한 3주에 한 번씩 아니면 한 달에 한 번씩 요모조모를 만들어 보려고 해요."
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그래서 그동안 매주 나와주신 태웅쌤께 정말 감사드립니다."
+    } ]
+  }, {
+    "tStartMs": 82000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아닙니다. 저야말로 감사드리고요."
+    } ]
+  }, {
+    "tStartMs": 85000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니에요."
+    } ]
+  }, {
+    "tStartMs": 87000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "또 많지는 않지만 요모조모를 좋아해 주시는 구독자님들께도 너무"
+    } ]
+  }, {
+    "tStartMs": 93000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아니야 많아요. 많단 말이에요."
+    } ]
+  }, {
+    "tStartMs": 97000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "미미하지만 조금조금씩 듣는 분들이 많아지고 있어요."
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "스포티파이도 그렇고 유튜브도 그렇고 정말정말 감사합니다."
+    } ]
+  }, {
+    "tStartMs": 105000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 107000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그러면 우선 오늘은 시작하기 전에 태웅쌤께 질문이 하나 와가지고"
+    } ]
+  }, {
+    "tStartMs": 112000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "제가 그거 읽어볼게요."
+    } ]
+  }, {
+    "tStartMs": 115000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "저한테요?"
+    } ]
+  }, {
+    "tStartMs": 116000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "네. 태웅쌤께 드리는 질문인데 저한테 인스타 DM으로 물어보셨어요."
+    } ]
+  }, {
+    "tStartMs": 121000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "아이디는 기안 아니면 쥐안이라고 읽는 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 127000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "태웅쌤의 인스타그램 아이디 뜻이 궁금하다고 비보 에스타스라고 하는데"
+    } ]
+  }, {
+    "tStartMs": 135000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이분이 스페인어를 하신대요."
+    } ]
+  }, {
+    "tStartMs": 137000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "뭔가 약간 신기한 문법으로 너는 살아있다 이런 뜻인 것 같은데 맞냐고 물어보셨거든요."
+    } ]
+  }, {
+    "tStartMs": 145000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞나요?"
+    } ]
+  }, {
+    "tStartMs": 146000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "제 인스타 아이디 비보 에스타스보나는 스페인어는 아니고"
+    } ]
+  }, {
+    "tStartMs": 153000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "에스페란토어라는 언어입니다."
+    } ]
+  }, {
+    "tStartMs": 157000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "갑자기?"
+    } ]
+  }, {
+    "tStartMs": 160000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "폴란드의 자멘호프 박사님께서 만든 인공언어인데요."
+    } ]
+  }, {
+    "tStartMs": 169000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "사람이 인공적으로 만든 언어예요."
+    } ]
+  }, {
+    "tStartMs": 173000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "글자도 아니고 언어입니다."
+    } ]
+  }, {
+    "tStartMs": 176000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "그래서 그 언어를 그 박사님이 지구인이 모두 쓰는 인류 공용어"
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "인간들이 모두 같이 쓰는 언어로 쓰자 해서 만든 언어예요."
+    } ]
+  }, {
+    "tStartMs": 188000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "오래됐어요? 만든지가?"
+    } ]
+  }, {
+    "tStartMs": 190000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "꽤 오래됐을 거예요."
+    } ]
+  }, {
+    "tStartMs": 192000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "그래서 그 언어를 쓰는 사람들이 지구 곳곳에 조금씩 있어요."
+    } ]
+  }, {
+    "tStartMs": 200000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "그래서 저도 우연히 그 언어를 알게 돼서 너무 매력적이라고 생각을 하게 됐어요."
+    } ]
+  }, {
+    "tStartMs": 210000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그래서 한때 그걸 좀 배워보려고 했었는데"
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "제 아이디 비보 에스타스보나는 에스페란토어로"
+    } ]
+  }, {
+    "tStartMs": 219000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "무슨 뜻이죠?"
+    } ]
+  }, {
+    "tStartMs": 220000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Life is good이라는 뜻입니다."
+    } ]
+  }, {
+    "tStartMs": 224000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "삶은 좋다."
+    } ]
+  }, {
+    "tStartMs": 226000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "인생은 좋은 것이다."
+    } ]
+  }, {
+    "tStartMs": 228000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "인생은 좋으니까 즐겁게 살자."
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그렇구나."
+    } ]
+  }, {
+    "tStartMs": 233000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "이거를 인류 공용어로 쓰니까 멋있더라고요."
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "그러네요. 그 언어를 알고 계신다면 전세계에 있는 사람들이 다 알아볼 수 있는 단어네요."
+    } ]
+  }, {
+    "tStartMs": 248000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그렇죠."
+    } ]
+  }, {
+    "tStartMs": 250000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그 의도로 하면?"
+    } ]
+  }, {
+    "tStartMs": 252000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 253000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그렇다고 합니다."
+    } ]
+  }, {
+    "tStartMs": 255000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "되게 스페인어랑 비슷하네요."
+    } ]
+  }, {
+    "tStartMs": 257000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네. 좀 많이 비슷해요."
+    } ]
+  }, {
+    "tStartMs": 259000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "신기하네요."
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "저는 갑자기 질문이 있다고 해서 놀랐잖아요."
+    } ]
+  }, {
+    "tStartMs": 265000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "매주 이렇게 당황을 시키고 있습니다."
+    } ]
+  }, {
+    "tStartMs": 268000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그러면 이제 다시 본격적으로 요모조모 테마 소개해주세요."
+    } ]
+  }, {
+    "tStartMs": 273000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이번주 주제는 뭐죠?"
+    } ]
+  }, {
+    "tStartMs": 275000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "네. 이번주의 주제는 바로 낯가림입니다."
+    } ]
+  }, {
+    "tStartMs": 279000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그러니까 낯가림으로 태용쌤이 저번주에 제안해주셨어요."
+    } ]
+  }, {
+    "tStartMs": 284000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "혹시나 제안한 이유가 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 287000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "우리가 지난주에 직접 만난게 처음이었잖아요."
+    } ]
+  }, {
+    "tStartMs": 293000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠."
+    } ]
+  }, {
+    "tStartMs": 295000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "그래서 낯가림이 있었나? 없었나? 그런가 싶어서."
+    } ]
+  }, {
+    "tStartMs": 302000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "낯가림이 발동됐나? 안됐나?"
+    } ]
+  }, {
+    "tStartMs": 304000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "어때요? 태용쌤은 평소에 낯을 좀 가린다고 생각해요? 자기가?"
+    } ]
+  }, {
+    "tStartMs": 310000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "저는 요즘은 안 가리는 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "요즘은?"
+    } ]
+  }, {
+    "tStartMs": 316000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 318000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "언제까지는 좀 가렸어요?"
+    } ]
+  }, {
+    "tStartMs": 320000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "제 생각엔 스무 살? 스물 한 살? 그렇게 20대 초반까지 많이 가렸던 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 331000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "근데 고쳐진 거예요?"
+    } ]
+  }, {
+    "tStartMs": 334000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠."
+    } ]
+  }, {
+    "tStartMs": 335000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "다양한 사람들을 강제로 많이 만나면서 사람들 앞에 나서야 할 때도 있었고"
+    } ]
+  }, {
+    "tStartMs": 346000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "모르는 사람한테 말을 걸어야 할 때도 있었고"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그런 경험들을 많이 하다 보니 낯가림이 없어졌는데"
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "디디님은 어떤 편이신지 묻기 전에"
+    } ]
+  }, {
+    "tStartMs": 358000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "낯가림이라는 단어 어렵지 않을지 모르겠네요."
+    } ]
+  }, {
+    "tStartMs": 364000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "낯가림은 여러가지 종류가 있을 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "제가 생각했을 때는 좀 낯선 사람을 만났을 때"
+    } ]
+  }, {
+    "tStartMs": 375000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "자기의 모습을 잘 드러낼 수가 없고"
+    } ]
+  }, {
+    "tStartMs": 377000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "자기 의견을 잘 표현할 수 없고"
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "좀 부끄러워하는 것도 있고"
+    } ]
+  }, {
+    "tStartMs": 384000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "말도 잘 안 나오고 하는 그런 증상들이 있잖아요."
+    } ]
+  }, {
+    "tStartMs": 389000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그래서 여러분들이 나라에도 여기에 해당되는 단어가 있을 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 395000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "영어로 제가 항상 저는 낯을 가려요 라고 표현하고 싶어서 좀 찾아보면"
+    } ]
+  }, {
+    "tStartMs": 401000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm shy with strangers 라고 나오거든요."
+    } ]
+  }, {
+    "tStartMs": 404000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "되게 직관적이네요."
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "네. 그러니까 그런 의미에서 보면 좀 낯선 사람들"
+    } ]
+  }, {
+    "tStartMs": 410000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "새로운 사람들을 만났을 때 부끄러워하거나 말을 잘 못하는 것인 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 418000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "이 정도면 대부분 무슨 뜻인지 아시겠죠?"
+    } ]
+  }, {
+    "tStartMs": 422000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아시겠죠."
+    } ]
+  }, {
+    "tStartMs": 424000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "근데 저는 사실 낯가림이 있었음에도 불구하고"
+    } ]
+  }, {
+    "tStartMs": 429000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "낯가림이라는 단어를 되게 늦게 들었어요."
+    } ]
+  }, {
+    "tStartMs": 434000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그래요?"
+    } ]
+  }, {
+    "tStartMs": 436000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 437000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "서울말이에요 이거?"
+    } ]
+  }, {
+    "tStartMs": 439000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "모르겠어요. 저도."
+    } ]
+  }, {
+    "tStartMs": 440000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "부산에서 잘 안 쓰나?"
+    } ]
+  }, {
+    "tStartMs": 442000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "근데 이상하게 저한테 너 낯가림 있네 뭐 이런 말을 한 사람은 없어서"
+    } ]
+  }, {
+    "tStartMs": 448000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "거기서 한 가지 알 수 있는 사실은"
+    } ]
+  }, {
+    "tStartMs": 452000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "진짜 낯을 가리는 사람한테는"
+    } ]
+  }, {
+    "tStartMs": 454000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 455000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "너 낯가리는구나 이렇게 말을 하기가 어렵다는 사실?"
+    } ]
+  }, {
+    "tStartMs": 459000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "아 맞죠. 보통은 자기 입으로 얘기하죠. 나는 낯을 가려 이런 식으로."
+    } ]
+  }, {
+    "tStartMs": 465000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 467000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "본인, 아 그래서 디디님은 지금은 낯가림이 있습니까?"
+    } ]
+  }, {
+    "tStartMs": 472000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "저는 낯을 가리는데"
+    } ]
+  }, {
+    "tStartMs": 478000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "그때는 내가 언제 낯을 가리는구나 하는 거를 좀 잘 알게 됐어요."
+    } ]
+  }, {
+    "tStartMs": 486000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "예를 들어서 저는 뭔가 내가 잘 보이고 싶어."
+    } ]
+  }, {
+    "tStartMs": 490000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "누군가가 나를 좋게 봐줬으면 좋겠어 라는 생각이 있을 때 낯을 가리는 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오."
+    } ]
+  }, {
+    "tStartMs": 498000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그런 부담감 때문에."
+    } ]
+  }, {
+    "tStartMs": 500000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 501000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "오. 그걸 느꼈어요."
+    } ]
+  }, {
+    "tStartMs": 504000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "저 사실은 나중에 낯가림 극복하는 팁 이런 거 얘기하게 되면 그 얘기를 하려고 했어요."
+    } ]
+  }, {
+    "tStartMs": 513000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 515000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "팁 먼저 알려주실래요 그럼?"
+    } ]
+  }, {
+    "tStartMs": 517000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그 진짜 아까 디디님이 말씀하신 대로"
+    } ]
+  }, {
+    "tStartMs": 520000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 521000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "막 중요하다고 생각하고 긴장하게 되면 낯가림을 하게 될 수밖에 없는 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 528000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음."
+    } ]
+  }, {
+    "tStartMs": 529000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그러면 어떻게 하면 좋으냐."
+    } ]
+  }, {
+    "tStartMs": 531000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "그 시간과 그 상대방을 중요하게 여기지 않으면 돼요."
+    } ]
+  }, {
+    "tStartMs": 540000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그게 어렵단 말이에요."
+    } ]
+  }, {
+    "tStartMs": 543000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "별거 아니다 이 사람."
+    } ]
+  }, {
+    "tStartMs": 545000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아."
+    } ]
+  }, {
+    "tStartMs": 546000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "나한테 중요하지 않다."
+    } ]
+  }, {
+    "tStartMs": 547000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "마인드 컨트롤."
+    } ]
+  }, {
+    "tStartMs": 548000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그렇게."
+    } ]
+  }, {
+    "tStartMs": 550000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아 근데 그게 팁이 될 수 있을 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 553000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음."
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "왜냐하면 내가 어떻다를 계속 생각하는 것보다"
+    } ]
+  }, {
+    "tStartMs": 557000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그러니까 나 잘 보여야 된다고 생각하지 말아야지."
+    } ]
+  }, {
+    "tStartMs": 561000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "막 완벽하려고 생각하지 말아야지."
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "이렇게 하는 것보다 저 상대방이 아무것도 아니다."
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "이렇게 생각하는 게 좀 더 편한 방법이 될 수 있을 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 570000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아 맞습니다."
+    } ]
+  }, {
+    "tStartMs": 571000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아. 맞아요."
+    } ]
+  }, {
+    "tStartMs": 572000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "잘 보이려고 하면은 낯을 가려요."
+    } ]
+  }, {
+    "tStartMs": 574000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 575000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그 내 모습이 아닌 모습을 자꾸 보여주게 돼서."
+    } ]
+  }, {
+    "tStartMs": 579000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠."
+    } ]
+  }, {
+    "tStartMs": 580000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "가끔은 뭐 머리도 안 감고 한번 밖에 나가보고."
+    } ]
+  }, {
+    "tStartMs": 584000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "중요해요."
+    } ]
+  }, {
+    "tStartMs": 585000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네. 네."
+    } ]
+  }, {
+    "tStartMs": 586000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그렇게 내가 막 편하게 하고 조금 망가지는 부분이 있어도"
+    } ]
+  }, {
+    "tStartMs": 592000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "큰일이 나지 않는다."
+    } ]
+  }, {
+    "tStartMs": 594000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음."
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "나 중요한 사람은 그렇게 많이 없다."
+    } ]
+  }, {
+    "tStartMs": 598000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아요."
+    } ]
+  }, {
+    "tStartMs": 599000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "다른 사람은 날 그렇게 생각하지 않는다."
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 10600,
+    "segs": [ {
+      "utf8": "일본어를 공부할 때 표현이 하나 있어서 배우게 됐는데 팔방미인 이라는 말이 있잖아요."
+    } ]
+  }, {
+    "tStartMs": 610600,
+    "dDurationMs": 12119,
+    "segs": [ {
+      "utf8": "팔방미인 증후군 이라는 그런 단어가 있더라구요. 나는 너무 완벽하려고 대하다 보면 거기에 스트레스 받고 잘 그런 본 모습이 안 나오고"
+    } ]
+  }, {
+    "tStartMs": 622719,
+    "dDurationMs": 14040,
+    "segs": [ {
+      "utf8": "그래서 약간 저도 뭔가 그런 모습들이 있는 것 같아서 최근에는 망가질 용기 이런 거를 좀 키워봐야겠다 생각하고 있었어요."
+    } ]
+  }, {
+    "tStartMs": 636759,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "아주 좋은 생각입니다."
+    } ]
+  }, {
+    "tStartMs": 640119,
+    "dDurationMs": 9881,
+    "segs": [ {
+      "utf8": "근데 태웅쌤은 낯을 안 가린다고 했는데 그러면 이렇게 1대1 아니면 뭐 한 3대1 이렇게 만나는 거는 괜찮다 쳐도"
+    } ]
+  }, {
+    "tStartMs": 650000,
+    "dDurationMs": 6119,
+    "segs": [ {
+      "utf8": "사람이 엄청 많은 장소에 가도 낯가린다 하는 그런 느낌은 안 들어요?"
+    } ]
+  }, {
+    "tStartMs": 656119,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "안 드는 것 같아요 이제."
+    } ]
+  }, {
+    "tStartMs": 658240,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "편하네요?"
+    } ]
+  }, {
+    "tStartMs": 659439,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 661639,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "부럽다."
+    } ]
+  }, {
+    "tStartMs": 662759,
+    "dDurationMs": 8721,
+    "segs": [ {
+      "utf8": "언제부터 그랬는지 생각해 보면 그 영어 표현에 그런 거 있잖아요."
+    } ]
+  }, {
+    "tStartMs": 671480,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "He knows what he does. 이런 표현 있잖아요."
+    } ]
+  }, {
+    "tStartMs": 674480,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "저 사람은 자기가 뭘 하는 사람인지 알아."
+    } ]
+  }, {
+    "tStartMs": 678080,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "제가 좀 그 상태가 되고부터 그런 어색함이 좀 사라졌어요."
+    } ]
+  }, {
+    "tStartMs": 683800,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "I know what I do 인 거예요?"
+    } ]
+  }, {
+    "tStartMs": 685400,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 687639,
+    "dDurationMs": 9200,
+    "segs": [ {
+      "utf8": "나는 내가 어떤 일을 하는 사람이고 어떤 생각을 가지고 살고 그래서 누구랑 만났을 때 내가 뭘 한다 이렇게 얘기를 할 수 있고"
+    } ]
+  }, {
+    "tStartMs": 696839,
+    "dDurationMs": 4201,
+    "segs": [ {
+      "utf8": "그때부터 좀 그게 없어진 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 701040,
+    "dDurationMs": 8960,
+    "segs": [ {
+      "utf8": "맞네. 그러면 나를 잘 알고 상대방에 대한 부담을 좀 내려놓기 시작할 때부터?"
+    } ]
+  }, {
+    "tStartMs": 710000,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "음... 낯가림이라는 게 좀 없어졌다."
+    } ]
+  }, {
+    "tStartMs": 714639,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "음... 너무 편안할 것 같아요. 어딜 가도."
+    } ]
+  }, {
+    "tStartMs": 719879,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "제가 최근에 라이브에서 낯가림에 대해서 얘기했던 적이 있거든요."
+    } ]
+  }, {
+    "tStartMs": 726239,
+    "dDurationMs": 8561,
+    "segs": [ {
+      "utf8": "제가 낯가림 때문에 좀 고민이 많을 때 인터넷에서 막 극복하는 방법 이런 거 찾아보다가"
+    } ]
+  }, {
+    "tStartMs": 734800,
+    "dDurationMs": 7920,
+    "segs": [ {
+      "utf8": "낯가림은 딱히 극복하지 않아도 된다라는 말이 있어서 거기에 대해 한 번 얘기한 적이 있는데"
+    } ]
+  }, {
+    "tStartMs": 742720,
+    "dDurationMs": 10199,
+    "segs": [ {
+      "utf8": "사실 뭔가 내양적인 사람들 아니면 낯을 가리는 사람들 이런 것들이 안 좋거나 콤플렉스로 생각하시는 분들이 많은데"
+    } ]
+  }, {
+    "tStartMs": 752919,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "결국에는 그 장점들도 있으니까 그걸 잘 활용하면 더 다른 좋은 방향으로 갈 수 있다라는 내용이었어요."
+    } ]
+  }, {
+    "tStartMs": 762919,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "장점에는 뭐가 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 765320,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "관찰력이 좋은 사람들이 많은 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 769720,
+    "dDurationMs": 9600,
+    "segs": [ {
+      "utf8": "그러니까 상대가 다 파악되기 전까지는 자기 모습을 안 내놓는 분들이 많은 것 같거든요."
+    } ]
+  }, {
+    "tStartMs": 779320,
+    "dDurationMs": 11359,
+    "segs": [ {
+      "utf8": "그래서 그 계속 주변을 관찰하고 다른 사람들의 관계를 파악하려고 하는 그런 성향이 있는 것 같아서 관찰력이 좀 좋은 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 790679,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "이야... 위험한 사람인데?"
+    } ]
+  }, {
+    "tStartMs": 793080,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "왜요?"
+    } ]
+  }, {
+    "tStartMs": 793960,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "좋은 의미로."
+    } ]
+  }, {
+    "tStartMs": 796279,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "다 관찰당하고 있어요."
+    } ]
+  }, {
+    "tStartMs": 798919,
+    "dDurationMs": 11840,
+    "segs": [ {
+      "utf8": "그러면 디디님은 본인이 낯가림이 있는 거랑 별개로 또 자기 말고 낯가림이 있는 사람들을 만나본 적이 있을 거 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 810759,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 811479,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "그럴 때 어땠어요?"
+    } ]
+  }, {
+    "tStartMs": 813160,
+    "dDurationMs": 9519,
+    "segs": [ {
+      "utf8": "예를 들어서 1대1로 만날 때 나보다 조용한 사람, 나보다 낯을 가리는 사람이랑 있을 때는 말이 오히려 더 편하게 나오는 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 822679,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 826759,
+    "dDurationMs": 7601,
+    "segs": [ {
+      "utf8": "내양인들만 모인 자리에서는 강제로 외향인이 발생한다는 이야기 같네요."
+    } ]
+  }, {
+    "tStartMs": 834360,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "맞아요."
+    } ]
+  }, {
+    "tStartMs": 835960,
+    "dDurationMs": 9679,
+    "segs": [ {
+      "utf8": "근데 제가 예전에 디디님한테 얘기했던 것 같은데 그런 모임 갔을 때 저는 낯가린다고 했잖아요."
+    } ]
+  }, {
+    "tStartMs": 845639,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그러니까요. 말 잘 못한다고?"
+    } ]
+  }, {
+    "tStartMs": 847639,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "네. 그러고 보니까."
+    } ]
+  }, {
+    "tStartMs": 849880,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니 근데 차이를 알았어요."
+    } ]
+  }, {
+    "tStartMs": 851880,
+    "dDurationMs": 5679,
+    "segs": [ {
+      "utf8": "저 최근에 서울 올라가서 유튜브 행사 갔을 때는 낯 안 가렸거든요."
+    } ]
+  }, {
+    "tStartMs": 857559,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 859239,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "낯 안 가렸어요?"
+    } ]
+  }, {
+    "tStartMs": 860200,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "네. 근데 문제가 뭐였는지 생각해 보니까 여자들만 있는 모임에 가게 돼서 낯을 많이 가렸던 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 869720,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "근데 태용쌤은 여자들이랑 얘기하는 거 괜찮은 편 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 873239,
+    "dDurationMs": 9921,
+    "segs": [ {
+      "utf8": "괜찮은 편인데 여자들 20명 있는데 나 혼자 있으면 그건 좀 다른 문제죠."
+    } ]
+  }, {
+    "tStartMs": 883160,
+    "dDurationMs": 3679,
+    "segs": [ {
+      "utf8": "그거는 진짜 쉽게 경험할 수 없는 상황이네요."
+    } ]
+  }, {
+    "tStartMs": 886839,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 887799,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "나랑 다른 선별의 사람들이."
+    } ]
+  }, {
+    "tStartMs": 890200,
+    "dDurationMs": 3199,
+    "segs": [ {
+      "utf8": "네. 그랬구나."
+    } ]
+  }, {
+    "tStartMs": 893399,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "그러면 할 말이 생각이 안 날 것 같아요."
+    } ]
+  }, {
+    "tStartMs": 895720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "할 얘기도 없고."
+    } ]
+  }, {
+    "tStartMs": 897720,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "그리고 하는 얘기에 끼어들지도 못하고."
+    } ]
+  }, {
+    "tStartMs": 901239,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "괜히 나만 껴있는 느낌."
+    } ]
+  }, {
+    "tStartMs": 903239,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 903880,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "그랬겠네."
+    } ]
+  }, {
+    "tStartMs": 904679,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "그게 그 당시에 큰 모임에 갔던 마지막 기억이라."
+    } ]
+  }, {
+    "tStartMs": 909320,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 910119,
+    "dDurationMs": 6801,
+    "segs": [ {
+      "utf8": "네. 제가 그 당시에 디디님한테 저 그런 모임 가면 난 많이 가립니다. 이렇게 얘기를 했었는데."
+    } ]
+  }, {
+    "tStartMs": 916920,
+    "dDurationMs": 6479,
+    "segs": [ {
+      "utf8": "지금 생각해보면 그런 특수한 상황이 아니라면 많이 안 가리는 것 같습니다."
+    } ]
+  }, {
+    "tStartMs": 923399,
+    "dDurationMs": 10880,
+    "segs": [ {
+      "utf8": "그렇구나. 그러면 저저번 주에 만났을 때 이렇게 온라인으로 대화를 엄청 많이 하고 만나는 경우 많아요? 태용쌤은?"
+    } ]
+  }, {
+    "tStartMs": 934279,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "몇 번 있었어요."
+    } ]
+  }, {
+    "tStartMs": 937320,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "그때마다 어때요?"
+    } ]
+  }, {
+    "tStartMs": 939559,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "어... 그렇게 어색하지는 않았어요."
+    } ]
+  }, {
+    "tStartMs": 943959,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "어색하진 않아요?"
+    } ]
+  }, {
+    "tStartMs": 945239,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 946839,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "그렇다고 아주 편한 건 아니지만."
+    } ]
+  }, {
+    "tStartMs": 949239,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "뭔가 좀 있지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 951880,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "네. 뭔가 다름이 있어요."
+    } ]
+  }, {
+    "tStartMs": 954839,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "이상한 느낌이 있어요."
+    } ]
+  }, {
+    "tStartMs": 956600,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 958279,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "맞아. 신기한 느낌."
+    } ]
+  }, {
+    "tStartMs": 961079,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "확실히 화면 너머로 볼 때랑 직접 볼 때랑 다른데."
+    } ]
+  }, {
+    "tStartMs": 965000,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "연예인 만나는 느낌."
+    } ]
+  }, {
+    "tStartMs": 966760,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "그런 느낌으로 화면으로 보다가 실제로 만나면 전 그래요."
+    } ]
+  }, {
+    "tStartMs": 970920,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "그렇죠."
+    } ]
+  }, {
+    "tStartMs": 971959,
+    "dDurationMs": 7361,
+    "segs": [ {
+      "utf8": "저는 아까 디디님한테 다른 낯가림이 있는 사람 만나면 어떠냐고 물어본 이유가."
+    } ]
+  }, {
+    "tStartMs": 979320,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 980200,
+    "dDurationMs": 9599,
+    "segs": [ {
+      "utf8": "저는 가끔 낯가림이 너무 심한 사람이랑 있으면 좀 주눅이 들 때가 있거든요."
+    } ]
+  }, {
+    "tStartMs": 989799,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "주눅이 들어요?"
+    } ]
+  }, {
+    "tStartMs": 991079,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "주눅이 드는 때가. 네."
+    } ]
+  }, {
+    "tStartMs": 992679,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "네. 왜요?"
+    } ]
+  }, {
+    "tStartMs": 993720,
+    "dDurationMs": 4639,
+    "segs": [ {
+      "utf8": "주눅들다 자신감이 없어지고 좀 마음이 약해진다는 말이죠."
+    } ]
+  }, {
+    "tStartMs": 998359,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 999399,
+    "dDurationMs": 5921,
+    "segs": [ {
+      "utf8": "아니 나한테 관심이 없나? 내가 싫은가? 이렇게."
+    } ]
+  }, {
+    "tStartMs": 1005320,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "반대로?"
+    } ]
+  }, {
+    "tStartMs": 1006359,
+    "dDurationMs": 8961,
+    "segs": [ {
+      "utf8": "네. 계속 분위기를 좋게 만들어 보려고 질문을 하고 이런저런 이야기를 하는데"
+    } ]
+  }, {
+    "tStartMs": 1015320,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "낯가림이 너무 심해서 상대방이."
+    } ]
+  }, {
+    "tStartMs": 1018839,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "대화가 안 된다. 그러면 내가 싫나?"
+    } ]
+  }, {
+    "tStartMs": 1023799,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "좀 그럴 때가 있더라고요."
+    } ]
+  }, {
+    "tStartMs": 1026600,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "그렇구나."
+    } ]
+  }, {
+    "tStartMs": 1027799,
+    "dDurationMs": 5841,
+    "segs": [ {
+      "utf8": "근데 또 그런 사람들 입장에서는 너무 미안할 수도 있을 거 아니에요."
+    } ]
+  }, {
+    "tStartMs": 1033640,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "자신을 탓하고 있을걸요 지금. 나는 그렇게 말을 못하지."
+    } ]
+  }, {
+    "tStartMs": 1037959,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "음. 그러니까?"
+    } ]
+  }, {
+    "tStartMs": 1040600,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저 사람도 재미없겠지? 이러면서."
+    } ]
+  }, {
+    "tStartMs": 1042600,
+    "dDurationMs": 10239,
+    "segs": [ {
+      "utf8": "음. 그러면 그들을 위해 해줄 수 있는 최고의 방법?"
+    } ]
+  }, {
+    "tStartMs": 1052839,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "저 알아요."
+    } ]
+  }, {
+    "tStartMs": 1053880,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "어? 뭐예요?"
+    } ]
+  }, {
+    "tStartMs": 1056200,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "그 사람에 대한 질문을 많이 해주는 거?"
+    } ]
+  }, {
+    "tStartMs": 1059320,
+    "dDurationMs": 639,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1059959,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "그 사람의 얘기를 좀 할 수 있게 하는 거?"
+    } ]
+  }, {
+    "tStartMs": 1062760,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1063559,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "저는 그게 좋은 거 같아요. 아 저한테만 해당하는 걸 수도 있는데."
+    } ]
+  }, {
+    "tStartMs": 1068040,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "디디 사용법."
+    } ]
+  }, {
+    "tStartMs": 1069079,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1069880,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "뭔가 저는 낯가림이 좀 자기 모습을 잘 드러내지 않아서 나오는 거라고 생각하기 때문에"
+    } ]
+  }, {
+    "tStartMs": 1077720,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "계속 질문만 하는 경우가 있거든요. 내 얘기를 잘 안 하고."
+    } ]
+  }, {
+    "tStartMs": 1083559,
+    "dDurationMs": 8321,
+    "segs": [ {
+      "utf8": "그러니까 그때 나한테도 질문을 좀 해주면 점점 이야기도 하기 시작하면서 마음이 좀 열리는 거 같아요."
+    } ]
+  }, {
+    "tStartMs": 1091880,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "오. 반대로 자기 얘기를 하게 해야 한다?"
+    } ]
+  }, {
+    "tStartMs": 1099480,
+    "dDurationMs": 9359,
+    "segs": [ {
+      "utf8": "음. 근데 또 그 얘기를 좀 어려워하는 거 같으면 내 에피소드를 먼저 들려주는 것도 방법일 거 같아요."
+    } ]
+  }, {
+    "tStartMs": 1108839,
+    "dDurationMs": 6001,
+    "segs": [ {
+      "utf8": "음. 되게 좋은 접근 같아요."
+    } ]
+  }, {
+    "tStartMs": 1114840,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "그랬으면 좋겠네요. 혹시나."
+    } ]
+  }, {
+    "tStartMs": 1117320,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "네. 저는 그게 굉장히 좋은 대화라고 생각합니다."
+    } ]
+  }, {
+    "tStartMs": 1121159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "마음에 문을 여는 대화법."
+    } ]
+  }, {
+    "tStartMs": 1123159,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1124599,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "제가 수업할 때도 저는 들어주는 입장이기 때문에 제 얘기를 많이 안 할 때도 있는데"
+    } ]
+  }, {
+    "tStartMs": 1132919,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "어떤 학생 중에는 제 이야기를 물어봐주시는 분들이 많거든요."
+    } ]
+  }, {
+    "tStartMs": 1137479,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "그런 분들한테는 확실히 더 마음이 열리는 느낌이 있어요."
+    } ]
+  }, {
+    "tStartMs": 1141000,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "아 그렇구나."
+    } ]
+  }, {
+    "tStartMs": 1142440,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "네. 이런 시덥지 않은 얘기도 받아주네 하는 그런."
+    } ]
+  }, {
+    "tStartMs": 1146520,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "음. 학생분들은 참고하시면 되겠네요."
+    } ]
+  }, {
+    "tStartMs": 1151400,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "다 좋습니다. 저의 학생분들과의 얘기는."
+    } ]
+  }, {
+    "tStartMs": 1155239,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "이렇게 낯가림에 대해서 오늘은 좀 얘기해봤는데"
+    } ]
+  }, {
+    "tStartMs": 1159799,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "이제부터 요모조모를 코너를 하나 더 추가해서 만들어보려고 합니다."
+    } ]
+  }, {
+    "tStartMs": 1164679,
+    "dDurationMs": 3601,
+    "segs": [ {
+      "utf8": "그래서 또 다음 코너로 넘어가 보겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1168520,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "말로 하는 미니게임"
+    } ]
+  }, {
+    "tStartMs": 1178520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "이번 코너는 말로 하는 미니게임이라는 코너인데요."
+    } ]
+  }, {
+    "tStartMs": 1182520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "제가 이제 태용쌤 하면 떠오르는 이미지 중에"
+    } ]
+  }, {
+    "tStartMs": 1186520,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "그 컴프리엔시블 인프 코리안 채널에서 게임을 하시는 이미지가 좀 있어가지고"
+    } ]
+  }, {
+    "tStartMs": 1192760,
+    "dDurationMs": 4479,
+    "segs": [ {
+      "utf8": "거기에 맞춰서 게임을 간단하게 할 수 있는 시간을 준비해봤어요."
+    } ]
+  }, {
+    "tStartMs": 1197239,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "그래서 말로 하는 게임이기 때문에 여러분들도 보셨으면 좋겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1201000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "귀로만 들으실 수 있는 게임들이에요."
+    } ]
+  }, {
+    "tStartMs": 1204000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그래서 예를 들면 대표적인 게 한국 게임 중에 끝말잇기라는 게임이 있어요."
+    } ]
+  }, {
+    "tStartMs": 1210000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "단어 여러 개를 서로 하나씩 이야기하는데 끝날 때 그...뭐라고 하죠? 끝단어?"
+    } ]
+  }, {
+    "tStartMs": 1219000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "끝글자?"
+    } ]
+  }, {
+    "tStartMs": 1220000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "끝글자를 이어서 이야기하는 거."
+    } ]
+  }, {
+    "tStartMs": 1223000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그런 게임들이 있어서 매회 다른 게임으로 준비해봤습니다."
+    } ]
+  }, {
+    "tStartMs": 1229000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어떠세요?"
+    } ]
+  }, {
+    "tStartMs": 1231000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "좋습니다."
+    } ]
+  }, {
+    "tStartMs": 1232000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "재밌을까요?"
+    } ]
+  }, {
+    "tStartMs": 1233000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네, 그럼요."
+    } ]
+  }, {
+    "tStartMs": 1235000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "열심히 기획했어요."
+    } ]
+  }, {
+    "tStartMs": 1237000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "근데 이기면 뭐가 좋나요?"
+    } ]
+  }, {
+    "tStartMs": 1239000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "이기면? 그런 게 있어야 승부가 재밌어지는 건가요?"
+    } ]
+  }, {
+    "tStartMs": 1243000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "제가 게임을 잘 안 해서."
+    } ]
+  }, {
+    "tStartMs": 1245000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그럼 이렇게 하죠."
+    } ]
+  }, {
+    "tStartMs": 1247000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "진 사람이 다음 주 주제 정하기?"
+    } ]
+  }, {
+    "tStartMs": 1252000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "벌칙이 돼버리잖아요, 그러면."
+    } ]
+  }, {
+    "tStartMs": 1255000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아, 이긴 사람한테 상을 주는 방식으로."
+    } ]
+  }, {
+    "tStartMs": 1259000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "일단은 그건 좀 더 고민해볼게요."
+    } ]
+  }, {
+    "tStartMs": 1261000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네, 좋습니다."
+    } ]
+  }, {
+    "tStartMs": 1263000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "점수를 쌓아가는 식으로 해보죠."
+    } ]
+  }, {
+    "tStartMs": 1266000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그래서 이번 에피소드에서 해볼 게임은 스무고개라는 게임입니다."
+    } ]
+  }, {
+    "tStartMs": 1272000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어떤 게임인지 아시나요?"
+    } ]
+  }, {
+    "tStartMs": 1274000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "스무고개, 고개를 스무 번 넘는다는 말인데"
+    } ]
+  }, {
+    "tStartMs": 1278000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "문제를 내는 사람과 문제를 푸는 사람이 있습니다."
+    } ]
+  }, {
+    "tStartMs": 1283000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "문제를 내는 사람은 마음속에 정답 단어를 생각해요."
+    } ]
+  }, {
+    "tStartMs": 1290000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "그러면 문제를 푸는 사람은 그 정답이 뭔지 알아내야 하는데"
+    } ]
+  }, {
+    "tStartMs": 1297000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "그 답을 알아내기 위한 질문을 스무 번 할 수 있어요."
+    } ]
+  }, {
+    "tStartMs": 1301000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞아요."
+    } ]
+  }, {
+    "tStartMs": 1302000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "근데 그게 yes or no만 되나요?"
+    } ]
+  }, {
+    "tStartMs": 1305000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "맞아요. yes or no만 돼요. 네, 아니요."
+    } ]
+  }, {
+    "tStartMs": 1308000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아, 그렇구나."
+    } ]
+  }, {
+    "tStartMs": 1310000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그거는 스무 번 질문 그 안에 다 정답을 맞춰야지 이기는 거고"
+    } ]
+  }, {
+    "tStartMs": 1316000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "넘어가면 지는 거죠?"
+    } ]
+  }, {
+    "tStartMs": 1318000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "스무 개라고 하면 아주 충분한 질문을 할 수 있는데"
+    } ]
+  }, {
+    "tStartMs": 1323000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "또 어떤 단어를 선택하느냐에 따라서 못 맞추게 될 수도 있어요."
+    } ]
+  }, {
+    "tStartMs": 1329000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "너무 어려운 단어는 하지 말죠."
+    } ]
+  }, {
+    "tStartMs": 1331000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그럼요. 오늘 첫 번째 게임인데."
+    } ]
+  }, {
+    "tStartMs": 1334000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "백상아리 이런 거 하면 절대 못 맞추잖아요."
+    } ]
+  }, {
+    "tStartMs": 1337000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "조스바 이런 거."
+    } ]
+  }, {
+    "tStartMs": 1339000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "완전 뜬금없는 거."
+    } ]
+  }, {
+    "tStartMs": 1341000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "이거 근데 좀 빨리 끝나니까 하나씩 출제해보죠."
+    } ]
+  }, {
+    "tStartMs": 1346000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "하나씩? 근데 비슷한 단어들이 있는 경우는 어떻게 하죠?"
+    } ]
+  }, {
+    "tStartMs": 1351000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "비슷한 단어?"
+    } ]
+  }, {
+    "tStartMs": 1353000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그런 거 양심껏 해야 하나?"
+    } ]
+  }, {
+    "tStartMs": 1355000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "비슷한 단어? 뭘 하시려고 하는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 1358000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아니, 예를 들면 물고기랑 생선."
+    } ]
+  }, {
+    "tStartMs": 1362000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아."
+    } ]
+  }, {
+    "tStartMs": 1364000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "이거는 사실상 같은 뜻이잖아요."
+    } ]
+  }, {
+    "tStartMs": 1368000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "물고기랑 생선이라... 생선은 근데 먹는..."
+    } ]
+  }, {
+    "tStartMs": 1372000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그렇긴 한데 생선은 먹을 때 쓰는 말이고"
+    } ]
+  }, {
+    "tStartMs": 1377000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "물고기는 살아있는 걸 말하는 말인데"
+    } ]
+  }, {
+    "tStartMs": 1380000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "네. 그것까지 정확히 구분하죠."
+    } ]
+  }, {
+    "tStartMs": 1383000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아, 그것까지?"
+    } ]
+  }, {
+    "tStartMs": 1384000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "한국어 전문가이기 때문에."
+    } ]
+  }, {
+    "tStartMs": 1386000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "알겠습니다. 좋습니다."
+    } ]
+  }, {
+    "tStartMs": 1388000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네. 저는 생각했어요."
+    } ]
+  }, {
+    "tStartMs": 1390000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "저도요."
+    } ]
+  }, {
+    "tStartMs": 1391000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "제가 먼저 맞춰볼게요."
+    } ]
+  }, {
+    "tStartMs": 1392000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아, 네. 좋아요."
+    } ]
+  }, {
+    "tStartMs": 1394000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "생각하셨나요?"
+    } ]
+  }, {
+    "tStartMs": 1395000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네. 첫 번째."
+    } ]
+  }, {
+    "tStartMs": 1398000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "먹을 수 있나요?"
+    } ]
+  }, {
+    "tStartMs": 1399000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아니요."
+    } ]
+  }, {
+    "tStartMs": 1400000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "공간인가요?"
+    } ]
+  }, {
+    "tStartMs": 1402000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아니요."
+    } ]
+  }, {
+    "tStartMs": 1403000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "먹을 수 없고 공간도 아니면 사람인가요?"
+    } ]
+  }, {
+    "tStartMs": 1406000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니요."
+    } ]
+  }, {
+    "tStartMs": 1408000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "동물이죠?"
+    } ]
+  }, {
+    "tStartMs": 1409000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아니요."
+    } ]
+  }, {
+    "tStartMs": 1410000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "지금 4개 했습니다."
+    } ]
+  }, {
+    "tStartMs": 1415000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이거 어렵겠는데?"
+    } ]
+  }, {
+    "tStartMs": 1417000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "눈으로 볼 수 있어요?"
+    } ]
+  }, {
+    "tStartMs": 1419000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1420000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "눈으로 볼 수 있습니다."
+    } ]
+  }, {
+    "tStartMs": 1423000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "만질 수 있나요?"
+    } ]
+  }, {
+    "tStartMs": 1424000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그렇습니다."
+    } ]
+  }, {
+    "tStartMs": 1426000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아, 나 질문 안 좋게 하는 것 같아."
+    } ]
+  }, {
+    "tStartMs": 1429000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "만질 수 있고."
+    } ]
+  }, {
+    "tStartMs": 1431000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "태용쌤은 이거를 매일 보세요?"
+    } ]
+  }, {
+    "tStartMs": 1436000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1438000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "태용쌤이 매일 봅니다."
+    } ]
+  }, {
+    "tStartMs": 1440000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "태용쌤은 이걸 좋아하세요?"
+    } ]
+  }, {
+    "tStartMs": 1444000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "너무 추상적인 건가?"
+    } ]
+  }, {
+    "tStartMs": 1445000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아, 근데 이렇게 질문할 수 있어요."
+    } ]
+  }, {
+    "tStartMs": 1447000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠?"
+    } ]
+  }, {
+    "tStartMs": 1448000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "네. 근데 답변도 애매하게 할 수 있어요."
+    } ]
+  }, {
+    "tStartMs": 1451000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어떻게요?"
+    } ]
+  }, {
+    "tStartMs": 1452000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "뭐... 조금?"
+    } ]
+  }, {
+    "tStartMs": 1455000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아, 조금?"
+    } ]
+  }, {
+    "tStartMs": 1457000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1458000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "조금 좋아해요."
+    } ]
+  }, {
+    "tStartMs": 1460000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1461000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "제 주변에도 있어요?"
+    } ]
+  }, {
+    "tStartMs": 1463000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "보시는 화면 있잖아요."
+    } ]
+  }, {
+    "tStartMs": 1465000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "화면에 있어요?"
+    } ]
+  }, {
+    "tStartMs": 1468000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "없는 것 같은데요?"
+    } ]
+  }, {
+    "tStartMs": 1472000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "물건입니까?"
+    } ]
+  }, {
+    "tStartMs": 1474000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "맞습니다."
+    } ]
+  }, {
+    "tStartMs": 1475000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "물건!"
+    } ]
+  }, {
+    "tStartMs": 1477000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "물건이고 조금 좋아하고 매일 본다."
+    } ]
+  }, {
+    "tStartMs": 1481000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "조금 좋아하고."
+    } ]
+  }, {
+    "tStartMs": 1483000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이제 10번 했죠, 10번?"
+    } ]
+  }, {
+    "tStartMs": 1485000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1486000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "반 왔습니다."
+    } ]
+  }, {
+    "tStartMs": 1487000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "크기가 제 손바닥보다 작아요, 커요?"
+    } ]
+  }, {
+    "tStartMs": 1491000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "클 수도 있고 작을 수도 있습니다."
+    } ]
+  }, {
+    "tStartMs": 1494000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "엥? 클 수도 있고 작을 수도 있다고요?"
+    } ]
+  }, {
+    "tStartMs": 1496000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1497000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "정답은 질문 하나로 카운팅 되죠?"
+    } ]
+  }, {
+    "tStartMs": 1500000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "제가 이거죠? 이렇게 얘기하면."
+    } ]
+  }, {
+    "tStartMs": 1502000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1503000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "몇 개 남았어요?"
+    } ]
+  }, {
+    "tStartMs": 1504000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "지금 9개 남았습니다."
+    } ]
+  }, {
+    "tStartMs": 1506000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "헉, 이거 봐."
+    } ]
+  }, {
+    "tStartMs": 1508000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "음... 네모난가요?"
+    } ]
+  }, {
+    "tStartMs": 1511000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "태용쌤의 것은?"
+    } ]
+  }, {
+    "tStartMs": 1512000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아, 제 것은?"
+    } ]
+  }, {
+    "tStartMs": 1514000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "제 것은 네모나지 않습니다."
+    } ]
+  }, {
+    "tStartMs": 1517000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "엥? 네모나지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 1521000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "기다래요?"
+    } ]
+  }, {
+    "tStartMs": 1523000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "제 것은 기다라지 않습니다."
+    } ]
+  }, {
+    "tStartMs": 1528000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그래요?"
+    } ]
+  }, {
+    "tStartMs": 1529000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1530000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "전자기기인가요?"
+    } ]
+  }, {
+    "tStartMs": 1531000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전자기기는 아닙니다."
+    } ]
+  }, {
+    "tStartMs": 1533000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "망했다."
+    } ]
+  }, {
+    "tStartMs": 1534000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "6번 남았습니다."
+    } ]
+  }, {
+    "tStartMs": 1536000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "문구류인가요?"
+    } ]
+  }, {
+    "tStartMs": 1538000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "문구류가 아닙니다."
+    } ]
+  }, {
+    "tStartMs": 1540000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "망했다."
+    } ]
+  }, {
+    "tStartMs": 1541000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "5개 남았습니다."
+    } ]
+  }, {
+    "tStartMs": 1543000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "잠깐만, 문구 아니고 전자기기 아니고?"
+    } ]
+  }, {
+    "tStartMs": 1547000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음식을 먹을 때 사용하나요?"
+    } ]
+  }, {
+    "tStartMs": 1549000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "음식을 먹을 때는 사용하지 않습니다."
+    } ]
+  }, {
+    "tStartMs": 1554000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음..."
+    } ]
+  }, {
+    "tStartMs": 1556000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "사용하는 사람이 있을 수도 있을 텐데"
+    } ]
+  }, {
+    "tStartMs": 1559000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "일반적으로 사용하지 않습니다."
+    } ]
+  }, {
+    "tStartMs": 1562000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아직 4개 남았어요."
+    } ]
+  }, {
+    "tStartMs": 1564000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "사람이 착용할 수 있어요?"
+    } ]
+  }, {
+    "tStartMs": 1567000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아닌가 봐."
+    } ]
+  }, {
+    "tStartMs": 1568000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아닙니다."
+    } ]
+  }, {
+    "tStartMs": 1570000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "착용 아니고, 전자기기 아니고, 문구가 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 1575000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "음... 이것은 보통 만원 이하인가요?"
+    } ]
+  }, {
+    "tStartMs": 1580000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "오, 보통 만원 이하로 알고 있습니다. 저는."
+    } ]
+  }, {
+    "tStartMs": 1584000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "보통 만원 이하? 만원 이하?"
+    } ]
+  }, {
+    "tStartMs": 1587000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이제 2번 남았는데요."
+    } ]
+  }, {
+    "tStartMs": 1589000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1590000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "제가 지난 질문에 대해서"
+    } ]
+  }, {
+    "tStartMs": 1593000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1594000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아주 퍼주는, 아주 많은 정보를 주는"
+    } ]
+  }, {
+    "tStartMs": 1597000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다른 대답을 해드리겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1599000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "디디님은 저의 이것은 기다랗냐고 물어보았는데"
+    } ]
+  }, {
+    "tStartMs": 1604000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음."
+    } ]
+  }, {
+    "tStartMs": 1605000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "제 것 말고 다른 사람의 이것은"
+    } ]
+  }, {
+    "tStartMs": 1609000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "길 수도 있고"
+    } ]
+  }, {
+    "tStartMs": 1612000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "그리고 또 사용하다 보면 짧아질 수도 있습니다."
+    } ]
+  }, {
+    "tStartMs": 1618000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "사용하다 보면요?"
+    } ]
+  }, {
+    "tStartMs": 1620000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "그렇죠."
+    } ]
+  }, {
+    "tStartMs": 1621000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "문구류 아니라고 했잖아요."
+    } ]
+  }, {
+    "tStartMs": 1623000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1624000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "다 알려줬다. 다 알려줬어."
+    } ]
+  }, {
+    "tStartMs": 1628000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "아니요. 전혀 모르겠는데요."
+    } ]
+  }, {
+    "tStartMs": 1631000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다 알려줬어."
+    } ]
+  }, {
+    "tStartMs": 1633000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "음. 사용하다 보면 짧아진다."
+    } ]
+  }, {
+    "tStartMs": 1636000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어? 정답."
+    } ]
+  }, {
+    "tStartMs": 1638000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "어? 2번 남았어요."
+    } ]
+  }, {
+    "tStartMs": 1641000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "캔들."
+    } ]
+  }, {
+    "tStartMs": 1642000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "캔들?"
+    } ]
+  }, {
+    "tStartMs": 1644000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "캔들은..."
+    } ]
+  }, {
+    "tStartMs": 1646000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "사용하다 보면 짧아진잖아요."
+    } ]
+  }, {
+    "tStartMs": 1649000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "지금 2번 중에 하나 썼어요."
+    } ]
+  }, {
+    "tStartMs": 1651000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1652000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "캔들?"
+    } ]
+  }, {
+    "tStartMs": 1653000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "응."
+    } ]
+  }, {
+    "tStartMs": 1654000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "혹시 영어 팟캐스터이신가요?"
+    } ]
+  }, {
+    "tStartMs": 1656000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아! 정답!"
+    } ]
+  }, {
+    "tStartMs": 1658000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네?"
+    } ]
+  }, {
+    "tStartMs": 1659000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "초."
+    } ]
+  }, {
+    "tStartMs": 1660000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "초. 저는 양초 라고 썼는데요."
+    } ]
+  }, {
+    "tStartMs": 1664000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오! 그래도"
+    } ]
+  }, {
+    "tStartMs": 1665000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "정답으로 인정해드리겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1668000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "캔들이 뭡니까? 한국어 팟캐스터가."
+    } ]
+  }, {
+    "tStartMs": 1671000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니 보통 캔들이라고 하잖아요."
+    } ]
+  }, {
+    "tStartMs": 1673000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "저는 양초."
+    } ]
+  }, {
+    "tStartMs": 1674000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "냄새 좋은 거."
+    } ]
+  }, {
+    "tStartMs": 1675000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "양초."
+    } ]
+  }, {
+    "tStartMs": 1676000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "양초."
+    } ]
+  }, {
+    "tStartMs": 1677000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네네."
+    } ]
+  }, {
+    "tStartMs": 1678000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "후! 그게 좀 컸네요."
+    } ]
+  }, {
+    "tStartMs": 1681000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "길어졌다가 짧아진다."
+    } ]
+  }, {
+    "tStartMs": 1683000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다 알려줬어. 다 알려줬어."
+    } ]
+  }, {
+    "tStartMs": 1685000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "연필인가? 약간 이런 생각 했었다가"
+    } ]
+  }, {
+    "tStartMs": 1689000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "제가 1포인트 가져갔고요."
+    } ]
+  }, {
+    "tStartMs": 1691000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "저도 한번 문제를 내보겠습니다."
+    } ]
+  }, {
+    "tStartMs": 1693000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네네."
+    } ]
+  }, {
+    "tStartMs": 1694000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "첫 번째, 생물입니까?"
+    } ]
+  }, {
+    "tStartMs": 1697000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아니요."
+    } ]
+  }, {
+    "tStartMs": 1698000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아니고요."
+    } ]
+  }, {
+    "tStartMs": 1699000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "두 번째, 디디님 집에 있습니까?"
+    } ]
+  }, {
+    "tStartMs": 1702000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니요."
+    } ]
+  }, {
+    "tStartMs": 1704000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니다?"
+    } ]
+  }, {
+    "tStartMs": 1706000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음..."
+    } ]
+  }, {
+    "tStartMs": 1708000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "세 번째,"
+    } ]
+  }, {
+    "tStartMs": 1710000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "평범한 한국 회사원들이 그걸 사용합니까?"
+    } ]
+  }, {
+    "tStartMs": 1715000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "사용합니다."
+    } ]
+  }, {
+    "tStartMs": 1717000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "사용합니다."
+    } ]
+  }, {
+    "tStartMs": 1718000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네 번째 질문."
+    } ]
+  }, {
+    "tStartMs": 1720000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1721000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "손바닥보다 사이즈가 큽니까?"
+    } ]
+  }, {
+    "tStartMs": 1724000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "크죠."
+    } ]
+  }, {
+    "tStartMs": 1726000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "오! 크다."
+    } ]
+  }, {
+    "tStartMs": 1727000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음. 크죠."
+    } ]
+  }, {
+    "tStartMs": 1729000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다섯 번째,"
+    } ]
+  }, {
+    "tStartMs": 1731000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "전자기기 입니까?"
+    } ]
+  }, {
+    "tStartMs": 1734000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아닙니다."
+    } ]
+  }, {
+    "tStartMs": 1735000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니다."
+    } ]
+  }, {
+    "tStartMs": 1738000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "여섯 번째,"
+    } ]
+  }, {
+    "tStartMs": 1739000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "손으로 그것을 부술 수 있습니까?"
+    } ]
+  }, {
+    "tStartMs": 1743000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "부술 수 있냐고요?"
+    } ]
+  }, {
+    "tStartMs": 1744000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1745000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "손으로?"
+    } ]
+  }, {
+    "tStartMs": 1746000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1747000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "조금?"
+    } ]
+  }, {
+    "tStartMs": 1748000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "조금?"
+    } ]
+  }, {
+    "tStartMs": 1751000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1752000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "손으로 조금?"
+    } ]
+  }, {
+    "tStartMs": 1753000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "오... 조금. 조금."
+    } ]
+  }, {
+    "tStartMs": 1757000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "조금. 조금이라..."
+    } ]
+  }, {
+    "tStartMs": 1760000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "디디님 집에는 없다고 했어요."
+    } ]
+  }, {
+    "tStartMs": 1763000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1764000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "오..."
+    } ]
+  }, {
+    "tStartMs": 1766000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그리고 손으로 조금은 부술 수 있다?"
+    } ]
+  }, {
+    "tStartMs": 1769000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "조금."
+    } ]
+  }, {
+    "tStartMs": 1771000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "손으로 조금은 부술 수 있는데,"
+    } ]
+  }, {
+    "tStartMs": 1773000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "회사원이 사용할 수 있다?"
+    } ]
+  }, {
+    "tStartMs": 1775000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "음... 사용?"
+    } ]
+  }, {
+    "tStartMs": 1776000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "사용의 정의가 뭐죠?"
+    } ]
+  }, {
+    "tStartMs": 1778000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "쓰다?"
+    } ]
+  }, {
+    "tStartMs": 1779000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네네."
+    } ]
+  }, {
+    "tStartMs": 1780000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "이용? 사용?"
+    } ]
+  }, {
+    "tStartMs": 1781000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "이용하다? 사용하다?"
+    } ]
+  }, {
+    "tStartMs": 1784000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "가격이 비싼 편입니까?"
+    } ]
+  }, {
+    "tStartMs": 1786000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어우, 비싸죠."
+    } ]
+  }, {
+    "tStartMs": 1788000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아, 비싸다."
+    } ]
+  }, {
+    "tStartMs": 1789000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "아주 비쌉니다."
+    } ]
+  }, {
+    "tStartMs": 1790000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아주 비싸다?"
+    } ]
+  }, {
+    "tStartMs": 1792000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네."
+    } ]
+  }, {
+    "tStartMs": 1793000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "넓게 생각하십시오. 넓게."
+    } ]
+  }, {
+    "tStartMs": 1795000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "넓게?"
+    } ]
+  }, {
+    "tStartMs": 1799000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "넓혀."
+    } ]
+  }, {
+    "tStartMs": 1800000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "여덟번째"
+    } ]
+  }, {
+    "tStartMs": 1802000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "공간입니까?"
+    } ]
+  }, {
+    "tStartMs": 1804000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "공간입니다"
+    } ]
+  }, {
+    "tStartMs": 1806000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어?"
+    } ]
+  }, {
+    "tStartMs": 1808000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그 공간..."
+    } ]
+  }, {
+    "tStartMs": 1810000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그것은"
+    } ]
+  }, {
+    "tStartMs": 1812000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "공간이"
+    } ]
+  }, {
+    "tStartMs": 1814000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다양한 편입니까? 넓이가?"
+    } ]
+  }, {
+    "tStartMs": 1816000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음? 넓이가"
+    } ]
+  }, {
+    "tStartMs": 1818000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다양해요? 공간이니까"
+    } ]
+  }, {
+    "tStartMs": 1820000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "넓은 곳도 있고"
+    } ]
+  }, {
+    "tStartMs": 1822000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좁은 곳도 있고"
+    } ]
+  }, {
+    "tStartMs": 1824000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이렇게 다양한 편인가요?"
+    } ]
+  }, {
+    "tStartMs": 1826000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 다양한 편이다"
+    } ]
+  }, {
+    "tStartMs": 1828000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "천장이 있습니까?"
+    } ]
+  }, {
+    "tStartMs": 1830000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "있어요"
+    } ]
+  }, {
+    "tStartMs": 1832000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "천장이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1834000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음? 혹시"
+    } ]
+  }, {
+    "tStartMs": 1836000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "거기서 운동을"
+    } ]
+  }, {
+    "tStartMs": 1838000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "할 수 있습니까?"
+    } ]
+  }, {
+    "tStartMs": 1840000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "운동?"
+    } ]
+  }, {
+    "tStartMs": 1842000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "뭐 해도 되지만"
+    } ]
+  }, {
+    "tStartMs": 1844000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "대부분은 안해요"
+    } ]
+  }, {
+    "tStartMs": 1846000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어려운데 이거"
+    } ]
+  }, {
+    "tStartMs": 1848000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "쉬워"
+    } ]
+  }, {
+    "tStartMs": 1850000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "뭐가 있지?"
+    } ]
+  }, {
+    "tStartMs": 1852000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "거기서 음식을 먹는 것이"
+    } ]
+  }, {
+    "tStartMs": 1854000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "가능합니까?"
+    } ]
+  }, {
+    "tStartMs": 1856000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "음식 먹는거 가능합니다"
+    } ]
+  }, {
+    "tStartMs": 1858000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어렵죠?"
+    } ]
+  }, {
+    "tStartMs": 1860000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "좋은 질문을 선택하는게"
+    } ]
+  }, {
+    "tStartMs": 1862000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어려운 게임이에요"
+    } ]
+  }, {
+    "tStartMs": 1864000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그 공간"
+    } ]
+  }, {
+    "tStartMs": 1866000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "에서"
+    } ]
+  }, {
+    "tStartMs": 1868000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "물이 나오나요?"
+    } ]
+  }, {
+    "tStartMs": 1870000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "물이 나오냐구요?"
+    } ]
+  }, {
+    "tStartMs": 1872000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "물이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1874000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "물이 나오는건 뭐에요?"
+    } ]
+  }, {
+    "tStartMs": 1876000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "뭐 수도꼭지가"
+    } ]
+  }, {
+    "tStartMs": 1878000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "물을 원하면 물을"
+    } ]
+  }, {
+    "tStartMs": 1880000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "가질 수 있습니다 그곳에서"
+    } ]
+  }, {
+    "tStartMs": 1882000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 1884000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "주로 사람들이 쉬는 곳입니까?"
+    } ]
+  }, {
+    "tStartMs": 1886000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어떻게 쓰냐에 따라"
+    } ]
+  }, {
+    "tStartMs": 1888000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다르지만"
+    } ]
+  }, {
+    "tStartMs": 1890000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그쵸? 정답 휴게실?"
+    } ]
+  }, {
+    "tStartMs": 1892000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "땡"
+    } ]
+  }, {
+    "tStartMs": 1894000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이제 5개 남았네요"
+    } ]
+  }, {
+    "tStartMs": 1896000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 망했다"
+    } ]
+  }, {
+    "tStartMs": 1898000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니"
+    } ]
+  }, {
+    "tStartMs": 1900000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "공간이라는 힌트도 알아냈는데"
+    } ]
+  }, {
+    "tStartMs": 1902000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그러니까"
+    } ]
+  }, {
+    "tStartMs": 1904000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "잠시만"
+    } ]
+  }, {
+    "tStartMs": 1906000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "물어보세요 뭐"
+    } ]
+  }, {
+    "tStartMs": 1908000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "공간나오면 무슨 질문을 할 수 있지"
+    } ]
+  }, {
+    "tStartMs": 1910000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이제? 출제자는"
+    } ]
+  }, {
+    "tStartMs": 1912000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "정답으로 못맞추게 계속"
+    } ]
+  }, {
+    "tStartMs": 1914000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "해야되는 게임입니다"
+    } ]
+  }, {
+    "tStartMs": 1916000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 맞죠"
+    } ]
+  }, {
+    "tStartMs": 1918000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "거기서"
+    } ]
+  }, {
+    "tStartMs": 1920000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "유튜브 촬영을 하는 사람들이 많나요?"
+    } ]
+  }, {
+    "tStartMs": 1922000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "유튜브 촬영?"
+    } ]
+  }, {
+    "tStartMs": 1924000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "응"
+    } ]
+  }, {
+    "tStartMs": 1926000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "많아요?"
+    } ]
+  }, {
+    "tStartMs": 1928000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어?"
+    } ]
+  }, {
+    "tStartMs": 1930000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "혹시 정답 스튜디오?"
+    } ]
+  }, {
+    "tStartMs": 1932000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "땡 3개 남았습니다"
+    } ]
+  }, {
+    "tStartMs": 1934000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "유튜브 많이 한다고?"
+    } ]
+  }, {
+    "tStartMs": 1936000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "촬영 할 수 있죠"
+    } ]
+  }, {
+    "tStartMs": 1938000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "촬영 많이 해?"
+    } ]
+  }, {
+    "tStartMs": 1940000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "정답 회의실?"
+    } ]
+  }, {
+    "tStartMs": 1942000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니에요"
+    } ]
+  }, {
+    "tStartMs": 1944000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "제가 힌트 하나 드릴게요"
+    } ]
+  }, {
+    "tStartMs": 1946000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네네네"
+    } ]
+  }, {
+    "tStartMs": 1948000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "전 오늘도 이용을 했습니다"
+    } ]
+  }, {
+    "tStartMs": 1954000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "표정 캡쳐해도 돼요?"
+    } ]
+  }, {
+    "tStartMs": 1956000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "넣어주고 싶어요"
+    } ]
+  }, {
+    "tStartMs": 1958000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "잠깐만 잠깐만 그러면"
+    } ]
+  }, {
+    "tStartMs": 1960000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "질문 2개 남았죠? 2번 남았죠?"
+    } ]
+  }, {
+    "tStartMs": 1962000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "바퀴가 4개입니까?"
+    } ]
+  }, {
+    "tStartMs": 1964000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네?"
+    } ]
+  }, {
+    "tStartMs": 1966000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "바퀴요?"
+    } ]
+  }, {
+    "tStartMs": 1968000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "공간인데요?"
+    } ]
+  }, {
+    "tStartMs": 1970000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아니구나"
+    } ]
+  }, {
+    "tStartMs": 1972000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "바퀴가 없구나"
+    } ]
+  }, {
+    "tStartMs": 1974000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아닙니다"
+    } ]
+  }, {
+    "tStartMs": 1976000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "하나까지 물어보고 정답 이야기 할 수 있습니다"
+    } ]
+  }, {
+    "tStartMs": 1978000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "쉽게 생각합시다"
+    } ]
+  }, {
+    "tStartMs": 1980000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "정답 엘리베이터?"
+    } ]
+  }, {
+    "tStartMs": 1982000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 질문으로 써야죠"
+    } ]
+  }, {
+    "tStartMs": 1984000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "땡"
+    } ]
+  }, {
+    "tStartMs": 1986000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "뭔데요?"
+    } ]
+  }, {
+    "tStartMs": 1988000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "카페"
+    } ]
+  }, {
+    "tStartMs": 1992000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "카페 카페"
+    } ]
+  }, {
+    "tStartMs": 1994000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 나 너무"
+    } ]
+  }, {
+    "tStartMs": 1996000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "성인들의"
+    } ]
+  }, {
+    "tStartMs": 1998000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 많이 이용하거든요 카페"
+    } ]
+  }, {
+    "tStartMs": 2000000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "맨날 이용하죠"
+    } ]
+  }, {
+    "tStartMs": 2002000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 2004000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "손으로 부술 수 있나요?"
+    } ]
+  }, {
+    "tStartMs": 2006000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "조금 부술 수 있다고"
+    } ]
+  }, {
+    "tStartMs": 2010000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 나는"
+    } ]
+  }, {
+    "tStartMs": 2012000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "버스나 지하철인 줄 알았어요"
+    } ]
+  }, {
+    "tStartMs": 2014000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 아니에요"
+    } ]
+  }, {
+    "tStartMs": 2016000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "많이 이동하진 않았습니다"
+    } ]
+  }, {
+    "tStartMs": 2018000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "제가 이 카페"
+    } ]
+  }, {
+    "tStartMs": 2020000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이것도 마시고 있었는데"
+    } ]
+  }, {
+    "tStartMs": 2024000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "안타깝네요"
+    } ]
+  }, {
+    "tStartMs": 2026000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 그랬구나"
+    } ]
+  }, {
+    "tStartMs": 2028000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "디디 1승"
+    } ]
+  }, {
+    "tStartMs": 2030000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "정태용 1패로"
+    } ]
+  }, {
+    "tStartMs": 2032000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "오늘 미니게임은 마무리 하도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2038000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그러면 오늘은"
+    } ]
+  }, {
+    "tStartMs": 2040000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "낯가림에 대해서 요모조모 이야기 해보는"
+    } ]
+  }, {
+    "tStartMs": 2042000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "에피소드였는데요"
+    } ]
+  }, {
+    "tStartMs": 2044000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "제가 다음 주제로"
+    } ]
+  }, {
+    "tStartMs": 2046000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "사실 카페를 선택했어요"
+    } ]
+  }, {
+    "tStartMs": 2048000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그래서 오늘 게임 문제로"
+    } ]
+  }, {
+    "tStartMs": 2050000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "한번 내봤었구요"
+    } ]
+  }, {
+    "tStartMs": 2052000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다음주는 뭐 카페에 자주 이용하는지"
+    } ]
+  }, {
+    "tStartMs": 2054000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "카페에 가서"
+    } ]
+  }, {
+    "tStartMs": 2056000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "어떤 메뉴를 주로 시키는지 같은"
+    } ]
+  }, {
+    "tStartMs": 2058000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그런 카페에 대한 요모조모"
+    } ]
+  }, {
+    "tStartMs": 2060000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이야기 해보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2062000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "태용쌤이랑은 이제"
+    } ]
+  }, {
+    "tStartMs": 2064000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "일주일에 한번이 아닌 한 3주?"
+    } ]
+  }, {
+    "tStartMs": 2066000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "4주에 한번씩 만나게 될거지만"
+    } ]
+  }, {
+    "tStartMs": 2068000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다음 에피소드도 끝나는게 아니니까"
+    } ]
+  }, {
+    "tStartMs": 2070000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "기대 많이 해주시면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2072000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "다음달에 뵙겠습니다 여러분"
+    } ]
+  }, {
+    "tStartMs": 2074000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "네 그러면 여기까지"
+    } ]
+  }, {
+    "tStartMs": 2076000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "디디와 정태용이었습니다"
+    } ]
+  }, {
+    "tStartMs": 2078000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "감사합니다"
+    } ]
+  } ]
+}

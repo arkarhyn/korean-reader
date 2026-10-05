@@ -1,0 +1,4966 @@
+{
+ "id": "PIQW9jtKDbc",
+ "title": "(SUB) 태웅쌤과 서울에서 만났어요! ✨",
+ "url": "https://www.youtube.com/watch?v=PIQW9jtKDbc",
+ "upload_date": "20250611",
+ "duration_s": 1396,
+ "order": 16,
+ "show_no": null,
+ "sources": {
+  "ko": "manual",
+  "en": "manual"
+ },
+ "speakers": [
+  "둘",
+  "디디",
+  "태웅"
+ ],
+ "parts": [
+  {
+   "part": 1,
+   "title_ko": "반말 모드와 노래 추천 시작",
+   "title_en": "Banmal mode and the first song picks",
+   "start_ms": 9540,
+   "end_ms": 500870,
+   "hangul_chars": 2039,
+   "turns": [
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 9540,
+       "end_ms": 10910,
+       "ko": "안녕하세요 디디입니다",
+       "en": "Hi, I'm Didi."
+      }
+     ],
+     "start_ms": 9540,
+     "end_ms": 10910,
+     "ko": "안녕하세요 디디입니다",
+     "en": "Hi, I'm Didi."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 10910,
+       "end_ms": 12540,
+       "ko": "안녕하세요 정태웅입니다",
+       "en": "Hello, I'm Jung Tae-woong."
+      }
+     ],
+     "start_ms": 10910,
+     "end_ms": 12540,
+     "ko": "안녕하세요 정태웅입니다",
+     "en": "Hello, I'm Jung Tae-woong."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 12540,
+       "end_ms": 18050,
+       "ko": "오늘은 한국생활 요모조모 역사상 좀 중요한 날인데요",
+       "en": "Today is kind of a big day in the history of Korean Life Bits & Pieces."
+      }
+     ],
+     "start_ms": 12540,
+     "end_ms": 18050,
+     "ko": "오늘은 한국생활 요모조모 역사상 좀 중요한 날인데요",
+     "en": "Today is kind of a big day in the history of Korean Life Bits & Pieces."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 18050,
+       "end_ms": 19550,
+       "ko": "역사가 짧지만...",
+       "en": "Even though the history’s short..."
+      }
+     ],
+     "start_ms": 18050,
+     "end_ms": 19550,
+     "ko": "역사가 짧지만...",
+     "en": "Even though the history’s short..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 19550,
+       "end_ms": 23860,
+       "ko": "처음으로 태웅쌤이랑 제가 오프라인으로 만나서",
+       "en": "For the first time, Taewoong and I are meeting in person."
+      },
+      {
+       "start_ms": 23860,
+       "end_ms": 26500,
+       "ko": "이렇게 콜라보 영상을 찍고 있습니다",
+       "en": "And we're filming a collab video like this!"
+      },
+      {
+       "start_ms": 26500,
+       "end_ms": 27420,
+       "ko": "반가워요",
+       "en": "Nice to meet you~"
+      }
+     ],
+     "start_ms": 19550,
+     "end_ms": 27420,
+     "ko": "처음으로 태웅쌤이랑 제가 오프라인으로 만나서\n이렇게 콜라보 영상을 찍고 있습니다\n반가워요",
+     "en": "For the first time, Taewoong and I are meeting in person. And we're filming a collab video like this! Nice to meet you~"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 27420,
+       "end_ms": 28100,
+       "ko": "반갑습니다",
+       "en": "Nice to meet you."
+      }
+     ],
+     "start_ms": 27420,
+     "end_ms": 28100,
+     "ko": "반갑습니다",
+     "en": "Nice to meet you."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 28100,
+       "end_ms": 30430,
+       "ko": "네, 지금 좀 어색한데...ㅎㅎ",
+       "en": "Yeah, it’s a little awkward right now... haha"
+      }
+     ],
+     "start_ms": 28100,
+     "end_ms": 30430,
+     "ko": "네, 지금 좀 어색한데...ㅎㅎ",
+     "en": "Yeah, it’s a little awkward right now... haha"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 30430,
+       "end_ms": 31160,
+       "ko": "어색한가요?",
+       "en": "Is it awkward?"
+      }
+     ],
+     "start_ms": 30430,
+     "end_ms": 31160,
+     "ko": "어색한가요?",
+     "en": "Is it awkward?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 31160,
+       "end_ms": 33710,
+       "ko": "- 네... 저만 어색 한가요? - 저도요 저도",
+       "en": "- Yeah... Is it just me who feels awkward? - Me too, me too."
+      },
+      {
+       "start_ms": 33710,
+       "end_ms": 37090,
+       "ko": "원래 태웅쌤이랑 처음으로 오프라인 콜라보니까",
+       "en": "Since it's our first offline collab together..."
+      },
+      {
+       "start_ms": 37090,
+       "end_ms": 39500,
+       "ko": "뭔가 특별한 콘텐츠를 하고 싶었거든요",
+       "en": "We wanted to do something special."
+      },
+      {
+       "start_ms": 39500,
+       "end_ms": 41540,
+       "ko": "근데 둘 다 아이디어가 부족해서",
+       "en": "But we were both low on ideas."
+      },
+      {
+       "start_ms": 41540,
+       "end_ms": 45310,
+       "ko": "결국엔 그냥 요모조모로 찍게 됐어요",
+       "en": "So we ended up filming for Korean Life Bits & Pieces."
+      },
+      {
+       "start_ms": 45310,
+       "end_ms": 49380,
+       "ko": "근데 제가 뭔가 아이디어가 하나 떠올라가지고 오는 길에",
+       "en": "But on the way here, an idea popped into my head."
+      }
+     ],
+     "start_ms": 31160,
+     "end_ms": 49380,
+     "ko": "- 네... 저만 어색 한가요? - 저도요 저도\n원래 태웅쌤이랑 처음으로 오프라인 콜라보니까\n뭔가 특별한 콘텐츠를 하고 싶었거든요\n근데 둘 다 아이디어가 부족해서\n결국엔 그냥 요모조모로 찍게 됐어요\n근데 제가 뭔가 아이디어가 하나 떠올라가지고 오는 길에",
+     "en": "- Yeah... Is it just me who feels awkward? - Me too, me too. Since it's our first offline collab together... We wanted to do something special. But we were both low on ideas. So we ended up filming for Korean Life Bits & Pieces. But on the way here, an idea popped into my head."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 49380,
+       "end_ms": 49560,
+       "ko": "네",
+       "en": "Yeah."
+      }
+     ],
+     "start_ms": 49380,
+     "end_ms": 49560,
+     "ko": "네",
+     "en": "Yeah."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 49560,
+       "end_ms": 50820,
+       "ko": "하나 제안해도 될까요?",
+       "en": "Can I make a suggestion?"
+      }
+     ],
+     "start_ms": 49560,
+     "end_ms": 50820,
+     "ko": "하나 제안해도 될까요?",
+     "en": "Can I make a suggestion?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 50820,
+       "end_ms": 51490,
+       "ko": "뭔데요?",
+       "en": "What is it?"
+      }
+     ],
+     "start_ms": 50820,
+     "end_ms": 51490,
+     "ko": "뭔데요?",
+     "en": "What is it?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 51490,
+       "end_ms": 56420,
+       "ko": "한국어 학습자분들이 다양한 말투를 듣고 싶다고 하셔가지고",
+       "en": "Some Korean learners said they want to hear various speaking styles."
+      },
+      {
+       "start_ms": 56420,
+       "end_ms": 58120,
+       "ko": "반모 가능하세요? 반모?",
+       "en": "Are you okay with banmo? Banmo?"
+      },
+      {
+       "start_ms": 58120,
+       "end_ms": 59550,
+       "ko": "반말 모드",
+       "en": "Banmal mode."
+      }
+     ],
+     "start_ms": 51490,
+     "end_ms": 59550,
+     "ko": "한국어 학습자분들이 다양한 말투를 듣고 싶다고 하셔가지고\n반모 가능하세요? 반모?\n반말 모드",
+     "en": "Some Korean learners said they want to hear various speaking styles. Are you okay with banmo? Banmo? Banmal mode."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 59550,
+       "end_ms": 61040,
+       "ko": "반말 모드?",
+       "en": "Banmal mode?"
+      },
+      {
+       "start_ms": 61040,
+       "end_ms": 63030,
+       "ko": "아니 이거는...",
+       "en": "Wait, this is..."
+      },
+      {
+       "start_ms": 63030,
+       "end_ms": 64280,
+       "ko": "지금 진짜 처음 얘기하는 거잖아요",
+       "en": "You’re literally bringing this up for the first time now."
+      }
+     ],
+     "start_ms": 59550,
+     "end_ms": 64280,
+     "ko": "반말 모드?\n아니 이거는...\n지금 진짜 처음 얘기하는 거잖아요",
+     "en": "Banmal mode? Wait, this is... You’re literally bringing this up for the first time now."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 64280,
+       "end_ms": 65990,
+       "ko": "네, 진짜 처음 얘기했어요",
+       "en": "Yeah, it’s the first time."
+      },
+      {
+       "start_ms": 65990,
+       "end_ms": 69890,
+       "ko": "생생한 말을 놓는 현장을 보여드리고 싶어가지고...",
+       "en": "I just wanted to show some real-life, natural conversation..."
+      },
+      {
+       "start_ms": 69890,
+       "end_ms": 70590,
+       "ko": "- 괜찮아요? - 그래",
+       "en": "- Is that okay? - Sure."
+      }
+     ],
+     "start_ms": 64280,
+     "end_ms": 70590,
+     "ko": "네, 진짜 처음 얘기했어요\n생생한 말을 놓는 현장을 보여드리고 싶어가지고...\n- 괜찮아요? - 그래",
+     "en": "Yeah, it’s the first time. I just wanted to show some real-life, natural conversation... - Is that okay? - Sure."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 71960,
+       "end_ms": 73520,
+       "ko": "- 그냥 뭐 콘텐츠니까~ - 콘텐츠로",
+       "en": "- It's just content anyway~ - For the content."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 71960,
+     "end_ms": 73520,
+     "ko": "- 그냥 뭐 콘텐츠니까~ - 콘텐츠로",
+     "en": "- It's just content anyway~ - For the content."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 73520,
+       "end_ms": 74040,
+       "ko": "그래~",
+       "en": "Right~"
+      }
+     ],
+     "start_ms": 73520,
+     "end_ms": 74040,
+     "ko": "그래~",
+     "en": "Right~"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 74040,
+       "end_ms": 76340,
+       "ko": "내가 굉장히 고민을 했던 게 뭐냐면",
+       "en": "So what I was really thinking about was,"
+      },
+      {
+       "start_ms": 76340,
+       "end_ms": 81630,
+       "ko": "호칭을 그냥 원래는 나이에 맞게 부르는 게 있잖아",
+       "en": "You know how we usually use honorifics based on age?"
+      }
+     ],
+     "start_ms": 74040,
+     "end_ms": 81630,
+     "ko": "내가 굉장히 고민을 했던 게 뭐냐면\n호칭을 그냥 원래는 나이에 맞게 부르는 게 있잖아",
+     "en": "So what I was really thinking about was, You know how we usually use honorifics based on age?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 81630,
+       "end_ms": 82380,
+       "ko": "그렇지",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 81630,
+     "end_ms": 82380,
+     "ko": "그렇지",
+     "en": "Right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 82380,
+       "end_ms": 86110,
+       "ko": "근데 그냥 '너'로 통일을 하자 이 콘텐츠에선",
+       "en": "But let's just stick with “you (neo)” for this video."
+      }
+     ],
+     "start_ms": 82380,
+     "end_ms": 86110,
+     "ko": "근데 그냥 '너'로 통일을 하자 이 콘텐츠에선",
+     "en": "But let's just stick with “you (neo)” for this video."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 86110,
+       "end_ms": 87060,
+       "ko": "너? 그래",
+       "en": "\"You (neo)?\" Sure."
+      }
+     ],
+     "start_ms": 86110,
+     "end_ms": 87060,
+     "ko": "너? 그래",
+     "en": "\"You (neo)?\" Sure."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 87060,
+       "end_ms": 88080,
+       "ko": "어, 괜찮아?",
+       "en": "Yeah, is that okay?"
+      }
+     ],
+     "start_ms": 87060,
+     "end_ms": 88080,
+     "ko": "어, 괜찮아?",
+     "en": "Yeah, is that okay?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 88080,
+       "end_ms": 91140,
+       "ko": "근데 한국인들이 '너'라고 잘 안 하지 않나?",
+       "en": "But don’t Koreans usually avoid saying “neo”?"
+      },
+      {
+       "start_ms": 91140,
+       "end_ms": 92810,
+       "ko": "'너는 어때?' 이런 거",
+       "en": "Like, “What about you (neo)?”"
+      }
+     ],
+     "start_ms": 88080,
+     "end_ms": 92810,
+     "ko": "근데 한국인들이 '너'라고 잘 안 하지 않나?\n'너는 어때?' 이런 거",
+     "en": "But don’t Koreans usually avoid saying “neo”? Like, “What about you (neo)?”"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 92810,
+       "end_ms": 93780,
+       "ko": "아~",
+       "en": "Ah~"
+      },
+      {
+       "start_ms": 93780,
+       "end_ms": 94330,
+       "ko": "괜찮아?",
+       "en": "Is that fine?"
+      }
+     ],
+     "start_ms": 92810,
+     "end_ms": 94330,
+     "ko": "아~\n괜찮아?",
+     "en": "Ah~ Is that fine?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 94330,
+       "end_ms": 95190,
+       "ko": "그래",
+       "en": "Yeah."
+      }
+     ],
+     "start_ms": 94330,
+     "end_ms": 95190,
+     "ko": "그래",
+     "en": "Yeah."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 95190,
+       "end_ms": 95980,
+       "ko": "오케이!",
+       "en": "Okay!"
+      },
+      {
+       "start_ms": 95980,
+       "end_ms": 97300,
+       "ko": "좀 더 재밌게 하기 위해서",
+       "en": "To make it more fun,"
+      },
+      {
+       "start_ms": 97300,
+       "end_ms": 99760,
+       "ko": "내가 또 하나를 생각했는데ㅋㅋㅋ",
+       "en": "I came up with another idea lol"
+      },
+      {
+       "start_ms": 99760,
+       "end_ms": 105770,
+       "ko": "무심코 존댓말이 나오면 안 되는 옵션을 추가하려고",
+       "en": "Let’s add a rule where we can't accidentally use honorifics."
+      },
+      {
+       "start_ms": 105770,
+       "end_ms": 107060,
+       "ko": "목숨이 세 개가 있어",
+       "en": "We each get three lives."
+      },
+      {
+       "start_ms": 107060,
+       "end_ms": 109150,
+       "ko": "그래서 먼저 죽는 사람이",
+       "en": "So whoever “dies” first..."
+      },
+      {
+       "start_ms": 109150,
+       "end_ms": 111560,
+       "ko": "뭔가 밥을 사거나...ㅋㅋㅋ",
+       "en": "Has to buy a meal or something… LOL"
+      }
+     ],
+     "start_ms": 95190,
+     "end_ms": 111560,
+     "ko": "오케이!\n좀 더 재밌게 하기 위해서\n내가 또 하나를 생각했는데ㅋㅋㅋ\n무심코 존댓말이 나오면 안 되는 옵션을 추가하려고\n목숨이 세 개가 있어\n그래서 먼저 죽는 사람이\n뭔가 밥을 사거나...ㅋㅋㅋ",
+     "en": "Okay! To make it more fun, I came up with another idea lol Let’s add a rule where we can't accidentally use honorifics. We each get three lives. So whoever “dies” first... Has to buy a meal or something… LOL"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 111560,
+       "end_ms": 112980,
+       "ko": "그럼 구독자님들한테는?",
+       "en": "Then what about talking to the subscribers?"
+      }
+     ],
+     "start_ms": 111560,
+     "end_ms": 112980,
+     "ko": "그럼 구독자님들한테는?",
+     "en": "Then what about talking to the subscribers?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 112980,
+       "end_ms": 116970,
+       "ko": "구독자님한테는 정중하게 존댓말로",
+       "en": "To the subscribers, we use polite speech, of course."
+      },
+      {
+       "start_ms": 116970,
+       "end_ms": 118520,
+       "ko": "뭔가 말을 건넬 때는",
+       "en": "Like when we say something to them."
+      }
+     ],
+     "start_ms": 112980,
+     "end_ms": 118520,
+     "ko": "구독자님한테는 정중하게 존댓말로\n뭔가 말을 건넬 때는",
+     "en": "To the subscribers, we use polite speech, of course. Like when we say something to them."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 118520,
+       "end_ms": 122310,
+       "ko": "구독자님들한테 말할 때는 카메라 보고 얘기하는 걸로?",
+       "en": "So we’ll look into the camera when talking to them?"
+      }
+     ],
+     "start_ms": 118520,
+     "end_ms": 122310,
+     "ko": "구독자님들한테 말할 때는 카메라 보고 얘기하는 걸로?",
+     "en": "So we’ll look into the camera when talking to them?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 122310,
+       "end_ms": 124160,
+       "ko": "- 재밌겠다!! - 저는 이해했습니다",
+       "en": "- That sounds fun!! - Got it."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 122310,
+     "end_ms": 124160,
+     "ko": "- 재밌겠다!! - 저는 이해했습니다",
+     "en": "- That sounds fun!! - Got it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 124160,
+       "end_ms": 125300,
+       "ko": "아, 네!",
+       "en": "Ah, okay!"
+      }
+     ],
+     "start_ms": 124160,
+     "end_ms": 125300,
+     "ko": "아, 네!",
+     "en": "Ah, okay!"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 125300,
+       "end_ms": 128610,
+       "ko": "그러면 바로 오늘의 주제 한번 소개해줄래?",
+       "en": "Then can you go ahead and introduce today’s topic?"
+      }
+     ],
+     "start_ms": 125300,
+     "end_ms": 128610,
+     "ko": "그러면 바로 오늘의 주제 한번 소개해줄래?",
+     "en": "Then can you go ahead and introduce today’s topic?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 128610,
+       "end_ms": 130560,
+       "ko": "오늘의 주제는",
+       "en": "Today’s topic is..."
+      },
+      {
+       "start_ms": 130560,
+       "end_ms": 133450,
+       "ko": "한국 여행 오는 길에",
+       "en": "On your way to travel to Korea,"
+      },
+      {
+       "start_ms": 133450,
+       "end_ms": 140160,
+       "ko": "비행기 또는 배에서 듣기 좋은 음악 TOP3입니다",
+       "en": "Top 3 songs that are great to listen to on the plane or ferry."
+      }
+     ],
+     "start_ms": 128610,
+     "end_ms": 140160,
+     "ko": "오늘의 주제는\n한국 여행 오는 길에\n비행기 또는 배에서 듣기 좋은 음악 TOP3입니다",
+     "en": "Today’s topic is... On your way to travel to Korea, Top 3 songs that are great to listen to on the plane or ferry."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 140160,
+       "end_ms": 143560,
+       "ko": "음 그래서 각각 TOP3를 뽑아서",
+       "en": "So we each picked our own top 3..."
+      },
+      {
+       "start_ms": 143560,
+       "end_ms": 146850,
+       "ko": "저희가 하나의 플레이리스트를 만들어 드릴 거예요",
+       "en": "And we’ll make one playlist for you."
+      },
+      {
+       "start_ms": 146850,
+       "end_ms": 148280,
+       "ko": "누구 먼저 해볼까?",
+       "en": "Who wants to go first?"
+      }
+     ],
+     "start_ms": 140160,
+     "end_ms": 148280,
+     "ko": "음 그래서 각각 TOP3를 뽑아서\n저희가 하나의 플레이리스트를 만들어 드릴 거예요\n누구 먼저 해볼까?",
+     "en": "So we each picked our own top 3... And we’ll make one playlist for you. Who wants to go first?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 148280,
+       "end_ms": 150200,
+       "ko": "일단 세 개 다 한국 노래니?",
+       "en": "Are all three Korean songs?"
+      }
+     ],
+     "start_ms": 148280,
+     "end_ms": 150200,
+     "ko": "일단 세 개 다 한국 노래니?",
+     "en": "Are all three Korean songs?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 150200,
+       "end_ms": 151210,
+       "ko": "어, 나 한국 노래야",
+       "en": "Yeah, mine are all Korean songs."
+      }
+     ],
+     "start_ms": 150200,
+     "end_ms": 151210,
+     "ko": "어, 나 한국 노래야",
+     "en": "Yeah, mine are all Korean songs."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 151210,
+       "end_ms": 152390,
+       "ko": "전부 다 한국 노래?",
+       "en": "All of them?"
+      },
+      {
+       "start_ms": 152390,
+       "end_ms": 155290,
+       "ko": "- 아, 먼저 해 - 아, 나 먼저 할까?",
+       "en": "- Oh, you go first. - Should I go first?"
+      }
+     ],
+     "start_ms": 151210,
+     "end_ms": 155290,
+     "ko": "전부 다 한국 노래?\n- 아, 먼저 해 - 아, 나 먼저 할까?",
+     "en": "All of them? - Oh, you go first. - Should I go first?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 155290,
+       "end_ms": 159010,
+       "ko": "그러면 첫 번째로 내가 추천하고 싶은 노래는",
+       "en": "Okay then, the first song I want to recommend is..."
+      },
+      {
+       "start_ms": 159010,
+       "end_ms": 162640,
+       "ko": "럼블피쉬의 <I Go>라는 노래야",
+       "en": "A song called <I Go> by Rumble Fish."
+      }
+     ],
+     "start_ms": 155290,
+     "end_ms": 162640,
+     "ko": "그러면 첫 번째로 내가 추천하고 싶은 노래는\n럼블피쉬의 <I Go>라는 노래야",
+     "en": "Okay then, the first song I want to recommend is... A song called <I Go> by Rumble Fish."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 162640,
+       "end_ms": 163990,
+       "ko": "오오오",
+       "en": "Ooooh"
+      }
+     ],
+     "start_ms": 162640,
+     "end_ms": 163990,
+     "ko": "오오오",
+     "en": "Ooooh"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 163990,
+       "end_ms": 165540,
+       "ko": "아는 노래야?",
+       "en": "Do you know it?"
+      }
+     ],
+     "start_ms": 163990,
+     "end_ms": 165540,
+     "ko": "아는 노래야?",
+     "en": "Do you know it?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 165540,
+       "end_ms": 166630,
+       "ko": "아니?",
+       "en": "Nope?"
+      }
+     ],
+     "start_ms": 165540,
+     "end_ms": 166630,
+     "ko": "아니?",
+     "en": "Nope?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 166630,
+       "end_ms": 171340,
+       "ko": "일단 이 노래를 내가 왜 골랐는지부터 이야기를 해보면",
+       "en": "First, let me tell you why I picked this song."
+      },
+      {
+       "start_ms": 171340,
+       "end_ms": 173940,
+       "ko": "\"I go!\" = \"나는 간다\"잖아",
+       "en": "\"I go!\" means “I’m going,” right?"
+      },
+      {
+       "start_ms": 173940,
+       "end_ms": 178980,
+       "ko": "아, 한국에 온다라는 마음을 담아서 아이고를 뽑았는데",
+       "en": "So I chose “I Go” with the feeling of coming to Korea."
+      },
+      {
+       "start_ms": 178980,
+       "end_ms": 181840,
+       "ko": "이게 되게 재밌다고 생각한 포인트가",
+       "en": "What I found interesting is,"
+      },
+      {
+       "start_ms": 181840,
+       "end_ms": 186530,
+       "ko": "이 가사를 보면 'I go'! 간다라는 뜻도 있는데",
+       "en": "The lyrics say \"I go\" as in “I'm going,”"
+      },
+      {
+       "start_ms": 186530,
+       "end_ms": 189850,
+       "ko": "그 한국어 추임새 중에 '아이고' 있잖아",
+       "en": "But also sound like the Korean exclamation “aigo.”"
+      },
+      {
+       "start_ms": 189850,
+       "end_ms": 193660,
+       "ko": "그거를 좀 재밌게 쓴 거더라고",
+       "en": "They played with that in a clever way."
+      },
+      {
+       "start_ms": 193660,
+       "end_ms": 196000,
+       "ko": "그래서 한번 들어볼래?",
+       "en": "So, wanna give it a listen?"
+      }
+     ],
+     "start_ms": 166630,
+     "end_ms": 196000,
+     "ko": "일단 이 노래를 내가 왜 골랐는지부터 이야기를 해보면\n\"I go!\" = \"나는 간다\"잖아\n아, 한국에 온다라는 마음을 담아서 아이고를 뽑았는데\n이게 되게 재밌다고 생각한 포인트가\n이 가사를 보면 'I go'! 간다라는 뜻도 있는데\n그 한국어 추임새 중에 '아이고' 있잖아\n그거를 좀 재밌게 쓴 거더라고\n그래서 한번 들어볼래?",
+     "en": "First, let me tell you why I picked this song. \"I go!\" means “I’m going,” right? So I chose “I Go” with the feeling of coming to Korea. What I found interesting is, The lyrics say \"I go\" as in “I'm going,” But also sound like the Korean exclamation “aigo.” They played with that in a clever way. So, wanna give it a listen?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 196000,
+       "end_ms": 196890,
+       "ko": "어",
+       "en": "Yeah."
+      },
+      {
+       "start_ms": 196890,
+       "end_ms": 201140,
+       "ko": "럼블피쉬... 엄청 옛날에 활동하시던 그룹 아닌가?",
+       "en": "Rumble Fish... weren’t they active a long time ago?"
+      }
+     ],
+     "start_ms": 196000,
+     "end_ms": 201140,
+     "ko": "어\n럼블피쉬... 엄청 옛날에 활동하시던 그룹 아닌가?",
+     "en": "Yeah. Rumble Fish... weren’t they active a long time ago?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 201140,
+       "end_ms": 204790,
+       "ko": "맞아 나 근데 거의 다 옛날 노래야 오늘 고른 노래가",
+       "en": "Yeah, most of the songs I picked today are old ones."
+      }
+     ],
+     "start_ms": 201140,
+     "end_ms": 204790,
+     "ko": "맞아 나 근데 거의 다 옛날 노래야 오늘 고른 노래가",
+     "en": "Yeah, most of the songs I picked today are old ones."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 204790,
+       "end_ms": 205810,
+       "ko": "오, 좋지",
+       "en": "Oh, that’s nice."
+      }
+     ],
+     "start_ms": 204790,
+     "end_ms": 205810,
+     "ko": "오, 좋지",
+     "en": "Oh, that’s nice."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 205810,
+       "end_ms": 206940,
+       "ko": "아마 알걸?",
+       "en": "You might know it."
+      }
+     ],
+     "start_ms": 205810,
+     "end_ms": 206940,
+     "ko": "아마 알걸?",
+     "en": "You might know it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 206940,
+       "end_ms": 208060,
+       "ko": "그럴 수도 있어",
+       "en": "Maybe."
+      }
+     ],
+     "start_ms": 206940,
+     "end_ms": 208060,
+     "ko": "그럴 수도 있어",
+     "en": "Maybe."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 208060,
+       "end_ms": 209600,
+       "ko": "옛날 노래들이 들으면",
+       "en": "When you hear those old songs,"
+      },
+      {
+       "start_ms": 209600,
+       "end_ms": 212730,
+       "ko": "\"어?\" 이거 들어봤는데 하는 노래들이 많아",
+       "en": "There are a lot where you go, “Oh? I’ve heard this!”"
+      },
+      {
+       "start_ms": 212730,
+       "end_ms": 217590,
+       "ko": "근데 이게 저작권 때문에 전체를 다 들려드릴 수가 없고요",
+       "en": "But we can’t play the whole song due to copyright."
+      },
+      {
+       "start_ms": 217590,
+       "end_ms": 220250,
+       "ko": "저희가 이게 잘라서 노래는 넣을게요",
+       "en": "We’ll edit it and put in short clips of the song."
+      }
+     ],
+     "start_ms": 208060,
+     "end_ms": 220250,
+     "ko": "옛날 노래들이 들으면\n\"어?\" 이거 들어봤는데 하는 노래들이 많아\n근데 이게 저작권 때문에 전체를 다 들려드릴 수가 없고요\n저희가 이게 잘라서 노래는 넣을게요",
+     "en": "When you hear those old songs, There are a lot where you go, “Oh? I’ve heard this!” But we can’t play the whole song due to copyright. We’ll edit it and put in short clips of the song."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 220250,
+       "end_ms": 221280,
+       "ko": "들어볼게",
+       "en": "I'll give it a listen."
+      }
+     ],
+     "start_ms": 220250,
+     "end_ms": 221280,
+     "ko": "들어볼게",
+     "en": "I'll give it a listen."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 223280,
+       "end_ms": 225880,
+       "ko": "신나지? 벌써",
+       "en": "It’s exciting, right? Already."
+      },
+      {
+       "start_ms": 225880,
+       "end_ms": 229410,
+       "ko": "여기는 올림픽 경기장~~~(?)",
+       "en": "This is the Olympic Stadium~~~(?)"
+      }
+     ],
+     "start_ms": 223280,
+     "end_ms": 229410,
+     "ko": "신나지? 벌써\n여기는 올림픽 경기장~~~(?)",
+     "en": "It’s exciting, right? Already. This is the Olympic Stadium~~~(?)"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 229410,
+       "end_ms": 231630,
+       "ko": "- 아 이 목소리 오랜만이다 - 오랜만이지",
+       "en": "- Wow, I haven’t heard this voice in ages. - Yeah, it’s been a while."
+      }
+     ],
+     "start_ms": 229410,
+     "end_ms": 231630,
+     "ko": "- 아 이 목소리 오랜만이다 - 오랜만이지",
+     "en": "- Wow, I haven’t heard this voice in ages. - Yeah, it’s been a while."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 231630,
+       "end_ms": 235490,
+       "ko": "'~아이고~🎶' 이거 이거",
+       "en": "‘~Aigo~🎶’ This, this!"
+      },
+      {
+       "start_ms": 235490,
+       "end_ms": 239110,
+       "ko": "'아이고'가 되게... 언제 쓰는 추임새라고 해야 되지?",
+       "en": "“Aigo” is really... when do we use this interjection again?"
+      }
+     ],
+     "start_ms": 231630,
+     "end_ms": 239110,
+     "ko": "'~아이고~🎶' 이거 이거\n'아이고'가 되게... 언제 쓰는 추임새라고 해야 되지?",
+     "en": "‘~Aigo~🎶’ This, this! “Aigo” is really... when do we use this interjection again?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 239110,
+       "end_ms": 240600,
+       "ko": "실수했을 때?",
+       "en": "When you make a mistake?"
+      }
+     ],
+     "start_ms": 239110,
+     "end_ms": 240600,
+     "ko": "실수했을 때?",
+     "en": "When you make a mistake?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 240600,
+       "end_ms": 244150,
+       "ko": "놀랄 때, 실수했을 때, 미안할 때",
+       "en": "When you're surprised, make a mistake, or feel sorry."
+      },
+      {
+       "start_ms": 244150,
+       "end_ms": 247170,
+       "ko": "'아이고 아이고!' 이럴 때",
+       "en": "Like, “Aigo aigo!” in those moments."
+      }
+     ],
+     "start_ms": 240600,
+     "end_ms": 247170,
+     "ko": "놀랄 때, 실수했을 때, 미안할 때\n'아이고 아이고!' 이럴 때",
+     "en": "When you're surprised, make a mistake, or feel sorry. Like, “Aigo aigo!” in those moments."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 247170,
+       "end_ms": 248030,
+       "ko": "맞아",
+       "en": "Exactly."
+      }
+     ],
+     "start_ms": 247170,
+     "end_ms": 248030,
+     "ko": "맞아",
+     "en": "Exactly."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 248030,
+       "end_ms": 253280,
+       "ko": "그래서 내 인생은 지금 '아이고' 한 일들이 많이 일어나지만",
+       "en": "So even though my life is full of “aigo” moments right now..."
+      },
+      {
+       "start_ms": 253280,
+       "end_ms": 254980,
+       "ko": "그래도 앞으로 가자",
+       "en": "Still, let’s move forward."
+      },
+      {
+       "start_ms": 254980,
+       "end_ms": 256930,
+       "ko": "그런 뜻이 있는 거지",
+       "en": "That’s kind of the message."
+      }
+     ],
+     "start_ms": 248030,
+     "end_ms": 256930,
+     "ko": "그래서 내 인생은 지금 '아이고' 한 일들이 많이 일어나지만\n그래도 앞으로 가자\n그런 뜻이 있는 거지",
+     "en": "So even though my life is full of “aigo” moments right now... Still, let’s move forward. That’s kind of the message."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 256930,
+       "end_ms": 259780,
+       "ko": "내 첫 번째 곡이랑 약간 비슷한 느낌이 있다",
+       "en": "It kind of gives the same vibe as my first song."
+      }
+     ],
+     "start_ms": 256930,
+     "end_ms": 259780,
+     "ko": "내 첫 번째 곡이랑 약간 비슷한 느낌이 있다",
+     "en": "It kind of gives the same vibe as my first song."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 259780,
+       "end_ms": 260990,
+       "ko": "아 그래 그래?",
+       "en": "Oh, really?"
+      },
+      {
+       "start_ms": 260990,
+       "end_ms": 264640,
+       "ko": "뭐 음악적인 느낌이 아니면 가사? - 가사적인 느낌이",
+       "en": "Like musically or the lyrics? - Lyrically, the vibe."
+      }
+     ],
+     "start_ms": 259780,
+     "end_ms": 264640,
+     "ko": "아 그래 그래?\n뭐 음악적인 느낌이 아니면 가사? - 가사적인 느낌이",
+     "en": "Oh, really? Like musically or the lyrics? - Lyrically, the vibe."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 266350,
+       "end_ms": 268940,
+       "ko": "알지?",
+       "en": "You know it?"
+      },
+      {
+       "start_ms": 268940,
+       "end_ms": 270610,
+       "ko": "몰라? 진짜?",
+       "en": "You don’t? Seriously?"
+      }
+     ],
+     "start_ms": 266350,
+     "end_ms": 270610,
+     "ko": "알지?\n몰라? 진짜?",
+     "en": "You know it? You don’t? Seriously?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 270610,
+       "end_ms": 273380,
+       "ko": "그러면 여기까지 첫 번째 노래였습니다",
+       "en": "Alright, that was our first song."
+      }
+     ],
+     "start_ms": 270610,
+     "end_ms": 273380,
+     "ko": "그러면 여기까지 첫 번째 노래였습니다",
+     "en": "Alright, that was our first song."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 273380,
+       "end_ms": 276360,
+       "ko": "저의 첫 번째 노래는 다섯이라는 밴드의",
+       "en": "My first song is by a band called “Daseot” (Five),"
+      }
+     ],
+     "start_ms": 273380,
+     "end_ms": 276360,
+     "ko": "저의 첫 번째 노래는 다섯이라는 밴드의",
+     "en": "My first song is by a band called “Daseot” (Five),"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 276360,
+       "end_ms": 278270,
+       "ko": "어? 알아ㅇ... 알아",
+       "en": "Oh? I kno— I know it."
+      }
+     ],
+     "start_ms": 276360,
+     "end_ms": 278270,
+     "ko": "어? 알아ㅇ... 알아",
+     "en": "Oh? I kno— I know it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 278270,
+       "end_ms": 280630,
+       "ko": "<점심시간>이라는 곡입니다",
+       "en": "It’s a song called <Lunch Time>."
+      },
+      {
+       "start_ms": 280630,
+       "end_ms": 281270,
+       "ko": "알아?",
+       "en": "You know it?"
+      }
+     ],
+     "start_ms": 278270,
+     "end_ms": 281270,
+     "ko": "<점심시간>이라는 곡입니다\n알아?",
+     "en": "It’s a song called <Lunch Time>. You know it?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 281270,
+       "end_ms": 282050,
+       "ko": "아니",
+       "en": "Nope."
+      }
+     ],
+     "start_ms": 281270,
+     "end_ms": 282050,
+     "ko": "아니",
+     "en": "Nope."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 282050,
+       "end_ms": 282830,
+       "ko": "몰라?",
+       "en": "You don’t?"
+      },
+      {
+       "start_ms": 282830,
+       "end_ms": 289380,
+       "ko": "어떤 가사냐면, 1절은 한국의 학생의 시점에서",
+       "en": "So, the lyrics go—verse one is from a Korean student’s perspective."
+      },
+      {
+       "start_ms": 289380,
+       "end_ms": 291720,
+       "ko": "'아 이 수업 너무 듣기 싫은데...'",
+       "en": "“Ugh, I really don’t wanna listen to this class…”"
+      },
+      {
+       "start_ms": 291720,
+       "end_ms": 295330,
+       "ko": "'왜 여기서 앉아서 뭐 공부하는지도 모르겠는데'",
+       "en": "“I don’t even know why I’m sitting here studying this…”"
+      },
+      {
+       "start_ms": 295330,
+       "end_ms": 296840,
+       "ko": "'밖에 나가고 싶다'",
+       "en": "“I wanna go outside.”"
+      },
+      {
+       "start_ms": 296840,
+       "end_ms": 299210,
+       "ko": "'그래서 점심시간만 기다린다'",
+       "en": "“So I’m just waiting for lunchtime.”"
+      },
+      {
+       "start_ms": 299210,
+       "end_ms": 301410,
+       "ko": "- 그리고 2절은... - 학생들이 많이 하는 생각이네",
+       "en": "- And then the second verse... - A lot of students probably relate to that."
+      },
+      {
+       "start_ms": 301410,
+       "end_ms": 304150,
+       "ko": "응, 2절은 직장인의 관점에서",
+       "en": "Yeah, the second verse is from a worker’s point of view."
+      },
+      {
+       "start_ms": 304150,
+       "end_ms": 307220,
+       "ko": "'아 이 회사 그만두고 싶고'",
+       "en": "“Ugh, I wanna quit this company…”"
+      },
+      {
+       "start_ms": 307220,
+       "end_ms": 308620,
+       "ko": "'빨리 쉬고 싶은데'",
+       "en": "“I just wanna rest already.”"
+      },
+      {
+       "start_ms": 308620,
+       "end_ms": 310780,
+       "ko": "'그래서 점심시간이 왔으면 좋겠다'",
+       "en": "“So I wish lunchtime would hurry up and come.”"
+      },
+      {
+       "start_ms": 310780,
+       "end_ms": 312930,
+       "ko": "그런 마음을 계속 가지고 있다가",
+       "en": "They keep having those feelings..."
+      },
+      {
+       "start_ms": 312930,
+       "end_ms": 315220,
+       "ko": "한국으로 여행을 오는 거지",
+       "en": "And then they end up traveling to Korea."
+      }
+     ],
+     "start_ms": 282050,
+     "end_ms": 315220,
+     "ko": "몰라?\n어떤 가사냐면, 1절은 한국의 학생의 시점에서\n'아 이 수업 너무 듣기 싫은데...'\n'왜 여기서 앉아서 뭐 공부하는지도 모르겠는데'\n'밖에 나가고 싶다'\n'그래서 점심시간만 기다린다'\n- 그리고 2절은... - 학생들이 많이 하는 생각이네\n응, 2절은 직장인의 관점에서\n'아 이 회사 그만두고 싶고'\n'빨리 쉬고 싶은데'\n'그래서 점심시간이 왔으면 좋겠다'\n그런 마음을 계속 가지고 있다가\n한국으로 여행을 오는 거지",
+     "en": "You don’t? So, the lyrics go—verse one is from a Korean student’s perspective. “Ugh, I really don’t wanna listen to this class…” “I don’t even know why I’m sitting here studying this…” “I wanna go outside.” “So I’m just waiting for lunchtime.” - And then the second verse... - A lot of students probably relate to that. Yeah, the second verse is from a worker’s point of view. “Ugh, I wanna quit this company…” “I just wanna rest already.” “So I wish lunchtime would hurry up and come.” They keep having those feelings... And then they end up traveling to Korea."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 315220,
+       "end_ms": 317400,
+       "ko": "그런 내용이 있어, 노래에?",
+       "en": "That’s in the song?"
+      },
+      {
+       "start_ms": 317400,
+       "end_ms": 319950,
+       "ko": "'어디로 떠난다' 이런 내용?",
+       "en": "Like, they go somewhere?"
+      },
+      {
+       "start_ms": 319950,
+       "end_ms": 322550,
+       "ko": "그냥 신세 한탄만 하다 끝나는 거 아니야?",
+       "en": "Doesn’t it just end with them venting their frustrations?"
+      }
+     ],
+     "start_ms": 315220,
+     "end_ms": 322550,
+     "ko": "그런 내용이 있어, 노래에?\n'어디로 떠난다' 이런 내용?\n그냥 신세 한탄만 하다 끝나는 거 아니야?",
+     "en": "That’s in the song? Like, they go somewhere? Doesn’t it just end with them venting their frustrations?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 322550,
+       "end_ms": 325060,
+       "ko": "어.. 그건 아니고",
+       "en": "Uh... not really."
+      },
+      {
+       "start_ms": 325060,
+       "end_ms": 327110,
+       "ko": "어디로 떠나지도 않고",
+       "en": "They don’t go anywhere, actually."
+      },
+      {
+       "start_ms": 327110,
+       "end_ms": 331840,
+       "ko": "대신, 점심시간 종이 치면 난 달려갈 것이다",
+       "en": "Instead, “When the lunch bell rings, I’ll run.”"
+      },
+      {
+       "start_ms": 331840,
+       "end_ms": 336560,
+       "ko": "그 점심시간을 기다리다가 달려가는 학생이랑 직장인처럼",
+       "en": "Like students or workers who’ve been waiting and then rush out at lunchtime."
+      }
+     ],
+     "start_ms": 322550,
+     "end_ms": 336560,
+     "ko": "어.. 그건 아니고\n어디로 떠나지도 않고\n대신, 점심시간 종이 치면 난 달려갈 것이다\n그 점심시간을 기다리다가 달려가는 학생이랑 직장인처럼",
+     "en": "Uh... not really. They don’t go anywhere, actually. Instead, “When the lunch bell rings, I’ll run.” Like students or workers who’ve been waiting and then rush out at lunchtime."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 336560,
+       "end_ms": 339190,
+       "ko": "한국으로 달려오는 그런 느낌인가?",
+       "en": "So it's like running toward Korea with that same feeling?"
+      }
+     ],
+     "start_ms": 336560,
+     "end_ms": 339190,
+     "ko": "한국으로 달려오는 그런 느낌인가?",
+     "en": "So it's like running toward Korea with that same feeling?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 339190,
+       "end_ms": 340140,
+       "ko": "아니지",
+       "en": "Nah, not really."
+      }
+     ],
+     "start_ms": 339190,
+     "end_ms": 340140,
+     "ko": "아니지",
+     "en": "Nah, not really."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 340140,
+       "end_ms": 341800,
+       "ko": "뭐야 그럼ㅋㅋㅋㅋ",
+       "en": "Then what is it? LOL"
+      }
+     ],
+     "start_ms": 340140,
+     "end_ms": 341800,
+     "ko": "뭐야 그럼ㅋㅋㅋㅋ",
+     "en": "Then what is it? LOL"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 341800,
+       "end_ms": 343340,
+       "ko": "그건 아니고...",
+       "en": "No, it's not that..."
+      },
+      {
+       "start_ms": 343340,
+       "end_ms": 345390,
+       "ko": "'학생들과 직장인들이 다들 그렇게",
+       "en": "When all the students and workers are"
+      },
+      {
+       "start_ms": 345390,
+       "end_ms": 348340,
+       "ko": "점심시간만 기다리며 버티고 있을 때",
+       "en": "barely holding on, waiting for lunch..."
+      },
+      {
+       "start_ms": 348340,
+       "end_ms": 351820,
+       "ko": "나는 비행기를 타고 있다'",
+       "en": "I’m on a plane.\""
+      }
+     ],
+     "start_ms": 341800,
+     "end_ms": 351820,
+     "ko": "그건 아니고...\n'학생들과 직장인들이 다들 그렇게\n점심시간만 기다리며 버티고 있을 때\n나는 비행기를 타고 있다'",
+     "en": "No, it's not that... When all the students and workers are barely holding on, waiting for lunch... I’m on a plane.\""
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 351820,
+       "end_ms": 354360,
+       "ko": "그거네! 그 재미지 여행은!",
+       "en": "That’s it! That’s the fun of traveling!"
+      }
+     ],
+     "start_ms": 351820,
+     "end_ms": 354360,
+     "ko": "그거네! 그 재미지 여행은!",
+     "en": "That’s it! That’s the fun of traveling!"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 354360,
+       "end_ms": 355000,
+       "ko": "그 재미!",
+       "en": "Exactly that!"
+      },
+      {
+       "start_ms": 355000,
+       "end_ms": 358030,
+       "ko": "남들 일하고 있을 때 나는 놀러간다!",
+       "en": "When everyone else is working, I’m off having fun!"
+      }
+     ],
+     "start_ms": 354360,
+     "end_ms": 358030,
+     "ko": "그 재미!\n남들 일하고 있을 때 나는 놀러간다!",
+     "en": "Exactly that! When everyone else is working, I’m off having fun!"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 358030,
+       "end_ms": 359630,
+       "ko": "아 맞네",
+       "en": "Oh, true."
+      }
+     ],
+     "start_ms": 358030,
+     "end_ms": 359630,
+     "ko": "아 맞네",
+     "en": "Oh, true."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 359630,
+       "end_ms": 361320,
+       "ko": "여행의 묘미가 그런 거 아니겠니?",
+       "en": "Isn’t that the real charm of travel?"
+      }
+     ],
+     "start_ms": 359630,
+     "end_ms": 361320,
+     "ko": "여행의 묘미가 그런 거 아니겠니?",
+     "en": "Isn’t that the real charm of travel?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 361320,
+       "end_ms": 362370,
+       "ko": "그치",
+       "en": "Totally."
+      },
+      {
+       "start_ms": 362370,
+       "end_ms": 366550,
+       "ko": "특히나 평일에 여행 오시는 분들은 들으면 좋겠네",
+       "en": "Especially people traveling on weekdays would enjoy it."
+      },
+      {
+       "start_ms": 366550,
+       "end_ms": 367420,
+       "ko": "한번 들어볼게",
+       "en": "I’ll give it a listen."
+      },
+      {
+       "start_ms": 370330,
+       "end_ms": 372680,
+       "ko": "시작부터 아주... 청량하지?",
+       "en": "It’s super refreshing right from the start, huh?"
+      },
+      {
+       "start_ms": 372680,
+       "end_ms": 373860,
+       "ko": "어, 청량하네",
+       "en": "Yeah, it’s refreshing."
+      },
+      {
+       "start_ms": 376510,
+       "end_ms": 377830,
+       "ko": "그 목소리도 되게 나른해",
+       "en": "The voice also sounds really mellow."
+      },
+      {
+       "start_ms": 377830,
+       "end_ms": 379720,
+       "ko": "뭔가 그... 지겨워 보여ㅋㅋㅋ",
+       "en": "Like... it kind of sounds bored? LOL"
+      }
+     ],
+     "start_ms": 361320,
+     "end_ms": 379720,
+     "ko": "그치\n특히나 평일에 여행 오시는 분들은 들으면 좋겠네\n한번 들어볼게\n시작부터 아주... 청량하지?\n어, 청량하네\n그 목소리도 되게 나른해\n뭔가 그... 지겨워 보여ㅋㅋㅋ",
+     "en": "Totally. Especially people traveling on weekdays would enjoy it. I’ll give it a listen. It’s super refreshing right from the start, huh? Yeah, it’s refreshing. The voice also sounds really mellow. Like... it kind of sounds bored? LOL"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 381050,
+       "end_ms": 383670,
+       "ko": "그래서 이 가사는 어제의 나",
+       "en": "So the lyrics go, “yesterday’s me,”"
+      },
+      {
+       "start_ms": 383670,
+       "end_ms": 384720,
+       "ko": "그리고 오늘의 당신들",
+       "en": "and “today’s you.”"
+      },
+      {
+       "start_ms": 387120,
+       "end_ms": 391980,
+       "ko": "이런 밴드 곡이 너무 재밌게 편곡을 해서",
+       "en": "The band arranged the song in such a fun way,"
+      },
+      {
+       "start_ms": 391980,
+       "end_ms": 394980,
+       "ko": "듣는 재미도 있습니다 여러분",
+       "en": "so it’s also a pleasure to listen to, everyone."
+      }
+     ],
+     "start_ms": 381050,
+     "end_ms": 394980,
+     "ko": "그래서 이 가사는 어제의 나\n그리고 오늘의 당신들\n이런 밴드 곡이 너무 재밌게 편곡을 해서\n듣는 재미도 있습니다 여러분",
+     "en": "So the lyrics go, “yesterday’s me,” and “today’s you.” The band arranged the song in such a fun way, so it’s also a pleasure to listen to, everyone."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 394980,
+       "end_ms": 396540,
+       "ko": "신나네요!",
+       "en": "That’s so upbeat!"
+      },
+      {
+       "start_ms": 396540,
+       "end_ms": 398210,
+       "ko": "좋ㄴ... 좋다!",
+       "en": "Ni— nice... it’s nice!"
+      },
+      {
+       "start_ms": 399620,
+       "end_ms": 401820,
+       "ko": "그러면 이제 두 번째 노래",
+       "en": "Alright, now for the second song."
+      },
+      {
+       "start_ms": 401820,
+       "end_ms": 408140,
+       "ko": "정우의, 정우라는 가수의 <클라우드 쿠쿠랜드>라는 노래야",
+       "en": "It’s a song called <Cloud Cuckoo Land> by a singer named Jungwoo."
+      },
+      {
+       "start_ms": 408140,
+       "end_ms": 409690,
+       "ko": "- 전혀... - 처음 들어보지?",
+       "en": "- Never heard of it... - First time hearing it, right?"
+      },
+      {
+       "start_ms": 409690,
+       "end_ms": 413610,
+       "ko": "- 전혀 모르는 가수와... - 아 그래? 정우도 몰라?",
+       "en": "- I don’t know the artist at all... - Really? You don’t know Jungwoo either?"
+      },
+      {
+       "start_ms": 413610,
+       "end_ms": 415520,
+       "ko": "노래를 고른 이유는",
+       "en": "The reason I chose this song is"
+      },
+      {
+       "start_ms": 415520,
+       "end_ms": 420800,
+       "ko": "'클라우드 쿠쿠랜드'가 상상 속의 그냥 섬 같은 거야",
+       "en": "‘Cloud Cuckoo Land’ is like an imaginary island."
+      },
+      {
+       "start_ms": 420800,
+       "end_ms": 424420,
+       "ko": "그래서 되게 동심 속에 있는 그런 섬?",
+       "en": "Like a place from a childlike dream?"
+      },
+      {
+       "start_ms": 424420,
+       "end_ms": 427490,
+       "ko": "어렸을 때 나의 세상에서는",
+       "en": "In my childhood world,"
+      },
+      {
+       "start_ms": 427490,
+       "end_ms": 431310,
+       "ko": "나는 뭐든지 할 수 있었는데 난 지금은 그런 거를 잊어버렸다?",
+       "en": "I could do anything, but now I’ve forgotten how to feel that way?"
+      }
+     ],
+     "start_ms": 394980,
+     "end_ms": 431310,
+     "ko": "신나네요!\n좋ㄴ... 좋다!\n그러면 이제 두 번째 노래\n정우의, 정우라는 가수의 <클라우드 쿠쿠랜드>라는 노래야\n- 전혀... - 처음 들어보지?\n- 전혀 모르는 가수와... - 아 그래? 정우도 몰라?\n노래를 고른 이유는\n'클라우드 쿠쿠랜드'가 상상 속의 그냥 섬 같은 거야\n그래서 되게 동심 속에 있는 그런 섬?\n어렸을 때 나의 세상에서는\n나는 뭐든지 할 수 있었는데 난 지금은 그런 거를 잊어버렸다?",
+     "en": "That’s so upbeat! Ni— nice... it’s nice! Alright, now for the second song. It’s a song called <Cloud Cuckoo Land> by a singer named Jungwoo. - Never heard of it... - First time hearing it, right? - I don’t know the artist at all... - Really? You don’t know Jungwoo either? The reason I chose this song is ‘Cloud Cuckoo Land’ is like an imaginary island. Like a place from a childlike dream? In my childhood world, I could do anything, but now I’ve forgotten how to feel that way?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 431310,
+       "end_ms": 433020,
+       "ko": "전체적으로 좀...",
+       "en": "Overall, it’s kind of..."
+      },
+      {
+       "start_ms": 433020,
+       "end_ms": 434480,
+       "ko": "좀 애수가 있는 노래를...ㅋㅋㅋ",
+       "en": "Kind of melancholic... lol"
+      }
+     ],
+     "start_ms": 431310,
+     "end_ms": 434480,
+     "ko": "전체적으로 좀...\n좀 애수가 있는 노래를...ㅋㅋㅋ",
+     "en": "Overall, it’s kind of... Kind of melancholic... lol"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 434480,
+       "end_ms": 436800,
+       "ko": "애수? 아 그래? 그런가?",
+       "en": "Melancholy? Really? You think?"
+      }
+     ],
+     "start_ms": 434480,
+     "end_ms": 436800,
+     "ko": "애수? 아 그래? 그런가?",
+     "en": "Melancholy? Really? You think?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 436800,
+       "end_ms": 438570,
+       "ko": "- 과거에 대한... - 어 맞아 맞아",
+       "en": "- About the past... - Yeah, exactly."
+      },
+      {
+       "start_ms": 438570,
+       "end_ms": 440470,
+       "ko": "과거에 대한 좀 미련과...",
+       "en": "Some lingering regret about the past..."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 436800,
+     "end_ms": 440470,
+     "ko": "- 과거에 대한... - 어 맞아 맞아\n과거에 대한 좀 미련과...",
+     "en": "- About the past... - Yeah, exactly. Some lingering regret about the past..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 440470,
+       "end_ms": 441960,
+       "ko": "또 고민했던 노래가",
+       "en": "Another song I debated over was"
+      },
+      {
+       "start_ms": 441960,
+       "end_ms": 446890,
+       "ko": "그 '체리필터'라고 레전드 여성 보컬 밴드가 있는데",
+       "en": "There’s this legendary female vocal band called Cherry Filter,"
+      },
+      {
+       "start_ms": 446890,
+       "end_ms": 451340,
+       "ko": "그 밴드의 <Happy Day>라는 노래도 있어",
+       "en": "and they have a song called <Happy Day>."
+      },
+      {
+       "start_ms": 451340,
+       "end_ms": 454040,
+       "ko": "그것도 좀 비슷한 맥락이야",
+       "en": "It’s kind of in the same vein."
+      },
+      {
+       "start_ms": 454040,
+       "end_ms": 456890,
+       "ko": "과거에는 이렇게 잘 될 줄 알았는데",
+       "en": "Like, “I thought things would go so well in the past,”"
+      },
+      {
+       "start_ms": 456890,
+       "end_ms": 459360,
+       "ko": "지금은 힘드니까 떠나자",
+       "en": "but now it’s hard, so let’s just go somewhere."
+      },
+      {
+       "start_ms": 459360,
+       "end_ms": 460840,
+       "ko": "약간 이런 맥락?",
+       "en": "That kind of message?"
+      },
+      {
+       "start_ms": 460840,
+       "end_ms": 465050,
+       "ko": "아, 그리고 가사도 좋긴 한데 내가 고른 이유는",
+       "en": "Oh, and the lyrics are good too, but the main reason I picked it is—"
+      },
+      {
+       "start_ms": 465050,
+       "end_ms": 467980,
+       "ko": "그 노래가 좀 행진곡 같다 해야 되나?",
+       "en": "It kind of sounds like a marching song, you know?"
+      },
+      {
+       "start_ms": 467980,
+       "end_ms": 469060,
+       "ko": "일단 틀어놓을게",
+       "en": "I’ll play it first."
+      },
+      {
+       "start_ms": 470030,
+       "end_ms": 471600,
+       "ko": "행진곡 같아서",
+       "en": "Since it sounds like a march,"
+      },
+      {
+       "start_ms": 471600,
+       "end_ms": 475740,
+       "ko": "뭔가 이렇게 힘차게 걸어갈 수 있어 노래를 들으면",
+       "en": "It feels like you can walk with energy when you listen to it."
+      }
+     ],
+     "start_ms": 440470,
+     "end_ms": 475740,
+     "ko": "또 고민했던 노래가\n그 '체리필터'라고 레전드 여성 보컬 밴드가 있는데\n그 밴드의 <Happy Day>라는 노래도 있어\n그것도 좀 비슷한 맥락이야\n과거에는 이렇게 잘 될 줄 알았는데\n지금은 힘드니까 떠나자\n약간 이런 맥락?\n아, 그리고 가사도 좋긴 한데 내가 고른 이유는\n그 노래가 좀 행진곡 같다 해야 되나?\n일단 틀어놓을게\n행진곡 같아서\n뭔가 이렇게 힘차게 걸어갈 수 있어 노래를 들으면",
+     "en": "Another song I debated over was There’s this legendary female vocal band called Cherry Filter, and they have a song called <Happy Day>. It’s kind of in the same vein. Like, “I thought things would go so well in the past,” but now it’s hard, so let’s just go somewhere. That kind of message? Oh, and the lyrics are good too, but the main reason I picked it is— It kind of sounds like a marching song, you know? I’ll play it first. Since it sounds like a march, It feels like you can walk with energy when you listen to it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 475740,
+       "end_ms": 480940,
+       "ko": "전체적으로 다 이런 느낌을 선호하는 느낌이네",
+       "en": "I guess I just prefer songs with that kind of vibe."
+      }
+     ],
+     "start_ms": 475740,
+     "end_ms": 480940,
+     "ko": "전체적으로 다 이런 느낌을 선호하는 느낌이네",
+     "en": "I guess I just prefer songs with that kind of vibe."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 480940,
+       "end_ms": 485680,
+       "ko": "뭐 가사에 큰 의미가 있진 않고 그냥 쿵짝쿵짝 행진하는 것처럼",
+       "en": "The lyrics don’t have to mean much—just that rhythmic march beat."
+      },
+      {
+       "start_ms": 485680,
+       "end_ms": 491040,
+       "ko": "발걸음을 가볍게 하고 들으면 좋을 노래입니다",
+       "en": "It’s a great song to lighten your step as you walk."
+      },
+      {
+       "start_ms": 491040,
+       "end_ms": 493180,
+       "ko": "이 정도?",
+       "en": "Something like that?"
+      }
+     ],
+     "start_ms": 480940,
+     "end_ms": 493180,
+     "ko": "뭐 가사에 큰 의미가 있진 않고 그냥 쿵짝쿵짝 행진하는 것처럼\n발걸음을 가볍게 하고 들으면 좋을 노래입니다\n이 정도?",
+     "en": "The lyrics don’t have to mean much—just that rhythmic march beat. It’s a great song to lighten your step as you walk. Something like that?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 493180,
+       "end_ms": 494060,
+       "ko": "있나요?",
+       "en": "Anything else?"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 493180,
+     "end_ms": 494060,
+     "ko": "있나요?",
+     "en": "Anything else?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 494060,
+       "end_ms": 494820,
+       "ko": "음 좋습니다",
+       "en": "Mmm, sounds good."
+      }
+     ],
+     "start_ms": 494060,
+     "end_ms": 494820,
+     "ko": "음 좋습니다",
+     "en": "Mmm, sounds good."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 496780,
+       "end_ms": 498300,
+       "ko": "오!",
+       "en": "Oh!"
+      },
+      {
+       "start_ms": 498300,
+       "end_ms": 500870,
+       "ko": "-1, -1?",
+       "en": "-1, -1? Minus one, minus one?"
+      }
+     ],
+     "start_ms": 496780,
+     "end_ms": 500870,
+     "ko": "오!\n-1, -1?",
+     "en": "Oh! -1, -1? Minus one, minus one?"
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "title_ko": "밤 비행기와 구름 속 노래",
+   "title_en": "Songs for night flights and the clouds",
+   "start_ms": 500870,
+   "end_ms": 959040,
+   "hangul_chars": 1743,
+   "turns": [
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 500870,
+       "end_ms": 502440,
+       "ko": "두 번째 노래?",
+       "en": "Second song?"
+      }
+     ],
+     "start_ms": 500870,
+     "end_ms": 502440,
+     "ko": "두 번째 노래?",
+     "en": "Second song?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 502440,
+       "end_ms": 504980,
+       "ko": "나의 두 번째 곡은...",
+       "en": "My second song is..."
+      },
+      {
+       "start_ms": 504980,
+       "end_ms": 506710,
+       "ko": "사실 고르기가 너무 어려웠는데",
+       "en": "Honestly, it was really hard to pick."
+      }
+     ],
+     "start_ms": 502440,
+     "end_ms": 506710,
+     "ko": "나의 두 번째 곡은...\n사실 고르기가 너무 어려웠는데",
+     "en": "My second song is... Honestly, it was really hard to pick."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 506710,
+       "end_ms": 510240,
+       "ko": "음 그니까 너무 많았다며",
+       "en": "Yeah, you said there were too many to choose from."
+      }
+     ],
+     "start_ms": 506710,
+     "end_ms": 510240,
+     "ko": "음 그니까 너무 많았다며",
+     "en": "Yeah, you said there were too many to choose from."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 510240,
+       "end_ms": 515290,
+       "ko": "나의 두 번째 곡은 제가 굉장히 좋아하는 그룹인 클레지콰이의",
+       "en": "My second song is by one of my favorite groups, Clazziquai."
+      }
+     ],
+     "start_ms": 510240,
+     "end_ms": 515290,
+     "ko": "나의 두 번째 곡은 제가 굉장히 좋아하는 그룹인 클레지콰이의",
+     "en": "My second song is by one of my favorite groups, Clazziquai."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 515290,
+       "end_ms": 517310,
+       "ko": "오 좋지",
+       "en": "Oh, nice choice."
+      }
+     ],
+     "start_ms": 515290,
+     "end_ms": 517310,
+     "ko": "오 좋지",
+     "en": "Oh, nice choice."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 517310,
+       "end_ms": 522620,
+       "ko": "옛날 앨범 중에 <Fill This Night>이라는 노래야",
+       "en": "It's a song from an old album called <Fill This Night>."
+      },
+      {
+       "start_ms": 523260,
+       "end_ms": 526170,
+       "ko": "가사가... 추상적이라고 하나?",
+       "en": "The lyrics are... kind of abstract?"
+      },
+      {
+       "start_ms": 526170,
+       "end_ms": 529210,
+       "ko": "가사가 딱 쉽게 알아들을 수 있는 가사는 아니거든?",
+       "en": "The lyrics aren’t exactly easy to understand right away."
+      }
+     ],
+     "start_ms": 517310,
+     "end_ms": 529210,
+     "ko": "옛날 앨범 중에 <Fill This Night>이라는 노래야\n가사가... 추상적이라고 하나?\n가사가 딱 쉽게 알아들을 수 있는 가사는 아니거든?",
+     "en": "It's a song from an old album called <Fill This Night>. The lyrics are... kind of abstract? The lyrics aren’t exactly easy to understand right away."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 529210,
+       "end_ms": 532200,
+       "ko": "어~ 좀 시적인 건가?",
+       "en": "Oh~ Is it kind of poetic?"
+      }
+     ],
+     "start_ms": 529210,
+     "end_ms": 532200,
+     "ko": "어~ 좀 시적인 건가?",
+     "en": "Oh~ Is it kind of poetic?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 532200,
+       "end_ms": 534180,
+       "ko": "어, 좀 시적인 느낌이고",
+       "en": "Yeah, it feels kind of poetic."
+      },
+      {
+       "start_ms": 534180,
+       "end_ms": 538760,
+       "ko": "달이 우리를 불러서 밤에 어딘가 미지로 떠나는 느낌",
+       "en": "It’s like the moon is calling us to venture into the unknown at night."
+      },
+      {
+       "start_ms": 540210,
+       "end_ms": 542210,
+       "ko": "밤에 어딘가로 날아가자",
+       "en": "Let’s fly somewhere in the night."
+      },
+      {
+       "start_ms": 542210,
+       "end_ms": 545700,
+       "ko": "그리고 같이 춤추자 그런 느낌",
+       "en": "And let’s dance together—something like that."
+      }
+     ],
+     "start_ms": 532200,
+     "end_ms": 545700,
+     "ko": "어, 좀 시적인 느낌이고\n달이 우리를 불러서 밤에 어딘가 미지로 떠나는 느낌\n밤에 어딘가로 날아가자\n그리고 같이 춤추자 그런 느낌",
+     "en": "Yeah, it feels kind of poetic. It’s like the moon is calling us to venture into the unknown at night. Let’s fly somewhere in the night. And let’s dance together—something like that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 545700,
+       "end_ms": 548960,
+       "ko": "좀 몽환적이네 좀... 소재들도 그렇고",
+       "en": "That’s pretty dreamy... even the imagery and stuff."
+      }
+     ],
+     "start_ms": 545700,
+     "end_ms": 548960,
+     "ko": "좀 몽환적이네 좀... 소재들도 그렇고",
+     "en": "That’s pretty dreamy... even the imagery and stuff."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 548960,
+       "end_ms": 551010,
+       "ko": "왜 이 곡을 골랐냐면",
+       "en": "The reason I picked this song is..."
+      },
+      {
+       "start_ms": 551010,
+       "end_ms": 555110,
+       "ko": "낮에 밝을 때 항상 한국에 비행기를 타고 오는 건 아니잖아",
+       "en": "You don’t always fly to Korea in broad daylight."
+      },
+      {
+       "start_ms": 555110,
+       "end_ms": 558890,
+       "ko": "먼 나라에서는 밤비행기를 타고 와",
+       "en": "From faraway countries, you come on night flights."
+      },
+      {
+       "start_ms": 558890,
+       "end_ms": 563440,
+       "ko": "이제 그때 어두운 비행기에서",
+       "en": "And then, in that dark airplane..."
+      },
+      {
+       "start_ms": 563440,
+       "end_ms": 570050,
+       "ko": "창가자리에 앉아서 빛나는 별들과 검은 하늘을 보면서",
+       "en": "Sitting by the window, looking at the stars and the dark sky..."
+      },
+      {
+       "start_ms": 570050,
+       "end_ms": 575120,
+       "ko": "어디론가 떠나가는 미지의 세계로 빨려 들어가는 그런 느낌",
+       "en": "You feel like you’re getting sucked into an unknown world."
+      }
+     ],
+     "start_ms": 548960,
+     "end_ms": 575120,
+     "ko": "왜 이 곡을 골랐냐면\n낮에 밝을 때 항상 한국에 비행기를 타고 오는 건 아니잖아\n먼 나라에서는 밤비행기를 타고 와\n이제 그때 어두운 비행기에서\n창가자리에 앉아서 빛나는 별들과 검은 하늘을 보면서\n어디론가 떠나가는 미지의 세계로 빨려 들어가는 그런 느낌",
+     "en": "The reason I picked this song is... You don’t always fly to Korea in broad daylight. From faraway countries, you come on night flights. And then, in that dark airplane... Sitting by the window, looking at the stars and the dark sky... You feel like you’re getting sucked into an unknown world."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 576670,
+       "end_ms": 578760,
+       "ko": "고품격 설명!!",
+       "en": "Such a classy explanation!!"
+      }
+     ],
+     "start_ms": 576670,
+     "end_ms": 578760,
+     "ko": "고품격 설명!!",
+     "en": "Such a classy explanation!!"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 578760,
+       "end_ms": 582820,
+       "ko": "그리고 이 노래도 좀 신나는 노래",
+       "en": "And this song is also kind of upbeat."
+      },
+      {
+       "start_ms": 582820,
+       "end_ms": 586410,
+       "ko": "좀 소리가 풍성한 곡이거든",
+       "en": "It’s got a very full sound."
+      },
+      {
+       "start_ms": 586410,
+       "end_ms": 590720,
+       "ko": "비행기에 있으면... 터뷸런스라고 하나?",
+       "en": "When you’re on a plane... is it called turbulence?"
+      }
+     ],
+     "start_ms": 578760,
+     "end_ms": 590720,
+     "ko": "그리고 이 노래도 좀 신나는 노래\n좀 소리가 풍성한 곡이거든\n비행기에 있으면... 터뷸런스라고 하나?",
+     "en": "And this song is also kind of upbeat. It’s got a very full sound. When you’re on a plane... is it called turbulence?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 590720,
+       "end_ms": 591620,
+       "ko": "뭐야 그게?",
+       "en": "What’s that?"
+      }
+     ],
+     "start_ms": 590720,
+     "end_ms": 591620,
+     "ko": "뭐야 그게?",
+     "en": "What’s that?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 591620,
+       "end_ms": 595500,
+       "ko": "그 비행기의 그 웅~ 소리",
+       "en": "That loud airplane hum~"
+      },
+      {
+       "start_ms": 595500,
+       "end_ms": 597820,
+       "ko": "그것 때문에 노래가 잘 안 들려",
+       "en": "You can’t hear songs well because of it."
+      }
+     ],
+     "start_ms": 591620,
+     "end_ms": 597820,
+     "ko": "그 비행기의 그 웅~ 소리\n그것 때문에 노래가 잘 안 들려",
+     "en": "That loud airplane hum~ You can’t hear songs well because of it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 597820,
+       "end_ms": 600530,
+       "ko": "- 노이즈 캔슬링 되잖아 요즘 - 아 그렇구나",
+       "en": "- But there’s noise canceling now. - Oh, right."
+      },
+      {
+       "start_ms": 600530,
+       "end_ms": 602010,
+       "ko": "혹시 안 돼? 노이즈 캔슬링?",
+       "en": "Do you not have noise canceling?"
+      }
+     ],
+     "start_ms": 597820,
+     "end_ms": 602010,
+     "ko": "- 노이즈 캔슬링 되잖아 요즘 - 아 그렇구나\n혹시 안 돼? 노이즈 캔슬링?",
+     "en": "- But there’s noise canceling now. - Oh, right. Do you not have noise canceling?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 602010,
+       "end_ms": 602660,
+       "ko": "나 그거 안 써서",
+       "en": "I don’t use it."
+      }
+     ],
+     "start_ms": 602010,
+     "end_ms": 602660,
+     "ko": "나 그거 안 써서",
+     "en": "I don’t use it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 602660,
+       "end_ms": 603340,
+       "ko": "아 그래?",
+       "en": "Oh really?"
+      }
+     ],
+     "start_ms": 602660,
+     "end_ms": 603340,
+     "ko": "아 그래?",
+     "en": "Oh really?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 603340,
+       "end_ms": 604770,
+       "ko": "난 줄 이어폰 좋아해서",
+       "en": "I like wired earphones."
+      }
+     ],
+     "start_ms": 603340,
+     "end_ms": 604770,
+     "ko": "난 줄 이어폰 좋아해서",
+     "en": "I like wired earphones."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 604770,
+       "end_ms": 608450,
+       "ko": "아 요즘 노이즈 캔슬링 기능이 있어가지고 잘 들려",
+       "en": "Ah, these days noise canceling works well so you can hear it clearly."
+      },
+      {
+       "start_ms": 608450,
+       "end_ms": 611650,
+       "ko": "아, 미안ㅋㅋㅋㅋ",
+       "en": "Oh, sorry lol"
+      }
+     ],
+     "start_ms": 604770,
+     "end_ms": 611650,
+     "ko": "아 요즘 노이즈 캔슬링 기능이 있어가지고 잘 들려\n아, 미안ㅋㅋㅋㅋ",
+     "en": "Ah, these days noise canceling works well so you can hear it clearly. Oh, sorry lol"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 611650,
+       "end_ms": 612430,
+       "ko": "어쨌든 어쨌든",
+       "en": "Anyway, anyway—"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 611650,
+     "end_ms": 612430,
+     "ko": "어쨌든 어쨌든",
+     "en": "Anyway, anyway—"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 612430,
+       "end_ms": 615310,
+       "ko": "노이즈 캔슬링하고 시끄러운 노래 들으면 더 좋겠다, 그러면",
+       "en": "So if you use noise canceling and listen to a loud song, it’s even better."
+      }
+     ],
+     "start_ms": 612430,
+     "end_ms": 615310,
+     "ko": "노이즈 캔슬링하고 시끄러운 노래 들으면 더 좋겠다, 그러면",
+     "en": "So if you use noise canceling and listen to a loud song, it’s even better."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 615310,
+       "end_ms": 617230,
+       "ko": "아, 그치 그치",
+       "en": "Yeah, for sure."
+      },
+      {
+       "start_ms": 617230,
+       "end_ms": 623870,
+       "ko": "그래서 어두운 밤 비행기에서 여행지로 가는 설렘과 함께",
+       "en": "So with the excitement of flying at night to your travel destination..."
+      },
+      {
+       "start_ms": 623870,
+       "end_ms": 627780,
+       "ko": "달을 따라 가는 느낌으로 골랐습니다",
+       "en": "I chose it with the feeling of following the moon."
+      }
+     ],
+     "start_ms": 615310,
+     "end_ms": 627780,
+     "ko": "아, 그치 그치\n그래서 어두운 밤 비행기에서 여행지로 가는 설렘과 함께\n달을 따라 가는 느낌으로 골랐습니다",
+     "en": "Yeah, for sure. So with the excitement of flying at night to your travel destination... I chose it with the feeling of following the moon."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 627780,
+       "end_ms": 628550,
+       "ko": "맞네",
+       "en": "That makes sense."
+      },
+      {
+       "start_ms": 628550,
+       "end_ms": 631630,
+       "ko": "그러니까 첫 번째 곡은 좀 점심시간, 남들 일할 때",
+       "en": "So your first song is like, for lunchtime, when everyone else is working,"
+      },
+      {
+       "start_ms": 631630,
+       "end_ms": 634340,
+       "ko": "출발하는 사람들이 들으면 좋고,",
+       "en": "It’s great for those starting their trip then,"
+      },
+      {
+       "start_ms": 634340,
+       "end_ms": 636380,
+       "ko": "이건 밤 비행기에서 들으면 좋겠네",
+       "en": "And this one is great for listening on a night flight."
+      }
+     ],
+     "start_ms": 627780,
+     "end_ms": 636380,
+     "ko": "맞네\n그러니까 첫 번째 곡은 좀 점심시간, 남들 일할 때\n출발하는 사람들이 들으면 좋고,\n이건 밤 비행기에서 들으면 좋겠네",
+     "en": "That makes sense. So your first song is like, for lunchtime, when everyone else is working, It’s great for those starting their trip then, And this one is great for listening on a night flight."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 636380,
+       "end_ms": 636960,
+       "ko": "그렇지",
+       "en": "Exactly."
+      }
+     ],
+     "start_ms": 636380,
+     "end_ms": 636960,
+     "ko": "그렇지",
+     "en": "Exactly."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 636960,
+       "end_ms": 639450,
+       "ko": "들어보겠습니다",
+       "en": "Let’s give it a listen."
+      }
+     ],
+     "start_ms": 636960,
+     "end_ms": 639450,
+     "ko": "들어보겠습니다",
+     "en": "Let’s give it a listen."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 639450,
+       "end_ms": 643720,
+       "ko": "fill이 그 느끼다 'feel'이 아니라 채우다 'fill'",
+       "en": "“Fill” as in to fill, not “feel” as in feel."
+      },
+      {
+       "start_ms": 643720,
+       "end_ms": 646420,
+       "ko": "F I L L",
+       "en": "F I L L F-I-L-L."
+      },
+      {
+       "start_ms": 646420,
+       "end_ms": 647630,
+       "ko": "밤을 채워라!",
+       "en": "Fill the night!"
+      }
+     ],
+     "start_ms": 639450,
+     "end_ms": 647630,
+     "ko": "fill이 그 느끼다 'feel'이 아니라 채우다 'fill'\nF I L L\n밤을 채워라!",
+     "en": "“Fill” as in to fill, not “feel” as in feel. F I L L F-I-L-L. Fill the night!"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 651710,
+       "end_ms": 653790,
+       "ko": "오 비행기 타고 가는 거 같아!",
+       "en": "Oh, it really feels like flying on a plane!"
+      }
+     ],
+     "start_ms": 651710,
+     "end_ms": 653790,
+     "ko": "오 비행기 타고 가는 거 같아!",
+     "en": "Oh, it really feels like flying on a plane!"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 653790,
+       "end_ms": 654460,
+       "ko": "맞네!",
+       "en": "Right!"
+      },
+      {
+       "start_ms": 654460,
+       "end_ms": 655640,
+       "ko": "응 시작부터",
+       "en": "Yeah, from the very start."
+      }
+     ],
+     "start_ms": 653790,
+     "end_ms": 655640,
+     "ko": "맞네!\n응 시작부터",
+     "en": "Right! Yeah, from the very start."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 655640,
+       "end_ms": 657280,
+       "ko": "오 나 몰랐는데",
+       "en": "Oh, I didn’t notice that."
+      },
+      {
+       "start_ms": 657280,
+       "end_ms": 657820,
+       "ko": "파티인데?",
+       "en": "It’s like a party?"
+      },
+      {
+       "start_ms": 665380,
+       "end_ms": 668320,
+       "ko": "- 가사가 좀.... - 비행기 타고 가는 것 같아",
+       "en": "- The lyrics are a bit... - It really feels like flying on a plane."
+      }
+     ],
+     "start_ms": 655640,
+     "end_ms": 668320,
+     "ko": "오 나 몰랐는데\n파티인데?\n- 가사가 좀.... - 비행기 타고 가는 것 같아",
+     "en": "Oh, I didn’t notice that. It’s like a party? - The lyrics are a bit... - It really feels like flying on a plane."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 668320,
+       "end_ms": 669180,
+       "ko": "아 그런가?",
+       "en": "Oh really?"
+      },
+      {
+       "start_ms": 669180,
+       "end_ms": 671060,
+       "ko": "'하늘을 가르며 간다'",
+       "en": "“Slicing through the sky.”"
+      }
+     ],
+     "start_ms": 668320,
+     "end_ms": 671060,
+     "ko": "아 그런가?\n'하늘을 가르며 간다'",
+     "en": "Oh really? “Slicing through the sky.”"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 671060,
+       "end_ms": 672170,
+       "ko": "어 맞네",
+       "en": "Oh, that’s right."
+      },
+      {
+       "start_ms": 672170,
+       "end_ms": 674600,
+       "ko": "해석을 좀 잘하네",
+       "en": "You’re good at interpreting lyrics."
+      }
+     ],
+     "start_ms": 671060,
+     "end_ms": 674600,
+     "ko": "어 맞네\n해석을 좀 잘하네",
+     "en": "Oh, that’s right. You’re good at interpreting lyrics."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 674600,
+       "end_ms": 675350,
+       "ko": "고마워",
+       "en": "Thanks."
+      },
+      {
+       "start_ms": 675350,
+       "end_ms": 676260,
+       "ko": "나 이 부분 제일 좋아해",
+       "en": "This is my favorite part."
+      }
+     ],
+     "start_ms": 674600,
+     "end_ms": 676260,
+     "ko": "고마워\n나 이 부분 제일 좋아해",
+     "en": "Thanks. This is my favorite part."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 676260,
+       "end_ms": 677970,
+       "ko": "여기야? 오케이 잠시 집중",
+       "en": "This part? Okay, let’s focus for a bit."
+      },
+      {
+       "start_ms": 680560,
+       "end_ms": 682870,
+       "ko": "바운씨 바운씨하네",
+       "en": "It’s super bouncy bouncy."
+      },
+      {
+       "start_ms": 682870,
+       "end_ms": 684990,
+       "ko": "좋다 잘 골랐다",
+       "en": "Nice, good pick."
+      },
+      {
+       "start_ms": 684990,
+       "end_ms": 687100,
+       "ko": "노래를 들을 줄 아네",
+       "en": "You’ve got good taste in music."
+      }
+     ],
+     "start_ms": 676260,
+     "end_ms": 687100,
+     "ko": "여기야? 오케이 잠시 집중\n바운씨 바운씨하네\n좋다 잘 골랐다\n노래를 들을 줄 아네",
+     "en": "This part? Okay, let’s focus for a bit. It’s super bouncy bouncy. Nice, good pick. You’ve got good taste in music."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 687100,
+       "end_ms": 690910,
+       "ko": "그래서 이거를 내가 중학생 때인가 초등학생 때인가",
+       "en": "So I liked this since I was in middle school or maybe even elementary."
+      },
+      {
+       "start_ms": 690910,
+       "end_ms": 694240,
+       "ko": "엄청 옛날부터 좋아했던 곡인데",
+       "en": "It’s a song I’ve loved for a really long time."
+      },
+      {
+       "start_ms": 694240,
+       "end_ms": 696930,
+       "ko": "아무래도 옛날 곡이니까 성인이 되고",
+       "en": "Since it’s an old song, once I became an adult,"
+      },
+      {
+       "start_ms": 696930,
+       "end_ms": 701260,
+       "ko": "최근 몇 년간은 막 유명하거나 자주 들을 수 있는 노래는 아니었단 말이야",
+       "en": "It’s not the kind of song you hear often or see trending these days."
+      },
+      {
+       "start_ms": 701260,
+       "end_ms": 704060,
+       "ko": "근데 한국계 미국인인가?",
+       "en": "But is she Korean-American?"
+      },
+      {
+       "start_ms": 704060,
+       "end_ms": 707100,
+       "ko": "완전히 한국인이신가? 모르겠는데",
+       "en": "Or fully Korean? I’m not sure."
+      },
+      {
+       "start_ms": 707100,
+       "end_ms": 713850,
+       "ko": "Yaeji라는 되게 잘 나가는 핫한 DJ가 있거든",
+       "en": "There’s this super hot DJ named Yaeji."
+      },
+      {
+       "start_ms": 713850,
+       "end_ms": 719070,
+       "ko": "되게 젊은 한국인 여자 DJ분이신데",
+       "en": "She’s a young Korean female DJ."
+      },
+      {
+       "start_ms": 719070,
+       "end_ms": 723000,
+       "ko": "그분이 몇 년 전에 자기 방에서 혼자",
+       "en": "A few years ago, in her room, she was..."
+      },
+      {
+       "start_ms": 723000,
+       "end_ms": 725780,
+       "ko": "베드룸 DJ 믹스셋 이런 거를 하는데",
+       "en": "Doing a bedroom DJ mix set or something."
+      },
+      {
+       "start_ms": 725780,
+       "end_ms": 728640,
+       "ko": "엄청 트렌디한 노래들을 쓰다가",
+       "en": "She was playing super trendy tracks..."
+      },
+      {
+       "start_ms": 728640,
+       "end_ms": 731460,
+       "ko": "중간에 이 곡이 나오는 거야",
+       "en": "And then suddenly this song came on."
+      },
+      {
+       "start_ms": 731460,
+       "end_ms": 733770,
+       "ko": "그러면서 막 이렇게 해, 혼자 막",
+       "en": "And she’s like doing this, by herself..."
+      },
+      {
+       "start_ms": 733770,
+       "end_ms": 735440,
+       "ko": "근데 막 소름 나는",
+       "en": "It seriously gave me goosebumps."
+      }
+     ],
+     "start_ms": 687100,
+     "end_ms": 735440,
+     "ko": "그래서 이거를 내가 중학생 때인가 초등학생 때인가\n엄청 옛날부터 좋아했던 곡인데\n아무래도 옛날 곡이니까 성인이 되고\n최근 몇 년간은 막 유명하거나 자주 들을 수 있는 노래는 아니었단 말이야\n근데 한국계 미국인인가?\n완전히 한국인이신가? 모르겠는데\nYaeji라는 되게 잘 나가는 핫한 DJ가 있거든\n되게 젊은 한국인 여자 DJ분이신데\n그분이 몇 년 전에 자기 방에서 혼자\n베드룸 DJ 믹스셋 이런 거를 하는데\n엄청 트렌디한 노래들을 쓰다가\n중간에 이 곡이 나오는 거야\n그러면서 막 이렇게 해, 혼자 막\n근데 막 소름 나는",
+     "en": "So I liked this since I was in middle school or maybe even elementary. It’s a song I’ve loved for a really long time. Since it’s an old song, once I became an adult, It’s not the kind of song you hear often or see trending these days. But is she Korean-American? Or fully Korean? I’m not sure. There’s this super hot DJ named Yaeji. She’s a young Korean female DJ. A few years ago, in her room, she was... Doing a bedroom DJ mix set or something. She was playing super trendy tracks... And then suddenly this song came on. And she’s like doing this, by herself... It seriously gave me goosebumps."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 735440,
+       "end_ms": 737500,
+       "ko": "어디서 볼 수 있나? 유튜브?",
+       "en": "Where can you watch it? YouTube?"
+      }
+     ],
+     "start_ms": 735440,
+     "end_ms": 737500,
+     "ko": "어디서 볼 수 있나? 유튜브?",
+     "en": "Where can you watch it? YouTube?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 737500,
+       "end_ms": 738450,
+       "ko": "어, 유튜브에 검색하면",
+       "en": "Yeah, just search on YouTube."
+      }
+     ],
+     "start_ms": 737500,
+     "end_ms": 738450,
+     "ko": "어, 유튜브에 검색하면",
+     "en": "Yeah, just search on YouTube."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 738450,
+       "end_ms": 739900,
+       "ko": "아~ Yaeji~",
+       "en": "Ah~ Yaeji~"
+      }
+     ],
+     "start_ms": 738450,
+     "end_ms": 739900,
+     "ko": "아~ Yaeji~",
+     "en": "Ah~ Yaeji~"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 739900,
+       "end_ms": 745300,
+       "ko": "와, 그 뒤통수가 짜릿해지는 느낌",
+       "en": "Wow, it gives you that tingling feeling on the back of your neck."
+      }
+     ],
+     "start_ms": 739900,
+     "end_ms": 745300,
+     "ko": "와, 그 뒤통수가 짜릿해지는 느낌",
+     "en": "Wow, it gives you that tingling feeling on the back of your neck."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 745300,
+       "end_ms": 748700,
+       "ko": "영상 링크도 알려줘, 혹시 찾으면",
+       "en": "If you find it, send me the video link too."
+      },
+      {
+       "start_ms": 748700,
+       "end_ms": 751460,
+       "ko": "마지막 곡은, 아 여기 안 적었다",
+       "en": "For the last song—oh wait, I didn’t write it down."
+      },
+      {
+       "start_ms": 751460,
+       "end_ms": 753770,
+       "ko": "내가 좋아하는 가수인데",
+       "en": "It’s by one of my favorite artists."
+      },
+      {
+       "start_ms": 753770,
+       "end_ms": 755100,
+       "ko": "데이먼스 이어 알아?",
+       "en": "Do you know Damon’s Year?"
+      }
+     ],
+     "start_ms": 745300,
+     "end_ms": 755100,
+     "ko": "영상 링크도 알려줘, 혹시 찾으면\n마지막 곡은, 아 여기 안 적었다\n내가 좋아하는 가수인데\n데이먼스 이어 알아?",
+     "en": "If you find it, send me the video link too. For the last song—oh wait, I didn’t write it down. It’s by one of my favorite artists. Do you know Damon’s Year?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 755100,
+       "end_ms": 755920,
+       "ko": "어? 어",
+       "en": "Huh? Yeah."
+      }
+     ],
+     "start_ms": 755100,
+     "end_ms": 755920,
+     "ko": "어? 어",
+     "en": "Huh? Yeah."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 755920,
+       "end_ms": 758460,
+       "ko": "데이먼스 이어 노래를 내가 너무 좋아해서",
+       "en": "I really love Damon’s Year’s music."
+      },
+      {
+       "start_ms": 758460,
+       "end_ms": 762970,
+       "ko": "근데 대부분 데이먼스 이어 노래가 조금 뭐라 해야 되지?",
+       "en": "But most of their songs are kind of... how do I put it?"
+      },
+      {
+       "start_ms": 762970,
+       "end_ms": 764970,
+       "ko": "좀 슬픈 노래들이 많아",
+       "en": "A lot of them are pretty sad."
+      },
+      {
+       "start_ms": 764970,
+       "end_ms": 766870,
+       "ko": "잔잔한 노래",
+       "en": "Very calm songs."
+      },
+      {
+       "start_ms": 766870,
+       "end_ms": 769250,
+       "ko": "근데 여행을 가니까",
+       "en": "But since we’re talking about travel,"
+      },
+      {
+       "start_ms": 769250,
+       "end_ms": 773340,
+       "ko": "너무 잔잔한 노래보다는 좀 신나는 노래로 내가 골라왔어",
+       "en": "I chose a more upbeat one instead of a really calm song."
+      },
+      {
+       "start_ms": 773340,
+       "end_ms": 777600,
+       "ko": "그러니까 나는 데이먼스 이어라는 가수를 소개해주고 싶었어",
+       "en": "I just really wanted to introduce Damon’s Year as an artist."
+      },
+      {
+       "start_ms": 777600,
+       "end_ms": 781380,
+       "ko": "제목은 <죽지 않은 연인에게> 라는 노래야",
+       "en": "The title is <To My Undying Lover>."
+      },
+      {
+       "start_ms": 781380,
+       "end_ms": 783920,
+       "ko": "그래서 가사는 여행이랑 전혀 상관없는데",
+       "en": "So the lyrics have nothing to do with travel..."
+      },
+      {
+       "start_ms": 783920,
+       "end_ms": 788670,
+       "ko": "그냥 데이먼스 이어는 내가 여행 갈 때 많이 틀어 그냥",
+       "en": "But I just play Damon’s Year a lot when I travel."
+      },
+      {
+       "start_ms": 788670,
+       "end_ms": 790690,
+       "ko": "내가 개인적으로",
+       "en": "Just personally."
+      }
+     ],
+     "start_ms": 755920,
+     "end_ms": 790690,
+     "ko": "데이먼스 이어 노래를 내가 너무 좋아해서\n근데 대부분 데이먼스 이어 노래가 조금 뭐라 해야 되지?\n좀 슬픈 노래들이 많아\n잔잔한 노래\n근데 여행을 가니까\n너무 잔잔한 노래보다는 좀 신나는 노래로 내가 골라왔어\n그러니까 나는 데이먼스 이어라는 가수를 소개해주고 싶었어\n제목은 <죽지 않은 연인에게> 라는 노래야\n그래서 가사는 여행이랑 전혀 상관없는데\n그냥 데이먼스 이어는 내가 여행 갈 때 많이 틀어 그냥\n내가 개인적으로",
+     "en": "I really love Damon’s Year’s music. But most of their songs are kind of... how do I put it? A lot of them are pretty sad. Very calm songs. But since we’re talking about travel, I chose a more upbeat one instead of a really calm song. I just really wanted to introduce Damon’s Year as an artist. The title is <To My Undying Lover>. So the lyrics have nothing to do with travel... But I just play Damon’s Year a lot when I travel. Just personally."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 792570,
+       "end_ms": 794750,
+       "ko": "캐롤 같다 시작이",
+       "en": "It kinda sounds like a carol at the beginning."
+      },
+      {
+       "start_ms": 796220,
+       "end_ms": 801500,
+       "ko": "브릿팝이라고하나? 그런 느낌도 난다",
+       "en": "Is it Britpop? It kind of gives off that vibe too."
+      }
+     ],
+     "start_ms": 792570,
+     "end_ms": 801500,
+     "ko": "캐롤 같다 시작이\n브릿팝이라고하나? 그런 느낌도 난다",
+     "en": "It kinda sounds like a carol at the beginning. Is it Britpop? It kind of gives off that vibe too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 803140,
+       "end_ms": 806480,
+       "ko": "데이먼스 이어 노래 중에 <Busan>이라는 노래도 있거든",
+       "en": "There’s also a Damon’s Year song called <Busan>."
+      },
+      {
+       "start_ms": 806480,
+       "end_ms": 810860,
+       "ko": "그래서 뭔가 괜히 부산 갈 때 그런 노래 들어",
+       "en": "So like, when I go to Busan, I end up listening to that song."
+      },
+      {
+       "start_ms": 810860,
+       "end_ms": 812170,
+       "ko": "그런 거 좀 좋아해",
+       "en": "I kind of like that kind of thing."
+      },
+      {
+       "start_ms": 812170,
+       "end_ms": 814810,
+       "ko": "이름이 그 도시인 거",
+       "en": "Like when the song name is a city."
+      }
+     ],
+     "start_ms": 803140,
+     "end_ms": 814810,
+     "ko": "데이먼스 이어 노래 중에 <Busan>이라는 노래도 있거든\n그래서 뭔가 괜히 부산 갈 때 그런 노래 들어\n그런 거 좀 좋아해\n이름이 그 도시인 거",
+     "en": "There’s also a Damon’s Year song called <Busan>. So like, when I go to Busan, I end up listening to that song. I kind of like that kind of thing. Like when the song name is a city."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 814810,
+       "end_ms": 817760,
+       "ko": "기차 여행하면서 들어도 좋을 것 같은 느낌이네",
+       "en": "It sounds like it’d be perfect for a train trip."
+      }
+     ],
+     "start_ms": 814810,
+     "end_ms": 817760,
+     "ko": "기차 여행하면서 들어도 좋을 것 같은 느낌이네",
+     "en": "It sounds like it’d be perfect for a train trip."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 817760,
+       "end_ms": 819810,
+       "ko": "아 그래? 리듬이 기차 리듬이야?",
+       "en": "Oh yeah? Like the rhythm matches the train?"
+      }
+     ],
+     "start_ms": 817760,
+     "end_ms": 819810,
+     "ko": "아 그래? 리듬이 기차 리듬이야?",
+     "en": "Oh yeah? Like the rhythm matches the train?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 819810,
+       "end_ms": 823360,
+       "ko": "어, 계란 까먹어야 될 것 같고",
+       "en": "Yeah, like I feel like I should be cracking a boiled egg."
+      }
+     ],
+     "start_ms": 819810,
+     "end_ms": 823360,
+     "ko": "어, 계란 까먹어야 될 것 같고",
+     "en": "Yeah, like I feel like I should be cracking a boiled egg."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 823360,
+       "end_ms": 824670,
+       "ko": "어 신나겠다",
+       "en": "Haha that sounds so fun."
+      }
+     ],
+     "start_ms": 823360,
+     "end_ms": 824670,
+     "ko": "어 신나겠다",
+     "en": "Haha that sounds so fun."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 826160,
+       "end_ms": 828930,
+       "ko": "좋습니... 좋아 좋아 좋아",
+       "en": "Very ni— I mean, yeah, good good good."
+      },
+      {
+       "start_ms": 828930,
+       "end_ms": 831150,
+       "ko": "아 세 번째 곡은...",
+       "en": "Ah, and the third song is..."
+      }
+     ],
+     "start_ms": 826160,
+     "end_ms": 831150,
+     "ko": "좋습니... 좋아 좋아 좋아\n아 세 번째 곡은...",
+     "en": "Very ni— I mean, yeah, good good good. Ah, and the third song is..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 831150,
+       "end_ms": 833210,
+       "ko": "다섯 곡 할까, 그냥?",
+       "en": "Should we just do five songs each?"
+      }
+     ],
+     "start_ms": 831150,
+     "end_ms": 833210,
+     "ko": "다섯 곡 할까, 그냥?",
+     "en": "Should we just do five songs each?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 833210,
+       "end_ms": 835500,
+       "ko": "아 너무 어렵다...",
+       "en": "Ugh, this is too hard..."
+      },
+      {
+       "start_ms": 835500,
+       "end_ms": 838050,
+       "ko": "제가 사실은 여덟 곡이 후보가 있는데",
+       "en": "Actually, I had eight songs on my list."
+      },
+      {
+       "start_ms": 838050,
+       "end_ms": 840760,
+       "ko": "그 중에 세 곡만 추리려니 너무 어렵네요",
+       "en": "It’s really hard picking just three."
+      }
+     ],
+     "start_ms": 833210,
+     "end_ms": 840760,
+     "ko": "아 너무 어렵다...\n제가 사실은 여덟 곡이 후보가 있는데\n그 중에 세 곡만 추리려니 너무 어렵네요",
+     "en": "Ugh, this is too hard... Actually, I had eight songs on my list. It’s really hard picking just three."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 840760,
+       "end_ms": 844100,
+       "ko": "세 곡 해오라니까 여덟 곡을 골라왔어요",
+       "en": "I was told to bring three, but I picked eight."
+      }
+     ],
+     "start_ms": 840760,
+     "end_ms": 844100,
+     "ko": "세 곡 해오라니까 여덟 곡을 골라왔어요",
+     "en": "I was told to bring three, but I picked eight."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 844100,
+       "end_ms": 848060,
+       "ko": "그래서 남은 여섯 곡 중에 하나를 고민하는 중입니다, 저는",
+       "en": "So now I’m debating which one to pick from the remaining six."
+      },
+      {
+       "start_ms": 848060,
+       "end_ms": 855560,
+       "ko": "'새소년'이라는 아티스트의 <긴꿈>이라는 노래야",
+       "en": "It’s a song called <Long Dream> by an artist named “Se So Neon.”"
+      }
+     ],
+     "start_ms": 844100,
+     "end_ms": 855560,
+     "ko": "그래서 남은 여섯 곡 중에 하나를 고민하는 중입니다, 저는\n'새소년'이라는 아티스트의 <긴꿈>이라는 노래야",
+     "en": "So now I’m debating which one to pick from the remaining six. It’s a song called <Long Dream> by an artist named “Se So Neon.”"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 855560,
+       "end_ms": 856440,
+       "ko": "아 알아 알아",
+       "en": "Oh I know that one."
+      }
+     ],
+     "start_ms": 855560,
+     "end_ms": 856440,
+     "ko": "아 알아 알아",
+     "en": "Oh I know that one."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 856440,
+       "end_ms": 857310,
+       "ko": "알아?",
+       "en": "You do?"
+      },
+      {
+       "start_ms": 857310,
+       "end_ms": 858640,
+       "ko": "왜 골랐냐면",
+       "en": "The reason I picked it is..."
+      },
+      {
+       "start_ms": 858640,
+       "end_ms": 862500,
+       "ko": "일단 원래 내가 엄청 좋아하는 노래이기도 한데",
+       "en": "First of all, I just really love this song."
+      },
+      {
+       "start_ms": 862500,
+       "end_ms": 865540,
+       "ko": "가끔 비행기 타고 가면",
+       "en": "Sometimes when you're on a plane..."
+      },
+      {
+       "start_ms": 865540,
+       "end_ms": 870560,
+       "ko": "내 옆이나 내 아래에 구름이 있을 때가 있잖아",
+       "en": "There are clouds beside you or below you."
+      },
+      {
+       "start_ms": 870560,
+       "end_ms": 873120,
+       "ko": "그리고 구름 속으로 들어갈 때도 있고",
+       "en": "And sometimes you fly right into the clouds."
+      },
+      {
+       "start_ms": 873120,
+       "end_ms": 880090,
+       "ko": "근데 나는 항상 이 노래를 들을 때 그렇게 구름 속으로 들어가는",
+       "en": "Whenever I hear this song, I feel like I’m going into those clouds."
+      },
+      {
+       "start_ms": 880090,
+       "end_ms": 882810,
+       "ko": "그런 느낌을 받거든",
+       "en": "That’s the feeling I get."
+      },
+      {
+       "start_ms": 882810,
+       "end_ms": 887530,
+       "ko": "그래서 직접 구름 속을 가면서",
+       "en": "So while actually going through clouds,"
+      },
+      {
+       "start_ms": 887530,
+       "end_ms": 891620,
+       "ko": "구름 안에 들어가는 느낌의 노래를 듣는 거지",
+       "en": "I listen to a song that feels like entering the clouds."
+      },
+      {
+       "start_ms": 893800,
+       "end_ms": 900460,
+       "ko": "그리고 가사도 어딘가로 떠나는 느낌",
+       "en": "And the lyrics also give the sense of going somewhere."
+      },
+      {
+       "start_ms": 900460,
+       "end_ms": 905410,
+       "ko": "어느 날 갑자기 어느새 내 마음이 막 변해 있고",
+       "en": "Like, one day, suddenly your heart has already changed..."
+      },
+      {
+       "start_ms": 905410,
+       "end_ms": 908060,
+       "ko": "그리고 어딘가로 너와 손잡고 날아가는 느낌",
+       "en": "And you’re flying somewhere, holding hands with someone."
+      },
+      {
+       "start_ms": 910900,
+       "end_ms": 913090,
+       "ko": "여기서부터 좋아",
+       "en": "I love this part right here."
+      }
+     ],
+     "start_ms": 856440,
+     "end_ms": 913090,
+     "ko": "알아?\n왜 골랐냐면\n일단 원래 내가 엄청 좋아하는 노래이기도 한데\n가끔 비행기 타고 가면\n내 옆이나 내 아래에 구름이 있을 때가 있잖아\n그리고 구름 속으로 들어갈 때도 있고\n근데 나는 항상 이 노래를 들을 때 그렇게 구름 속으로 들어가는\n그런 느낌을 받거든\n그래서 직접 구름 속을 가면서\n구름 안에 들어가는 느낌의 노래를 듣는 거지\n그리고 가사도 어딘가로 떠나는 느낌\n어느 날 갑자기 어느새 내 마음이 막 변해 있고\n그리고 어딘가로 너와 손잡고 날아가는 느낌\n여기서부터 좋아",
+     "en": "You do? The reason I picked it is... First of all, I just really love this song. Sometimes when you're on a plane... There are clouds beside you or below you. And sometimes you fly right into the clouds. Whenever I hear this song, I feel like I’m going into those clouds. That’s the feeling I get. So while actually going through clouds, I listen to a song that feels like entering the clouds. And the lyrics also give the sense of going somewhere. Like, one day, suddenly your heart has already changed... And you’re flying somewhere, holding hands with someone. I love this part right here."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 914360,
+       "end_ms": 916860,
+       "ko": "아 맞아 여기 하이라이트 좋아!",
+       "en": "Oh yeah, the highlight here is so good!"
+      }
+     ],
+     "start_ms": 914360,
+     "end_ms": 916860,
+     "ko": "아 맞아 여기 하이라이트 좋아!",
+     "en": "Oh yeah, the highlight here is so good!"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 916860,
+       "end_ms": 918310,
+       "ko": "가끔 그럴 때가 있잖아",
+       "en": "Sometimes that just happens."
+      },
+      {
+       "start_ms": 918310,
+       "end_ms": 921630,
+       "ko": "가끔 바쁘게 살다가 정신 차려보니 비행기에 타있고",
+       "en": "You live life so busily, then suddenly you realize you're on a plane."
+      }
+     ],
+     "start_ms": 916860,
+     "end_ms": 921630,
+     "ko": "가끔 그럴 때가 있잖아\n가끔 바쁘게 살다가 정신 차려보니 비행기에 타있고",
+     "en": "Sometimes that just happens. You live life so busily, then suddenly you realize you're on a plane."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 922960,
+       "end_ms": 924190,
+       "ko": "얼마나 바쁘게 산 거야ㅋㅋㅋ",
+       "en": "How hectic must life have been? LOL"
+      }
+     ],
+     "start_ms": 922960,
+     "end_ms": 924190,
+     "ko": "얼마나 바쁘게 산 거야ㅋㅋㅋ",
+     "en": "How hectic must life have been? LOL"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 924190,
+       "end_ms": 926170,
+       "ko": "아 그런가?",
+       "en": "Oh, is that so?"
+      }
+     ],
+     "start_ms": 924190,
+     "end_ms": 926170,
+     "ko": "아 그런가?",
+     "en": "Oh, is that so?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 927250,
+       "end_ms": 928900,
+       "ko": "이거야?ㅋㅋㅋ",
+       "en": "Is this it? LOL"
+      },
+      {
+       "start_ms": 928900,
+       "end_ms": 930030,
+       "ko": "새로운 세상 열렸어 지금?",
+       "en": "Did a new world just open up?"
+      }
+     ],
+     "start_ms": 927250,
+     "end_ms": 930030,
+     "ko": "이거야?ㅋㅋㅋ\n새로운 세상 열렸어 지금?",
+     "en": "Is this it? LOL Did a new world just open up?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 930030,
+       "end_ms": 931720,
+       "ko": "어...",
+       "en": "Yeah..."
+      }
+     ],
+     "start_ms": 930030,
+     "end_ms": 931720,
+     "ko": "어...",
+     "en": "Yeah..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 931720,
+       "end_ms": 933140,
+       "ko": "다들 간주를 들어보세요",
+       "en": "Everyone, listen to the instrumental part."
+      },
+      {
+       "start_ms": 933140,
+       "end_ms": 935270,
+       "ko": "새로운 세상으로 갈 수 있다고 합니다",
+       "en": "They say you can enter a new world with it."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 931720,
+     "end_ms": 935270,
+     "ko": "다들 간주를 들어보세요\n새로운 세상으로 갈 수 있다고 합니다",
+     "en": "Everyone, listen to the instrumental part. They say you can enter a new world with it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 935270,
+       "end_ms": 938590,
+       "ko": "좋다 플레이리스트 하나 뚝딱 나왔네",
+       "en": "Nice, we’ve got a whole playlist just like that."
+      },
+      {
+       "start_ms": 938590,
+       "end_ms": 941950,
+       "ko": "첫 번째 럼블피쉬의 <I go>",
+       "en": "First, <I go> by Rumble Fish."
+      },
+      {
+       "start_ms": 941950,
+       "end_ms": 943940,
+       "ko": "다섯의 <점심시간>",
+       "en": "<Lunch Time> by Daseot."
+      },
+      {
+       "start_ms": 943940,
+       "end_ms": 945920,
+       "ko": "정우의 <클라우드 쿠쿠랜드>",
+       "en": "<Cloud Cuckoo Land> by Jungwoo."
+      },
+      {
+       "start_ms": 945920,
+       "end_ms": 948060,
+       "ko": "클래지콰이의 <Fill This Night>",
+       "en": "<Fill This Night> by Clazziquai."
+      },
+      {
+       "start_ms": 948060,
+       "end_ms": 950560,
+       "ko": "데이먼스 이어의 <죽지 않은 연인에게>",
+       "en": "<To My Undying Lover> by Damons Year."
+      },
+      {
+       "start_ms": 950560,
+       "end_ms": 953400,
+       "ko": "그리고 새소년의 <긴 꿈>",
+       "en": "And <Long Dream> by Se So Neon."
+      },
+      {
+       "start_ms": 953400,
+       "end_ms": 956330,
+       "ko": "이렇게 여섯 곡을 들으면 20분 정도인가?",
+       "en": "If you listen to these six songs, that’s about 20 minutes?"
+      }
+     ],
+     "start_ms": 935270,
+     "end_ms": 956330,
+     "ko": "좋다 플레이리스트 하나 뚝딱 나왔네\n첫 번째 럼블피쉬의 <I go>\n다섯의 <점심시간>\n정우의 <클라우드 쿠쿠랜드>\n클래지콰이의 <Fill This Night>\n데이먼스 이어의 <죽지 않은 연인에게>\n그리고 새소년의 <긴 꿈>\n이렇게 여섯 곡을 들으면 20분 정도인가?",
+     "en": "Nice, we’ve got a whole playlist just like that. First, <I go> by Rumble Fish. <Lunch Time> by Daseot. <Cloud Cuckoo Land> by Jungwoo. <Fill This Night> by Clazziquai. <To My Undying Lover> by Damons Year. And <Long Dream> by Se So Neon. If you listen to these six songs, that’s about 20 minutes?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 956330,
+       "end_ms": 956990,
+       "ko": "20분",
+       "en": "Twenty minutes."
+      }
+     ],
+     "start_ms": 956330,
+     "end_ms": 956990,
+     "ko": "20분",
+     "en": "Twenty minutes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 956990,
+       "end_ms": 959040,
+       "ko": "공항철도에서 들으세요",
+       "en": "Play them on the Airport Railroad!"
+      }
+     ],
+     "start_ms": 956990,
+     "end_ms": 959040,
+     "ko": "공항철도에서 들으세요",
+     "en": "Play them on the Airport Railroad!"
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "title_ko": "못다 한 노래와 반말 이야기",
+   "title_en": "Bonus songs and a chat about banmal",
+   "start_ms": 959040,
+   "end_ms": 1379840,
+   "hangul_chars": 1688,
+   "turns": [
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 959040,
+       "end_ms": 962010,
+       "ko": "- 나머지도 얘기하고 싶은데... - 그래ㅋㅋㅋ",
+       "en": "- I wanna talk about the rest too... - Yeah, LOL"
+      },
+      {
+       "start_ms": 962010,
+       "end_ms": 967580,
+       "ko": "나얼이라는 가수의 <한여름 밤의 꿈>",
+       "en": "A song by Naul called <A Midsummer Night’s Dream>."
+      }
+     ],
+     "start_ms": 959040,
+     "end_ms": 967580,
+     "ko": "- 나머지도 얘기하고 싶은데... - 그래ㅋㅋㅋ\n나얼이라는 가수의 <한여름 밤의 꿈>",
+     "en": "- I wanna talk about the rest too... - Yeah, LOL A song by Naul called <A Midsummer Night’s Dream>."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 967580,
+       "end_ms": 969260,
+       "ko": "가사부터 좋다",
+       "en": "The lyrics are beautiful from the start."
+      }
+     ],
+     "start_ms": 967580,
+     "end_ms": 969260,
+     "ko": "가사부터 좋다",
+     "en": "The lyrics are beautiful from the start."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 969260,
+       "end_ms": 969660,
+       "ko": "몰라, 이거?",
+       "en": "You don’t know it?"
+      }
+     ],
+     "start_ms": 969260,
+     "end_ms": 969660,
+     "ko": "몰라, 이거?",
+     "en": "You don’t know it?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 969660,
+       "end_ms": 970980,
+       "ko": "알 것 같아",
+       "en": "I think I’ve heard it."
+      }
+     ],
+     "start_ms": 969660,
+     "end_ms": 970980,
+     "ko": "알 것 같아",
+     "en": "I think I’ve heard it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 970980,
+       "end_ms": 972500,
+       "ko": "되게 유명해 그것도",
+       "en": "It’s super famous too."
+      },
+      {
+       "start_ms": 972500,
+       "end_ms": 977840,
+       "ko": "떠나간 연인을 그리면서 '그대는 한여름밤의 꿈이었나?'",
+       "en": "It’s about longing for a past lover, like “Were you my midsummer night’s dream?”"
+      },
+      {
+       "start_ms": 977840,
+       "end_ms": 982350,
+       "ko": "이렇게 하는 노래인데 사실 그거는 가사보다는",
+       "en": "That’s the gist, but really, more than the lyrics..."
+      },
+      {
+       "start_ms": 982350,
+       "end_ms": 986110,
+       "ko": "- 그냥 나얼님의 목소리와 - 가창력",
+       "en": "- It’s Naul’s voice... - And his vocal power."
+      },
+      {
+       "start_ms": 986110,
+       "end_ms": 990360,
+       "ko": "그리고 피아노 곡이 너무 잔잔하거든?",
+       "en": "And the piano in it is so gentle."
+      },
+      {
+       "start_ms": 990360,
+       "end_ms": 996400,
+       "ko": "비행기를 타고 여행을 하면 계속 깨있을 순 없어",
+       "en": "When you're flying, you can’t stay awake the whole time."
+      },
+      {
+       "start_ms": 996400,
+       "end_ms": 998460,
+       "ko": "되게 섬세하게...",
+       "en": "You need something delicate..."
+      },
+      {
+       "start_ms": 998460,
+       "end_ms": 1003660,
+       "ko": "이런 잔잔한 노래를 들으면서 한숨 자면 좋아",
+       "en": "It’s nice to fall asleep listening to soft songs like this."
+      },
+      {
+       "start_ms": 1003660,
+       "end_ms": 1007830,
+       "ko": "나는 그럴 때 항상 이 나얼의 한여름 밤의 꿈을 틀어놓고",
+       "en": "So in those moments, I always play Naul’s “A Midsummer Night’s Dream.”"
+      },
+      {
+       "start_ms": 1007830,
+       "end_ms": 1012020,
+       "ko": "릴렉스를 하다가 편안하게 있다가",
+       "en": "I relax and just feel at peace..."
+      },
+      {
+       "start_ms": 1012020,
+       "end_ms": 1017520,
+       "ko": "- 이제 잠이 오면 노래를 딱 정지하고 자는 거지 - 잔잔한 노래도 좋다",
+       "en": "- When I get sleepy, I stop the song and sleep. - Yeah, chill music is great too."
+      },
+      {
+       "start_ms": 1017520,
+       "end_ms": 1018310,
+       "ko": "그치",
+       "en": "Right?"
+      }
+     ],
+     "start_ms": 970980,
+     "end_ms": 1018310,
+     "ko": "되게 유명해 그것도\n떠나간 연인을 그리면서 '그대는 한여름밤의 꿈이었나?'\n이렇게 하는 노래인데 사실 그거는 가사보다는\n- 그냥 나얼님의 목소리와 - 가창력\n그리고 피아노 곡이 너무 잔잔하거든?\n비행기를 타고 여행을 하면 계속 깨있을 순 없어\n되게 섬세하게...\n이런 잔잔한 노래를 들으면서 한숨 자면 좋아\n나는 그럴 때 항상 이 나얼의 한여름 밤의 꿈을 틀어놓고\n릴렉스를 하다가 편안하게 있다가\n- 이제 잠이 오면 노래를 딱 정지하고 자는 거지 - 잔잔한 노래도 좋다\n그치",
+     "en": "It’s super famous too. It’s about longing for a past lover, like “Were you my midsummer night’s dream?” That’s the gist, but really, more than the lyrics... - It’s Naul’s voice... - And his vocal power. And the piano in it is so gentle. When you're flying, you can’t stay awake the whole time. You need something delicate... It’s nice to fall asleep listening to soft songs like this. So in those moments, I always play Naul’s “A Midsummer Night’s Dream.” I relax and just feel at peace... - When I get sleepy, I stop the song and sleep. - Yeah, chill music is great too. Right?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1018310,
+       "end_ms": 1022400,
+       "ko": "그 '한여름 밤의 꿈'이라는 표현을 되게 많이 쓰는 거 같아 한국에서",
+       "en": "I think “A midsummer night’s dream” is a really common phrase in Korea."
+      },
+      {
+       "start_ms": 1022400,
+       "end_ms": 1023630,
+       "ko": "노래도 많고",
+       "en": "There are so many songs with it too."
+      }
+     ],
+     "start_ms": 1018310,
+     "end_ms": 1023630,
+     "ko": "그 '한여름 밤의 꿈'이라는 표현을 되게 많이 쓰는 거 같아 한국에서\n노래도 많고",
+     "en": "I think “A midsummer night’s dream” is a really common phrase in Korea. There are so many songs with it too."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1023630,
+       "end_ms": 1025790,
+       "ko": "맞아",
+       "en": "Yeah, true."
+      }
+     ],
+     "start_ms": 1023630,
+     "end_ms": 1025790,
+     "ko": "맞아",
+     "en": "Yeah, true."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1025790,
+       "end_ms": 1028930,
+       "ko": "어떤 걸까? 한여름밤의 꿈이라면",
+       "en": "What would “a midsummer night’s dream” be like?"
+      }
+     ],
+     "start_ms": 1025790,
+     "end_ms": 1028930,
+     "ko": "어떤 걸까? 한여름밤의 꿈이라면",
+     "en": "What would “a midsummer night’s dream” be like?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1028930,
+       "end_ms": 1034610,
+       "ko": "너무.. 너무 달콤했던 옛날",
+       "en": "Maybe a time in the past that was just... too sweet?"
+      },
+      {
+       "start_ms": 1035580,
+       "end_ms": 1038180,
+       "ko": "그리고 짧은, 진짜 짧은",
+       "en": "And brief, super brief."
+      },
+      {
+       "start_ms": 1038180,
+       "end_ms": 1039910,
+       "ko": "지금은 없는...",
+       "en": "That’s now gone..."
+      },
+      {
+       "start_ms": 1039910,
+       "end_ms": 1043660,
+       "ko": "지나간 그런 꿈 같은 순간?",
+       "en": "A fleeting dreamlike moment that’s passed?"
+      },
+      {
+       "start_ms": 1043660,
+       "end_ms": 1049040,
+       "ko": "여름이 진짜 덥잖아 근데 나는 그 밤은 좋아하거든 여름밤",
+       "en": "Summer’s so hot, but I really love summer nights."
+      },
+      {
+       "start_ms": 1049040,
+       "end_ms": 1051560,
+       "ko": "그.. 뭐랄까",
+       "en": "Like... how should I say this?"
+      },
+      {
+       "start_ms": 1051560,
+       "end_ms": 1054780,
+       "ko": "막 산책도 쉽게 나갈 수 있고 그냥 언제든지",
+       "en": "You can just go out for a walk anytime."
+      },
+      {
+       "start_ms": 1054780,
+       "end_ms": 1057820,
+       "ko": "공원에서 맥주 먹고 이런 것도 되잖아",
+       "en": "Or drink beer at the park—those kinds of things."
+      }
+     ],
+     "start_ms": 1028930,
+     "end_ms": 1057820,
+     "ko": "너무.. 너무 달콤했던 옛날\n그리고 짧은, 진짜 짧은\n지금은 없는...\n지나간 그런 꿈 같은 순간?\n여름이 진짜 덥잖아 근데 나는 그 밤은 좋아하거든 여름밤\n그.. 뭐랄까\n막 산책도 쉽게 나갈 수 있고 그냥 언제든지\n공원에서 맥주 먹고 이런 것도 되잖아",
+     "en": "Maybe a time in the past that was just... too sweet? And brief, super brief. That’s now gone... A fleeting dreamlike moment that’s passed? Summer’s so hot, but I really love summer nights. Like... how should I say this? You can just go out for a walk anytime. Or drink beer at the park—those kinds of things."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1057820,
+       "end_ms": 1059050,
+       "ko": "공원",
+       "en": "The park."
+      }
+     ],
+     "start_ms": 1057820,
+     "end_ms": 1059050,
+     "ko": "공원",
+     "en": "The park."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1059050,
+       "end_ms": 1061570,
+       "ko": "난 바닷가로 가는데",
+       "en": "I go to the beach though."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1059050,
+     "end_ms": 1061570,
+     "ko": "난 바닷가로 가는데",
+     "en": "I go to the beach though."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1061570,
+       "end_ms": 1066470,
+       "ko": "근데 그 한여름밤의 꿈 가사에 '별들이 빛나는 밤' 이런 가사랑",
+       "en": "But in the lyrics of “A Midsummer Night’s Dream” there’s a line like “A night full of stars,”"
+      },
+      {
+       "start_ms": 1066470,
+       "end_ms": 1070660,
+       "ko": "'파도가 치는 바다' 이런 게 나오거든 그래서 딱...",
+       "en": "and “Waves crashing on the sea.” So it’s perfect..."
+      }
+     ],
+     "start_ms": 1061570,
+     "end_ms": 1070660,
+     "ko": "근데 그 한여름밤의 꿈 가사에 '별들이 빛나는 밤' 이런 가사랑\n'파도가 치는 바다' 이런 게 나오거든 그래서 딱...",
+     "en": "But in the lyrics of “A Midsummer Night’s Dream” there’s a line like “A night full of stars,” and “Waves crashing on the sea.” So it’s perfect..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1070660,
+       "end_ms": 1072180,
+       "ko": "부산 사나이를 위한 노래다",
+       "en": "It’s a song made for a Busan guy."
+      }
+     ],
+     "start_ms": 1070660,
+     "end_ms": 1072180,
+     "ko": "부산 사나이를 위한 노래다",
+     "en": "It’s a song made for a Busan guy."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1072180,
+       "end_ms": 1074430,
+       "ko": "밤바다에 가서 그 노래를 들으면서",
+       "en": "Listening to that song by the night sea..."
+      },
+      {
+       "start_ms": 1074430,
+       "end_ms": 1078930,
+       "ko": "한여름밤의 꿈을 생각하는...",
+       "en": "Thinking of a midsummer night’s dream..."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1072180,
+     "end_ms": 1078930,
+     "ko": "밤바다에 가서 그 노래를 들으면서\n한여름밤의 꿈을 생각하는...",
+     "en": "Listening to that song by the night sea... Thinking of a midsummer night’s dream..."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1078930,
+       "end_ms": 1080540,
+       "ko": "내가 공원이라고 했는데",
+       "en": "So I said “park” earlier..."
+      },
+      {
+       "start_ms": 1080540,
+       "end_ms": 1084860,
+       "ko": "소개하지 못한 곡 중에 공원이랑 관련된 노래가 하나 있어",
+       "en": "There’s actually a park-related song I didn’t get to introduce."
+      },
+      {
+       "start_ms": 1084860,
+       "end_ms": 1086180,
+       "ko": "페퍼톤스 알아?",
+       "en": "Do you know Peppertones?"
+      },
+      {
+       "start_ms": 1086180,
+       "end_ms": 1086750,
+       "ko": "응",
+       "en": "Yeah."
+      },
+      {
+       "start_ms": 1086750,
+       "end_ms": 1089120,
+       "ko": "페퍼톤스의 <공원 여행>",
+       "en": "<Park Travel> by Peppertones."
+      },
+      {
+       "start_ms": 1089120,
+       "end_ms": 1089860,
+       "ko": "공원 여행",
+       "en": "Park Travel."
+      },
+      {
+       "start_ms": 1089860,
+       "end_ms": 1094910,
+       "ko": "어, 이런 노래가 있는데 이거는 안 넣은 이유는",
+       "en": "Yeah, there’s that song, but I didn’t include it because..."
+      },
+      {
+       "start_ms": 1094910,
+       "end_ms": 1100130,
+       "ko": "가사가 그냥 집 앞 공원에 나가는 그런 내용이거든?",
+       "en": "The lyrics are just about going to the park in front of your house."
+      },
+      {
+       "start_ms": 1100130,
+       "end_ms": 1102040,
+       "ko": "그래서 해외 여행이라기보다는",
+       "en": "So it’s not exactly about going abroad..."
+      },
+      {
+       "start_ms": 1102040,
+       "end_ms": 1106650,
+       "ko": "그냥 집 앞에 공원 나갈 때 들으면 좋은 노래",
+       "en": "Just a good song for going to your local park."
+      }
+     ],
+     "start_ms": 1078930,
+     "end_ms": 1106650,
+     "ko": "내가 공원이라고 했는데\n소개하지 못한 곡 중에 공원이랑 관련된 노래가 하나 있어\n페퍼톤스 알아?\n응\n페퍼톤스의 <공원 여행>\n공원 여행\n어, 이런 노래가 있는데 이거는 안 넣은 이유는\n가사가 그냥 집 앞 공원에 나가는 그런 내용이거든?\n그래서 해외 여행이라기보다는\n그냥 집 앞에 공원 나갈 때 들으면 좋은 노래",
+     "en": "So I said “park” earlier... There’s actually a park-related song I didn’t get to introduce. Do you know Peppertones? Yeah. <Park Travel> by Peppertones. Park Travel. Yeah, there’s that song, but I didn’t include it because... The lyrics are just about going to the park in front of your house. So it’s not exactly about going abroad... Just a good song for going to your local park."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1106650,
+       "end_ms": 1113090,
+       "ko": "나도 학생 때 학원 가거나 그럴 때 많이 들었던 노래",
+       "en": "I listened to it a lot on my way to hagwon back in school."
+      },
+      {
+       "start_ms": 1113090,
+       "end_ms": 1114540,
+       "ko": "밴드가 많다 근데",
+       "en": "There are a lot of bands though."
+      }
+     ],
+     "start_ms": 1106650,
+     "end_ms": 1114540,
+     "ko": "나도 학생 때 학원 가거나 그럴 때 많이 들었던 노래\n밴드가 많다 근데",
+     "en": "I listened to it a lot on my way to hagwon back in school. There are a lot of bands though."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1114540,
+       "end_ms": 1118390,
+       "ko": "그러게... 근데 나는 사실 밴드 노래를 많이 안 듣고",
+       "en": "Right? But actually, I don’t listen to a lot of band music."
+      },
+      {
+       "start_ms": 1118390,
+       "end_ms": 1121050,
+       "ko": "힙합, R&B 이런 노래를 많이 듣거든?",
+       "en": "I mostly listen to hip-hop and R&B."
+      },
+      {
+       "start_ms": 1121050,
+       "end_ms": 1123930,
+       "ko": "그래서 내가 고른...",
+       "en": "So the ones I picked..."
+      },
+      {
+       "start_ms": 1123930,
+       "end_ms": 1128680,
+       "ko": "사실 나얼의 <한여름 밤의 꿈>은 아홉 번째고",
+       "en": "Actually, Naul’s <A Midsummer Night’s Dream> was my ninth choice."
+      },
+      {
+       "start_ms": 1128680,
+       "end_ms": 1129760,
+       "ko": "그래서...",
+       "en": "So..."
+      }
+     ],
+     "start_ms": 1114540,
+     "end_ms": 1129760,
+     "ko": "그러게... 근데 나는 사실 밴드 노래를 많이 안 듣고\n힙합, R&B 이런 노래를 많이 듣거든?\n그래서 내가 고른...\n사실 나얼의 <한여름 밤의 꿈>은 아홉 번째고\n그래서...",
+     "en": "Right? But actually, I don’t listen to a lot of band music. I mostly listen to hip-hop and R&B. So the ones I picked... Actually, Naul’s <A Midsummer Night’s Dream> was my ninth choice. So..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1129760,
+       "end_ms": 1132600,
+       "ko": "몇 개를... 몇 개를 고른 거야ㅋㅋㅋ",
+       "en": "How many did you pick exactly? LOL"
+      }
+     ],
+     "start_ms": 1129760,
+     "end_ms": 1132600,
+     "ko": "몇 개를... 몇 개를 고른 거야ㅋㅋㅋ",
+     "en": "How many did you pick exactly? LOL"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1132600,
+       "end_ms": 1134500,
+       "ko": "그래서 이 나머지 다섯 곡 중에",
+       "en": "So from these remaining five songs..."
+      },
+      {
+       "start_ms": 1134500,
+       "end_ms": 1139710,
+       "ko": "대부분이 또 완전히 다른 장르야, 힙합 R&B...",
+       "en": "Most of them are totally different genres—hip-hop, R&B..."
+      }
+     ],
+     "start_ms": 1132600,
+     "end_ms": 1139710,
+     "ko": "그래서 이 나머지 다섯 곡 중에\n대부분이 또 완전히 다른 장르야, 힙합 R&B...",
+     "en": "So from these remaining five songs... Most of them are totally different genres—hip-hop, R&B..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1139710,
+       "end_ms": 1142010,
+       "ko": "힙합 하나 그러면 추천해 볼까?",
+       "en": "Wanna recommend one hip-hop song then?"
+      }
+     ],
+     "start_ms": 1139710,
+     "end_ms": 1142010,
+     "ko": "힙합 하나 그러면 추천해 볼까?",
+     "en": "Wanna recommend one hip-hop song then?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1142010,
+       "end_ms": 1144960,
+       "ko": "힙합은!!",
+       "en": "Hip-hop!!"
+      }
+     ],
+     "start_ms": 1142010,
+     "end_ms": 1144960,
+     "ko": "힙합은!!",
+     "en": "Hip-hop!!"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1144960,
+       "end_ms": 1146460,
+       "ko": "어 속 시원하다",
+       "en": "Oh, finally!"
+      }
+     ],
+     "start_ms": 1144960,
+     "end_ms": 1146460,
+     "ko": "어 속 시원하다",
+     "en": "Oh, finally!"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1146460,
+       "end_ms": 1148970,
+       "ko": "힙합은 하나만 하나만 하나만 고르면",
+       "en": "If I had to pick just one hip-hop song—"
+      },
+      {
+       "start_ms": 1148970,
+       "end_ms": 1153820,
+       "ko": "박재범(Jay Park) <SUMMERIDE>라는 노래가 있습니다",
+       "en": "There’s a Jay Park song called <SUMMERIDE>."
+      },
+      {
+       "start_ms": 1153820,
+       "end_ms": 1157540,
+       "ko": "SUMMERIDE인데 Summer Ride가 아니라",
+       "en": "It’s “SUMMERIDE,” not “Summer Ride.”"
+      },
+      {
+       "start_ms": 1157540,
+       "end_ms": 1162280,
+       "ko": "그 Summer 끝에 R과 Ride 처음에 R을 합쳐서",
+       "en": "They merged the R at the end of “Summer” and the R from “Ride.”"
+      },
+      {
+       "start_ms": 1162280,
+       "end_ms": 1166260,
+       "ko": "그냥 SUMMERIDE라고 제목이 되어 있어요",
+       "en": "So it’s just titled SUMMERIDE."
+      }
+     ],
+     "start_ms": 1146460,
+     "end_ms": 1166260,
+     "ko": "힙합은 하나만 하나만 하나만 고르면\n박재범(Jay Park) <SUMMERIDE>라는 노래가 있습니다\nSUMMERIDE인데 Summer Ride가 아니라\n그 Summer 끝에 R과 Ride 처음에 R을 합쳐서\n그냥 SUMMERIDE라고 제목이 되어 있어요",
+     "en": "If I had to pick just one hip-hop song— There’s a Jay Park song called <SUMMERIDE>. It’s “SUMMERIDE,” not “Summer Ride.” They merged the R at the end of “Summer” and the R from “Ride.” So it’s just titled SUMMERIDE."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1166260,
+       "end_ms": 1167310,
+       "ko": "새로운 단어네",
+       "en": "That’s a new word."
+      }
+     ],
+     "start_ms": 1166260,
+     "end_ms": 1167310,
+     "ko": "새로운 단어네",
+     "en": "That’s a new word."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1167310,
+       "end_ms": 1169300,
+       "ko": "그 곡도 정말 좋습니다",
+       "en": "That song is really good too."
+      },
+      {
+       "start_ms": 1169300,
+       "end_ms": 1174070,
+       "ko": "쉐비, 쉐보레 자동차 광고로 만든 노래인데",
+       "en": "It was made for a Chevy car commercial."
+      },
+      {
+       "start_ms": 1174070,
+       "end_ms": 1177320,
+       "ko": "나는 그걸 모르고 들었는데 너무 좋은 거야",
+       "en": "I didn’t even know that and just liked it—so good."
+      },
+      {
+       "start_ms": 1177320,
+       "end_ms": 1181910,
+       "ko": "쉐보레 차 타고 친구들이랑 여름에 여행 가는 노래",
+       "en": "It’s about going on a summer trip with friends in a Chevy."
+      },
+      {
+       "start_ms": 1181910,
+       "end_ms": 1182570,
+       "ko": "너무 좋아",
+       "en": "It’s so good."
+      }
+     ],
+     "start_ms": 1167310,
+     "end_ms": 1182570,
+     "ko": "그 곡도 정말 좋습니다\n쉐비, 쉐보레 자동차 광고로 만든 노래인데\n나는 그걸 모르고 들었는데 너무 좋은 거야\n쉐보레 차 타고 친구들이랑 여름에 여행 가는 노래\n너무 좋아",
+     "en": "That song is really good too. It was made for a Chevy car commercial. I didn’t even know that and just liked it—so good. It’s about going on a summer trip with friends in a Chevy. It’s so good."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1182570,
+       "end_ms": 1184000,
+       "ko": "힙합을 원래 좋아해?",
+       "en": "You’ve always liked hip-hop?"
+      }
+     ],
+     "start_ms": 1182570,
+     "end_ms": 1184000,
+     "ko": "힙합을 원래 좋아해?",
+     "en": "You’ve always liked hip-hop?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1184000,
+       "end_ms": 1186130,
+       "ko": "응",
+       "en": "Yeah."
+      }
+     ],
+     "start_ms": 1184000,
+     "end_ms": 1186130,
+     "ko": "응",
+     "en": "Yeah."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1186130,
+       "end_ms": 1189050,
+       "ko": "한국 힙합도 좋아해? 쇼미더머니 봤어?",
+       "en": "Do you like Korean hip-hop too? Have you watched Show Me the Money?"
+      }
+     ],
+     "start_ms": 1186130,
+     "end_ms": 1189050,
+     "ko": "한국 힙합도 좋아해? 쇼미더머니 봤어?",
+     "en": "Do you like Korean hip-hop too? Have you watched Show Me the Money?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1189050,
+       "end_ms": 1189570,
+       "ko": "아니",
+       "en": "Nope."
+      },
+      {
+       "start_ms": 1189570,
+       "end_ms": 1192290,
+       "ko": "어릴 때 한국 힙합을 엄청 좋아하다가",
+       "en": "I used to love Korean hip-hop when I was younger,"
+      },
+      {
+       "start_ms": 1192290,
+       "end_ms": 1197260,
+       "ko": "외국 힙합으로 더 이동한 케이스지",
+       "en": "Then I moved more into foreign hip-hop."
+      }
+     ],
+     "start_ms": 1189050,
+     "end_ms": 1197260,
+     "ko": "아니\n어릴 때 한국 힙합을 엄청 좋아하다가\n외국 힙합으로 더 이동한 케이스지",
+     "en": "Nope. I used to love Korean hip-hop when I was younger, Then I moved more into foreign hip-hop."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1197260,
+       "end_ms": 1199170,
+       "ko": "(나는) 힙합은 잘 안 듣는데",
+       "en": "I don’t listen to much hip-hop myself,"
+      },
+      {
+       "start_ms": 1199170,
+       "end_ms": 1203450,
+       "ko": "근데 가끔 여행하거나 드라이브할 때 들으면 좋은 게",
+       "en": "But sometimes for trips or drives, it's great to listen to."
+      },
+      {
+       "start_ms": 1203450,
+       "end_ms": 1205580,
+       "ko": "pH-1 노래들 좋아",
+       "en": "I like pH-1’s songs."
+      },
+      {
+       "start_ms": 1205580,
+       "end_ms": 1209680,
+       "ko": "적당히 신나면서 적당히 힙합이고 멜로디도 있고",
+       "en": "They’re moderately upbeat, kind of hip-hop, and melodic too."
+      },
+      {
+       "start_ms": 1209680,
+       "end_ms": 1211460,
+       "ko": "따라 부르기도 괜찮고...",
+       "en": "Easy to sing along to..."
+      },
+      {
+       "start_ms": 1211460,
+       "end_ms": 1212370,
+       "ko": "추가할 뻔했는데ㅋㅋㅋ",
+       "en": "I almost added him too, LOL."
+      }
+     ],
+     "start_ms": 1197260,
+     "end_ms": 1212370,
+     "ko": "(나는) 힙합은 잘 안 듣는데\n근데 가끔 여행하거나 드라이브할 때 들으면 좋은 게\npH-1 노래들 좋아\n적당히 신나면서 적당히 힙합이고 멜로디도 있고\n따라 부르기도 괜찮고...\n추가할 뻔했는데ㅋㅋㅋ",
+     "en": "I don’t listen to much hip-hop myself, But sometimes for trips or drives, it's great to listen to. I like pH-1’s songs. They’re moderately upbeat, kind of hip-hop, and melodic too. Easy to sing along to... I almost added him too, LOL."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1212370,
+       "end_ms": 1214040,
+       "ko": "아 그래그래?",
+       "en": "Oh really?"
+      },
+      {
+       "start_ms": 1214040,
+       "end_ms": 1216300,
+       "ko": "pH-1 노래 중에 좋아하는 거 있어?",
+       "en": "Do you have a favorite pH-1 song?"
+      }
+     ],
+     "start_ms": 1212370,
+     "end_ms": 1216300,
+     "ko": "아 그래그래?\npH-1 노래 중에 좋아하는 거 있어?",
+     "en": "Oh really? Do you have a favorite pH-1 song?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1216300,
+       "end_ms": 1218250,
+       "ko": "지금 생각나는 하나만 꼽자면",
+       "en": "If I had to pick just one that comes to mind..."
+      },
+      {
+       "start_ms": 1218250,
+       "end_ms": 1219650,
+       "ko": "Zombies라는 노래가 있어",
+       "en": "There’s a song called “Zombies.”"
+      }
+     ],
+     "start_ms": 1216300,
+     "end_ms": 1219650,
+     "ko": "지금 생각나는 하나만 꼽자면\nZombies라는 노래가 있어",
+     "en": "If I had to pick just one that comes to mind... There’s a song called “Zombies.”"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1219650,
+       "end_ms": 1221380,
+       "ko": "Zombies ㅋㅋㅋ",
+       "en": "Zombies ㅋㅋㅋ Zombies LOL"
+      },
+      {
+       "start_ms": 1221380,
+       "end_ms": 1222170,
+       "ko": "발음 좋다",
+       "en": "Nice pronunciation."
+      }
+     ],
+     "start_ms": 1219650,
+     "end_ms": 1222170,
+     "ko": "Zombies ㅋㅋㅋ\n발음 좋다",
+     "en": "Zombies ㅋㅋㅋ Zombies LOL Nice pronunciation."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1222170,
+       "end_ms": 1223870,
+       "ko": "Zombies",
+       "en": "Zombies Zombies."
+      },
+      {
+       "start_ms": 1223870,
+       "end_ms": 1225890,
+       "ko": "친구들이랑 오랜만에 모여서",
+       "en": "Meeting up with your friends after a long time,"
+      },
+      {
+       "start_ms": 1225890,
+       "end_ms": 1229590,
+       "ko": "즐겁게 파티하고 놀자",
+       "en": "And just partying and having fun together."
+      },
+      {
+       "start_ms": 1229590,
+       "end_ms": 1232220,
+       "ko": "근데 다른 거 그냥 신경 쓰지 말고",
+       "en": "Forget everything else for a bit,"
+      },
+      {
+       "start_ms": 1232220,
+       "end_ms": 1236260,
+       "ko": "그냥 막 놀아서 좀비가 될 때까지 신나게 놀아보자",
+       "en": "Just go wild and party till we become zombies."
+      },
+      {
+       "start_ms": 1236260,
+       "end_ms": 1237790,
+       "ko": "그런 신나는 노래야",
+       "en": "It’s a fun and exciting song like that."
+      }
+     ],
+     "start_ms": 1222170,
+     "end_ms": 1237790,
+     "ko": "Zombies\n친구들이랑 오랜만에 모여서\n즐겁게 파티하고 놀자\n근데 다른 거 그냥 신경 쓰지 말고\n그냥 막 놀아서 좀비가 될 때까지 신나게 놀아보자\n그런 신나는 노래야",
+     "en": "Zombies Zombies. Meeting up with your friends after a long time, And just partying and having fun together. Forget everything else for a bit, Just go wild and party till we become zombies. It’s a fun and exciting song like that."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1237790,
+       "end_ms": 1240490,
+       "ko": "데이식스의 좀비도 좋은데",
+       "en": "DAY6’s “Zombie” is good too."
+      }
+     ],
+     "start_ms": 1237790,
+     "end_ms": 1240490,
+     "ko": "데이식스의 좀비도 좋은데",
+     "en": "DAY6’s “Zombie” is good too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1240490,
+       "end_ms": 1243680,
+       "ko": "데이식스 노래도 좋아",
+       "en": "Yeah, DAY6 has good songs too."
+      },
+      {
+       "start_ms": 1243680,
+       "end_ms": 1245460,
+       "ko": "노래 얘기 괜찮다",
+       "en": "Talking about songs is really fun."
+      },
+      {
+       "start_ms": 1245460,
+       "end_ms": 1248310,
+       "ko": "플레이리스트 콘텐츠 좀 해야 되겠다",
+       "en": "We should definitely do some playlist content."
+      },
+      {
+       "start_ms": 1248310,
+       "end_ms": 1250530,
+       "ko": "그리고 노래 좋아하잖아",
+       "en": "And you love music too."
+      }
+     ],
+     "start_ms": 1240490,
+     "end_ms": 1250530,
+     "ko": "데이식스 노래도 좋아\n노래 얘기 괜찮다\n플레이리스트 콘텐츠 좀 해야 되겠다\n그리고 노래 좋아하잖아",
+     "en": "Yeah, DAY6 has good songs too. Talking about songs is really fun. We should definitely do some playlist content. And you love music too."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1250530,
+       "end_ms": 1253400,
+       "ko": "나 사실 외국 노래도 넣고 싶었는데",
+       "en": "I actually wanted to include some foreign songs too."
+      },
+      {
+       "start_ms": 1253400,
+       "end_ms": 1256470,
+       "ko": "그래서 이건 다음번에...",
+       "en": "So maybe next time..."
+      },
+      {
+       "start_ms": 1256470,
+       "end_ms": 1261830,
+       "ko": "아니 저번에 내 채널에서 그 TOP5 시리즈였나? 그거 할 때",
+       "en": "No, remember that TOP5 series I did on my channel before?"
+      },
+      {
+       "start_ms": 1261830,
+       "end_ms": 1265400,
+       "ko": "내가 너무 일본 미국 거만 해가지고 좀...",
+       "en": "I only picked Japanese and American songs, so..."
+      },
+      {
+       "start_ms": 1265400,
+       "end_ms": 1267990,
+       "ko": "한국 거 하나도 안 가져왔었지?",
+       "en": "I didn’t include a single Korean song, did I?"
+      },
+      {
+       "start_ms": 1267990,
+       "end_ms": 1270750,
+       "ko": "한국어 크리에이터인데...",
+       "en": "And I’m a Korean-speaking creator..."
+      }
+     ],
+     "start_ms": 1250530,
+     "end_ms": 1270750,
+     "ko": "나 사실 외국 노래도 넣고 싶었는데\n그래서 이건 다음번에...\n아니 저번에 내 채널에서 그 TOP5 시리즈였나? 그거 할 때\n내가 너무 일본 미국 거만 해가지고 좀...\n한국 거 하나도 안 가져왔었지?\n한국어 크리에이터인데...",
+     "en": "I actually wanted to include some foreign songs too. So maybe next time... No, remember that TOP5 series I did on my channel before? I only picked Japanese and American songs, so... I didn’t include a single Korean song, did I? And I’m a Korean-speaking creator..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1270750,
+       "end_ms": 1273500,
+       "ko": "반성했구나?",
+       "en": "So you’ve reflected on that?"
+      }
+     ],
+     "start_ms": 1270750,
+     "end_ms": 1273500,
+     "ko": "반성했구나?",
+     "en": "So you’ve reflected on that?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1273500,
+       "end_ms": 1274000,
+       "ko": "이 시간이...",
+       "en": "This time..."
+      }
+     ],
+     "start_ms": 1273500,
+     "end_ms": 1274000,
+     "ko": "이 시간이...",
+     "en": "This time..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1274000,
+       "end_ms": 1276040,
+       "ko": "아 근데 반말을 안 틀린다...",
+       "en": "But you’re not slipping up with the informal speech..."
+      },
+      {
+       "start_ms": 1276040,
+       "end_ms": 1277420,
+       "ko": "틀리길 바랬는데",
+       "en": "I was hoping you’d mess it up."
+      },
+      {
+       "start_ms": 1277420,
+       "end_ms": 1278690,
+       "ko": "(원하던) 그림이 안 나왔어...",
+       "en": "It didn’t turn out the way I imagined..."
+      },
+      {
+       "start_ms": 1278690,
+       "end_ms": 1281020,
+       "ko": "되게 잘 놓는다 말을",
+       "en": "You speak really casually well."
+      }
+     ],
+     "start_ms": 1274000,
+     "end_ms": 1281020,
+     "ko": "아 근데 반말을 안 틀린다...\n틀리길 바랬는데\n(원하던) 그림이 안 나왔어...\n되게 잘 놓는다 말을",
+     "en": "But you’re not slipping up with the informal speech... I was hoping you’d mess it up. It didn’t turn out the way I imagined... You speak really casually well."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1281020,
+       "end_ms": 1281630,
+       "ko": "그래?",
+       "en": "Really?"
+      },
+      {
+       "start_ms": 1281630,
+       "end_ms": 1283240,
+       "ko": "근데 호칭을 진짜 쓸 일이 없네",
+       "en": "But there’s really no chance to use titles."
+      },
+      {
+       "start_ms": 1283240,
+       "end_ms": 1285150,
+       "ko": "이렇게 둘이 얘기할 때는",
+       "en": "Not when it’s just the two of us talking."
+      }
+     ],
+     "start_ms": 1281020,
+     "end_ms": 1285150,
+     "ko": "그래?\n근데 호칭을 진짜 쓸 일이 없네\n이렇게 둘이 얘기할 때는",
+     "en": "Really? But there’s really no chance to use titles. Not when it’s just the two of us talking."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1285150,
+       "end_ms": 1287150,
+       "ko": "맞아",
+       "en": "True."
+      },
+      {
+       "start_ms": 1287150,
+       "end_ms": 1290580,
+       "ko": "그러면 이제 플레이리스트는 끝났고",
+       "en": "Okay, so that’s it for the playlist."
+      },
+      {
+       "start_ms": 1290580,
+       "end_ms": 1293300,
+       "ko": "잠깐 반말에 대해서 이야기하면은",
+       "en": "Let’s talk about informal speech for a second."
+      },
+      {
+       "start_ms": 1293300,
+       "end_ms": 1294720,
+       "ko": "말을 잘 놓는 편이야?",
+       "en": "Are you good at speaking informally?"
+      }
+     ],
+     "start_ms": 1285150,
+     "end_ms": 1294720,
+     "ko": "맞아\n그러면 이제 플레이리스트는 끝났고\n잠깐 반말에 대해서 이야기하면은\n말을 잘 놓는 편이야?",
+     "en": "True. Okay, so that’s it for the playlist. Let’s talk about informal speech for a second. Are you good at speaking informally?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1294720,
+       "end_ms": 1295850,
+       "ko": "아니",
+       "en": "No."
+      }
+     ],
+     "start_ms": 1294720,
+     "end_ms": 1295850,
+     "ko": "아니",
+     "en": "No."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1295850,
+       "end_ms": 1298100,
+       "ko": "아 못 놓는 편이야?",
+       "en": "Oh, you’re not good at it?"
+      }
+     ],
+     "start_ms": 1295850,
+     "end_ms": 1298100,
+     "ko": "아 못 놓는 편이야?",
+     "en": "Oh, you’re not good at it?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1298100,
+       "end_ms": 1301260,
+       "ko": "아 나는 동생들한테는 잘 놔",
+       "en": "I’m fine with it when talking to younger people."
+      },
+      {
+       "start_ms": 1301260,
+       "end_ms": 1304260,
+       "ko": "윗사람한테는 절대 못 놔",
+       "en": "But I absolutely can’t do it with older people."
+      },
+      {
+       "start_ms": 1305380,
+       "end_ms": 1306620,
+       "ko": "절대",
+       "en": "Never."
+      }
+     ],
+     "start_ms": 1298100,
+     "end_ms": 1306620,
+     "ko": "아 나는 동생들한테는 잘 놔\n윗사람한테는 절대 못 놔\n절대",
+     "en": "I’m fine with it when talking to younger people. But I absolutely can’t do it with older people. Never."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1306620,
+       "end_ms": 1307380,
+       "ko": "그래?",
+       "en": "Really?"
+      }
+     ],
+     "start_ms": 1306620,
+     "end_ms": 1307380,
+     "ko": "그래?",
+     "en": "Really?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1307380,
+       "end_ms": 1310600,
+       "ko": "형 누나들한테는 나는 진짜 죽어도 못 놔",
+       "en": "With older brothers and sisters, I seriously can’t."
+      }
+     ],
+     "start_ms": 1307380,
+     "end_ms": 1310600,
+     "ko": "형 누나들한테는 나는 진짜 죽어도 못 놔",
+     "en": "With older brothers and sisters, I seriously can’t."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1310600,
+       "end_ms": 1312060,
+       "ko": "한 번 크게 혼났어?",
+       "en": "Did someone scold you badly once?"
+      }
+     ],
+     "start_ms": 1310600,
+     "end_ms": 1312060,
+     "ko": "한 번 크게 혼났어?",
+     "en": "Did someone scold you badly once?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1312060,
+       "end_ms": 1312630,
+       "ko": "아니",
+       "en": "No."
+      }
+     ],
+     "start_ms": 1312060,
+     "end_ms": 1312630,
+     "ko": "아니",
+     "en": "No."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1312630,
+       "end_ms": 1313350,
+       "ko": "그거 아니야?",
+       "en": "It’s not that?"
+      }
+     ],
+     "start_ms": 1312630,
+     "end_ms": 1313350,
+     "ko": "그거 아니야?",
+     "en": "It’s not that?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1313350,
+       "end_ms": 1314210,
+       "ko": "그건 아니야",
+       "en": "Nope, not that."
+      }
+     ],
+     "start_ms": 1313350,
+     "end_ms": 1314210,
+     "ko": "그건 아니야",
+     "en": "Nope, not that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1314900,
+       "end_ms": 1316850,
+       "ko": "근데 나이 모르잖아",
+       "en": "But you don’t know the age."
+      }
+     ],
+     "start_ms": 1314900,
+     "end_ms": 1316850,
+     "ko": "근데 나이 모르잖아",
+     "en": "But you don’t know the age."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1316850,
+       "end_ms": 1319450,
+       "ko": "응! 그니까 ㅋㅋㅋ",
+       "en": "Right! Exactly LOL"
+      }
+     ],
+     "start_ms": 1316850,
+     "end_ms": 1319450,
+     "ko": "응! 그니까 ㅋㅋㅋ",
+     "en": "Right! Exactly LOL"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1319450,
+       "end_ms": 1320130,
+       "ko": "나이 몰라ㅋㅋㅋ",
+       "en": "We don’t know each other’s age LOL"
+      },
+      {
+       "start_ms": 1320130,
+       "end_ms": 1323100,
+       "ko": "그래서 지금.. - 혼란ㅋㅋㅋ",
+       "en": "So right now... - Confused LOL"
+      },
+      {
+       "start_ms": 1323100,
+       "end_ms": 1327260,
+       "ko": "그러면 아쉽지만 벌칙 받는 사람은 없고",
+       "en": "Too bad, but no one gets a penalty."
+      },
+      {
+       "start_ms": 1327260,
+       "end_ms": 1331290,
+       "ko": "다음에도 혹시나 반말 콘텐츠 여러분들이 좋아하시면",
+       "en": "If you guys like this kind of informal speech content,"
+      },
+      {
+       "start_ms": 1331290,
+       "end_ms": 1332460,
+       "ko": "다시 해보도록 하겠습니다",
+       "en": "We’ll try it again next time."
+      },
+      {
+       "start_ms": 1332460,
+       "end_ms": 1336960,
+       "ko": "그럼 반말 모드는 이제 끝내고 마무리할게요",
+       "en": "So we’ll wrap it up and end informal mode here."
+      }
+     ],
+     "start_ms": 1319450,
+     "end_ms": 1336960,
+     "ko": "나이 몰라ㅋㅋㅋ\n그래서 지금.. - 혼란ㅋㅋㅋ\n그러면 아쉽지만 벌칙 받는 사람은 없고\n다음에도 혹시나 반말 콘텐츠 여러분들이 좋아하시면\n다시 해보도록 하겠습니다\n그럼 반말 모드는 이제 끝내고 마무리할게요",
+     "en": "We don’t know each other’s age LOL So right now... - Confused LOL Too bad, but no one gets a penalty. If you guys like this kind of informal speech content, We’ll try it again next time. So we’ll wrap it up and end informal mode here."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1336960,
+       "end_ms": 1337550,
+       "ko": "좋습니다",
+       "en": "Sounds good."
+      }
+     ],
+     "start_ms": 1336960,
+     "end_ms": 1337550,
+     "ko": "좋습니다",
+     "en": "Sounds good."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1337550,
+       "end_ms": 1341060,
+       "ko": "네 오늘 이렇게 오프라인으로 만나서",
+       "en": "So today we met offline like this"
+      },
+      {
+       "start_ms": 1341060,
+       "end_ms": 1347470,
+       "ko": "여러분들한테 한국 여행 오실 때 들으면 좋을 플레이리스트 하나 만들어 드렸는데요",
+       "en": "And created a playlist for you to enjoy when you come to Korea."
+      },
+      {
+       "start_ms": 1347470,
+       "end_ms": 1350350,
+       "ko": "노래 다 들어보시고 여러분들 소감도",
+       "en": "After you listen, please share your thoughts"
+      },
+      {
+       "start_ms": 1350350,
+       "end_ms": 1352470,
+       "ko": "댓글로 많이 남겨주시면 감사하겠습니다",
+       "en": "We’d love to see your comments!"
+      },
+      {
+       "start_ms": 1352470,
+       "end_ms": 1353420,
+       "ko": "뭔가 할 말 있나요?",
+       "en": "Anything else you want to say?"
+      }
+     ],
+     "start_ms": 1337550,
+     "end_ms": 1353420,
+     "ko": "네 오늘 이렇게 오프라인으로 만나서\n여러분들한테 한국 여행 오실 때 들으면 좋을 플레이리스트 하나 만들어 드렸는데요\n노래 다 들어보시고 여러분들 소감도\n댓글로 많이 남겨주시면 감사하겠습니다\n뭔가 할 말 있나요?",
+     "en": "So today we met offline like this And created a playlist for you to enjoy when you come to Korea. After you listen, please share your thoughts We’d love to see your comments! Anything else you want to say?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1353420,
+       "end_ms": 1355970,
+       "ko": "혹시 말 못한 노래도 추가해도 되나요?",
+       "en": "Can I add the songs I didn’t get to mention?"
+      }
+     ],
+     "start_ms": 1353420,
+     "end_ms": 1355970,
+     "ko": "혹시 말 못한 노래도 추가해도 되나요?",
+     "en": "Can I add the songs I didn’t get to mention?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1355970,
+       "end_ms": 1356830,
+       "ko": "어디에요?",
+       "en": "Where?"
+      }
+     ],
+     "start_ms": 1355970,
+     "end_ms": 1356830,
+     "ko": "어디에요?",
+     "en": "Where?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1356830,
+       "end_ms": 1358810,
+       "ko": "그 댓글에...",
+       "en": "In the comments..."
+      }
+     ],
+     "start_ms": 1356830,
+     "end_ms": 1358810,
+     "ko": "그 댓글에...",
+     "en": "In the comments..."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1358810,
+       "end_ms": 1361080,
+       "ko": "얼마든지 얼마든지 추가해 주세요",
+       "en": "Of course, add as many as you want!"
+      },
+      {
+       "start_ms": 1361080,
+       "end_ms": 1363390,
+       "ko": "그러면 다음 주제는 어떤 걸로 할까요?",
+       "en": "So what should our next topic be?"
+      }
+     ],
+     "start_ms": 1358810,
+     "end_ms": 1363390,
+     "ko": "얼마든지 얼마든지 추가해 주세요\n그러면 다음 주제는 어떤 걸로 할까요?",
+     "en": "Of course, add as many as you want! So what should our next topic be?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1363390,
+       "end_ms": 1366980,
+       "ko": "다음 주제는 '낯가림'으로 하겠습니다",
+       "en": "Next topic will be “being shy with strangers.”"
+      }
+     ],
+     "start_ms": 1363390,
+     "end_ms": 1366980,
+     "ko": "다음 주제는 '낯가림'으로 하겠습니다",
+     "en": "Next topic will be “being shy with strangers.”"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1366980,
+       "end_ms": 1370220,
+       "ko": "좋아요! 그러면 다음 요모조모에서는",
+       "en": "Sounds great! So on the next episode of Yomojomo,"
+      },
+      {
+       "start_ms": 1370220,
+       "end_ms": 1375040,
+       "ko": "낯가림에 대해서 요모조모 이야기해 보도록 하겠습니다",
+       "en": "We’ll talk all about social shyness."
+      },
+      {
+       "start_ms": 1375040,
+       "end_ms": 1378160,
+       "ko": "그럼 여기까지 Didi와 정태웅이었습니다",
+       "en": "That’s it from Didi and Jung Tae-woong."
+      }
+     ],
+     "start_ms": 1366980,
+     "end_ms": 1378160,
+     "ko": "좋아요! 그러면 다음 요모조모에서는\n낯가림에 대해서 요모조모 이야기해 보도록 하겠습니다\n그럼 여기까지 Didi와 정태웅이었습니다",
+     "en": "Sounds great! So on the next episode of Yomojomo, We’ll talk all about social shyness. That’s it from Didi and Jung Tae-woong."
+    },
+    {
+     "speaker": "둘",
+     "lines": [
+      {
+       "start_ms": 1378160,
+       "end_ms": 1379840,
+       "ko": "감사합니다",
+       "en": "Thank you!"
+      }
+     ],
+     "start_ms": 1378160,
+     "end_ms": 1379840,
+     "ko": "감사합니다",
+     "en": "Thank you!"
+    }
+   ]
+  }
+ ]
+}

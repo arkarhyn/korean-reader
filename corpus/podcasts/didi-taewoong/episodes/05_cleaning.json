@@ -1,0 +1,4506 @@
+{
+ "playlist_index": 29,
+ "id": "8p_vfs2G-8k",
+ "title": "Natural Korean Conversation Podcast | 한국생활 요모조모 ♯5 청소 (Cleaning🧼)",
+ "url": "https://www.youtube.com/watch?v=8p_vfs2G-8k",
+ "channel": "Didi's Korean Culture Podcast",
+ "upload_date": "20250326",
+ "duration_s": 3030,
+ "order": 5,
+ "show_no": 5,
+ "sources": {
+  "ko": "manual",
+  "en": "manual"
+ },
+ "segments": [
+  {
+   "start_ms": 1000,
+   "end_ms": 4000,
+   "ko": "디디와 정태웅의 한국생활 요모조모",
+   "en": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+  },
+  {
+   "start_ms": 9000,
+   "end_ms": 11000,
+   "ko": "안녕하세요 디디입니다.",
+   "en": "Hello, this is Didi."
+  },
+  {
+   "start_ms": 11000,
+   "end_ms": 13000,
+   "ko": "안녕하세요 정태웅입니다.",
+   "en": "Hello, this is Jeong Tae-woong."
+  },
+  {
+   "start_ms": 13000,
+   "end_ms": 20000,
+   "ko": "한국생활 요모조모는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다.",
+   "en": "Yomojomo of Life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea."
+  },
+  {
+   "start_ms": 20000,
+   "end_ms": 29000,
+   "ko": "지금 벌써 몇 화죠 이게? 5화인가요? 거의 한 달 했는데 어떠세요? 할만하신가요 태웅쌤?",
+   "en": "How many episodes is this now? Is it the fifth one? We've been doing this for almost a month—how are you finding it? Is it going well, Teacher Tae-woong?"
+  },
+  {
+   "start_ms": 30000,
+   "end_ms": 31000,
+   "ko": "저는 너무 재밌어요.",
+   "en": "I'm really enjoying it."
+  },
+  {
+   "start_ms": 31000,
+   "end_ms": 33000,
+   "ko": "괜찮아요? 다행이다.",
+   "en": "That's good? I'm relieved."
+  },
+  {
+   "start_ms": 33000,
+   "end_ms": 36000,
+   "ko": "저는 얘기만 해도 되는 게 너무 편해요.",
+   "en": "I really like that I just have to talk and that's it."
+  },
+  {
+   "start_ms": 36000,
+   "end_ms": 42000,
+   "ko": "제가 알아서 편집까지 다 해서 올리고 있습니다.",
+   "en": "I'm taking care of all the editing and uploading it myself."
+  },
+  {
+   "start_ms": 42000,
+   "end_ms": 43000,
+   "ko": "그렇죠.",
+   "en": "Right."
+  },
+  {
+   "start_ms": 43000,
+   "end_ms": 54000,
+   "ko": "그리고 첫 번째 에피소드를 올렸을 때 되게 기분 좋은 댓글이 있었어서 먼저 그거를 좀 읽고 오늘 이야기를 하고 싶어요.",
+   "en": "And when we uploaded the first episode, there was a really nice comment, so I'd like to read that first and then talk about today's topic."
+  },
+  {
+   "start_ms": 55000,
+   "end_ms": 61000,
+   "ko": "근데 영어로 남겨주셨는데 제가 한국어 번역을 해가지고 읽어볼게요.",
+   "en": "But they left it in English, so I translated it into Korean and I'll read it for you."
+  },
+  {
+   "start_ms": 67000,
+   "end_ms": 69000,
+   "ko": "이 팟캐스트 협업이 너무 기대돼요.",
+   "en": "I'm really looking forward to this podcast collaboration."
+  },
+  {
+   "start_ms": 69000,
+   "end_ms": 76000,
+   "ko": "디디와 태웅쌤은 정말 잘 어울리는 컴플레멘트라고 하셨는데 서로 보완하는 조합인 것 같아요.",
+   "en": "They said that Didi and Teacher Tae-woong are really a great complement to each other, like you complement each other."
+  },
+  {
+   "start_ms": 76000,
+   "end_ms": 83000,
+   "ko": "디디의 콘텐츠는 정말 체계적이고 깔끔해서 보기에도 듣기에도 편안하고 공부하는데 아주 도움이 돼요.",
+   "en": "Didi's content is really systematic and clean, so it's comfortable to watch and listen to, and it's very helpful for studying."
+  },
+  {
+   "start_ms": 83000,
+   "end_ms": 90000,
+   "ko": "그리고 태웅쌤의 콘텐츠는 그분의 호감과는 친근한 성격 덕분에 재미있게 볼 수 있어요.",
+   "en": "And Teacher Tae-woong's content is fun to watch thanks to his charm and friendly personality."
+  },
+  {
+   "start_ms": 90000,
+   "end_ms": 98000,
+   "ko": "디디는 한국 문화 전반에 대해 더 많이 이야기하는 반면에 태웅쌤은 개인적인 삶의 경험을 많이 공유하는 것 같아요.",
+   "en": "Didi tends to talk more about Korean culture in general, while Teacher Tae-woong seems to share a lot of personal life experiences."
+  },
+  {
+   "start_ms": 98000,
+   "end_ms": 105000,
+   "ko": "그리고 두 분 다 언어 난이도를 조절하는 능력이 뛰어나면서도 그게 부자연스럽게 느껴지지 않아서 정말 좋아요.",
+   "en": "And both of you are great at adjusting the language difficulty, but it doesn't feel unnatural at all, which is really nice."
+  },
+  {
+   "start_ms": 105000,
+   "end_ms": 107000,
+   "ko": "라고 남겨주셨어요.",
+   "en": "That's what they wrote."
+  },
+  {
+   "start_ms": 107000,
+   "end_ms": 109000,
+   "ko": "정말 기분 좋은 댓글입니다.",
+   "en": "That's a really nice comment."
+  },
+  {
+   "start_ms": 110000,
+   "end_ms": 116000,
+   "ko": "되게 장점을 잘 집어서 알려주셔서 기분이 좋았어요.",
+   "en": "I was happy because they really picked out the strengths well."
+  },
+  {
+   "start_ms": 116000,
+   "end_ms": 118000,
+   "ko": "매우 뿌듯하네요.",
+   "en": "It's very rewarding."
+  },
+  {
+   "start_ms": 118000,
+   "end_ms": 122000,
+   "ko": "그러니까요. 이거 좀 걱정했는데 많이 들어주실까.",
+   "en": "Right. I was a bit worried about this, wondering if many people would listen."
+  },
+  {
+   "start_ms": 122000,
+   "end_ms": 129000,
+   "ko": "그래도 듣기 연습할 때 많이 들어주시는 것 같아서 좋습니다.",
+   "en": "Still, it seems like many people are listening for listening practice, so that's good."
+  },
+  {
+   "start_ms": 129000,
+   "end_ms": 131000,
+   "ko": "정말 감사합니다.",
+   "en": "Thank you so much."
+  },
+  {
+   "start_ms": 131000,
+   "end_ms": 133000,
+   "ko": "할 맛이 납니다. 감사합니다.",
+   "en": "It makes it worth doing. Thank you."
+  },
+  {
+   "start_ms": 133000,
+   "end_ms": 135000,
+   "ko": "컴플레멘트.",
+   "en": "Complement."
+  },
+  {
+   "start_ms": 135000,
+   "end_ms": 139000,
+   "ko": "컴플레멘트. Each other 이라고 하셨어요.",
+   "en": "Complement. They said \"each other.\""
+  },
+  {
+   "start_ms": 139000,
+   "end_ms": 143000,
+   "ko": "경제 용어로 보완제라고 하죠.",
+   "en": "In economic terms, we call it a complementary good."
+  },
+  {
+   "start_ms": 143000,
+   "end_ms": 149000,
+   "ko": "서로를 보완하는 것. 예를 들어 삼겹살과 상추가 있습니다.",
+   "en": "Things that complement each other. For example, there's pork belly and lettuce."
+  },
+  {
+   "start_ms": 149000,
+   "end_ms": 152000,
+   "ko": "그리고 치킨과 맥주랄까요.",
+   "en": "And chicken and beer, you could say."
+  },
+  {
+   "start_ms": 152000,
+   "end_ms": 155000,
+   "ko": "찰떡 비유다.",
+   "en": "That's a perfect analogy."
+  },
+  {
+   "start_ms": 156000,
+   "end_ms": 165000,
+   "ko": "보완제의 특징은 한 가지의 가격이 오르면 보완제의 가격도 같이 오른다는 겁니다.",
+   "en": "The characteristic of complementary goods is that when the price of one goes up, the price of the complementary good also goes up."
+  },
+  {
+   "start_ms": 165000,
+   "end_ms": 170000,
+   "ko": "이거 태웅쌤 올 띵스 코리안 팟캐스트 1화에서 다룬 내용 아니에요.",
+   "en": "Isn't that something you covered in episode one of your All Things Korean podcast?"
+  },
+  {
+   "start_ms": 170000,
+   "end_ms": 172000,
+   "ko": "맞아요. 옛날에 다룬 내용이에요.",
+   "en": "That's right. It's something I covered a long time ago."
+  },
+  {
+   "start_ms": 172000,
+   "end_ms": 173000,
+   "ko": "그쵸. 그쵸.",
+   "en": "Right. Right."
+  },
+  {
+   "start_ms": 173000,
+   "end_ms": 177000,
+   "ko": "2화였나 3화였나. 아무튼 옛날에 인터뷰하기 전에.",
+   "en": "Was it episode two or three? Anyway, it was a long time ago, before the interview."
+  },
+  {
+   "start_ms": 177000,
+   "end_ms": 179000,
+   "ko": "혼자 하실 때.",
+   "en": "When you were doing it alone."
+  },
+  {
+   "start_ms": 179000,
+   "end_ms": 183000,
+   "ko": "기억나네. 상어 보완제.",
+   "en": "I remember. Shark complementary goods."
+  },
+  {
+   "start_ms": 184000,
+   "end_ms": 189000,
+   "ko": "이렇게 열심히 보완하면서 계속 이야기 해볼게요.",
+   "en": "So I'll keep talking while complementing each other like this."
+  },
+  {
+   "start_ms": 189000,
+   "end_ms": 195000,
+   "ko": "그래서 오늘의 주제 설명해볼게요. 오늘의 주제 뭐였죠?",
+   "en": "So let me explain today's topic. What was today's topic?"
+  },
+  {
+   "start_ms": 195000,
+   "end_ms": 198000,
+   "ko": "오늘의 주제는 청소입니다.",
+   "en": "Today's topic is cleaning."
+  },
+  {
+   "start_ms": 198000,
+   "end_ms": 202000,
+   "ko": "청소. 청소는 다들 알고 계실 것 같은데.",
+   "en": "Cleaning. I think everyone probably knows what cleaning is."
+  },
+  {
+   "start_ms": 202000,
+   "end_ms": 207000,
+   "ko": "더러운 거를 깨끗하게 치우는 그런 걸 청소라고 하죠.",
+   "en": "It's like tidying up dirty things and making them clean."
+  },
+  {
+   "start_ms": 207000,
+   "end_ms": 211000,
+   "ko": "청소 종류가 되게 여러 가지가 있을 것 같은데.",
+   "en": "It seems like there are many different types of cleaning."
+  },
+  {
+   "start_ms": 212000,
+   "end_ms": 213000,
+   "ko": "그렇죠.",
+   "en": "That's right."
+  },
+  {
+   "start_ms": 213000,
+   "end_ms": 218000,
+   "ko": "집안 청소도 있고 화장실 청소도 있고 여러 가지 있습니다만.",
+   "en": "There's house cleaning, bathroom cleaning, and various other types."
+  },
+  {
+   "start_ms": 218000,
+   "end_ms": 221000,
+   "ko": "태웅쌤은 청소를 자주 하시나요?",
+   "en": "Do you clean often, Teacher Tae-woong?"
+  },
+  {
+   "start_ms": 221000,
+   "end_ms": 225000,
+   "ko": "저는 청소를 자주 하지 않아요.",
+   "en": "I don't clean very often."
+  },
+  {
+   "start_ms": 225000,
+   "end_ms": 227000,
+   "ko": "그게 어느 정도예요?",
+   "en": "How much is that?"
+  },
+  {
+   "start_ms": 229000,
+   "end_ms": 236000,
+   "ko": "청소를 어디까지 청소라고 부를까에 따라 다를 것 같은데요.",
+   "en": "I think it depends on how far you define cleaning."
+  },
+  {
+   "start_ms": 236000,
+   "end_ms": 241000,
+   "ko": "사실 청소하고 정리가 있잖아요.",
+   "en": "Actually, there's cleaning and organizing, right?"
+  },
+  {
+   "start_ms": 241000,
+   "end_ms": 243000,
+   "ko": "그렇죠. 정리, 정돈.",
+   "en": "Right. Organizing, tidying up."
+  },
+  {
+   "start_ms": 246000,
+   "end_ms": 251000,
+   "ko": "정리가 좀 더 간단한 청소 느낌일까요?",
+   "en": "Is organizing more like a simpler kind of cleaning?"
+  },
+  {
+   "start_ms": 252000,
+   "end_ms": 257000,
+   "ko": "그쵸. 뭔가 흐트러져 있는 걸 제자리에 놓는 그 정도?",
+   "en": "Right. Like putting things that are scattered around back in their place?"
+  },
+  {
+   "start_ms": 257000,
+   "end_ms": 261000,
+   "ko": "그렇죠. 물건을 가지런하게 두고.",
+   "en": "That's right. Putting things in order."
+  },
+  {
+   "start_ms": 261000,
+   "end_ms": 263000,
+   "ko": "물건을 제자리에 두고.",
+   "en": "Putting things in their proper place."
+  },
+  {
+   "start_ms": 264000,
+   "end_ms": 269000,
+   "ko": "그런 면에서 저는 정리는 항상 해요.",
+   "en": "In that sense, I always organize."
+  },
+  {
+   "start_ms": 271000,
+   "end_ms": 277000,
+   "ko": "그러니까. 뭔가 인스타그램에 책상 올리고 하시는 거 보면 되게 깔끔해 보였는데.",
+   "en": "Right. I saw you post pictures of your desk on Instagram and it looked really neat."
+  },
+  {
+   "start_ms": 277000,
+   "end_ms": 279000,
+   "ko": "네. 정리는 항상 해요.",
+   "en": "Yes. I always organize."
+  },
+  {
+   "start_ms": 280000,
+   "end_ms": 283000,
+   "ko": "제가 정리가 안 돼 있는 꼴을 잘 못 봐서.",
+   "en": "I can't stand seeing things not organized."
+  },
+  {
+   "start_ms": 283000,
+   "end_ms": 292000,
+   "ko": "진짜? 그럼 뭐 책상 정리, 침대, 침구 정리 이런 거를 하시는 거예요?",
+   "en": "Really? So you do things like organize your desk, bed, bedding, stuff like that?"
+  },
+  {
+   "start_ms": 292000,
+   "end_ms": 293000,
+   "ko": "항상 하죠.",
+   "en": "Always."
+  },
+  {
+   "start_ms": 293000,
+   "end_ms": 294000,
+   "ko": "옷 정리?",
+   "en": "Organize your clothes?"
+  },
+  {
+   "start_ms": 294000,
+   "end_ms": 296000,
+   "ko": "항상 하죠.",
+   "en": "Always."
+  },
+  {
+   "start_ms": 296000,
+   "end_ms": 299000,
+   "ko": "잠시만. 옷장 정리는 잘 안 하는 것 같네요.",
+   "en": "Wait. It seems like I don't organize my closet very well."
+  },
+  {
+   "start_ms": 299000,
+   "end_ms": 301000,
+   "ko": "옷장 정리라고 하면 그런 건가요?",
+   "en": "When you say organize the closet, is that what you mean?"
+  },
+  {
+   "start_ms": 301000,
+   "end_ms": 305000,
+   "ko": "계절이 바뀔 때마다 정리하고?",
+   "en": "You organize it every time the season changes?"
+  },
+  {
+   "start_ms": 305000,
+   "end_ms": 309000,
+   "ko": "네. 옷을 하나하나 다 분류해서.",
+   "en": "Yes. I classify all the clothes one by one."
+  },
+  {
+   "start_ms": 309000,
+   "end_ms": 312000,
+   "ko": "어느 칸에 티셔츠 넣고.",
+   "en": "Put t-shirts in one drawer."
+  },
+  {
+   "start_ms": 312000,
+   "end_ms": 316000,
+   "ko": "어느 칸에 얇은 바지 넣고. 이런 거?",
+   "en": "Put thin pants in another drawer. Like that?"
+  },
+  {
+   "start_ms": 316000,
+   "end_ms": 319000,
+   "ko": "그런 건 자주 안 해요.",
+   "en": "I don't do that very often."
+  },
+  {
+   "start_ms": 319000,
+   "end_ms": 320000,
+   "ko": "안 해요?",
+   "en": "You don't?"
+  },
+  {
+   "start_ms": 321000,
+   "end_ms": 323000,
+   "ko": "옷장만 그렇고.",
+   "en": "It's just the closet."
+  },
+  {
+   "start_ms": 323000,
+   "end_ms": 333000,
+   "ko": "하지만 책상, 침대, 책장 이런 다른 곳들은 항상 정리를 합니다만.",
+   "en": "But I always organize other places like my desk, bed, and bookshelf."
+  },
+  {
+   "start_ms": 333000,
+   "end_ms": 342000,
+   "ko": "근데 보통 청소하면 진공청소기를 돌린다던가.",
+   "en": "But usually when people clean, they run a vacuum cleaner."
+  },
+  {
+   "start_ms": 342000,
+   "end_ms": 345000,
+   "ko": "바닥을 걸레로 닦는다던가.",
+   "en": "Or they wipe the floor with a mop."
+  },
+  {
+   "start_ms": 345000,
+   "end_ms": 347000,
+   "ko": "그런 게 떠오르잖아요.",
+   "en": "That's what comes to mind, right?"
+  },
+  {
+   "start_ms": 347000,
+   "end_ms": 348000,
+   "ko": "그렇죠. 그렇죠.",
+   "en": "Right. Right."
+  },
+  {
+   "start_ms": 348000,
+   "end_ms": 355000,
+   "ko": "근데 그런 청소는 글쎄요. 한 2주에 한 번 하는 것 같아요.",
+   "en": "But that kind of cleaning, well, I think I do it about once every two weeks."
+  },
+  {
+   "start_ms": 355000,
+   "end_ms": 359000,
+   "ko": "근데 태용쌤은 지금 가족과 살고 있잖아요.",
+   "en": "But Tae-woong, you're living with your family right now, aren't you?"
+  },
+  {
+   "start_ms": 359000,
+   "end_ms": 360000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 362000,
+   "end_ms": 365000,
+   "ko": "어때요? 혼자 청소를 해요?",
+   "en": "How is it? Do you clean by yourself?"
+  },
+  {
+   "start_ms": 367000,
+   "end_ms": 370000,
+   "ko": "저는 제 공간만 제가 청소를 해요.",
+   "en": "I only clean my own space."
+  },
+  {
+   "start_ms": 370000,
+   "end_ms": 371000,
+   "ko": "진짜요?",
+   "en": "Really?"
+  },
+  {
+   "start_ms": 371000,
+   "end_ms": 372000,
+   "ko": "네. 따로따로.",
+   "en": "Yes. Separately."
+  },
+  {
+   "start_ms": 373000,
+   "end_ms": 379000,
+   "ko": "근데 왜 태용쌤 거실, 부엌은요? 사용하시잖아요.",
+   "en": "But what about your living room and kitchen? You use those, don't you?"
+  },
+  {
+   "start_ms": 381000,
+   "end_ms": 382000,
+   "ko": "사용은 하죠.",
+   "en": "I do use them."
+  },
+  {
+   "start_ms": 386000,
+   "end_ms": 392000,
+   "ko": "사용은 하는데 제가 사용하지 않는 것들이 대부분이라.",
+   "en": "I use them, but most of the things there aren't things I use."
+  },
+  {
+   "start_ms": 392000,
+   "end_ms": 394000,
+   "ko": "사용 빈도가 적다?",
+   "en": "You use them less frequently?"
+  },
+  {
+   "start_ms": 394000,
+   "end_ms": 395000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 395000,
+   "end_ms": 399000,
+   "ko": "제가 어떻게 정리를 해야 할지도 잘 모르겠고.",
+   "en": "I don't really know how I should organize them either."
+  },
+  {
+   "start_ms": 401000,
+   "end_ms": 403000,
+   "ko": "주 사용자가 정리를 하도록?",
+   "en": "The main user should organize them?"
+  },
+  {
+   "start_ms": 403000,
+   "end_ms": 404000,
+   "ko": "그렇죠.",
+   "en": "Right."
+  },
+  {
+   "start_ms": 406000,
+   "end_ms": 411000,
+   "ko": "제가 잘 알지도 못하는데 제 마음대로 정리해두면",
+   "en": "If I organize them on my own without knowing well"
+  },
+  {
+   "start_ms": 411000,
+   "end_ms": 416000,
+   "ko": "좀 다른 사람이 사용할 때 혼란스러울 수도 있지 않을까요?",
+   "en": "wouldn't it be confusing for other people when they use it?"
+  },
+  {
+   "start_ms": 416000,
+   "end_ms": 418000,
+   "ko": "그래서 안 하는 거 맞죠?",
+   "en": "So that's why you don't do it, right?"
+  },
+  {
+   "start_ms": 418000,
+   "end_ms": 422000,
+   "ko": "그럼 2주에 한 번 정도 청소하실 때는 청소기 돌리고",
+   "en": "So when you clean about once every two weeks, you run the vacuum"
+  },
+  {
+   "start_ms": 422000,
+   "end_ms": 428000,
+   "ko": "뭐 밀대? 밀대라고 얘기하시나요? 밀대 같은 걸로 걸레질 하시나요?",
+   "en": "and what, a mop? Do you call it a mop? Do you mop with something like that?"
+  },
+  {
+   "start_ms": 428000,
+   "end_ms": 431000,
+   "ko": "밀대는 요즘은 안 쓰고.",
+   "en": "I don't use a mop these days."
+  },
+  {
+   "start_ms": 432000,
+   "end_ms": 438000,
+   "ko": "요즘은 바닥은 청소기만 돌리고",
+   "en": "These days I just run the vacuum on the floor"
+  },
+  {
+   "start_ms": 438000,
+   "end_ms": 442000,
+   "ko": "책상은 청소기만 돌리고",
+   "en": "and run the vacuum on the desk"
+  },
+  {
+   "start_ms": 443000,
+   "end_ms": 447000,
+   "ko": "바닥은 청소기만 돌리고",
+   "en": "and run the vacuum on the floor"
+  },
+  {
+   "start_ms": 447000,
+   "end_ms": 451000,
+   "ko": "책상 같은 건 닦아요.",
+   "en": "and wipe things like the desk."
+  },
+  {
+   "start_ms": 452000,
+   "end_ms": 455000,
+   "ko": "그런데 요즘은 그냥 물티슈로 닦습니다.",
+   "en": "But these days I just wipe with wet wipes."
+  },
+  {
+   "start_ms": 457000,
+   "end_ms": 461000,
+   "ko": "근데 전체적으로 되게 깨끗할 것 같아요.",
+   "en": "But overall it seems really clean."
+  },
+  {
+   "start_ms": 461000,
+   "end_ms": 462000,
+   "ko": "그런 것 같아요.",
+   "en": "It does seem that way."
+  },
+  {
+   "start_ms": 462000,
+   "end_ms": 470000,
+   "ko": "정리 매일 하고 한 달에 2번? 3번 정도 청소하니까.",
+   "en": "I organize every day and clean about two or three times a month."
+  },
+  {
+   "start_ms": 472000,
+   "end_ms": 474000,
+   "ko": "저랑 반대네요.",
+   "en": "That's the opposite of me."
+  },
+  {
+   "start_ms": 474000,
+   "end_ms": 477000,
+   "ko": "디디님은 어떤지 물어보려고 했습니다.",
+   "en": "I was going to ask how it is for you, Didi."
+  },
+  {
+   "start_ms": 477000,
+   "end_ms": 479000,
+   "ko": "저랑 반대인 것 같아요.",
+   "en": "It seems like the opposite of me."
+  },
+  {
+   "start_ms": 479000,
+   "end_ms": 483000,
+   "ko": "저는 정리가 잘 돼 있는 날이 거의 없는 것 같아요.",
+   "en": "I think there are almost no days when my place is well organized."
+  },
+  {
+   "start_ms": 483000,
+   "end_ms": 484000,
+   "ko": "그런가요?",
+   "en": "Is that so?"
+  },
+  {
+   "start_ms": 484000,
+   "end_ms": 487000,
+   "ko": "네. 어지르기 선수예요.",
+   "en": "Yes. I'm a messy person."
+  },
+  {
+   "start_ms": 490000,
+   "end_ms": 493000,
+   "ko": "습관을 잘못 들인 것 같아요. 어렸을 때부터.",
+   "en": "I think I developed bad habits from when I was young."
+  },
+  {
+   "start_ms": 493000,
+   "end_ms": 498000,
+   "ko": "아니 근데 어질러지는 게",
+   "en": "But the thing is, getting messy"
+  },
+  {
+   "start_ms": 498000,
+   "end_ms": 501000,
+   "ko": "어질러지기가 되게 쉬워요.",
+   "en": "is really easy."
+  },
+  {
+   "start_ms": 502000,
+   "end_ms": 503000,
+   "ko": "맞죠?",
+   "en": "Right?"
+  },
+  {
+   "start_ms": 503000,
+   "end_ms": 507000,
+   "ko": "그런데 정리하는 거는 시간이 많이 걸려요?",
+   "en": "But organizing takes a lot of time?"
+  },
+  {
+   "start_ms": 508000,
+   "end_ms": 513000,
+   "ko": "그게 하나하나 정리를...",
+   "en": "It's organizing things one by one..."
+  },
+  {
+   "start_ms": 513000,
+   "end_ms": 517000,
+   "ko": "그러니까 하나 어질러졌을 때 하나 정리하면",
+   "en": "So when one thing gets messy, if you organize it right away,"
+  },
+  {
+   "start_ms": 517000,
+   "end_ms": 519000,
+   "ko": "얼마 안 걸리잖아요.",
+   "en": "it doesn't take long, right?"
+  },
+  {
+   "start_ms": 520000,
+   "end_ms": 524000,
+   "ko": "근데 좀 여러 가지가 어질러지면",
+   "en": "But when several things get messy,"
+  },
+  {
+   "start_ms": 524000,
+   "end_ms": 527000,
+   "ko": "정리하는 게 좀 오래 걸리죠.",
+   "en": "organizing takes a bit longer."
+  },
+  {
+   "start_ms": 528000,
+   "end_ms": 529000,
+   "ko": "팁이 있어요.",
+   "en": "There's a tip."
+  },
+  {
+   "start_ms": 529000,
+   "end_ms": 535000,
+   "ko": "진짜 사용한 것은 그냥 그 자리에 바로 놓는다라던가",
+   "en": "Things you actually use, you just put them back in their spot right away,"
+  },
+  {
+   "start_ms": 536000,
+   "end_ms": 538000,
+   "ko": "룰이 있나요?",
+   "en": "or is there a rule?"
+  },
+  {
+   "start_ms": 538000,
+   "end_ms": 539000,
+   "ko": "사실 그게 전부죠.",
+   "en": "Actually, that's basically it."
+  },
+  {
+   "start_ms": 539000,
+   "end_ms": 540000,
+   "ko": "그게 다예요?",
+   "en": "That's all there is to it?"
+  },
+  {
+   "start_ms": 540000,
+   "end_ms": 542000,
+   "ko": "왜 난 못 놓는 거야?",
+   "en": "Why can't I do that?"
+  },
+  {
+   "start_ms": 542000,
+   "end_ms": 550000,
+   "ko": "일단 어떤 물건이 있어야 할 원래 자리, 제 자리를",
+   "en": "First, you need to clearly decide on the original spot, the proper place"
+  },
+  {
+   "start_ms": 551000,
+   "end_ms": 554000,
+   "ko": "분명하게 정해놓기.",
+   "en": "where each item should be."
+  },
+  {
+   "start_ms": 555000,
+   "end_ms": 558000,
+   "ko": "그게 분명하면 다른 곳에 있더라도",
+   "en": "If that's clear, even if something's somewhere else,"
+  },
+  {
+   "start_ms": 558000,
+   "end_ms": 562000,
+   "ko": "어디에 둬야 할지 금방금방 알잖아요.",
+   "en": "you quickly know where it should go, right?"
+  },
+  {
+   "start_ms": 563000,
+   "end_ms": 565000,
+   "ko": "그게 처음인 것 같네요.",
+   "en": "That sounds like the first step for me."
+  },
+  {
+   "start_ms": 566000,
+   "end_ms": 569000,
+   "ko": "그러면 모든 물건에 자리가 있겠네요?",
+   "en": "So then every single item has its own spot?"
+  },
+  {
+   "start_ms": 570000,
+   "end_ms": 571000,
+   "ko": "그렇죠.",
+   "en": "That's right."
+  },
+  {
+   "start_ms": 571000,
+   "end_ms": 574000,
+   "ko": "진짜 그냥 휴지 하나라도? 물티슈 하나라도?",
+   "en": "Really, even just one tissue? Even just one wet wipe?"
+  },
+  {
+   "start_ms": 574000,
+   "end_ms": 576000,
+   "ko": "네. 그게 아니면",
+   "en": "Yes. Otherwise,"
+  },
+  {
+   "start_ms": 576000,
+   "end_ms": 578000,
+   "ko": "팁이 하나 있는데 여기서",
+   "en": "there's one tip, and it's like"
+  },
+  {
+   "start_ms": 578000,
+   "end_ms": 583000,
+   "ko": "약간 쓰레기통 아닌 쓰레기통 같은",
+   "en": "kind of a trash bin that's not a trash bin,"
+  },
+  {
+   "start_ms": 584000,
+   "end_ms": 586000,
+   "ko": "서랍의 한 칸이라든지",
+   "en": "like one drawer compartment,"
+  },
+  {
+   "start_ms": 586000,
+   "end_ms": 590000,
+   "ko": "그래서 어디에 둘지 모르는",
+   "en": "so for things where you don't know where to put them,"
+  },
+  {
+   "start_ms": 592000,
+   "end_ms": 598000,
+   "ko": "잡동사니를 모아두는 공간을 두는 거예요.",
+   "en": "you create a space to gather all that miscellaneous stuff."
+  },
+  {
+   "start_ms": 600000,
+   "end_ms": 605600,
+   "ko": "최대한 원래 자리가 있는 것들은 원래 자리에 두고",
+   "en": "You put things that originally have a spot in their original spot as much as possible,"
+  },
+  {
+   "start_ms": 605600,
+   "end_ms": 614640,
+   "ko": "근데 이건 어디에 둬야 할지 모르겠다. 그러면 그 잡동산이 공간에 그냥 그냥 그냥 쳐박아 두는 거죠.",
+   "en": "but if it's like, I don't know where this goes, then you just shove it into that miscellaneous space."
+  },
+  {
+   "start_ms": 614640,
+   "end_ms": 616639,
+   "ko": "약간 창고 같은 느낌으로?",
+   "en": "Kind of like a storage room feeling?"
+  },
+  {
+   "start_ms": 616639,
+   "end_ms": 618080,
+   "ko": "네, 맞습니다.",
+   "en": "Yes, that's right."
+  },
+  {
+   "start_ms": 618080,
+   "end_ms": 626160,
+   "ko": "그러면 이것도 궁금한데 물건이 좀 많은 편이에요?",
+   "en": "Then I'm curious about this too—do you have a lot of things?"
+  },
+  {
+   "start_ms": 626240,
+   "end_ms": 630240,
+   "ko": "그건 상대적인 것 같은데요?",
+   "en": "I think that's relative?"
+  },
+  {
+   "start_ms": 630240,
+   "end_ms": 637919,
+   "ko": "지금 앉아 있는 책상 위에 보이는 게 뭐뭐 있어요?",
+   "en": "What do you see on the desk you're sitting at right now?"
+  },
+  {
+   "start_ms": 637919,
+   "end_ms": 644320,
+   "ko": "일단 모니터, 그리고 책 두 권,",
+   "en": "First, a monitor, and two books,"
+  },
+  {
+   "start_ms": 644320,
+   "end_ms": 652520,
+   "ko": "그리고 인터뷰나 유튜브 촬영할 때 쓰는 핸드폰 거치대,",
+   "en": "and a phone stand that I use for interviews or YouTube filming,"
+  },
+  {
+   "start_ms": 652520,
+   "end_ms": 664440,
+   "ko": "그리고 뭐 키보드, 그리고 제가 스케줄 같은 거 기록하고 수정하는 스케줄 보드,",
+   "en": "and a keyboard, and a schedule board where I record and edit my schedule and things like that,"
+  },
+  {
+   "start_ms": 664440,
+   "end_ms": 673839,
+   "ko": "그리고 양초, 캔들 하나, 그리고 그 노트 패드라고 하죠. 그 리갈 패드라고 하는.",
+   "en": "and a candle, one candle, and what you call a notepad. That legal pad."
+  },
+  {
+   "start_ms": 673839,
+   "end_ms": 682080,
+   "ko": "이런 거 두 개, 그리고 텀블러 하나, 물컵 하나,",
+   "en": "Two of these, and one tumbler, one water cup,"
+  },
+  {
+   "start_ms": 682080,
+   "end_ms": 687839,
+   "ko": "그리고 아! 저는 스피커를 큰 거를 따로 쓰거든요.",
+   "en": "and oh! I use a large speaker separately."
+  },
+  {
+   "start_ms": 687839,
+   "end_ms": 688919,
+   "ko": "아, 네.",
+   "en": "Oh, yes."
+  },
+  {
+   "start_ms": 688919,
+   "end_ms": 701480,
+   "ko": "근데 그 스피커를 작은 뭐 한 손바닥 두 개만한 작은 서랍을 두 개 써서",
+   "en": "But for that speaker, I use two small drawers about the size of two palms,"
+  },
+  {
+   "start_ms": 701519,
+   "end_ms": 707360,
+   "ko": "그 서랍 하나씩 각각 스피커 자리에 두고 그 위에 스피커를 올려둬요.",
+   "en": "and I put one drawer in each speaker's spot and put the speaker on top of it."
+  },
+  {
+   "start_ms": 707360,
+   "end_ms": 710160,
+   "ko": "그래서 그 서랍도 공간을 좀 잘 활용하는 편입니다.",
+   "en": "So I use that drawer space pretty well too."
+  },
+  {
+   "start_ms": 710160,
+   "end_ms": 713279,
+   "ko": "아, 뭐 펜이나 그런 거 들어있어요?",
+   "en": "Oh, does it have pens and stuff in it?"
+  },
+  {
+   "start_ms": 713279,
+   "end_ms": 720440,
+   "ko": "네네네, 그리고 뭐 케이블 같은 거, USB 드라이브 이런 것도.",
+   "en": "Yes yes yes, and cables and things like that, USB drives and such."
+  },
+  {
+   "start_ms": 720440,
+   "end_ms": 722080,
+   "ko": "그래서 잘 숨겨 놓는 거죠.",
+   "en": "So I keep them hidden."
+  },
+  {
+   "start_ms": 722080,
+   "end_ms": 726760,
+   "ko": "아, 깔끔하네요.",
+   "en": "Oh, it's neat."
+  },
+  {
+   "start_ms": 726760,
+   "end_ms": 728919,
+   "ko": "전 이것저것 올라가 있어요, 지금.",
+   "en": "I have all sorts of things piled up on mine right now."
+  },
+  {
+   "start_ms": 728919,
+   "end_ms": 729960,
+   "ko": "어떤 게 올라가 있나요?",
+   "en": "What kind of things are piled up?"
+  },
+  {
+   "start_ms": 729960,
+   "end_ms": 738320,
+   "ko": "뭐 비슷한데 컴퓨터 일단 용품들 있고, 여기 왜 있는지 모르겠는 것들이 몇 개 있는데.",
+   "en": "Well, similar stuff—computer supplies and all, and there are a few things here I don't even know why they're here."
+  },
+  {
+   "start_ms": 738320,
+   "end_ms": 739039,
+   "ko": "뭔데요?",
+   "en": "What are they?"
+  },
+  {
+   "start_ms": 739039,
+   "end_ms": 746279,
+   "ko": "일단 옷 벨트, 뭐라 해야 되지? 잠바 벨트 같은 거.",
+   "en": "Well, a clothing belt, how do I say it? Like a jacket belt."
+  },
+  {
+   "start_ms": 746279,
+   "end_ms": 751720,
+   "ko": "이거는 그 따로 보관이 안 돼요.",
+   "en": "This doesn't have separate storage."
+  },
+  {
+   "start_ms": 751720,
+   "end_ms": 756520,
+   "ko": "이게 그 옷에 벨트 거리 부분이 없어가지고.",
+   "en": "It's not like it's attached to the jacket, so I should have stored it separately and hung it up, but I was lazy and left it here."
+  },
+  {
+   "start_ms": 756520,
+   "end_ms": 762160,
+   "ko": "그게 이렇게 붙어있는 게 아니고 따로 이렇게 보관을 해서 걸어놨어야 됐는데 귀찮아서 여기 둔 것 같고요.",
+   "en": "So there's clothing."
+  },
+  {
+   "start_ms": 762160,
+   "end_ms": 763399,
+   "ko": "일단 의류가 있네요.",
+   "en": "There's clothing, and then a lint roller."
+  },
+  {
+   "start_ms": 763399,
+   "end_ms": 766960,
+   "ko": "의류가 있고, 그리고 돌돌이.",
+   "en": "A lint roller?"
+  },
+  {
+   "start_ms": 766960,
+   "end_ms": 768080,
+   "ko": "돌돌이?",
+   "en": "This one hasn't found its spot yet either."
+  },
+  {
+   "start_ms": 768080,
+   "end_ms": 770240,
+   "ko": "얘도 지금 자리를 못 찾았어요.",
+   "en": "You know what this is?"
+  },
+  {
+   "start_ms": 770240,
+   "end_ms": 771279,
+   "ko": "이거 알아요?",
+   "en": "It's a tool for removing dust, right?"
+  },
+  {
+   "start_ms": 771279,
+   "end_ms": 773960,
+   "ko": "먼지 떼는 기구죠?",
+   "en": "Yes, I have this."
+  },
+  {
+   "start_ms": 773960,
+   "end_ms": 776759,
+   "ko": "네, 이거 있고."
+  },
+  {
+   "start_ms": 776759,
+   "end_ms": 781080,
+   "ko": "화장품 팟캐스트를 찍었었거든요.",
+   "en": "I had filmed a cosmetics podcast before."
+  },
+  {
+   "start_ms": 781080,
+   "end_ms": 786960,
+   "ko": "그래서 화장품, 자기 자리로 돌아가지 않았던 화장품.",
+   "en": "So cosmetics, cosmetics that didn't go back to their place."
+  },
+  {
+   "start_ms": 786960,
+   "end_ms": 789320,
+   "ko": "약간 이런 것들.",
+   "en": "Things like that."
+  },
+  {
+   "start_ms": 789320,
+   "end_ms": 793119,
+   "ko": "화장품은 화장품만 따로 모아두는 공간이 있는 거죠?",
+   "en": "So you have a separate space where you keep only cosmetics, right?"
+  },
+  {
+   "start_ms": 793119,
+   "end_ms": 795919,
+   "ko": "있어요, 있어요.",
+   "en": "Yes, I do."
+  },
+  {
+   "start_ms": 795919,
+   "end_ms": 798960,
+   "ko": "돌아가지 못했어요, 여기.",
+   "en": "They didn't go back, here."
+  },
+  {
+   "start_ms": 798960,
+   "end_ms": 799880,
+   "ko": "정리를.",
+   "en": "To organize them."
+  },
+  {
+   "start_ms": 799880,
+   "end_ms": 802960,
+   "ko": "대신에 저는 청소기는 매일 돌려요.",
+   "en": "Instead, I run the vacuum cleaner every day."
+  },
+  {
+   "start_ms": 802960,
+   "end_ms": 804080,
+   "ko": "매일 돌려요?",
+   "en": "Every day?"
+  },
+  {
+   "start_ms": 804080,
+   "end_ms": 808960,
+   "ko": "저는 약간 반대니까 정리는 괜찮은데 더러운 거는 싫어요.",
+   "en": "I'm kind of the opposite, so organizing is fine, but I hate dirty things."
+  },
+  {
+   "start_ms": 808960,
+   "end_ms": 809600,
+   "ko": "그렇구나.",
+   "en": "I see."
+  },
+  {
+   "start_ms": 809600,
+   "end_ms": 815839,
+   "ko": "먼지가 쌓여있고 화장실 청소 안 되어있고 그런 거.",
+   "en": "Dust piling up and the bathroom not being cleaned and things like that."
+  },
+  {
+   "start_ms": 815839,
+   "end_ms": 818919,
+   "ko": "뭔가 위생적으로 더러울 것 같은 거.",
+   "en": "Things that seem unhygienic and dirty."
+  },
+  {
+   "start_ms": 818919,
+   "end_ms": 822240,
+   "ko": "오, 진짜 똑 반대네요.",
+   "en": "Oh, you're really the complete opposite."
+  },
+  {
+   "start_ms": 822240,
+   "end_ms": 825600,
+   "ko": "똑 반대예요.",
+   "en": "Completely opposite."
+  },
+  {
+   "start_ms": 825600,
+   "end_ms": 833880,
+   "ko": "그리고 청소하면 저는 저희 집 본가 청소 방식을 좀 다른 분들이랑 공유하고 싶은데",
+   "en": "And when I clean, I want to share my family home's cleaning method with other people a bit"
+  },
+  {
+   "start_ms": 833880,
+   "end_ms": 837440,
+   "ko": "다른 분들도 이렇게 하는지 공유를 해보고 싶은데",
+   "en": "I want to share and see if other people do it this way too"
+  },
+  {
+   "start_ms": 837440,
+   "end_ms": 842240,
+   "ko": "저희 본가는 일단 일주일에 한 번 대청소를 해요.",
+   "en": "At our family home, we do a deep clean once a week."
+  },
+  {
+   "start_ms": 842240,
+   "end_ms": 846600,
+   "ko": "완전 청소기 하고 밀대 닦고",
+   "en": "Completely vacuum and wipe with a mop"
+  },
+  {
+   "start_ms": 846600,
+   "end_ms": 852199,
+   "ko": "거기 위에 있는 먼지 같은 것도 다 걸레로 닦고 손걸레로 닦고",
+   "en": "And wipe all the dust and things on top of that with a cloth and hand cloth"
+  },
+  {
+   "start_ms": 852199,
+   "end_ms": 857000,
+   "ko": "이런 걸 일주일에 한 번씩 해서",
+   "en": "Doing this kind of thing once a week"
+  },
+  {
+   "start_ms": 857000,
+   "end_ms": 861279,
+   "ko": "그래서 청소기는 계속 돌리게 되는 것 같기도 하고",
+   "en": "So it seems like the vacuum cleaner keeps running"
+  },
+  {
+   "start_ms": 861279,
+   "end_ms": 865720,
+   "ko": "근데 다들 청소라고 하면 여기 이 정도까지 하는지 궁금해요.",
+   "en": "But I'm curious if everyone does cleaning to this extent when they talk about cleaning."
+  },
+  {
+   "start_ms": 865720,
+   "end_ms": 872320,
+   "ko": "청소기에 물걸레질하고 화장실 청소하고 이런 거 다.",
+   "en": "Vacuuming, wet mopping, bathroom cleaning, and all that."
+  },
+  {
+   "start_ms": 872320,
+   "end_ms": 877239,
+   "ko": "일단 먼저 아주 훌륭한 가정교육 방법이네요.",
+   "en": "First of all, that's a very excellent parenting method."
+  },
+  {
+   "start_ms": 877239,
+   "end_ms": 878679,
+   "ko": "아주 좋네.",
+   "en": "That's very good."
+  },
+  {
+   "start_ms": 878679,
+   "end_ms": 882320,
+   "ko": "집이 깨끗해요.",
+   "en": "The house is clean."
+  },
+  {
+   "start_ms": 882320,
+   "end_ms": 891399,
+   "ko": "저희 집은 그냥 바닥 정도만 싹 청소하는 것 같아요.",
+   "en": "Our house seems to just do a quick clean of the floor."
+  },
+  {
+   "start_ms": 891399,
+   "end_ms": 897880,
+   "ko": "청소기도 돌리고 그렇게 할 때는 바닥을 닦기도 하고",
+   "en": "We run the vacuum and sometimes wipe the floor when we do that"
+  },
+  {
+   "start_ms": 897880,
+   "end_ms": 899839,
+   "ko": "무선 청소기 써요?",
+   "en": "Do you use a cordless vacuum?"
+  },
+  {
+   "start_ms": 899839,
+   "end_ms": 902279,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 902279,
+   "end_ms": 906799,
+   "ko": "무선 청소기 제가 샀어요. 제가 답답해서.",
+   "en": "I bought a cordless vacuum. I was frustrated."
+  },
+  {
+   "start_ms": 906799,
+   "end_ms": 912040,
+   "ko": "근데 그거 괜찮아요? 세기가 부족하지 않아요?",
+   "en": "But is that okay? Doesn't it lack power?"
+  },
+  {
+   "start_ms": 912040,
+   "end_ms": 913399,
+   "ko": "요새 잘 나와요.",
+   "en": "They're coming out well these days."
+  },
+  {
+   "start_ms": 913399,
+   "end_ms": 916920,
+   "ko": "잘 나와요? 어디 거 쓰세요?",
+   "en": "They're coming out well? Which brand do you use?"
+  },
+  {
+   "start_ms": 916920,
+   "end_ms": 919359,
+   "ko": "저 막 대기업 제품은 아니라서",
+   "en": "It's not a major company product"
+  },
+  {
+   "start_ms": 919359,
+   "end_ms": 920399,
+   "ko": "아 그래요?",
+   "en": "Oh really?"
+  },
+  {
+   "start_ms": 920399,
+   "end_ms": 922359,
+   "ko": "무슨 카카오 메이커스?",
+   "en": "Like some Kakao Makers?"
+  },
+  {
+   "start_ms": 922359,
+   "end_ms": 924239,
+   "ko": "에? 그랬구나.",
+   "en": "Huh? So that's what it was."
+  },
+  {
+   "start_ms": 924239,
+   "end_ms": 930920,
+   "ko": "네. 그런 데서 만든 거 쓰는데 생각보다 좋아요.",
+   "en": "Yes. I use something made by a place like that, and it's better than I thought."
+  },
+  {
+   "start_ms": 930920,
+   "end_ms": 934799,
+   "ko": "진짜요? 배터리 하나로 청소 다 돼요?",
+   "en": "Really? Does one battery charge clean everything?"
+  },
+  {
+   "start_ms": 934799,
+   "end_ms": 935640,
+   "ko": "그런 것 같아요.",
+   "en": "It seems like it does."
+  },
+  {
+   "start_ms": 935640,
+   "end_ms": 938839,
+   "ko": "오 좋다.",
+   "en": "Oh that's good."
+  },
+  {
+   "start_ms": 938839,
+   "end_ms": 941399,
+   "ko": "그거 써봤어요? 로봇 청소기?",
+   "en": "Have you tried that? A robot vacuum?"
+  },
+  {
+   "start_ms": 941399,
+   "end_ms": 944600,
+   "ko": "그거는 안 써봤어요.",
+   "en": "I haven't tried that."
+  },
+  {
+   "start_ms": 944600,
+   "end_ms": 949399,
+   "ko": "그거 한때 되게 붐이었잖아요. 처음 나오고 이랬을 때.",
+   "en": "That was really a trend at one point. When it first came out and all."
+  },
+  {
+   "start_ms": 949399,
+   "end_ms": 953959,
+   "ko": "저희 엄마도 그때 사서 돌렸는데",
+   "en": "My mom also bought one back then and ran it"
+  },
+  {
+   "start_ms": 953959,
+   "end_ms": 958640,
+   "ko": "근데 걔는 매일은 될 수가 없더라고요. 써보니까.",
+   "en": "But that one can't run every day. When I tried it."
+  },
+  {
+   "start_ms": 958640,
+   "end_ms": 960000,
+   "ko": "오 왜요?",
+   "en": "Oh why?"
+  },
+  {
+   "start_ms": 960000,
+   "end_ms": 964200,
+   "ko": "구석구석 안 되고",
+   "en": "It doesn't get into the corners"
+  },
+  {
+   "start_ms": 964200,
+   "end_ms": 968079,
+   "ko": "그래서 뭐 청소 일주일에 한 번 하지만",
+   "en": "So even though we do cleaning once a week"
+  },
+  {
+   "start_ms": 968079,
+   "end_ms": 973440,
+   "ko": "그래도 매일매일 먼지 같은 거 돌아다니면서 빨아들일 수 있도록",
+   "en": "Still, every day dust and things move around and it can suck them up"
+  },
+  {
+   "start_ms": 973440,
+   "end_ms": 977880,
+   "ko": "그렇게 그냥 썼어요.",
+   "en": "So I just used it that way."
+  },
+  {
+   "start_ms": 977880,
+   "end_ms": 984320,
+   "ko": "걔가 완전 요즘은 또 다를지도 모르는데 좀 바보예요.",
+   "en": "That one is kind of dumb, though it might be different these days."
+  },
+  {
+   "start_ms": 984320,
+   "end_ms": 988839,
+   "ko": "약간 가다가 길 잃고 아니면 뭐지?",
+   "en": "Like it goes and then gets lost or what is it?"
+  },
+  {
+   "start_ms": 988839,
+   "end_ms": 990959,
+   "ko": "바닥에 아무것도 없어야 되거든요.",
+   "en": "The floor has to be completely clear."
+  },
+  {
+   "start_ms": 990959,
+   "end_ms": 991760,
+   "ko": "오 맞죠.",
+   "en": "Oh right."
+  },
+  {
+   "start_ms": 991760,
+   "end_ms": 995559,
+   "ko": "의자 같은 것도 다 올려놔야 되고",
+   "en": "Things like chairs have to be put away too"
+  },
+  {
+   "start_ms": 995559,
+   "end_ms": 1000079,
+   "ko": "그래서 아직은 아쉽더라고요. 로봇 청소기가.",
+   "en": "So I was disappointed with the robot vacuum."
+  },
+  {
+   "start_ms": 1000079,
+   "end_ms": 1001880,
+   "ko": "그러니까.",
+   "en": "Right."
+  },
+  {
+   "start_ms": 1001880,
+   "end_ms": 1005040,
+   "ko": "그러니까 로봇 청소기를 쓰려면",
+   "en": "So to use a robot vacuum,"
+  },
+  {
+   "start_ms": 1005040,
+   "end_ms": 1008720,
+   "ko": "로봇 청소기가 일할 수 있는 환경을 제가 만들어줘야 되는 거잖아요.",
+   "en": "I have to create an environment where the robot vacuum can work, right?"
+  },
+  {
+   "start_ms": 1008720,
+   "end_ms": 1011320,
+   "ko": "만들어줘야 돼요. 어차피 정리 다 해야 돼요.",
+   "en": "I have to create it. I have to organize everything anyway."
+  },
+  {
+   "start_ms": 1011320,
+   "end_ms": 1013519,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1013519,
+   "end_ms": 1016959,
+   "ko": "제가 로봇 청소기에 보조가 되는 거네요.",
+   "en": "So I'm actually assisting the robot vacuum."
+  },
+  {
+   "start_ms": 1016959,
+   "end_ms": 1021399,
+   "ko": "맞아요. 일을 줄여주는 건지.",
+   "en": "Right. Whether it's reducing work."
+  },
+  {
+   "start_ms": 1021399,
+   "end_ms": 1024679,
+   "ko": "아 그렇네.",
+   "en": "Ah, I see."
+  },
+  {
+   "start_ms": 1024679,
+   "end_ms": 1025399,
+   "ko": "로봇 청소기.",
+   "en": "The robot vacuum."
+  },
+  {
+   "start_ms": 1025399,
+   "end_ms": 1033399,
+   "ko": "아 근데 제가 올해 독립을 할 계획이 있는데",
+   "en": "Oh but I'm planning to move out this year"
+  },
+  {
+   "start_ms": 1033720,
+   "end_ms": 1038640,
+   "ko": "독립을 하면 혼자서 살려고 하는데",
+   "en": "and live alone when I do,"
+  },
+  {
+   "start_ms": 1038640,
+   "end_ms": 1043160,
+   "ko": "이사를 가고 싶은 집도 있는데",
+   "en": "and there's a house I want to move to"
+  },
+  {
+   "start_ms": 1043160,
+   "end_ms": 1045720,
+   "ko": "그 집이 아직 빈집이 안 나와서",
+   "en": "but that house hasn't come on the market yet as a vacant unit."
+  },
+  {
+   "start_ms": 1045720,
+   "end_ms": 1047559,
+   "ko": "아 보고 있는 집이 있어요?",
+   "en": "Oh, there's a house you're looking at?"
+  },
+  {
+   "start_ms": 1047559,
+   "end_ms": 1052959,
+   "ko": "네네 있는데 만약에 그 집이 잘 나와서",
+   "en": "Yes, there is, and if that house becomes available,"
+  },
+  {
+   "start_ms": 1052959,
+   "end_ms": 1054760,
+   "ko": "이사를 가게 된다면",
+   "en": "and I end up moving,"
+  },
+  {
+   "start_ms": 1054760,
+   "end_ms": 1059679,
+   "ko": "로봇 청소기를 쓸 생각이 있어요 저는.",
+   "en": "I'm thinking of getting a robot vacuum."
+  },
+  {
+   "start_ms": 1059679,
+   "end_ms": 1061679,
+   "ko": "근데 사실 저도 살 것 같긴 해요.",
+   "en": "But actually, I think I might buy one too."
+  },
+  {
+   "start_ms": 1061679,
+   "end_ms": 1062640,
+   "ko": "아 그래요?",
+   "en": "Oh really?"
+  },
+  {
+   "start_ms": 1062839,
+   "end_ms": 1064600,
+   "ko": "근데 집이 커요?",
+   "en": "But is the house big?"
+  },
+  {
+   "start_ms": 1064600,
+   "end_ms": 1067880,
+   "ko": "혼자 살기에는 작지 않아요.",
+   "en": "It's not small for living alone."
+  },
+  {
+   "start_ms": 1067880,
+   "end_ms": 1070399,
+   "ko": "방이 있어요? 원룸이 아니에요?",
+   "en": "Does it have rooms? It's not a studio?"
+  },
+  {
+   "start_ms": 1070399,
+   "end_ms": 1071399,
+   "ko": "원룸이 아니에요.",
+   "en": "It's not a studio."
+  },
+  {
+   "start_ms": 1071399,
+   "end_ms": 1073880,
+   "ko": "아 그러면 좋을 것 같습니다.",
+   "en": "Oh then I think that would be nice."
+  },
+  {
+   "start_ms": 1073880,
+   "end_ms": 1075920,
+   "ko": "그렇죠.",
+   "en": "Right."
+  },
+  {
+   "start_ms": 1075920,
+   "end_ms": 1081640,
+   "ko": "그리고 제가 극한의 미니멀리스트라서",
+   "en": "And I'm an extreme minimalist,"
+  },
+  {
+   "start_ms": 1081640,
+   "end_ms": 1083640,
+   "ko": "미니멀리스트에요?",
+   "en": "You're a minimalist?"
+  },
+  {
+   "start_ms": 1083640,
+   "end_ms": 1084559,
+   "ko": "그런 것 같아요.",
+   "en": "It seems like it."
+  },
+  {
+   "start_ms": 1084559,
+   "end_ms": 1087000,
+   "ko": "그러면 물건이 많이 없는 편이네요.",
+   "en": "So you don't have many possessions."
+  },
+  {
+   "start_ms": 1087000,
+   "end_ms": 1088799,
+   "ko": "그렇죠.",
+   "en": "Right."
+  },
+  {
+   "start_ms": 1088839,
+   "end_ms": 1093200,
+   "ko": "그래서 저는 나중에 살 집을 상상하면",
+   "en": "So when I imagine the house I'll live in later,"
+  },
+  {
+   "start_ms": 1093200,
+   "end_ms": 1096559,
+   "ko": "집에 뭐가 많이 없는",
+   "en": "there won't be much in the house,"
+  },
+  {
+   "start_ms": 1096559,
+   "end_ms": 1101320,
+   "ko": "로봇 청소기가 뛰어놀기 참 좋은 환경이겠네요.",
+   "en": "it would be a really nice environment for a robot vacuum to run around in."
+  },
+  {
+   "start_ms": 1101320,
+   "end_ms": 1104279,
+   "ko": "네네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1104279,
+   "end_ms": 1107839,
+   "ko": "그래서 그런 집이라면 로봇 청소기도 괜찮지 않을까?",
+   "en": "So if it's that kind of house, wouldn't a robot vacuum be okay?"
+  },
+  {
+   "start_ms": 1107839,
+   "end_ms": 1110239,
+   "ko": "이런 생각이 들더라고요.",
+   "en": "That's the kind of thought I had."
+  },
+  {
+   "start_ms": 1110239,
+   "end_ms": 1114599,
+   "ko": "만약에 로봇 청소기 사면 청소 안 할 거예요?",
+   "en": "If you buy a robot vacuum, you won't clean?"
+  },
+  {
+   "start_ms": 1115039,
+   "end_ms": 1118239,
+   "ko": "할 수밖에 없지 않을까요?",
+   "en": "Wouldn't you have to anyway?"
+  },
+  {
+   "start_ms": 1118239,
+   "end_ms": 1120080,
+   "ko": "두 개 있어야 돼요.",
+   "en": "You need two."
+  },
+  {
+   "start_ms": 1120080,
+   "end_ms": 1123760,
+   "ko": "로봇 청소기도 사고 무선도 있어야 돼요.",
+   "en": "You need to buy a robot vacuum and also have a cordless one."
+  },
+  {
+   "start_ms": 1123760,
+   "end_ms": 1126479,
+   "ko": "그러니까 참 그래서",
+   "en": "So that's why"
+  },
+  {
+   "start_ms": 1126479,
+   "end_ms": 1128760,
+   "ko": "계륵이라는 말이 있잖아요.",
+   "en": "there's a saying called \"gyeryuk.\""
+  },
+  {
+   "start_ms": 1128760,
+   "end_ms": 1130719,
+   "ko": "계륵 어떤 뜻이죠?",
+   "en": "Gyeryuk, what does that mean?"
+  },
+  {
+   "start_ms": 1130719,
+   "end_ms": 1131559,
+   "ko": "계륵.",
+   "en": "Gyeryuk."
+  },
+  {
+   "start_ms": 1131559,
+   "end_ms": 1132280,
+   "ko": "닭의",
+   "en": "A chicken's"
+  },
+  {
+   "start_ms": 1132280,
+   "end_ms": 1135239,
+   "ko": "닭의 갈비살",
+   "en": "a chicken's rib meat"
+  },
+  {
+   "start_ms": 1135239,
+   "end_ms": 1139640,
+   "ko": "그러니까 먹기에는 양이 많지도 않고",
+   "en": "so there's not much quantity to eat,"
+  },
+  {
+   "start_ms": 1139640,
+   "end_ms": 1142840,
+   "ko": "안 먹기에는 아깝고",
+   "en": "and it's a waste not to eat it,"
+  },
+  {
+   "start_ms": 1142840,
+   "end_ms": 1145039,
+   "ko": "있어도 좀 그렇고 없어도 좀 그런",
+   "en": "it's awkward to have it and awkward not to have it,"
+  },
+  {
+   "start_ms": 1145039,
+   "end_ms": 1146799,
+   "ko": "그래도 있으면 편해.",
+   "en": "but it's still convenient to have it."
+  },
+  {
+   "start_ms": 1146799,
+   "end_ms": 1149280,
+   "ko": "그러니까요.",
+   "en": "Exactly."
+  },
+  {
+   "start_ms": 1149280,
+   "end_ms": 1153719,
+   "ko": "살 수 있으면 사면 좋을 것 같아요.",
+   "en": "I think it would be good to buy one if you can."
+  },
+  {
+   "start_ms": 1153719,
+   "end_ms": 1155799,
+   "ko": "자취 계획이 있으시군요.",
+   "en": "You have plans to move out on your own."
+  },
+  {
+   "start_ms": 1155799,
+   "end_ms": 1157080,
+   "ko": "독립",
+   "en": "Move out."
+  },
+  {
+   "start_ms": 1157080,
+   "end_ms": 1161400,
+   "ko": "아 네 저는 좀 그렇게 해야",
+   "en": "Oh yes, I need to do it that way"
+  },
+  {
+   "start_ms": 1161400,
+   "end_ms": 1165799,
+   "ko": "오프라인 인터뷰 속도 좀",
+   "en": "so the pace of offline interviews"
+  },
+  {
+   "start_ms": 1165799,
+   "end_ms": 1168679,
+   "ko": "제가 원하는 환경에서 할 수 있을 것 같아서",
+   "en": "can happen in the environment I want,"
+  },
+  {
+   "start_ms": 1168679,
+   "end_ms": 1169960,
+   "ko": "너무 좋아요.",
+   "en": "that would be really nice."
+  },
+  {
+   "start_ms": 1169960,
+   "end_ms": 1172640,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1172679,
+   "end_ms": 1175280,
+   "ko": "빨리 집이 나왔으면 좋겠네요.",
+   "en": "I hope a house comes up soon."
+  },
+  {
+   "start_ms": 1175280,
+   "end_ms": 1176200,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1176200,
+   "end_ms": 1179719,
+   "ko": "그러면 화장실 청소 같은 건 안 해요?",
+   "en": "So you don't do things like cleaning the bathroom?"
+  },
+  {
+   "start_ms": 1179719,
+   "end_ms": 1180599,
+   "ko": "지금은?",
+   "en": "Now?"
+  },
+  {
+   "start_ms": 1180599,
+   "end_ms": 1181640,
+   "ko": "지금은 안 해요.",
+   "en": "Not now."
+  },
+  {
+   "start_ms": 1181640,
+   "end_ms": 1182919,
+   "ko": "아",
+   "en": "Ah."
+  },
+  {
+   "start_ms": 1182919,
+   "end_ms": 1183960,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1183960,
+   "end_ms": 1186760,
+   "ko": "아 근데 뭐 혼자 살 때는",
+   "en": "But when I was living alone,"
+  },
+  {
+   "start_ms": 1186760,
+   "end_ms": 1188359,
+   "ko": "자주 했어요.",
+   "en": "I did it often."
+  },
+  {
+   "start_ms": 1188359,
+   "end_ms": 1190200,
+   "ko": "얼마나 자주 했어요?",
+   "en": "How often did you do it?"
+  },
+  {
+   "start_ms": 1190200,
+   "end_ms": 1191400,
+   "ko": "일주일에 두 번?",
+   "en": "Twice a week?"
+  },
+  {
+   "start_ms": 1191400,
+   "end_ms": 1192559,
+   "ko": "헤에에에에",
+   "en": "Wow."
+  },
+  {
+   "start_ms": 1192559,
+   "end_ms": 1194559,
+   "ko": "완전 깔끔하다.",
+   "en": "That's really clean."
+  },
+  {
+   "start_ms": 1194559,
+   "end_ms": 1196039,
+   "ko": "어 네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1196039,
+   "end_ms": 1198239,
+   "ko": "깔끔한 편이시네요.",
+   "en": "You seem to be quite tidy."
+  },
+  {
+   "start_ms": 1198239,
+   "end_ms": 1199239,
+   "ko": "아 그러게요.",
+   "en": "Ah, I guess so."
+  },
+  {
+   "start_ms": 1199239,
+   "end_ms": 1201239,
+   "ko": "왜 왜 이렇게 자주 해요?",
+   "en": "But why do you clean it so often?"
+  },
+  {
+   "start_ms": 1201000,
+   "end_ms": 1206000,
+   "ko": "문제가 쉽게 더러워지는 화장실이었어요.",
+   "en": "The bathroom got dirty very easily."
+  },
+  {
+   "start_ms": 1206000,
+   "end_ms": 1209000,
+   "ko": "왜인지 모르겠는데",
+   "en": "I'm not sure why,"
+  },
+  {
+   "start_ms": 1209000,
+   "end_ms": 1211000,
+   "ko": "그런 화장실이?",
+   "en": "A bathroom like that?"
+  },
+  {
+   "start_ms": 1211000,
+   "end_ms": 1214000,
+   "ko": "네. 이상하게 바닥에 때가 잘 지고",
+   "en": "Yes. For some reason, dirt accumulated easily on the floor,"
+  },
+  {
+   "start_ms": 1214000,
+   "end_ms": 1218000,
+   "ko": "아 뭔가 환기가 잘 안되는 화장실이었나봐요.",
+   "en": "and I think it was a bathroom that didn't have good ventilation."
+  },
+  {
+   "start_ms": 1218000,
+   "end_ms": 1220000,
+   "ko": "네 그런가봐요.",
+   "en": "Yes, I think so."
+  },
+  {
+   "start_ms": 1220000,
+   "end_ms": 1227000,
+   "ko": "그리고 보통 화장실에서 샤워도 하잖아요.",
+   "en": "And usually you shower in the bathroom, right?"
+  },
+  {
+   "start_ms": 1227000,
+   "end_ms": 1228000,
+   "ko": "네",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1228000,
+   "end_ms": 1234000,
+   "ko": "근데 그때는 샤워를 마치고 그 화장실 안에서 머리도 말렸는데",
+   "en": "But back then, after I finished showering, I would also dry my hair inside the bathroom,"
+  },
+  {
+   "start_ms": 1234000,
+   "end_ms": 1238000,
+   "ko": "그러다보니까 머리카락이 많이 떨어져서",
+   "en": "and because of that, a lot of hair fell out,"
+  },
+  {
+   "start_ms": 1238000,
+   "end_ms": 1241000,
+   "ko": "너무 쉽게 지저분해지더라구요.",
+   "en": "so it got messy very easily."
+  },
+  {
+   "start_ms": 1241000,
+   "end_ms": 1244000,
+   "ko": "아 지금은 어때요?",
+   "en": "Ah, how is it now?"
+  },
+  {
+   "start_ms": 1244000,
+   "end_ms": 1248000,
+   "ko": "드라이기 할 때 화장실에서 해요? 아니면 방에서 하세요?",
+   "en": "Do you blow-dry your hair in the bathroom now, or do you do it in your room?"
+  },
+  {
+   "start_ms": 1248000,
+   "end_ms": 1250000,
+   "ko": "이제 방에서 해요.",
+   "en": "Now I do it in my room."
+  },
+  {
+   "start_ms": 1251000,
+   "end_ms": 1260000,
+   "ko": "그래서 이제는 방을 자주 치우는 편이죠.",
+   "en": "So now I tend to clean my room more often."
+  },
+  {
+   "start_ms": 1260000,
+   "end_ms": 1263000,
+   "ko": "음 그렇구나.",
+   "en": "Mm, I see."
+  },
+  {
+   "start_ms": 1263000,
+   "end_ms": 1268000,
+   "ko": "한국은 마룻바닥 생활을 하잖아요.",
+   "en": "In Korea, you live on wooden floors, right?"
+  },
+  {
+   "start_ms": 1268000,
+   "end_ms": 1274000,
+   "ko": "그래서 이렇게 청소기도 하고 걸레질도 하고 그러는 것 같은데",
+   "en": "So it seems like you vacuum and mop and things like that,"
+  },
+  {
+   "start_ms": 1274000,
+   "end_ms": 1278000,
+   "ko": "저는 그 신발 신고 활동하는 나라? 방에서도?",
+   "en": "but I'm from a country where you wear shoes and move around? Even in the room?"
+  },
+  {
+   "start_ms": 1278000,
+   "end_ms": 1281000,
+   "ko": "어떻게 청소하는지가 궁금해요.",
+   "en": "I'm curious how you clean."
+  },
+  {
+   "start_ms": 1281000,
+   "end_ms": 1282000,
+   "ko": "그러게요.",
+   "en": "Right."
+  },
+  {
+   "start_ms": 1282000,
+   "end_ms": 1284000,
+   "ko": "그쵸?",
+   "en": "Right?"
+  },
+  {
+   "start_ms": 1284000,
+   "end_ms": 1286000,
+   "ko": "안하나?",
+   "en": "You don't do it?"
+  },
+  {
+   "start_ms": 1286000,
+   "end_ms": 1288000,
+   "ko": "청소기만 하나?",
+   "en": "Just vacuum?"
+  },
+  {
+   "start_ms": 1288000,
+   "end_ms": 1292000,
+   "ko": "청소기? 왠지 청소기만 할 것 같아요.",
+   "en": "Vacuum? It seems like you'd probably just vacuum."
+  },
+  {
+   "start_ms": 1292000,
+   "end_ms": 1297000,
+   "ko": "그리고 러그 같은 거 그런 것도",
+   "en": "And like rugs and things like that,"
+  },
+  {
+   "start_ms": 1297000,
+   "end_ms": 1300000,
+   "ko": "그거 자주 빨기는 또 엄청 귀찮잖아요.",
+   "en": "washing those is really annoying, isn't it?"
+  },
+  {
+   "start_ms": 1300000,
+   "end_ms": 1301000,
+   "ko": "어 힘들죠.",
+   "en": "Yes, it's tough."
+  },
+  {
+   "start_ms": 1301000,
+   "end_ms": 1303000,
+   "ko": "러그 사용해요?",
+   "en": "Do you use a rug?"
+  },
+  {
+   "start_ms": 1303000,
+   "end_ms": 1304000,
+   "ko": "저는 안사용해요.",
+   "en": "I don't use one."
+  },
+  {
+   "start_ms": 1304000,
+   "end_ms": 1305000,
+   "ko": "아 진짜요?",
+   "en": "Really?"
+  },
+  {
+   "start_ms": 1305000,
+   "end_ms": 1308000,
+   "ko": "미래의 집에도 안 놓을 거예요?",
+   "en": "You won't put one in your future home either?"
+  },
+  {
+   "start_ms": 1308000,
+   "end_ms": 1311000,
+   "ko": "아...둘 것 같아요.",
+   "en": "Hmm... I think I will."
+  },
+  {
+   "start_ms": 1311000,
+   "end_ms": 1315000,
+   "ko": "저는 솔직히 러그 빨아본 적 없고",
+   "en": "Honestly, I've never washed a rug before,"
+  },
+  {
+   "start_ms": 1315000,
+   "end_ms": 1320000,
+   "ko": "그냥 버려요. 한 1년? 2년 쓰고.",
+   "en": "I just throw it away. After using it for like a year or two."
+  },
+  {
+   "start_ms": 1320000,
+   "end_ms": 1322000,
+   "ko": "아 그렇구나.",
+   "en": "Ah, I see."
+  },
+  {
+   "start_ms": 1322000,
+   "end_ms": 1325000,
+   "ko": "애초에 그렇게 좋은 러그를 사질 않아가지고.",
+   "en": "Because I don't buy really nice rugs in the first place."
+  },
+  {
+   "start_ms": 1325000,
+   "end_ms": 1330000,
+   "ko": "네. 저도 러그 큰 거 사려고요.",
+   "en": "Yes. I'm planning to buy a big rug too."
+  },
+  {
+   "start_ms": 1331000,
+   "end_ms": 1334000,
+   "ko": "네. 거대한 호랑이가 그려져 있는.",
+   "en": "Yes. One with a huge tiger drawn on it."
+  },
+  {
+   "start_ms": 1334000,
+   "end_ms": 1335000,
+   "ko": "진짜요?",
+   "en": "Really?"
+  },
+  {
+   "start_ms": 1335000,
+   "end_ms": 1336000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1336000,
+   "end_ms": 1337000,
+   "ko": "약간 그런 감성 좋아해요?",
+   "en": "You like that kind of aesthetic?"
+  },
+  {
+   "start_ms": 1337000,
+   "end_ms": 1343000,
+   "ko": "태용쌤 뒤에 배경 보면 약간 한국적인 그런 거 있거든요?",
+   "en": "If you look at the background behind Teacher Taeyong, there's something kind of Korean, right?"
+  },
+  {
+   "start_ms": 1343000,
+   "end_ms": 1344000,
+   "ko": "그런 거 좋아하세요?",
+   "en": "Do you like things like that?"
+  },
+  {
+   "start_ms": 1344000,
+   "end_ms": 1346000,
+   "ko": "좋아해요. 되게.",
+   "en": "I do. A lot."
+  },
+  {
+   "start_ms": 1346000,
+   "end_ms": 1347000,
+   "ko": "아 진짜요?",
+   "en": "Oh, really?"
+  },
+  {
+   "start_ms": 1347000,
+   "end_ms": 1348000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1348000,
+   "end_ms": 1353000,
+   "ko": "저는 팟캐스트 시작하고 약간 관심이 있어졌어요. 그런 거.",
+   "en": "After I started the podcast, I became a bit interested in that sort of thing."
+  },
+  {
+   "start_ms": 1353000,
+   "end_ms": 1356000,
+   "ko": "약간 아이덴티티를 보여주고 싶은 느낌?",
+   "en": "Like, wanting to show a bit of identity?"
+  },
+  {
+   "start_ms": 1357000,
+   "end_ms": 1360000,
+   "ko": "한국에 대해 이야기하는 사람입니다. 같은.",
+   "en": "Someone who talks about Korea, that kind of thing."
+  },
+  {
+   "start_ms": 1360000,
+   "end_ms": 1362000,
+   "ko": "음. 좋죠.",
+   "en": "Mm, that's nice."
+  },
+  {
+   "start_ms": 1362000,
+   "end_ms": 1368000,
+   "ko": "저도 약간 그런 느낌으로 뒤에 그런 것들을 둔 것도 있어요.",
+   "en": "I also put things like that in the back with that kind of feeling."
+  },
+  {
+   "start_ms": 1368000,
+   "end_ms": 1372000,
+   "ko": "지금 뒤에 뭐가 보이냐면 태권도 까만띠.",
+   "en": "Right now what you can see in the back is a taekwondo black belt."
+  },
+  {
+   "start_ms": 1372000,
+   "end_ms": 1373000,
+   "ko": "네네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1373000,
+   "end_ms": 1376000,
+   "ko": "그거랑 곤룡포? 저거 왕들이 입는 거 맞죠?",
+   "en": "And that gonryongpo? That's what kings wear, right?"
+  },
+  {
+   "start_ms": 1376000,
+   "end_ms": 1377000,
+   "ko": "네네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1377000,
+   "end_ms": 1380000,
+   "ko": "그거랑 저건 단청이라고 하나요?",
+   "en": "And that one—is that called dancheong?"
+  },
+  {
+   "start_ms": 1380000,
+   "end_ms": 1382000,
+   "ko": "맞아요. 맞아요. 단청.",
+   "en": "That's right, yes, dancheong."
+  },
+  {
+   "start_ms": 1382000,
+   "end_ms": 1386000,
+   "ko": "한국 전통 집에 보면 알록달록한 문양? 그런 게 보여요.",
+   "en": "When you see traditional Korean houses, there are colorful patterns? You see things like that."
+  },
+  {
+   "start_ms": 1386000,
+   "end_ms": 1387000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1387000,
+   "end_ms": 1390000,
+   "ko": "어디서 구한 거예요? 단청.",
+   "en": "Where did you get it, the dancheong?"
+  },
+  {
+   "start_ms": 1390000,
+   "end_ms": 1395000,
+   "ko": "일단 저거는 저게 사실 스포츠 타올이거든요?",
+   "en": "Well, that's actually a sports towel, you see?"
+  },
+  {
+   "start_ms": 1395000,
+   "end_ms": 1396000,
+   "ko": "어? 네.",
+   "en": "Huh? Yes."
+  },
+  {
+   "start_ms": 1396000,
+   "end_ms": 1397000,
+   "ko": "스포츠 수건?",
+   "en": "A sports towel?"
+  },
+  {
+   "start_ms": 1397000,
+   "end_ms": 1398000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1398000,
+   "end_ms": 1402000,
+   "ko": "근데 저런 디자인으로 팔더라고요.",
+   "en": "But they sell it in a design like that."
+  },
+  {
+   "start_ms": 1402000,
+   "end_ms": 1403000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1403000,
+   "end_ms": 1411000,
+   "ko": "저거를 제가 옛날에 한 6개월 정도 넘게 배낭여행을 간 적이 있었는데",
+   "en": "I went backpacking for over about six months a while back"
+  },
+  {
+   "start_ms": 1411000,
+   "end_ms": 1416000,
+   "ko": "그때 짐을 최대한 줄이려고 얇은 수건을 찾아보다가",
+   "en": "and I was trying to find a thin towel to minimize my luggage,"
+  },
+  {
+   "start_ms": 1416000,
+   "end_ms": 1420000,
+   "ko": "그 스포츠 수건을 막 검색하다가 저걸 찾았어요.",
+   "en": "and while I was searching for sports towels, I found that one."
+  },
+  {
+   "start_ms": 1420000,
+   "end_ms": 1421000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1421000,
+   "end_ms": 1426000,
+   "ko": "그래서 저거는 왠지 나 한국인이다 이러면서 여행 다닐 때도 좀 좋겠는데",
+   "en": "So I thought it would be nice to travel around with it, like, \"I'm Korean,\" you know?"
+  },
+  {
+   "start_ms": 1426000,
+   "end_ms": 1429000,
+   "ko": "이런 생각을 가지고 샀던 건데",
+   "en": "I bought it with that kind of intention,"
+  },
+  {
+   "start_ms": 1429000,
+   "end_ms": 1430000,
+   "ko": "아.",
+   "en": "but—"
+  },
+  {
+   "start_ms": 1430000,
+   "end_ms": 1434000,
+   "ko": "뭐 그런 의도로 그런 목적으로 사용하지는 한 번도 못했고",
+   "en": "I've never actually used it for that purpose."
+  },
+  {
+   "start_ms": 1434000,
+   "end_ms": 1437000,
+   "ko": "네. 아무튼 수건이에요 저거.",
+   "en": "Right, anyway it's a towel."
+  },
+  {
+   "start_ms": 1437000,
+   "end_ms": 1439000,
+   "ko": "디스플레이를 잘해놓으셨네요.",
+   "en": "You've displayed it really nicely."
+  },
+  {
+   "start_ms": 1439000,
+   "end_ms": 1441000,
+   "ko": "캔버스? 액자처럼 해놨어요.",
+   "en": "Like a canvas or a frame."
+  },
+  {
+   "start_ms": 1441000,
+   "end_ms": 1444000,
+   "ko": "아 그래요? 근데 저거는 원래 없었어요.",
+   "en": "Oh yeah? But that wasn't there originally."
+  },
+  {
+   "start_ms": 1444000,
+   "end_ms": 1446000,
+   "ko": "그러니까요. 새로워요.",
+   "en": "Right, it's new."
+  },
+  {
+   "start_ms": 1446000,
+   "end_ms": 1448000,
+   "ko": "아 그렇구나.",
+   "en": "Oh, I see."
+  },
+  {
+   "start_ms": 1448000,
+   "end_ms": 1453000,
+   "ko": "저거 최근에 건반 사가지고",
+   "en": "I got a keyboard recently"
+  },
+  {
+   "start_ms": 1453000,
+   "end_ms": 1454000,
+   "ko": "아 네.",
+   "en": "Oh yes."
+  },
+  {
+   "start_ms": 1454000,
+   "end_ms": 1457000,
+   "ko": "아 피아노다 피아노.",
+   "en": "Oh, a piano, a piano."
+  },
+  {
+   "start_ms": 1457000,
+   "end_ms": 1461000,
+   "ko": "네네 건반 덮어두는 용도로 쓰고 있어요.",
+   "en": "Yes, I'm using it to cover the keyboard."
+  },
+  {
+   "start_ms": 1461000,
+   "end_ms": 1462000,
+   "ko": "클레벌.",
+   "en": "Clever."
+  },
+  {
+   "start_ms": 1462000,
+   "end_ms": 1463000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1463000,
+   "end_ms": 1464000,
+   "ko": "괜찮은데요?",
+   "en": "That's pretty nice, isn't it?"
+  },
+  {
+   "start_ms": 1464000,
+   "end_ms": 1466000,
+   "ko": "그리고 저 골룡포는요?",
+   "en": "And that gonryongpo?"
+  },
+  {
+   "start_ms": 1466000,
+   "end_ms": 1467000,
+   "ko": "그리고 저거는",
+   "en": "And that one—"
+  },
+  {
+   "start_ms": 1467000,
+   "end_ms": 1468000,
+   "ko": "왕곳.",
+   "en": "Royal item."
+  },
+  {
+   "start_ms": 1468000,
+   "end_ms": 1471000,
+   "ko": "아니 진짜 골룡포 옷은 아니고",
+   "en": "No, it's not actually a gonryongpo garment,"
+  },
+  {
+   "start_ms": 1471000,
+   "end_ms": 1477000,
+   "ko": "작년이 작년 외에 우리 해마다 동물이 있잖아요.",
+   "en": "but last year, aside from last year, we have an animal every year, right?"
+  },
+  {
+   "start_ms": 1477000,
+   "end_ms": 1478000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1478000,
+   "end_ms": 1480000,
+   "ko": "올해는 푸른 뱀의 해잖아요.",
+   "en": "This year is the year of the blue snake, right?"
+  },
+  {
+   "start_ms": 1480000,
+   "end_ms": 1481000,
+   "ko": "뱀이죠. 네.",
+   "en": "Snake, yes."
+  },
+  {
+   "start_ms": 1481000,
+   "end_ms": 1482000,
+   "ko": "네. 작년은",
+   "en": "Yes, last year—"
+  },
+  {
+   "start_ms": 1482000,
+   "end_ms": 1483000,
+   "ko": "청사.",
+   "en": "Blue."
+  },
+  {
+   "start_ms": 1483000,
+   "end_ms": 1485000,
+   "ko": "작년은 푸른 용의 해였을 거거든요.",
+   "en": "Last year was the year of the blue dragon."
+  },
+  {
+   "start_ms": 1485000,
+   "end_ms": 1487000,
+   "ko": "맞아요. 맞아요. 청룡이었어요.",
+   "en": "That's right, yes, it was the blue dragon."
+  },
+  {
+   "start_ms": 1487000,
+   "end_ms": 1494000,
+   "ko": "근데 제가 항상 책을 사는 사이트가 있는데",
+   "en": "But I always have a site where I buy books,"
+  },
+  {
+   "start_ms": 1494000,
+   "end_ms": 1498000,
+   "ko": "알라딘이라는 한국의 온라인 서점이거든요.",
+   "en": "it's an online bookstore in Korea called Aladin."
+  },
+  {
+   "start_ms": 1498000,
+   "end_ms": 1499000,
+   "ko": "있죠.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1499000,
+   "end_ms": 1505000,
+   "ko": "근데 그 서점이 예쁜 굿즈를 잘 만들어 팔기로 유명해요.",
+   "en": "And that bookstore is famous for making and selling pretty merchandise."
+  },
+  {
+   "start_ms": 1505000,
+   "end_ms": 1508000,
+   "ko": "오 몰랐어요. 알라딘이?",
+   "en": "Oh, I didn't know that about Aladin."
+  },
+  {
+   "start_ms": 1508000,
+   "end_ms": 1511000,
+   "ko": "네. 알라딘이 굿즈 예쁜 거 진짜 잘 만들어요.",
+   "en": "Yes. Aladdin really does make pretty merchandise well."
+  },
+  {
+   "start_ms": 1511000,
+   "end_ms": 1512000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1512000,
+   "end_ms": 1522000,
+   "ko": "근데 작년 초에 올해는 푸른 용의 해니까",
+   "en": "But at the beginning of last year, since this year is the Year of the Blue Dragon,"
+  },
+  {
+   "start_ms": 1522000,
+   "end_ms": 1527000,
+   "ko": "푸른 해랑 관련된 굿즈를 만들어서",
+   "en": "they made merchandise related to the blue dragon,"
+  },
+  {
+   "start_ms": 1527000,
+   "end_ms": 1534000,
+   "ko": "도서 5만원 이상 구매시 마일리지로 구매 가능이었는데",
+   "en": "and you could buy it with mileage if you purchased books over 50,000 won."
+  },
+  {
+   "start_ms": 1534000,
+   "end_ms": 1539000,
+   "ko": "근데 저게 담요거든요.",
+   "en": "But that one is a blanket."
+  },
+  {
+   "start_ms": 1539000,
+   "end_ms": 1546000,
+   "ko": "담요인데 저 골룡포 저 용 문양이 있는 푸른 담요예요.",
+   "en": "It's a blanket with that golryongpo, that dragon pattern on it in blue."
+  },
+  {
+   "start_ms": 1546000,
+   "end_ms": 1549000,
+   "ko": "그래서 잘 개서 저기다 걸어놓은 거죠.",
+   "en": "So I folded it nicely and hung it up over there."
+  },
+  {
+   "start_ms": 1549000,
+   "end_ms": 1550000,
+   "ko": "예쁘다.",
+   "en": "It's pretty."
+  },
+  {
+   "start_ms": 1550000,
+   "end_ms": 1551000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1551000,
+   "end_ms": 1552000,
+   "ko": "예쁘다.",
+   "en": "It's pretty."
+  },
+  {
+   "start_ms": 1552000,
+   "end_ms": 1561000,
+   "ko": "사실 저런 느낌의 물건을 많은 곳에서 팔지는 않잖아요.",
+   "en": "Actually, not many places sell items with that kind of feel, you know?"
+  },
+  {
+   "start_ms": 1561000,
+   "end_ms": 1562000,
+   "ko": "많이는 없어요.",
+   "en": "There aren't many."
+  },
+  {
+   "start_ms": 1562000,
+   "end_ms": 1565000,
+   "ko": "네. 쉽게 구할 수 없으니까.",
+   "en": "Yes. Since it's hard to find."
+  },
+  {
+   "start_ms": 1565000,
+   "end_ms": 1572000,
+   "ko": "그래서 저런 굿즈로라도 보이면 저는 어떻게든 구하고 싶어요.",
+   "en": "So whenever I see merchandise like that, I want to get it no matter what."
+  },
+  {
+   "start_ms": 1572000,
+   "end_ms": 1574000,
+   "ko": "그렇구나.",
+   "en": "I see."
+  },
+  {
+   "start_ms": 1574000,
+   "end_ms": 1581000,
+   "ko": "이거 듣는 분들도 예쁜 굿즈 사고 싶으면 알라딘 한번 확인해보면 좋겠네요.",
+   "en": "For those listening, if you want to buy pretty merchandise, it would be good to check Aladdin once."
+  },
+  {
+   "start_ms": 1581000,
+   "end_ms": 1587000,
+   "ko": "좋습니다. 알라딘 굿즈 저 되게 많아요.",
+   "en": "Good. Aladdin has a lot of merchandise."
+  },
+  {
+   "start_ms": 1587000,
+   "end_ms": 1590000,
+   "ko": "태용쌤 나중에 굿즈 소개 같은 거 해주세요.",
+   "en": "Teacher Tae-woong, could you introduce merchandise like that later?"
+  },
+  {
+   "start_ms": 1590000,
+   "end_ms": 1596000,
+   "ko": "뭔가 메모패드 이런 것도 스테이셔널이 있어요.",
+   "en": "There are things like memo pads and stationery too."
+  },
+  {
+   "start_ms": 1596000,
+   "end_ms": 1598000,
+   "ko": "그거 궁금해요.",
+   "en": "I'm curious about that."
+  },
+  {
+   "start_ms": 1598000,
+   "end_ms": 1600000,
+   "ko": "좋습니다.",
+   "en": "Sounds good."
+  },
+  {
+   "start_ms": 1600000,
+   "end_ms": 1602000,
+   "ko": "이야기가 거기로 갔는데",
+   "en": "The conversation went that way,"
+  },
+  {
+   "start_ms": 1602000,
+   "end_ms": 1604000,
+   "ko": "청소하면 또 뭐가 있을까?",
+   "en": "so what else is there when you clean?"
+  },
+  {
+   "start_ms": 1604000,
+   "end_ms": 1605000,
+   "ko": "청소?",
+   "en": "Clean?"
+  },
+  {
+   "start_ms": 1605000,
+   "end_ms": 1607000,
+   "ko": "그런 거 해본 적 있어요.",
+   "en": "Have you done something like that before?"
+  },
+  {
+   "start_ms": 1607000,
+   "end_ms": 1610000,
+   "ko": "이사할 때 입주 청소 같은 거.",
+   "en": "Like move-in cleaning when you move."
+  },
+  {
+   "start_ms": 1610000,
+   "end_ms": 1612000,
+   "ko": "그게 뭐예요?",
+   "en": "What's that?"
+  },
+  {
+   "start_ms": 1612000,
+   "end_ms": 1616000,
+   "ko": "이사할 때 새 집으로 가잖아요.",
+   "en": "When you move, you go to a new place, right?"
+  },
+  {
+   "start_ms": 1616000,
+   "end_ms": 1622000,
+   "ko": "그런데 그 집을 괜찮으면 자기가 직접 다 청소를 해도 되는데",
+   "en": "And you can clean that place yourself if it's okay,"
+  },
+  {
+   "start_ms": 1622000,
+   "end_ms": 1631000,
+   "ko": "그런데 에어컨 같은 거나 세탁기 이런 거는 오래 사용한 집에 가면 엄청 더럽단 말이죠.",
+   "en": "but things like air conditioners and washing machines—when you go to a place that's been used for a long time, they're really dirty, you know?"
+  },
+  {
+   "start_ms": 1631000,
+   "end_ms": 1638000,
+   "ko": "눈에 보이지 않는 그런 곳까지 살균 소독 다 해주는 그런 시스템이 있더라고요.",
+   "en": "There's a system that does sterilization and disinfection on places you can't see."
+  },
+  {
+   "start_ms": 1638000,
+   "end_ms": 1640000,
+   "ko": "저는 해본 적은 없어요.",
+   "en": "I've never done it myself."
+  },
+  {
+   "start_ms": 1640000,
+   "end_ms": 1641000,
+   "ko": "그래요?",
+   "en": "Really?"
+  },
+  {
+   "start_ms": 1641000,
+   "end_ms": 1642000,
+   "ko": "네.",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 1642000,
+   "end_ms": 1644000,
+   "ko": "얘기 들어보면 되게 좋을 것 같은데요.",
+   "en": "From what I hear, it sounds like it would be really good."
+  },
+  {
+   "start_ms": 1644000,
+   "end_ms": 1646000,
+   "ko": "되게 편할 것 같긴 한데",
+   "en": "It does seem convenient,"
+  },
+  {
+   "start_ms": 1646000,
+   "end_ms": 1648000,
+   "ko": "그런데 또 사람 마음이",
+   "en": "but then again, people's hearts are like this—"
+  },
+  {
+   "start_ms": 1648000,
+   "end_ms": 1651000,
+   "ko": "그런데 내가 못하는 일은 아니잖아요.",
+   "en": "but it's not something I can't do myself, right?"
+  },
+  {
+   "start_ms": 1651000,
+   "end_ms": 1655000,
+   "ko": "그런가? 에어컨 필터 청소 이런 거 할 수 있어요?",
+   "en": "Is that so? Can you do things like air conditioner filter cleaning?"
+  },
+  {
+   "start_ms": 1655000,
+   "end_ms": 1658000,
+   "ko": "그냥 쓰자 이렇게 돼서",
+   "en": "It just becomes \"let's just use it,\""
+  },
+  {
+   "start_ms": 1658000,
+   "end_ms": 1660000,
+   "ko": "에어컨",
+   "en": "the air conditioner—"
+  },
+  {
+   "start_ms": 1663000,
+   "end_ms": 1665000,
+   "ko": "고민될 것 같긴 하네요.",
+   "en": "it does seem like something to think about."
+  },
+  {
+   "start_ms": 1665000,
+   "end_ms": 1668000,
+   "ko": "생각보다 많이는 안 비쌌어요.",
+   "en": "It wasn't as expensive as you'd think."
+  },
+  {
+   "start_ms": 1668000,
+   "end_ms": 1670000,
+   "ko": "얼마나 비쌌어요?",
+   "en": "How much was it?"
+  },
+  {
+   "start_ms": 1670000,
+   "end_ms": 1673000,
+   "ko": "원룸이 한 10만 원?",
+   "en": "For a one-room, about 100,000 won?"
+  },
+  {
+   "start_ms": 1673000,
+   "end_ms": 1675000,
+   "ko": "괜찮은데요?",
+   "en": "That's reasonable, isn't it?"
+  },
+  {
+   "start_ms": 1675000,
+   "end_ms": 1678000,
+   "ko": "그건 말 그대로 한 번만 하는 거니까",
+   "en": "That's literally just doing it once,"
+  },
+  {
+   "start_ms": 1678000,
+   "end_ms": 1685000,
+   "ko": "그런데 에어컨 세탁기 이런 디테일한 청소는 아마 추가금이 더 붙을 거예요.",
+   "en": "but detailed cleaning like air conditioners and washing machines would probably have additional charges."
+  },
+  {
+   "start_ms": 1685000,
+   "end_ms": 1692000,
+   "ko": "살균 소독해주고 묵은 때 같은 거 이런 거 지워주는 게 10만 원?",
+   "en": "Sterilization and disinfection and removing old grime and things like that for 100,000 won?"
+  },
+  {
+   "start_ms": 1694000,
+   "end_ms": 1699000,
+   "ko": "저는 사실 살균 소독은 안 해도 될 것 같아요.",
+   "en": "I actually don't think sterilization and disinfection are necessary."
+  },
+  {
+   "start_ms": 1702000,
+   "end_ms": 1705000,
+   "ko": "살균 소독까지는 필요 없을 것 같고",
+   "en": "I don't think you need to go that far with sterilization,"
+  },
+  {
+   "start_ms": 1705000,
+   "end_ms": 1709000,
+   "ko": "그런데 에어컨이나 세탁기 같은 건",
+   "en": "but for things like air conditioners or washing machines,"
+  },
+  {
+   "start_ms": 1709000,
+   "end_ms": 1712000,
+   "ko": "한 번 새 것처럼 깨끗하게 하면",
+   "en": "once you make them clean like new,"
+  },
+  {
+   "start_ms": 1712000,
+   "end_ms": 1713000,
+   "ko": "맞아요.",
+   "en": "that's right."
+  },
+  {
+   "start_ms": 1713000,
+   "end_ms": 1715000,
+   "ko": "성능에도 차이가 나잖아요.",
+   "en": "there's a difference in performance, isn't there?"
+  },
+  {
+   "start_ms": 1715000,
+   "end_ms": 1716000,
+   "ko": "그렇죠.",
+   "en": "Right."
+  },
+  {
+   "start_ms": 1716000,
+   "end_ms": 1718000,
+   "ko": "그래서 솔깃한데요?",
+   "en": "So it does sound tempting?"
+  },
+  {
+   "start_ms": 1718000,
+   "end_ms": 1721000,
+   "ko": "이사가는 집 컨디션에 따라서",
+   "en": "Depending on the condition of the place you're moving to,"
+  },
+  {
+   "start_ms": 1721000,
+   "end_ms": 1725000,
+   "ko": "너무 안 좋으면 그런 거 이용해도 괜찮을 것 같아요.",
+   "en": "if it's really not in good shape, it might be okay to use something like that."
+  },
+  {
+   "start_ms": 1725000,
+   "end_ms": 1726000,
+   "ko": "너무 좋을 것 같아요.",
+   "en": "That sounds like it would be really nice."
+  },
+  {
+   "start_ms": 1726000,
+   "end_ms": 1728000,
+   "ko": "입주 청소",
+   "en": "Move-in cleaning."
+  },
+  {
+   "start_ms": 1728000,
+   "end_ms": 1731000,
+   "ko": "청소하니까 생각난 건데",
+   "en": "Speaking of cleaning, it made me think of something."
+  },
+  {
+   "start_ms": 1731000,
+   "end_ms": 1734000,
+   "ko": "태용쌤은 바퀴벌레 잡을 수 있어요?",
+   "en": "Teacher Tae-woong, can you catch cockroaches?"
+  },
+  {
+   "start_ms": 1734000,
+   "end_ms": 1736000,
+   "ko": "너무 싫어요.",
+   "en": "I really hate them."
+  },
+  {
+   "start_ms": 1737000,
+   "end_ms": 1742000,
+   "ko": "저 세상에서 제일 싫어하는 거 중에 하나가 바퀴벌레거든요.",
+   "en": "Cockroaches are one of the things I dislike the most in this world."
+  },
+  {
+   "start_ms": 1742000,
+   "end_ms": 1743000,
+   "ko": "저도요.",
+   "en": "Me too."
+  },
+  {
+   "start_ms": 1743000,
+   "end_ms": 1745000,
+   "ko": "본 적 있어요? 집에서?",
+   "en": "Have you seen them? At home?"
+  },
+  {
+   "start_ms": 1745000,
+   "end_ms": 1746000,
+   "ko": "많이 봤죠.",
+   "en": "I've seen them a lot."
+  },
+  {
+   "start_ms": 1746000,
+   "end_ms": 1747000,
+   "ko": "집에서?",
+   "en": "At home?"
+  },
+  {
+   "start_ms": 1747000,
+   "end_ms": 1750000,
+   "ko": "네. 저희 집이 1층이라서",
+   "en": "Yes. Because my place is on the first floor."
+  },
+  {
+   "start_ms": 1753000,
+   "end_ms": 1754000,
+   "ko": "그게",
+   "en": "That's..."
+  },
+  {
+   "start_ms": 1755000,
+   "end_ms": 1757000,
+   "ko": "얘기하기도 싫다.",
+   "en": "I don't even want to talk about it."
+  },
+  {
+   "start_ms": 1758000,
+   "end_ms": 1759000,
+   "ko": "네.",
+   "en": "Yeah."
+  },
+  {
+   "start_ms": 1759000,
+   "end_ms": 1766000,
+   "ko": "그게 보통 사람들이 사는 집에서 서식하는 바퀴벌레랑",
+   "en": "The cockroaches that live in regular people's homes are different from"
+  },
+  {
+   "start_ms": 1766000,
+   "end_ms": 1771000,
+   "ko": "그리고 집 밖에 있는 야외에 있는 바퀴벌레랑",
+   "en": "the cockroaches that live outside in nature."
+  },
+  {
+   "start_ms": 1771000,
+   "end_ms": 1773000,
+   "ko": "좀 다르게 생겼어요.",
+   "en": "They look quite different."
+  },
+  {
+   "start_ms": 1775000,
+   "end_ms": 1776000,
+   "ko": "그런데",
+   "en": "But"
+  },
+  {
+   "start_ms": 1777000,
+   "end_ms": 1780000,
+   "ko": "그래서 집에 있는 바퀴벌레는",
+   "en": "so the cockroaches in the house"
+  },
+  {
+   "start_ms": 1780000,
+   "end_ms": 1782000,
+   "ko": "좀 붉은 빛을 띄고",
+   "en": "have a bit of a reddish tint."
+  },
+  {
+   "start_ms": 1782000,
+   "end_ms": 1783000,
+   "ko": "오마이갓",
+   "en": "Oh my god."
+  },
+  {
+   "start_ms": 1783000,
+   "end_ms": 1786000,
+   "ko": "그리고 그렇게 크진 않아요.",
+   "en": "And they're not that big."
+  },
+  {
+   "start_ms": 1786000,
+   "end_ms": 1788000,
+   "ko": "오, 그래요?",
+   "en": "Oh, really?"
+  },
+  {
+   "start_ms": 1788000,
+   "end_ms": 1790000,
+   "ko": "집 바퀴는?",
+   "en": "The house ones?"
+  },
+  {
+   "start_ms": 1790000,
+   "end_ms": 1791000,
+   "ko": "네. 집 바퀴는.",
+   "en": "Yes. The house ones."
+  },
+  {
+   "start_ms": 1791000,
+   "end_ms": 1793000,
+   "ko": "상대적으로 작구나.",
+   "en": "They're relatively small."
+  },
+  {
+   "start_ms": 1793000,
+   "end_ms": 1794000,
+   "ko": "상대적으로 작아요.",
+   "en": "They're relatively small."
+  },
+  {
+   "start_ms": 1795000,
+   "end_ms": 1798000,
+   "ko": "물론 다 커지면",
+   "en": "Of course, when they grow up"
+  },
+  {
+   "start_ms": 1798000,
+   "end_ms": 1799000,
+   "ko": "네.",
+   "en": "Yeah."
+  },
+  {
+   "start_ms": 1800000,
+   "end_ms": 1813000,
+   "ko": "사이즈가 크겠지만 문제는 밖에 사는 바퀴벌레가 집에 가끔씩 들어오는 경우가 있었는데",
+   "en": "they get bigger, but the problem is that the cockroaches living outside sometimes come into the house."
+  },
+  {
+   "start_ms": 1813000,
+   "end_ms": 1823840,
+   "ko": "근데 밖에 사는 바퀴벌레는 일단 색깔이 새까맣고 그리고 크기가 기본적으로 한 엄지손가락 많아요",
+   "en": "But the cockroaches living outside are pitch black in color, and their size is basically about the size of a thumb."
+  },
+  {
+   "start_ms": 1823840,
+   "end_ms": 1831760,
+   "ko": "진짜요? 그리고 최악의 경우에는 왜? 날아요",
+   "en": "Really? And in the worst case, why? They fly."
+  },
+  {
+   "start_ms": 1833000,
+   "end_ms": 1838480,
+   "ko": "그놈이 나는군요 막 진짜",
+   "en": "So that thing flies, like really."
+  },
+  {
+   "start_ms": 1838919,
+   "end_ms": 1843520,
+   "ko": "이런 소리를 내면서 어떤 소리?",
+   "en": "It makes this sound while doing that. What kind of sound?"
+  },
+  {
+   "start_ms": 1843520,
+   "end_ms": 1851200,
+   "ko": "이런 소리를 내면서 벌이에요? 네. 막 이러면서 날거든요",
+   "en": "It makes this sound while flying like a bee. Yes. It just flies like this."
+  },
+  {
+   "start_ms": 1851200,
+   "end_ms": 1857680,
+   "ko": "진짜 공포영화다. 진짜 공포스럽습니다. 진짜 무서워요",
+   "en": "It's really like a horror movie. It's really scary. It's really frightening."
+  },
+  {
+   "start_ms": 1859240,
+   "end_ms": 1866720,
+   "ko": "아 그게 딱 구분이 되겠다 그러면. 네. 그 대처 방법도 다를 거 아니에요?",
+   "en": "Oh, so you can definitely tell the difference then. Yes. And the way to deal with them would be different too, right?"
+  },
+  {
+   "start_ms": 1866720,
+   "end_ms": 1875800,
+   "ko": "대처 방법은 사실 똑같죠. 약간 그거 있잖아요. 집에서 바퀴벌레가 한번 나오면 걔는 집에서 막 사는 거다",
+   "en": "The way to deal with them is actually the same. There's this thing, you know. Once a cockroach appears in your house, it means it's living there."
+  },
+  {
+   "start_ms": 1875800,
+   "end_ms": 1888120,
+   "ko": "지금 이미 한 100마리 살고 있다. 해서 세스코라고 그 바퀴벌레 박멸해주는 다 집에 있는 바퀴벌레 다 잡아주는 그 서비스 신청해야 된다 이런 얘기 있는데",
+   "en": "Like there are already about 100 living there. So you have to sign up for a service called Cesco that eliminates cockroaches and catches all the cockroaches in your house."
+  },
+  {
+   "start_ms": 1888120,
+   "end_ms": 1894559,
+   "ko": "네. 밖에서 날아온 거면은 그냥 잡아서 버리면 되잖아요. 어 맞아요",
+   "en": "Yes. If it flew in from outside, you can just catch it and throw it away. Oh, that's right."
+  },
+  {
+   "start_ms": 1896199,
+   "end_ms": 1904519,
+   "ko": "1층은 그게 안 좋구나. 그렇습니다. 진짜 자주 봐요? 그렇게 자주는 아니고",
+   "en": "First floor isn't good for that. That's right. Do you really see them that often? Not that often."
+  },
+  {
+   "start_ms": 1905519,
+   "end_ms": 1914720,
+   "ko": "한 1년에 한 4번? 4번은 좀 그런가? 3번?",
+   "en": "Like four times a year? Four times seems like a lot? Three times?"
+  },
+  {
+   "start_ms": 1914720,
+   "end_ms": 1924360,
+   "ko": "진짜? 네. 좀 못 살 거 같아요. 1층. 그러니까요. 전 딱 한 번 나왔어요. 자취방에서",
+   "en": "Really? Yes. I don't think I could live like that. On the first floor. Exactly. I only had one come out. In my studio apartment."
+  },
+  {
+   "start_ms": 1924440,
+   "end_ms": 1938919,
+   "ko": "아 그래요? 네. 붉은 빛을 띄었나요? 아 모르겠어요. 근데 진짜 새 집이었거든요. 완전 신도시의 새 집이었는데",
+   "en": "Oh really? Yes. Did it have a reddish tint? Oh, I'm not sure. But it was a brand new place, you know. It was a brand new apartment in a completely new city."
+  },
+  {
+   "start_ms": 1938919,
+   "end_ms": 1948839,
+   "ko": "아마 제가 시킨 커튼에 붙어온 거 같아요. 그 택배 박스. 그렇게 많이 들어온대요. 그런 거 같아요",
+   "en": "I think it probably came attached to the curtains I ordered. The delivery box. Apparently a lot come in that way. I think that's what happened."
+  },
+  {
+   "start_ms": 1948839,
+   "end_ms": 1960839,
+   "ko": "근데 제가 자취를 시작한 지 일주일 차에 바퀴벌레가 딱 들어온 거예요. 걔를 발견한 거에요. 커튼 달다가 커튼에 딱 붙어있는 거에요. 걔가",
+   "en": "But it was just one week after I started living on my own that a cockroach came in. I found it. It was stuck right on the curtain while I was hanging it up."
+  },
+  {
+   "start_ms": 1960839,
+   "end_ms": 1975759,
+   "ko": "그래서 그날 밤에 잠을 못 자고. 아 근데 놓쳤어요. 걔를. 그러니까 자보려고 했는데 갑자기 안 보이는 거. 제 시야에서 벗어났어요. 걔가 안 보이기 시작해서",
+   "en": "So that night I couldn't sleep. Oh, but I lost it. I lost sight of it. So I was trying to go to bed and suddenly I couldn't see it. It went out of my sight."
+  },
+  {
+   "start_ms": 1975880,
+   "end_ms": 1990600,
+   "ko": "그 뒤로 안 보이다가 한 반년 뒤에 제가 그 베란다에 타일을 깔아놨었거든요. 그 타일을 버리려고 타일을 들었는데 그 밑에 죽어 있었어요.",
+   "en": "After that I didn't see it, but about six months later I had laid tiles on my balcony. I was trying to throw away the tiles and when I lifted them, it was dead underneath."
+  },
+  {
+   "start_ms": 1990600,
+   "end_ms": 2003080,
+   "ko": "아 그래서 번지지 않았구나. 번지진 않은 거 같아요. 그날 제가 뭔가 약을 뿌리고 해서 죽었는데 그 타일 밑으로 들어가서 죽은 거 같아요. 숨어서.",
+   "en": "Oh, so it didn't spread. It doesn't seem to have spread. I sprayed some kind of pesticide that day and it died, but it went under the tiles and died. It hid there."
+  },
+  {
+   "start_ms": 2003080,
+   "end_ms": 2013520,
+   "ko": "아 진짜 다행이네요. 진짜 다행이네. 그렇게 딱 초기 진압이 잘 됐네요. 초기 진압. 그게 중요해요.",
+   "en": "Oh, that's really fortunate. That's really fortunate. You really did a good job with early containment. Early containment. That's important."
+  },
+  {
+   "start_ms": 2013520,
+   "end_ms": 2024520,
+   "ko": "제가 듣기로 바퀴벌레에 진짜 좋은 게 하나 있대요. 잡는데 좋은 거. 약간 실제 경험담이었는데 한국에 올리브영 가면은 푸츠샴푸라는 걸 팔아요.",
+   "en": "I heard there's something really good for cockroaches. Something good for catching them. It was actually from real experience, but if you go to Olive Young in Korea, they sell something called Foot Shampoo."
+  },
+  {
+   "start_ms": 2025360,
+   "end_ms": 2046880,
+   "ko": "푸츠샴푸. 발 샴푸에요. 발 샴푸. 그 파란색으로 생겨가지고 있거든요. 칙칙 뿌리는 거. 그거를 그냥 발 씻기 귀찮을 때 이렇게 대충 뿌리고 발에 샤워기 싹 해서 씻을 수 있는 혁명템인데",
+   "en": "Foot Shampoo. It's foot shampoo. It comes in blue color. You spray it like this. It's a revolutionary product where you can just spray it when you're too lazy to wash your feet and then rinse it off with the shower."
+  },
+  {
+   "start_ms": 2046880,
+   "end_ms": 2063079,
+   "ko": "그게 바퀴벌레를 진짜 잘 잡는대요. 아 그래요? 걔를 한번 뿌리면 바퀴벌레가 마비된대요. 우와 대박. 그래서 항상 푸츠샴푸를 욕실에 놔둬야 돼요.",
+   "en": "Apparently it's really good at catching cockroaches. Oh really? If you spray it once, the cockroach gets paralyzed. Wow, that's amazing. So you always have to keep Foot Shampoo in the bathroom."
+  },
+  {
+   "start_ms": 2063079,
+   "end_ms": 2080679,
+   "ko": "와 진짜 집에 무조건 구비해둬야 되겠네요. 있어야 돼요. 발 씻을 때도 좋고 혹시나 바퀴벌레 나오면 걔가 바퀴벌레가 등으로 숨을 쉰대나 아무튼 그 숨구멍을 거품이 다 막아서 기절한대요. 아 기절해요? 네.",
+   "en": "Wow, I definitely need to have it stocked at home. You have to. It's good for washing your feet too, and if a cockroach comes out, apparently it breathes through its back or something, and the foam blocks all its breathing holes so it passes out. Oh, it passes out? Yes."
+  },
+  {
+   "start_ms": 2080679,
+   "end_ms": 2100000,
+   "ko": "아 그렇구나. 우와. 친구가 그걸로 잡았다고. 푸츠샴푸 알겠습니다. 이거 꼭 필요하네. 그 있어요. 초록색 파란색 통.",
+   "en": "Oh, I see. Wow. My friend caught one with that. Foot Shampoo, got it. This is definitely necessary. There's the green and blue bottle."
+  },
+  {
+   "start_ms": 2100000,
+   "end_ms": 2120239,
+   "ko": "근데 이런 해충약 있잖아요. 해충약에 대한 저의 한가지 지론이랄까요? 그런 생각이 하나 있는데 해충약은 무조건 집에 두개를 구비해둬야 됩니다.",
+   "en": "But you know, there are these insect sprays. I have one principle about insect spray, or one thought about it. You absolutely have to keep two bottles of insect spray at home."
+  },
+  {
+   "start_ms": 2120239,
+   "end_ms": 2139920,
+   "ko": "두개요? 이유는요? 두개를 구비해놓고 하나만 쓰다가 하나가 다 떨어지면 새걸 써야죠. 그러면 그때 또 하나를 사야 됩니다. 왜요? 왜냐면 해충약 바퀴벌레 약이 하나밖에 없어요.",
+   "en": "Two? Why? You keep two bottles and use just one, and when one runs out, you have to use the new one. Then you have to buy another one at that time. Why? Because there's only one insect spray, one cockroach spray."
+  },
+  {
+   "start_ms": 2139920,
+   "end_ms": 2153959,
+   "ko": "만약에 근데 바퀴벌레가 나와요. 근데 뿌려서 죽여야 되잖아요. 근데 그 하나가 다 떨어지면 어떡해? 그러니까 항상 여분을 둬야 한다는 말이죠.",
+   "en": "If a cockroach comes out. But you have to spray it and kill it. But if that one runs out, what do you do? So you always have to keep a spare."
+  },
+  {
+   "start_ms": 2153959,
+   "end_ms": 2165320,
+   "ko": "아 확실히. 왜냐면 그만큼 급하게 순간적으로 잡아야 되기 때문에. 그러니까요. 항상 대비가 되어있어야 한다.",
+   "en": "Oh, definitely. Because you have to catch it that urgently, in that moment. Exactly. You always have to be prepared."
+  },
+  {
+   "start_ms": 2165519,
+   "end_ms": 2173640,
+   "ko": "그렇군요. 항시 구비. 푸츠샴푸도 두개 사두세요. 아 그러려고요. 두개. 네.",
+   "en": "I see. Always keep it stocked. Get two bottles of Foot Shampoo too. Oh, I'm planning to. Two. Yes."
+  },
+  {
+   "start_ms": 2176959,
+   "end_ms": 2189799,
+   "ko": "아 참. 진짜 그 바퀴벌레랑 관련돼서 진짜 제가 경험했던 끔찍한 경험들이 있거든요. 네. 경험들? 아 뭐 경험. 네.",
+   "en": "Oh right. I actually have some really terrible experiences related to cockroaches. Yes. Experiences? Oh, well, experiences. Yes."
+  },
+  {
+   "start_ms": 2190799,
+   "end_ms": 2203920,
+   "ko": "아 근데 얘기할까요 말까요? 재밌어요? 웃음을 주실 수 있나요? 충격적이긴 할거에요. 충격적이에요? 네.",
+   "en": "But should I tell this story or not? Is it interesting? Can I get a laugh out of you? It'll be shocking though. It's shocking? Yes."
+  },
+  {
+   "start_ms": 2203920,
+   "end_ms": 2209200,
+   "ko": "아 근데 이건 할만한 이야기 같아요. 청소랑 많은 연관이 있어서. 들려주세요. 들려주세요.",
+   "en": "But this seems like a story worth telling. Because it has a lot to do with cleaning. Please tell us. Please tell us."
+  },
+  {
+   "start_ms": 2209239,
+   "end_ms": 2217920,
+   "ko": "아 언제 있었던 일이냐면 제가 방글라데시에 가서 있었던 일입니다. 방글라데시에서? 네.",
+   "en": "So when did this happen? It happened when I went to Bangladesh. In Bangladesh? Yes."
+  },
+  {
+   "start_ms": 2217920,
+   "end_ms": 2232600,
+   "ko": "제가 방글라데시에 파견이 돼서 한 2개월 정도 호텔에서 지내면서 교육기간을 거치고 교육기간이 끝나고 제 집을 제가 구해서 들어갔거든요.",
+   "en": "I was dispatched to Bangladesh and stayed in a hotel for about two months while going through a training period, and after the training ended, I found my own place and moved in."
+  },
+  {
+   "start_ms": 2233600,
+   "end_ms": 2246160,
+   "ko": "네. 그래서 그 입주하는 집에 들어간 첫날 저녁이었어요. 그때 집에 별거 없었거든요. 침대밖에 없었고.",
+   "en": "Yes. So it was the evening of the first day I moved into that house. There wasn't much in the house back then. There was only a bed."
+  },
+  {
+   "start_ms": 2246160,
+   "end_ms": 2257799,
+   "ko": "네. 그래서 차차 집주인이랑 얘기를 해서 가구를 하나씩 넣어야 했는데 아무튼 바퀴벌레가 나온거에요.",
+   "en": "Yes. So I had to talk with the landlord little by little and add furniture one piece at a time, but anyway, a cockroach came out."
+  },
+  {
+   "start_ms": 2257880,
+   "end_ms": 2264760,
+   "ko": "첫날? 네. 첫날 바퀴벌레가 나왔는데 근데 그거는 그럴 수 있다고 생각했어요.",
+   "en": "On the first day? Yes. A cockroach came out on the first day, but I thought that could happen."
+  },
+  {
+   "start_ms": 2264760,
+   "end_ms": 2275519,
+   "ko": "그리고 제가 이미 그걸 각오하고 바퀴벌레 약도 미리 사뒀어요. 네. 2개.",
+   "en": "And I had already prepared for that and bought cockroach spray in advance. Yes. Two of them."
+  },
+  {
+   "start_ms": 2275519,
+   "end_ms": 2290600,
+   "ko": "사뒀어서 약을 직 뿌려서 잡았죠. 죽였죠. 그리고 휴지로 잘 해서 변기통에 버렸거든요.",
+   "en": "I bought it and sprayed the spray directly and caught it. I killed it. And I wrapped it up nicely with tissue and threw it in the toilet."
+  },
+  {
+   "start_ms": 2290600,
+   "end_ms": 2300440,
+   "ko": "네. 아무튼 그랬습니다. 그게 저녁이었습니다. 근데 또 제가 사는 집이 좀 넓었어요.",
+   "en": "Yes. Anyway, that's what happened. That was in the evening. But also, the house I live in was pretty spacious."
+  },
+  {
+   "start_ms": 2300440,
+   "end_ms": 2319119,
+   "ko": "방이 3개가 있고 화장실이 2개가 있는 집이었는데 방이 넓으니까 각 방마다 커텐도 달고 창문 단속도 하고",
+   "en": "It had three rooms and two bathrooms, and since the rooms were spacious, I hung curtains in each room and secured the windows."
+  },
+  {
+   "start_ms": 2319119,
+   "end_ms": 2327080,
+   "ko": "그리고 제가 주로 쓰는 침대가 있는 방으로 들어와서 자려고 그래서 집을 막 돌아다녔거든요.",
+   "en": "And I came into the room where the bed I mainly use is and tried to sleep, so I was walking around the house."
+  },
+  {
+   "start_ms": 2327080,
+   "end_ms": 2338119,
+   "ko": "네. 근데 지금 방에서 저쪽 방으로 가는 길에 바퀴벌레가 있길래 또 약을 뿌려서 죽였습니다.",
+   "en": "Yes. But as I was going from one room to another room, there was a cockroach, so I sprayed the spray again and killed it."
+  },
+  {
+   "start_ms": 2338719,
+   "end_ms": 2355119,
+   "ko": "그리고 제가 볼일을 보고 또 다른 방으로 이동하는데 제가 지나온 길을 딱 등을 돌려서 뒤를 봤거든요.",
+   "en": "And after I did my business and moved to another room, I turned my back on the path I had come from and looked behind me."
+  },
+  {
+   "start_ms": 2355119,
+   "end_ms": 2364280,
+   "ko": "근데 갑자기 없던 바퀴벌레가 튀어나와서 제가 뿌려놓은 약을 맞고 뒤집어서 죽어가고 있는 거예요.",
+   "en": "But suddenly a cockroach that wasn't there before jumped out, got hit by the spray I had sprayed, flipped over, and was dying."
+  },
+  {
+   "start_ms": 2365280,
+   "end_ms": 2380599,
+   "ko": "이해가 돼요? 무슨 말인지? 그러니까 생각해보세요. 앞을 걸어가면서 앞에 바퀴벌레가 있길래 약을 뿌리고 그 바퀴벌레를 지나쳤어요.",
+   "en": "Do you understand? Do you know what I mean? So think about it. As I was walking forward, there was a cockroach in front, so I sprayed it and passed by that cockroach."
+  },
+  {
+   "start_ms": 2380599,
+   "end_ms": 2394960,
+   "ko": "뿌려놓고? 네. 뿌려놓고 앞으로 지나쳤어요. 근데 뒤를 돌아봤어요. 근데 갑자기 새로운 바퀴벌레가 나와서 또 죽어있는 거예요.",
+   "en": "After spraying? Yes. After spraying, I went forward and passed it. But I looked behind me. But suddenly a new cockroach came out and it was dead too."
+  },
+  {
+   "start_ms": 2394960,
+   "end_ms": 2396960,
+   "ko": "두 마리가? 네.",
+   "en": "Two of them? Yes."
+  },
+  {
+   "start_ms": 2396960,
+   "end_ms": 2398960,
+   "ko": "아... 네.",
+   "en": "Ah... yes."
+  },
+  {
+   "start_ms": 2400000,
+   "end_ms": 2409000,
+   "ko": "근데 진짜 와 이거 이건 진짜 우글우글 거리고 있겠구나",
+   "en": "But wow, this must have been absolutely crawling with them."
+  },
+  {
+   "start_ms": 2409000,
+   "end_ms": 2414600,
+   "ko": "근데 그게 뭐 주방도 그렇고 모든 곳에서 그랬어요 모든 곳에서",
+   "en": "But that was the case in the kitchen too, and everywhere else, everywhere."
+  },
+  {
+   "start_ms": 2414600,
+   "end_ms": 2417000,
+   "ko": "그러니까 말 그대로 상상할 수도 없어요",
+   "en": "So literally, you can't even imagine it."
+  },
+  {
+   "start_ms": 2417000,
+   "end_ms": 2421280,
+   "ko": "말 그대로 뒤돌면 바퀴벌레가 있는 그런 곳이었어요",
+   "en": "Literally, if you turned around, there would be a cockroach right there."
+  },
+  {
+   "start_ms": 2421280,
+   "end_ms": 2433279,
+   "ko": "그래서 제가 진짜 진짜 한 2주 동안 바퀴벌레 약을 한 5통 썼을 거에요",
+   "en": "So I probably went through about 5 bottles of cockroach spray over 2 weeks."
+  },
+  {
+   "start_ms": 2433279,
+   "end_ms": 2441279,
+   "ko": "그냥 그냥 그건 이제 바퀴벌레가 안 보여도 집에 다 뿌려 놓는 거에요",
+   "en": "I just sprayed it all over the house even when I didn't see any cockroaches."
+  },
+  {
+   "start_ms": 2441279,
+   "end_ms": 2447279,
+   "ko": "그리고 현지에 있는 마트에 가서 나프탈렌 볼 같은 걸 사서",
+   "en": "And I went to a local mart and bought things like naphthalene balls."
+  },
+  {
+   "start_ms": 2447279,
+   "end_ms": 2450279,
+   "ko": "구석에 다 심어 놓는 거에요",
+   "en": "And placed them in all the corners."
+  },
+  {
+   "start_ms": 2450279,
+   "end_ms": 2456279,
+   "ko": "그리고 치약을 또 싫어하는 거 아세요 바퀴벌레가?",
+   "en": "And you know cockroaches hate toothpaste, right?"
+  },
+  {
+   "start_ms": 2456279,
+   "end_ms": 2458279,
+   "ko": "어 들어본 적 있는 거 같아요",
+   "en": "Uh, I think I've heard about that."
+  },
+  {
+   "start_ms": 2458279,
+   "end_ms": 2463279,
+   "ko": "네 제일 싼 치약을 한 10개 사서",
+   "en": "Yes, I bought about 10 of the cheapest toothpaste tubes."
+  },
+  {
+   "start_ms": 2463279,
+   "end_ms": 2465279,
+   "ko": "와 전쟁이네요",
+   "en": "Wow, it was like a war."
+  },
+  {
+   "start_ms": 2465279,
+   "end_ms": 2472279,
+   "ko": "그래서 주방이랑 그리고 집에 창틀이랑 모든 창문에 창틀이랑",
+   "en": "So the kitchen and the window frames and all the windows, the window frames."
+  },
+  {
+   "start_ms": 2473279,
+   "end_ms": 2480279,
+   "ko": "베란다 이런 큰 창틀 그리고 외부에서 들어올 수 있는 모든 틈",
+   "en": "The balcony, these large window frames, and every gap where things could come in from outside."
+  },
+  {
+   "start_ms": 2480279,
+   "end_ms": 2482279,
+   "ko": "어떡해",
+   "en": "What do you do?"
+  },
+  {
+   "start_ms": 2482279,
+   "end_ms": 2491279,
+   "ko": "거기를 다 그 치약 짜서 막 슥삭슥삭 다 치약질을 다 하는 거에요",
+   "en": "I squeezed out the toothpaste and just smeared it all over, doing toothpaste everywhere."
+  },
+  {
+   "start_ms": 2491279,
+   "end_ms": 2501279,
+   "ko": "치약 코팅을 모든 틈과 모든 주방 그런 모서리와 그런 곳들을",
+   "en": "Coating with toothpaste all the gaps and all the kitchen corners and places like that."
+  },
+  {
+   "start_ms": 2501279,
+   "end_ms": 2507279,
+   "ko": "그래서 진짜 그때 힘들었는데 퇴근하고 오면 하루종일 계속 그거 하고",
+   "en": "So it was really hard back then, and when I came home from work, I'd just keep doing that all day long."
+  },
+  {
+   "start_ms": 2507279,
+   "end_ms": 2511279,
+   "ko": "아니 다시 이사갈 순 없었던 거에요?",
+   "en": "But couldn't you just move to a different place?"
+  },
+  {
+   "start_ms": 2511279,
+   "end_ms": 2514279,
+   "ko": "그럴 순 없었어요",
+   "en": "I couldn't do that."
+  },
+  {
+   "start_ms": 2514279,
+   "end_ms": 2516279,
+   "ko": "진짜 절망적이다",
+   "en": "It was really hopeless."
+  },
+  {
+   "start_ms": 2516279,
+   "end_ms": 2520279,
+   "ko": "그리고 그 집도 좋은 집이었어요 사실",
+   "en": "And that house was actually a nice place."
+  },
+  {
+   "start_ms": 2520279,
+   "end_ms": 2525279,
+   "ko": "그래서 2주간 그렇게 전쟁을 한 끝에",
+   "en": "So after 2 weeks of fighting that war."
+  },
+  {
+   "start_ms": 2525279,
+   "end_ms": 2535279,
+   "ko": "그 이후로 바퀴벌레나 개미나 심지어 파리나 모기조차 단 한 마리도 안 나왔어요",
+   "en": "After that, not a single cockroach, ant, or even a fly or mosquito appeared."
+  },
+  {
+   "start_ms": 2535279,
+   "end_ms": 2540279,
+   "ko": "근데 궁금한 게 그 2주 동안 바퀴벌레 시체들이 막 있었어요 그럼?",
+   "en": "But I'm curious, during those 2 weeks there were cockroach bodies everywhere, right?"
+  },
+  {
+   "start_ms": 2540279,
+   "end_ms": 2542279,
+   "ko": "그럼요",
+   "en": "Of course."
+  },
+  {
+   "start_ms": 2542279,
+   "end_ms": 2545279,
+   "ko": "아 진짜 싫어요",
+   "en": "Ugh, I really hate that."
+  },
+  {
+   "start_ms": 2545279,
+   "end_ms": 2547279,
+   "ko": "그럼요 그럼요",
+   "en": "Of course, of course."
+  },
+  {
+   "start_ms": 2551279,
+   "end_ms": 2554279,
+   "ko": "좀 강해지셨겠는데요 그때 이후로",
+   "en": "You must have gotten pretty tough after that."
+  },
+  {
+   "start_ms": 2554279,
+   "end_ms": 2559279,
+   "ko": "많이 강해졌죠 진짜 와 진짜",
+   "en": "I got a lot tougher, really wow, really."
+  },
+  {
+   "start_ms": 2559279,
+   "end_ms": 2563279,
+   "ko": "웬만한 바퀴벌레는 놀라지 않겠는데?",
+   "en": "You probably wouldn't be startled by most cockroaches now?"
+  },
+  {
+   "start_ms": 2563279,
+   "end_ms": 2565279,
+   "ko": "놀라진 않죠",
+   "en": "I'm not startled."
+  },
+  {
+   "start_ms": 2565279,
+   "end_ms": 2567279,
+   "ko": "대단해요 진짜 존경스러워요",
+   "en": "That's amazing, I really respect that."
+  },
+  {
+   "start_ms": 2567279,
+   "end_ms": 2569279,
+   "ko": "아니에요 근데 그래도 싫어요",
+   "en": "No, but I still hate them."
+  },
+  {
+   "start_ms": 2569279,
+   "end_ms": 2571279,
+   "ko": "그래도 싫어요 그래도",
+   "en": "I still hate them, still."
+  },
+  {
+   "start_ms": 2571279,
+   "end_ms": 2573279,
+   "ko": "바퀴벌레 왜 이렇게 싫을까요?",
+   "en": "Why do you hate cockroaches so much?"
+  },
+  {
+   "start_ms": 2573279,
+   "end_ms": 2574279,
+   "ko": "그러니까",
+   "en": "Well."
+  },
+  {
+   "start_ms": 2574279,
+   "end_ms": 2576279,
+   "ko": "조금 신기해요",
+   "en": "It's a bit interesting."
+  },
+  {
+   "start_ms": 2576279,
+   "end_ms": 2578279,
+   "ko": "왜 그렇게 혐오스럽지?",
+   "en": "Why is it so disgusting?"
+  },
+  {
+   "start_ms": 2578279,
+   "end_ms": 2580279,
+   "ko": "그러니까요",
+   "en": "Right."
+  },
+  {
+   "start_ms": 2581279,
+   "end_ms": 2585279,
+   "ko": "솔직히 사슴벌레랑 좀 비슷하잖아요 그냥 까맣고",
+   "en": "Honestly, they're kind of similar to stag beetles, just black."
+  },
+  {
+   "start_ms": 2585279,
+   "end_ms": 2587279,
+   "ko": "근데 그렇게 막 싫지 않아요",
+   "en": "But I don't hate them that much."
+  },
+  {
+   "start_ms": 2587279,
+   "end_ms": 2590279,
+   "ko": "이미지가 너무 안 좋아서 그런가?",
+   "en": "Is it because the image is just so bad?"
+  },
+  {
+   "start_ms": 2590279,
+   "end_ms": 2592279,
+   "ko": "일단 제 생각에는",
+   "en": "In my opinion."
+  },
+  {
+   "start_ms": 2592279,
+   "end_ms": 2595279,
+   "ko": "그 다리에 있는",
+   "en": "The legs."
+  },
+  {
+   "start_ms": 2595279,
+   "end_ms": 2597279,
+   "ko": "그 톱니 같은",
+   "en": "Those saw-like."
+  },
+  {
+   "start_ms": 2597279,
+   "end_ms": 2601279,
+   "ko": "자세히도 보셨네요 톱니가 있어요?",
+   "en": "You've looked at them closely, they have saw-like things?"
+  },
+  {
+   "start_ms": 2601279,
+   "end_ms": 2604279,
+   "ko": "전 그냥 그 형체밖에 몰라요 더듬이랑",
+   "en": "I just know the shape, the antennae."
+  },
+  {
+   "start_ms": 2604279,
+   "end_ms": 2606279,
+   "ko": "더 얘기 안 하겠습니다",
+   "en": "I won't talk about it anymore."
+  },
+  {
+   "start_ms": 2606279,
+   "end_ms": 2608279,
+   "ko": "아 생긴 게 조금",
+   "en": "Ah, the appearance is a bit."
+  },
+  {
+   "start_ms": 2608279,
+   "end_ms": 2611279,
+   "ko": "생긴 게 혐오스러운데 근데",
+   "en": "The appearance is disgusting, but."
+  },
+  {
+   "start_ms": 2611279,
+   "end_ms": 2613279,
+   "ko": "근데 제가",
+   "en": "But I."
+  },
+  {
+   "start_ms": 2613279,
+   "end_ms": 2615279,
+   "ko": "제가 좀",
+   "en": "I kind of."
+  },
+  {
+   "start_ms": 2615279,
+   "end_ms": 2617279,
+   "ko": "친구들 열받게 하려고",
+   "en": "To annoy my friends."
+  },
+  {
+   "start_ms": 2617279,
+   "end_ms": 2619279,
+   "ko": "종종 하던 얘기가 있는데",
+   "en": "There's something I used to say often."
+  },
+  {
+   "start_ms": 2619279,
+   "end_ms": 2621279,
+   "ko": "그거 알아요? 바퀴벌레랑",
+   "en": "Do you know? About cockroaches."
+  },
+  {
+   "start_ms": 2621279,
+   "end_ms": 2624279,
+   "ko": "아 열받아요",
+   "en": "Ugh, that annoys me."
+  },
+  {
+   "start_ms": 2624279,
+   "end_ms": 2625279,
+   "ko": "왜요?",
+   "en": "Why?"
+  },
+  {
+   "start_ms": 2625279,
+   "end_ms": 2627279,
+   "ko": "새우랑 맛이 비슷하다고요?",
+   "en": "That they taste similar to shrimp?"
+  },
+  {
+   "start_ms": 2627279,
+   "end_ms": 2629279,
+   "ko": "아니 그 종이 비슷하다고?",
+   "en": "Or that the species is similar?"
+  },
+  {
+   "start_ms": 2629279,
+   "end_ms": 2630279,
+   "ko": "종?",
+   "en": "Species?"
+  },
+  {
+   "start_ms": 2630279,
+   "end_ms": 2633279,
+   "ko": "네 생물학적으로",
+   "en": "Yes, biologically"
+  },
+  {
+   "start_ms": 2633279,
+   "end_ms": 2636279,
+   "ko": "되게 비슷하대요",
+   "en": "they're very similar, apparently"
+  },
+  {
+   "start_ms": 2636279,
+   "end_ms": 2638279,
+   "ko": "그래서 뭐",
+   "en": "So anyway"
+  },
+  {
+   "start_ms": 2638279,
+   "end_ms": 2640279,
+   "ko": "제가 디디님한테도 얘기했었어요? 어떻게 알지?",
+   "en": "I think I mentioned this to you before, Didi? How did you know?"
+  },
+  {
+   "start_ms": 2640279,
+   "end_ms": 2643279,
+   "ko": "아 이거 너무 저도 많이 열받았었어가지고",
+   "en": "Oh, this really frustrated me a lot"
+  },
+  {
+   "start_ms": 2643279,
+   "end_ms": 2646279,
+   "ko": "친구들이 꼭 있어요 새우 먹고 있으면",
+   "en": "I have friends who always do this when I'm eating shrimp"
+  },
+  {
+   "start_ms": 2646279,
+   "end_ms": 2649279,
+   "ko": "그거 알아? 바퀴벌레랑 새우랑 맛 똑같대 이렇게",
+   "en": "You know that? They say shrimp and cockroaches taste exactly the same"
+  },
+  {
+   "start_ms": 2649279,
+   "end_ms": 2650279,
+   "ko": "아 그래요?",
+   "en": "Oh really?"
+  },
+  {
+   "start_ms": 2650279,
+   "end_ms": 2653279,
+   "ko": "저는 어떻게 얘기하냐면",
+   "en": "The way I explain it"
+  },
+  {
+   "start_ms": 2653279,
+   "end_ms": 2655279,
+   "ko": "우리 초밥집 가면",
+   "en": "is when we go to a sushi restaurant"
+  },
+  {
+   "start_ms": 2655279,
+   "end_ms": 2657279,
+   "ko": "그 생새우초밥 있지 않느냐?",
+   "en": "you know that raw shrimp sushi they have?"
+  },
+  {
+   "start_ms": 2657279,
+   "end_ms": 2660279,
+   "ko": "간장에 절인 생새우초밥",
+   "en": "raw shrimp sushi marinated in soy sauce"
+  },
+  {
+   "start_ms": 2660279,
+   "end_ms": 2663279,
+   "ko": "그래서 뭐",
+   "en": "so anyway"
+  },
+  {
+   "start_ms": 2664279,
+   "end_ms": 2667279,
+   "ko": "바퀴벌레도",
+   "en": "cockroaches too"
+  },
+  {
+   "start_ms": 2667279,
+   "end_ms": 2670279,
+   "ko": "그렇게 생새우초밥처럼",
+   "en": "would taste like raw shrimp sushi that way"
+  },
+  {
+   "start_ms": 2670279,
+   "end_ms": 2673279,
+   "ko": "아 진짜",
+   "en": "Oh my gosh"
+  },
+  {
+   "start_ms": 2673279,
+   "end_ms": 2677279,
+   "ko": "왜 그래요? 바퀴벌레 하우스도 사신 분이",
+   "en": "Why are you like that? You're the one who even bought a cockroach house"
+  },
+  {
+   "start_ms": 2679279,
+   "end_ms": 2682279,
+   "ko": "그 이후로는 그 얘기 안 해요",
+   "en": "After that, I don't bring it up anymore"
+  },
+  {
+   "start_ms": 2683279,
+   "end_ms": 2686279,
+   "ko": "진짜 혐오스러워요",
+   "en": "It's really disgusting"
+  },
+  {
+   "start_ms": 2687279,
+   "end_ms": 2690279,
+   "ko": "아니에요 아니에요 아니에요",
+   "en": "No, no, no"
+  },
+  {
+   "start_ms": 2690279,
+   "end_ms": 2693279,
+   "ko": "엄연히 다른 종이고",
+   "en": "They're clearly different species"
+  },
+  {
+   "start_ms": 2693279,
+   "end_ms": 2696279,
+   "ko": "엄연히 다른 맛이 날 것 같아요",
+   "en": "and I'm pretty sure they'd taste completely different"
+  },
+  {
+   "start_ms": 2696279,
+   "end_ms": 2699279,
+   "ko": "네 다르죠",
+   "en": "Yes, they're different"
+  },
+  {
+   "start_ms": 2699279,
+   "end_ms": 2702279,
+   "ko": "맞아 무슨 조상이셨다나?",
+   "en": "Right, what was their ancestor or something?"
+  },
+  {
+   "start_ms": 2702279,
+   "end_ms": 2705279,
+   "ko": "아 그랬던 것 같아요",
+   "en": "Oh, I think that was it"
+  },
+  {
+   "start_ms": 2706279,
+   "end_ms": 2709279,
+   "ko": "식욕이 뚝 떨어지셨을 것 같아요",
+   "en": "I bet their appetite dropped completely"
+  },
+  {
+   "start_ms": 2709279,
+   "end_ms": 2712279,
+   "ko": "이 팟캐스트 듣고 계시는 분들",
+   "en": "For those listening to this podcast"
+  },
+  {
+   "start_ms": 2712279,
+   "end_ms": 2715279,
+   "ko": "죄송합니다 아 예전엔 뭐",
+   "en": "I'm sorry, oh back then we used to"
+  },
+  {
+   "start_ms": 2715279,
+   "end_ms": 2718279,
+   "ko": "햄버거 이런 맛있는 거 얘기하던 것처럼",
+   "en": "talk about delicious things like hamburgers"
+  },
+  {
+   "start_ms": 2718279,
+   "end_ms": 2721279,
+   "ko": "그러니까 이제 바퀴벌레 같은 거",
+   "en": "so now with cockroaches and stuff like that"
+  },
+  {
+   "start_ms": 2721279,
+   "end_ms": 2724279,
+   "ko": "안 나오도록 청소를 잘 해야겠다",
+   "en": "I need to make sure to clean well so they don't show up"
+  },
+  {
+   "start_ms": 2724279,
+   "end_ms": 2726279,
+   "ko": "아 진짜 진짜 깨끗하게 해야 됩니다",
+   "en": "Oh, you really have to keep it really clean"
+  },
+  {
+   "start_ms": 2726279,
+   "end_ms": 2730279,
+   "ko": "그리고 풀샴푸 바퀴벌레 퇴치제 이런 거 항상 두 통씩 사두시고",
+   "en": "and you should always keep two bottles of full shampoo cockroach repellent and stuff like that on hand"
+  },
+  {
+   "start_ms": 2730279,
+   "end_ms": 2734279,
+   "ko": "아 근데 아까 그래서 방글라데시 집 얘기",
+   "en": "Oh but anyway, so about that Bangladesh house story"
+  },
+  {
+   "start_ms": 2734279,
+   "end_ms": 2738279,
+   "ko": "그 하려고 했던 그 마지막 이야기가",
+   "en": "that last story I was trying to tell"
+  },
+  {
+   "start_ms": 2738279,
+   "end_ms": 2740279,
+   "ko": "마지막 이야기?",
+   "en": "Last story?"
+  },
+  {
+   "start_ms": 2740279,
+   "end_ms": 2743279,
+   "ko": "그 이후로 제가 좀 중요한 걸 깨달았거든요",
+   "en": "After that, I realized something important"
+  },
+  {
+   "start_ms": 2743279,
+   "end_ms": 2746279,
+   "ko": "그리고 이게 그 원칙이",
+   "en": "and this principle"
+  },
+  {
+   "start_ms": 2746279,
+   "end_ms": 2749279,
+   "ko": "인생의 대부분의 아 대부분은 아니라 많은 일에서",
+   "en": "applies to many things in life, not most things but many"
+  },
+  {
+   "start_ms": 2749279,
+   "end_ms": 2752279,
+   "ko": "적용이 된다는 걸 알았는데",
+   "en": "and I realized that"
+  },
+  {
+   "start_ms": 2752279,
+   "end_ms": 2755279,
+   "ko": "제가 이름을 붙인 게 하나 있어요",
+   "en": "I came up with a name for it"
+  },
+  {
+   "start_ms": 2755279,
+   "end_ms": 2757279,
+   "ko": "오",
+   "en": "Oh"
+  },
+  {
+   "start_ms": 2757279,
+   "end_ms": 2762279,
+   "ko": "숲에서 곰을 만났을 때 살아남는 방법",
+   "en": "how to survive when you meet a bear in the forest"
+  },
+  {
+   "start_ms": 2762279,
+   "end_ms": 2765279,
+   "ko": "류거든요 이게",
+   "en": "that's the rule"
+  },
+  {
+   "start_ms": 2765279,
+   "end_ms": 2769279,
+   "ko": "친구들이랑 같이 숲에 갔는데",
+   "en": "I went to the forest with friends"
+  },
+  {
+   "start_ms": 2769279,
+   "end_ms": 2773279,
+   "ko": "그 숲에서 곰을 만났을 때 살아남으려면",
+   "en": "and when you meet a bear in that forest to survive"
+  },
+  {
+   "start_ms": 2773279,
+   "end_ms": 2777279,
+   "ko": "곰보다 빠른 게 아니에요",
+   "en": "you don't need to be faster than the bear"
+  },
+  {
+   "start_ms": 2777279,
+   "end_ms": 2779279,
+   "ko": "친구보다 빠르면 돼요",
+   "en": "you just need to be faster than your friend"
+  },
+  {
+   "start_ms": 2779279,
+   "end_ms": 2781279,
+   "ko": "에?",
+   "en": "Huh?"
+  },
+  {
+   "start_ms": 2781279,
+   "end_ms": 2782279,
+   "ko": "네",
+   "en": "Yes"
+  },
+  {
+   "start_ms": 2782279,
+   "end_ms": 2783279,
+   "ko": "좀 이기적이죠?",
+   "en": "That's pretty selfish, right?"
+  },
+  {
+   "start_ms": 2783279,
+   "end_ms": 2786279,
+   "ko": "태용쌤이랑 친구하면 안 되겠다",
+   "en": "I shouldn't be friends with Teacher Tae-woong"
+  },
+  {
+   "start_ms": 2786279,
+   "end_ms": 2788279,
+   "ko": "아니에요 친구라고 안 할게요",
+   "en": "No, I won't call them a friend"
+  },
+  {
+   "start_ms": 2788279,
+   "end_ms": 2791279,
+   "ko": "그 숲에 있는 다른 사람보다 빠르면 돼요",
+   "en": "you just need to be faster than the other people in that forest"
+  },
+  {
+   "start_ms": 2791279,
+   "end_ms": 2794279,
+   "ko": "아 네 나만 아니면 돼",
+   "en": "Oh, so as long as it's not me"
+  },
+  {
+   "start_ms": 2794279,
+   "end_ms": 2798279,
+   "ko": "네 사람을 쫓아오는 곰에게서 살아남으려면",
+   "en": "Yes, to survive from a bear chasing people"
+  },
+  {
+   "start_ms": 2798279,
+   "end_ms": 2801279,
+   "ko": "곰보다 빠른 스피드가 필요한 게 아니라",
+   "en": "you don't need a speed faster than the bear"
+  },
+  {
+   "start_ms": 2801279,
+   "end_ms": 2803279,
+   "ko": "옆 사람보다 빠르면 되는 거예요",
+   "en": "you just need to be faster than the person next to you"
+  },
+  {
+   "start_ms": 2803279,
+   "end_ms": 2805279,
+   "ko": "옆 사람보다만 빠르면 된다",
+   "en": "you just need to be faster than the person next to you"
+  },
+  {
+   "start_ms": 2805279,
+   "end_ms": 2808279,
+   "ko": "네 그러니까",
+   "en": "Yes, so that's the thing."
+  },
+  {
+   "start_ms": 2808279,
+   "end_ms": 2812279,
+   "ko": "그 아파트 그 빌라 그 건물에는",
+   "en": "In that apartment, that villa, that building,"
+  },
+  {
+   "start_ms": 2812279,
+   "end_ms": 2815279,
+   "ko": "바퀴벌레가 있을 수 있어요",
+   "en": "there could be cockroaches."
+  },
+  {
+   "start_ms": 2815279,
+   "end_ms": 2816279,
+   "ko": "네",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 2816279,
+   "end_ms": 2821279,
+   "ko": "근데 내가 옆집 윗집 아랫집보다",
+   "en": "But if my place doesn't have anything that cockroaches would like"
+  },
+  {
+   "start_ms": 2821279,
+   "end_ms": 2825279,
+   "ko": "바퀴벌레가 좋아할 만한 게 없으면",
+   "en": "compared to the neighbors' places above and below,"
+  },
+  {
+   "start_ms": 2825279,
+   "end_ms": 2830279,
+   "ko": "그러면 우리 집엔 바퀴벌레가 없을 수 있습니다",
+   "en": "then there might not be cockroaches in my home."
+  },
+  {
+   "start_ms": 2830279,
+   "end_ms": 2833279,
+   "ko": "더 많이 나왔겠다 태용쌤 옆집은",
+   "en": "There would have been way more in the next-door unit, Teacher Tae-woong."
+  },
+  {
+   "start_ms": 2833279,
+   "end_ms": 2835279,
+   "ko": "옆집으로 다 간 거네요",
+   "en": "They all went to the next-door place."
+  },
+  {
+   "start_ms": 2835279,
+   "end_ms": 2839279,
+   "ko": "그렇죠 왜냐면 제 집엔 진짜 먹을 것도 없고",
+   "en": "Right, because there's really nothing to eat in my place,"
+  },
+  {
+   "start_ms": 2839279,
+   "end_ms": 2841279,
+   "ko": "숨을 것도 없고",
+   "en": "and nothing to hide in,"
+  },
+  {
+   "start_ms": 2841279,
+   "end_ms": 2843279,
+   "ko": "치약 냄새 나고",
+   "en": "and it smells like toothpaste,"
+  },
+  {
+   "start_ms": 2843279,
+   "end_ms": 2844279,
+   "ko": "치약 냄새 나고",
+   "en": "and it smells like toothpaste,"
+  },
+  {
+   "start_ms": 2844279,
+   "end_ms": 2847279,
+   "ko": "진짜 그래서 진짜 거짓말 안 치고",
+   "en": "and honestly, no lie,"
+  },
+  {
+   "start_ms": 2847279,
+   "end_ms": 2851279,
+   "ko": "그 10개월 중에 2주 빼고 바퀴벌레가 단 한 번도 안 나왔거든요",
+   "en": "out of those 10 months, except for 2 weeks, cockroaches didn't appear even once."
+  },
+  {
+   "start_ms": 2851279,
+   "end_ms": 2852279,
+   "ko": "어머 네",
+   "en": "Oh my, yes."
+  },
+  {
+   "start_ms": 2852279,
+   "end_ms": 2856279,
+   "ko": "근데 그게 잘 생각해 보니까 이유가 그런 게 아닐까 싶은 거예요",
+   "en": "But when I think about it carefully, I wonder if that's the reason."
+  },
+  {
+   "start_ms": 2856279,
+   "end_ms": 2858279,
+   "ko": "다른 집으로 갔다 그쵸",
+   "en": "They went to a different place, right?"
+  },
+  {
+   "start_ms": 2858279,
+   "end_ms": 2860279,
+   "ko": "그거 박멸할 순 없으니까",
+   "en": "You can't eradicate them completely,"
+  },
+  {
+   "start_ms": 2860279,
+   "end_ms": 2863279,
+   "ko": "그러니까 박멸을 안 해도",
+   "en": "so even if you don't eradicate them,"
+  },
+  {
+   "start_ms": 2863279,
+   "end_ms": 2867279,
+   "ko": "옆집보다 깔끔하면 된다",
+   "en": "as long as you're cleaner than the next place, that's enough."
+  },
+  {
+   "start_ms": 2867279,
+   "end_ms": 2872279,
+   "ko": "바퀴벌레가 안 나오도록 나올 확률을 줄이는 법은",
+   "en": "The way to reduce the probability of cockroaches appearing is"
+  },
+  {
+   "start_ms": 2872279,
+   "end_ms": 2874279,
+   "ko": "옆집보다 깨끗하게 유지하기",
+   "en": "to keep your place cleaner than the neighbors'."
+  },
+  {
+   "start_ms": 2874279,
+   "end_ms": 2877279,
+   "ko": "네",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 2877279,
+   "end_ms": 2881279,
+   "ko": "그래서 이게 비난 바퀴벌레뿐만이 아니라",
+   "en": "So this isn't just about cockroaches,"
+  },
+  {
+   "start_ms": 2881279,
+   "end_ms": 2886279,
+   "ko": "참 인생의 많은 부분에서 적용된다는 걸 제가 깨달았습니다",
+   "en": "but I realized it applies to many parts of life."
+  },
+  {
+   "start_ms": 2887279,
+   "end_ms": 2889279,
+   "ko": "네",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 2889279,
+   "end_ms": 2895279,
+   "ko": "그렇잖아요 지난 시간에 얘기한 소개팅 에피소드에서도",
+   "en": "Like in the blind date episode we talked about last time,"
+  },
+  {
+   "start_ms": 2895279,
+   "end_ms": 2899279,
+   "ko": "제가 세상에서 가장 매력적인 남자여야",
+   "en": "I don't have to be the most attractive man in the world"
+  },
+  {
+   "start_ms": 2899279,
+   "end_ms": 2902279,
+   "ko": "꽈팅에서 성공할 수 있는 게 아니잖아요",
+   "en": "to succeed at dating, right?"
+  },
+  {
+   "start_ms": 2902279,
+   "end_ms": 2903279,
+   "ko": "네",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 2903279,
+   "end_ms": 2907279,
+   "ko": "옆에 있는 애들보다 잘나면 성공할 수 있는 거잖아요",
+   "en": "If I'm better than the people next to me, I can succeed, right?"
+  },
+  {
+   "start_ms": 2907279,
+   "end_ms": 2910279,
+   "ko": "옆에는 그 사람만 이기자 라는 마인드",
+   "en": "The mindset is just to beat the person next to you."
+  },
+  {
+   "start_ms": 2910279,
+   "end_ms": 2912280,
+   "ko": "그렇습니다",
+   "en": "That's right."
+  },
+  {
+   "start_ms": 2913280,
+   "end_ms": 2916280,
+   "ko": "뭔지 알겠어요",
+   "en": "I get what you mean."
+  },
+  {
+   "start_ms": 2916280,
+   "end_ms": 2919280,
+   "ko": "거창한 뭔가가 없어도 되고",
+   "en": "You don't need anything grand,"
+  },
+  {
+   "start_ms": 2919280,
+   "end_ms": 2922280,
+   "ko": "근처 중에 1등 하자 약간 이런 마인드",
+   "en": "just be number one among those nearby, kind of that mindset."
+  },
+  {
+   "start_ms": 2922280,
+   "end_ms": 2926280,
+   "ko": "그렇죠",
+   "en": "Right."
+  },
+  {
+   "start_ms": 2926280,
+   "end_ms": 2928280,
+   "ko": "참 교훈은 좋은데",
+   "en": "The lesson is good,"
+  },
+  {
+   "start_ms": 2928280,
+   "end_ms": 2930280,
+   "ko": "이해하기가 좀 그러네요",
+   "en": "but it's a bit hard to accept."
+  },
+  {
+   "start_ms": 2930280,
+   "end_ms": 2932280,
+   "ko": "바퀴벌레로 깨닫게 된 거구나",
+   "en": "You learned this from cockroaches."
+  },
+  {
+   "start_ms": 2932280,
+   "end_ms": 2934280,
+   "ko": "네",
+   "en": "Yes."
+  },
+  {
+   "start_ms": 2934280,
+   "end_ms": 2936280,
+   "ko": "이렇게 세상은 각박합니다",
+   "en": "That's how harsh the world is."
+  },
+  {
+   "start_ms": 2936280,
+   "end_ms": 2938280,
+   "ko": "호락호락하지 않아요",
+   "en": "It's not easy."
+  },
+  {
+   "start_ms": 2938280,
+   "end_ms": 2941280,
+   "ko": "조금 늦으면 바퀴벌레 하우스가 되는 거예요",
+   "en": "If you slack off a little, your place becomes a cockroach house."
+  },
+  {
+   "start_ms": 2941280,
+   "end_ms": 2942280,
+   "ko": "그렇죠",
+   "en": "Right."
+  },
+  {
+   "start_ms": 2942280,
+   "end_ms": 2944280,
+   "ko": "좋은 마무리였습니다",
+   "en": "That was a good wrap-up."
+  },
+  {
+   "start_ms": 2944280,
+   "end_ms": 2950280,
+   "ko": "진짜 바퀴벌레라는 키워드가 너무 자극적이야",
+   "en": "The keyword \"cockroach\" is really provocative."
+  },
+  {
+   "start_ms": 2950280,
+   "end_ms": 2953280,
+   "ko": "뭔 이야기만 하다가 바퀴벌레 얘기 나오잖아요",
+   "en": "We're talking about something else, and then the cockroach topic comes up,"
+  },
+  {
+   "start_ms": 2953280,
+   "end_ms": 2957280,
+   "ko": "그럼 진짜 거기로 이야기가 완전히 빠져요",
+   "en": "and then the conversation gets completely pulled in that direction."
+  },
+  {
+   "start_ms": 2957280,
+   "end_ms": 2959280,
+   "ko": "맞아요",
+   "en": "That's right."
+  },
+  {
+   "start_ms": 2959280,
+   "end_ms": 2961280,
+   "ko": "매운맛이에요 바퀴벌레",
+   "en": "Cockroaches have a spicy flavor to them."
+  },
+  {
+   "start_ms": 2961280,
+   "end_ms": 2963280,
+   "ko": "그러니까요",
+   "en": "Exactly."
+  },
+  {
+   "start_ms": 2963280,
+   "end_ms": 2966280,
+   "ko": "이제 날씨가 점점 따뜻해지면서",
+   "en": "Now as the weather is getting warmer,"
+  },
+  {
+   "start_ms": 2966280,
+   "end_ms": 2969280,
+   "ko": "바퀴벌레도 이제 나올 시기가 됐는데",
+   "en": "it's becoming the season for cockroaches to appear,"
+  },
+  {
+   "start_ms": 2969280,
+   "end_ms": 2970280,
+   "ko": "시작됐습니다",
+   "en": "and it's started."
+  },
+  {
+   "start_ms": 2971280,
+   "end_ms": 2974280,
+   "ko": "깨끗하게 생활을 해봅시다",
+   "en": "Let's try to live cleanly."
+  },
+  {
+   "start_ms": 2974280,
+   "end_ms": 2980280,
+   "ko": "그러면 오늘은 이렇게 청소랑 바퀴벌레 청결, 미생",
+   "en": "So today we talked about cleaning and cockroach cleanliness, microorganisms,"
+  },
+  {
+   "start_ms": 2980280,
+   "end_ms": 2983280,
+   "ko": "이런 거에 대해서 요모조모 이야기를 해봤는데요",
+   "en": "and various aspects of these topics in Yomojomo,"
+  },
+  {
+   "start_ms": 2983280,
+   "end_ms": 2986280,
+   "ko": "다음 주제는 또 제가 생각을 해왔습니다",
+   "en": "and next week I've already thought of another topic."
+  },
+  {
+   "start_ms": 2986280,
+   "end_ms": 2987280,
+   "ko": "뭐죠?",
+   "en": "What is it?"
+  },
+  {
+   "start_ms": 2987280,
+   "end_ms": 2990280,
+   "ko": "다음 주제는 대중교통",
+   "en": "The next topic is public transportation."
+  },
+  {
+   "start_ms": 2990280,
+   "end_ms": 2991280,
+   "ko": "대중교통?",
+   "en": "Public transportation?"
+  },
+  {
+   "start_ms": 2991280,
+   "end_ms": 2995280,
+   "ko": "네 버스, 택시, 지하철, 기차 이런 거",
+   "en": "Yes, buses, taxis, subways, trains, things like that."
+  },
+  {
+   "start_ms": 2995280,
+   "end_ms": 2999280,
+   "ko": "대중교통에 대해서 요모조모 이야기 해보도록 하겠습니다",
+   "en": "We'll talk about public transportation in all sorts of ways."
+  },
+  {
+   "start_ms": 3000280,
+   "end_ms": 3004280,
+   "ko": "네 그러면 이번 팟캐스트는 여기서 마무리하도록 하겠습니다",
+   "en": "Well then, we'll wrap up this podcast here."
+  },
+  {
+   "start_ms": 3004280,
+   "end_ms": 3007280,
+   "ko": "저는 디디였습니다 감사합니다",
+   "en": "I was Didi, thank you."
+  },
+  {
+   "start_ms": 3007280,
+   "end_ms": 3009280,
+   "ko": "감사합니다 정태웅이었습니다",
+   "en": "Thank you, this was Jeong Tae-woong."
+  }
+ ],
+ "hangul_chars": 10362,
+ "description": "【Didi와 정태웅의 한국생활 요모조모】\n한국에서 살아가는 두 사람이 한국 생활의 요모조모를 이야기하는 팟캐스트!\n매주 수요일 21시 업로드 됩니다.\n\n태웅쌤 유튜브 채널:  @AllThingsKoreanPodcast   @ComprehensibleInputKorean  \n\n✶ 주제 추천과 사연은 여기로:\ndidifromkorea@gmail.com\n\n✶ Instagram:\nDidi: https://www.instagram.com/lvlsdd\n정태웅: https://www.instagram.com/vivoestasbona\n\n#koreanpodcast #koreanlistening #한국어팟캐스트"
+}

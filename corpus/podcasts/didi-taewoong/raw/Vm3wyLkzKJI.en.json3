@@ -1,0 +1,5335 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life with Didi and Jeong Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 9470,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Hello, this is Didi!"
+    } ]
+  }, {
+    "tStartMs": 11290,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13760,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "\"Yomojomo of Korean Life\" is a podcast where two people living in Korea"
+    } ]
+  }, {
+    "tStartMs": 17650,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "talk about the various aspects of Korean life."
+    } ]
+  }, {
+    "tStartMs": 21310,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "How have you been, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 22850,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Yes, it's been a while—it's been a month."
+    } ]
+  }, {
+    "tStartMs": 24940,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "It's been a month."
+    } ]
+  }, {
+    "tStartMs": 26080,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Because we haven't been able to see \"All Things Korean (Teacher Tae-woong's channel)\" lately,"
+    } ]
+  }, {
+    "tStartMs": 30400,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I think there were many people who wanted to see you, Teacher Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 33480,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 34530,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "So I'm back with video."
+    } ]
+  }, {
+    "tStartMs": 36850,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "Right, so to show you my face, I'm doing it in video format again,"
+    } ]
+  }, {
+    "tStartMs": 41390,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "so if you want to watch it in video, please check it out with us."
+    } ]
+  }, {
+    "tStartMs": 46640,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Before we talk about today's topic,"
+    } ]
+  }, {
+    "tStartMs": 49630,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "I gave a quiz in the last episode,"
+    } ]
+  }, {
+    "tStartMs": 52740,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "and there were people who got the answer right, so I'll announce them."
+    } ]
+  }, {
+    "tStartMs": 59260,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "The people who got the quiz right last week were"
+    } ]
+  }, {
+    "tStartMs": 61730,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Diane,"
+    } ]
+  }, {
+    "tStartMs": 62780,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Gwangmi-ae,"
+    } ]
+  }, {
+    "tStartMs": 63930,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Ali,"
+    } ]
+  }, {
+    "tStartMs": 65120,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Jaya,"
+    } ]
+  }, {
+    "tStartMs": 66040,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "and Merve."
+    } ]
+  }, {
+    "tStartMs": 68450,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "The correct answer was number 2."
+    } ]
+  }, {
+    "tStartMs": 71100,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "Was it that Korea's official rainy season is 15 days?"
+    } ]
+  }, {
+    "tStartMs": 77040,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "It was 30 days,"
+    } ]
+  }, {
+    "tStartMs": 79500,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "but we couldn't set it as 30 days."
+    } ]
+  }, {
+    "tStartMs": 82430,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "So the wrong answer to the quiz was number 2, and there were people who got it right,"
+    } ]
+  }, {
+    "tStartMs": 87780,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "and there's a quiz today too, so if you know the answer to the quiz,"
+    } ]
+  }, {
+    "tStartMs": 91760,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "please leave it in the comments, and thank you."
+    } ]
+  }, {
+    "tStartMs": 94250,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "So could you introduce today's topic?"
+    } ]
+  }, {
+    "tStartMs": 97360,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Today's topic is movie theaters."
+    } ]
+  }, {
+    "tStartMs": 101600,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Movie theaters."
+    } ]
+  }, {
+    "tStartMs": 103890,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "So I'm not sure if you all watch movies a lot in movie theaters,"
+    } ]
+  }, {
+    "tStartMs": 110080,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "but what kind of characteristics Korean movie theaters have,"
+    } ]
+  }, {
+    "tStartMs": 112740,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I wanted to talk about things like that,"
+    } ]
+  }, {
+    "tStartMs": 116260,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "and before we start, here's a quiz."
+    } ]
+  }, {
+    "tStartMs": 119230,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Today I'll give you three sentences again,"
+    } ]
+  }, {
+    "tStartMs": 122740,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "and you just need to find the one wrong answer."
+    } ]
+  }, {
+    "tStartMs": 126260,
+    "dDurationMs": 8860,
+    "segs": [ {
+      "utf8": "The first is that before a movie starts, ads and trailers come on for about 15 to 20 minutes."
+    } ]
+  }, {
+    "tStartMs": 135120,
+    "dDurationMs": 5850,
+    "segs": [ {
+      "utf8": "The second is that every Wednesday, movie tickets are cheaper."
+    } ]
+  }, {
+    "tStartMs": 140970,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "The third is that you can eat tteokbokki at Korean movie theaters."
+    } ]
+  }, {
+    "tStartMs": 147170,
+    "dDurationMs": 6250,
+    "segs": [ {
+      "utf8": "Yes, if you know the answer, please leave it in the comments below, and thank you."
+    } ]
+  }, {
+    "tStartMs": 153420,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Do you go to movie theaters often, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 156030,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I don't go very often these days."
+    } ]
+  }, {
+    "tStartMs": 159550,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "But for this episode, I went to a movie theater a few days ago and watched a movie."
+    } ]
+  }, {
+    "tStartMs": 166020,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Wow! What movie did you watch?"
+    } ]
+  }, {
+    "tStartMs": 168190,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I watched \"F1.\""
+    } ]
+  }, {
+    "tStartMs": 170750,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Wow! Me too!"
+    } ]
+  }, {
+    "tStartMs": 173010,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "I watched it too. How was it?"
+    } ]
+  }, {
+    "tStartMs": 176050,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "It was fun."
+    } ]
+  }, {
+    "tStartMs": 177160,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "I watched it in 4D."
+    } ]
+  }, {
+    "tStartMs": 178690,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "In 4D?"
+    } ]
+  }, {
+    "tStartMs": 179820,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "Yes, in 4D the seats move around a lot."
+    } ]
+  }, {
+    "tStartMs": 184960,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "I've always watched it in 4D often since way back."
+    } ]
+  }, {
+    "tStartMs": 187900,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "4D is really fun when you watch action movies like that."
+    } ]
+  }, {
+    "tStartMs": 193270,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Wow, that would be fun to watch in 4D."
+    } ]
+  }, {
+    "tStartMs": 196940,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Actually, I didn't know either,"
+    } ]
+  }, {
+    "tStartMs": 198530,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "but there was a way to reserve that movie in 4D,"
+    } ]
+  }, {
+    "tStartMs": 203050,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "but it was sold out, so—"
+    } ]
+  }, {
+    "tStartMs": 205490,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "So I thought, \"Oh, this must be 4D!"
+    } ]
+  }, {
+    "tStartMs": 207780,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "There's a reason why so many people watch it.\" and it was really fun."
+    } ]
+  }, {
+    "tStartMs": 212620,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "So is that the most recent movie you've watched?"
+    } ]
+  }, {
+    "tStartMs": 216520,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 217960,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Oh, so \"Demon Slayer\" hasn't been released yet?"
+    } ]
+  }, {
+    "tStartMs": 221910,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It has been released, but I haven't seen it yet."
+    } ]
+  }, {
+    "tStartMs": 224430,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 225380,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Yes, I'm going to watch it this week."
+    } ]
+  }, {
+    "tStartMs": 227100,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "You're really looking forward to it, aren't you?"
+    } ]
+  }, {
+    "tStartMs": 229410,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "I'm still really excited about it."
+    } ]
+  }, {
+    "tStartMs": 230950,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Oh, you're going to watch it? What about you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 232660,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "I don't think I'll watch it..."
+    } ]
+  }, {
+    "tStartMs": 235440,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Why not?"
+    } ]
+  }, {
+    "tStartMs": 236990,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "I'm thinking maybe I'll watch it about 2 years later when it comes to Netflix,"
+    } ]
+  }, {
+    "tStartMs": 240100,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "or maybe not — really?"
+    } ]
+  }, {
+    "tStartMs": 242820,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "They say you should watch it in IMAX."
+    } ]
+  }, {
+    "tStartMs": 245410,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 246610,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 247810,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "They say the artwork was drawn with real care."
+    } ]
+  }, {
+    "tStartMs": 252800,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 253890,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "If you get bored, consider giving it a try."
+    } ]
+  }, {
+    "tStartMs": 255990,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Yes, I understand for now."
+    } ]
+  }, {
+    "tStartMs": 258500,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "So which movie theater did you go to this time? F1?"
+    } ]
+  }, {
+    "tStartMs": 262120,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "The place I went to this time was Lotte Cinema."
+    } ]
+  }, {
+    "tStartMs": 266650,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Lotte Cinema."
+    } ]
+  }, {
+    "tStartMs": 268270,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "There are about 3 main movie theaters in Korea, you know."
+    } ]
+  }, {
+    "tStartMs": 272730,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Lotte Cinema and"
+    } ]
+  }, {
+    "tStartMs": 273810,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "CGV,"
+    } ]
+  }, {
+    "tStartMs": 274650,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Megabox, like that."
+    } ]
+  }, {
+    "tStartMs": 276830,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Do you usually go to Lotte Cinema often?"
+    } ]
+  }, {
+    "tStartMs": 280130,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "There's a Lotte Cinema near my house,"
+    } ]
+  }, {
+    "tStartMs": 285150,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "and also my... my aunt's husband, my uncle,"
+    } ]
+  }, {
+    "tStartMs": 293310,
+    "dDurationMs": 7490,
+    "segs": [ {
+      "utf8": "has worked at the Lotte company for a long time and is in a high position — so you have that connection?"
+    } ]
+  }, {
+    "tStartMs": 300800,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "So very occasionally, like on my birthday or things like that,"
+    } ]
+  }, {
+    "tStartMs": 303380,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "my aunt sometimes gives me movie tickets."
+    } ]
+  }, {
+    "tStartMs": 307560,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 309240,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So it's nice to go there."
+    } ]
+  }, {
+    "tStartMs": 311140,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Then you must end up going there often."
+    } ]
+  }, {
+    "tStartMs": 312900,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 315730,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "There are almost all kinds near my house, but I think I go to CGV the most."
+    } ]
+  }, {
+    "tStartMs": 320640,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Is there a particular reason you go there often?"
+    } ]
+  }, {
+    "tStartMs": 325380,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "First of all, 4D is at CGV,"
+    } ]
+  }, {
+    "tStartMs": 328380,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "and IMAX and those kinds of things seem to be famous at CGV too."
+    } ]
+  }, {
+    "tStartMs": 333150,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 335300,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "They seem to have a lot of different screening rooms, special screening rooms and things like that."
+    } ]
+  }, {
+    "tStartMs": 341470,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "But I also go to Megabox a lot, and Megabox has its own special feature."
+    } ]
+  }, {
+    "tStartMs": 346100,
+    "dDurationMs": 7910,
+    "segs": [ {
+      "utf8": "Most of the seats there are recliner seats, you know? Really comfortable seats."
+    } ]
+  }, {
+    "tStartMs": 354010,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yes, recliners."
+    } ]
+  }, {
+    "tStartMs": 355810,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "When you press the button, it goes zing— and the backrest tilts back,"
+    } ]
+  }, {
+    "tStartMs": 363330,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "and the footrest comes up."
+    } ]
+  }, {
+    "tStartMs": 366070,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Right, you can almost lie down and watch."
+    } ]
+  }, {
+    "tStartMs": 368450,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Yes, like a sun bed."
+    } ]
+  }, {
+    "tStartMs": 370430,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 371480,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Yes, that kind of chair — that's nice too."
+    } ]
+  }, {
+    "tStartMs": 373770,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "When I want to watch comfortably, I go to Megabox sometimes."
+    } ]
+  }, {
+    "tStartMs": 379970,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "The place I go to also has all recliner seats,"
+    } ]
+  }, {
+    "tStartMs": 385180,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, Lotte Cinema?"
+    } ]
+  }, {
+    "tStartMs": 386180,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 387300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "It seems like they're changing a lot these days, everyone."
+    } ]
+  }, {
+    "tStartMs": 389500,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I guess so."
+    } ]
+  }, {
+    "tStartMs": 390700,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 392430,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "That kind of merit... since Netflix is doing so well these days"
+    } ]
+  }, {
+    "tStartMs": 397830,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "a lot of people aren't going to movie theaters anymore"
+    } ]
+  }, {
+    "tStartMs": 400450,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 400930,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "They keep trying to bring people in with events like that or"
+    } ]
+  }, {
+    "tStartMs": 404820,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "making the seats more comfortable and things like that."
+    } ]
+  }, {
+    "tStartMs": 408840,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Right, Netflix has a huge impact."
+    } ]
+  }, {
+    "tStartMs": 411980,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Yeah, I mean..."
+    } ]
+  }, {
+    "tStartMs": 414930,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "Still, I think I still go to movie theaters."
+    } ]
+  }, {
+    "tStartMs": 418820,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Right, but if it's a recliner seat..."
+    } ]
+  }, {
+    "tStartMs": 422020,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "the chairs are really comfortable and really spacious, you know?"
+    } ]
+  }, {
+    "tStartMs": 424540,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 425570,
+    "dDurationMs": 6080,
+    "segs": [ {
+      "utf8": "So for example, if you go to a movie theater with someone you're flirting with"
+    } ]
+  }, {
+    "tStartMs": 431650,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "in the old regular seats, not recliners"
+    } ]
+  }, {
+    "tStartMs": 434940,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "your elbows bump into each other and things like that"
+    } ]
+  }, {
+    "tStartMs": 439050,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "and your hands brush against each other lightly—there was that kind of romance, but now— yeah, there was that romance"
+    } ]
+  }, {
+    "tStartMs": 443320,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "but now there isn't—just comfortable, haha"
+    } ]
+  }, {
+    "tStartMs": 447440,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "It might feel a bit awkward, a recliner movie during the flirting phase."
+    } ]
+  }, {
+    "tStartMs": 452240,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Exactly, it creates too much distance."
+    } ]
+  }, {
+    "tStartMs": 455140,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "Then I recommend 4D."
+    } ]
+  }, {
+    "tStartMs": 457200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Oh, 4D isn't like that?"
+    } ]
+  }, {
+    "tStartMs": 460000,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "4D isn't like lying back and watching; you sit up straight"
+    } ]
+  }, {
+    "tStartMs": 463710,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "but it's more fun somehow, together."
+    } ]
+  }, {
+    "tStartMs": 465570,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Oh, that does sound good then."
+    } ]
+  }, {
+    "tStartMs": 467220,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Right, I recommend it."
+    } ]
+  }, {
+    "tStartMs": 468640,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Oh, I understand."
+    } ]
+  }, {
+    "tStartMs": 470180,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "They do sell food at movie theaters, you know, like popcorn and stuff"
+    } ]
+  }, {
+    "tStartMs": 475920,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Yeah, Teacher Tae-woong doesn't seem like you'd eat it, but what about you? Do you eat it?—Oh really?"
+    } ]
+  }, {
+    "tStartMs": 480160,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Yes, oh that's right, I don't eat it, well."
+    } ]
+  }, {
+    "tStartMs": 482460,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Because last time when we were talking about public transportation"
+    } ]
+  }, {
+    "tStartMs": 485310,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "eating food in places with a lot of people like that"
+    } ]
+  }, {
+    "tStartMs": 490880,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "could cause some inconvenience to those around you, right?"
+    } ]
+  }, {
+    "tStartMs": 493110,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "I remember you saying that before"
+    } ]
+  }, {
+    "tStartMs": 496860,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "so is that the reason?"
+    } ]
+  }, {
+    "tStartMs": 497860,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "That's not the reason."
+    } ]
+  }, {
+    "tStartMs": 501180,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Oh right, movie theaters are meant for eating, aren't they?"
+    } ]
+  }, {
+    "tStartMs": 504280,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Yes, that's true."
+    } ]
+  }, {
+    "tStartMs": 505630,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "It's not for that kind of altruistic reason for others."
+    } ]
+  }, {
+    "tStartMs": 510940,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "You eat a lot of popcorn"
+    } ]
+  }, {
+    "tStartMs": 513200,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "or nachos or"
+    } ]
+  }, {
+    "tStartMs": 515940,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "or even squid butter-grilled snacks"
+    } ]
+  }, {
+    "tStartMs": 518850,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Right, there are hot dogs and things like that too."
+    } ]
+  }, {
+    "tStartMs": 520570,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Yes, but most of it you eat with your hands, right?"
+    } ]
+  }, {
+    "tStartMs": 524820,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 526350,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "But eating that only takes a moment"
+    } ]
+  }, {
+    "tStartMs": 529100,
+    "dDurationMs": 8340,
+    "segs": [ {
+      "utf8": "you eat for a bit and it's done, but my hands feel sticky the whole time I'm watching the movie."
+    } ]
+  }, {
+    "tStartMs": 537440,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "they feel sticky."
+    } ]
+  }, {
+    "tStartMs": 538900,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "Yes, so I didn't go to eat—that's true"
+    } ]
+  }, {
+    "tStartMs": 543560,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "I went to watch a movie, so I just... with a fresh feeling,"
+    } ]
+  }, {
+    "tStartMs": 547930,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "I want to keep watching the movie with a clean feeling."
+    } ]
+  }, {
+    "tStartMs": 552170,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "So do you usually go to the movie theater alone?"
+    } ]
+  }, {
+    "tStartMs": 557080,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "When I used to go to the movies, when I went often, I mostly went alone"
+    } ]
+  }, {
+    "tStartMs": 563900,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "but now there isn't really much occasion for that"
+    } ]
+  }, {
+    "tStartMs": 567210,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "so I go occasionally with family"
+    } ]
+  }, {
+    "tStartMs": 569840,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "and when I do, I end up going with different people."
+    } ]
+  }, {
+    "tStartMs": 574360,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "Do your family members or other people not eat either?"
+    } ]
+  }, {
+    "tStartMs": 579170,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "They don't eat."
+    } ]
+  }, {
+    "tStartMs": 581400,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "I think I'm the type who always eats."
+    } ]
+  }, {
+    "tStartMs": 585470,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "What do you usually eat?"
+    } ]
+  }, {
+    "tStartMs": 588510,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "I eat popcorn often and I think I always drink something."
+    } ]
+  }, {
+    "tStartMs": 593780,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "I came all the way to the movie theater, and"
+    } ]
+  }, {
+    "tStartMs": 597790,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "I like eating things that you can only eat"
+    } ]
+  }, {
+    "tStartMs": 602140,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "at that movie theater, in that kind of atmosphere, so I eat them."
+    } ]
+  }, {
+    "tStartMs": 608800,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "You just need to bring one wet tissue, and wipe it like this?"
+    } ]
+  }, {
+    "tStartMs": 611770,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "But even so, when you wipe with a wet tissue, it feels kind of grimy, you know?"
+    } ]
+  }, {
+    "tStartMs": 618250,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "You're very hygienic."
+    } ]
+  }, {
+    "tStartMs": 621670,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "It's two hours,"
+    } ]
+  }, {
+    "tStartMs": 623030,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Yes, two hours! That's too long — too long?"
+    } ]
+  }, {
+    "tStartMs": 627740,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "And popcorn has so many different flavors, you know?"
+    } ]
+  }, {
+    "tStartMs": 631710,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Yes, Korean popcorn especially has a lot."
+    } ]
+  }, {
+    "tStartMs": 634360,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "The flavors — just popcorn, back in the day there was only caramel popcorn."
+    } ]
+  }, {
+    "tStartMs": 639870,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 641360,
+    "dDurationMs": 6510,
+    "segs": [ {
+      "utf8": "Caramelized sweet popcorn — that's all there was originally — caramel popcorn."
+    } ]
+  }, {
+    "tStartMs": 647870,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "As time went on, onion popcorn"
+    } ]
+  }, {
+    "tStartMs": 650910,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "appeared,"
+    } ]
+  }, {
+    "tStartMs": 651630,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and even Cheetos popcorn"
+    } ]
+  }, {
+    "tStartMs": 655390,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Cheetos, cheese popcorn too,"
+    } ]
+  }, {
+    "tStartMs": 658650,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "and I think there's even kimchi."
+    } ]
+  }, {
+    "tStartMs": 661030,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "There's even that kind of thing?"
+    } ]
+  }, {
+    "tStartMs": 661980,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "I think I saw it at CGV, kimchi seasoning."
+    } ]
+  }, {
+    "tStartMs": 666700,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Anyway, I found onion popcorn delicious."
+    } ]
+  }, {
+    "tStartMs": 670330,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "It's delicious, that one."
+    } ]
+  }, {
+    "tStartMs": 671260,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But the powder gets on your hands really heavily with that."
+    } ]
+  }, {
+    "tStartMs": 675980,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Right, it gets all over — your mouth and hands both."
+    } ]
+  }, {
+    "tStartMs": 679900,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "And then if you happen to drop some"
+    } ]
+  }, {
+    "tStartMs": 682560,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "and the powder gets all over your t-shirt, then for the whole movie... it feels uncomfortable."
+    } ]
+  }, {
+    "tStartMs": 687470,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Does that bother you?"
+    } ]
+  }, {
+    "tStartMs": 689090,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 690860,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "You're very neat."
+    } ]
+  }, {
+    "tStartMs": 692790,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 694960,
+    "dDurationMs": 6910,
+    "segs": [ {
+      "utf8": "But if you had to order something at the movie theater, what would you order?"
+    } ]
+  }, {
+    "tStartMs": 701870,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Your potential girlfriend says she's hungry and wants to eat something."
+    } ]
+  }, {
+    "tStartMs": 704910,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Then you should eat what your potential girlfriend wants to eat."
+    } ]
+  }, {
+    "tStartMs": 708160,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "She's asking you to choose."
+    } ]
+  }, {
+    "tStartMs": 709160,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "She's asking you to choose?"
+    } ]
+  }, {
+    "tStartMs": 710040,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 710780,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "I feel like the vibe might cool down a bit, but then..."
+    } ]
+  }, {
+    "tStartMs": 714240,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "What should I eat? What should I eat?"
+    } ]
+  }, {
+    "tStartMs": 716360,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "\"I'm not sure what to eat~\""
+    } ]
+  }, {
+    "tStartMs": 719440,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "Then something that tastes good and has no powder"
+    } ]
+  }, {
+    "tStartMs": 724710,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Caramel popcorn?"
+    } ]
+  }, {
+    "tStartMs": 726020,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "Mm! That seems like a good choice."
+    } ]
+  }, {
+    "tStartMs": 730110,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "Cola and caramel popcorn would be so nice."
+    } ]
+  }, {
+    "tStartMs": 734400,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "That's good."
+    } ]
+  }, {
+    "tStartMs": 735740,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "You know when you're choosing your seat at the movie theater?"
+    } ]
+  }, {
+    "tStartMs": 739490,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "Usually now instead of buying at the ticket booth, the ticket box,"
+    } ]
+  }, {
+    "tStartMs": 745560,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "people buy through an app and make reservations in advance,"
+    } ]
+  }, {
+    "tStartMs": 749990,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "but Teacher Tae-woong, do you have a preferred seat when you choose?"
+    } ]
+  }, {
+    "tStartMs": 755980,
+    "dDurationMs": 8810,
+    "segs": [ {
+      "utf8": "I usually think it's either middle or corner seats."
+    } ]
+  }, {
+    "tStartMs": 764790,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Or there's also front or back or middle."
+    } ]
+  }, {
+    "tStartMs": 767210,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 768740,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "But I think middle back is best if possible."
+    } ]
+  }, {
+    "tStartMs": 775070,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Right, that seems like the best spot."
+    } ]
+  }, {
+    "tStartMs": 777540,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "It's the best, the best."
+    } ]
+  }, {
+    "tStartMs": 779020,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "But if there are already too many people there,"
+    } ]
+  }, {
+    "tStartMs": 783330,
+    "dDurationMs": 7830,
+    "segs": [ {
+      "utf8": "then I just sit in a corner where there's no one and watch comfortably, you know."
+    } ]
+  }, {
+    "tStartMs": 791160,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "That's good too."
+    } ]
+  }, {
+    "tStartMs": 793090,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "You know when there aren't many seats left?"
+    } ]
+  }, {
+    "tStartMs": 795700,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "Like when there are only 5 seats left,"
+    } ]
+  }, {
+    "tStartMs": 799010,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "is there a place where you absolutely can't sit?"
+    } ]
+  }, {
+    "tStartMs": 802850,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "I've never even thought about something like that."
+    } ]
+  }, {
+    "tStartMs": 804920,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "You've never done that before?"
+    } ]
+  }, {
+    "tStartMs": 806410,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "I absolutely never sit in the front row."
+    } ]
+  }, {
+    "tStartMs": 810040,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Wow, but with only 5 seats left like that..."
+    } ]
+  }, {
+    "tStartMs": 813730,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "So it must be a movie you really want to see if you have to book it at that exact time?"
+    } ]
+  }, {
+    "tStartMs": 818850,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "Maybe because I'm a P type, usually about an hour before..."
+    } ]
+  }, {
+    "tStartMs": 823820,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "What should we watch? I book it like this."
+    } ]
+  }, {
+    "tStartMs": 830890,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "You know Transformers?"
+    } ]
+  }, {
+    "tStartMs": 833690,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "The robot that transforms into a car?"
+    } ]
+  }, {
+    "tStartMs": 835150,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Yeah, haven't you seen it?"
+    } ]
+  }, {
+    "tStartMs": 836510,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "I have seen it."
+    } ]
+  }, {
+    "tStartMs": 837790,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I've only seen the first ones in the series."
+    } ]
+  }, {
+    "tStartMs": 840430,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "I haven't seen any of the earlier ones in the series."
+    } ]
+  }, {
+    "tStartMs": 842910,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "Was it Transformers 3? That was pretty popular from what I remember."
+    } ]
+  }, {
+    "tStartMs": 850010,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "So my friends wanted to see it and I made a reservation, but it was the front row."
+    } ]
+  }, {
+    "tStartMs": 854920,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "But I seriously thought my neck was going to break."
+    } ]
+  }, {
+    "tStartMs": 857820,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "There's so much action and it's dizzying, you know?"
+    } ]
+  }, {
+    "tStartMs": 862320,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So I decided the front row wasn't going to work."
+    } ]
+  }, {
+    "tStartMs": 864680,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 866860,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "The corners are okay though."
+    } ]
+  }, {
+    "tStartMs": 868920,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "I watched Avengers 1 back when it came out."
+    } ]
+  }, {
+    "tStartMs": 872940,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "I watched it from the very front row back then."
+    } ]
+  }, {
+    "tStartMs": 876770,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Those are high-difficulty movies."
+    } ]
+  }, {
+    "tStartMs": 880440,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Lifting your head like this..."
+    } ]
+  }, {
+    "tStartMs": 882770,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "My neck hurt."
+    } ]
+  }, {
+    "tStartMs": 884080,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Do you like Avengers? That kind of hero stuff?"
+    } ]
+  }, {
+    "tStartMs": 887330,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Hero..."
+    } ]
+  }, {
+    "tStartMs": 888410,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Hmm, I'm not sure."
+    } ]
+  }, {
+    "tStartMs": 891210,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Avengers these days isn't really Avengers anymore, so"
+    } ]
+  }, {
+    "tStartMs": 893680,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "you could say it's over."
+    } ]
+  }, {
+    "tStartMs": 895550,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "But I really liked it."
+    } ]
+  }, {
+    "tStartMs": 898320,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Me too, me too."
+    } ]
+  }, {
+    "tStartMs": 900310,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "There might be people coming to Korea to watch movies too."
+    } ]
+  }, {
+    "tStartMs": 906180,
+    "dDurationMs": 7910,
+    "segs": [ {
+      "utf8": "One of my dreams is to go to a movie theater abroad, but I haven't been able to go yet."
+    } ]
+  }, {
+    "tStartMs": 914090,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Have you been to one?"
+    } ]
+  }, {
+    "tStartMs": 915790,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Yes, I've been to three places."
+    } ]
+  }, {
+    "tStartMs": 918250,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Different countries?"
+    } ]
+  }, {
+    "tStartMs": 919710,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Yes, Bangladesh and of course..."
+    } ]
+  }, {
+    "tStartMs": 922960,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "And I think I went once in Chiang Mai, Thailand."
+    } ]
+  }, {
+    "tStartMs": 929430,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "And I went once in Manila, Philippines."
+    } ]
+  }, {
+    "tStartMs": 932610,
+    "dDurationMs": 6570,
+    "segs": [ {
+      "utf8": "How were those three experiences? Were they all different?"
+    } ]
+  }, {
+    "tStartMs": 939180,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Were they very different from Korea?"
+    } ]
+  }, {
+    "tStartMs": 942100,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "I can't remember exactly if it was Philippines or Thailand."
+    } ]
+  }, {
+    "tStartMs": 946680,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Or maybe it was both."
+    } ]
+  }, {
+    "tStartMs": 950850,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Before the movie starts,"
+    } ]
+  }, {
+    "tStartMs": 954980,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "when music or something comes on and people stand up from their seats,"
+    } ]
+  }, {
+    "tStartMs": 959420,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "standing up from their seats,"
+    } ]
+  }, {
+    "tStartMs": 962060,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "like saluting our national flag and singing the national anthem,"
+    } ]
+  }, {
+    "tStartMs": 966720,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "there was a time like that."
+    } ]
+  }, {
+    "tStartMs": 968700,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "At the movie theater?"
+    } ]
+  }, {
+    "tStartMs": 969910,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Was it Thailand? Yes."
+    } ]
+  }, {
+    "tStartMs": 972490,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Is it because it's still a country with a king?"
+    } ]
+  }, {
+    "tStartMs": 977230,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "Wow, that's interesting."
+    } ]
+  }, {
+    "tStartMs": 979200,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Yeah, there was that, and I experienced it for the first time too."
+    } ]
+  }, {
+    "tStartMs": 982440,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "It was really interesting."
+    } ]
+  }, {
+    "tStartMs": 983760,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Did you do it with them?"
+    } ]
+  }, {
+    "tStartMs": 985470,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "I just... they told me to stand, so I just stood there looking blank..."
+    } ]
+  }, {
+    "tStartMs": 989810,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Looking around like this and then sat back down."
+    } ]
+  }, {
+    "tStartMs": 993760,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "Different countries have different cultures like that."
+    } ]
+  }, {
+    "tStartMs": 997070,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Korea has something like that too before the movie starts."
+    } ]
+  }, {
+    "tStartMs": 1000190,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Usually if a movie starts at 12 o'clock"
+    } ]
+  }, {
+    "tStartMs": 1003070,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "some people come in at 12:10, you know?"
+    } ]
+  }, {
+    "tStartMs": 1006050,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Yeah, that's right"
+    } ]
+  }, {
+    "tStartMs": 1007360,
+    "dDurationMs": 8200,
+    "segs": [ {
+      "utf8": "That's because there's about 10 or 15 minutes of ad time at the beginning"
+    } ]
+  }, {
+    "tStartMs": 1015560,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "Yeah, I'm not sure how it is in other countries"
+    } ]
+  }, {
+    "tStartMs": 1019350,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "In the other countries I've experienced, the movie theaters there"
+    } ]
+  }, {
+    "tStartMs": 1023130,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "also had that ad time"
+    } ]
+  }, {
+    "tStartMs": 1024960,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "They did? So that's usually how it is"
+    } ]
+  }, {
+    "tStartMs": 1027810,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Yes, and in Korea's case, like I mentioned earlier,"
+    } ]
+  }, {
+    "tStartMs": 1031930,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "there are three types of movie theaters, right?"
+    } ]
+  }, {
+    "tStartMs": 1034670,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "But the places I've been to recently are all Lotte Cinema"
+    } ]
+  }, {
+    "tStartMs": 1039400,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "In the case of Lotte Cinema, before the movie start time,"
+    } ]
+  }, {
+    "tStartMs": 1045920,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "they show 10 minutes of ads, and then from the movie time written on the ticket,"
+    } ]
+  }, {
+    "tStartMs": 1051710,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "there's another 10 minutes of ad time, so that's 20 minutes total"
+    } ]
+  }, {
+    "tStartMs": 1055000,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Oh yes, yes, yes"
+    } ]
+  }, {
+    "tStartMs": 1056450,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "So 10 minutes before and 10 minutes after, 20 minutes of ads total, then the movie comes on"
+    } ]
+  }, {
+    "tStartMs": 1062070,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Oh, so that's normal then, about 15 to 20 minutes"
+    } ]
+  }, {
+    "tStartMs": 1065620,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Yes, that's right"
+    } ]
+  }, {
+    "tStartMs": 1066890,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "For food, was it just popcorn?"
+    } ]
+  }, {
+    "tStartMs": 1070220,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "I think there were things like hot dogs too"
+    } ]
+  }, {
+    "tStartMs": 1072930,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "I'm curious about the food—what do people eat at movie theaters in other countries?"
+    } ]
+  }, {
+    "tStartMs": 1078070,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "But I don't think there was anything that special"
+    } ]
+  }, {
+    "tStartMs": 1083660,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "No matter what, there would be things like Cheetos popcorn"
+    } ]
+  }, {
+    "tStartMs": 1086990,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "There's Cheetos popcorn and usually... I'm not sure why it's like this,"
+    } ]
+  }, {
+    "tStartMs": 1092200,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "but people watching Korean Netflix order delivery food and eat it,"
+    } ]
+  }, {
+    "tStartMs": 1097360,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "and maybe because that culture exists,"
+    } ]
+  }, {
+    "tStartMs": 1100450,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "when you go to CGV, there's something called 'Cine-meal'"
+    } ]
+  }, {
+    "tStartMs": 1104860,
+    "dDurationMs": 6450,
+    "segs": [ {
+      "utf8": "and you can actually eat things like kimchi fried rice, fried rice, tteokbokki and such"
+    } ]
+  }, {
+    "tStartMs": 1111310,
+    "dDurationMs": 7550,
+    "segs": [ {
+      "utf8": "Wow, but I don't think I could concentrate watching a movie..."
+    } ]
+  }, {
+    "tStartMs": 1118860,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Have you tried it?"
+    } ]
+  }, {
+    "tStartMs": 1119950,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "No, no"
+    } ]
+  }, {
+    "tStartMs": 1120990,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "I think only really hungry people should eat that"
+    } ]
+  }, {
+    "tStartMs": 1125170,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "Like people who missed dinner because the timing didn't work out?"
+    } ]
+  }, {
+    "tStartMs": 1131730,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "That can happen sometimes"
+    } ]
+  }, {
+    "tStartMs": 1134050,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 1134740,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Missing mealtime..."
+    } ]
+  }, {
+    "tStartMs": 1136350,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Wow, that sounds like such a tough life"
+    } ]
+  }, {
+    "tStartMs": 1140600,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "How busy do you have to be..."
+    } ]
+  }, {
+    "tStartMs": 1144720,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "to eat while watching a movie..."
+    } ]
+  }, {
+    "tStartMs": 1147410,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "That's living very productively"
+    } ]
+  }, {
+    "tStartMs": 1150750,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "But apparently you can even go to 4D theaters with that"
+    } ]
+  }, {
+    "tStartMs": 1155980,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Oh, 4D theaters too?"
+    } ]
+  }, {
+    "tStartMs": 1156700,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1158160,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Then like, if you're watching F1 and you move like this,"
+    } ]
+  }, {
+    "tStartMs": 1161080,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "you have to eat carefully while holding on"
+    } ]
+  }, {
+    "tStartMs": 1162830,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Wow, rice grains flying everywhere and stuff, right?"
+    } ]
+  }, {
+    "tStartMs": 1165590,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Yeah, so there was some controversy about it getting messy"
+    } ]
+  }, {
+    "tStartMs": 1170210,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "But still, it seems like they allow it for people who want it"
+    } ]
+  }, {
+    "tStartMs": 1175740,
+    "dDurationMs": 5670,
+    "segs": [ {
+      "utf8": "So I'll give you one tip for people who want to come watch movies in Korea"
+    } ]
+  }, {
+    "tStartMs": 1181410,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Korea has something called Culture Day"
+    } ]
+  }, {
+    "tStartMs": 1184770,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Have you used it? Culture Day?"
+    } ]
+  }, {
+    "tStartMs": 1186940,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Of course I've used it"
+    } ]
+  }, {
+    "tStartMs": 1188740,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "What is it? Culture Day?"
+    } ]
+  }, {
+    "tStartMs": 1190110,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "It's such a great system"
+    } ]
+  }, {
+    "tStartMs": 1191450,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "Really"
+    } ]
+  }, {
+    "tStartMs": 1193030,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "On the last Wednesday of every month, no matter who comes,"
+    } ]
+  }, {
+    "tStartMs": 1198940,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "whether young or old, whether military or civil servants, it doesn't matter,"
+    } ]
+  }, {
+    "tStartMs": 1203480,
+    "dDurationMs": 7750,
+    "segs": [ {
+      "utf8": "everyone can watch movies at a very discounted price"
+    } ]
+  }, {
+    "tStartMs": 1211230,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 1212430,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "Usually how much are movies these days? Ten thousand won... eleven thousand won?"
+    } ]
+  }, {
+    "tStartMs": 1217470,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Isn't it around 15,000 won?"
+    } ]
+  }, {
+    "tStartMs": 1219620,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "At that price, you could say it's almost half off."
+    } ]
+  }, {
+    "tStartMs": 1223910,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "I think it was 7,000 won?"
+    } ]
+  }, {
+    "tStartMs": 1225440,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "These days it's 7,000 won?"
+    } ]
+  }, {
+    "tStartMs": 1226990,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1227680,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "The last time I checked, it was 6,000 won."
+    } ]
+  }, {
+    "tStartMs": 1230880,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Though that was a few years ago."
+    } ]
+  }, {
+    "tStartMs": 1233080,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "It seems like it's 7,000 won when I checked."
+    } ]
+  }, {
+    "tStartMs": 1236300,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "Still, it's incredibly cheap compared to the original price."
+    } ]
+  }, {
+    "tStartMs": 1240450,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "That's right, and not just movies."
+    } ]
+  }, {
+    "tStartMs": 1242680,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Other cultural activities like plays and musicals."
+    } ]
+  }, {
+    "tStartMs": 1247260,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "I know those get discounts too."
+    } ]
+  }, {
+    "tStartMs": 1249910,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "That really seems like a great policy."
+    } ]
+  }, {
+    "tStartMs": 1253090,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "So if your trip happens to be in the last week."
+    } ]
+  }, {
+    "tStartMs": 1257410,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "If it's on a Wednesday, it would be good to go see one."
+    } ]
+  }, {
+    "tStartMs": 1261720,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1263140,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "And there's also the early bird movie showings as a way to watch with a discount."
+    } ]
+  }, {
+    "tStartMs": 1269070,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Early bird movies are movies you watch early in the morning."
+    } ]
+  }, {
+    "tStartMs": 1272920,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Like the first showing of the day?"
+    } ]
+  }, {
+    "tStartMs": 1274960,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "The first movie of that day?"
+    } ]
+  }, {
+    "tStartMs": 1276380,
+    "dDurationMs": 6170,
+    "segs": [ {
+      "utf8": "Still, it seems like up until around 9 or 10 o'clock you can watch early bird showings."
+    } ]
+  }, {
+    "tStartMs": 1282550,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "So you can watch them."
+    } ]
+  }, {
+    "tStartMs": 1283690,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "And there are also late-night movies where you can watch at the very end of the night."
+    } ]
+  }, {
+    "tStartMs": 1288570,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "But I don't think those get a discount, probably."
+    } ]
+  }, {
+    "tStartMs": 1290750,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Huh? They don't?"
+    } ]
+  }, {
+    "tStartMs": 1292770,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "Or maybe some of them do get a little discount, but anyway, what you can take advantage of is."
+    } ]
+  }, {
+    "tStartMs": 1297580,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Culture Day and early bird showings."
+    } ]
+  }, {
+    "tStartMs": 1301890,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong must have seen some Korean films."
+    } ]
+  }, {
+    "tStartMs": 1306370,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "And there must be foreign films too."
+    } ]
+  }, {
+    "tStartMs": 1308520,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "It would be nice to talk a bit about what's unique to Korean films."
+    } ]
+  }, {
+    "tStartMs": 1315740,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Do you have anything that comes to mind, Didi?"
+    } ]
+  }, {
+    "tStartMs": 1318590,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "I think Korean films usually."
+    } ]
+  }, {
+    "tStartMs": 1322380,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "This is my expression, but I think there are a lot of \"good-hearted movies.\" Good-hearted movies."
+    } ]
+  }, {
+    "tStartMs": 1326730,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Good-hearted movies?"
+    } ]
+  }, {
+    "tStartMs": 1327810,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "Yes, what I mean by good-hearted movies is."
+    } ]
+  }, {
+    "tStartMs": 1331270,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Usually something goes wrong."
+    } ]
+  }, {
+    "tStartMs": 1334140,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "And then the problem gets solved and it ends with a happy ending, those kinds of movies are common."
+    } ]
+  }, {
+    "tStartMs": 1341660,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "That's right, and there's also a lesson."
+    } ]
+  }, {
+    "tStartMs": 1343870,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Oh, that's true."
+    } ]
+  }, {
+    "tStartMs": 1345480,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Like you should live a good life."
+    } ]
+  }, {
+    "tStartMs": 1348010,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Or you shouldn't steal, you shouldn't take other people's things."
+    } ]
+  }, {
+    "tStartMs": 1351300,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "There's that kind of lesson."
+    } ]
+  }, {
+    "tStartMs": 1353440,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "That's right, and I think personally it often."
+    } ]
+  }, {
+    "tStartMs": 1358500,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Forced emotion?"
+    } ]
+  }, {
+    "tStartMs": 1360570,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "Makes you feel sadness in a forced way."
+    } ]
+  }, {
+    "tStartMs": 1365490,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "It seems like there's some of that."
+    } ]
+  }, {
+    "tStartMs": 1367470,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "Whether it's forced or unavoidable, I'm not sure."
+    } ]
+  }, {
+    "tStartMs": 1372420,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "\"Now's the time! This is the moment to cry!\" There are scenes like that."
+    } ]
+  }, {
+    "tStartMs": 1377340,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "Yes, that's called \"shinpa\" in Korean."
+    } ]
+  }, {
+    "tStartMs": 1383410,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "Right, there's shinpa."
+    } ]
+  }, {
+    "tStartMs": 1387840,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Oh, and there's this too."
+    } ]
+  }, {
+    "tStartMs": 1390000,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "Most titles are two or three characters? There are a lot of titles like that."
+    } ]
+  }, {
+    "tStartMs": 1396290,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "So there are some that are really confusing."
+    } ]
+  }, {
+    "tStartMs": 1398620,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 1400420,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Like \u003cMyeongrang\u003e."
+    } ]
+  }, {
+    "tStartMs": 1402300,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "\u003cMyeongrang\u003e, oh that's right."
+    } ]
+  }, {
+    "tStartMs": 1404290,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Those kinds of titles? Like some kind of two Sino-Korean words..."
+    } ]
+  }, {
+    "tStartMs": 1407200,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "\u003cMyeongrang\u003e, \u003cPamyo\u003e."
+    } ]
+  }, {
+    "tStartMs": 1409490,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Yeah, things like that."
+    } ]
+  }, {
+    "tStartMs": 1410980,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "There are a lot of English word titles too, aren't there?"
+    } ]
+  }, {
+    "tStartMs": 1413200,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Yeah, but usually it's short"
+    } ]
+  }, {
+    "tStartMs": 1415360,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "\u003cExit\u003e that's right"
+    } ]
+  }, {
+    "tStartMs": 1418160,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "\u003cPilot\u003e"
+    } ]
+  }, {
+    "tStartMs": 1419180,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Yeah, ah, there's also \u003cThe Host\u003e"
+    } ]
+  }, {
+    "tStartMs": 1421810,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "\u003cThe Host\u003e is there too"
+    } ]
+  }, {
+    "tStartMs": 1423040,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "Like \u003cThief\u003e, \u003cAssassination\u003e, that kind of thing"
+    } ]
+  }, {
+    "tStartMs": 1428510,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "Like \"what was that movie again?\" \u003cFace Reading\u003e I get them all mixed up"
+    } ]
+  }, {
+    "tStartMs": 1433870,
+    "dDurationMs": 6510,
+    "segs": [ {
+      "utf8": "That's true, I've never really thought about it, but you're right"
+    } ]
+  }, {
+    "tStartMs": 1440380,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "A lot of people studying Korean talk about this too"
+    } ]
+  }, {
+    "tStartMs": 1444690,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "That Korean movies and dramas have unclear pronunciation, right? We feel that too"
+    } ]
+  }, {
+    "tStartMs": 1452290,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Even Koreans"
+    } ]
+  }, {
+    "tStartMs": 1453760,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "That's right, that's right, exactly"
+    } ]
+  }, {
+    "tStartMs": 1456960,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Why is that?"
+    } ]
+  }, {
+    "tStartMs": 1457920,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Yeah, so sometimes when I watch Netflix"
+    } ]
+  }, {
+    "tStartMs": 1461760,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "When I watch Korean content, I often turn on subtitles"
+    } ]
+  }, {
+    "tStartMs": 1466960,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "My parents do that too"
+    } ]
+  }, {
+    "tStartMs": 1468960,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "Yeah"
+    } ]
+  }, {
+    "tStartMs": 1469580,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "A few days ago I was rewatching \u003cLawless Lawyer\u003e"
+    } ]
+  }, {
+    "tStartMs": 1472540,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "And my dad said he couldn't hear what he was saying, the sound"
+    } ]
+  }, {
+    "tStartMs": 1476400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So instead of turning up the volume, I turned on subtitles for him"
+    } ]
+  }, {
+    "tStartMs": 1480240,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "And then he said he could hear it well"
+    } ]
+  }, {
+    "tStartMs": 1485550,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Right, I'm not sure why that is"
+    } ]
+  }, {
+    "tStartMs": 1489170,
+    "dDurationMs": 7340,
+    "segs": [ {
+      "utf8": "But when we watch foreign movies, we obviously watch with subtitles anyway"
+    } ]
+  }, {
+    "tStartMs": 1496510,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "Yeah"
+    } ]
+  }, {
+    "tStartMs": 1497250,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "So we might not have made the comparison"
+    } ]
+  }, {
+    "tStartMs": 1499620,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Oh right? Is that how it is for everyone?"
+    } ]
+  }, {
+    "tStartMs": 1503200,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "But like, Americans might say \"I can't understand American movies without subtitles\""
+    } ]
+  }, {
+    "tStartMs": 1509580,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "Yeah, if you plug in earphones, it might sound clearer too"
+    } ]
+  }, {
+    "tStartMs": 1514820,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "It might be a sound issue or something"
+    } ]
+  }, {
+    "tStartMs": 1518000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That could be it, that's right"
+    } ]
+  }, {
+    "tStartMs": 1519600,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "So then as a personal episode"
+    } ]
+  }, {
+    "tStartMs": 1522950,
+    "dDurationMs": 6710,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, what was the most fun movie you've watched recently?"
+    } ]
+  }, {
+    "tStartMs": 1529660,
+    "dDurationMs": 9480,
+    "segs": [ {
+      "utf8": "There aren't many to call recent, but within what I still remember"
+    } ]
+  }, {
+    "tStartMs": 1539140,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "I recently at the theater, at the movie theater"
+    } ]
+  }, {
+    "tStartMs": 1543770,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "Good, at the theater"
+    } ]
+  }, {
+    "tStartMs": 1545350,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Yeah, among the ones I've seen at the movie theater"
+    } ]
+  }, {
+    "tStartMs": 1548340,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "\u003cTop Gun\u003e was the most fun for me in recent years"
+    } ]
+  }, {
+    "tStartMs": 1552420,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Maverick"
+    } ]
+  }, {
+    "tStartMs": 1553100,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Top Gun, yeah \u003cTop Gun Maverick\u003e"
+    } ]
+  }, {
+    "tStartMs": 1554840,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "It's fun, right? I watched that twice"
+    } ]
+  }, {
+    "tStartMs": 1557680,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Oh, you watched it twice?"
+    } ]
+  }, {
+    "tStartMs": 1558620,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "I watched it twice at the movie theater"
+    } ]
+  }, {
+    "tStartMs": 1560450,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "You didn't watch that in 4D?"
+    } ]
+  }, {
+    "tStartMs": 1561880,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 1563550,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "Why did you watch it twice?"
+    } ]
+  }, {
+    "tStartMs": 1564770,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "The reason I picked Top Gun is"
+    } ]
+  }, {
+    "tStartMs": 1568790,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "Because I watched it at the movie theater, the fun was maximized"
+    } ]
+  }, {
+    "tStartMs": 1574240,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "The sound and action and stuff?"
+    } ]
+  }, {
+    "tStartMs": 1578340,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Yeah, and seeing this wide screen"
+    } ]
+  }, {
+    "tStartMs": 1582820,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "Actually watching on a small screen versus everything fitting in your eyes"
+    } ]
+  }, {
+    "tStartMs": 1588160,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "There's definitely a difference between watching on a big screen, right?"
+    } ]
+  }, {
+    "tStartMs": 1592310,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "That seems right"
+    } ]
+  }, {
+    "tStartMs": 1593520,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Yeah, like really from a fighter pilot's perspective"
+    } ]
+  }, {
+    "tStartMs": 1597060,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "The window closes and you see everything going"
+    } ]
+  }, {
+    "tStartMs": 1602240,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "It feels like the actual size of a fighter jet"
+    } ]
+  }, {
+    "tStartMs": 1609000,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "So I got this feeling like, wow, this really feels like I'm experiencing it"
+    } ]
+  }, {
+    "tStartMs": 1613750,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "It was worth watching at the movie theater"
+    } ]
+  }, {
+    "tStartMs": 1617220,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Sometimes there are movies made like this where you really have to watch them at the movie theater"
+    } ]
+  }, {
+    "tStartMs": 1621380,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "That kind of thing"
+    } ]
+  }, {
+    "tStartMs": 1625410,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "That's right, that's right"
+    } ]
+  }, {
+    "tStartMs": 1627110,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "So I watched F1 recently and it seemed like that too"
+    } ]
+  }, {
+    "tStartMs": 1632100,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "It was the same director"
+    } ]
+  }, {
+    "tStartMs": 1634570,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Aren't they similar? The two movies a bit?"
+    } ]
+  }, {
+    "tStartMs": 1636670,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "They were really similar"
+    } ]
+  }, {
+    "tStartMs": 1638060,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "They really are similar"
+    } ]
+  }, {
+    "tStartMs": 1639330,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It's just like, airplane version, car version kind of feeling"
+    } ]
+  }, {
+    "tStartMs": 1643330,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "So the director really has something he wants to say"
+    } ]
+  }, {
+    "tStartMs": 1649400,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Right, right, it was fun"
+    } ]
+  }, {
+    "tStartMs": 1651620,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1652900,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "Among the movies I've seen in theaters, now that you mention it, I remember"
+    } ]
+  }, {
+    "tStartMs": 1657200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "\u003cMickey 17\u003e?"
+    } ]
+  }, {
+    "tStartMs": 1659300,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "I think it was good that I saw that in a theater"
+    } ]
+  }, {
+    "tStartMs": 1662620,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1665500,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Why? Why?"
+    } ]
+  }, {
+    "tStartMs": 1666610,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "I don't think I would have been immersed if it wasn't in a theater"
+    } ]
+  }, {
+    "tStartMs": 1670950,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "The overall story?"
+    } ]
+  }, {
+    "tStartMs": 1672990,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I do understand what you mean"
+    } ]
+  }, {
+    "tStartMs": 1675230,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "Like it grabs you and says \"watch\" like this"
+    } ]
+  }, {
+    "tStartMs": 1679800,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "When I concentrated and watched it, it seemed like it was a fun movie"
+    } ]
+  }, {
+    "tStartMs": 1684410,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "I saw that in a theater too"
+    } ]
+  }, {
+    "tStartMs": 1687610,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I think I said it was okay"
+    } ]
+  }, {
+    "tStartMs": 1690490,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "What about Korean movies? Do you have any?"
+    } ]
+  }, {
+    "tStartMs": 1692510,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "The last Korean movie I saw in a theater was"
+    } ]
+  }, {
+    "tStartMs": 1696510,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "A movie called Pilot"
+    } ]
+  }, {
+    "tStartMs": 1698870,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "I know, Jo Jung-suk"
+    } ]
+  }, {
+    "tStartMs": 1700090,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "Right, it's a movie with an actor named Jo Jung-suk in the lead role"
+    } ]
+  }, {
+    "tStartMs": 1705440,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "I think it would be like a really good-hearted movie, how was it?"
+    } ]
+  }, {
+    "tStartMs": 1710470,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Right, that's true"
+    } ]
+  }, {
+    "tStartMs": 1712060,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It's a movie that teaches a lesson"
+    } ]
+  }, {
+    "tStartMs": 1714580,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And it ends well with a happy ending"
+    } ]
+  }, {
+    "tStartMs": 1716800,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "A bit of comedy?"
+    } ]
+  }, {
+    "tStartMs": 1718180,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "Yeah, actually I don't usually see those kinds of movies in theaters"
+    } ]
+  }, {
+    "tStartMs": 1722850,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "I went as a family outing, a family outing"
+    } ]
+  }, {
+    "tStartMs": 1725950,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 1726910,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "And the reason I went was"
+    } ]
+  }, {
+    "tStartMs": 1729120,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Actually my cousin"
+    } ]
+  }, {
+    "tStartMs": 1732970,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1733760,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "Is in that movie"
+    } ]
+  }, {
+    "tStartMs": 1737540,
+    "dDurationMs": 7610,
+    "segs": [ {
+      "utf8": "So my mom's side uncle's daughter"
+    } ]
+  }, {
+    "tStartMs": 1745150,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Is an actress who appears in a supporting role there"
+    } ]
+  }, {
+    "tStartMs": 1749380,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "She's an actress named Lee Ju-myung"
+    } ]
+  }, {
+    "tStartMs": 1752770,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Oh yes"
+    } ]
+  }, {
+    "tStartMs": 1753820,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "So my mom and my sister"
+    } ]
+  }, {
+    "tStartMs": 1757510,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Said \"we have to go see it because Ju-myung is in it\""
+    } ]
+  }, {
+    "tStartMs": 1761150,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "So we all went to see it together"
+    } ]
+  }, {
+    "tStartMs": 1763120,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Oh, I see, wow wow, are you close?"
+    } ]
+  }, {
+    "tStartMs": 1767920,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "No, we're not close"
+    } ]
+  }, {
+    "tStartMs": 1770680,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1772320,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Is she a distant relative then?"
+    } ]
+  }, {
+    "tStartMs": 1774500,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "No, actually she's a close relative, really"
+    } ]
+  }, {
+    "tStartMs": 1776840,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Oh, you just didn't see her often"
+    } ]
+  }, {
+    "tStartMs": 1778730,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Yes, I've barely seen her since becoming an adult"
+    } ]
+  }, {
+    "tStartMs": 1781410,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Oh, that's a shame, I wanted to get her autograph"
+    } ]
+  }, {
+    "tStartMs": 1783960,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "We used to play together a lot when we were young"
+    } ]
+  }, {
+    "tStartMs": 1786940,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But after becoming an adult, well, you know how it is"
+    } ]
+  }, {
+    "tStartMs": 1790700,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Actually I think those kinds of family movies are nice to watch with family"
+    } ]
+  }, {
+    "tStartMs": 1795900,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Yes, and especially those kinds of movies"
+    } ]
+  }, {
+    "tStartMs": 1799530,
+    "dDurationMs": 7450,
+    "segs": [ {
+      "utf8": "Like during the Chuseok season and holidays, especially big hit movies come out"
+    } ]
+  }, {
+    "tStartMs": 1806980,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Oh right, good to watch with family"
+    } ]
+  }, {
+    "tStartMs": 1810920,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "And then after a few years they show up on TV too"
+    } ]
+  }, {
+    "tStartMs": 1813960,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Those movies came out as Chuseok special films, and"
+    } ]
+  }, {
+    "tStartMs": 1817440,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1818790,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yeah, that's true."
+    } ]
+  }, {
+    "tStartMs": 1820390,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Didi, the last Korean movie you saw in a theater..."
+    } ]
+  }, {
+    "tStartMs": 1824970,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "I can't remember what the last one was."
+    } ]
+  }, {
+    "tStartMs": 1828700,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "And because the names are so similar, I can't remember that either."
+    } ]
+  }, {
+    "tStartMs": 1833120,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "What's that movie about playing baduk?"
+    } ]
+  }, {
+    "tStartMs": 1836730,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Was it \u003cShowdown\u003e? \u003cShowdown\u003e?"
+    } ]
+  }, {
+    "tStartMs": 1838370,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Yes, \u003cShowdown\u003e."
+    } ]
+  }, {
+    "tStartMs": 1840080,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "It's \u003cShowdown\u003e?"
+    } ]
+  }, {
+    "tStartMs": 1841220,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Yes, ah, look at this—the names are so confusing."
+    } ]
+  }, {
+    "tStartMs": 1844290,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Ah, I know what you mean."
+    } ]
+  }, {
+    "tStartMs": 1845540,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "I watched \u003cShowdown\u003e too,"
+    } ]
+  }, {
+    "tStartMs": 1847350,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Ah, and with Lee Jae-hoon,"
+    } ]
+  }, {
+    "tStartMs": 1849470,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "\u003cEscape\u003e!!!"
+    } ]
+  }, {
+    "tStartMs": 1850740,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "\u003cEscape\u003e."
+    } ]
+  }, {
+    "tStartMs": 1852320,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Ah, I really enjoyed watching it."
+    } ]
+  }, {
+    "tStartMs": 1853780,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "\u003cEscape\u003e—there are two of them like this."
+    } ]
+  }, {
+    "tStartMs": 1855460,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1856080,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "I think I enjoyed \u003cEscape\u003e a lot."
+    } ]
+  }, {
+    "tStartMs": 1857910,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Ah, I also really enjoyed \u003cEscape\u003e."
+    } ]
+  }, {
+    "tStartMs": 1860060,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Right? That was good—I watched it without expecting much,"
+    } ]
+  }, {
+    "tStartMs": 1864860,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Ah yes, the movie just keeps pounding away without letting up,"
+    } ]
+  }, {
+    "tStartMs": 1869060,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "All the way to the end."
+    } ]
+  }, {
+    "tStartMs": 1870210,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1871440,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "I really enjoyed watching it."
+    } ]
+  }, {
+    "tStartMs": 1872830,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "I really love actor Koo Kyo-hwan who appears in \u003cEscape\u003e,"
+    } ]
+  }, {
+    "tStartMs": 1879450,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "So whenever a work like that comes out, I make sure to watch it, and I really enjoyed it."
+    } ]
+  }, {
+    "tStartMs": 1886470,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "Actor Koo Kyo-hwan acts really well."
+    } ]
+  }, {
+    "tStartMs": 1890380,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Ah, exactly."
+    } ]
+  }, {
+    "tStartMs": 1891180,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Natural acting."
+    } ]
+  }, {
+    "tStartMs": 1892990,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1893820,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "That kind of acting where it's \"not acting.\""
+    } ]
+  }, {
+    "tStartMs": 1896860,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "I think that's how actors should be."
+    } ]
+  }, {
+    "tStartMs": 1900580,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Right, right, because you get immersed."
+    } ]
+  }, {
+    "tStartMs": 1903610,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "An actor should act well,"
+    } ]
+  }, {
+    "tStartMs": 1906430,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "A musician should play music well,"
+    } ]
+  }, {
+    "tStartMs": 1908600,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "And especially with actors, when you don't feel like they're acting,"
+    } ]
+  }, {
+    "tStartMs": 1912840,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "That's when you feel like they're really doing it well."
+    } ]
+  }, {
+    "tStartMs": 1915260,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1916680,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Are there any other movies you want to see? As a final question,"
+    } ]
+  }, {
+    "tStartMs": 1920210,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Any movies you're looking forward to?"
+    } ]
+  }, {
+    "tStartMs": 1921660,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Ah, there aren't any right now."
+    } ]
+  }, {
+    "tStartMs": 1925300,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "But there was a movie I wanted to see recently."
+    } ]
+  }, {
+    "tStartMs": 1930420,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "But it came down from the theaters."
+    } ]
+  }, {
+    "tStartMs": 1932770,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Oh, you were too busy to see it? What was it?"
+    } ]
+  }, {
+    "tStartMs": 1935480,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Yes, I was too busy to see it,"
+    } ]
+  }, {
+    "tStartMs": 1936650,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "It was the last Mission: Impossible film."
+    } ]
+  }, {
+    "tStartMs": 1941380,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "I really love that series,"
+    } ]
+  }, {
+    "tStartMs": 1946080,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "But it passed by, and when I came to my senses, it was already over."
+    } ]
+  }, {
+    "tStartMs": 1948810,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "What do I do."
+    } ]
+  }, {
+    "tStartMs": 1949640,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "You should have watched it while eating some kimchi fried rice."
+    } ]
+  }, {
+    "tStartMs": 1953290,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "By squeezing in the time."
+    } ]
+  }, {
+    "tStartMs": 1954520,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Oh, that's what it was! That's what it was!"
+    } ]
+  }, {
+    "tStartMs": 1958660,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "If you're that busy, during the time you eat,"
+    } ]
+  }, {
+    "tStartMs": 1961500,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "I should have done that!"
+    } ]
+  }, {
+    "tStartMs": 1962930,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Exactly, it's such a shame."
+    } ]
+  }, {
+    "tStartMs": 1964130,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "That's the kind of movie you really need to see in a theater."
+    } ]
+  }, {
+    "tStartMs": 1966480,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Of course."
+    } ]
+  }, {
+    "tStartMs": 1967510,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "So I'm that kind of person living that kind of life."
+    } ]
+  }, {
+    "tStartMs": 1971710,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "Oh no..."
+    } ]
+  }, {
+    "tStartMs": 1972840,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "So that's... sad, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1975940,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "It makes you reflect on yourself."
+    } ]
+  }, {
+    "tStartMs": 1977760,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Watch it again when it comes to Netflix."
+    } ]
+  }, {
+    "tStartMs": 1979750,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "It probably won't come out until next year or so?"
+    } ]
+  }, {
+    "tStartMs": 1982060,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Next year? I don't think it'll come out next year either?"
+    } ]
+  }, {
+    "tStartMs": 1984350,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Really? The year after next?"
+    } ]
+  }, {
+    "tStartMs": 1986780,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Because it's such a massive production."
+    } ]
+  }, {
+    "tStartMs": 1989470,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "I'll just wait for the day I can watch Demon Slayer."
+    } ]
+  }, {
+    "tStartMs": 1994130,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Demon Slayer, well, I'm not sure."
+    } ]
+  }, {
+    "tStartMs": 1996050,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "If I had watched Demon Slayer even once in a theater,"
+    } ]
+  }, {
+    "tStartMs": 2000220,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "would my thoughts be different now?"
+    } ]
+  }, {
+    "tStartMs": 2002500,
+    "dDurationMs": 8090,
+    "segs": [ {
+      "utf8": "So if you watched it in 4D, you might have discovered a whole new world too."
+    } ]
+  }, {
+    "tStartMs": 2010590,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Everyone listening right now, if you've watched any movies recently that were fun,"
+    } ]
+  }, {
+    "tStartMs": 2015170,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "please leave them in the comments and I'd appreciate it."
+    } ]
+  }, {
+    "tStartMs": 2017950,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "If you all recommend something to me,"
+    } ]
+  }, {
+    "tStartMs": 2020310,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "I watch pretty much everything."
+    } ]
+  }, {
+    "tStartMs": 2022040,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Oh that's right."
+    } ]
+  }, {
+    "tStartMs": 2023800,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I've actually watched almost everything you recommended, Didi."
+    } ]
+  }, {
+    "tStartMs": 2027680,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "So please give lots of recommendations this time too."
+    } ]
+  }, {
+    "tStartMs": 2030040,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Oh movie recommendations, really,"
+    } ]
+  }, {
+    "tStartMs": 2032380,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "if there's something updated that you watched recently and found fun,"
+    } ]
+  }, {
+    "tStartMs": 2035620,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "please let me know."
+    } ]
+  }, {
+    "tStartMs": 2038090,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Thank you, then let's move on to the next segment."
+    } ]
+  }, {
+    "tStartMs": 2043900,
+    "dDurationMs": 8480,
+    "segs": [ {
+      "utf8": "\u003cVerbal Mini Game\u003e"
+    } ]
+  }, {
+    "tStartMs": 2052380,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "This segment is a verbal mini game segment,"
+    } ]
+  }, {
+    "tStartMs": 2056080,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "and I've brought a new game today."
+    } ]
+  }, {
+    "tStartMs": 2058460,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "This mini game will go at a faster pace."
+    } ]
+  }, {
+    "tStartMs": 2062300,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "We won't talk for a long time and will move through it quickly,"
+    } ]
+  }, {
+    "tStartMs": 2066560,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "How should I put it..."
+    } ]
+  }, {
+    "tStartMs": 2067600,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "We'll do a \"Who Says It Faster\" game."
+    } ]
+  }, {
+    "tStartMs": 2071030,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "We talked about movies today, right?"
+    } ]
+  }, {
+    "tStartMs": 2073700,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "So it's about who can say movie titles faster,"
+    } ]
+  }, {
+    "tStartMs": 2079300,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "and we'll give each other prompts."
+    } ]
+  }, {
+    "tStartMs": 2081860,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "For example, horror movies, five Korean horror movies,"
+    } ]
+  }, {
+    "tStartMs": 2085890,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "like that, and we talk about those five,"
+    } ]
+  }, {
+    "tStartMs": 2088640,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "and we measure how much time it takes, and whoever is faster wins."
+    } ]
+  }, {
+    "tStartMs": 2094880,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "But how do we decide on the theme?"
+    } ]
+  }, {
+    "tStartMs": 2098660,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "Or without searching,"
+    } ]
+  }, {
+    "tStartMs": 2101590,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "you can't search, you have to do it like this."
+    } ]
+  }, {
+    "tStartMs": 2103990,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Take turns answering until someone can't answer?"
+    } ]
+  }, {
+    "tStartMs": 2107550,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Oh, so we pick one genre altogether?"
+    } ]
+  }, {
+    "tStartMs": 2110140,
+    "dDurationMs": 770,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2110910,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "Because the theme difficulty might not match between us, you know?"
+    } ]
+  }, {
+    "tStartMs": 2116460,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Oh really? Then let's do that."
+    } ]
+  }, {
+    "tStartMs": 2118950,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Yes, like that."
+    } ]
+  }, {
+    "tStartMs": 2119980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Let's call it the \"Who Says More\" game."
+    } ]
+  }, {
+    "tStartMs": 2123400,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Who says more."
+    } ]
+  }, {
+    "tStartMs": 2124560,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "But we should set a time limit, right?"
+    } ]
+  }, {
+    "tStartMs": 2126980,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "How?"
+    } ]
+  }, {
+    "tStartMs": 2127940,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Within a few seconds..."
+    } ]
+  }, {
+    "tStartMs": 2129340,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "I don't understand."
+    } ]
+  }, {
+    "tStartMs": 2130220,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "So when I say one thing,"
+    } ]
+  }, {
+    "tStartMs": 2132440,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "you have to say yours within 5 seconds,"
+    } ]
+  }, {
+    "tStartMs": 2135030,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Oh okay, like that? I got it."
+    } ]
+  }, {
+    "tStartMs": 2138880,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "How many seconds should we do?"
+    } ]
+  }, {
+    "tStartMs": 2140320,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Let's do 5 seconds."
+    } ]
+  }, {
+    "tStartMs": 2142090,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Can't go over 5 seconds - no searching allowed."
+    } ]
+  }, {
+    "tStartMs": 2145850,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You can't search,"
+    } ]
+  }, {
+    "tStartMs": 2148200,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Korean movies, foreign movies, doesn't matter."
+    } ]
+  }, {
+    "tStartMs": 2151220,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Then shall we do round 3?"
+    } ]
+  }, {
+    "tStartMs": 2152410,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Three genres each? Three themes each?"
+    } ]
+  }, {
+    "tStartMs": 2154910,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Yes, sounds good - okay okay"
+    } ]
+  }, {
+    "tStartMs": 2156850,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Should I go first with the theme?"
+    } ]
+  }, {
+    "tStartMs": 2158310,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2158940,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "I'll start with an easy one"
+    } ]
+  }, {
+    "tStartMs": 2161070,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "'Fantasy movies'"
+    } ]
+  }, {
+    "tStartMs": 2163260,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "You count the numbers for the other person"
+    } ]
+  }, {
+    "tStartMs": 2165150,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "And seasons 1, 2, 3 don't count"
+    } ]
+  }, {
+    "tStartMs": 2167940,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "I know I know I know"
+    } ]
+  }, {
+    "tStartMs": 2169090,
+    "dDurationMs": 770,
+    "segs": [ {
+      "utf8": "Start!"
+    } ]
+  }, {
+    "tStartMs": 2169860,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "Harry Potter - Harry P... oh wait a second"
+    } ]
+  }, {
+    "tStartMs": 2173890,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Oh Didi, you go first, you go first? Okay okay"
+    } ]
+  }, {
+    "tStartMs": 2175880,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Oh I lost Harry Potter..."
+    } ]
+  }, {
+    "tStartMs": 2178300,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "No you go ahead, with Harry Potter"
+    } ]
+  }, {
+    "tStartMs": 2179890,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Oh that's fine, you go ahead, you go ahead"
+    } ]
+  }, {
+    "tStartMs": 2181830,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "That's fine? \u003cHarry Potter\u003e"
+    } ]
+  }, {
+    "tStartMs": 2183710,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Okay"
+    } ]
+  }, {
+    "tStartMs": 2185060,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "\u003cThe Lord of the Rings\u003e"
+    } ]
+  }, {
+    "tStartMs": 2191940,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "\u003cFantastic Beasts\u003e oh wait a second"
+    } ]
+  }, {
+    "tStartMs": 2194250,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "No that's Harry Potter, that one"
+    } ]
+  }, {
+    "tStartMs": 2195970,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "It's not!"
+    } ]
+  }, {
+    "tStartMs": 2197040,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Oh it's not?"
+    } ]
+  }, {
+    "tStartMs": 2198180,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Yes it's a completely different movie, has 5 seconds passed?"
+    } ]
+  }, {
+    "tStartMs": 2200520,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "It took exactly 5 seconds"
+    } ]
+  }, {
+    "tStartMs": 2202170,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Oh Fantastic Beasts"
+    } ]
+  }, {
+    "tStartMs": 2204810,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Fantasy? Ah IC then I'll say \u003cThe Hobbit\u003e"
+    } ]
+  }, {
+    "tStartMs": 2208200,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "That's fine"
+    } ]
+  }, {
+    "tStartMs": 2208820,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Uh yeah yeah"
+    } ]
+  }, {
+    "tStartMs": 2209750,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Wait, you said The Lord of the Rings at first?"
+    } ]
+  }, {
+    "tStartMs": 2212160,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Yes it's a different movie"
+    } ]
+  }, {
+    "tStartMs": 2214360,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2215840,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "\u003cTwilight\u003e"
+    } ]
+  }, {
+    "tStartMs": 2217090,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Oh Twilight okay"
+    } ]
+  }, {
+    "tStartMs": 2219650,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It's my turn now?"
+    } ]
+  }, {
+    "tStartMs": 2221890,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "\u003cUnderworld\u003e"
+    } ]
+  }, {
+    "tStartMs": 2227490,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "\u003cWonka\u003e is that fantasy?"
+    } ]
+  }, {
+    "tStartMs": 2230560,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "It's fantasy"
+    } ]
+  }, {
+    "tStartMs": 2231780,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Oh okay okay"
+    } ]
+  }, {
+    "tStartMs": 2234240,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "Uh then..."
+    } ]
+  }, {
+    "tStartMs": 2239610,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Van Helsing"
+    } ]
+  }, {
+    "tStartMs": 2243150,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 2245140,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Van Helsing?"
+    } ]
+  }, {
+    "tStartMs": 2245820,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "That's fantasy, it's a fantasy with Dracula in it"
+    } ]
+  }, {
+    "tStartMs": 2247670,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 2248550,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2250670,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "5 4 3 2"
+    } ]
+  }, {
+    "tStartMs": 2254980,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "Gollum"
+    } ]
+  }, {
+    "tStartMs": 2256310,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 2257430,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "Isn't there a Gollum movie?"
+    } ]
+  }, {
+    "tStartMs": 2258820,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "There's a movie for that?"
+    } ]
+  }, {
+    "tStartMs": 2260580,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "There should be?"
+    } ]
+  }, {
+    "tStartMs": 2261400,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Is there really? What is it?"
+    } ]
+  }, {
+    "tStartMs": 2262920,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How Gollum was born and how he became Gollum..."
+    } ]
+  }, {
+    "tStartMs": 2265920,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "Oh there isn't"
+    } ]
+  }, {
+    "tStartMs": 2270770,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "So it's 1 win 1 win, 1 win"
+    } ]
+  }, {
+    "tStartMs": 2271960,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Oh fantasy is hard, why can't I think of anything suddenly?"
+    } ]
+  }, {
+    "tStartMs": 2275180,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "It's really really difficult?"
+    } ]
+  }, {
+    "tStartMs": 2276600,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "What else could there be for fantasy?"
+    } ]
+  }, {
+    "tStartMs": 2278480,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Oh like \u003cThe Wizard of Oz\u003e there should have been things like that"
+    } ]
+  }, {
+    "tStartMs": 2281250,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "Is there a movie about that too?"
+    } ]
+  }, {
+    "tStartMs": 2285040,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "I lost."
+    } ]
+  }, {
+    "tStartMs": 2287330,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Round 2."
+    } ]
+  }, {
+    "tStartMs": 2288440,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "It's round 2, and I get to set the theme."
+    } ]
+  }, {
+    "tStartMs": 2291930,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "I set it, and Tae-woong goes first."
+    } ]
+  }, {
+    "tStartMs": 2293890,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "Oh, okay, okay."
+    } ]
+  }, {
+    "tStartMs": 2297090,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "What's the theme?"
+    } ]
+  }, {
+    "tStartMs": 2298110,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "The theme is,"
+    } ]
+  }, {
+    "tStartMs": 2299510,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "Movies with titles that are five characters or longer, whether Korean or foreign."
+    } ]
+  }, {
+    "tStartMs": 2304500,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "Five characters or longer—five characters counts too."
+    } ]
+  }, {
+    "tStartMs": 2308840,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2312000,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "\u003cGolden Slumber\u003e"
+    } ]
+  }, {
+    "tStartMs": 2315940,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "\u003cTwilight\u003e"
+    } ]
+  }, {
+    "tStartMs": 2320830,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "\u003cThe Lord of the Rings\u003e"
+    } ]
+  }, {
+    "tStartMs": 2324480,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "\u003cThe Curious Case of Benjamin Button\u003e"
+    } ]
+  }, {
+    "tStartMs": 2335840,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "Wait a second!"
+    } ]
+  }, {
+    "tStartMs": 2337060,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "Excuse me."
+    } ]
+  }, {
+    "tStartMs": 2337970,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Why can't I think of anything?"
+    } ]
+  }, {
+    "tStartMs": 2340800,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "\u003cForrest Gump\u003e! - Oh, \u003cForrest Gump\u003e too..."
+    } ]
+  }, {
+    "tStartMs": 2343280,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "\u003cDemon Slayer\u003e"
+    } ]
+  }, {
+    "tStartMs": 2344170,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "\u003cDemon Slayer\u003e too."
+    } ]
+  }, {
+    "tStartMs": 2348830,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "This is hard, my brain isn't working today."
+    } ]
+  }, {
+    "tStartMs": 2351760,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "I just haven't been watching movies lately... - It's going to end too fast."
+    } ]
+  }, {
+    "tStartMs": 2355420,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Wow, both rounds ended in a flash. - Right?"
+    } ]
+  }, {
+    "tStartMs": 2358370,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "It's 1 to 1."
+    } ]
+  }, {
+    "tStartMs": 2360050,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Let me try something we can talk about more for the next one."
+    } ]
+  }, {
+    "tStartMs": 2362530,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 2363570,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Oh...! No, wait."
+    } ]
+  }, {
+    "tStartMs": 2365440,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 2366300,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "I was going to say animated movies."
+    } ]
+  }, {
+    "tStartMs": 2368830,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "That seems pretty good, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 2370690,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "Is it good?"
+    } ]
+  }, {
+    "tStartMs": 2371130,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Don't you think it could go on for a while?"
+    } ]
+  }, {
+    "tStartMs": 2372670,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Yes, I like it. Then let's talk about animated movies."
+    } ]
+  }, {
+    "tStartMs": 2375790,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 2377300,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "I'll start."
+    } ]
+  }, {
+    "tStartMs": 2379230,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Monsters, Inc."
+    } ]
+  }, {
+    "tStartMs": 2382500,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "The Incredibles."
+    } ]
+  }, {
+    "tStartMs": 2384820,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Minions."
+    } ]
+  }, {
+    "tStartMs": 2386310,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Minions?"
+    } ]
+  }, {
+    "tStartMs": 2387290,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Nausicaä of the Valley of the Wind."
+    } ]
+  }, {
+    "tStartMs": 2389940,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Ratatouille."
+    } ]
+  }, {
+    "tStartMs": 2391360,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Ratatouille?"
+    } ]
+  }, {
+    "tStartMs": 2393650,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Um..."
+    } ]
+  }, {
+    "tStartMs": 2394720,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Food falls from the sky(?)."
+    } ]
+  }, {
+    "tStartMs": 2395970,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Oh, that one's fun."
+    } ]
+  }, {
+    "tStartMs": 2399240,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "5. 4."
+    } ]
+  }, {
+    "tStartMs": 2401150,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Elemental."
+    } ]
+  }, {
+    "tStartMs": 2401900,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "Oh, Elemental, okay."
+    } ]
+  }, {
+    "tStartMs": 2404640,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Then Inside Out."
+    } ]
+  }, {
+    "tStartMs": 2406690,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Are you going with easy Disney movies?"
+    } ]
+  }, {
+    "tStartMs": 2409060,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "Frozen."
+    } ]
+  }, {
+    "tStartMs": 2410190,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Frozen? Okay."
+    } ]
+  }, {
+    "tStartMs": 2412460,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Porco Rosso."
+    } ]
+  }, {
+    "tStartMs": 2414400,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "You really like Studio Ghibli."
+    } ]
+  }, {
+    "tStartMs": 2416780,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Ponyo."
+    } ]
+  }, {
+    "tStartMs": 2419210,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Ponyo on the Cliff by the Sea(?)."
+    } ]
+  }, {
+    "tStartMs": 2420560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Oh, I'll give you that."
+    } ]
+  }, {
+    "tStartMs": 2424010,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Wreck-It Ralph."
+    } ]
+  }, {
+    "tStartMs": 2427810,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "That's a good movie."
+    } ]
+  }, {
+    "tStartMs": 2429440,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "4 3 2..."
+    } ]
+  }, {
+    "tStartMs": 2433410,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Inside Out"
+    } ]
+  }, {
+    "tStartMs": 2434510,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Didn't I do that already? That one from earlier?"
+    } ]
+  }, {
+    "tStartMs": 2435800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Did I?"
+    } ]
+  }, {
+    "tStartMs": 2437000,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "I think I did it?"
+    } ]
+  }, {
+    "tStartMs": 2438180,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2438890,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "After Elemental, didn't I do Inside Out? — I did it right away?"
+    } ]
+  }, {
+    "tStartMs": 2445170,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "There are still many animations I haven't talked about..."
+    } ]
+  }, {
+    "tStartMs": 2448300,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Should I step back?"
+    } ]
+  }, {
+    "tStartMs": 2451840,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "It's not Inside Out..."
+    } ]
+  }, {
+    "tStartMs": 2457500,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "WALL-E — did I do it? Did I do it?"
+    } ]
+  }, {
+    "tStartMs": 2461560,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "I didn't! WALL-E"
+    } ]
+  }, {
+    "tStartMs": 2463820,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "WALL-E? WALL-E? Okay"
+    } ]
+  }, {
+    "tStartMs": 2467550,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Spirited Away"
+    } ]
+  }, {
+    "tStartMs": 2469380,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "It's ready"
+    } ]
+  }, {
+    "tStartMs": 2471740,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "How Will You Live"
+    } ]
+  }, {
+    "tStartMs": 2474110,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "It's Studio Ghibli"
+    } ]
+  }, {
+    "tStartMs": 2477500,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "5 4 3 2"
+    } ]
+  }, {
+    "tStartMs": 2480700,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "The SpongeBob SquarePants Movie"
+    } ]
+  }, {
+    "tStartMs": 2484390,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I agree, I agree, that one's fun"
+    } ]
+  }, {
+    "tStartMs": 2488190,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Arrietty? Is that right?"
+    } ]
+  }, {
+    "tStartMs": 2491960,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "That's right, that's right"
+    } ]
+  }, {
+    "tStartMs": 2494340,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Your Name"
+    } ]
+  }, {
+    "tStartMs": 2497180,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "You really like anime"
+    } ]
+  }, {
+    "tStartMs": 2502210,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "Weathering with You"
+    } ]
+  }, {
+    "tStartMs": 2505680,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Suzume"
+    } ]
+  }, {
+    "tStartMs": 2507490,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 2508480,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Suzume"
+    } ]
+  }, {
+    "tStartMs": 2509640,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 2512570,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "The Girl Who Leapt Through Time"
+    } ]
+  }, {
+    "tStartMs": 2517330,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "5 Centimeters per Second"
+    } ]
+  }, {
+    "tStartMs": 2518700,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Oh really... it's a battle of geniuses"
+    } ]
+  }, {
+    "tStartMs": 2523870,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "The Cat Returns"
+    } ]
+  }, {
+    "tStartMs": 2528610,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Demon Slayer"
+    } ]
+  }, {
+    "tStartMs": 2530370,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "I didn't do that?"
+    } ]
+  }, {
+    "tStartMs": 2533040,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "Howl's Moving Castle"
+    } ]
+  }, {
+    "tStartMs": 2537700,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Ghost in the Shell"
+    } ]
+  }, {
+    "tStartMs": 2539330,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Huh? There's something like that?"
+    } ]
+  }, {
+    "tStartMs": 2541030,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "There is, it's a masterpiece"
+    } ]
+  }, {
+    "tStartMs": 2543620,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Is it only as a movie?"
+    } ]
+  }, {
+    "tStartMs": 2544930,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Yes yes"
+    } ]
+  }, {
+    "tStartMs": 2546480,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "I'll check it out"
+    } ]
+  }, {
+    "tStartMs": 2547690,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "It's a masterpiece, a masterpiece anyway"
+    } ]
+  }, {
+    "tStartMs": 2550600,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Oh wait a moment..."
+    } ]
+  }, {
+    "tStartMs": 2553730,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Shrek"
+    } ]
+  }, {
+    "tStartMs": 2555710,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Shrek? Oh okay"
+    } ]
+  }, {
+    "tStartMs": 2557580,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Puss in Boots"
+    } ]
+  }, {
+    "tStartMs": 2561700,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "5, 4, 3, 2..."
+    } ]
+  }, {
+    "tStartMs": 2567350,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Smurfs?"
+    } ]
+  }, {
+    "tStartMs": 2569860,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "It's Smurfs? Just Smurfs?"
+    } ]
+  }, {
+    "tStartMs": 2571460,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Smurfs"
+    } ]
+  }, {
+    "tStartMs": 2572380,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Just Smurfs?"
+    } ]
+  }, {
+    "tStartMs": 2573500,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "Yes, wouldn't there be a movie like that?"
+    } ]
+  }, {
+    "tStartMs": 2576070,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "Smurfs!"
+    } ]
+  }, {
+    "tStartMs": 2576640,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "Is it just Smurfs exactly?"
+    } ]
+  }, {
+    "tStartMs": 2578590,
+    "dDurationMs": 550,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2579140,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "There's no 'The Movie' or anything, it's just Smurfs?"
+    } ]
+  }, {
+    "tStartMs": 2581550,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Smurf~!"
+    } ]
+  }, {
+    "tStartMs": 2584060,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Let me check it out"
+    } ]
+  }, {
+    "tStartMs": 2586930,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "Smurfs exists! 2025"
+    } ]
+  }, {
+    "tStartMs": 2589120,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "It came out just this month."
+    } ]
+  }, {
+    "tStartMs": 2591390,
+    "dDurationMs": 6090,
+    "segs": [ {
+      "utf8": "Wow, what?"
+    } ]
+  }, {
+    "tStartMs": 2597480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "\u003cKing of Kings\u003e"
+    } ]
+  }, {
+    "tStartMs": 2600160,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "There's something like that?"
+    } ]
+  }, {
+    "tStartMs": 2601210,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "That's also a recent movie."
+    } ]
+  }, {
+    "tStartMs": 2603330,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 2605380,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "5, 4."
+    } ]
+  }, {
+    "tStartMs": 2606550,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Trolls!"
+    } ]
+  }, {
+    "tStartMs": 2608290,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Trolls? Oh."
+    } ]
+  }, {
+    "tStartMs": 2609900,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "It's fun, it's an anime I like about trolls."
+    } ]
+  }, {
+    "tStartMs": 2612600,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Okay."
+    } ]
+  }, {
+    "tStartMs": 2613940,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "5, 4, 3, 2..."
+    } ]
+  }, {
+    "tStartMs": 2617860,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Wait! Wait!"
+    } ]
+  }, {
+    "tStartMs": 2619910,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Was it too fast?"
+    } ]
+  }, {
+    "tStartMs": 2622080,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "2..."
+    } ]
+  }, {
+    "tStartMs": 2625250,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "1..."
+    } ]
+  }, {
+    "tStartMs": 2629870,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "My head turned completely white in an instant."
+    } ]
+  }, {
+    "tStartMs": 2632520,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Right, once it stops, it doesn't move."
+    } ]
+  }, {
+    "tStartMs": 2637320,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "Today's winner is me."
+    } ]
+  }, {
+    "tStartMs": 2643350,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Too bad, I should watch more of the anime."
+    } ]
+  }, {
+    "tStartMs": 2647280,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "But there were a lot of really niche anime titles that came up."
+    } ]
+  }, {
+    "tStartMs": 2651330,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 2652830,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Like \u003cNausicaä\u003e."
+    } ]
+  }, {
+    "tStartMs": 2655550,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "So we even played a mini-game like this today, and when you all are bored,"
+    } ]
+  }, {
+    "tStartMs": 2658820,
+    "dDurationMs": 6710,
+    "segs": [ {
+      "utf8": "try playing it with your friends sometime, it's surprisingly fun."
+    } ]
+  }, {
+    "tStartMs": 2665530,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "So now I'm thinking we should talk about the next topic."
+    } ]
+  }, {
+    "tStartMs": 2669130,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "What would be a good topic for next time?"
+    } ]
+  }, {
+    "tStartMs": 2671810,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "The next topic is something we did last time when we recorded offline,"
+    } ]
+  }, {
+    "tStartMs": 2678250,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "and it seems the playlist received a lot of love,"
+    } ]
+  }, {
+    "tStartMs": 2683110,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "so I'd like to do it again this time."
+    } ]
+  }, {
+    "tStartMs": 2685370,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "A playlist."
+    } ]
+  }, {
+    "tStartMs": 2686000,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "But last time it was about when it's good to come travel in Korea?"
+    } ]
+  }, {
+    "tStartMs": 2689930,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "It was \"five songs that are good to listen to when you come travel in Korea,\""
+    } ]
+  }, {
+    "tStartMs": 2694580,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "so what should we do this time?"
+    } ]
+  }, {
+    "tStartMs": 2696730,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "This time, while you all are studying Korean and taking a break,"
+    } ]
+  }, {
+    "tStartMs": 2702480,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "we'll make it a playlist of songs that are good to listen to while taking a walk."
+    } ]
+  }, {
+    "tStartMs": 2708420,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "Should we do it with both foreign songs and Korean songs?"
+    } ]
+  }, {
+    "tStartMs": 2711970,
+    "dDurationMs": 650,
+    "segs": [ {
+      "utf8": "Yes, yes, that sounds good."
+    } ]
+  }, {
+    "tStartMs": 2712620,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "With songs that come to mind,"
+    } ]
+  }, {
+    "tStartMs": 2714260,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Five songs each... or not?"
+    } ]
+  }, {
+    "tStartMs": 2716630,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "Let's prepare three songs each and come back."
+    } ]
+  }, {
+    "tStartMs": 2720220,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "Yes, sounds good."
+    } ]
+  }, {
+    "tStartMs": 2721800,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Today we talked about movies in all sorts of ways,"
+    } ]
+  }, {
+    "tStartMs": 2724390,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "and next week we'll pick three songs"
+    } ]
+  }, {
+    "tStartMs": 2728070,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "and talk about them in all sorts of ways."
+    } ]
+  }, {
+    "tStartMs": 2730560,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "This has been Didi and Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 2733650,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

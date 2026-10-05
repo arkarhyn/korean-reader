@@ -1,0 +1,5071 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 9220,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11430,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13350,
+    "dDurationMs": 7250,
+    "segs": [ {
+      "utf8": "Yomojomo is a podcast where two people living in Korea talk about the ins and outs of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 20600,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "Did you have a good month? Happy New Year, Teacher Tae-woong!"
+    } ]
+  }, {
+    "tStartMs": 23650,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Ah, that's right, this is the first time we're seeing each other since the New Year started."
+    } ]
+  }, {
+    "tStartMs": 25910,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 26910,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Happy New Year to you as well."
+    } ]
+  }, {
+    "tStartMs": 28580,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Are you still very busy these days?"
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Very busy."
+    } ]
+  }, {
+    "tStartMs": 31730,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Still..."
+    } ]
+  }, {
+    "tStartMs": 32770,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Yes, you look a bit tired, don't you?"
+    } ]
+  }, {
+    "tStartMs": 35050,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "You're right, you came straight from class today, didn't you?"
+    } ]
+  }, {
+    "tStartMs": 37580,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 39620,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "You work so hard all the time."
+    } ]
+  }, {
+    "tStartMs": 42920,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Before I introduce today's topic,"
+    } ]
+  }, {
+    "tStartMs": 44930,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "since you watched the previous episodes so much,"
+    } ]
+  }, {
+    "tStartMs": 47920,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "I'll talk about the winners first and then move on."
+    } ]
+  }, {
+    "tStartMs": 51260,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Last week's topic was hobbies,"
+    } ]
+  }, {
+    "tStartMs": 53180,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "and the quiz was something that wasn't mentioned as a hobby by either of us."
+    } ]
+  }, {
+    "tStartMs": 58510,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "And the correct answer was number 3, horseback riding, right?"
+    } ]
+  }, {
+    "tStartMs": 61250,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Yes, let me tell you who the winners are."
+    } ]
+  }, {
+    "tStartMs": 84000,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "Congratulations."
+    } ]
+  }, {
+    "tStartMs": 85390,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "Before Teacher Tae-woong started, he was worried about possibly mispronouncing names,"
+    } ]
+  }, {
+    "tStartMs": 90870,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "but you all read them anyway."
+    } ]
+  }, {
+    "tStartMs": 94990,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "Yes, some of them were a bit difficult..."
+    } ]
+  }, {
+    "tStartMs": 100960,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "Names in languages you've never seen before are hard to read."
+    } ]
+  }, {
+    "tStartMs": 105890,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Yes..."
+    } ]
+  }, {
+    "tStartMs": 107500,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "And since people might use IDs that aren't actual words,"
+    } ]
+  }, {
+    "tStartMs": 112740,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 114280,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "So if Teacher Tae-woong happened to say something wrong,"
+    } ]
+  }, {
+    "tStartMs": 117570,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "I'd appreciate it if you could leave a comment saying how that could happen."
+    } ]
+  }, {
+    "tStartMs": 122620,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Then please introduce today's topic right away."
+    } ]
+  }, {
+    "tStartMs": 126010,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Today's topic is secondhand trading."
+    } ]
+  }, {
+    "tStartMs": 128790,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes, secondhand trading,"
+    } ]
+  }, {
+    "tStartMs": 129990,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "and if I explain the two parts separately, secondhand and trading,"
+    } ]
+  }, {
+    "tStartMs": 133940,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "\"secondhand\" refers to items that someone has already used,"
+    } ]
+  }, {
+    "tStartMs": 139920,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "or just old items, those are also called secondhand,"
+    } ]
+  }, {
+    "tStartMs": 144430,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "but when you say \"secondhand trading,\" it usually just means person-to-person buying and selling,"
+    } ]
+  }, {
+    "tStartMs": 149910,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "buying and selling those items is called secondhand trading."
+    } ]
+  }, {
+    "tStartMs": 154090,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "When you think of secondhand trading, what comes to mind first for you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 158240,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "What comes to mind when you think of secondhand trading?"
+    } ]
+  }, {
+    "tStartMs": 160670,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Yes, what's the first thing that comes to mind?"
+    } ]
+  }, {
+    "tStartMs": 163420,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Carrot Market?"
+    } ]
+  }, {
+    "tStartMs": 164860,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Ah, Carrot Market, right, right."
+    } ]
+  }, {
+    "tStartMs": 167150,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "I was just curious whether a store or an app came to mind,"
+    } ]
+  }, {
+    "tStartMs": 172550,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "these days people use the Carrot Market app a lot, right?"
+    } ]
+  }, {
+    "tStartMs": 175630,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 176430,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "In your opinion, it seems like Korean people do a lot of secondhand trading? What do you think?"
+    } ]
+  }, {
+    "tStartMs": 183530,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "It seems like they do a lot."
+    } ]
+  }, {
+    "tStartMs": 185440,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 187150,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 188130,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "I thought so too,"
+    } ]
+  }, {
+    "tStartMs": 189970,
+    "dDurationMs": 6480,
+    "segs": [ {
+      "utf8": "but recently I was talking with a British student and the topic of secondhand came up,"
+    } ]
+  }, {
+    "tStartMs": 196450,
+    "dDurationMs": 7870,
+    "segs": [ {
+      "utf8": "and according to that student's opinion, in Britain they use secondhand trading a lot,"
+    } ]
+  }, {
+    "tStartMs": 204320,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "for example, with clothes, about 80% of their wardrobe is secondhand, they said,"
+    } ]
+  }, {
+    "tStartMs": 211820,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and there are a lot of secondhand stores like that,"
+    } ]
+  }, {
+    "tStartMs": 217180,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "so they buy clothes often,"
+    } ]
+  }, {
+    "tStartMs": 221370,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "and after hearing that, what I thought was that Korean people..."
+    } ]
+  }, {
+    "tStartMs": 225280,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "don't seem to buy clothes secondhand very often,"
+    } ]
+  }, {
+    "tStartMs": 229270,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "but it seems like people are doing a lot of secondhand trading for other items these days."
+    } ]
+  }, {
+    "tStartMs": 234140,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "When I mentioned that Korean people seem to do a lot of secondhand trading,"
+    } ]
+  }, {
+    "tStartMs": 239740,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "I simply thought that because many people use Carrot Market,"
+    } ]
+  }, {
+    "tStartMs": 244210,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "it seemed like people do it a lot,"
+    } ]
+  }, {
+    "tStartMs": 246830,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "but hearing about the UK situation like that, it's definitely"
+    } ]
+  }, {
+    "tStartMs": 250020,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "beyond just this app—there are also many secondhand shops..."
+    } ]
+  }, {
+    "tStartMs": 253730,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 255310,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "It really does seem like there's a lot of it."
+    } ]
+  }, {
+    "tStartMs": 258620,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Do you personally use it a lot?"
+    } ]
+  }, {
+    "tStartMs": 260670,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "I use it quite a bit."
+    } ]
+  }, {
+    "tStartMs": 263330,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Have you bought anything recently?"
+    } ]
+  }, {
+    "tStartMs": 264860,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Recently..."
+    } ]
+  }, {
+    "tStartMs": 266210,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "It's been quite a while since I bought something recently,"
+    } ]
+  }, {
+    "tStartMs": 271090,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "but first of all, these clothes I'm wearing right now I bought on Carrot Market,"
+    } ]
+  }, {
+    "tStartMs": 276790,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 278240,
+    "dDurationMs": 9080,
+    "segs": [ {
+      "utf8": "Yes, and the black leather jacket I wore in the last Yomojomo episode, I bought that on Carrot Market too."
+    } ]
+  }, {
+    "tStartMs": 287320,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "You buy a lot of clothes—what about you, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 289620,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Yes, I buy a lot."
+    } ]
+  }, {
+    "tStartMs": 290850,
+    "dDurationMs": 5940,
+    "segs": [ {
+      "utf8": "What is it? Is it vintage? Or do you tend to buy the clothes you want secondhand?"
+    } ]
+  }, {
+    "tStartMs": 296790,
+    "dDurationMs": 6350,
+    "segs": [ {
+      "utf8": "When I want something, I search for it on Carrot Market first."
+    } ]
+  }, {
+    "tStartMs": 303140,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "That's admirable."
+    } ]
+  }, {
+    "tStartMs": 305240,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "You should be saving like that!"
+    } ]
+  }, {
+    "tStartMs": 308420,
+    "dDurationMs": 10200,
+    "segs": [ {
+      "utf8": "Yes, that's actually... this is just my personal opinion,"
+    } ]
+  }, {
+    "tStartMs": 318620,
+    "dDurationMs": 7070,
+    "segs": [ {
+      "utf8": "but I think clothes and many items you buy in Korea"
+    } ]
+  }, {
+    "tStartMs": 325690,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "have quite a bit of markup in the price."
+    } ]
+  }, {
+    "tStartMs": 328420,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Yes, that could be."
+    } ]
+  }, {
+    "tStartMs": 330690,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "So the original price that's on the price tag of new clothes,"
+    } ]
+  }, {
+    "tStartMs": 335960,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "it feels like such a waste to pay that price."
+    } ]
+  }, {
+    "tStartMs": 340980,
+    "dDurationMs": 9550,
+    "segs": [ {
+      "utf8": "But then when you just buy new clothes and they don't fit you right,"
+    } ]
+  }, {
+    "tStartMs": 350530,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "or they're not your style, or these days you already have so many clothes"
+    } ]
+  }, {
+    "tStartMs": 355850,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "that there seem to be a lot of people selling them cheaply on Carrot."
+    } ]
+  }, {
+    "tStartMs": 361800,
+    "dDurationMs": 6870,
+    "segs": [ {
+      "utf8": "Yes, that's right, especially with those famous brand clothes, they show up in the secondhand market."
+    } ]
+  }, {
+    "tStartMs": 368670,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "So yes, I buy a lot."
+    } ]
+  }, {
+    "tStartMs": 377670,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "But then there are downsides too when you buy clothes through secondhand trading,"
+    } ]
+  }, {
+    "tStartMs": 382570,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "for example, you try them on and you don't like them,"
+    } ]
+  }, {
+    "tStartMs": 384730,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "then you can't return them or anything like that, right?"
+    } ]
+  }, {
+    "tStartMs": 388510,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 389810,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Yes, do you buy carefully about that kind of thing?"
+    } ]
+  }, {
+    "tStartMs": 392630,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "There are definitely those downsides."
+    } ]
+  }, {
+    "tStartMs": 395780,
+    "dDurationMs": 8750,
+    "segs": [ {
+      "utf8": "So my standard when buying is, I don't buy clothes that are ambiguously cheap."
+    } ]
+  }, {
+    "tStartMs": 404530,
+    "dDurationMs": 9090,
+    "segs": [ {
+      "utf8": "So if the original price is, say, 400,000 won and it's 370,000 won secondhand?"
+    } ]
+  }, {
+    "tStartMs": 413620,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "I can buy it like that? Then I don't buy it."
+    } ]
+  }, {
+    "tStartMs": 418300,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Then I just buy new."
+    } ]
+  }, {
+    "tStartMs": 420060,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Yes, if that's the case you should buy new (—there's no merit)."
+    } ]
+  }, {
+    "tStartMs": 423860,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "So instead, if the original is 400,000 won and it's 250,000 won,"
+    } ]
+  }, {
+    "tStartMs": 429720,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "that's like 40%, 50%,"
+    } ]
+  }, {
+    "tStartMs": 433630,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "I buy it right away."
+    } ]
+  }, {
+    "tStartMs": 436180,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "Then even if it doesn't fit, I bought it cheap so... (it's okay?)"
+    } ]
+  }, {
+    "tStartMs": 441150,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "But I do check the size, haha."
+    } ]
+  }, {
+    "tStartMs": 444220,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "But when I try it on, it might not suit me, like the length or things like that."
+    } ]
+  }, {
+    "tStartMs": 448700,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "That can happen."
+    } ]
+  }, {
+    "tStartMs": 452510,
+    "dDurationMs": 7710,
+    "segs": [ {
+      "utf8": "So the length, like with pants, that's really important, right?"
+    } ]
+  }, {
+    "tStartMs": 460220,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 461120,
+    "dDurationMs": 7420,
+    "segs": [ {
+      "utf8": "But instead, with outer clothes like this, it seems okay to some extent."
+    } ]
+  }, {
+    "tStartMs": 468540,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "I see, good, good."
+    } ]
+  }, {
+    "tStartMs": 471330,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Yes, it's good, right?"
+    } ]
+  }, {
+    "tStartMs": 473420,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "I also bought a piece of clothing secondhand recently."
+    } ]
+  }, {
+    "tStartMs": 475970,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Where did you buy it?"
+    } ]
+  }, {
+    "tStartMs": 477060,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "I think I bought it on Bungaejangter."
+    } ]
+  }, {
+    "tStartMs": 481580,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "I also looked for the clothes I wanted... but I don't think there was that much merit for me."
+    } ]
+  }, {
+    "tStartMs": 486590,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "Still, it was new, so I bought it because it was selling so cheap."
+    } ]
+  }, {
+    "tStartMs": 492700,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "You bought something new?"
+    } ]
+  }, {
+    "tStartMs": 494140,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Received it without wearing it, but the tag was removed, that kind of clothes...?"
+    } ]
+  }, {
+    "tStartMs": 498980,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "Yes, but I noticed there are quite a lot of people selling clothes secondhand that are almost in like-new condition."
+    } ]
+  }, {
+    "tStartMs": 506500,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "One of the reasons Korean people don't buy secondhand clothes much is"
+    } ]
+  }, {
+    "tStartMs": 511480,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "It could be clothes that a dead person wore."
+    } ]
+  }, {
+    "tStartMs": 515360,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Have you ever heard stories like this?"
+    } ]
+  }, {
+    "tStartMs": 517320,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "Like, I bought secondhand clothes and there was blood on them..."
+    } ]
+  }, {
+    "tStartMs": 523760,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "There were a lot of things like that."
+    } ]
+  }, {
+    "tStartMs": 526690,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "Oh, I'd like to have clothes like that."
+    } ]
+  }, {
+    "tStartMs": 529310,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Huh? Why?"
+    } ]
+  }, {
+    "tStartMs": 533160,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "Ah, it seems like I could get some kind of third-party power from it."
+    } ]
+  }, {
+    "tStartMs": 539530,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Ah, it depends on how you think about it."
+    } ]
+  }, {
+    "tStartMs": 542220,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "People usually think of it as inauspicious, especially the older generation."
+    } ]
+  }, {
+    "tStartMs": 546890,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "Ah, that's right."
+    } ]
+  }, {
+    "tStartMs": 547710,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "The mother's generation."
+    } ]
+  }, {
+    "tStartMs": 550350,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "I got scolded a lot whenever I'd buy vintage clothes like that."
+    } ]
+  }, {
+    "tStartMs": 553640,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "My mom would say \"Please just buy new clothes!\""
+    } ]
+  }, {
+    "tStartMs": 559420,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 561720,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "I met with Didi last year or so and filmed a podcast."
+    } ]
+  }, {
+    "tStartMs": 568700,
+    "dDurationMs": 9320,
+    "segs": [ {
+      "utf8": "You wore a two-button jacket or something like that, a classic jacket set."
+    } ]
+  }, {
+    "tStartMs": 578020,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "But when you look inside the chest of it,"
+    } ]
+  }, {
+    "tStartMs": 582290,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "It says 'M. Kobayashi'."
+    } ]
+  }, {
+    "tStartMs": 584480,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "What's that?"
+    } ]
+  }, {
+    "tStartMs": 585470,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So it was worn by a Japanese person."
+    } ]
+  }, {
+    "tStartMs": 588470,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 588990,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "So that clothes is also secondhand."
+    } ]
+  }, {
+    "tStartMs": 591310,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 592160,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "But it was a custom-made suit."
+    } ]
+  }, {
+    "tStartMs": 595250,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Ah, so that's his name?"
+    } ]
+  }, {
+    "tStartMs": 598970,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 600310,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Wow! So it was Mr. Kobayashi's clothes."
+    } ]
+  }, {
+    "tStartMs": 602700,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "Yes, so whenever I wear it, I always"
+    } ]
+  }, {
+    "tStartMs": 606580,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "Think 'What kind of person was Kobayashi?'"
+    } ]
+  }, {
+    "tStartMs": 612040,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "And wear it."
+    } ]
+  }, {
+    "tStartMs": 613020,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "That's fun, that's fun."
+    } ]
+  }, {
+    "tStartMs": 614530,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong, do you sell things too?"
+    } ]
+  }, {
+    "tStartMs": 619060,
+    "dDurationMs": 8200,
+    "segs": [ {
+      "utf8": "I've sold a lot, and I've also done a lot of sharing."
+    } ]
+  }, {
+    "tStartMs": 627260,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Sharing, just giving it away for free?"
+    } ]
+  }, {
+    "tStartMs": 630180,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Yes, I just haven't used things for so long"
+    } ]
+  }, {
+    "tStartMs": 634020,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "When I want to get rid of items that are just taking up space,"
+    } ]
+  }, {
+    "tStartMs": 639810,
+    "dDurationMs": 6190,
+    "segs": [ {
+      "utf8": "But now there are a lot of times when I can't just easily throw those things away."
+    } ]
+  }, {
+    "tStartMs": 646000,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "You have to pay to throw them away?"
+    } ]
+  }, {
+    "tStartMs": 647690,
+    "dDurationMs": 7250,
+    "segs": [ {
+      "utf8": "Yeah, like a broken monitor,"
+    } ]
+  }, {
+    "tStartMs": 654940,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Binoculars I bought when I was young,"
+    } ]
+  }, {
+    "tStartMs": 659580,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "Or a big wooden cabinet that's been in the house since long ago,"
+    } ]
+  }, {
+    "tStartMs": 665710,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 667230,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Those are all things I've shared."
+    } ]
+  }, {
+    "tStartMs": 671030,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Yes, it's difficult to just throw those things away in Korea."
+    } ]
+  }, {
+    "tStartMs": 675660,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "You can't just throw them on the street."
+    } ]
+  }, {
+    "tStartMs": 678140,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "That's right, you have to pay."
+    } ]
+  }, {
+    "tStartMs": 680360,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 682080,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "So I share it on apps like Carrot Market."
+    } ]
+  }, {
+    "tStartMs": 686870,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "'Please take it for free.'"
+    } ]
+  }, {
+    "tStartMs": 688970,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "'But you have to come to our front door and pick it up.'"
+    } ]
+  }, {
+    "tStartMs": 695260,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Ah, I see, I see."
+    } ]
+  }, {
+    "tStartMs": 696970,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "If you post it for sharing like that, do people pick it up pretty quickly?"
+    } ]
+  }, {
+    "tStartMs": 700770,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Really, as soon as I post it..."
+    } ]
+  }, {
+    "tStartMs": 703910,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 705800,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "I get messages like 'Please give it to me, I'll use it well.'"
+    } ]
+  }, {
+    "tStartMs": 710470,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "But they have a kind heart."
+    } ]
+  }, {
+    "tStartMs": 712230,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "There are people who sell it for 1,000 won or 2,000 won,"
+    } ]
+  }, {
+    "tStartMs": 716400,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "but they just share it cleanly."
+    } ]
+  }, {
+    "tStartMs": 720100,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "When it's 1,000 won or 2,000 won, people don't buy it."
+    } ]
+  }, {
+    "tStartMs": 723300,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Oh right, right."
+    } ]
+  }, {
+    "tStartMs": 725470,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 726490,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "That's already really cheap."
+    } ]
+  }, {
+    "tStartMs": 728740,
+    "dDurationMs": 7770,
+    "segs": [ {
+      "utf8": "Right, anyway... I sold a lot of them,"
+    } ]
+  }, {
+    "tStartMs": 736510,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "and at some point I set a price,"
+    } ]
+  }, {
+    "tStartMs": 740750,
+    "dDurationMs": 8530,
+    "segs": [ {
+      "utf8": "but people would contact me saying things like \"Can you take off 2,000 won?\" and it got annoying,"
+    } ]
+  }, {
+    "tStartMs": 749280,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "so I think I've been sharing a lot recently."
+    } ]
+  }, {
+    "tStartMs": 752670,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "So you use it by either buying or sharing like this."
+    } ]
+  }, {
+    "tStartMs": 757150,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 758060,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "I buy a lot of devices secondhand rather than clothes."
+    } ]
+  }, {
+    "tStartMs": 764430,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 765060,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "I feel like it's a waste to buy devices at full price."
+    } ]
+  }, {
+    "tStartMs": 770820,
+    "dDurationMs": 8120,
+    "segs": [ {
+      "utf8": "And with devices, it feels like there's no problem even if someone else used them before?"
+    } ]
+  }, {
+    "tStartMs": 778940,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "For example, with clothes, they can get stained as you wear them,"
+    } ]
+  }, {
+    "tStartMs": 783810,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "and you don't know what defects might be there."
+    } ]
+  }, {
+    "tStartMs": 786560,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "But with devices like this, I don't really mind a few scratches or so,"
+    } ]
+  }, {
+    "tStartMs": 792180,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "so I mainly buy devices, and when I first started this podcast,"
+    } ]
+  }, {
+    "tStartMs": 796230,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "I bought a microphone secondhand and lighting secondhand,"
+    } ]
+  }, {
+    "tStartMs": 800790,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "and a monitor secondhand, things like that."
+    } ]
+  }, {
+    "tStartMs": 806410,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "That makes sense."
+    } ]
+  }, {
+    "tStartMs": 807560,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "Do you remember the last device you bought?"
+    } ]
+  }, {
+    "tStartMs": 812170,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "Rather than the last device I bought, there's a device with quite a story to it,"
+    } ]
+  }, {
+    "tStartMs": 817870,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "and one of the big downsides of secondhand trading"
+    } ]
+  }, {
+    "tStartMs": 820900,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "is that you can get scammed, right?"
+    } ]
+  }, {
+    "tStartMs": 826420,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "You arrange to trade with someone and send them money,"
+    } ]
+  }, {
+    "tStartMs": 830300,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "and that person can suddenly disappear."
+    } ]
+  }, {
+    "tStartMs": 834620,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "Now there are a lot of safety features in apps,"
+    } ]
+  }, {
+    "tStartMs": 839450,
+    "dDurationMs": 8430,
+    "segs": [ {
+      "utf8": "but two years ago, I contacted someone about an audio interface, the thing that records microphone input, and tried to buy it,"
+    } ]
+  }, {
+    "tStartMs": 847880,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "and I remember that person disappeared."
+    } ]
+  }, {
+    "tStartMs": 850690,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "Where was it? Joonggonara? Or Danggeun Market?"
+    } ]
+  }, {
+    "tStartMs": 854600,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "It was a Naver Cafe for me,"
+    } ]
+  }, {
+    "tStartMs": 858270,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "not one of those specialized secondhand shops,"
+    } ]
+  }, {
+    "tStartMs": 860840,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "it was an audio interface specialist cafe."
+    } ]
+  }, {
+    "tStartMs": 867400,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "So it wasn't a secondhand trading platform, but rather a cafe where audio equipment people gather,"
+    } ]
+  }, {
+    "tStartMs": 874220,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "and they do trade there too."
+    } ]
+  }, {
+    "tStartMs": 876480,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Yes, like Mule?"
+    } ]
+  }, {
+    "tStartMs": 877990,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "No, it was a Naver Cafe... I don't know the name either."
+    } ]
+  }, {
+    "tStartMs": 882820,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "I found it and the person looked trustworthy,"
+    } ]
+  }, {
+    "tStartMs": 887170,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "and there were a lot of completed transactions in their posts..."
+    } ]
+  }, {
+    "tStartMs": 892210,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "so I thought it would be fine and made the payment."
+    } ]
+  }, {
+    "tStartMs": 896230,
+    "dDurationMs": 7890,
+    "segs": [ {
+      "utf8": "I paid around lunchtime, but suddenly they didn't respond in the evening and disappeared."
+    } ]
+  }, {
+    "tStartMs": 904120,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Wow, that's a really bad person."
+    } ]
+  }, {
+    "tStartMs": 905950,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "And since it's equipment,"
+    } ]
+  }, {
+    "tStartMs": 909110,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "it was close to 200,000 won."
+    } ]
+  }, {
+    "tStartMs": 911260,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 912250,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "But then that person suddenly disappeared..."
+    } ]
+  }, {
+    "tStartMs": 914460,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Wow, that's too much."
+    } ]
+  }, {
+    "tStartMs": 915980,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "But fortunately, I got that money back."
+    } ]
+  }, {
+    "tStartMs": 919040,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "You got it back?"
+    } ]
+  }, {
+    "tStartMs": 920050,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 920610,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "How?"
+    } ]
+  }, {
+    "tStartMs": 921470,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I... this is a tip,"
+    } ]
+  }, {
+    "tStartMs": 923180,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "and later when you do secondhand trading, it's not an ad, but"
+    } ]
+  }, {
+    "tStartMs": 927230,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "if you use Toss,"
+    } ]
+  }, {
+    "tStartMs": 929430,
+    "dDurationMs": 6490,
+    "segs": [ {
+      "utf8": "Toss has a secondhand trading peace-of-mind transaction or insurance or something like that,"
+    } ]
+  }, {
+    "tStartMs": 935920,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "so if you send money to that person using Toss Bank,"
+    } ]
+  }, {
+    "tStartMs": 941340,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Toss will refund up to 500,000 won."
+    } ]
+  }, {
+    "tStartMs": 945600,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "If I get scammed,"
+    } ]
+  }, {
+    "tStartMs": 948060,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 949700,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "So I received it from Toss."
+    } ]
+  }, {
+    "tStartMs": 952240,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "That's really a good method."
+    } ]
+  }, {
+    "tStartMs": 954150,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Right, just in case, when you send money,"
+    } ]
+  }, {
+    "tStartMs": 958220,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "Using Toss seems like a good safety measure."
+    } ]
+  }, {
+    "tStartMs": 962530,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "I hope that scammer goes to jail."
+    } ]
+  }, {
+    "tStartMs": 966390,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "Exactly, there were many others besides me that person scammed."
+    } ]
+  }, {
+    "tStartMs": 970740,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "I had to go to the police station and report it."
+    } ]
+  }, {
+    "tStartMs": 975670,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "With that person's transaction information and things like that..."
+    } ]
+  }, {
+    "tStartMs": 978730,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Then the police station tells you the process to some extent."
+    } ]
+  }, {
+    "tStartMs": 982470,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "What happened to this person and how it was handled and things like that."
+    } ]
+  }, {
+    "tStartMs": 986430,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I think I received it through text or something."
+    } ]
+  }, {
+    "tStartMs": 989310,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "There were some other reports filed against that person besides mine."
+    } ]
+  }, {
+    "tStartMs": 994790,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "Ah, they should have caught them like that, I'm not sure why they didn't."
+    } ]
+  }, {
+    "tStartMs": 998640,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "They must have caught them, exactly."
+    } ]
+  }, {
+    "tStartMs": 1000110,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "They must have caught them."
+    } ]
+  }, {
+    "tStartMs": 1001280,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "There are such risks, but because there are so many advantages,"
+    } ]
+  }, {
+    "tStartMs": 1008100,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It seems like people end up using it frequently."
+    } ]
+  }, {
+    "tStartMs": 1010380,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "We've been talking about 'Carrot' from the beginning,"
+    } ]
+  }, {
+    "tStartMs": 1013180,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "And talking about things like 'Bungaejangter',"
+    } ]
+  }, {
+    "tStartMs": 1016480,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "I think it would be good to talk a bit about secondhand trading platforms that are widely used in Korea."
+    } ]
+  }, {
+    "tStartMs": 1021560,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Is there anything that comes to mind as representative?"
+    } ]
+  }, {
+    "tStartMs": 1025200,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "I think Carrot Market, which we've been talking about so far, seems like the most representative."
+    } ]
+  }, {
+    "tStartMs": 1029800,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "And before Carrot Market,"
+    } ]
+  }, {
+    "tStartMs": 1032430,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "Naver has cafes, right?"
+    } ]
+  }, {
+    "tStartMs": 1037830,
+    "dDurationMs": 7740,
+    "segs": [ {
+      "utf8": "Among those Naver cafes, there was a very representative secondhand trading cafe called 'Joonggo Nara'."
+    } ]
+  }, {
+    "tStartMs": 1045570,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1046400,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "Yes, I only know these two places well."
+    } ]
+  }, {
+    "tStartMs": 1052170,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Yes, and the one you mentioned, Didi (- Bungaejangter)"
+    } ]
+  }, {
+    "tStartMs": 1056330,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Bungaejang."
+    } ]
+  }, {
+    "tStartMs": 1057270,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "I don't really know the difference between Joonggo Nara and Bungaejangter, what's specifically different about the two."
+    } ]
+  }, {
+    "tStartMs": 1064440,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "But I haven't used Joonggo Nara recently so I'm not sure,"
+    } ]
+  }, {
+    "tStartMs": 1068160,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "But Bungaejangter seems to have safe transactions set up pretty well."
+    } ]
+  }, {
+    "tStartMs": 1073570,
+    "dDurationMs": 8520,
+    "segs": [ {
+      "utf8": "So Bungaejangter plays the role of holding the money in the middle."
+    } ]
+  }, {
+    "tStartMs": 1082090,
+    "dDurationMs": 8500,
+    "segs": [ {
+      "utf8": "That's nice, so if someone commits fraud and the buyer doesn't receive the item properly,"
+    } ]
+  }, {
+    "tStartMs": 1090590,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "They can get their money back through Bungaejangter."
+    } ]
+  }, {
+    "tStartMs": 1094170,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Right, right, right, that's correct."
+    } ]
+  }, {
+    "tStartMs": 1096610,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "Those kinds of systems are in place,"
+    } ]
+  }, {
+    "tStartMs": 1099280,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "Carrot Market seems like a pretty unique platform."
+    } ]
+  }, {
+    "tStartMs": 1103710,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Yes, Bungaejangter and Joonggo Nara are just buying and selling online like that,"
+    } ]
+  }, {
+    "tStartMs": 1107880,
+    "dDurationMs": 6830,
+    "segs": [ {
+      "utf8": "But Carrot Market's key differentiator is that, right?"
+    } ]
+  }, {
+    "tStartMs": 1114710,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Trading in your neighborhood."
+    } ]
+  }, {
+    "tStartMs": 1116710,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "Direct trading, meeting in person to trade—that's what Carrot Market is."
+    } ]
+  }, {
+    "tStartMs": 1122750,
+    "dDurationMs": 9060,
+    "segs": [ {
+      "utf8": "I think that's why it surpassed the previously most popular Joonggo Nara and"
+    } ]
+  }, {
+    "tStartMs": 1131810,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "Became the service people think of as representative for secondhand trading."
+    } ]
+  }, {
+    "tStartMs": 1137600,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "Ah, so Carrot Market targets neighborhoods?"
+    } ]
+  }, {
+    "tStartMs": 1140790,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Yes yes, because you can trade directly."
+    } ]
+  }, {
+    "tStartMs": 1143480,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "Ah, and it's safer too."
+    } ]
+  }, {
+    "tStartMs": 1146370,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Yes yes."
+    } ]
+  }, {
+    "tStartMs": 1148450,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "What are the other advantages of direct trading?"
+    } ]
+  }, {
+    "tStartMs": 1150570,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "It's safe and you can't commit fraud,"
+    } ]
+  }, {
+    "tStartMs": 1155260,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "In the case of Joonggo Nara,"
+    } ]
+  }, {
+    "tStartMs": 1158720,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "There are so many people buying and selling, right?"
+    } ]
+  }, {
+    "tStartMs": 1163450,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "So there are really a lot of items being sold,"
+    } ]
+  }, {
+    "tStartMs": 1168670,
+    "dDurationMs": 5980,
+    "segs": [ {
+      "utf8": "And the way you divide them is by the category of the item, right?"
+    } ]
+  }, {
+    "tStartMs": 1174650,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "So for example, I want to buy a microphone."
+    } ]
+  }, {
+    "tStartMs": 1179020,
+    "dDurationMs": 7890,
+    "segs": [ {
+      "utf8": "Then if I go into the microphone category in that Joonggo Nara cafe, microphones come up all over the place."
+    } ]
+  }, {
+    "tStartMs": 1186910,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But from there, I'm looking for someone to do a direct trade with,"
+    } ]
+  }, {
+    "tStartMs": 1191910,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "In those cases, you have to check each one individually."
+    } ]
+  }, {
+    "tStartMs": 1195710,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "When you want to do direct transactions, it's hard to find them."
+    } ]
+  }, {
+    "tStartMs": 1198750,
+    "dDurationMs": 7950,
+    "segs": [ {
+      "utf8": "People prefer direct transactions because you can check the condition, and that's why they want to do it."
+    } ]
+  }, {
+    "tStartMs": 1206700,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Was it hard to find things on Bungna Jangter or Joonggo Nara?"
+    } ]
+  }, {
+    "tStartMs": 1211060,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "Yes, and related to that,"
+    } ]
+  }, {
+    "tStartMs": 1216860,
+    "dDurationMs": 6950,
+    "segs": [ {
+      "utf8": "Is there another really big advantage? An advantage of Carrot Market?"
+    } ]
+  }, {
+    "tStartMs": 1223810,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "Or I think there's a success factor."
+    } ]
+  }, {
+    "tStartMs": 1228140,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "More than always buying things,"
+    } ]
+  }, {
+    "tStartMs": 1233650,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "Looking for things to buy is the most fun."
+    } ]
+  }, {
+    "tStartMs": 1238740,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "I know what you mean."
+    } ]
+  }, {
+    "tStartMs": 1241130,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "But Joonggo Nara has such a wide range of categories,"
+    } ]
+  }, {
+    "tStartMs": 1244320,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "You have to think of a specific category to navigate and find things,"
+    } ]
+  }, {
+    "tStartMs": 1248290,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "But with Carrot Market, you can just look around your neighborhood and see if there's anything to buy,"
+    } ]
+  }, {
+    "tStartMs": 1252460,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "You can just browse."
+    } ]
+  }, {
+    "tStartMs": 1254760,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "It's kind of that feeling."
+    } ]
+  }, {
+    "tStartMs": 1256440,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Like a prop shop, you just end up going in for no reason."
+    } ]
+  }, {
+    "tStartMs": 1259920,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Like, \"Is there anything to buy?\""
+    } ]
+  }, {
+    "tStartMs": 1262100,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "Even if you don't want to buy anything, you go just to look around."
+    } ]
+  }, {
+    "tStartMs": 1265600,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1267720,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "Once you go into Carrot Market, you end up looking for a while."
+    } ]
+  }, {
+    "tStartMs": 1273060,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1274180,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "And these days, Carrot Market has this too."
+    } ]
+  }, {
+    "tStartMs": 1277360,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "They're leveraging this thing called neighborhood transactions,"
+    } ]
+  }, {
+    "tStartMs": 1280570,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And they seem to be trying many things that can be done in the neighborhood."
+    } ]
+  }, {
+    "tStartMs": 1285290,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "For example, they let you see and buy used cars in your neighborhood,"
+    } ]
+  }, {
+    "tStartMs": 1290780,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Or neighborhood part-time jobs,"
+    } ]
+  }, {
+    "tStartMs": 1294910,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "They let you find and look for part-time work opportunities,"
+    } ]
+  }, {
+    "tStartMs": 1300260,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "And these days, there are also meetups, neighborhood meetups that I see on Carrot."
+    } ]
+  }, {
+    "tStartMs": 1305470,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1307300,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "My friend and I did this on Carrot Market,"
+    } ]
+  }, {
+    "tStartMs": 1312370,
+    "dDurationMs": 8060,
+    "segs": [ {
+      "utf8": "We posted an ad like \"Looking for people to do a board game meetup.\""
+    } ]
+  }, {
+    "tStartMs": 1320430,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "We said \"We do board game meetups, please contact us if you're interested,\""
+    } ]
+  }, {
+    "tStartMs": 1325370,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "But nobody contacted us..."
+    } ]
+  }, {
+    "tStartMs": 1327870,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Oh, you have to make that post a bit more fun."
+    } ]
+  }, {
+    "tStartMs": 1331970,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Oh, that's true."
+    } ]
+  }, {
+    "tStartMs": 1334350,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I think maybe we posted it too stiffly and coldly."
+    } ]
+  }, {
+    "tStartMs": 1338990,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "You posted it honestly."
+    } ]
+  }, {
+    "tStartMs": 1341380,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1342110,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "There's something that's trending these days, you know?"
+    } ]
+  }, {
+    "tStartMs": 1344670,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Have you seen the Cops and Robbers meetups?"
+    } ]
+  }, {
+    "tStartMs": 1347940,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Isn't Cops and Robbers a game we played when we were kids?"
+    } ]
+  }, {
+    "tStartMs": 1351570,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Right, there's a cop and there's a robber, and you run around and catch them, that kind of game."
+    } ]
+  }, {
+    "tStartMs": 1357570,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "That's trending on Carrot Market these days."
+    } ]
+  }, {
+    "tStartMs": 1361090,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1362760,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, do you not watch Reels much?"
+    } ]
+  }, {
+    "tStartMs": 1365670,
+    "dDurationMs": 520,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1366190,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Oh, when you scroll through Reels like this,"
+    } ]
+  }, {
+    "tStartMs": 1369090,
+    "dDurationMs": 7700,
+    "segs": [ {
+      "utf8": "You see videos like \"I did Cops and Robbers on Carrot Market today.\""
+    } ]
+  }, {
+    "tStartMs": 1376790,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "What that is, is just \"Today at such-and-such park, recruiting people for Cops and Robbers,\""
+    } ]
+  }, {
+    "tStartMs": 1383650,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Someone posts something like that."
+    } ]
+  }, {
+    "tStartMs": 1385920,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "Then about 20 adults or students gather,"
+    } ]
+  }, {
+    "tStartMs": 1391010,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "They're strangers, but for just 1 hour,"
+    } ]
+  }, {
+    "tStartMs": 1394280,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "2 hours, they just play that Cops and Robbers game and then part ways."
+    } ]
+  }, {
+    "tStartMs": 1398940,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "It's a one-time meetup, so people are having these kinds of gatherings,"
+    } ]
+  }, {
+    "tStartMs": 1403240,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "And they're feeling a bit tired from it."
+    } ]
+  }, {
+    "tStartMs": 1405690,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "I wanted to go running, or I'm lonely being alone,"
+    } ]
+  }, {
+    "tStartMs": 1411450,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "Like, people... how should I say it?"
+    } ]
+  }, {
+    "tStartMs": 1414070,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "They don't want to build deep relationships,"
+    } ]
+  }, {
+    "tStartMs": 1416320,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "They just want to play for a bit with that dopamine rush,"
+    } ]
+  }, {
+    "tStartMs": 1421910,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "It seems like those people are going now."
+    } ]
+  }, {
+    "tStartMs": 1427490,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Oh, that's really fun."
+    } ]
+  }, {
+    "tStartMs": 1430270,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Of course, you should search it up."
+    } ]
+  }, {
+    "tStartMs": 1432090,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "When it comes to cops and robbers, there are so many members."
+    } ]
+  }, {
+    "tStartMs": 1435360,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 1436320,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "There are quite a lot, aren't there?"
+    } ]
+  }, {
+    "tStartMs": 1437470,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Is it not just in Seoul?"
+    } ]
+  }, {
+    "tStartMs": 1439020,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "That's why I'm curious too."
+    } ]
+  }, {
+    "tStartMs": 1441920,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Don't you think there might be one in Busan?"
+    } ]
+  }, {
+    "tStartMs": 1444000,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "It doesn't seem like there would be, but does something like that exist?"
+    } ]
+  }, {
+    "tStartMs": 1446030,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "\"Looking for people to play cops and robbers at Haeundae.\""
+    } ]
+  }, {
+    "tStartMs": 1449700,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "It would be fun though (- while looking at Gwangalli...)"
+    } ]
+  }, {
+    "tStartMs": 1453540,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "I'm really confident I wouldn't get caught."
+    } ]
+  }, {
+    "tStartMs": 1458630,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Were you good at being \"it\"?"
+    } ]
+  }, {
+    "tStartMs": 1460510,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Being \"it\"?"
+    } ]
+  }, {
+    "tStartMs": 1462340,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Being \"it\" is the role where you run away, right?"
+    } ]
+  }, {
+    "tStartMs": 1464800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Huh? Is \"it\" the one who catches?"
+    } ]
+  }, {
+    "tStartMs": 1466000,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "No, \"it\" is the one who catches, right?"
+    } ]
+  }, {
+    "tStartMs": 1468070,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Oh, so \"it\" is the one who catches, and then you'd be good at playing the robber role?"
+    } ]
+  }, {
+    "tStartMs": 1471820,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1474110,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Oh, I want to try it."
+    } ]
+  }, {
+    "tStartMs": 1475010,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "Like this, whoosh whoosh!"
+    } ]
+  }, {
+    "tStartMs": 1478200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "Oh, I'm not confident..."
+    } ]
+  }, {
+    "tStartMs": 1482440,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "I'm confident."
+    } ]
+  }, {
+    "tStartMs": 1483910,
+    "dDurationMs": 650,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1484560,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "It would be fun to do cops and robbers with subscribers later too."
+    } ]
+  }, {
+    "tStartMs": 1488550,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Should we try it once?"
+    } ]
+  }, {
+    "tStartMs": 1489750,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "Uh, should we?"
+    } ]
+  }, {
+    "tStartMs": 1490620,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Play one round of board games, one round of Yut, and then"
+    } ]
+  }, {
+    "tStartMs": 1494010,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Cops and robbers, a game you play with your body."
+    } ]
+  }, {
+    "tStartMs": 1497220,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It seems like it would be so much fun."
+    } ]
+  }, {
+    "tStartMs": 1499740,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Let's plan it."
+    } ]
+  }, {
+    "tStartMs": 1500780,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Wow, that's great."
+    } ]
+  }, {
+    "tStartMs": 1502250,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1503940,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Since it's trending, how much has it been verified as fun?"
+    } ]
+  }, {
+    "tStartMs": 1507680,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "Well, so it's good, anyway yes."
+    } ]
+  }, {
+    "tStartMs": 1512750,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "So cops and robbers is trending on Carrot Market?"
+    } ]
+  }, {
+    "tStartMs": 1517700,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Yes ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1519490,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Wow, so they do things like that too."
+    } ]
+  }, {
+    "tStartMs": 1523170,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "That's right, it seems like beyond just meetups, new things keep being discovered like that."
+    } ]
+  }, {
+    "tStartMs": 1528130,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "So those kinds of meetups happen in the same neighborhood too?"
+    } ]
+  }, {
+    "tStartMs": 1532710,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "Right, in the same neighborhood, like we have famous parks in our neighborhood, you know?"
+    } ]
+  }, {
+    "tStartMs": 1538480,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "\"Looking for people to play cops and robbers at that park.\""
+    } ]
+  }, {
+    "tStartMs": 1541420,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "So it's possible to meet offline like this."
+    } ]
+  }, {
+    "tStartMs": 1544060,
+    "dDurationMs": 7090,
+    "segs": [ {
+      "utf8": "It's a shame, actually I wanted to"
+    } ]
+  }, {
+    "tStartMs": 1551150,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Either create a board game meetup in my neighborhood on Carrot Market,"
+    } ]
+  }, {
+    "tStartMs": 1554270,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "Or join another board game meetup, but unfortunately there weren't many."
+    } ]
+  }, {
+    "tStartMs": 1560850,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, are there not many in your neighborhood? Board game meetups?"
+    } ]
+  }, {
+    "tStartMs": 1563580,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "No, it was really a shame."
+    } ]
+  }, {
+    "tStartMs": 1567800,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "It's a shame, why is that?"
+    } ]
+  }, {
+    "tStartMs": 1570760,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Is it a neighborhood without many young people?"
+    } ]
+  }, {
+    "tStartMs": 1573280,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 1575070,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Then you should cherish the members you have, you know?"
+    } ]
+  }, {
+    "tStartMs": 1579580,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "They're all gone now."
+    } ]
+  }, {
+    "tStartMs": 1582220,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Really? Did they all get busy?"
+    } ]
+  }, {
+    "tStartMs": 1584730,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Yes, time..."
+    } ]
+  }, {
+    "tStartMs": 1586340,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "Everyone's busy with studying, working, housework..."
+    } ]
+  }, {
+    "tStartMs": 1591910,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "It's important, it's a shame."
+    } ]
+  }, {
+    "tStartMs": 1594240,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "So when we meet with subscribers"
+    } ]
+  }, {
+    "tStartMs": 1597310,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "We play board games like this once in a while."
+    } ]
+  }, {
+    "tStartMs": 1600340,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "That's good."
+    } ]
+  }, {
+    "tStartMs": 1601380,
+    "dDurationMs": 7300,
+    "segs": [ {
+      "utf8": "Then lastly, I'd like to introduce some second-hand trading terms for you."
+    } ]
+  }, {
+    "tStartMs": 1608680,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "So far in our conversation, we've mentioned 'direct transaction'."
+    } ]
+  }, {
+    "tStartMs": 1612970,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "That's when you meet in person and trade."
+    } ]
+  }, {
+    "tStartMs": 1614910,
+    "dDurationMs": 7500,
+    "segs": [ {
+      "utf8": "And then when making a trading agreement, there's another word that's used a lot."
+    } ]
+  }, {
+    "tStartMs": 1622410,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Like this, people send it first."
+    } ]
+  }, {
+    "tStartMs": 1624490,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "\"Is negotiation possible?\""
+    } ]
+  }, {
+    "tStartMs": 1627550,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "What does negotiation mean?"
+    } ]
+  }, {
+    "tStartMs": 1629170,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Negotiation!"
+    } ]
+  }, {
+    "tStartMs": 1630240,
+    "dDurationMs": 7620,
+    "segs": [ {
+      "utf8": "It's the Korean pronunciation of the English word 'negotiation', which is 'negotiation',"
+    } ]
+  }, {
+    "tStartMs": 1637860,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "and they take just the first two letters to call it 'nego'."
+    } ]
+  }, {
+    "tStartMs": 1643780,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "It means asking to lower the price a bit."
+    } ]
+  }, {
+    "tStartMs": 1647110,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "'Please do some negotiation.'"
+    } ]
+  }, {
+    "tStartMs": 1648980,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "'How much negotiation is possible?' Like this..."
+    } ]
+  }, {
+    "tStartMs": 1653580,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It sounds like such a funny word."
+    } ]
+  }, {
+    "tStartMs": 1655650,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "It sounds funny?"
+    } ]
+  }, {
+    "tStartMs": 1658220,
+    "dDurationMs": 6590,
+    "segs": [ {
+      "utf8": "Yes, so... I think English speakers would find it really interesting."
+    } ]
+  }, {
+    "tStartMs": 1664810,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Right, because it's negotiation."
+    } ]
+  }, {
+    "tStartMs": 1667100,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Right, negotiation possible? Like that."
+    } ]
+  }, {
+    "tStartMs": 1669490,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "Then it's like 'Can we nego?'"
+    } ]
+  }, {
+    "tStartMs": 1673690,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "That's pretty cool, isn't it? Or not?"
+    } ]
+  }, {
+    "tStartMs": 1675720,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "There could be some room for misunderstanding."
+    } ]
+  }, {
+    "tStartMs": 1680280,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "Neg! O!"
+    } ]
+  }, {
+    "tStartMs": 1684390,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "And asking to 'lower the price' is kind of... how do I put it? It looks cheap, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 1689660,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Doesn't it feel like it looks cheap?"
+    } ]
+  }, {
+    "tStartMs": 1692950,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "That's true too."
+    } ]
+  }, {
+    "tStartMs": 1694690,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1695260,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "So I think the word 'nego' sounds a bit strange to me."
+    } ]
+  }, {
+    "tStartMs": 1699190,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Why? Why?"
+    } ]
+  }, {
+    "tStartMs": 1700270,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "Well, you're asking for a discount."
+    } ]
+  }, {
+    "tStartMs": 1704430,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Huh? Why?"
+    } ]
+  }, {
+    "tStartMs": 1705630,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "Well, to the person selling..."
+    } ]
+  }, {
+    "tStartMs": 1709060,
+    "dDurationMs": 6350,
+    "segs": [ {
+      "utf8": "The seller has set a price they're going to sell at."
+    } ]
+  }, {
+    "tStartMs": 1715410,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "And I'm asking, 'Could I possibly buy it a little cheaper?'"
+    } ]
+  }, {
+    "tStartMs": 1722530,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1723710,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "So saying 'Can you lower it?' and"
+    } ]
+  }, {
+    "tStartMs": 1728460,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "'Is negotiation possible?'"
+    } ]
+  }, {
+    "tStartMs": 1731290,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1732650,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "The nuance seems different."
+    } ]
+  }, {
+    "tStartMs": 1734930,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Oh, that's right, you have to do the negotiation request well too, do it well."
+    } ]
+  }, {
+    "tStartMs": 1739790,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's correct."
+    } ]
+  }, {
+    "tStartMs": 1740790,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "If you just blurt it out like that, they don't want to trade."
+    } ]
+  }, {
+    "tStartMs": 1745410,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1747140,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Have you received any bad requests?"
+    } ]
+  }, {
+    "tStartMs": 1752340,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "It's hard to call it a bad request exactly."
+    } ]
+  }, {
+    "tStartMs": 1756930,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "It's just that I feel like I listed it cheaply enough."
+    } ]
+  }, {
+    "tStartMs": 1762500,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "But of course there are people who ask for a discount."
+    } ]
+  }, {
+    "tStartMs": 1765950,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1767260,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "But when you just send 'Is negotiation possible?' like that..."
+    } ]
+  }, {
+    "tStartMs": 1771060,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "Right away... it really hurts your feelings."
+    } ]
+  }, {
+    "tStartMs": 1775650,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Yes, like 'Did you just dump this on me?!' That kind of thought comes to mind."
+    } ]
+  }, {
+    "tStartMs": 1780440,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Wow, this is a different story, but 'Did you dump this on me?' that phrase."
+    } ]
+  }, {
+    "tStartMs": 1784760,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1785570,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "I think it's a perfect example of Busan dialect."
+    } ]
+  }, {
+    "tStartMs": 1790900,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1791780,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "Yes, it sounds really strong."
+    } ]
+  }, {
+    "tStartMs": 1796800,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Wait, the intonation just now wasn't even dialect, was it?"
+    } ]
+  }, {
+    "tStartMs": 1800630,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "It wasn't, but 'Did you dump this on me?!' sounds like that."
+    } ]
+  }, {
+    "tStartMs": 1805500,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1807900,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "That's interesting."
+    } ]
+  }, {
+    "tStartMs": 1810460,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "So instead of nego, I use the word 'takpo'."
+    } ]
+  }, {
+    "tStartMs": 1815640,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Do you know what \"taekpo\" is?"
+    } ]
+  }, {
+    "tStartMs": 1817040,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Taekpo? Shipping cost included?"
+    } ]
+  }, {
+    "tStartMs": 1818780,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1821090,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Would it be possible to do taekpo? Like this (the way I do it)."
+    } ]
+  }, {
+    "tStartMs": 1825810,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "When do you usually ask about that?"
+    } ]
+  }, {
+    "tStartMs": 1828910,
+    "dDurationMs": 8650,
+    "segs": [ {
+      "utf8": "When I'm buying, I'll say right away, \"I want to buy this right now—would taekpo be possible?\" like that."
+    } ]
+  }, {
+    "tStartMs": 1837560,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Shipping costs 3,000 won, 4,000 won,"
+    } ]
+  }, {
+    "tStartMs": 1839980,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "and some people will knock a little off that amount."
+    } ]
+  }, {
+    "tStartMs": 1845740,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Usually it seems like they do knock it off."
+    } ]
+  }, {
+    "tStartMs": 1847680,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 1849400,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "Instead of being annoying like that right away, asking \"How's the condition? What about this?\""
+    } ]
+  }, {
+    "tStartMs": 1852990,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Without asking stuff like that, I'll say \"I'm going to buy it right now—could you just knock off this much?\""
+    } ]
+  }, {
+    "tStartMs": 1856440,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "That kind of haggling is also part of the charm of secondhand transactions, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 1861220,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1864530,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "I sometimes ask for a discount too."
+    } ]
+  }, {
+    "tStartMs": 1867520,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But at first I don't ask."
+    } ]
+  }, {
+    "tStartMs": 1871520,
+    "dDurationMs": 8280,
+    "segs": [ {
+      "utf8": "So I don't have the expectation that I can get a discount in the first place."
+    } ]
+  }, {
+    "tStartMs": 1879800,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "I just say I'm going to buy it right away."
+    } ]
+  }, {
+    "tStartMs": 1883230,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "\"Is this still available? It hasn't sold yet? I'd like to buy it.\""
+    } ]
+  }, {
+    "tStartMs": 1888550,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Then they say, \"When do you have time? I'll come. Where should I go?\""
+    } ]
+  }, {
+    "tStartMs": 1892190,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "So I show a very polite side,"
+    } ]
+  }, {
+    "tStartMs": 1896540,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "and whatever they say, I just say \"Thank you, so where should I go?\""
+    } ]
+  }, {
+    "tStartMs": 1899460,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "\"Thank you, so what time should I come?\" like that..."
+    } ]
+  }, {
+    "tStartMs": 1902530,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "You're being obedient."
+    } ]
+  }, {
+    "tStartMs": 1904070,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "After building rapport like that,"
+    } ]
+  }, {
+    "tStartMs": 1907770,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "they think \"This is a good person\" and give you something,"
+    } ]
+  }, {
+    "tStartMs": 1910580,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "Right, right, and then once we've made all the plans and I'm about to go,"
+    } ]
+  }, {
+    "tStartMs": 1915150,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "I ask, \"If it's possible, could we do a small discount?\" like that. ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1919320,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "When you're about to go?"
+    } ]
+  }, {
+    "tStartMs": 1920510,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1924320,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "So how does that work? Does that method work well?"
+    } ]
+  }, {
+    "tStartMs": 1927620,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "But when I ask that,"
+    } ]
+  }, {
+    "tStartMs": 1930270,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "it's not like I'm desperately begging \"Please knock it off,\""
+    } ]
+  }, {
+    "tStartMs": 1933980,
+    "dDurationMs": 6710,
+    "segs": [ {
+      "utf8": "but more like, \"If it's possible to knock it off... is it possible?\" kind of thing."
+    } ]
+  }, {
+    "tStartMs": 1940690,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "And I say, \"It's okay if you don't knock it off.\""
+    } ]
+  }, {
+    "tStartMs": 1945560,
+    "dDurationMs": 8400,
+    "segs": [ {
+      "utf8": "Then with a really high probability, they'll say really pleasantly, \"Okay, then I'll give you this much of a discount.\""
+    } ]
+  }, {
+    "tStartMs": 1953960,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "\"I'll knock off the transportation cost,\" that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 1959130,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "Wow, that's smart—you're being very strategic."
+    } ]
+  }, {
+    "tStartMs": 1965400,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1966720,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "But after hearing that, I remembered a bad experience I had,"
+    } ]
+  }, {
+    "tStartMs": 1971620,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "and you're a really good case,"
+    } ]
+  }, {
+    "tStartMs": 1973370,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "but I had a bad case once,"
+    } ]
+  }, {
+    "tStartMs": 1977250,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "and I was the one selling."
+    } ]
+  }, {
+    "tStartMs": 1979040,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So we made plans to meet."
+    } ]
+  }, {
+    "tStartMs": 1980940,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "We didn't talk about negotiating or anything."
+    } ]
+  }, {
+    "tStartMs": 1983320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "But when we met and I was handing over the item, the price was, for example, 20,000 won."
+    } ]
+  }, {
+    "tStartMs": 1989240,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "And then that person only brought 18,000 won."
+    } ]
+  }, {
+    "tStartMs": 1995190,
+    "dDurationMs": 8970,
+    "segs": [ {
+      "utf8": "And I had written something like \"Price negotiable\" in the app options,"
+    } ]
+  }, {
+    "tStartMs": 2004160,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "but then they brought less money and met me,"
+    } ]
+  }, {
+    "tStartMs": 2008900,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "and said, \"It said negotiable right there,\""
+    } ]
+  }, {
+    "tStartMs": 2013270,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "saying they only brought that amount."
+    } ]
+  }, {
+    "tStartMs": 2018640,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "I was really... annoyed at that moment."
+    } ]
+  }, {
+    "tStartMs": 2022980,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Wow, there really are people like that..."
+    } ]
+  }, {
+    "tStartMs": 2026880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Isn't that crazy? ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2029880,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "I didn't even know that I had marked it as negotiable."
+    } ]
+  }, {
+    "tStartMs": 2033510,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "It seems like it was just automatically checked or something, but anyway, after seeing that,"
+    } ]
+  }, {
+    "tStartMs": 2038880,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "they decided on the price themselves and only brought that amount of money."
+    } ]
+  }, {
+    "tStartMs": 2045540,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "That's really ridiculous, right?"
+    } ]
+  }, {
+    "tStartMs": 2047900,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Was that person on Danggeun Market?"
+    } ]
+  }, {
+    "tStartMs": 2050040,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "It was Danggeun Market."
+    } ]
+  }, {
+    "tStartMs": 2051580,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "And what was that person's temperature?"
+    } ]
+  }, {
+    "tStartMs": 2054290,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "The temperature seemed fine, didn't it?"
+    } ]
+  }, {
+    "tStartMs": 2057760,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "I'm not sure."
+    } ]
+  }, {
+    "tStartMs": 2060520,
+    "dDurationMs": 7460,
+    "segs": [ {
+      "utf8": "By the way, on Carrot Market, people have a 'temperature' on their profile."
+    } ]
+  }, {
+    "tStartMs": 2067980,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "As you know, our human body temperature is said to be 36.5 degrees."
+    } ]
+  }, {
+    "tStartMs": 2072960,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "So that's our basic score, the basic score for a Carrot Market account."
+    } ]
+  }, {
+    "tStartMs": 2078750,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "The more you do secondhand transactions with people and receive good reviews,"
+    } ]
+  }, {
+    "tStartMs": 2083470,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "that temperature goes up."
+    } ]
+  }, {
+    "tStartMs": 2085470,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "You become a warmer person, right?"
+    } ]
+  }, {
+    "tStartMs": 2087140,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Yes, I'm around 40 degrees or so..."
+    } ]
+  }, {
+    "tStartMs": 2091460,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "But since I haven't used it in a long time, it might have dropped a bit."
+    } ]
+  }, {
+    "tStartMs": 2094090,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "I'll check and send you a screenshot."
+    } ]
+  }, {
+    "tStartMs": 2098100,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "I'm curious too, let me check for a moment."
+    } ]
+  }, {
+    "tStartMs": 2100250,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Okay, okay. ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2101980,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "It's not like 28 degrees or something, right? Huh?"
+    } ]
+  }, {
+    "tStartMs": 2106690,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "Mine is 39.2 degrees."
+    } ]
+  }, {
+    "tStartMs": 2109160,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "That's high."
+    } ]
+  }, {
+    "tStartMs": 2110110,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "It is, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 2110750,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "I'm also good."
+    } ]
+  }, {
+    "tStartMs": 2112560,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2114300,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "But on the flip side, if you receive a lot of bad reviews,"
+    } ]
+  }, {
+    "tStartMs": 2120100,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "that drops."
+    } ]
+  }, {
+    "tStartMs": 2121620,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "Right, right, right."
+    } ]
+  }, {
+    "tStartMs": 2124450,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "So if it's like 35 degrees, even though it's only a 1.5 degree difference, it feels a bit harsh, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 2132610,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "So it's important to check those things carefully."
+    } ]
+  }, {
+    "tStartMs": 2137050,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "I definitely check the items I sold before and the reviews before I buy."
+    } ]
+  }, {
+    "tStartMs": 2143520,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "What's the reason for that?"
+    } ]
+  }, {
+    "tStartMs": 2145670,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "It tells you whether this person is trustworthy or things like that, right?"
+    } ]
+  }, {
+    "tStartMs": 2149890,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2152370,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "There have been some ridiculous situations too."
+    } ]
+  }, {
+    "tStartMs": 2154410,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Wow, really, really..."
+    } ]
+  }, {
+    "tStartMs": 2156830,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "Punk, punk."
+    } ]
+  }, {
+    "tStartMs": 2158500,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "It's a type of person I've never seen before."
+    } ]
+  }, {
+    "tStartMs": 2164410,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "Anyway, there was this negotiation, delivery included, and things like that,"
+    } ]
+  }, {
+    "tStartMs": 2168740,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "and there's also a term called 'cool transaction.'"
+    } ]
+  }, {
+    "tStartMs": 2172350,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "Cool transaction."
+    } ]
+  }, {
+    "tStartMs": 2175330,
+    "dDurationMs": 7990,
+    "segs": [ {
+      "utf8": "People who like to just coolly not ask questions or haggle and say 'I'll buy it right away' like that,"
+    } ]
+  }, {
+    "tStartMs": 2183320,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "they write 'cool transaction welcome.'"
+    } ]
+  }, {
+    "tStartMs": 2186270,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "That's right, people who want to sell quickly without much fuss do that."
+    } ]
+  }, {
+    "tStartMs": 2191760,
+    "dDurationMs": 8970,
+    "segs": [ {
+      "utf8": "So the description text can be really efficient sometimes."
+    } ]
+  }, {
+    "tStartMs": 2200730,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "Like 'if cool transaction, delivery included, 50,000 won negotiable.'"
+    } ]
+  }, {
+    "tStartMs": 2205670,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "We've covered everything we talked about, right?"
+    } ]
+  }, {
+    "tStartMs": 2207370,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "That's right, we've covered everything we talked about."
+    } ]
+  }, {
+    "tStartMs": 2210080,
+    "dDurationMs": 6500,
+    "segs": [ {
+      "utf8": "It's like if you buy quickly, I'll give you a discount and I'll send it with delivery included..."
+    } ]
+  }, {
+    "tStartMs": 2216580,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "That's really specialized terminology."
+    } ]
+  }, {
+    "tStartMs": 2217920,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "If foreigners see it, they'd probably think 'what is this?'"
+    } ]
+  }, {
+    "tStartMs": 2221500,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2222750,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Oh, and if I tell you just one more thing about this,"
+    } ]
+  }, {
+    "tStartMs": 2225830,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "these days there's also a term called 'doorknob transaction.'"
+    } ]
+  }, {
+    "tStartMs": 2229150,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Doorknob transaction."
+    } ]
+  }, {
+    "tStartMs": 2230660,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "I've only heard about that."
+    } ]
+  }, {
+    "tStartMs": 2232950,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 2233900,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "What is that?"
+    } ]
+  }, {
+    "tStartMs": 2235100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "So what that is, when Teacher Tae-woong was sharing earlier,"
+    } ]
+  }, {
+    "tStartMs": 2239300,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "instead of giving it for free, you said come to the front of our house and take it, right?"
+    } ]
+  }, {
+    "tStartMs": 2244960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So doorknob means our house door, the handle,"
+    } ]
+  }, {
+    "tStartMs": 2248960,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "originally you would hang a paper bag or something on this handle"
+    } ]
+  }, {
+    "tStartMs": 2253070,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and that means you're doing the transaction that way,"
+    } ]
+  }, {
+    "tStartMs": 2255920,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "but you just leave it in front of the house."
+    } ]
+  }, {
+    "tStartMs": 2258690,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Without meeting, I'll leave it in front of my house so you can take it yourself."
+    } ]
+  }, {
+    "tStartMs": 2262370,
+    "dDurationMs": 6390,
+    "segs": [ {
+      "utf8": "We call it a \"doorknob transaction\" when someone just says \"send me the money\" like that."
+    } ]
+  }, {
+    "tStartMs": 2268760,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "Ah, but that could be a bit risky, couldn't it?"
+    } ]
+  }, {
+    "tStartMs": 2272740,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "That's right, I think so too."
+    } ]
+  }, {
+    "tStartMs": 2274640,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Your home address gets exposed, right?"
+    } ]
+  }, {
+    "tStartMs": 2276740,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "Yes, and that's one thing, but for me it wasn't a secondhand transaction."
+    } ]
+  }, {
+    "tStartMs": 2282170,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "Back when I was in Bangladesh, I had a large external hard drive at my place, an SSD?"
+    } ]
+  }, {
+    "tStartMs": 2288580,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "I had to give it to a friend."
+    } ]
+  }, {
+    "tStartMs": 2293600,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Ah, yes."
+    } ]
+  }, {
+    "tStartMs": 2294660,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "So since I was in Bangladesh,"
+    } ]
+  }, {
+    "tStartMs": 2298710,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "I asked my mom, I asked my mother,"
+    } ]
+  }, {
+    "tStartMs": 2302140,
+    "dDurationMs": 7970,
+    "segs": [ {
+      "utf8": "to take that external hard drive out of my drawer and put it in our mailbox."
+    } ]
+  }, {
+    "tStartMs": 2310110,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "And I told my friend to pick it up when passing by our house."
+    } ]
+  }, {
+    "tStartMs": 2314250,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But someone else took it."
+    } ]
+  }, {
+    "tStartMs": 2318250,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "What do we do, what was in there? Inside the external hard drive?"
+    } ]
+  }, {
+    "tStartMs": 2321700,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "There wasn't anything important."
+    } ]
+  }, {
+    "tStartMs": 2323860,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "Really, that's a relief."
+    } ]
+  }, {
+    "tStartMs": 2325890,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "At that time, I had installation files for programs I used when making music?"
+    } ]
+  }, {
+    "tStartMs": 2334050,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Things like that were just in there."
+    } ]
+  }, {
+    "tStartMs": 2337980,
+    "dDurationMs": 6100,
+    "segs": [ {
+      "utf8": "But since the notebook I had in Bangladesh didn't have those programs,"
+    } ]
+  }, {
+    "tStartMs": 2344080,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "I was going to ask my friend to extract them from the external hard drive and send them to me instead."
+    } ]
+  }, {
+    "tStartMs": 2349790,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "That..."
+    } ]
+  }, {
+    "tStartMs": 2351550,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "What, that's theft?"
+    } ]
+  }, {
+    "tStartMs": 2352800,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2355050,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Oh, I thought it was safe, but still, in Korea,"
+    } ]
+  }, {
+    "tStartMs": 2357760,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "I thought people wouldn't take things like that."
+    } ]
+  }, {
+    "tStartMs": 2360220,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 2362820,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Anyway, talking about doorknob transactions brings it to mind."
+    } ]
+  }, {
+    "tStartMs": 2366880,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "That's right, I think you really have to put it out right before they arrive or something like that."
+    } ]
+  }, {
+    "tStartMs": 2373480,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "Like, \"I'll arrive in a few minutes, so please take it out then.\""
+    } ]
+  }, {
+    "tStartMs": 2379540,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "We should be careful about this."
+    } ]
+  }, {
+    "tStartMs": 2381820,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2383520,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So we've talked about secondhand transactions up to here,"
+    } ]
+  }, {
+    "tStartMs": 2387560,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "and we're going to move on to the next segment."
+    } ]
+  }, {
+    "tStartMs": 2390980,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2394590,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "\u003cA Mini Game You Play by Speaking!\u003e"
+    } ]
+  }, {
+    "tStartMs": 2402580,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "This time it's also a mini game segment where you play by speaking,"
+    } ]
+  }, {
+    "tStartMs": 2405990,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "and today's game is a bit similar to last time."
+    } ]
+  }, {
+    "tStartMs": 2410420,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "It's a guessing game."
+    } ]
+  }, {
+    "tStartMs": 2413540,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "What we're going to guess is"
+    } ]
+  }, {
+    "tStartMs": 2415340,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "items that cannot be sold in secondhand transactions in Korea"
+    } ]
+  }, {
+    "tStartMs": 2419550,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "are legally determined."
+    } ]
+  }, {
+    "tStartMs": 2423320,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "So we'll take turns talking about one thing each,"
+    } ]
+  }, {
+    "tStartMs": 2428110,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and we'll talk about five things, five things."
+    } ]
+  }, {
+    "tStartMs": 2431230,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Each of us."
+    } ]
+  }, {
+    "tStartMs": 2433360,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "So whoever guesses more correct answers wins."
+    } ]
+  }, {
+    "tStartMs": 2438850,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "How does that sound?"
+    } ]
+  }, {
+    "tStartMs": 2439750,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "But five things... so should I think of five things ahead of time"
+    } ]
+  }, {
+    "tStartMs": 2444700,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "and just say them all at once?"
+    } ]
+  }, {
+    "tStartMs": 2446450,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "No, they can't overlap, you have to take turns one by one."
+    } ]
+  }, {
+    "tStartMs": 2448780,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Ah, I understand."
+    } ]
+  }, {
+    "tStartMs": 2450570,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "But if I'm being honest, I already know about one or two of them."
+    } ]
+  }, {
+    "tStartMs": 2455110,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "I saw them while looking things up."
+    } ]
+  }, {
+    "tStartMs": 2458410,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "So if I talk about it, first of all, alcohol and tobacco can't be sold."
+    } ]
+  }, {
+    "tStartMs": 2464030,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "You can't sell them in secondhand transactions."
+    } ]
+  }, {
+    "tStartMs": 2466750,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Even if they're completely new, you can't sell them."
+    } ]
+  }, {
+    "tStartMs": 2469750,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "And second, I found out that medicine doesn't work either."
+    } ]
+  }, {
+    "tStartMs": 2475280,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, medicine doesn't work, and, ah, that's three, three things."
+    } ]
+  }, {
+    "tStartMs": 2477280,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "One of the three is that pet trading is not allowed."
+    } ]
+  }, {
+    "tStartMs": 2482580,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Aren't those all of them then?"
+    } ]
+  }, {
+    "tStartMs": 2483990,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "No, no, there are a lot more."
+    } ]
+  }, {
+    "tStartMs": 2485520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "There were many other things besides this"
+    } ]
+  }, {
+    "tStartMs": 2489040,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Let's think about it—what wouldn't be allowed to sell?"
+    } ]
+  }, {
+    "tStartMs": 2493160,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "I just thought of something"
+    } ]
+  }, {
+    "tStartMs": 2495960,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2498230,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Weapons? Like guns?"
+    } ]
+  }, {
+    "tStartMs": 2501180,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Of course that wouldn't be allowed, right? ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2504900,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Yes, that wouldn't be allowed"
+    } ]
+  }, {
+    "tStartMs": 2506440,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "Weapons, weapons... right, that's not allowed"
+    } ]
+  }, {
+    "tStartMs": 2510270,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Well, then what..."
+    } ]
+  }, {
+    "tStartMs": 2513000,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "I'm thinking... people?"
+    } ]
+  }, {
+    "tStartMs": 2516250,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "People? Ah, but legally speaking..."
+    } ]
+  }, {
+    "tStartMs": 2520500,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So like adoption or something"
+    } ]
+  }, {
+    "tStartMs": 2524060,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Yes, that's right"
+    } ]
+  }, {
+    "tStartMs": 2525330,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "That kind of thing isn't allowed"
+    } ]
+  }, {
+    "tStartMs": 2526490,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "That wouldn't be allowed ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2531570,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "No country would allow that"
+    } ]
+  }, {
+    "tStartMs": 2534610,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "I just thought of something else"
+    } ]
+  }, {
+    "tStartMs": 2536230,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Oh, what is it?"
+    } ]
+  }, {
+    "tStartMs": 2537850,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I should tell you first, right?"
+    } ]
+  }, {
+    "tStartMs": 2539350,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 2540530,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "So you can get ideas—please tell me your idea first, Teacher Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 2543780,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2544890,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "There's something called Onnuri gift certificates"
+    } ]
+  }, {
+    "tStartMs": 2549050,
+    "dDurationMs": 9980,
+    "segs": [ {
+      "utf8": "They're like coupons you can use instead of money at places like traditional markets"
+    } ]
+  }, {
+    "tStartMs": 2559030,
+    "dDurationMs": 7980,
+    "segs": [ {
+      "utf8": "But with the same amount of money—for example, Onnuri gift certificates worth 500,000 won"
+    } ]
+  }, {
+    "tStartMs": 2567010,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "You can buy them at the bank for maybe 470,000 won? So a bit cheaper"
+    } ]
+  }, {
+    "tStartMs": 2572650,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "Even though it's the same 500,000 won"
+    } ]
+  }, {
+    "tStartMs": 2575390,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "But then that money can only be used at markets"
+    } ]
+  }, {
+    "tStartMs": 2580600,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "It's a system to get people to spend money at places like markets now"
+    } ]
+  }, {
+    "tStartMs": 2585680,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 2586790,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "But actually, that 500,000 won worth of money, the money that can be used at markets"
+    } ]
+  }, {
+    "tStartMs": 2590650,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "You can get it at the bank for several tens of thousands of won cheaper, right?"
+    } ]
+  }, {
+    "tStartMs": 2593890,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes, so those can't be sold through secondhand transactions"
+    } ]
+  }, {
+    "tStartMs": 2597890,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "Ah, oh, you already knew about that?"
+    } ]
+  }, {
+    "tStartMs": 2603140,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2604530,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Gift certificates, Onnuri gift certificates!"
+    } ]
+  }, {
+    "tStartMs": 2606660,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2608250,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Like Shinsegae gift certificates and stuff—those aren't allowed ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2611610,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "So all other gift certificates wouldn't be allowed either, right?"
+    } ]
+  }, {
+    "tStartMs": 2613440,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "That's right, that's right"
+    } ]
+  }, {
+    "tStartMs": 2614790,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Gift certificates aren't allowed"
+    } ]
+  }, {
+    "tStartMs": 2616890,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Can I talk about what I thought of?"
+    } ]
+  }, {
+    "tStartMs": 2618720,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 2619780,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Lottery, lottery"
+    } ]
+  }, {
+    "tStartMs": 2622650,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "It doesn't seem like it would be allowed—now that you mention lottery"
+    } ]
+  }, {
+    "tStartMs": 2626160,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "It seems like that's the case, you're right"
+    } ]
+  }, {
+    "tStartMs": 2629270,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "It doesn't seem like you can trade it"
+    } ]
+  }, {
+    "tStartMs": 2631390,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "I think there are legally designated places where you can sell things like that"
+    } ]
+  }, {
+    "tStartMs": 2634580,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Like lottery tickets"
+    } ]
+  }, {
+    "tStartMs": 2635750,
+    "dDurationMs": 4620,
+    "segs": [ {
+      "utf8": "Hmm, that seems right"
+    } ]
+  }, {
+    "tStartMs": 2640370,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "Then I'm thinking... homemade food"
+    } ]
+  }, {
+    "tStartMs": 2647430,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2648280,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "It doesn't seem like it would be allowed?"
+    } ]
+  }, {
+    "tStartMs": 2652740,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Doesn't it seem like it wouldn't be allowed?"
+    } ]
+  }, {
+    "tStartMs": 2654260,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Because there could be something strange in it"
+    } ]
+  }, {
+    "tStartMs": 2656950,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "That's right"
+    } ]
+  }, {
+    "tStartMs": 2658230,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "If someone eats it and gets food poisoning..."
+    } ]
+  }, {
+    "tStartMs": 2661430,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "You can't take responsibility"
+    } ]
+  }, {
+    "tStartMs": 2662960,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Right, right"
+    } ]
+  }, {
+    "tStartMs": 2663690,
+    "dDurationMs": 7510,
+    "segs": [ {
+      "utf8": "So for example, 'I made 60 Dubai chewy cookies' or 'Actually, part of'"
+    } ]
+  }, {
+    "tStartMs": 2671200,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "That won't work."
+    } ]
+  }, {
+    "tStartMs": 2671620,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "You can't do it this way."
+    } ]
+  }, {
+    "tStartMs": 2673330,
+    "dDurationMs": 6910,
+    "segs": [ {
+      "utf8": "So that restaurant, only people with that certification can sell food, right?"
+    } ]
+  }, {
+    "tStartMs": 2680240,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Don't you think so? That's what I think."
+    } ]
+  }, {
+    "tStartMs": 2682010,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Oh..."
+    } ]
+  }, {
+    "tStartMs": 2684150,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, did you come up with three just now?"
+    } ]
+  }, {
+    "tStartMs": 2687770,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋㅋ Yeah, humans..."
+    } ]
+  }, {
+    "tStartMs": 2691440,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "Humans, gift certificates, and homemade food."
+    } ]
+  }, {
+    "tStartMs": 2694930,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2697080,
+    "dDurationMs": 7600,
+    "segs": [ {
+      "utf8": "I have lottery tickets, guns, and..."
+    } ]
+  }, {
+    "tStartMs": 2704680,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Oh, things like that."
+    } ]
+  }, {
+    "tStartMs": 2705910,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "Adult content."
+    } ]
+  }, {
+    "tStartMs": 2707610,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Oh, that won't work either."
+    } ]
+  }, {
+    "tStartMs": 2709490,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 2710220,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2711400,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "I thought about things that only people 19 and over can buy."
+    } ]
+  }, {
+    "tStartMs": 2716500,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Right, right, so that wouldn't work."
+    } ]
+  }, {
+    "tStartMs": 2718290,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2719540,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "Like, adult magazines (- magazines or...)"
+    } ]
+  }, {
+    "tStartMs": 2724890,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "For me."
+    } ]
+  }, {
+    "tStartMs": 2725880,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2726840,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "Online course vouchers."
+    } ]
+  }, {
+    "tStartMs": 2729820,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "Huh? Course vouchers?"
+    } ]
+  }, {
+    "tStartMs": 2733430,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I got course vouchers, and I have tickets."
+    } ]
+  }, {
+    "tStartMs": 2736950,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Huh? Tickets don't work?"
+    } ]
+  }, {
+    "tStartMs": 2739350,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "You know, like scalped tickets."
+    } ]
+  }, {
+    "tStartMs": 2742010,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Huh? Tickets don't work?"
+    } ]
+  }, {
+    "tStartMs": 2743660,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "They don't work, right? Isn't it illegal?"
+    } ]
+  }, {
+    "tStartMs": 2745720,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Really? I see them sold a lot."
+    } ]
+  }, {
+    "tStartMs": 2747530,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "They do sell a lot, but it's not allowed, you know, originally."
+    } ]
+  }, {
+    "tStartMs": 2752180,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Isn't that why concerts get cancelled and stuff?"
+    } ]
+  }, {
+    "tStartMs": 2755800,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "Because there's so much scalping going on."
+    } ]
+  }, {
+    "tStartMs": 2757860,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2759130,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "I'm not sure of the exact criteria, but like, tickets?"
+    } ]
+  }, {
+    "tStartMs": 2762270,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "You can't sell tickets that you're told not to sell, right?"
+    } ]
+  }, {
+    "tStartMs": 2767910,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2769020,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2770360,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Yeah, that's right."
+    } ]
+  }, {
+    "tStartMs": 2772170,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "Oh, what about that?"
+    } ]
+  }, {
+    "tStartMs": 2775230,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Cash?"
+    } ]
+  }, {
+    "tStartMs": 2777220,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Cash?"
+    } ]
+  }, {
+    "tStartMs": 2778540,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "Like, people sell currency exchange on secondhand sites."
+    } ]
+  }, {
+    "tStartMs": 2783430,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Selling yen and stuff like that."
+    } ]
+  }, {
+    "tStartMs": 2786150,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "Can't you do that? I've seen it a lot."
+    } ]
+  }, {
+    "tStartMs": 2790050,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "It seems like you shouldn't be able to."
+    } ]
+  }, {
+    "tStartMs": 2791350,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Oh, it seems like you can't."
+    } ]
+  }, {
+    "tStartMs": 2793090,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "Or like, gold, currency, valuables..."
+    } ]
+  }, {
+    "tStartMs": 2796500,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "I'm not sure, but I should check."
+    } ]
+  }, {
+    "tStartMs": 2798580,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "With that?"
+    } ]
+  }, {
+    "tStartMs": 2799410,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Oh, should I do yen? Or gold?"
+    } ]
+  }, {
+    "tStartMs": 2803550,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Gold!"
+    } ]
+  }, {
+    "tStartMs": 2807670,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "It's not medicine, but are vitamins okay?"
+    } ]
+  }, {
+    "tStartMs": 2811740,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "With vitamins?"
+    } ]
+  }, {
+    "tStartMs": 2812760,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2814150,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Okay, then let me look that up now."
+    } ]
+  }, {
+    "tStartMs": 2817810,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "Should we go by Carrot's trading standards?"
+    } ]
+  }, {
+    "tStartMs": 2820270,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "It's posted as a notice on Carrot Market."
+    } ]
+  }, {
+    "tStartMs": 2824430,
+    "dDurationMs": 8070,
+    "segs": [ {
+      "utf8": "There's a list of items that violate that law plus items that Carrot considers inappropriate for trading."
+    } ]
+  }, {
+    "tStartMs": 2832500,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "The first one is living animals, so that means people, and that's correct."
+    } ]
+  }, {
+    "tStartMs": 2836680,
+    "dDurationMs": 7530,
+    "segs": [ {
+      "utf8": "And personal information, ID cards, bank accounts, credit information—those don't work."
+    } ]
+  }, {
+    "tStartMs": 2844210,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "And they said account trading isn't allowed, like trading OTT services and things like that."
+    } ]
+  }, {
+    "tStartMs": 2849980,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "And trademark infringement items, imitations and things like that aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2855060,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "Oh, fake items."
+    } ]
+  }, {
+    "tStartMs": 2856870,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "Yes, alcohol, cigarettes, lighters, drugs aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2860560,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Obscene materials, adult products, game items aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2864480,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "I got one right."
+    } ]
+  }, {
+    "tStartMs": 2865820,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "Oh, game items."
+    } ]
+  }, {
+    "tStartMs": 2867750,
+    "dDurationMs": 6670,
+    "segs": [ {
+      "utf8": "Oh, because it's youth-harmful, harmful media content, so it's not allowed."
+    } ]
+  }, {
+    "tStartMs": 2874420,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "And medical devices, pharmaceuticals, contact lenses and glasses aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2879840,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Huh, glasses aren't allowed either?"
+    } ]
+  }, {
+    "tStartMs": 2881680,
+    "dDurationMs": 4810,
+    "segs": [ {
+      "utf8": "Yes, maybe because they're medical devices? Anyway, they're not allowed."
+    } ]
+  }, {
+    "tStartMs": 2886490,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "And it says prohibited trading items, tickets aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2889790,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "Scalped tickets, transportation passes and things like that aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2893520,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Prohibited food trading, unlicensed items, harmful food aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2897770,
+    "dDurationMs": 6600,
+    "segs": [ {
+      "utf8": "Self-cultivated agricultural and marine products, self-manufactured items also aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2904370,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "And prohibited cosmetics trading also isn't allowed."
+    } ]
+  }, {
+    "tStartMs": 2906970,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Homemade cosmetics and things like that aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2910770,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Pesticides, LPG and things like that, dangerous substances also aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2916380,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "It's quite diverse, more than I thought."
+    } ]
+  }, {
+    "tStartMs": 2918390,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "And guns aren't allowed, dangerous things aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2923510,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "I got three of those..."
+    } ]
+  }, {
+    "tStartMs": 2925300,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Uniforms aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2927550,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "Police uniforms, military uniforms, firefighter..."
+    } ]
+  }, {
+    "tStartMs": 2933160,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Is 'firefighter' correct?"
+    } ]
+  }, {
+    "tStartMs": 2934390,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Firefighter?"
+    } ]
+  }, {
+    "tStartMs": 2935450,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Oh, firefighter, firefighter uniforms and things like that aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2939570,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Oh, and Omni gift cards aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2943790,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "Gold products over 1 million won aren't allowed."
+    } ]
+  }, {
+    "tStartMs": 2947400,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Foreign currency over 1,000 dollars also isn't allowed."
+    } ]
+  }, {
+    "tStartMs": 2950420,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "So there are standards for that."
+    } ]
+  }, {
+    "tStartMs": 2952570,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "Yes, but this is a restriction due to operational policy."
+    } ]
+  }, {
+    "tStartMs": 2956710,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "I think it might be that for this platform."
+    } ]
+  }, {
+    "tStartMs": 2961650,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "Is it like this?"
+    } ]
+  }, {
+    "tStartMs": 2962520,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "There was one thing I mentioned earlier, what was it?"
+    } ]
+  }, {
+    "tStartMs": 2964510,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Lottery doesn't seem to be written."
+    } ]
+  }, {
+    "tStartMs": 2970770,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "It seems to be okay."
+    } ]
+  }, {
+    "tStartMs": 2972540,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, how many did you get right?"
+    } ]
+  }, {
+    "tStartMs": 2974930,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "I got people, gift cards, course vouchers, and food."
+    } ]
+  }, {
+    "tStartMs": 2981200,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Oh right, right, site account trading isn't allowed, right?"
+    } ]
+  }, {
+    "tStartMs": 2985560,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "Yes, so that's 4."
+    } ]
+  }, {
+    "tStartMs": 2986930,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Oh, so vitamins are allowed."
+    } ]
+  }, {
+    "tStartMs": 2988890,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Vitamins... it says 'secondhand trading of health functional foods is illegal'."
+    } ]
+  }, {
+    "tStartMs": 2992950,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Then that's 5!"
+    } ]
+  }, {
+    "tStartMs": 2994420,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Wow! What did I... oh lottery, lottery secondhand trading."
+    } ]
+  }, {
+    "tStartMs": 2998340,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Is lottery allowed?"
+    } ]
+  }, {
+    "tStartMs": 3000260,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Oh, it is allowed."
+    } ]
+  }, {
+    "tStartMs": 3001310,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 3002500,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Yes, there's no mention that it's not allowed, lottery secondhand trading."
+    } ]
+  }, {
+    "tStartMs": 3007020,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That... I can see the possibility of a new business."
+    } ]
+  }, {
+    "tStartMs": 3014430,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Really? [laughs]"
+    } ]
+  }, {
+    "tStartMs": 3016350,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Yes yes, is it 5 to 4?"
+    } ]
+  }, {
+    "tStartMs": 3018850,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Right, I lost."
+    } ]
+  }, {
+    "tStartMs": 3022140,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "That was fun, that was fun, you worked hard, it was an informative time."
+    } ]
+  }, {
+    "tStartMs": 3025780,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Yes yes, it was fun."
+    } ]
+  }, {
+    "tStartMs": 3027790,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Yes, so we'll wrap up the word-based mini-game corner here."
+    } ]
+  }, {
+    "tStartMs": 3032670,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "What topic should we do next?"
+    } ]
+  }, {
+    "tStartMs": 3035600,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "The next topic is convenience stores."
+    } ]
+  }, {
+    "tStartMs": 3039040,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Convenience stores, so we haven't really talked about convenience stores yet."
+    } ]
+  }, {
+    "tStartMs": 3043800,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "Since we use convenience stores a lot, we'll talk about them more."
+    } ]
+  }, {
+    "tStartMs": 3049640,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "We'll talk about them from all angles."
+    } ]
+  }, {
+    "tStartMs": 3053290,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Have a great month, and we'll be back in February."
+    } ]
+  }, {
+    "tStartMs": 3057390,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "This has been Didi and Jeong Tae-woong. Thank you."
+    } ]
+  }, {
+    "tStartMs": 3062150,
+    "dDurationMs": 17430,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

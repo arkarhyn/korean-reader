@@ -1,0 +1,5653 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 9220,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "안녕하세요 디디입니다"
+    } ]
+  }, {
+    "tStartMs": 11370,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "안녕하세요 정태웅입니다"
+    } ]
+  }, {
+    "tStartMs": 13030,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "한국생활 요모조모는 한국에서 살아가는 두 사람이"
+    } ]
+  }, {
+    "tStartMs": 16290,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "한국생활의 요모조모를 이야기하는 팟캐스트입니다"
+    } ]
+  }, {
+    "tStartMs": 19970,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "사실 저번에, 저번주에 유튜브에 관련해서 주제를 잡았었죠?"
+    } ]
+  }, {
+    "tStartMs": 26270,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 27330,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "유튜버로 살아가는 삶은 어떤지 이야기하려고 했는데"
+    } ]
+  }, {
+    "tStartMs": 31110,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "리퀘스트 주제가 있어가지고"
+    } ]
+  }, {
+    "tStartMs": 33290,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "오늘은 이걸로 한번 이야기를 해보려고 해요"
+    } ]
+  }, {
+    "tStartMs": 36470,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 37470,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "안녕하세요 디디 선생님"
+    } ]
+  }, {
+    "tStartMs": 39280,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "항상 재미있는 팟캐스트를 많이 올려주셔서 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 43740,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "제 공부에 엄청 도움이 되고 있어요"
+    } ]
+  }, {
+    "tStartMs": 46220,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "어떤 음식을 먹으면 아래와 같이 느껴지는지"
+    } ]
+  }, {
+    "tStartMs": 49300,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "각각의 맛은 어떤 차이가 있는지"
+    } ]
+  }, {
+    "tStartMs": 51530,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "꼭 이야기해주셨으면 좋겠습니다"
+    } ]
+  }, {
+    "tStartMs": 54140,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "가능하면 두 명 이상이 각자의 느낌을 이야기해 주셨으면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 59010,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "저는 일본인이라서"
+    } ]
+  }, {
+    "tStartMs": 61090,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "매운맛과 상큼한 맛 표현의 미묘한 차이를 잘 구분하기 어려워요"
+    } ]
+  }, {
+    "tStartMs": 66180,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "새콤하다, 매콤하다, 달콤하다, 얼끈하다,"
+    } ]
+  }, {
+    "tStartMs": 70090,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "얼큰하다 같아요"
+    } ]
+  }, {
+    "tStartMs": 71490,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 72100,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "그리고 칼칼하다, 담백하다, 시원하다,"
+    } ]
+  }, {
+    "tStartMs": 76010,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "특히 이 표현, '시원하다'"
+    } ]
+  }, {
+    "tStartMs": 79360,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "그리고 산뜻하다, 상큼하다 등이 있습니다"
+    } ]
+  }, {
+    "tStartMs": 83330,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "네 이런 표현들의 구분이 어렵다고 하셨어가지고"
+    } ]
+  }, {
+    "tStartMs": 87550,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "오늘은 한국어 맛 표현 차이 설명을"
+    } ]
+  }, {
+    "tStartMs": 91900,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "저희 둘이가 최선을 다해서 설명해보는"
+    } ]
+  }, {
+    "tStartMs": 95210,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "그런 에피소드가 될 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 98180,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "이거는 원래 보통 디디님이 혼자 만들어 올리는"
+    } ]
+  }, {
+    "tStartMs": 102840,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "컨텐츠 스타일 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 104320,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "아 이런거요?"
+    } ]
+  }, {
+    "tStartMs": 105680,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "그렇긴 해요"
+    } ]
+  }, {
+    "tStartMs": 106650,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "그런데 여기서 말씀해주셨던 것처럼"
+    } ]
+  }, {
+    "tStartMs": 109770,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "두 명 이상이 느낌을 이야기하는 게"
+    } ]
+  }, {
+    "tStartMs": 112910,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "좀 더 감을 익히기가 쉬울 것 같긴 해요"
+    } ]
+  }, {
+    "tStartMs": 116220,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "그래서 태웅쌤과 같이 이야기를 해보면 좋을 것 같아서"
+    } ]
+  }, {
+    "tStartMs": 120380,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "이거 주제에 가져왔고요"
+    } ]
+  }, {
+    "tStartMs": 122430,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "그리고 저번 주 퀴즈 정답자를 말씀드려야 되는데"
+    } ]
+  }, {
+    "tStartMs": 126260,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "저번에 제가 실수했어요 퀴즈 편집을 할 때"
+    } ]
+  }, {
+    "tStartMs": 130750,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "그래서 정답이 없었습니다 저번 주에는"
+    } ]
+  }, {
+    "tStartMs": 134260,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "이런 실수를..."
+    } ]
+  }, {
+    "tStartMs": 136450,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "일본 여행을 앞두고 좀 성급하셨나 봐요?"
+    } ]
+  }, {
+    "tStartMs": 139710,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "그런 게 아니고..."
+    } ]
+  }, {
+    "tStartMs": 143500,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "어떤 걸 '언급하지 않은 것'이 문제였는데"
+    } ]
+  }, {
+    "tStartMs": 148260,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "제가 그걸 잘라내버렸어요 정답을 추리느라고..."
+    } ]
+  }, {
+    "tStartMs": 152790,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "그래서 아무튼 정답이 없었고"
+    } ]
+  }, {
+    "tStartMs": 156180,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "이번 주 퀴즈는 이야기 다 끝난 다음에 퀴즈 또 드리려고 하니까"
+    } ]
+  }, {
+    "tStartMs": 160820,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "그거 잘 맞춰주시고 이번에는 실수 안 하고 올리도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 166140,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "네 그러면 바로 맛 표현들 이야기를 해보려고 하는데"
+    } ]
+  }, {
+    "tStartMs": 169600,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "한국에 맛을 표현하는 말이 진짜 많은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 173820,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "단어들이 많은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 176930,
+    "dDurationMs": 420,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 177350,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "저는 다른 나라도 마찬가지인지 좀 궁금해요"
+    } ]
+  }, {
+    "tStartMs": 180060,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "음 그러니까요"
+    } ]
+  }, {
+    "tStartMs": 182070,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "그리고 각 나라마다 표현이 다양한 맛이 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 187400,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "한국은 제가 찾아보니까"
+    } ]
+  }, {
+    "tStartMs": 189610,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "매운맛이 좀 많은 것 같아요 매운맛 표현?"
+    } ]
+  }, {
+    "tStartMs": 193930,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "그 얘기 알아요?"
+    } ]
+  }, {
+    "tStartMs": 196890,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "에스키모들 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 199420,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "에스키모들이 사용하는 언어에는"
+    } ]
+  }, {
+    "tStartMs": 202810,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "눈이 내리는 눈송이의 종류마다 말이 다 있대요"
+    } ]
+  }, {
+    "tStartMs": 208530,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "진짜요?"
+    } ]
+  }, {
+    "tStartMs": 210490,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 211100,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "그런 것처럼 있는 음식에 따라 언어와 단어가"
+    } ]
+  }, {
+    "tStartMs": 217330,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "스타일이 다르지 않을까요?"
+    } ]
+  }, {
+    "tStartMs": 218970,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "그러네요 에스키모 분들은 다양한 눈을 보실 테니까"
+    } ]
+  }, {
+    "tStartMs": 223370,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "음~ 이름이 다 붙어 있구나"
+    } ]
+  }, {
+    "tStartMs": 225180,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "궁금하다"
+    } ]
+  }, {
+    "tStartMs": 226620,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "몇 개 정도 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 229410,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "그건 제가 까먹었습니다"
+    } ]
+  }, {
+    "tStartMs": 231980,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "거기까지~"
+    } ]
+  }, {
+    "tStartMs": 234220,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "그러면..."
+    } ]
+  }, {
+    "tStartMs": 235380,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "우선은 인간이 느낄 수 있는 맛들이 좀 있는데"
+    } ]
+  }, {
+    "tStartMs": 239420,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "그 중에서 첫 번째로 단맛"
+    } ]
+  }, {
+    "tStartMs": 242570,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "한번 무슨 표현이 있는지 볼까요?"
+    } ]
+  }, {
+    "tStartMs": 244990,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 247040,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "단맛, 우선 대표적으로 하는 맛은 '달다'라고 표현할 수 있죠"
+    } ]
+  }, {
+    "tStartMs": 251910,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "'달아요'"
+    } ]
+  }, {
+    "tStartMs": 253150,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "그냥 여러분들이 생각하는 단맛이랑 똑같을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 256680,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "사탕, 설탕의 단맛"
+    } ]
+  }, {
+    "tStartMs": 259210,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "그런데 또 이런 표현도 있어요"
+    } ]
+  }, {
+    "tStartMs": 261080,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "달달하다,"
+    } ]
+  }, {
+    "tStartMs": 262290,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "달콤하다,"
+    } ]
+  }, {
+    "tStartMs": 264160,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "달짝지근하다"
+    } ]
+  }, {
+    "tStartMs": 265570,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "이런 표현들이 있대요"
+    } ]
+  }, {
+    "tStartMs": 267130,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "이제 이 세 가지의 차이를 이야기해봅시다"
+    } ]
+  }, {
+    "tStartMs": 270530,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "제가 생각했을 때는 달달하다, 달콤하다 둘 다"
+    } ]
+  }, {
+    "tStartMs": 275740,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "막 단맛만 있는 건 아니고"
+    } ]
+  }, {
+    "tStartMs": 278000,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "여러 가지 맛이 나는데 그 중에서 단맛이 살짝 난다"
+    } ]
+  }, {
+    "tStartMs": 282240,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "조금 난다 이렇게 표현하고 싶을 때 달달하다 달콤하다"
+    } ]
+  }, {
+    "tStartMs": 286970,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "라고 이야기하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 290300,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "어떻게 생각하세요? 동의하시나요?"
+    } ]
+  }, {
+    "tStartMs": 294300,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "저도 비슷하게 생각해요"
+    } ]
+  }, {
+    "tStartMs": 298940,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "달달하다 달콤하다 정말 비슷한 말인데"
+    } ]
+  }, {
+    "tStartMs": 302820,
+    "dDurationMs": 8460,
+    "segs": [ {
+      "utf8": "달달하다는 그 제가 단 맛을 느끼는 게"
+    } ]
+  }, {
+    "tStartMs": 311280,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "은은히 지속되는 느낌이고"
+    } ]
+  }, {
+    "tStartMs": 315040,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "달콤하다는,"
+    } ]
+  }, {
+    "tStartMs": 317150,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "달콤하다는요"
+    } ]
+  }, {
+    "tStartMs": 318010,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "그 단 맛을 입에서 되게 좀 세게 쫙 느끼는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 323130,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "너무 정확한 설명인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 325390,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "비슷해요? 디디님이 느끼는 것도?"
+    } ]
+  }, {
+    "tStartMs": 327300,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 329060,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "물론 우리가 맛 뭐 평가 이런 전문가는 아닙니다"
+    } ]
+  }, {
+    "tStartMs": 333300,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "네, 아니지만 근데 정확한 것 같은데요?"
+    } ]
+  }, {
+    "tStartMs": 336480,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "그런가요?"
+    } ]
+  }, {
+    "tStartMs": 337220,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "감탄했어요"
+    } ]
+  }, {
+    "tStartMs": 338700,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "그래서 음식이 단, 달아서 기분 좋을 때도 이 말을 쓰는데"
+    } ]
+  }, {
+    "tStartMs": 344990,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "우리가 살면서 엄청 좋은 일이나 기분 좋은 일이 있을 때도"
+    } ]
+  }, {
+    "tStartMs": 350500,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "기분이 좋다 이럴 때 달콤하다, 달달하다 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 354120,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 355200,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "그때도 이 달콤하다는 그걸 막 엄청 기분 좋게"
+    } ]
+  }, {
+    "tStartMs": 359570,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "잠깐 세게 쫙 느끼는 느낌이고"
+    } ]
+  }, {
+    "tStartMs": 362850,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "달달하다 이 말은"
+    } ]
+  }, {
+    "tStartMs": 365300,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "약간 되게 은근히 좀 약간 좀 지속되는 느낌"
+    } ]
+  }, {
+    "tStartMs": 371200,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "그런 느낌인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 372960,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그러네요 달달한 거는 좀 진하고"
+    } ]
+  }, {
+    "tStartMs": 375960,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "길게 느껴지는 단맛인 것 같고"
+    } ]
+  }, {
+    "tStartMs": 379080,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "달콤한 거는 그 세기가 좀 세네요"
+    } ]
+  }, {
+    "tStartMs": 382160,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "한 번에 탁 달았을 때"
+    } ]
+  }, {
+    "tStartMs": 384770,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "네네 제 느낌은?"
+    } ]
+  }, {
+    "tStartMs": 387330,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "동의합니다"
+    } ]
+  }, {
+    "tStartMs": 388590,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "이렇게 구별할 수 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 390270,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "하지만 그 전체적인 거는"
+    } ]
+  }, {
+    "tStartMs": 392870,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "그냥 단맛이 조금 느껴지는 거라는 거"
+    } ]
+  }, {
+    "tStartMs": 396740,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "이 정도로 알아주시면 될 것 같고"
+    } ]
+  }, {
+    "tStartMs": 400470,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "그래서 진짜 떡볶이처럼 매운 음식에도"
+    } ]
+  }, {
+    "tStartMs": 405360,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "약간 단맛이 나는 경우가 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 407840,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 408970,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "그럴 때 달달하네 달콤하네 이야기할 수도 있고"
+    } ]
+  }, {
+    "tStartMs": 413230,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "그리고 맛 표현 중에"
+    } ]
+  }, {
+    "tStartMs": 415090,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "'콤' 붙는 것들이 꽤 있거든요"
+    } ]
+  }, {
+    "tStartMs": 417490,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "달콤하다, 새콤하다, 매콤하다"
+    } ]
+  }, {
+    "tStartMs": 421470,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "이런 것들이 조금 그 맛이 느껴질 때 이렇게 표현하는 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 426190,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "이 콤 붙는 친구들끼리는 붙일 수도 있어요"
+    } ]
+  }, {
+    "tStartMs": 430580,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "그래서 떡볶이 같은 경우는"
+    } ]
+  }, {
+    "tStartMs": 432700,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "매콤 달콤 이렇게 매콤 달콤하다"
+    } ]
+  }, {
+    "tStartMs": 437160,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "라고 표현할 수도 있네요"
+    } ]
+  }, {
+    "tStartMs": 439570,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "그리고 뭐 달짝지근하다는 어떻게 생각하세요?"
+    } ]
+  }, {
+    "tStartMs": 444280,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "달짝지근하다는요"
+    } ]
+  }, {
+    "tStartMs": 445750,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "그냥 저한테 다가오는 느낌은 그..."
+    } ]
+  }, {
+    "tStartMs": 451000,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "달짝 있잖아요 짝"
+    } ]
+  }, {
+    "tStartMs": 453300,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "짝, 달'짝'"
+    } ]
+  }, {
+    "tStartMs": 454920,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "이거를요 약간 짝이랑 비슷하게 좀 찍어먹는 느낌인거에요"
+    } ]
+  }, {
+    "tStartMs": 460270,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "어 네"
+    } ]
+  }, {
+    "tStartMs": 461500,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "그래서 달짝지근한데"
+    } ]
+  }, {
+    "tStartMs": 462880,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "약간 단 걸 살짝 찍어먹는 느낌이라"
+    } ]
+  }, {
+    "tStartMs": 467730,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "약간 단 게 찍혀있는 느낌?"
+    } ]
+  }, {
+    "tStartMs": 475310,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "그게 뭐죠?\n- 그래서 막 혀에 엄청 단 맛이 쫙 있는 게 아니라"
+    } ]
+  }, {
+    "tStartMs": 482090,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "그냥 톡톡톡 찍혀있는 느낌"
+    } ]
+  }, {
+    "tStartMs": 485030,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "와 설명을 왜 이렇게 잘하세요?"
+    } ]
+  }, {
+    "tStartMs": 486800,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "아 맞나요?"
+    } ]
+  }, {
+    "tStartMs": 489860,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "예를 들면요?"
+    } ]
+  }, {
+    "tStartMs": 491000,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "어떤 거 먹었을 때 좀 달짝지근한 맛이 났을까요?"
+    } ]
+  }, {
+    "tStartMs": 494700,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "달짝지근.. 달짝지근하다.."
+    } ]
+  }, {
+    "tStartMs": 496960,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "그.. 그.. 그.."
+    } ]
+  }, {
+    "tStartMs": 499110,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "뭐 꽈배기 빵 같은 거"
+    } ]
+  }, {
+    "tStartMs": 500490,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "설탕 찍혀져 있는 거 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 502220,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 503400,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "근데 그 설탕이 찍혀있어서 단데"
+    } ]
+  }, {
+    "tStartMs": 507070,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "빵은 밀가루라서 고소하잖아요"
+    } ]
+  }, {
+    "tStartMs": 509700,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "어 네"
+    } ]
+  }, {
+    "tStartMs": 511080,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "그럼 이제 그 빵을 씹다 보면"
+    } ]
+  }, {
+    "tStartMs": 513760,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "밀가루 빵의 고소한 맛이 전체적으로 있는데"
+    } ]
+  }, {
+    "tStartMs": 517570,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "거기에 찍혀있는 설탕들이"
+    } ]
+  }, {
+    "tStartMs": 520320,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "톡톡 찍혀있어서 달짝지근한 느낌?"
+    } ]
+  }, {
+    "tStartMs": 524910,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "먹다 보면 단맛이 이렇게 한 번씩 혀를 때려주는 거네요?"
+    } ]
+  }, {
+    "tStartMs": 530970,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "그렇죠 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 531940,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "그래서 일부러 단맛을 느껴야 되는"
+    } ]
+  }, {
+    "tStartMs": 537580,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "이것도 약간 은은한 단맛인 것 같네요"
+    } ]
+  }, {
+    "tStartMs": 543260,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "달짝지근"
+    } ]
+  }, {
+    "tStartMs": 544790,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "맞아 달짝지근은 대놓고 단맛이라기보다는"
+    } ]
+  }, {
+    "tStartMs": 548380,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "은은하게 달 때 달짝지근하다라고 얘기하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 554140,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 555070,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "다시 말씀드리지만 우리도 정확히 잘 모릅니다"
+    } ]
+  }, {
+    "tStartMs": 559420,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "아 무섭네"
+    } ]
+  }, {
+    "tStartMs": 561340,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "살아오면서 저희가 느낀 맛을 최선을 다해서 설명하는 거예요"
+    } ]
+  }, {
+    "tStartMs": 566410,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 567800,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "단맛은 이렇게 있고요"
+    } ]
+  }, {
+    "tStartMs": 570660,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "이제 다음 맛은 신 맛입니다 신 맛"
+    } ]
+  }, {
+    "tStartMs": 575340,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "레몬 먹었을 때 시죠"
+    } ]
+  }, {
+    "tStartMs": 578110,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "또 뭐가 있을까요? 신 거"
+    } ]
+  }, {
+    "tStartMs": 580030,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "식초?"
+    } ]
+  }, {
+    "tStartMs": 580920,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "식초 먹었을 때 시죠"
+    } ]
+  }, {
+    "tStartMs": 582880,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 583760,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "네 그래서 신 맛을 표현하는 단어들은"
+    } ]
+  }, {
+    "tStartMs": 586410,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "두 가지 가져왔는데"
+    } ]
+  }, {
+    "tStartMs": 588130,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "우선 그 기본형은 '시다', '셔요' 이고"
+    } ]
+  }, {
+    "tStartMs": 592530,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "또 표현할 수 있는 맛이"
+    } ]
+  }, {
+    "tStartMs": 593620,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "새콤하다가 있고"
+    } ]
+  }, {
+    "tStartMs": 595240,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "시큼하다가 있습니다"
+    } ]
+  }, {
+    "tStartMs": 597380,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "이 두 가지를 좀 구분해 볼까요?"
+    } ]
+  }, {
+    "tStartMs": 600270,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "네네 좋아요"
+    } ]
+  }, {
+    "tStartMs": 601390,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "제 생각에는요"
+    } ]
+  }, {
+    "tStartMs": 603750,
+    "dDurationMs": 7220,
+    "segs": [ {
+      "utf8": "우선 아까 얘기했던 것처럼 콤이 붙으면 살짝 시다 라는 말이 되는데"
+    } ]
+  }, {
+    "tStartMs": 610970,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "새콤한 거는..."
+    } ]
+  }, {
+    "tStartMs": 612720,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "새콤한 거는 좀 기분이 좋아요"
+    } ]
+  }, {
+    "tStartMs": 615490,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "그걸 먹었을 때"
+    } ]
+  }, {
+    "tStartMs": 618540,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "예를 들면 과일의 신맛 이런 거 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 622390,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "좀 상큼하고 새콤하다"
+    } ]
+  }, {
+    "tStartMs": 625500,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "이걸 먹었을 때 기분이 나쁘지 않아"
+    } ]
+  }, {
+    "tStartMs": 628600,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "근데 시큼하다는 좀 식초처럼"
+    } ]
+  }, {
+    "tStartMs": 631920,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "먹었을 때 기분이 좋아지는 신맛은 아니에요"
+    } ]
+  }, {
+    "tStartMs": 638170,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "\"아 셔😖\" 이런 느낌?"
+    } ]
+  }, {
+    "tStartMs": 639870,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "그게 좀 시큼하다"
+    } ]
+  }, {
+    "tStartMs": 642340,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "맞습니다 동의합니다"
+    } ]
+  }, {
+    "tStartMs": 643580,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "동의합니까?"
+    } ]
+  }, {
+    "tStartMs": 644670,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 645680,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "맛있는 신맛이 새콤하다"
+    } ]
+  }, {
+    "tStartMs": 647530,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "좀 얘가 발효돼서 신거는 시큼하다"
+    } ]
+  }, {
+    "tStartMs": 651140,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "오 맞아요 맞아요 안 그래도 그 얘기 하려고 했는데"
+    } ]
+  }, {
+    "tStartMs": 653690,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 655420,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "가끔 뭐 신맛이 나면 안 되는 음식이"
+    } ]
+  }, {
+    "tStartMs": 658880,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "이상하게 신맛이 날 때가 있어요"
+    } ]
+  }, {
+    "tStartMs": 661410,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 663140,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "그러면 아 이 음식이 좀 오래됐구나"
+    } ]
+  }, {
+    "tStartMs": 667740,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "아 이거 먹으면 배탈이 나겠다"
+    } ]
+  }, {
+    "tStartMs": 671490,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "그게 좀 음식이 쉰다고 얘기를 하죠 우리가"
+    } ]
+  }, {
+    "tStartMs": 675240,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "아 네"
+    } ]
+  }, {
+    "tStartMs": 676540,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "그때 좀 어? 왜 된장찌개가 시큼하지?"
+    } ]
+  }, {
+    "tStartMs": 680190,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "어 맞아요"
+    } ]
+  }, {
+    "tStartMs": 681280,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "이렇게 말하잖아요"
+    } ]
+  }, {
+    "tStartMs": 682630,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 684500,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "구수하고"
+    } ]
+  }, {
+    "tStartMs": 685890,
+    "dDurationMs": 7480,
+    "segs": [ {
+      "utf8": "뭔가 그런 담백한 고소한 그런 음식이"
+    } ]
+  }, {
+    "tStartMs": 693370,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "신 맛이 나는 거...? 그러면 안 됩니다"
+    } ]
+  }, {
+    "tStartMs": 696260,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "아 그쵸"
+    } ]
+  }, {
+    "tStartMs": 698690,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "음식의 맛이 시게 변했을 때"
+    } ]
+  }, {
+    "tStartMs": 701470,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 702810,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "그래서 그때 디디님이 말하신 것처럼"
+    } ]
+  }, {
+    "tStartMs": 706680,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "어 엄마 된장찌개가 찌개가 새콤하네요? 라고 얘기하지 않아요"
+    } ]
+  }, {
+    "tStartMs": 710380,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "어, 맞아요"
+    } ]
+  }, {
+    "tStartMs": 712160,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "네, 그렇게 합니다"
+    } ]
+  }, {
+    "tStartMs": 714660,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "새콤하다는 보통 맛있는 거 얘기할 때 하죠"
+    } ]
+  }, {
+    "tStartMs": 717260,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "오, 유익한 것 같아요, 이거"
+    } ]
+  }, {
+    "tStartMs": 720700,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "그렇네요"
+    } ]
+  }, {
+    "tStartMs": 722290,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "시큼하다랑 새콤하다"
+    } ]
+  }, {
+    "tStartMs": 725020,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "잘 구별해 주시고,"
+    } ]
+  }, {
+    "tStartMs": 726770,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "다음 맛!"
+    } ]
+  }, {
+    "tStartMs": 728590,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "다음은 짜다, 짠 맛입니다 소금이죠?"
+    } ]
+  }, {
+    "tStartMs": 733680,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 734580,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "소금, 간장, 이런 것들"
+    } ]
+  }, {
+    "tStartMs": 738670,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "자, 짠맛의 기본형은 '짜다'이고요"
+    } ]
+  }, {
+    "tStartMs": 741220,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "이제 짠맛을 표현할 수 있는 또 다른 표현이"
+    } ]
+  }, {
+    "tStartMs": 744960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "'짭짤하다'가 있고요"
+    } ]
+  }, {
+    "tStartMs": 747440,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "그리고는 '짭조름하다'"
+    } ]
+  }, {
+    "tStartMs": 749880,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "이런 말도 있습니다"
+    } ]
+  }, {
+    "tStartMs": 752180,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "두 가지..."
+    } ]
+  }, {
+    "tStartMs": 753810,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "고급 한국어 시간이네"
+    } ]
+  }, {
+    "tStartMs": 756670,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 757410,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "'짭짤하다'와 '짭조름하다' 어떻게 생각하세요?"
+    } ]
+  }, {
+    "tStartMs": 761540,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "아 근데 저 이거 솔직히 말해서요"
+    } ]
+  }, {
+    "tStartMs": 763570,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 764830,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "저 이거 그렇게 준비 안 했거든요 지금 얘기하고 있는 것들"
+    } ]
+  }, {
+    "tStartMs": 769310,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "다 프리스타일로 하는 겁니다 지금"
+    } ]
+  }, {
+    "tStartMs": 771030,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "네 너무 잘하고 계세요"
+    } ]
+  }, {
+    "tStartMs": 773710,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "아 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 775890,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "그 저는 여기 이게 되게 한국어의 매력이 또 나오는 표현 같아요"
+    } ]
+  }, {
+    "tStartMs": 782690,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "우리가 우리가 짠 거 먹을 때 어떡합니까"
+    } ]
+  }, {
+    "tStartMs": 785720,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "아 이렇게 '쩝쩝'"
+    } ]
+  }, {
+    "tStartMs": 787930,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "어우 짜 이렇게 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 790830,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "입에 그 짠 느낌이 막 있어서"
+    } ]
+  }, {
+    "tStartMs": 793730,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "근데 맛을 보고"
+    } ]
+  }, {
+    "tStartMs": 796190,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "'어 이거 짜네!' 라고 말하기까지의"
+    } ]
+  }, {
+    "tStartMs": 799230,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "그 거리가"
+    } ]
+  }, {
+    "tStartMs": 802300,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "오 짜다 짭짤하다 두 글자죠"
+    } ]
+  }, {
+    "tStartMs": 805990,
+    "dDurationMs": 5310,
+    "segs": [ {
+      "utf8": "근데 은근히 짜요 어 이거 짠가?"
+    } ]
+  }, {
+    "tStartMs": 811300,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "이러면 짭쪼름..."
+    } ]
+  }, {
+    "tStartMs": 817170,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "단어 수와도 연관 지을 수 있다?"
+    } ]
+  }, {
+    "tStartMs": 821860,
+    "dDurationMs": 5480,
+    "segs": [ {
+      "utf8": "짜다까지 가기에 거리를 표현해 준다는 거죠?"
+    } ]
+  }, {
+    "tStartMs": 827340,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "짭조름 세 글자는 그렇게 짠 맛이 강하진 않고"
+    } ]
+  }, {
+    "tStartMs": 833610,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "그거보다 좀 더 강하면 짭짤하다"
+    } ]
+  }, {
+    "tStartMs": 836880,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "그거보다 강해지면 짜다"
+    } ]
+  }, {
+    "tStartMs": 839170,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "'어후 짜!' 이렇게..."
+    } ]
+  }, {
+    "tStartMs": 844370,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "무슨 말인지 알 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 846560,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 847810,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "고민하다 보니까 말이 길어지는 거죠"
+    } ]
+  }, {
+    "tStartMs": 849830,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "짭...쪼름한데 이렇게 됐다는 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 853970,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 854980,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "근데 사실 그 짠 맛이라는 게"
+    } ]
+  }, {
+    "tStartMs": 858240,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "먹자마자 확 느끼면"
+    } ]
+  }, {
+    "tStartMs": 860190,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "그건 맛이 없는 음식이잖아요"
+    } ]
+  }, {
+    "tStartMs": 861900,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 863280,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "그래서 '짜다' 이러면 맛이 없잖아요"
+    } ]
+  }, {
+    "tStartMs": 866140,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "근데 이 거리가 길어서 적당히 짠 맛을 느끼면"
+    } ]
+  }, {
+    "tStartMs": 869810,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "아주 맛있는 거죠"
+    } ]
+  }, {
+    "tStartMs": 873280,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "그래서 짭조름한 음식은 먹을만하게 느껴지지 않으세요?"
+    } ]
+  }, {
+    "tStartMs": 877630,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "좋은 표현인 것 같아요 짭조름한 거는"
+    } ]
+  }, {
+    "tStartMs": 881230,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "기분 좋게 짜다"
+    } ]
+  }, {
+    "tStartMs": 883720,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "간이 적당하다"
+    } ]
+  }, {
+    "tStartMs": 886120,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "짭조름하네 입에,"
+    } ]
+  }, {
+    "tStartMs": 889020,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "혀에 생기가 확 도네 이런 느낌"
+    } ]
+  }, {
+    "tStartMs": 892650,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "와 (외국엔) 이런 표현 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 894230,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "기분 좋은 짠맛이다"
+    } ]
+  }, {
+    "tStartMs": 896830,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "짭조름하다"
+    } ]
+  }, {
+    "tStartMs": 899590,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "이런 표현할 수 있고"
+    } ]
+  }, {
+    "tStartMs": 900670,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "그거보다 살짝 좀 짜다 짠 맛이 많이 느껴진다 하면"
+    } ]
+  }, {
+    "tStartMs": 905320,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "어 이거 좀 짭짤하네"
+    } ]
+  }, {
+    "tStartMs": 907190,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "이렇게 표현할 수 있고"
+    } ]
+  }, {
+    "tStartMs": 908920,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "진짜 짠 거는 짜다라고 표현한다는 거"
+    } ]
+  }, {
+    "tStartMs": 913450,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "와~ 잘하고 있어요 우리"
+    } ]
+  }, {
+    "tStartMs": 916850,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "감사합니다"
+    } ]
+  }, {
+    "tStartMs": 919500,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "그리고 쓴맛은..."
+    } ]
+  }, {
+    "tStartMs": 922690,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "커피나 술 이런 거 쓰다라고 표현하잖아요"
+    } ]
+  }, {
+    "tStartMs": 926500,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "요거를 표현해 줄 수 있는 말이"
+    } ]
+  }, {
+    "tStartMs": 929390,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "뭐 이게 있습니다"
+    } ]
+  }, {
+    "tStartMs": 930620,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "씁쓸하다"
+    } ]
+  }, {
+    "tStartMs": 931940,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "이런 말도 있고 아니면 쌉쌀하다"
+    } ]
+  }, {
+    "tStartMs": 934610,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "이렇게도 표현할 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 936970,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "이건 어떤 쓴맛일까요? 씁쓸하고 쌉쌀한 쓴맛"
+    } ]
+  }, {
+    "tStartMs": 942220,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "그러게요"
+    } ]
+  }, {
+    "tStartMs": 943800,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "쌉쌀하다가 좀 덜 쓴 느낌이 드는 것 같기도 하고요"
+    } ]
+  }, {
+    "tStartMs": 949380,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "씁쓸하다 보다요?"
+    } ]
+  }, {
+    "tStartMs": 951100,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "그.. 네"
+    } ]
+  }, {
+    "tStartMs": 952670,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "아~ 전 두 가지가 거의 비슷하다고 생각했거든요"
+    } ]
+  }, {
+    "tStartMs": 956340,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "그래서 하나로 묶었었는데"
+    } ]
+  }, {
+    "tStartMs": 959320,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "그리고 보통 쌉쌀하다는 달콤쌉쌀하다"
+    } ]
+  }, {
+    "tStartMs": 963350,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "이렇게 달콤하다랑 같이 쓰는 경우가 많은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 969470,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "달콤쌉쌀하다"
+    } ]
+  }, {
+    "tStartMs": 971620,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "그렇다는 말은 좀 견딜 수 있는 쌉쌀함인 걸까요?"
+    } ]
+  }, {
+    "tStartMs": 977000,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "견딜 수 있는 쓴맛?"
+    } ]
+  }, {
+    "tStartMs": 979170,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "즐길 수 있는 쓴맛?"
+    } ]
+  }, {
+    "tStartMs": 983890,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "이거는 전 잘 모르겠는데요"
+    } ]
+  }, {
+    "tStartMs": 986820,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "쌉쌀하다"
+    } ]
+  }, {
+    "tStartMs": 988510,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "씁쓸하다 쌉쌀하다 저는 쓴 음식을 안 좋아해서..."
+    } ]
+  }, {
+    "tStartMs": 994880,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "씁쓸하다"
+    } ]
+  }, {
+    "tStartMs": 996640,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "제 생각에는 좀 은은한 쓴맛"
+    } ]
+  }, {
+    "tStartMs": 1000220,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "강하지 않은 약한 쓴맛이 씁쓸하다 쌉쌀하다"
+    } ]
+  }, {
+    "tStartMs": 1003970,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "이렇게 두 가지로 표현할 수 있는 것 같고"
+    } ]
+  }, {
+    "tStartMs": 1007100,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "둘 다 좀 쓴맛이 적다는 뜻이긴 하지만 굳이 구분을 짓는다면"
+    } ]
+  }, {
+    "tStartMs": 1012460,
+    "dDurationMs": 7190,
+    "segs": [ {
+      "utf8": "이제 쌉쌀한 거는 좀 즐길 수 있는 쓴맛인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1019650,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "그러면 커피 같은 거는 쌉쌀한 맛입니까?"
+    } ]
+  }, {
+    "tStartMs": 1024530,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "아 좀 쌉쌀하다?"
+    } ]
+  }, {
+    "tStartMs": 1028770,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "저 근데 한 가지 차이를 또 발견한 게 있어요"
+    } ]
+  }, {
+    "tStartMs": 1031350,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "네 뭐예요?"
+    } ]
+  }, {
+    "tStartMs": 1033470,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "'씁쓸하다'는 그냥 '씁쓸하다'고 하는데"
+    } ]
+  }, {
+    "tStartMs": 1037590,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "'쌉쌀하다'는"
+    } ]
+  }, {
+    "tStartMs": 1039150,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "'쌉싸름하다'라고 해요"
+    } ]
+  }, {
+    "tStartMs": 1042100,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "'쌉싸름하다'?"
+    } ]
+  }, {
+    "tStartMs": 1044200,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "점점 더 어려워지는데요?"
+    } ]
+  }, {
+    "tStartMs": 1046380,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "'쌉싸름하다' 왜일까요?"
+    } ]
+  }, {
+    "tStartMs": 1051220,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "근데 이게 '짭짤하다',"
+    } ]
+  }, {
+    "tStartMs": 1054210,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "'짭조름하다'랑 좀 비슷한 부분이 있는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1057950,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "오, 네 그러네요"
+    } ]
+  }, {
+    "tStartMs": 1060290,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "네네, 쌉싸름한 건 그 약간의 쓴 느낌이"
+    } ]
+  }, {
+    "tStartMs": 1063770,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "조금 지속되는 느낌?"
+    } ]
+  }, {
+    "tStartMs": 1067140,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "입에 쓴 맛이 약간 살짝 남아서"
+    } ]
+  }, {
+    "tStartMs": 1070670,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "좀 오래가는 느낌 쌉싸름~~~~~하게"
+    } ]
+  }, {
+    "tStartMs": 1076260,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "아 네네네"
+    } ]
+  }, {
+    "tStartMs": 1079520,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "그럼 커피는 쌉싸름할 수 있을까요?"
+    } ]
+  }, {
+    "tStartMs": 1083740,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "아우, 쌉싸름하다"
+    } ]
+  }, {
+    "tStartMs": 1087840,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "근데 사람들이 보통 커피를 마실 때"
+    } ]
+  }, {
+    "tStartMs": 1091390,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "커피를 마시는 본인이 멋있기를 원해서\n- 안 쓴 척해요?"
+    } ]
+  }, {
+    "tStartMs": 1096860,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "쌉싸름하다는 멋이 없잖아요"
+    } ]
+  }, {
+    "tStartMs": 1100800,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "약간 구수하죠, 표현이?"
+    } ]
+  }, {
+    "tStartMs": 1103020,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "네 그래서 쌉싸름한데"
+    } ]
+  }, {
+    "tStartMs": 1105200,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "쌉싸름하다고 얘기를 안 하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1108940,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "제 생각엔 또 한식이랑"
+    } ]
+  }, {
+    "tStartMs": 1111320,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "아니면 한약 재료? 약재? 이런 거 설명할 때"
+    } ]
+  }, {
+    "tStartMs": 1116610,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "좀 많이 쓰는 표현인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1118850,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1119740,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "외국 음식에 붙이면 좀 이상해요"
+    } ]
+  }, {
+    "tStartMs": 1122270,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "그렇네요"
+    } ]
+  }, {
+    "tStartMs": 1123380,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1124750,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "인삼, 나물"
+    } ]
+  }, {
+    "tStartMs": 1126420,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "이런 거 먹을 때 얘기를 하죠"
+    } ]
+  }, {
+    "tStartMs": 1129280,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "쌉싸름하다"
+    } ]
+  }, {
+    "tStartMs": 1131100,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "탄 음식 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1132690,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "어떤 음식이요?"
+    } ]
+  }, {
+    "tStartMs": 1133610,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "음식이 탔을 때"
+    } ]
+  }, {
+    "tStartMs": 1135230,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1136580,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "그런 걸 먹었을 때는 뭐라고 표현할까요?"
+    } ]
+  }, {
+    "tStartMs": 1139680,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "쓰다고 하나요?"
+    } ]
+  }, {
+    "tStartMs": 1142350,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "그렇지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 1143260,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "탔다 쓰다"
+    } ]
+  }, {
+    "tStartMs": 1145060,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "씁쓸하다는 안 하죠"
+    } ]
+  }, {
+    "tStartMs": 1147520,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1149050,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "탄 음식을 먹으면"
+    } ]
+  }, {
+    "tStartMs": 1150800,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "일단 표현을 하기 전에 뱉어야 되고요"
+    } ]
+  }, {
+    "tStartMs": 1154450,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "퉤"
+    } ]
+  }, {
+    "tStartMs": 1157130,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "아으 퉤퉤퉤! 이런 표현밖에 안 나오죠"
+    } ]
+  }, {
+    "tStartMs": 1161060,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "맛이 그냥 없는 게 아닐까요 그건?"
+    } ]
+  }, {
+    "tStartMs": 1164630,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "그래도 맛 표현 중에서 하자면 쓰다만 가능한 것 같고"
+    } ]
+  }, {
+    "tStartMs": 1169600,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1170920,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "씁쓸하다, 쌉쌀하다는 기분이 좀 좋은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1174820,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "이 맛을 먹었을 때"
+    } ]
+  }, {
+    "tStartMs": 1176610,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "일단 먹을 거에 얘기하는 표현이죠"
+    } ]
+  }, {
+    "tStartMs": 1182210,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1183300,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "좀 씁쓸하네"
+    } ]
+  }, {
+    "tStartMs": 1186020,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "감정 표현 중에도 할 수 있네요 씁쓸하다라는"
+    } ]
+  }, {
+    "tStartMs": 1189400,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1190620,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "좀 은근히 괴로운 마음"
+    } ]
+  }, {
+    "tStartMs": 1194570,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1195400,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "씁쓸하다"
+    } ]
+  }, {
+    "tStartMs": 1196600,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "씁쓸하다 씁쓸하다는 근데..."
+    } ]
+  }, {
+    "tStartMs": 1198660,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "진짜 그냥 괴로운 쪽인 것 같고"
+    } ]
+  }, {
+    "tStartMs": 1202040,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "뭔가 '쌉싸름하네' 이렇게 표현할 때는"
+    } ]
+  }, {
+    "tStartMs": 1206620,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "뭔가 마냥 아주 나쁜 부분만 있는 건 아닌 느낌?"
+    } ]
+  }, {
+    "tStartMs": 1212020,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "상황을 '쌉싸름하네'라고 표현하기도 해요?"
+    } ]
+  }, {
+    "tStartMs": 1215360,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "이건 너무 고급 한국어인 것 같기 때문에"
+    } ]
+  }, {
+    "tStartMs": 1218380,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "넘어가는 게 좋을 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 1221170,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "오케이"
+    } ]
+  }, {
+    "tStartMs": 1222160,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "그럼 '쓰다' 이 정도 구분할 수 있었고"
+    } ]
+  }, {
+    "tStartMs": 1224730,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "'쓰다'가 좀 어렵네"
+    } ]
+  }, {
+    "tStartMs": 1225870,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "아무래도 음식 중에 쓴 음식들이 많이 없어가지고"
+    } ]
+  }, {
+    "tStartMs": 1230900,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "연관짓기가 어려운 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1232540,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "자 그렇다면 대망의 매운맛 가겠습니다"
+    } ]
+  }, {
+    "tStartMs": 1236840,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "아마 매운맛 표현할 때 좀 구분이 어려우신 분들이 많을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1241520,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "매운맛의 기본형은 맵다죠 매워,"
+    } ]
+  }, {
+    "tStartMs": 1245050,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "맵네 이렇게 할 수 있는데"
+    } ]
+  }, {
+    "tStartMs": 1247570,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "표현할 수 있는 말이"
+    } ]
+  }, {
+    "tStartMs": 1249770,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "제가 하나, 둘, 셋, 넷, 다섯 가지 가져왔습니다"
+    } ]
+  }, {
+    "tStartMs": 1252380,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "첫 번째 매콤하다"
+    } ]
+  }, {
+    "tStartMs": 1255010,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "두 번째, 칼칼하다"
+    } ]
+  }, {
+    "tStartMs": 1257090,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "세 번째, 얼큰하다"
+    } ]
+  }, {
+    "tStartMs": 1259540,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "네 번째는 알싸하다"
+    } ]
+  }, {
+    "tStartMs": 1261810,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "다섯 번째, 얼얼하다"
+    } ]
+  }, {
+    "tStartMs": 1264270,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "이렇게 가져왔어요"
+    } ]
+  }, {
+    "tStartMs": 1265850,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "엄청 많죠"
+    } ]
+  }, {
+    "tStartMs": 1267670,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 1268490,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "차근차근 설명해볼까요?"
+    } ]
+  }, {
+    "tStartMs": 1270190,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "매콤하다 어떻게 생각하세요?"
+    } ]
+  }, {
+    "tStartMs": 1272410,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "일단 좀 긍정적인 의미예요 좋은 뜻"
+    } ]
+  }, {
+    "tStartMs": 1276820,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "동의해요"
+    } ]
+  }, {
+    "tStartMs": 1277890,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "매운데 맛있는 느낌의 매움인 거죠"
+    } ]
+  }, {
+    "tStartMs": 1282850,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "또 느끼시는 거 있습니까?"
+    } ]
+  }, {
+    "tStartMs": 1285020,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "그리고 또 너무 강하지 않아요 매운맛이"
+    } ]
+  }, {
+    "tStartMs": 1288280,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "먹을만하게 맵다"
+    } ]
+  }, {
+    "tStartMs": 1290560,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1292160,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "딱 맛있게 하기 위해 맵게 만든 느낌이에요"
+    } ]
+  }, {
+    "tStartMs": 1295850,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1297170,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "먹을만하게 맵고"
+    } ]
+  }, {
+    "tStartMs": 1299710,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "맛있어서 기분이 좋은 상태?"
+    } ]
+  }, {
+    "tStartMs": 1304960,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "네 근데 또 생각해보면"
+    } ]
+  }, {
+    "tStartMs": 1307070,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "우리가 얘기할 표현들이 사실 다 그렇죠?"
+    } ]
+  }, {
+    "tStartMs": 1309470,
+    "dDurationMs": 7010,
+    "segs": [ {
+      "utf8": "그런데 제 생각에는 매운 걸 어디서 느끼는지"
+    } ]
+  }, {
+    "tStartMs": 1316480,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "를 좀 짚으면 좋을 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 1319500,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "오 다른 표현들이랑"
+    } ]
+  }, {
+    "tStartMs": 1322510,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "오케이 그렇다면..."
+    } ]
+  }, {
+    "tStartMs": 1324320,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "매콤하다는 그냥 혀 전체"
+    } ]
+  }, {
+    "tStartMs": 1328570,
+    "dDurationMs": 5140,
+    "segs": [ {
+      "utf8": "그리고 뭐 입 천장 여기가 막 매운 걸 느끼는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1333710,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "아 입 속에서 매울 때"
+    } ]
+  }, {
+    "tStartMs": 1335840,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "그렇죠 입이 뜨겁죠"
+    } ]
+  }, {
+    "tStartMs": 1338180,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "그렇죠 입속"
+    } ]
+  }, {
+    "tStartMs": 1339710,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "그러면 칼칼하다는요?"
+    } ]
+  }, {
+    "tStartMs": 1341670,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "칼칼하다"
+    } ]
+  }, {
+    "tStartMs": 1343340,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "칼칼하다는... 맵다, 매콤하다 만큼"
+    } ]
+  }, {
+    "tStartMs": 1348130,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "막 입이 뜨겁진 않은데"
+    } ]
+  }, {
+    "tStartMs": 1349900,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "그래서 입 안에는 그렇게 큰 부담이 없어요"
+    } ]
+  }, {
+    "tStartMs": 1352060,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "혀가 엄청 괴롭지 않아요"
+    } ]
+  }, {
+    "tStartMs": 1354620,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "근데 목 쪽이 약간 매운 걸 느껴요"
+    } ]
+  }, {
+    "tStartMs": 1358340,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "맞아요 목이에요 칼칼한 건"
+    } ]
+  }, {
+    "tStartMs": 1361400,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "네 그래서 매운 걸 느끼긴 하는데"
+    } ]
+  }, {
+    "tStartMs": 1365120,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "입이 그렇게 괴롭지 않아서"
+    } ]
+  }, {
+    "tStartMs": 1369530,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "여기서 나오는 그 시원한 매콤함?"
+    } ]
+  }, {
+    "tStartMs": 1373920,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "좀 그런 편인 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 1376770,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "'시원하다'라는 단어는 뒤에서 좀 더 다룰 건데"
+    } ]
+  }, {
+    "tStartMs": 1380930,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "칼칼한 건 맞아요 목을 자극하는 맛이에요"
+    } ]
+  }, {
+    "tStartMs": 1385930,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "감기 걸렸을 때도 목이 칼칼하다고 하거든요"
+    } ]
+  }, {
+    "tStartMs": 1389090,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "목이 좀 이렇게 잠겨 있을 때"
+    } ]
+  }, {
+    "tStartMs": 1391460,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "그런 것처럼 목이 이렇게 아플 정도로"
+    } ]
+  }, {
+    "tStartMs": 1395930,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "매운맛이 목에서 느껴진다"
+    } ]
+  }, {
+    "tStartMs": 1399450,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "대표적인 게 좀 국물 같은 거 먹을 때"
+    } ]
+  }, {
+    "tStartMs": 1402730,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "국물은 빠르게 이렇게 입속을 슉 지나가버리잖아요"
+    } ]
+  }, {
+    "tStartMs": 1406410,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "그래서 여기 목을 딱 지나갈 때"
+    } ]
+  }, {
+    "tStartMs": 1409420,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "매운맛이 느껴진다 하는 게 칼칼한 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 1413390,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "맞습니다 맞습니다"
+    } ]
+  }, {
+    "tStartMs": 1416250,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "자 여기까지 했고 그럼 얼큰하다는요?"
+    } ]
+  }, {
+    "tStartMs": 1421860,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "얼큰하다 얼큰하다를 얘기하려면"
+    } ]
+  }, {
+    "tStartMs": 1424800,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "시원하다를 해야 되는데 그건 나중에 얘기한다고 했죠?"
+    } ]
+  }, {
+    "tStartMs": 1429290,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "시원하다도 그럼 해볼까요?"
+    } ]
+  }, {
+    "tStartMs": 1431580,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "시원하다를 먼저 할까요?"
+    } ]
+  }, {
+    "tStartMs": 1433500,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "이게 외국분들이 엄청 헷갈려하시잖아요"
+    } ]
+  }, {
+    "tStartMs": 1439110,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1440500,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "왜 뜨거운 음식을 먹으면서 시원하다고 하지?"
+    } ]
+  }, {
+    "tStartMs": 1444210,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1445230,
+    "dDurationMs": 5590,
+    "segs": [ {
+      "utf8": "저도 어렸을 때 책 같은 데서 만화 같은 걸로 봤는데"
+    } ]
+  }, {
+    "tStartMs": 1450820,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "목욕탕 같은 데 들어가서 어르신들이 시원하다고 말씀하시잖아요"
+    } ]
+  }, {
+    "tStartMs": 1456030,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "뜨거운데 시원하다고 표현하는 거"
+    } ]
+  }, {
+    "tStartMs": 1459530,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "원래 시원한 거는 춥다에 가까운 그런 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 1463070,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "바람이 불면 좀 몸이 차가워지는 게"
+    } ]
+  }, {
+    "tStartMs": 1465880,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "시원한 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 1467190,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "근데 이게 막 땀이 나고"
+    } ]
+  }, {
+    "tStartMs": 1471120,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "그러면 몸의 전체적인 혈액순환도 잘 되고"
+    } ]
+  }, {
+    "tStartMs": 1476620,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "실제로 땀이 나면서"
+    } ]
+  }, {
+    "tStartMs": 1478560,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "좀 기분이 개운해요"
+    } ]
+  }, {
+    "tStartMs": 1481640,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "기분이 이렇게 잘 자고 일어났을 때도 몸이 개운하잖아요"
+    } ]
+  }, {
+    "tStartMs": 1484530,
+    "dDurationMs": 6770,
+    "segs": [ {
+      "utf8": "그런 것처럼 전체적인 기분이 시원하다라는 표현해서"
+    } ]
+  }, {
+    "tStartMs": 1491300,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "그렇게 쓴다라고 어디서 본 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1494310,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "맞아요 그런 것 같아요 저도"
+    } ]
+  }, {
+    "tStartMs": 1497090,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "저는 이거 딱 하나 준비해왔는데요"
+    } ]
+  }, {
+    "tStartMs": 1501410,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "시원하다라는 표현에 대해서 저도 생각을 좀 해봤는데"
+    } ]
+  }, {
+    "tStartMs": 1505630,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "아까 디디님이 말씀하신 개운하다"
+    } ]
+  }, {
+    "tStartMs": 1509410,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "개운하다라는 표현"
+    } ]
+  }, {
+    "tStartMs": 1511360,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "일단 속이 시원하다거든요"
+    } ]
+  }, {
+    "tStartMs": 1515680,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "여기서 말하는 시원하다는 표현은"
+    } ]
+  }, {
+    "tStartMs": 1519570,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "바깥이 시원한 게 아니라"
+    } ]
+  }, {
+    "tStartMs": 1520950,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "제 몸 속이 시원한 느낌인데"
+    } ]
+  }, {
+    "tStartMs": 1524480,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "근데 뜨거운 음식을 먹으면 몸이 뜨거워지는데"
+    } ]
+  }, {
+    "tStartMs": 1528860,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "왜 시원하지? 이렇게 생각할 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 1531970,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "여기서 시원하다는 말을"
+    } ]
+  }, {
+    "tStartMs": 1533950,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "어떻게 표현하면 좋을까 생각을 해봤는데"
+    } ]
+  }, {
+    "tStartMs": 1537540,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "한국어 표현에 이런 표현이 있습니다"
+    } ]
+  }, {
+    "tStartMs": 1540640,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "'뻥 뚫린 시원한 고속도로'"
+    } ]
+  }, {
+    "tStartMs": 1545280,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "그러니까 고속도로에 우리가 차를 타고 드라이브를 하는데"
+    } ]
+  }, {
+    "tStartMs": 1549600,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "앞에 다른 차들이 막 없는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1552130,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "그래서 길에 저밖에 없어요"
+    } ]
+  }, {
+    "tStartMs": 1555010,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "그래서 그냥 쭉 달리면 너무 시원한 느낌이 드는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1560030,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "이것도 그냥 추운 공기, 바람이 시원한 느낌이 아니라"
+    } ]
+  }, {
+    "tStartMs": 1565140,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "그냥 빨리 쌩 가는 느낌?"
+    } ]
+  }, {
+    "tStartMs": 1568200,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "오, 맞죠"
+    } ]
+  }, {
+    "tStartMs": 1569860,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "근데 이런 뜨끈한"
+    } ]
+  }, {
+    "tStartMs": 1574660,
+    "dDurationMs": 8030,
+    "segs": [ {
+      "utf8": "그리고 이 감칠맛이 있는 그런 국물류의 요리를 먹고 마시면"
+    } ]
+  }, {
+    "tStartMs": 1582690,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "그 따뜻한 국물들이 그냥 입에서도 별로 안 거치고"
+    } ]
+  }, {
+    "tStartMs": 1588500,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "목으로 쭉 타고 내려가면서"
+    } ]
+  }, {
+    "tStartMs": 1591750,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "그리고 배로 들어가면서"
+    } ]
+  }, {
+    "tStartMs": 1594130,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "그 입부터 배까지의 길이 뻥 뚫린 느낌이 들어요"
+    } ]
+  }, {
+    "tStartMs": 1598960,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "그러면서 그 따뜻한 국물들로 길이 다 느껴지니까"
+    } ]
+  }, {
+    "tStartMs": 1603360,
+    "dDurationMs": 8190,
+    "segs": [ {
+      "utf8": "이게 뻥 뚫린 고속도로처럼 쭉 시원하게 내려가는 느낌"
+    } ]
+  }, {
+    "tStartMs": 1611550,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "고속도로에 비유를 하셨군요"
+    } ]
+  }, {
+    "tStartMs": 1613980,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "네 저는 그렇게 생각을 해봤습니다"
+    } ]
+  }, {
+    "tStartMs": 1616140,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "아 뭔가 막힌 거 없이 쭉 내려가는 그 시원함?"
+    } ]
+  }, {
+    "tStartMs": 1620990,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1623760,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "그래서 시원하다는 얘기를 할 때는"
+    } ]
+  }, {
+    "tStartMs": 1629290,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "그러니까 온도가 아니라 맛이 시원한 맛이라고 할 때는"
+    } ]
+  }, {
+    "tStartMs": 1633730,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "제가 알기론 모두 국물이에요"
+    } ]
+  }, {
+    "tStartMs": 1636620,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "아"
+    } ]
+  }, {
+    "tStartMs": 1639140,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "네 물이에요 물 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1642080,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "국물에만 써요"
+    } ]
+  }, {
+    "tStartMs": 1643140,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "액체 네"
+    } ]
+  }, {
+    "tStartMs": 1644540,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 1645790,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1646520,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "그러니까 이거는 입에서 느껴지는 맛을 얘기하는 게 아닌 거죠?"
+    } ]
+  }, {
+    "tStartMs": 1652290,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "느낌을 이야기하는 거죠"
+    } ]
+  }, {
+    "tStartMs": 1654980,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "네네네"
+    } ]
+  }, {
+    "tStartMs": 1658000,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "그래서 이거는 매운 맛도 아니고"
+    } ]
+  }, {
+    "tStartMs": 1660990,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "맛으로 표현할 수가 없어요"
+    } ]
+  }, {
+    "tStartMs": 1664320,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "온도와 기분, 먹었을 때의 기분"
+    } ]
+  }, {
+    "tStartMs": 1670270,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "근데 뭐 한 가지 더 하자면"
+    } ]
+  }, {
+    "tStartMs": 1673250,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "보통 육수, 육수라고 하는"
+    } ]
+  }, {
+    "tStartMs": 1678700,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "그런 아 뭐 국물이 대부분 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 1682180,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "뭔가 고기나 야채나 이런 걸 우려낸"
+    } ]
+  }, {
+    "tStartMs": 1687370,
+    "dDurationMs": 7090,
+    "segs": [ {
+      "utf8": "그래서 고기의 기름, 고기 육수나 야채의 물"
+    } ]
+  }, {
+    "tStartMs": 1694460,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "그 따뜻한 국물이 목을 타고 내려갈 때"
+    } ]
+  }, {
+    "tStartMs": 1698200,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "그 국물의 향도 쫙 느껴지는 느낌이죠"
+    } ]
+  }, {
+    "tStartMs": 1702990,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "그쵸 제가 원래 시원하다 이거 설명할 때"
+    } ]
+  }, {
+    "tStartMs": 1706820,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "깊은 맛이라고 얘기를 하려고 했거든요"
+    } ]
+  }, {
+    "tStartMs": 1709500,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "국물의 깊이가 깊은 거"
+    } ]
+  }, {
+    "tStartMs": 1712160,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "뭔가 재료를 많이 넣고 오래 끓인 그런 맛이 난다"
+    } ]
+  }, {
+    "tStartMs": 1715710,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "재료의 깊은 맛이 난다 할 때 시원하다 라고 표현할 수 있다"
+    } ]
+  }, {
+    "tStartMs": 1721080,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "라고 하려고 했는데..."
+    } ]
+  }, {
+    "tStartMs": 1723420,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "그런 것도 도움이 되지만"
+    } ]
+  }, {
+    "tStartMs": 1725290,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "확실히 그 목을 지나가는 느낌과 먹었을 때 기분"
+    } ]
+  }, {
+    "tStartMs": 1730590,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "그게 뭔가 이렇게 따뜻해지고 차분해지고"
+    } ]
+  }, {
+    "tStartMs": 1733410,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "기분이 좋아지는 그런 느낌을 받았을 때"
+    } ]
+  }, {
+    "tStartMs": 1737400,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "시원하다고 표현하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1740300,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 1741190,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "네 그래서 저는 꼭 한식에서만이 아니라"
+    } ]
+  }, {
+    "tStartMs": 1744810,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "베트남 여행 갔을 때"
+    } ]
+  }, {
+    "tStartMs": 1747040,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "쌀국수를 먹었는데 국물이 너무 시원한 거에요"
+    } ]
+  }, {
+    "tStartMs": 1752100,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "막 속이 풀리는 느낌? 알죠?"
+    } ]
+  }, {
+    "tStartMs": 1756060,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "그럴 때 시원하다고 표현 많이 해요"
+    } ]
+  }, {
+    "tStartMs": 1759420,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "그 소고기를 우린 깊은 육수 국물이"
+    } ]
+  }, {
+    "tStartMs": 1766240,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "입에서 배로 바로 쫙 내려가는 느낌"
+    } ]
+  }, {
+    "tStartMs": 1770530,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "와"
+    } ]
+  }, {
+    "tStartMs": 1772180,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "완벽히 이해되지 않았을까 생각하는데"
+    } ]
+  }, {
+    "tStartMs": 1775670,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "아무튼 시원하다가 그러다 보니까"
+    } ]
+  }, {
+    "tStartMs": 1778440,
+    "dDurationMs": 6120,
+    "segs": [ {
+      "utf8": "그럼 얼큰하다 얼큰하다는"
+    } ]
+  }, {
+    "tStartMs": 1784560,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "그래서 간단하게 매콤한 맛과 시원한 맛이 합쳐진 걸"
+    } ]
+  }, {
+    "tStartMs": 1789360,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "얼큰하다라고 생각하면 되겠습니다"
+    } ]
+  }, {
+    "tStartMs": 1793270,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그렇구나 매운 맛과 시원한 게 합쳐지면 얼큰해진다"
+    } ]
+  }, {
+    "tStartMs": 1798270,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "보통 시원하다라고 얘기할 때 그냥"
+    } ]
+  }, {
+    "tStartMs": 1802200,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "\"시원하다\" 이렇게 하지 않고요"
+    } ]
+  }, {
+    "tStartMs": 1804340,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "\"아~ 시원하다\" 이렇게 하거든요"
+    } ]
+  }, {
+    "tStartMs": 1807180,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "약간 그 여기서 올라오는 그 느낌이 있어요"
+    } ]
+  }, {
+    "tStartMs": 1811170,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "와~~~ 시원하다 이렇게"
+    } ]
+  }, {
+    "tStartMs": 1814000,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "그래서 말씀하신 쌀국수"
+    } ]
+  }, {
+    "tStartMs": 1816920,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "곰탕"
+    } ]
+  }, {
+    "tStartMs": 1818260,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "돼지국밥"
+    } ]
+  }, {
+    "tStartMs": 1819540,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "이런 안 매운 음식들도 시원한 것들 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1823340,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "있죠 있죠"
+    } ]
+  }, {
+    "tStartMs": 1824760,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "그런 걸 먹고 \"아~~~ 시원하다\"고 할 때"
+    } ]
+  }, {
+    "tStartMs": 1828910,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "김치찌개 같은 거"
+    } ]
+  }, {
+    "tStartMs": 1831090,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "돼지고기 김치찌개"
+    } ]
+  }, {
+    "tStartMs": 1833210,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "이런 거를 짬뽕 이런 거 네"
+    } ]
+  }, {
+    "tStartMs": 1836510,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "그런 걸 먹을 때 똑같이 시원한데"
+    } ]
+  }, {
+    "tStartMs": 1838730,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "매운맛도 있어서"
+    } ]
+  }, {
+    "tStartMs": 1840150,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "'야 얼큰하다' 이렇게 할 수 있는 겁니다"
+    } ]
+  }, {
+    "tStartMs": 1843530,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "완벽합니다"
+    } ]
+  }, {
+    "tStartMs": 1846000,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "보통 '시원하다'를 '해장'이랑 같이 많이 쓰는 것 같거든요?"
+    } ]
+  }, {
+    "tStartMs": 1850580,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "오 좋은 포인트에요\n- 이거 연관지으면 좋을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1854630,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "해장이라는 표현을 알고 계실지 모르겠는데"
+    } ]
+  }, {
+    "tStartMs": 1858440,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "보통은 술을 마시고"
+    } ]
+  }, {
+    "tStartMs": 1860160,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "다음날에 숙취라는 게 있죠?"
+    } ]
+  }, {
+    "tStartMs": 1863370,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "속이 불편한 기분"
+    } ]
+  }, {
+    "tStartMs": 1865750,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "기분도 안 좋고 속도 안 좋고"
+    } ]
+  }, {
+    "tStartMs": 1868690,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "그럴 때 해장 음식 같은 걸 먹어요"
+    } ]
+  }, {
+    "tStartMs": 1871630,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "속을 편안하게 해주는 음식"
+    } ]
+  }, {
+    "tStartMs": 1875010,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "그런 느낌을 또 생각해 보셔도 좋을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1877710,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "속이 편안해지고 풀리는"
+    } ]
+  }, {
+    "tStartMs": 1879510,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "그러니까 그런 음식들을 먹으면 '아 시원하다'"
+    } ]
+  }, {
+    "tStartMs": 1883430,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "속이 좀 풀린다"
+    } ]
+  }, {
+    "tStartMs": 1884630,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "이렇게 표현도 많이 할 수 있어요"
+    } ]
+  }, {
+    "tStartMs": 1887190,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 1888690,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "얼큰하다까지"
+    } ]
+  }, {
+    "tStartMs": 1890180,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "얼큰한 음식들도 해장으로 많이 먹죠"
+    } ]
+  }, {
+    "tStartMs": 1894240,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "좋죠 너무 좋죠"
+    } ]
+  }, {
+    "tStartMs": 1896020,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "그리고 이제 알싸하다랑 얼얼하다가 남았는데"
+    } ]
+  }, {
+    "tStartMs": 1899610,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "알싸한 거는 어떨까요?"
+    } ]
+  }, {
+    "tStartMs": 1903050,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "알싸하다는 게 너무 간단한 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1905680,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "너무 대표적인 음식이 있어서"
+    } ]
+  }, {
+    "tStartMs": 1907380,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "어떤 거요?"
+    } ]
+  }, {
+    "tStartMs": 1908750,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "와사비"
+    } ]
+  }, {
+    "tStartMs": 1911290,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "한국어로는 고추냉이라고 하죠"
+    } ]
+  }, {
+    "tStartMs": 1914780,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "그것도 입이 고통스럽고 맵지는 않은데"
+    } ]
+  }, {
+    "tStartMs": 1919940,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "그거는 이제 이 코로 쏴~한 느낌이 나오는"
+    } ]
+  }, {
+    "tStartMs": 1925960,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1928460,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "좀 고통스러워요"
+    } ]
+  }, {
+    "tStartMs": 1929460,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "그리고 혀끝"
+    } ]
+  }, {
+    "tStartMs": 1930660,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "저는 혀끝이 좀 아플 때도"
+    } ]
+  }, {
+    "tStartMs": 1932880,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "알싸한 거 많이 이야기하는 것 같거든요"
+    } ]
+  }, {
+    "tStartMs": 1937290,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "땡초 치킨 이런 거 먹으면 알싸하다고 표현하잖아요"
+    } ]
+  }, {
+    "tStartMs": 1942210,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1942950,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "코나 혀끝 이런 쪽이 좀 아리다"
+    } ]
+  }, {
+    "tStartMs": 1946780,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "쓰리다"
+    } ]
+  }, {
+    "tStartMs": 1948470,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "그런 느낌이 드는 매운맛이 알싸한 맛인 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1952550,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "네 그리고 톡 쏘는 느낌?"
+    } ]
+  }, {
+    "tStartMs": 1956440,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "톡 쏘는 느낌"
+    } ]
+  }, {
+    "tStartMs": 1958270,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1959890,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "땡초 치킨 뭐 이런 거 먹으면 그렇죠"
+    } ]
+  }, {
+    "tStartMs": 1965080,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "그게 알싸한 맛"
+    } ]
+  }, {
+    "tStartMs": 1965890,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "얼얼한 맛은요?"
+    } ]
+  }, {
+    "tStartMs": 1967540,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "이것도 대표적인 음식이 있는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1971040,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "뭐가 있죠?"
+    } ]
+  }, {
+    "tStartMs": 1972130,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "마라탕?"
+    } ]
+  }, {
+    "tStartMs": 1975160,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "마라, 마라"
+    } ]
+  }, {
+    "tStartMs": 1977750,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "입 전체가 마라 얼얼한 거예요"
+    } ]
+  }, {
+    "tStartMs": 1982640,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "얼얼한 건 얼얼한 건가요?"
+    } ]
+  }, {
+    "tStartMs": 1987280,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "얘기하고 이상하다 생각했어요"
+    } ]
+  }, {
+    "tStartMs": 1989370,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "저는 제가 생각하는 표현이 있는데요"
+    } ]
+  }, {
+    "tStartMs": 1991290,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "네 뭐죠?"
+    } ]
+  }, {
+    "tStartMs": 1992550,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "얼얼한 건 어떤 거냐면"
+    } ]
+  }, {
+    "tStartMs": 1995220,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "혀랑 입천장이 두근거리는 느낌이에요"
+    } ]
+  }, {
+    "tStartMs": 1997850,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "아, 그 생각했어요"
+    } ]
+  }, {
+    "tStartMs": 1999580,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "뭔가 왕왕왕 이렇게 아픈 거"
+    } ]
+  }, {
+    "tStartMs": 2002930,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 2005040,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "혀가 막 이렇게 막 이러고 있어요 두근두근"
+    } ]
+  }, {
+    "tStartMs": 2009970,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "어떡해요"
+    } ]
+  }, {
+    "tStartMs": 2011000,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "맞아, 좀 이렇게 아픈 거"
+    } ]
+  }, {
+    "tStartMs": 2014200,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "매운맛이 원래 아픈 맛이잖아요"
+    } ]
+  }, {
+    "tStartMs": 2017490,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아픈 거잖아요 그렇긴 한데"
+    } ]
+  }, {
+    "tStartMs": 2021490,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "두근두근 아픈 거"
+    } ]
+  }, {
+    "tStartMs": 2023760,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2025390,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "그게 '얼알하다'인 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 2027610,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "그래서 추가로 '맵다' 표현을 알려드리면서"
+    } ]
+  }, {
+    "tStartMs": 2031730,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "그 질문 주신 분이 헷갈려 하셨던 게"
+    } ]
+  }, {
+    "tStartMs": 2036280,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "'삿빠리(さっぱり)'라고 해서 일본어에서"
+    } ]
+  }, {
+    "tStartMs": 2039670,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "'상큼하다'랑 비슷한 표현이 있어요"
+    } ]
+  }, {
+    "tStartMs": 2041950,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "한국어로 생각하면 좀 레몬 샐러드나"
+    } ]
+  }, {
+    "tStartMs": 2045590,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "뭐 그런 거 먹었을 때 상큼한 느낌"
+    } ]
+  }, {
+    "tStartMs": 2049520,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "그런 걸 한국에서는 '상큼하다'"
+    } ]
+  }, {
+    "tStartMs": 2051470,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "아니면 '산뜻하다' 이렇게 표현을 하고"
+    } ]
+  }, {
+    "tStartMs": 2055520,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "이제 질문자님께서 궁금해 하셨던"
+    } ]
+  }, {
+    "tStartMs": 2059040,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "시원하다랑은 전혀 다른 뜻이에요 이게"
+    } ]
+  }, {
+    "tStartMs": 2062940,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "그래서 그 삿빠리(さっぱり)랑 비슷한 표현"
+    } ]
+  }, {
+    "tStartMs": 2065560,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "상큼하다 산뜻하다 까지만 설명을 해 볼게요"
+    } ]
+  }, {
+    "tStartMs": 2070450,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "상큼하다랑 산뜻하다 의 차이 혹시 느껴지실까요?"
+    } ]
+  }, {
+    "tStartMs": 2077270,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "저는 사실 음식을 먹고"
+    } ]
+  }, {
+    "tStartMs": 2080940,
+    "dDurationMs": 3860,
+    "segs": [ {
+      "utf8": "산뜻하다 라고 표현해 본 적이 거의 없어서..."
+    } ]
+  }, {
+    "tStartMs": 2084800,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "아 산뜻하다"
+    } ]
+  }, {
+    "tStartMs": 2087930,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "제 생각에는"
+    } ]
+  }, {
+    "tStartMs": 2089300,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "상큼한 거는 좀 과일에 가까워요 제가 생각했을 때는"
+    } ]
+  }, {
+    "tStartMs": 2092880,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "과일을 먹었을 때"
+    } ]
+  }, {
+    "tStartMs": 2094910,
+    "dDurationMs": 5950,
+    "segs": [ {
+      "utf8": "좀 시원하고 진짜 시원하고 좀 개운한 그런 느낌"
+    } ]
+  }, {
+    "tStartMs": 2100860,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "입안이 깨끗해지는 그런 느낌"
+    } ]
+  }, {
+    "tStartMs": 2103060,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "레모네이드 이런 거"
+    } ]
+  }, {
+    "tStartMs": 2106810,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "상큼하다 이야기할 수 있고"
+    } ]
+  }, {
+    "tStartMs": 2109810,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "산뜻하다는 좀 신선한 느낌도 있어요"
+    } ]
+  }, {
+    "tStartMs": 2114650,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "재료가 신선하고"
+    } ]
+  }, {
+    "tStartMs": 2117430,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "맛이 가볍고 상쾌한 거"
+    } ]
+  }, {
+    "tStartMs": 2122870,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "민트 같은 거"
+    } ]
+  }, {
+    "tStartMs": 2124730,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "입안이 좀 시원해지는 거"
+    } ]
+  }, {
+    "tStartMs": 2127750,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "그런 거 산뜻하다라고 표현할 수 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2130920,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "샐러드 같은 거"
+    } ]
+  }, {
+    "tStartMs": 2132450,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "네 산뜻한 샐러드"
+    } ]
+  }, {
+    "tStartMs": 2135080,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "이런 거"
+    } ]
+  }, {
+    "tStartMs": 2136920,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "산뜻하다"
+    } ]
+  }, {
+    "tStartMs": 2138770,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "보통 초록색 먹을 거에 사용하는 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 2142810,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "그쵸 민트, 샐러드"
+    } ]
+  }, {
+    "tStartMs": 2145950,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "그렇게 표현해 보시면 좋을 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 2149910,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "자 저희가 최선을 다해서 이제 한국어의 맛 표현들 설명을 해봤구요"
+    } ]
+  }, {
+    "tStartMs": 2155320,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "혹시나 추가로 궁금하셨던 맛의 차이나"
+    } ]
+  }, {
+    "tStartMs": 2159280,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "그런거 있으면 댓글로 남겨주시고"
+    } ]
+  }, {
+    "tStartMs": 2162210,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "제가 추천드리고 싶은건"
+    } ]
+  }, {
+    "tStartMs": 2165090,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "아무래도 직접 먹어보는게"
+    } ]
+  }, {
+    "tStartMs": 2168980,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "직접 오셔서 먹어보는 게 가장 이해 빠르지 않을까 싶습니다"
+    } ]
+  }, {
+    "tStartMs": 2174080,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "오셔서 국밥 같은 거 드셔보시고 '아 이게 시원한 거구나'"
+    } ]
+  }, {
+    "tStartMs": 2178870,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "이런 거 느껴보시는 게 좋죠"
+    } ]
+  }, {
+    "tStartMs": 2180990,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "네 시원한 건 시원한 느낌을 느껴봐야 돼요"
+    } ]
+  }, {
+    "tStartMs": 2184710,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "맞아 말로만 들으면 어려워요"
+    } ]
+  }, {
+    "tStartMs": 2188500,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "네 밤에 술 진탕 마시고 다음 날에"
+    } ]
+  }, {
+    "tStartMs": 2192660,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "국물 한 숟가락 호로록 하면"
+    } ]
+  }, {
+    "tStartMs": 2195930,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "아 이거구나...!"
+    } ]
+  }, {
+    "tStartMs": 2198810,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "이게 시원한 거구나...!"
+    } ]
+  }, {
+    "tStartMs": 2201930,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2203250,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "그러면 이제 이번 주 퀴즈도 한번 알려드릴게요"
+    } ]
+  }, {
+    "tStartMs": 2206860,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "이번 주 퀴즈는"
+    } ]
+  }, {
+    "tStartMs": 2208640,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "저희가 언급을 가장 많이 했던 시원한 맛 관련된 퀴즈고요"
+    } ]
+  }, {
+    "tStartMs": 2213690,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "다음 중 시원한 맛의 음식이 아닌 것은?입니다"
+    } ]
+  }, {
+    "tStartMs": 2218290,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "1번 떡볶이"
+    } ]
+  }, {
+    "tStartMs": 2220900,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "2번 쌀국수"
+    } ]
+  }, {
+    "tStartMs": 2223390,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "3번 돼지국밥"
+    } ]
+  }, {
+    "tStartMs": 2225360,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "그러면 여기 정답 아시는 분들은"
+    } ]
+  }, {
+    "tStartMs": 2227550,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "댓글로 많이 남겨 주시고요"
+    } ]
+  }, {
+    "tStartMs": 2229690,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "저희는 다음 코너로 넘어가 보겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2232600,
+    "dDurationMs": 10110,
+    "segs": [ {
+      "utf8": "말로 하는 미니게임"
+    } ]
+  }, {
+    "tStartMs": 2242710,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "이번 코너는 말로 하는 미니게임 시간이고요"
+    } ]
+  }, {
+    "tStartMs": 2247090,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "또 새로운 게임 제가 가져와 봤습니다"
+    } ]
+  }, {
+    "tStartMs": 2250710,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "오늘 맛 표현 이야기를 많이 해봤잖아요"
+    } ]
+  }, {
+    "tStartMs": 2253200,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "그래서 여러분들이 음식이랑"
+    } ]
+  }, {
+    "tStartMs": 2256290,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "이 맛이랑 좀 연관 짓는 데 도움이 될 수 있도록"
+    } ]
+  }, {
+    "tStartMs": 2260230,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "준비한 게임이고요"
+    } ]
+  }, {
+    "tStartMs": 2261280,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "게임 이름은 '맛 표현 릴레이 게임'입니다"
+    } ]
+  }, {
+    "tStartMs": 2265270,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "'맛 표현 릴레이 게임'"
+    } ]
+  }, {
+    "tStartMs": 2267020,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "어떤 게임일까요? 이거는"
+    } ]
+  }, {
+    "tStartMs": 2269400,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "이제 한 명이 맛을 먼저 이야기합니다"
+    } ]
+  }, {
+    "tStartMs": 2272940,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "예를 들면 '매콤하다'"
+    } ]
+  }, {
+    "tStartMs": 2275320,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "그러면 그 다음 사람이"
+    } ]
+  }, {
+    "tStartMs": 2277150,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "매콤한 음식을 한 가지 이야기하는 거예요"
+    } ]
+  }, {
+    "tStartMs": 2280730,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "그러면 이제 그 다음 사람이..."
+    } ]
+  }, {
+    "tStartMs": 2283520,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "예를 들면 뭐가 있죠? 매콤한 음식 떡볶이"
+    } ]
+  }, {
+    "tStartMs": 2286900,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "그럼 그 다음 사람이 떡볶이에서 나는 또 다른 맛을 이야기하는 거예요"
+    } ]
+  }, {
+    "tStartMs": 2292520,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "달콤한 맛이 날 수도 있죠"
+    } ]
+  }, {
+    "tStartMs": 2294930,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "그렇게 계속 이어가는 게"
+    } ]
+  }, {
+    "tStartMs": 2296820,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "맛표현 릴레이 게임입니다"
+    } ]
+  }, {
+    "tStartMs": 2299290,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "좋습니다 그러면 둘이서 할 때는 음식을 얘기하고"
+    } ]
+  }, {
+    "tStartMs": 2302640,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "바로 맛을 얘기하면 되나요?"
+    } ]
+  }, {
+    "tStartMs": 2304660,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "떡볶이 - 매콤하다 그렇게 해볼까요?"
+    } ]
+  }, {
+    "tStartMs": 2307320,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "한 사람이 맛이랑 음식까지 얘기하고"
+    } ]
+  }, {
+    "tStartMs": 2311090,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "다음 사람은 맛이랑 음식..."
+    } ]
+  }, {
+    "tStartMs": 2314550,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "연습게임 한 번만 해볼게요"
+    } ]
+  }, {
+    "tStartMs": 2317760,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "맛부터"
+    } ]
+  }, {
+    "tStartMs": 2319320,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "상큼하다"
+    } ]
+  }, {
+    "tStartMs": 2320920,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "샐러드"
+    } ]
+  }, {
+    "tStartMs": 2322770,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "시다"
+    } ]
+  }, {
+    "tStartMs": 2325060,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "그럼 이제 제가 신 음식"
+    } ]
+  }, {
+    "tStartMs": 2328210,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "재료 안 대고 음식으로 할게요"
+    } ]
+  }, {
+    "tStartMs": 2333530,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "근데 신 음식이 없어요"
+    } ]
+  }, {
+    "tStartMs": 2335640,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "신 음식... 신 음식 있어요"
+    } ]
+  }, {
+    "tStartMs": 2338230,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "젤리 뭐 이렇게 하면 어때요?"
+    } ]
+  }, {
+    "tStartMs": 2340580,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "젤리"
+    } ]
+  }, {
+    "tStartMs": 2342470,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "달콤하다 이렇게"
+    } ]
+  }, {
+    "tStartMs": 2344450,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "아 뭐 없나"
+    } ]
+  }, {
+    "tStartMs": 2347820,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "해볼래요 그냥 이렇게?"
+    } ]
+  }, {
+    "tStartMs": 2349110,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "해봐요"
+    } ]
+  }, {
+    "tStartMs": 2350880,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2352050,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "태웅쌤 먼저 해보실래요 시작을"
+    } ]
+  }, {
+    "tStartMs": 2354760,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "저부터요?"
+    } ]
+  }, {
+    "tStartMs": 2355640,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2356940,
+    "dDurationMs": 650,
+    "segs": [ {
+      "utf8": "오케이"
+    } ]
+  }, {
+    "tStartMs": 2357590,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "칼칼하다"
+    } ]
+  }, {
+    "tStartMs": 2360370,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "칼칼하다"
+    } ]
+  }, {
+    "tStartMs": 2361750,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "짬뽕"
+    } ]
+  }, {
+    "tStartMs": 2364660,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "매콤하다... 왜요?"
+    } ]
+  }, {
+    "tStartMs": 2368180,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "짬뽕 칼칼하다?"
+    } ]
+  }, {
+    "tStartMs": 2369650,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "짬뽕 얼마나 칼칼한데요?"
+    } ]
+  }, {
+    "tStartMs": 2371720,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "짬뽕 얼큰하다고 하지 않았어요 아까?"
+    } ]
+  }, {
+    "tStartMs": 2373470,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "아니 그러니까 여러 가지를 느낄 수 있죠 칼칼한 게 뭐였습니까?"
+    } ]
+  }, {
+    "tStartMs": 2377490,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "목이 칼칼한 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 2379100,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "아 뭐 그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 2381570,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "오케이 오케이 인정합니다 매콤하다? 네"
+    } ]
+  }, {
+    "tStartMs": 2384270,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "짬뽕 매콤하다"
+    } ]
+  }, {
+    "tStartMs": 2386070,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "매콤하다? 매콤하다?"
+    } ]
+  }, {
+    "tStartMs": 2388500,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "매콤하다? 그러면 마라탕"
+    } ]
+  }, {
+    "tStartMs": 2393290,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "그럼 이제 제가 맛 얘기해요?"
+    } ]
+  }, {
+    "tStartMs": 2394720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "아 그럼 제가 그리고 맛 얘기해야 돼요?"
+    } ]
+  }, {
+    "tStartMs": 2396720,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "네 마라탕 괜찮아요 매콤하죠"
+    } ]
+  }, {
+    "tStartMs": 2401050,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "고소하다"
+    } ]
+  }, {
+    "tStartMs": 2403920,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "땅콩 소스 때문에?"
+    } ]
+  }, {
+    "tStartMs": 2406210,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "아니 아 그러면 이 음식의 맛을 얘기하는 거예요?"
+    } ]
+  }, {
+    "tStartMs": 2409880,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 2411990,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "마라탕을 표현하는 다른 맛들도 있을 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 2416540,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "아 저 이해됐어요 이제"
+    } ]
+  }, {
+    "tStartMs": 2419200,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "이제 됐어요?"
+    } ]
+  }, {
+    "tStartMs": 2420570,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "아 그럼 이해됐어요 이해됐습니다 다시 다시 다시 합시다"
+    } ]
+  }, {
+    "tStartMs": 2423430,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "그러면 다시 처음부터?"
+    } ]
+  }, {
+    "tStartMs": 2424840,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "네네 네"
+    } ]
+  }, {
+    "tStartMs": 2426680,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "시작"
+    } ]
+  }, {
+    "tStartMs": 2428150,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "매콤하다"
+    } ]
+  }, {
+    "tStartMs": 2430680,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "그럼 제가"
+    } ]
+  }, {
+    "tStartMs": 2432810,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "떡볶이 달콤하다"
+    } ]
+  }, {
+    "tStartMs": 2435320,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "응 떡볶이는 매콤달콤하니까"
+    } ]
+  }, {
+    "tStartMs": 2438940,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2440210,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "달콤하다?"
+    } ]
+  }, {
+    "tStartMs": 2441240,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "응"
+    } ]
+  }, {
+    "tStartMs": 2442360,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "호떡? 고소하다"
+    } ]
+  }, {
+    "tStartMs": 2444790,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "그쵸 고소한거"
+    } ]
+  }, {
+    "tStartMs": 2447800,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "음... 고소한 거?"
+    } ]
+  }, {
+    "tStartMs": 2451980,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "율무차"
+    } ]
+  }, {
+    "tStartMs": 2455830,
+    "dDurationMs": 300,
+    "segs": [ {
+      "utf8": "율무차?"
+    } ]
+  }, {
+    "tStartMs": 2457920,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "율무차의 계절이잖아요"
+    } ]
+  }, {
+    "tStartMs": 2459800,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "어..."
+    } ]
+  }, {
+    "tStartMs": 2461290,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "율무차라고.... 뭐라고 설명할까요?"
+    } ]
+  }, {
+    "tStartMs": 2465450,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "뭐 씨앗?"
+    } ]
+  }, {
+    "tStartMs": 2466550,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "네, 곡물로 만든 차가 있어요"
+    } ]
+  }, {
+    "tStartMs": 2469590,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "그러니까 고소합니다"
+    } ]
+  }, {
+    "tStartMs": 2472020,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "율무차 달달하다"
+    } ]
+  }, {
+    "tStartMs": 2474740,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "달달하다?"
+    } ]
+  }, {
+    "tStartMs": 2477860,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "얼그레이 케이크?"
+    } ]
+  }, {
+    "tStartMs": 2482060,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "달달하죠 달달하죠"
+    } ]
+  }, {
+    "tStartMs": 2484600,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "고소하다 얼그레이"
+    } ]
+  }, {
+    "tStartMs": 2486930,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "또 고소하다?"
+    } ]
+  }, {
+    "tStartMs": 2487960,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "얼그레이 안 고소한가?"
+    } ]
+  }, {
+    "tStartMs": 2489800,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "에이 얼그레이가 뭘 고소해요"
+    } ]
+  }, {
+    "tStartMs": 2492530,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "그럼 상큼하단가?"
+    } ]
+  }, {
+    "tStartMs": 2494850,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "상큼할 수 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2496840,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "아 아닌가? 상큼도 좀 그래요"
+    } ]
+  }, {
+    "tStartMs": 2500780,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "얼그레이 그냥 단가 그러면?"
+    } ]
+  }, {
+    "tStartMs": 2503820,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "달콤하고..."
+    } ]
+  }, {
+    "tStartMs": 2506040,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "향긋하다?"
+    } ]
+  }, {
+    "tStartMs": 2507270,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "향긋하다... 아니 너무 어렵다 이거"
+    } ]
+  }, {
+    "tStartMs": 2511540,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "향긋하다 향이 좋잖아요"
+    } ]
+  }, {
+    "tStartMs": 2515640,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2516150,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "드릴게요"
+    } ]
+  }, {
+    "tStartMs": 2517370,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "오케이, 오케이, 오케이 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 2520210,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "향긋하다"
+    } ]
+  }, {
+    "tStartMs": 2524090,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "자꾸 차 쪽으로 생각이 나네, 이게"
+    } ]
+  }, {
+    "tStartMs": 2528250,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "유자차"
+    } ]
+  }, {
+    "tStartMs": 2530530,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "유자차?"
+    } ]
+  }, {
+    "tStartMs": 2531630,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "네, 유자차"
+    } ]
+  }, {
+    "tStartMs": 2534520,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "새콤하다"
+    } ]
+  }, {
+    "tStartMs": 2536750,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "유자차? 어 새콤하다"
+    } ]
+  }, {
+    "tStartMs": 2538370,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "네 아 이거 너무"
+    } ]
+  }, {
+    "tStartMs": 2543060,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "그 굴레에 빠지는 것 같은데 새콤하다?"
+    } ]
+  }, {
+    "tStartMs": 2547010,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "레몬 마들렌?"
+    } ]
+  }, {
+    "tStartMs": 2551320,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "디저트다"
+    } ]
+  }, {
+    "tStartMs": 2552480,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "달콤하다"
+    } ]
+  }, {
+    "tStartMs": 2554040,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "어 달콤하다"
+    } ]
+  }, {
+    "tStartMs": 2555930,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "그러면"
+    } ]
+  }, {
+    "tStartMs": 2556880,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "제육볶음"
+    } ]
+  }, {
+    "tStartMs": 2559260,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "어 맵단"
+    } ]
+  }, {
+    "tStartMs": 2560850,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "네 달콤하고 제육볶음은 매콤하죠"
+    } ]
+  }, {
+    "tStartMs": 2565680,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "매콤하다"
+    } ]
+  }, {
+    "tStartMs": 2567530,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "매콤하다"
+    } ]
+  }, {
+    "tStartMs": 2568970,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "이제 게임답게 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2570150,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "그 디저트 게임 말고요"
+    } ]
+  }, {
+    "tStartMs": 2572790,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "음식 게임으로"
+    } ]
+  }, {
+    "tStartMs": 2574900,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "매콤하다"
+    } ]
+  }, {
+    "tStartMs": 2576010,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "돼지 불고기"
+    } ]
+  }, {
+    "tStartMs": 2577530,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "짭짤하다"
+    } ]
+  }, {
+    "tStartMs": 2579870,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "짭짤하다"
+    } ]
+  }, {
+    "tStartMs": 2581370,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "사실 다 되죠"
+    } ]
+  }, {
+    "tStartMs": 2582810,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "그렇죠 돼지 김치찜"
+    } ]
+  }, {
+    "tStartMs": 2585270,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "돼지 김치찜"
+    } ]
+  }, {
+    "tStartMs": 2586330,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "태웅쌤이 좋아하는"
+    } ]
+  }, {
+    "tStartMs": 2588290,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "시큼하다"
+    } ]
+  }, {
+    "tStartMs": 2590510,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "시큼하다 맞아요"
+    } ]
+  }, {
+    "tStartMs": 2592660,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "김치 묵은지는 시큼해요"
+    } ]
+  }, {
+    "tStartMs": 2596630,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "청국장?"
+    } ]
+  }, {
+    "tStartMs": 2599800,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "제가 청국장을 안 먹어봤어요"
+    } ]
+  }, {
+    "tStartMs": 2601900,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "그것도 콩을 발효해서 만든 음식이라"
+    } ]
+  }, {
+    "tStartMs": 2605410,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2607040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "그리고 구수하다"
+    } ]
+  }, {
+    "tStartMs": 2609480,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "구수한 거"
+    } ]
+  }, {
+    "tStartMs": 2611610,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2612820,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "이건 다음에 또 설명해 드릴게요"
+    } ]
+  }, {
+    "tStartMs": 2614930,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "고소하다, 구수하다 차이가 있는데"
+    } ]
+  }, {
+    "tStartMs": 2616660,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "구수한 맛인 거죠?"
+    } ]
+  }, {
+    "tStartMs": 2618650,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2619770,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "된장류들 밖에 생각이 안 나는데요"
+    } ]
+  }, {
+    "tStartMs": 2623110,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "구수한 거는"
+    } ]
+  }, {
+    "tStartMs": 2625550,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "된장찌개"
+    } ]
+  }, {
+    "tStartMs": 2628050,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "얼큰하다"
+    } ]
+  }, {
+    "tStartMs": 2629240,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "얼큰할 수 있죠"
+    } ]
+  }, {
+    "tStartMs": 2632260,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "얼큰하다"
+    } ]
+  }, {
+    "tStartMs": 2633280,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "매운탕"
+    } ]
+  }, {
+    "tStartMs": 2634710,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "맵다"
+    } ]
+  }, {
+    "tStartMs": 2636030,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "맵다는"
+    } ]
+  }, {
+    "tStartMs": 2637790,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "불닭볶음면"
+    } ]
+  }, {
+    "tStartMs": 2639580,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "얼얼하다"
+    } ]
+  }, {
+    "tStartMs": 2641240,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "오케이 얼얼하다"
+    } ]
+  }, {
+    "tStartMs": 2644510,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "이 게임은 세 번만 왔다 갔다 하고 종료합시다"
+    } ]
+  }, {
+    "tStartMs": 2647860,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "이거는 계속할 수 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2649950,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "맞네요 맞네요"
+    } ]
+  }, {
+    "tStartMs": 2651400,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "얼얼하다?"
+    } ]
+  }, {
+    "tStartMs": 2652540,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "티바 두 마리 치킨 마늘 땡초 치킨"
+    } ]
+  }, {
+    "tStartMs": 2658440,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "아무도 공감 못해요"
+    } ]
+  }, {
+    "tStartMs": 2660640,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "그거 얼얼해요 그거!"
+    } ]
+  }, {
+    "tStartMs": 2662600,
+    "dDurationMs": 5170,
+    "segs": [ {
+      "utf8": "아니 아무도 안 먹어봤다고요 이거 들으시는 분들"
+    } ]
+  }, {
+    "tStartMs": 2667770,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "티바 두 마리 뭐요?"
+    } ]
+  }, {
+    "tStartMs": 2670100,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "티바 두 마리 치킨에"
+    } ]
+  }, {
+    "tStartMs": 2673730,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "고추 마늘 치킨이다"
+    } ]
+  }, {
+    "tStartMs": 2674960,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "고추 마늘 치킨"
+    } ]
+  }, {
+    "tStartMs": 2676340,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "상당히 얼얼할 것 같긴 하네요 고추, 마늘"
+    } ]
+  }, {
+    "tStartMs": 2680190,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "네, 고추, 마늘 치킨이고"
+    } ]
+  }, {
+    "tStartMs": 2681650,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "후라이드 반, 고추, 마늘 반 하면 진짜 최고입니다"
+    } ]
+  }, {
+    "tStartMs": 2687290,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "치킨 추천까지"
+    } ]
+  }, {
+    "tStartMs": 2688890,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "네, 아무튼 그리고"
+    } ]
+  }, {
+    "tStartMs": 2691030,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "짜다"
+    } ]
+  }, {
+    "tStartMs": 2691930,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "짜다"
+    } ]
+  }, {
+    "tStartMs": 2693420,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "짜요"
+    } ]
+  }, {
+    "tStartMs": 2694100,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "짜군요"
+    } ]
+  }, {
+    "tStartMs": 2695520,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "짠 거는 저는 일본 라멘"
+    } ]
+  }, {
+    "tStartMs": 2699790,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "진짜 짜요"
+    } ]
+  }, {
+    "tStartMs": 2701530,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "하지만 돼지 기름 때문에..."
+    } ]
+  }, {
+    "tStartMs": 2704600,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "근데 또 라멘이 시원한 맛은 아니네요 생각해보니까"
+    } ]
+  }, {
+    "tStartMs": 2709520,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "라멘이 여러 종류잖아요"
+    } ]
+  }, {
+    "tStartMs": 2712740,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "돈코츠 라멘도 있고 시오라멘도 있고"
+    } ]
+  }, {
+    "tStartMs": 2715710,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "아부라도 있고"
+    } ]
+  }, {
+    "tStartMs": 2718210,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "쇼유라멘도 있지 않습니까?"
+    } ]
+  }, {
+    "tStartMs": 2720050,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "그쵸"
+    } ]
+  }, {
+    "tStartMs": 2721110,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "근데 돈코츠 라멘은 전 시원하다고 생각합니다"
+    } ]
+  }, {
+    "tStartMs": 2723340,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "시원하다고 생각하시나요?"
+    } ]
+  }, {
+    "tStartMs": 2725530,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "돼지 육수라서"
+    } ]
+  }, {
+    "tStartMs": 2726870,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "저는 또 너무 느끼한 쪽에 가까우면"
+    } ]
+  }, {
+    "tStartMs": 2730840,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "시원한 느낌은 안 드는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2733270,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "기름이 있어서"
+    } ]
+  }, {
+    "tStartMs": 2736050,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "고소하다고 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2737800,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "그 기름맛"
+    } ]
+  }, {
+    "tStartMs": 2739540,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "고소하다?"
+    } ]
+  }, {
+    "tStartMs": 2741060,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "그러면 땅콩버터 샌드위치"
+    } ]
+  }, {
+    "tStartMs": 2743450,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "너무 좋아"
+    } ]
+  }, {
+    "tStartMs": 2745200,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "달다"
+    } ]
+  }, {
+    "tStartMs": 2746220,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "그리고 땅콩은 좀 쌉쌀한 맛 있는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2750410,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "그래요?"
+    } ]
+  }, {
+    "tStartMs": 2751190,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "아닌가?"
+    } ]
+  }, {
+    "tStartMs": 2752120,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "유기농 제품이면 그럴 수도 있어요"
+    } ]
+  }, {
+    "tStartMs": 2755320,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "100% 땅콩이면 쌉쌀한 맛도 좀 있을 수 있습니다"
+    } ]
+  }, {
+    "tStartMs": 2760690,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "이렇게 릴레이 게임까지 해봤습니다"
+    } ]
+  }, {
+    "tStartMs": 2763860,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "해봤으니까 여러분들도 이제 한국어 맛 표현이랑"
+    } ]
+  }, {
+    "tStartMs": 2767280,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "음식이랑 연관 짓는데도 좀 도움이 되셨길 바라요"
+    } ]
+  }, {
+    "tStartMs": 2771870,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "그러면 이제 다음 주제인데요"
+    } ]
+  }, {
+    "tStartMs": 2773790,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "다음 주제는 어떤 게 좋을까요?"
+    } ]
+  }, {
+    "tStartMs": 2776600,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "다음 주제는 바로바로"
+    } ]
+  }, {
+    "tStartMs": 2778650,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "취미입니다"
+    } ]
+  }, {
+    "tStartMs": 2780760,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "아직까지 제대로 취미라는 주제로 이야기한 적이 없던 것 같아가지고"
+    } ]
+  }, {
+    "tStartMs": 2786110,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "요즘 취미나 뭐 가지고 싶은 취미나"
+    } ]
+  }, {
+    "tStartMs": 2789720,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "그런 것들 넓게 이야기해보면 좋을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2793070,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "그럼 여기까지 디디와 정태웅이었습니다"
+    } ]
+  }, {
+    "tStartMs": 2795830,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "감사합니다"
+    } ]
+  } ]
+}

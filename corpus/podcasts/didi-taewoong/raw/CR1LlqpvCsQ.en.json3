@@ -1,0 +1,6631 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Yomojomo of Life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 21000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Since this is our first episode, let's start with introductions."
+    } ]
+  }, {
+    "tStartMs": 27000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'll go first."
+    } ]
+  }, {
+    "tStartMs": 29000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "My name is Didi, and I'm Korean but I use the nickname Didi."
+    } ]
+  }, {
+    "tStartMs": 36000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "I used to work as a UI and UX designer, and currently I'm running a YouTube channel called Didi's Korean Culture Podcast for foreigners interested in Korean culture and the Korean language."
+    } ]
+  }, {
+    "tStartMs": 49000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Nice to meet you."
+    } ]
+  }, {
+    "tStartMs": 51000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Nice to meet you. I'm Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 53000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I'm someone who teaches Korean to foreign language learners through games."
+    } ]
+  }, {
+    "tStartMs": 58000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I run YouTube channels called Comprehensible Input Korean and All Things Korean podcast."
+    } ]
+  }, {
+    "tStartMs": 67000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "I used to do the podcast alone, but starting today I'm creating this new podcast regularly with Tae-woong as my first regular guest."
+    } ]
+  }, {
+    "tStartMs": 80000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Thank you so much for coming as my first regular guest."
+    } ]
+  }, {
+    "tStartMs": 86000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Not at all, don't mention it."
+    } ]
+  }, {
+    "tStartMs": 91000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "First, we're planning to talk like this every week and upload the podcast every Tuesday, but is that okay with your schedule, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes, that works for me."
+    } ]
+  }, {
+    "tStartMs": 103000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 104000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Although I found out today that we're doing this every week."
+    } ]
+  }, {
+    "tStartMs": 108000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Yeah, we didn't just decide on the upload time today—we decided on the name just about 10 minutes ago."
+    } ]
+  }, {
+    "tStartMs": 117000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "We decided on the concept and even the introduction very hastily."
+    } ]
+  }, {
+    "tStartMs": 122000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "You know, for something we put together like roasting beans over a sudden fire, it's pretty good, right?"
+    } ]
+  }, {
+    "tStartMs": 129000,
+    "dDurationMs": 13000,
+    "segs": [ {
+      "utf8": "It is good. Yomojomo. Oh, the name is Yomojomo of Life in Korea, and I think some people might not be familiar with the word Yomojomo, so what does Yomojomo mean, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 142000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yomojomo? It's the diminutive form of the word \"imojomo.\""
+    } ]
+  }, {
+    "tStartMs": 147000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes, what does imojomo mean?"
+    } ]
+  }, {
+    "tStartMs": 151000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "I think you can understand it as a cute way of saying various kinds of appearances or aspects."
+    } ]
+  }, {
+    "tStartMs": 159000,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "Right, compared to imojomo, yomojomo seems to express smaller and more detailed things."
+    } ]
+  }, {
+    "tStartMs": 170000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 171000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "So we're trying to talk about small things that happen in life in Korea, various stories like that."
+    } ]
+  }, {
+    "tStartMs": 177000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Why? Because we're planning to choose one theme for each episode and talk about it."
+    } ]
+  }, {
+    "tStartMs": 184000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So I was thinking about what to make the first theme, and Tae-woong suggested today's first theme."
+    } ]
+  }, {
+    "tStartMs": 192000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What's today's theme?"
+    } ]
+  }, {
+    "tStartMs": 195000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Today's theme is delivery culture."
+    } ]
+  }, {
+    "tStartMs": 200000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Delivery. Delivery culture. Why did you recommend this theme?"
+    } ]
+  }, {
+    "tStartMs": 206000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Well, it's about the yomojomo of everyday life, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 210000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 213000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "But I just suggested it."
+    } ]
+  }, {
+    "tStartMs": 215000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 216000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wait a moment."
+    } ]
+  }, {
+    "tStartMs": 217000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Why did you just give a reason? The reason too was hastily put together."
+    } ]
+  }, {
+    "tStartMs": 223000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It just came to mind? In your head?"
+    } ]
+  }, {
+    "tStartMs": 225000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. We were having an ideas meeting last time."
+    } ]
+  }, {
+    "tStartMs": 232000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Do you use delivery a lot, Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 235000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "I thought I used it a lot, but it doesn't seem like I do."
+    } ]
+  }, {
+    "tStartMs": 240000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "How often do you order? If you think about it per week?"
+    } ]
+  }, {
+    "tStartMs": 243000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I order once or twice a week."
+    } ]
+  }, {
+    "tStartMs": 249000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It doesn't seem like a lot."
+    } ]
+  }, {
+    "tStartMs": 251000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "That's what they said. I even got scolded once when I mentioned it to people around me."
+    } ]
+  }, {
+    "tStartMs": 258000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, you eat once or twice and they said that's a lot?"
+    } ]
+  }, {
+    "tStartMs": 261000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 262000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What do you usually order?"
+    } ]
+  }, {
+    "tStartMs": 265000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "What I order is actually pretty fixed."
+    } ]
+  }, {
+    "tStartMs": 268000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Hamburgers. And I only order from one specific hamburger place."
+    } ]
+  }, {
+    "tStartMs": 275000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Where is it?"
+    } ]
+  }, {
+    "tStartMs": 276000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, it's a handmade burger place in Busan."
+    } ]
+  }, {
+    "tStartMs": 279000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, you eat handmade burgers?"
+    } ]
+  }, {
+    "tStartMs": 281000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Yes. We're going to cover the yomojomo of hamburgers in a hamburger episode next time."
+    } ]
+  }, {
+    "tStartMs": 290000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Because there's a lot to talk about."
+    } ]
+  }, {
+    "tStartMs": 292000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see. If you keep ordering regularly like that."
+    } ]
+  }, {
+    "tStartMs": 295000,
+    "dDurationMs": 10000,
+    "segs": [ {
+      "utf8": "Oh yes. The owner is a man who looks very manly, and the two of us have a very touching relationship."
+    } ]
+  }, {
+    "tStartMs": 305000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You mean with Teacher Tae-woong and that boss?"
+    } ]
+  }, {
+    "tStartMs": 307000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 308000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "To that extent? It's endearing?"
+    } ]
+  }, {
+    "tStartMs": 312000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's what I think."
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, do you eat there often when you go?"
+    } ]
+  }, {
+    "tStartMs": 316000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 318000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, anyway."
+    } ]
+  }, {
+    "tStartMs": 320000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You eat hamburgers."
+    } ]
+  }, {
+    "tStartMs": 321000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "And you order pizza pretty often too."
+    } ]
+  }, {
+    "tStartMs": 325000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. Can I try to guess one more thing?"
+    } ]
+  }, {
+    "tStartMs": 327000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Huh? Yes."
+    } ]
+  }, {
+    "tStartMs": 328000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Chicken."
+    } ]
+  }, {
+    "tStartMs": 329000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Chicken used to be that way back then, but not these days."
+    } ]
+  }, {
+    "tStartMs": 335000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh. You don't eat it often?"
+    } ]
+  }, {
+    "tStartMs": 337000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't eat it that often."
+    } ]
+  }, {
+    "tStartMs": 339000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But there's a reason why that changed."
+    } ]
+  }, {
+    "tStartMs": 342000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Yes. That too? Do you talk about that on Yomojomo about chicken?"
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Oh. Yes. I can talk about it in the next episode. In the episode that comes out next."
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Okay. On Yomojomo about chicken. So you don't eat chicken often, so what do you eat then?"
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That hamburger. Pizza."
+    } ]
+  }, {
+    "tStartMs": 362000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Pizza."
+    } ]
+  }, {
+    "tStartMs": 363000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It seems like there's nothing besides that?"
+    } ]
+  }, {
+    "tStartMs": 367000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yeah. Two things."
+    } ]
+  }, {
+    "tStartMs": 369000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 370000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "So this week hamburger. Next week pizza. The week after that hamburger. The week after that pizza. Is it that kind of feeling?"
+    } ]
+  }, {
+    "tStartMs": 378000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's that kind of feeling."
+    } ]
+  }, {
+    "tStartMs": 380000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Oh. You must really love hamburgers and pizza. Eating them once a week like that."
+    } ]
+  }, {
+    "tStartMs": 385000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yes. I've really loved hamburgers since way back."
+    } ]
+  }, {
+    "tStartMs": 391000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 392000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "A few years ago, I. Oh. This is when I should talk about hamburgers."
+    } ]
+  }, {
+    "tStartMs": 397000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Don't forget that today's topic is delivery."
+    } ]
+  }, {
+    "tStartMs": 400000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh. That's right. I should talk about it within the context of delivery, right?"
+    } ]
+  }, {
+    "tStartMs": 403000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 404000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Well. It's convenient to eat, after all."
+    } ]
+  }, {
+    "tStartMs": 409000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh. Hamburgers?"
+    } ]
+  }, {
+    "tStartMs": 411000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ordering delivery and eating. Oh. Right."
+    } ]
+  }, {
+    "tStartMs": 413000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "But no matter how convenient delivery is, you still have to clean up after eating the delivered food."
+    } ]
+  }, {
+    "tStartMs": 423000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "I think I like hamburgers a bit more because there's minimal cleanup."
+    } ]
+  }, {
+    "tStartMs": 431000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "That's right. Delivery is so convenient but the cleanup is annoying. Isn't it?"
+    } ]
+  }, {
+    "tStartMs": 440000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Of course. Of course it's much more convenient than cooking at home."
+    } ]
+  }, {
+    "tStartMs": 445000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh. Yes."
+    } ]
+  }, {
+    "tStartMs": 447000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't have to do dishes or anything like that."
+    } ]
+  }, {
+    "tStartMs": 449000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't order things like malatang?"
+    } ]
+  }, {
+    "tStartMs": 451000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Surprisingly, I've never ordered malatang even once."
+    } ]
+  }, {
+    "tStartMs": 455000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Have you eaten it before?"
+    } ]
+  }, {
+    "tStartMs": 457000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I have eaten it before."
+    } ]
+  }, {
+    "tStartMs": 458000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Oh. Things like malatang are, in my opinion, difficult to order for delivery."
+    } ]
+  }, {
+    "tStartMs": 467000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The cleanup being annoying. That's number one. Soup dishes."
+    } ]
+  }, {
+    "tStartMs": 472000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Hmm. And things like pig's feet too."
+    } ]
+  }, {
+    "tStartMs": 476000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Bones."
+    } ]
+  }, {
+    "tStartMs": 477000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Bones and. And things like makguksu."
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh. You always have leftovers. That's right."
+    } ]
+  }, {
+    "tStartMs": 484000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. And pickled radish."
+    } ]
+  }, {
+    "tStartMs": 487000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Pickled radish. Do you have leftovers?"
+    } ]
+  }, {
+    "tStartMs": 491000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't really like those kinds of things. I don't eat them."
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh. You can just ask them to leave it out. In the special requests."
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Leave out the sweet pickled radish too. Leave out the pickled radish."
+    } ]
+  }, {
+    "tStartMs": 501000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "That's a good point."
+    } ]
+  }, {
+    "tStartMs": 503000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "You shouldn't throw away food. As much as possible."
+    } ]
+  }, {
+    "tStartMs": 507000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Yes. That's a good question. A sharp observation. I agree."
+    } ]
+  }, {
+    "tStartMs": 511000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Right. Stuff with bones in it. Like when you order gamjatang, it's really hard to deal with."
+    } ]
+  }, {
+    "tStartMs": 518000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I see. Do you order things like gamjatang sometimes?"
+    } ]
+  }, {
+    "tStartMs": 521000,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Oh, I don't order it myself, but when I see other people ordering it, they really struggle with dealing with it."
+    } ]
+  }, {
+    "tStartMs": 529000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 532000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So for the same reason, I order things like hamburgers or pizza."
+    } ]
+  }, {
+    "tStartMs": 537000,
+    "dDurationMs": 9000,
+    "segs": [ {
+      "utf8": "Or fried rice, rice bowls—things I can eat cleanly like that."
+    } ]
+  }, {
+    "tStartMs": 546000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So you tend to order a lot of things that are easy to eat cleanly."
+    } ]
+  }, {
+    "tStartMs": 551000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 554000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "I'm similar, but I'd say I'm at the extreme end of that point."
+    } ]
+  }, {
+    "tStartMs": 560000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah. That's the most important thing?"
+    } ]
+  }, {
+    "tStartMs": 563000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. Because I'm eating for convenience."
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Ah. So you don't order things like malatang?"
+    } ]
+  }, {
+    "tStartMs": 570000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Absolutely not."
+    } ]
+  }, {
+    "tStartMs": 573000,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But suddenly malatang is a food I really want to eat. Things like malatang."
+    } ]
+  }, {
+    "tStartMs": 579000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 582000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "But why do you like malatang so much?"
+    } ]
+  }, {
+    "tStartMs": 586000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Oh, I actually really liked malatang, but recently I've gotten tired of it, I guess? From eating it so much?"
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "How many years did it take for you to get tired of it?"
+    } ]
+  }, {
+    "tStartMs": 600000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Malatang was pretty popular from way back."
+    } ]
+  }, {
+    "tStartMs": 604640,
+    "dDurationMs": 10440,
+    "segs": [ {
+      "utf8": "Right. From what I remember, it became popular around 2016."
+    } ]
+  }, {
+    "tStartMs": 615080,
+    "dDurationMs": 5639,
+    "segs": [ {
+      "utf8": "So I didn't know, but I found out I like shabu-shabu."
+    } ]
+  }, {
+    "tStartMs": 620719,
+    "dDurationMs": 4481,
+    "segs": [ {
+      "utf8": "You can choose the ingredients you want"
+    } ]
+  }, {
+    "tStartMs": 625200,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "and like... um... how do I put it? Why is that?"
+    } ]
+  }, {
+    "tStartMs": 630280,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I don't like things like soup rice, but I like shabu-shabu."
+    } ]
+  }, {
+    "tStartMs": 634080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 636080,
+    "dDurationMs": 679,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 636759,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "They're definitely different."
+    } ]
+  }, {
+    "tStartMs": 638680,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "Yes. Both have ingredients in hot broth,"
+    } ]
+  }, {
+    "tStartMs": 644880,
+    "dDurationMs": 5879,
+    "segs": [ {
+      "utf8": "but what I like best is that I can choose what I want to eat, what I want to eat."
+    } ]
+  }, {
+    "tStartMs": 650759,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 653160,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "Are there other dishes like that?"
+    } ]
+  }, {
+    "tStartMs": 655639,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "Besides shabu-shabu?"
+    } ]
+  }, {
+    "tStartMs": 657160,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 658000,
+    "dDurationMs": 4759,
+    "segs": [ {
+      "utf8": "Choosing ingredients. Um... there's no other dish,"
+    } ]
+  }, {
+    "tStartMs": 662759,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "but when you go to a buffet, you can eat only what you want."
+    } ]
+  }, {
+    "tStartMs": 665599,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Ah..."
+    } ]
+  }, {
+    "tStartMs": 667599,
+    "dDurationMs": 2561,
+    "segs": [ {
+      "utf8": "I'm kind of a picky eater."
+    } ]
+  }, {
+    "tStartMs": 670160,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 672120,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 673080,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 673720,
+    "dDurationMs": 3839,
+    "segs": [ {
+      "utf8": "So when you have shabu-shabu, do you only put meat in it?"
+    } ]
+  }, {
+    "tStartMs": 677559,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Oh... no. There are some vegetables I don't eat."
+    } ]
+  }, {
+    "tStartMs": 680639,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Ah... I see."
+    } ]
+  }, {
+    "tStartMs": 682559,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yes. So only the vegetables I like."
+    } ]
+  }, {
+    "tStartMs": 685279,
+    "dDurationMs": 881,
+    "segs": [ {
+      "utf8": "Um..."
+    } ]
+  }, {
+    "tStartMs": 686160,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "But with things like soup rice, it just comes out as is."
+    } ]
+  }, {
+    "tStartMs": 688959,
+    "dDurationMs": 841,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 689800,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Since I was little, if I didn't eat something I disliked, I'd get scolded"
+    } ]
+  }, {
+    "tStartMs": 693800,
+    "dDurationMs": 5159,
+    "segs": [ {
+      "utf8": "and because of those experiences, that feeling of eating only what I want?"
+    } ]
+  }, {
+    "tStartMs": 698959,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Um..."
+    } ]
+  }, {
+    "tStartMs": 699559,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "I like the feeling of eating without guilt."
+    } ]
+  }, {
+    "tStartMs": 701800,
+    "dDurationMs": 2719,
+    "segs": [ {
+      "utf8": "Um..."
+    } ]
+  }, {
+    "tStartMs": 704519,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Ah... so it was because of picky eating."
+    } ]
+  }, {
+    "tStartMs": 707239,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Yes. Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 708959,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "Picky eating is one reason."
+    } ]
+  }, {
+    "tStartMs": 712440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Um..."
+    } ]
+  }, {
+    "tStartMs": 715160,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Anyway, so"
+    } ]
+  }, {
+    "tStartMs": 716400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 717400,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I also order malatang for delivery sometimes."
+    } ]
+  }, {
+    "tStartMs": 720680,
+    "dDurationMs": 519,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 721199,
+    "dDurationMs": 2841,
+    "segs": [ {
+      "utf8": "Mm..."
+    } ]
+  }, {
+    "tStartMs": 724040,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "So then"
+    } ]
+  }, {
+    "tStartMs": 726559,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "are there foods you think you just can't order for delivery?"
+    } ]
+  }, {
+    "tStartMs": 731279,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Why? For what reason?"
+    } ]
+  }, {
+    "tStartMs": 733279,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Well, for whatever reason."
+    } ]
+  }, {
+    "tStartMs": 734919,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Foods you can't order for delivery?"
+    } ]
+  }, {
+    "tStartMs": 736880,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 737679,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Is there something you've never ordered for delivery?"
+    } ]
+  }, {
+    "tStartMs": 742839,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "Have you, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 744360,
+    "dDurationMs": 6479,
+    "segs": [ {
+      "utf8": "For me, not just recently but from quite a long time ago"
+    } ]
+  }, {
+    "tStartMs": 750839,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "things like pork belly"
+    } ]
+  }, {
+    "tStartMs": 752759,
+    "dDurationMs": 1321,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 754080,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "you can order for delivery."
+    } ]
+  }, {
+    "tStartMs": 755279,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Yeah, yeah, yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 756559,
+    "dDurationMs": 4521,
+    "segs": [ {
+      "utf8": "But I just thought I couldn't order that."
+    } ]
+  }, {
+    "tStartMs": 761080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I agree. Me too."
+    } ]
+  }, {
+    "tStartMs": 763240,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Because that needs to be grilled and eaten right away."
+    } ]
+  }, {
+    "tStartMs": 764839,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "That's right. That's right. That's right."
+    } ]
+  }, {
+    "tStartMs": 766360,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "For me, it's things like grilled intestines."
+    } ]
+  }, {
+    "tStartMs": 768919,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Oh, you've never ordered that for delivery either?"
+    } ]
+  }, {
+    "tStartMs": 771199,
+    "dDurationMs": 1321,
+    "segs": [ {
+      "utf8": "No. Me neither."
+    } ]
+  }, {
+    "tStartMs": 772520,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Mm..."
+    } ]
+  }, {
+    "tStartMs": 775600,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "things that taste good when grilled on a grill plate"
+    } ]
+  }, {
+    "tStartMs": 778440,
+    "dDurationMs": 399,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 778839,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Yeah. I don't think people order those."
+    } ]
+  }, {
+    "tStartMs": 780279,
+    "dDurationMs": 4521,
+    "segs": [ {
+      "utf8": "Pork belly, intestines, lamb skewers, things like that too."
+    } ]
+  }, {
+    "tStartMs": 784800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Can you even order lamb skewers for delivery?"
+    } ]
+  }, {
+    "tStartMs": 787880,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yeah. You can."
+    } ]
+  }, {
+    "tStartMs": 788520,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "They take all the skewers out and just give you the lamb meat."
+    } ]
+  }, {
+    "tStartMs": 791800,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "My older brother orders it sometimes."
+    } ]
+  }, {
+    "tStartMs": 793639,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 794559,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 796320,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "There's nothing that can't be done."
+    } ]
+  }, {
+    "tStartMs": 797720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "But the price would be about the same as eating it there, right?"
+    } ]
+  }, {
+    "tStartMs": 800600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 802520,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "For me, the aesthetics of lamb skewers"
+    } ]
+  }, {
+    "tStartMs": 806320,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "lie in that performance."
+    } ]
+  }, {
+    "tStartMs": 809360,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Oh, the whole process?"
+    } ]
+  }, {
+    "tStartMs": 811240,
+    "dDurationMs": 879,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 812119,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "Oh, I get it."
+    } ]
+  }, {
+    "tStartMs": 814600,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Yeah. And like"
+    } ]
+  }, {
+    "tStartMs": 818720,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "it's not a food you eat alone, right?"
+    } ]
+  }, {
+    "tStartMs": 820919,
+    "dDurationMs": 881,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 821800,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "So whether it's two people or several people"
+    } ]
+  }, {
+    "tStartMs": 824880,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "sitting in a circle"
+    } ]
+  }, {
+    "tStartMs": 827559,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "like grilling meat in some primitive era"
+    } ]
+  }, {
+    "tStartMs": 832919,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 834080,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "watching it on the charcoal"
+    } ]
+  }, {
+    "tStartMs": 837639,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 838839,
+    "dDurationMs": 3881,
+    "segs": [ {
+      "utf8": "spinning around, it warms your heart, you know?"
+    } ]
+  }, {
+    "tStartMs": 842720,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Oh yeah."
+    } ]
+  }, {
+    "tStartMs": 844520,
+    "dDurationMs": 3039,
+    "segs": [ {
+      "utf8": "But if that's not there"
+    } ]
+  }, {
+    "tStartMs": 847559,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Ah..."
+    } ]
+  }, {
+    "tStartMs": 849800,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "Oh, my understanding of a menu more confusing than pork belly"
+    } ]
+  }, {
+    "tStartMs": 852919,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "has been updated."
+    } ]
+  }, {
+    "tStartMs": 855039,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "Lamb skewers."
+    } ]
+  }, {
+    "tStartMs": 857440,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "Oh, now that you mention it, that's true."
+    } ]
+  }, {
+    "tStartMs": 858799,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I did eat lamb skewers pretty joyfully"
+    } ]
+  }, {
+    "tStartMs": 862359,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "but I'd never thought about the aesthetics like that."
+    } ]
+  }, {
+    "tStartMs": 867119,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Ah, this process makes it taste even better."
+    } ]
+  }, {
+    "tStartMs": 870799,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "I never thought that before,"
+    } ]
+  }, {
+    "tStartMs": 872239,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "but now that you mention it, that's true."
+    } ]
+  }, {
+    "tStartMs": 873399,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Don't you think so?"
+    } ]
+  }, {
+    "tStartMs": 874679,
+    "dDurationMs": 2801,
+    "segs": [ {
+      "utf8": "Hmm..."
+    } ]
+  }, {
+    "tStartMs": 877480,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "Lamb skewers, I also"
+    } ]
+  }, {
+    "tStartMs": 881519,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "When I mentioned lamb skewers, it came to mind,"
+    } ]
+  }, {
+    "tStartMs": 884079,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 884839,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Oh, do I need to make a separate episode about lamb skewers?"
+    } ]
+  }, {
+    "tStartMs": 886040,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "You should talk about it on Yomojomo,"
+    } ]
+  }, {
+    "tStartMs": 888799,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "What kind is it? Is that okay?"
+    } ]
+  }, {
+    "tStartMs": 890359,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "Oh, I'll try it soon."
+    } ]
+  }, {
+    "tStartMs": 891480,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Yes, that's fine."
+    } ]
+  }, {
+    "tStartMs": 893600,
+    "dDurationMs": 4919,
+    "segs": [ {
+      "utf8": "I have a close friend, and a close friend who lives in Seoul,"
+    } ]
+  }, {
+    "tStartMs": 898519,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Oh, by the way, I live in Busan."
+    } ]
+  }, {
+    "tStartMs": 900399,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Oh, that's right."
+    } ]
+  }, {
+    "tStartMs": 901239,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 902200,
+    "dDurationMs": 3319,
+    "segs": [ {
+      "utf8": "One time at the end of the year, in winter,"
+    } ]
+  }, {
+    "tStartMs": 905519,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "I had to go up to Seoul,"
+    } ]
+  }, {
+    "tStartMs": 907720,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "and I met that friend"
+    } ]
+  }, {
+    "tStartMs": 911239,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "and went to a lamb skewer restaurant."
+    } ]
+  }, {
+    "tStartMs": 915839,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 916480,
+    "dDurationMs": 3479,
+    "segs": [ {
+      "utf8": "But at that lamb restaurant,"
+    } ]
+  }, {
+    "tStartMs": 919959,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "should I call it a signature menu?"
+    } ]
+  }, {
+    "tStartMs": 921679,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "They have that kind of menu,"
+    } ]
+  }, {
+    "tStartMs": 923079,
+    "dDurationMs": 7361,
+    "segs": [ {
+      "utf8": "where they skewer a whole lamb leg on a large skewer"
+    } ]
+  }, {
+    "tStartMs": 930440,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 932040,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and grill it while rotating it for a long time."
+    } ]
+  }, {
+    "tStartMs": 935320,
+    "dDurationMs": 2239,
+    "segs": [ {
+      "utf8": "One lamb leg comes out per table?"
+    } ]
+  }, {
+    "tStartMs": 937559,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 939720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I have a photo of it too,"
+    } ]
+  }, {
+    "tStartMs": 941880,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "and the leg is really, really big."
+    } ]
+  }, {
+    "tStartMs": 944519,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 946079,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "Oh, it's not like super huge or anything,"
+    } ]
+  }, {
+    "tStartMs": 947760,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "it's about the size of my arm."
+    } ]
+  }, {
+    "tStartMs": 949959,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Wow, okay."
+    } ]
+  }, {
+    "tStartMs": 952079,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "But the way you eat it"
+    } ]
+  }, {
+    "tStartMs": 954239,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "is you stick it on this really big skewer,"
+    } ]
+  }, {
+    "tStartMs": 956760,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "so it's like one giant lamb skewer."
+    } ]
+  }, {
+    "tStartMs": 960320,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 961760,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "You rotate it"
+    } ]
+  }, {
+    "tStartMs": 963920,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "and chat with your friend"
+    } ]
+  }, {
+    "tStartMs": 966440,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and slowly cut off little pieces with a knife to eat."
+    } ]
+  }, {
+    "tStartMs": 971440,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How does it taste?"
+    } ]
+  }, {
+    "tStartMs": 972440,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "Oh, it's delicious."
+    } ]
+  }, {
+    "tStartMs": 974279,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "The visual is kind of like that feeling?"
+    } ]
+  }, {
+    "tStartMs": 977480,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Kind of like One Piece meat, you know?"
+    } ]
+  }, {
+    "tStartMs": 979000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, it's similar, it's similar."
+    } ]
+  }, {
+    "tStartMs": 980000,
+    "dDurationMs": 679,
+    "segs": [ {
+      "utf8": "It's similar?"
+    } ]
+  }, {
+    "tStartMs": 980679,
+    "dDurationMs": 321,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 981000,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "Like primitive man meat from a cartoon?"
+    } ]
+  }, {
+    "tStartMs": 984279,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 985320,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 987359,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "Tell me about it."
+    } ]
+  }, {
+    "tStartMs": 988000,
+    "dDurationMs": 2079,
+    "segs": [ {
+      "utf8": "Is it a restaurant you recommend?"
+    } ]
+  }, {
+    "tStartMs": 990079,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Oh, I really recommend it,"
+    } ]
+  }, {
+    "tStartMs": 992279,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 992959,
+    "dDurationMs": 3361,
+    "segs": [ {
+      "utf8": "because it's a restaurant in Daerim-dong."
+    } ]
+  }, {
+    "tStartMs": 996320,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 997399,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Daerim-dong Joma Lamb Leg Grilled."
+    } ]
+  }, {
+    "tStartMs": 1000519,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Joma."
+    } ]
+  }, {
+    "tStartMs": 1001399,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1002519,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is it Chinese?"
+    } ]
+  }, {
+    "tStartMs": 1003519,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yes, is that so?"
+    } ]
+  }, {
+    "tStartMs": 1004119,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Joma lamb leg grilled."
+    } ]
+  }, {
+    "tStartMs": 1005160,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "But there."
+    } ]
+  }, {
+    "tStartMs": 1005640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Lamb leg grilled."
+    } ]
+  }, {
+    "tStartMs": 1006640,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1008079,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Joma lamb leg grilled."
+    } ]
+  }, {
+    "tStartMs": 1009839,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1010959,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "But there"
+    } ]
+  }, {
+    "tStartMs": 1012600,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "if you go in summer, it'll probably be difficult."
+    } ]
+  }, {
+    "tStartMs": 1014880,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1015679,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Because the fire is too hot."
+    } ]
+  }, {
+    "tStartMs": 1017119,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "The fire is hot?"
+    } ]
+  }, {
+    "tStartMs": 1018640,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1019880,
+    "dDurationMs": 2399,
+    "segs": [ {
+      "utf8": "You should go in winter for it to be just right."
+    } ]
+  }, {
+    "tStartMs": 1022679,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Winter is almost over, so I should go soon, right?"
+    } ]
+  }, {
+    "tStartMs": 1026119,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "How much is it?"
+    } ]
+  }, {
+    "tStartMs": 1027320,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "It seems like it would be expensive."
+    } ]
+  }, {
+    "tStartMs": 1028559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't think it was that expensive."
+    } ]
+  }, {
+    "tStartMs": 1030559,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1031600,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1033200,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Please send me pictures too."
+    } ]
+  }, {
+    "tStartMs": 1035040,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "Sure, I'll send them to you."
+    } ]
+  }, {
+    "tStartMs": 1036559,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "Yes, after this is done."
+    } ]
+  }, {
+    "tStartMs": 1038040,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1038880,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1040200,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Why did this topic come up anyway?"
+    } ]
+  }, {
+    "tStartMs": 1042600,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Oh well, anyway."
+    } ]
+  }, {
+    "tStartMs": 1044239,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1045519,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "When you eat that meat,"
+    } ]
+  }, {
+    "tStartMs": 1049200,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "every single piece you eat,"
+    } ]
+  }, {
+    "tStartMs": 1052000,
+    "dDurationMs": 1679,
+    "segs": [ {
+      "utf8": "from that big leg,"
+    } ]
+  }, {
+    "tStartMs": 1053679,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "you slice it up and eat it, right?"
+    } ]
+  }, {
+    "tStartMs": 1055640,
+    "dDurationMs": 719,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1056359,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "That's a kind of performance."
+    } ]
+  }, {
+    "tStartMs": 1058519,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1059920,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "But so much time passed"
+    } ]
+  }, {
+    "tStartMs": 1062839,
+    "dDurationMs": 921,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1063760,
+    "dDurationMs": 2639,
+    "segs": [ {
+      "utf8": "that a staff member came"
+    } ]
+  }, {
+    "tStartMs": 1066399,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and just removed that whole leg"
+    } ]
+  }, {
+    "tStartMs": 1069239,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "since it was cooked through,"
+    } ]
+  }, {
+    "tStartMs": 1071519,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "and they disassembled all the meat"
+    } ]
+  }, {
+    "tStartMs": 1074440,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "and cut it up nicely for us to eat."
+    } ]
+  }, {
+    "tStartMs": 1077679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1078679,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "But after that happened,"
+    } ]
+  }, {
+    "tStartMs": 1080880,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "my stomach suddenly got very full,"
+    } ]
+  }, {
+    "tStartMs": 1082679,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1085399,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "and that performance disappeared, didn't it?"
+    } ]
+  }, {
+    "tStartMs": 1087519,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1088600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Now all that's left is just"
+    } ]
+  }, {
+    "tStartMs": 1090000,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "meat that you can pick up with chopsticks,"
+    } ]
+  }, {
+    "tStartMs": 1092760,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1093640,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "So maybe that's why,"
+    } ]
+  }, {
+    "tStartMs": 1096920,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "I think that could be it."
+    } ]
+  }, {
+    "tStartMs": 1098480,
+    "dDurationMs": 3079,
+    "segs": [ {
+      "utf8": "Yes, of course that's like the chicken or egg question,"
+    } ]
+  }, {
+    "tStartMs": 1101559,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1102239,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "but my stomach was full too at that point."
+    } ]
+  }, {
+    "tStartMs": 1104160,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1105679,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Anyway,"
+    } ]
+  }, {
+    "tStartMs": 1107399,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "there was no emotional impact from that performance."
+    } ]
+  }, {
+    "tStartMs": 1109640,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1110720,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "The more of that performance there is,"
+    } ]
+  }, {
+    "tStartMs": 1114679,
+    "dDurationMs": 321,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1115000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "ordering delivery would be a bit"
+    } ]
+  }, {
+    "tStartMs": 1117400,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "disappointing, wouldn't it?"
+    } ]
+  }, {
+    "tStartMs": 1118440,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1120000,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1120440,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There are things like that, you know, like sashimi tuna"
+    } ]
+  }, {
+    "tStartMs": 1122440,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "where they slice it right in front of you and such"
+    } ]
+  }, {
+    "tStartMs": 1124640,
+    "dDurationMs": 1719,
+    "segs": [ {
+      "utf8": "eating while watching that"
+    } ]
+  }, {
+    "tStartMs": 1126359,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "versus ordering it at home and eating it"
+    } ]
+  }, {
+    "tStartMs": 1128159,
+    "dDurationMs": 400,
+    "segs": [ {
+      "utf8": "Oh, that's true."
+    } ]
+  }, {
+    "tStartMs": 1128559,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "would be different, right?"
+    } ]
+  }, {
+    "tStartMs": 1129359,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 1130840,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I don't think food culture"
+    } ]
+  }, {
+    "tStartMs": 1134640,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "is limited to just"
+    } ]
+  }, {
+    "tStartMs": 1137320,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "what goes into your mouth."
+    } ]
+  }, {
+    "tStartMs": 1139119,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1141679,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "So people pay attention to the interior design"
+    } ]
+  }, {
+    "tStartMs": 1144200,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1145080,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and the experience, don't you think?"
+    } ]
+  }, {
+    "tStartMs": 1147840,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1149320,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "I really relate to that,"
+    } ]
+  }, {
+    "tStartMs": 1150880,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "the places I consider"
+    } ]
+  }, {
+    "tStartMs": 1153400,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "to be good restaurants"
+    } ]
+  }, {
+    "tStartMs": 1155239,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "aren't just about the food being delicious—"
+    } ]
+  }, {
+    "tStartMs": 1157719,
+    "dDurationMs": 2361,
+    "segs": [ {
+      "utf8": "I realized this recently—"
+    } ]
+  }, {
+    "tStartMs": 1160080,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "the restaurant has to be clean"
+    } ]
+  }, {
+    "tStartMs": 1162599,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "for me to feel like it's a good restaurant."
+    } ]
+  }, {
+    "tStartMs": 1164919,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1165960,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "The eating experience itself"
+    } ]
+  }, {
+    "tStartMs": 1167919,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "needs to have a sense of cleanliness"
+    } ]
+  }, {
+    "tStartMs": 1171440,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "for the whole thing to become"
+    } ]
+  }, {
+    "tStartMs": 1175000,
+    "dDurationMs": 1159,
+    "segs": [ {
+      "utf8": "a good memory."
+    } ]
+  }, {
+    "tStartMs": 1176159,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1177599,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1179559,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "From that perspective,"
+    } ]
+  }, {
+    "tStartMs": 1181359,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "delivery could be a plus"
+    } ]
+  }, {
+    "tStartMs": 1183280,
+    "dDurationMs": 1319,
+    "segs": [ {
+      "utf8": "or it could be a minus."
+    } ]
+  }, {
+    "tStartMs": 1184599,
+    "dDurationMs": 361,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1184960,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Delivery is really for when"
+    } ]
+  }, {
+    "tStartMs": 1187440,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1188000,
+    "dDurationMs": 1159,
+    "segs": [ {
+      "utf8": "you're too lazy to go out."
+    } ]
+  }, {
+    "tStartMs": 1189159,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1189719,
+    "dDurationMs": 281,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1190000,
+    "dDurationMs": 3159,
+    "segs": [ {
+      "utf8": "Oh, so do you usually cook at home?"
+    } ]
+  }, {
+    "tStartMs": 1193200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "I"
+    } ]
+  }, {
+    "tStartMs": 1194520,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "cook fairly often."
+    } ]
+  }, {
+    "tStartMs": 1196080,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "Hmm."
+    } ]
+  }, {
+    "tStartMs": 1197119,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "But the menu—"
+    } ]
+  }, {
+    "tStartMs": 1197719,
+    "dDurationMs": 1241,
+    "segs": [ {
+      "utf8": "starting from rice?"
+    } ]
+  }, {
+    "tStartMs": 1198960,
+    "dDurationMs": 719,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 1199679,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Rice?"
+    } ]
+  }, {
+    "tStartMs": 1200000,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "starting from cooking the rice"
+    } ]
+  }, {
+    "tStartMs": 1201760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "yeah, I cook rice often"
+    } ]
+  }, {
+    "tStartMs": 1203160,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Wow"
+    } ]
+  }, {
+    "tStartMs": 1204960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "You don't eat instant rice?"
+    } ]
+  }, {
+    "tStartMs": 1207240,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Hmm."
+    } ]
+  }, {
+    "tStartMs": 1208560,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Uh, well, I don't really eat instant rice."
+    } ]
+  }, {
+    "tStartMs": 1210400,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Almost never, you know?"
+    } ]
+  }, {
+    "tStartMs": 1212200,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1212760,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "But this is"
+    } ]
+  }, {
+    "tStartMs": 1214160,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "should I call it a cultural difference?"
+    } ]
+  }, {
+    "tStartMs": 1217040,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Uh, what kind of cultural difference?"
+    } ]
+  }, {
+    "tStartMs": 1219040,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong's culture and my culture."
+    } ]
+  }, {
+    "tStartMs": 1221680,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "No, I mean"
+    } ]
+  }, {
+    "tStartMs": 1223120,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "my household itself"
+    } ]
+  }, {
+    "tStartMs": 1225400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "starting from my mother"
+    } ]
+  }, {
+    "tStartMs": 1227400,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "doesn't really eat instant rice,"
+    } ]
+  }, {
+    "tStartMs": 1230080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and we always keep rice in the rice cooker, so that's how we do it."
+    } ]
+  }, {
+    "tStartMs": 1233840,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1234720,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So because I got used to not eating instant rice, I just don't eat it."
+    } ]
+  }, {
+    "tStartMs": 1238400,
+    "dDurationMs": 719,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1239119,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Just naturally."
+    } ]
+  }, {
+    "tStartMs": 1240480,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, are you living alone right now?"
+    } ]
+  }, {
+    "tStartMs": 1242400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "No, I'm living with my mother right now."
+    } ]
+  }, {
+    "tStartMs": 1245000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1246000,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Then you must have a lot of cooking equipment and things like that."
+    } ]
+  }, {
+    "tStartMs": 1248680,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Mm, that's right."
+    } ]
+  }, {
+    "tStartMs": 1249840,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1251240,
+    "dDurationMs": 3519,
+    "segs": [ {
+      "utf8": "But even when I lived alone, I didn't eat instant rice."
+    } ]
+  }, {
+    "tStartMs": 1254759,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1255840,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "I always cooked rice in the rice cooker."
+    } ]
+  }, {
+    "tStartMs": 1258040,
+    "dDurationMs": 1879,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1259919,
+    "dDurationMs": 2601,
+    "segs": [ {
+      "utf8": "Ah, so that's why"
+    } ]
+  }, {
+    "tStartMs": 1262520,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "like soup rice or"
+    } ]
+  }, {
+    "tStartMs": 1263880,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1264320,
+    "dDurationMs": 3279,
+    "segs": [ {
+      "utf8": "you know, rice that comes with the meal"
+    } ]
+  }, {
+    "tStartMs": 1267599,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "when I order delivery food, I ask them to leave out the rice."
+    } ]
+  }, {
+    "tStartMs": 1270760,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1272400,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "since I always have rice at home."
+    } ]
+  }, {
+    "tStartMs": 1274080,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "And the rice that comes with delivery doesn't taste good."
+    } ]
+  }, {
+    "tStartMs": 1276639,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "Ah, it gets a bit hard, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 1278120,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1279360,
+    "dDurationMs": 2519,
+    "segs": [ {
+      "utf8": "But when you ask them not to include rice,"
+    } ]
+  }, {
+    "tStartMs": 1281879,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1282959,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "is the price the same? Or does it get cheaper?"
+    } ]
+  }, {
+    "tStartMs": 1286120,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "The price is the same."
+    } ]
+  }, {
+    "tStartMs": 1287400,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1288400,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Doesn't it feel wasteful somehow?"
+    } ]
+  }, {
+    "tStartMs": 1289440,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "But so"
+    } ]
+  }, {
+    "tStartMs": 1291199,
+    "dDurationMs": 2161,
+    "segs": [ {
+      "utf8": "when you request delivery, you write a message, right?"
+    } ]
+  }, {
+    "tStartMs": 1293360,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1294360,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "like \"please leave this out\""
+    } ]
+  }, {
+    "tStartMs": 1295599,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "or \"please do it this way\""
+    } ]
+  }, {
+    "tStartMs": 1296639,
+    "dDurationMs": 1721,
+    "segs": [ {
+      "utf8": "or \"please remove this ingredient\" and so on."
+    } ]
+  }, {
+    "tStartMs": 1298360,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Right, you can write in the request section."
+    } ]
+  }, {
+    "tStartMs": 1300959,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "Yes, so you can make requests through messages like that,"
+    } ]
+  }, {
+    "tStartMs": 1303879,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "and at that time I'm a bit more straightforward."
+    } ]
+  }, {
+    "tStartMs": 1306360,
+    "dDurationMs": 519,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1306879,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "like \"you don't need to include rice or whatever,"
+    } ]
+  }, {
+    "tStartMs": 1309360,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "but please make it delicious, hehe.\""
+    } ]
+  }, {
+    "tStartMs": 1310879,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Thank you, keke."
+    } ]
+  }, {
+    "tStartMs": 1312199,
+    "dDurationMs": 481,
+    "segs": [ {
+      "utf8": "Like that."
+    } ]
+  }, {
+    "tStartMs": 1312680,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1314480,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Hehe keke."
+    } ]
+  }, {
+    "tStartMs": 1316320,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1317080,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "When you do it that way."
+    } ]
+  }, {
+    "tStartMs": 1318160,
+    "dDurationMs": 759,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1318919,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Most of the time they gave us service instead."
+    } ]
+  }, {
+    "tStartMs": 1322879,
+    "dDurationMs": 1841,
+    "segs": [ {
+      "utf8": "Like beverages."
+    } ]
+  }, {
+    "tStartMs": 1324720,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Or beverages?"
+    } ]
+  }, {
+    "tStartMs": 1326000,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Yes, beverages or side menu items like that."
+    } ]
+  }, {
+    "tStartMs": 1329720,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 1330440,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "So."
+    } ]
+  }, {
+    "tStartMs": 1332759,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "I mentioned earlier that they only deliver hamburgers and pizza."
+    } ]
+  }, {
+    "tStartMs": 1336399,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1337279,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "After half a year, kimchi stew."
+    } ]
+  }, {
+    "tStartMs": 1339600,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "Huh."
+    } ]
+  }, {
+    "tStartMs": 1340080,
+    "dDurationMs": 2559,
+    "segs": [ {
+      "utf8": "I ordered it for delivery last Saturday."
+    } ]
+  }, {
+    "tStartMs": 1342639,
+    "dDurationMs": 681,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1343320,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "They did the same thing then."
+    } ]
+  }, {
+    "tStartMs": 1344800,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1345399,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "And they gave me steamed egg as a complimentary service."
+    } ]
+  }, {
+    "tStartMs": 1349279,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "You must have been so happy."
+    } ]
+  }, {
+    "tStartMs": 1350679,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Oh, I really enjoyed it deliciously."
+    } ]
+  }, {
+    "tStartMs": 1353199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, did you leave a review?"
+    } ]
+  }, {
+    "tStartMs": 1355199,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Oh, because I am a man."
+    } ]
+  }, {
+    "tStartMs": 1356759,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "But why."
+    } ]
+  }, {
+    "tStartMs": 1357880,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "If you're a man, you should leave a review."
+    } ]
+  }, {
+    "tStartMs": 1361759,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Because a man doesn't look back."
+    } ]
+  }, {
+    "tStartMs": 1364559,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "Oh, you don't write reviews?"
+    } ]
+  }, {
+    "tStartMs": 1365479,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "Oh, then you never participate in review events or anything like that?"
+    } ]
+  }, {
+    "tStartMs": 1369039,
+    "dDurationMs": 1121,
+    "segs": [ {
+      "utf8": "Oh, I."
+    } ]
+  }, {
+    "tStartMs": 1370160,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Oh, review events."
+    } ]
+  }, {
+    "tStartMs": 1371800,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I don't like them."
+    } ]
+  }, {
+    "tStartMs": 1373000,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1374919,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "It feels like deceiving people?"
+    } ]
+  }, {
+    "tStartMs": 1376559,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1377360,
+    "dDurationMs": 2479,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1379839,
+    "dDurationMs": 2321,
+    "segs": [ {
+      "utf8": "That review event."
+    } ]
+  }, {
+    "tStartMs": 1382160,
+    "dDurationMs": 599,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1382759,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "You know, like you order delivery."
+    } ]
+  }, {
+    "tStartMs": 1384639,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1385279,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And if you write us a good review, we'll give you a service."
+    } ]
+  }, {
+    "tStartMs": 1389039,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "That kind of event."
+    } ]
+  }, {
+    "tStartMs": 1391440,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "So that."
+    } ]
+  }, {
+    "tStartMs": 1392279,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "You say you'll participate in the event."
+    } ]
+  }, {
+    "tStartMs": 1394199,
+    "dDurationMs": 1321,
+    "segs": [ {
+      "utf8": "Eat."
+    } ]
+  }, {
+    "tStartMs": 1395520,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "And you write a good review like that, there's that kind of culture."
+    } ]
+  }, {
+    "tStartMs": 1399559,
+    "dDurationMs": 1241,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1400800,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "You don't like it?"
+    } ]
+  }, {
+    "tStartMs": 1402639,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I don't like it."
+    } ]
+  }, {
+    "tStartMs": 1406479,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "It just feels like there's a sense of resistance, you know?"
+    } ]
+  }, {
+    "tStartMs": 1409919,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "It's like a rigged game of Go-Stop."
+    } ]
+  }, {
+    "tStartMs": 1412000,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Mm, yes, that's."
+    } ]
+  }, {
+    "tStartMs": 1414960,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "I don't really know how review events started in the first place."
+    } ]
+  }, {
+    "tStartMs": 1418960,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I don't know either."
+    } ]
+  }, {
+    "tStartMs": 1421600,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "Mm, me too."
+    } ]
+  }, {
+    "tStartMs": 1423119,
+    "dDurationMs": 1041,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1424160,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "If."
+    } ]
+  }, {
+    "tStartMs": 1426000,
+    "dDurationMs": 5119,
+    "segs": [ {
+      "utf8": "Just by writing a review."
+    } ]
+  }, {
+    "tStartMs": 1431119,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "They give you service."
+    } ]
+  }, {
+    "tStartMs": 1433759,
+    "dDurationMs": 2241,
+    "segs": [ {
+      "utf8": "I."
+    } ]
+  }, {
+    "tStartMs": 1436000,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Would accept it."
+    } ]
+  }, {
+    "tStartMs": 1438080,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Mm, accept it."
+    } ]
+  }, {
+    "tStartMs": 1439720,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "If it's just about whether you write a review or not, and you only do it if you write."
+    } ]
+  }, {
+    "tStartMs": 1444320,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 1445119,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So you can write honest reviews, right?"
+    } ]
+  }, {
+    "tStartMs": 1448279,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1449360,
+    "dDurationMs": 4319,
+    "segs": [ {
+      "utf8": "But guys like me don't write reviews very often,"
+    } ]
+  }, {
+    "tStartMs": 1453679,
+    "dDurationMs": 3761,
+    "segs": [ {
+      "utf8": "so to encourage that a bit, everyone does it like this—"
+    } ]
+  }, {
+    "tStartMs": 1457440,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "they give rewards for products or something,"
+    } ]
+  }, {
+    "tStartMs": 1461000,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "and I understand that part."
+    } ]
+  }, {
+    "tStartMs": 1464760,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1465440,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "When there are more reviews,"
+    } ]
+  }, {
+    "tStartMs": 1467760,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "the point of reviews is that when there are more reviews,"
+    } ]
+  }, {
+    "tStartMs": 1471160,
+    "dDurationMs": 3919,
+    "segs": [ {
+      "utf8": "uh, other people can understand this restaurant,"
+    } ]
+  }, {
+    "tStartMs": 1475079,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "this establishment better,"
+    } ]
+  }, {
+    "tStartMs": 1478359,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and they become clues, right?"
+    } ]
+  }, {
+    "tStartMs": 1480279,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Mm, right."
+    } ]
+  }, {
+    "tStartMs": 1481640,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1482679,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "In that sense it's good,"
+    } ]
+  }, {
+    "tStartMs": 1485720,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "but if people are writing good reviews in exchange for compensation,"
+    } ]
+  }, {
+    "tStartMs": 1491160,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1492359,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "even if the reviews are great and the scores are high,"
+    } ]
+  }, {
+    "tStartMs": 1495959,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1496799,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "you don't know if it's actually delicious and good,"
+    } ]
+  }, {
+    "tStartMs": 1498559,
+    "dDurationMs": 3441,
+    "segs": [ {
+      "utf8": "or if it's good because a lot of people wanted to get the service."
+    } ]
+  }, {
+    "tStartMs": 1502000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "That's right, there is that downside."
+    } ]
+  }, {
+    "tStartMs": 1504440,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1505679,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "So with reviews too,"
+    } ]
+  }, {
+    "tStartMs": 1507480,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "now you shouldn't just look at the score—you have to read the reviews carefully."
+    } ]
+  }, {
+    "tStartMs": 1511519,
+    "dDurationMs": 3521,
+    "segs": [ {
+      "utf8": "Because there are people who participated because of the event."
+    } ]
+  }, {
+    "tStartMs": 1515920,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "You can tell the difference."
+    } ]
+  }, {
+    "tStartMs": 1518799,
+    "dDurationMs": 1921,
+    "segs": [ {
+      "utf8": "Those people who just upload photos,"
+    } ]
+  }, {
+    "tStartMs": 1520720,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "people who give good scores and just upload photos,"
+    } ]
+  }, {
+    "tStartMs": 1522920,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "those people are likely to be event participants,"
+    } ]
+  }, {
+    "tStartMs": 1526799,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "or otherwise just \"it was delicious\" kind of thing—"
+    } ]
+  }, {
+    "tStartMs": 1528959,
+    "dDurationMs": 4801,
+    "segs": [ {
+      "utf8": "if there's no praise about the taste, then it's a review event"
+    } ]
+  }, {
+    "tStartMs": 1533760,
+    "dDurationMs": 1039,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 1534799,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "in most cases."
+    } ]
+  }, {
+    "tStartMs": 1537119,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "I've been learning programming lately, you know."
+    } ]
+  }, {
+    "tStartMs": 1540679,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yes, programming, what—"
+    } ]
+  }, {
+    "tStartMs": 1542399,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "So as I do that,"
+    } ]
+  }, {
+    "tStartMs": 1544799,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I keep constantly thinking about what kind of service I could make using this programming."
+    } ]
+  }, {
+    "tStartMs": 1548399,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1550440,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "But I thought of another idea."
+    } ]
+  }, {
+    "tStartMs": 1550880,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 1554200,
+    "dDurationMs": 1199,
+    "segs": [ {
+      "utf8": "That—"
+    } ]
+  }, {
+    "tStartMs": 1555399,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "those people who wrote reviews because of the review event,"
+    } ]
+  }, {
+    "tStartMs": 1557399,
+    "dDurationMs": 4601,
+    "segs": [ {
+      "utf8": "Oh wow."
+    } ]
+  }, {
+    "tStartMs": 1562000,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "their order history shows they participated in the review event, right?"
+    } ]
+  }, {
+    "tStartMs": 1563000,
+    "dDurationMs": 4359,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1567359,
+    "dDurationMs": 521,
+    "segs": [ {
+      "utf8": "So if you excluded just those reviews"
+    } ]
+  }, {
+    "tStartMs": 1567880,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "and showed only the ones from people who wrote genuine reviews,"
+    } ]
+  }, {
+    "tStartMs": 1569679,
+    "dDurationMs": 3761,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1573440,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "that would be nice."
+    } ]
+  }, {
+    "tStartMs": 1575239,
+    "dDurationMs": 1521,
+    "segs": [ {
+      "utf8": "That would be good for consumers,"
+    } ]
+  }, {
+    "tStartMs": 1576760,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "but I don't think sellers would agree."
+    } ]
+  }, {
+    "tStartMs": 1580040,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Oh, right."
+    } ]
+  }, {
+    "tStartMs": 1580640,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Oh yeah."
+    } ]
+  }, {
+    "tStartMs": 1582760,
+    "dDurationMs": 479,
+    "segs": [ {
+      "utf8": "Ah, sorry—this is the land of small business owners, Korea."
+    } ]
+  }, {
+    "tStartMs": 1583239,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1585519,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 1587000,
+    "dDurationMs": 1279,
+    "segs": [ {
+      "utf8": "Sorry."
+    } ]
+  }, {
+    "tStartMs": 1588279,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "That's true—originally the service is supposed to be a bit—"
+    } ]
+  }, {
+    "tStartMs": 1589959,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "맞네 원래 서비스는 좀"
+    } ]
+  }, {
+    "tStartMs": 1592679,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "becomes the essence"
+    } ]
+  }, {
+    "tStartMs": 1595359,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "it's like jeong, you know?"
+    } ]
+  }, {
+    "tStartMs": 1597160,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "it's that feeling of adding Korean jeong bit by bit"
+    } ]
+  }, {
+    "tStartMs": 1600720,
+    "dDurationMs": 839,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1601559,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "the concept itself seems to be changing a bit"
+    } ]
+  }, {
+    "tStartMs": 1606959,
+    "dDurationMs": 3201,
+    "segs": [ {
+      "utf8": "that's right, when you see things like this"
+    } ]
+  }, {
+    "tStartMs": 1610160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Korean people and this Korean culture"
+    } ]
+  }, {
+    "tStartMs": 1614880,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "how do I put it"
+    } ]
+  }, {
+    "tStartMs": 1619320,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "at short-term efficiency"
+    } ]
+  }, {
+    "tStartMs": 1623160,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "they're really good at optimizing"
+    } ]
+  }, {
+    "tStartMs": 1626760,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "people and culture like that, I'd say"
+    } ]
+  }, {
+    "tStartMs": 1629000,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "Oh"
+    } ]
+  }, {
+    "tStartMs": 1630359,
+    "dDurationMs": 2841,
+    "segs": [ {
+      "utf8": "so this review event that started with jeong"
+    } ]
+  }, {
+    "tStartMs": 1633200,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "or might have started with jeong"
+    } ]
+  }, {
+    "tStartMs": 1635720,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1636920,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "right now becomes an extreme"
+    } ]
+  }, {
+    "tStartMs": 1639160,
+    "dDurationMs": 2359,
+    "segs": [ {
+      "utf8": "rating-boosting tool"
+    } ]
+  }, {
+    "tStartMs": 1641519,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "and in that market"
+    } ]
+  }, {
+    "tStartMs": 1643799,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "a means to get ahead, right?"
+    } ]
+  }, {
+    "tStartMs": 1647279,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1648079,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "when you see things like that"
+    } ]
+  }, {
+    "tStartMs": 1650040,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 1651279,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "is it because there are a lot of smart people?"
+    } ]
+  }, {
+    "tStartMs": 1653480,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "it seems like that"
+    } ]
+  }, {
+    "tStartMs": 1654600,
+    "dDurationMs": 639,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 1655239,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "it's all"
+    } ]
+  }, {
+    "tStartMs": 1656519,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "Korea"
+    } ]
+  }, {
+    "tStartMs": 1658839,
+    "dDurationMs": 2041,
+    "segs": [ {
+      "utf8": "no, I should be careful with my words"
+    } ]
+  }, {
+    "tStartMs": 1660880,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Korea?"
+    } ]
+  }, {
+    "tStartMs": 1662519,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "more and more"
+    } ]
+  }, {
+    "tStartMs": 1663600,
+    "dDurationMs": 3639,
+    "segs": [ {
+      "utf8": "Korea is kind of a tiring place"
+    } ]
+  }, {
+    "tStartMs": 1667239,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1668040,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "everyone is so smart"
+    } ]
+  }, {
+    "tStartMs": 1669760,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Ah"
+    } ]
+  }, {
+    "tStartMs": 1671720,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "right, fast and smart"
+    } ]
+  }, {
+    "tStartMs": 1673600,
+    "dDurationMs": 239,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1673839,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "a lot of people"
+    } ]
+  }, {
+    "tStartMs": 1675079,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1676519,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "so"
+    } ]
+  }, {
+    "tStartMs": 1677720,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "just because you get one step ahead for a moment"
+    } ]
+  }, {
+    "tStartMs": 1682440,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "Ah"
+    } ]
+  }, {
+    "tStartMs": 1684079,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "you can't stay comfortable for long"
+    } ]
+  }, {
+    "tStartMs": 1686519,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "they catch up too quickly"
+    } ]
+  }, {
+    "tStartMs": 1688720,
+    "dDurationMs": 1399,
+    "segs": [ {
+      "utf8": "everyone climbs up too fast"
+    } ]
+  }, {
+    "tStartMs": 1690119,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1691399,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "there are too many people who are good"
+    } ]
+  }, {
+    "tStartMs": 1692799,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "exactly"
+    } ]
+  }, {
+    "tStartMs": 1694279,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 1694920,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "it's amazing, amazing, Korean people"
+    } ]
+  }, {
+    "tStartMs": 1696559,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 1697119,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "it's in a good sense, this is"
+    } ]
+  }, {
+    "tStartMs": 1698600,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "Hmm"
+    } ]
+  }, {
+    "tStartMs": 1699640,
+    "dDurationMs": 3919,
+    "segs": [ {
+      "utf8": "in that sense, I think delivery culture has developed quite a bit"
+    } ]
+  }, {
+    "tStartMs": 1703559,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "oh that's right"
+    } ]
+  }, {
+    "tStartMs": 1704839,
+    "dDurationMs": 641,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1705480,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "it's very convenient, a bit more convenient"
+    } ]
+  }, {
+    "tStartMs": 1708000,
+    "dDurationMs": 1519,
+    "segs": [ {
+      "utf8": "doing it this way"
+    } ]
+  }, {
+    "tStartMs": 1709519,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "now there's nothing that doesn't get delivered"
+    } ]
+  }, {
+    "tStartMs": 1711320,
+    "dDurationMs": 1159,
+    "segs": [ {
+      "utf8": "ah exactly"
+    } ]
+  }, {
+    "tStartMs": 1712479,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "delivery is almost free too"
+    } ]
+  }, {
+    "tStartMs": 1714159,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "The delivery fee is basically non-existent, right?"
+    } ]
+  }, {
+    "tStartMs": 1715919,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1716799,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1718159,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "There's that too, you know."
+    } ]
+  }, {
+    "tStartMs": 1720719,
+    "dDurationMs": 3281,
+    "segs": [ {
+      "utf8": "How much do you spend on delivery in a month?"
+    } ]
+  }, {
+    "tStartMs": 1724000,
+    "dDurationMs": 4119,
+    "segs": [ {
+      "utf8": "On the application side, the app side."
+    } ]
+  }, {
+    "tStartMs": 1728119,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "If you pay a certain amount each month to the app."
+    } ]
+  }, {
+    "tStartMs": 1730080,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1731679,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "What do you call it on that app?"
+    } ]
+  }, {
+    "tStartMs": 1735359,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Restaurants that have made agreements?"
+    } ]
+  }, {
+    "tStartMs": 1737479,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1738039,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "Those kinds of restaurants have free delivery."
+    } ]
+  }, {
+    "tStartMs": 1741200,
+    "dDurationMs": 1599,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1742799,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Is that a subscription service?"
+    } ]
+  }, {
+    "tStartMs": 1744559,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "A delivery app subscription?"
+    } ]
+  }, {
+    "tStartMs": 1746039,
+    "dDurationMs": 760,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1746799,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh right, right."
+    } ]
+  }, {
+    "tStartMs": 1748799,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "I actually use that really well too."
+    } ]
+  }, {
+    "tStartMs": 1750919,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Oh, which delivery app do you use by any chance?"
+    } ]
+  }, {
+    "tStartMs": 1753159,
+    "dDurationMs": 2121,
+    "segs": [ {
+      "utf8": "I use Yogiyo."
+    } ]
+  }, {
+    "tStartMs": 1755280,
+    "dDurationMs": 879,
+    "segs": [ {
+      "utf8": "Yogiyo?"
+    } ]
+  }, {
+    "tStartMs": 1756159,
+    "dDurationMs": 721,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1756880,
+    "dDurationMs": 2279,
+    "segs": [ {
+      "utf8": "I use Baemin, you see."
+    } ]
+  }, {
+    "tStartMs": 1759159,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 1761159,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Is there a reason you chose Yogiyo?"
+    } ]
+  }, {
+    "tStartMs": 1767159,
+    "dDurationMs": 3121,
+    "segs": [ {
+      "utf8": "Why do I use Yogiyo?"
+    } ]
+  }, {
+    "tStartMs": 1770280,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Did I start with Yogiyo at first?"
+    } ]
+  }, {
+    "tStartMs": 1772880,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1774840,
+    "dDurationMs": 1759,
+    "segs": [ {
+      "utf8": "Oh, ah."
+    } ]
+  }, {
+    "tStartMs": 1776599,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "Originally, I thought."
+    } ]
+  }, {
+    "tStartMs": 1780080,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "If I order delivery a lot."
+    } ]
+  }, {
+    "tStartMs": 1784520,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "It would be bad for my wallet situation or my health."
+    } ]
+  }, {
+    "tStartMs": 1788400,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1789000,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So I didn't even download a delivery app."
+    } ]
+  }, {
+    "tStartMs": 1791880,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "On my phone at all."
+    } ]
+  }, {
+    "tStartMs": 1793440,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1794000,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "And only when I needed it sometimes."
+    } ]
+  }, {
+    "tStartMs": 1795960,
+    "dDurationMs": 3719,
+    "segs": [ {
+      "utf8": "I would download Baemin or Yogiyo."
+    } ]
+  }, {
+    "tStartMs": 1799679,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "And just, like."
+    } ]
+  }, {
+    "tStartMs": 1800000,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "I used whatever at that time."
+    } ]
+  }, {
+    "tStartMs": 1803640,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But then."
+    } ]
+  }, {
+    "tStartMs": 1805840,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "When Yogiyo launched the Yogipass that I mentioned earlier."
+    } ]
+  }, {
+    "tStartMs": 1811480,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "That initial event, you know."
+    } ]
+  }, {
+    "tStartMs": 1814160,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "If you sign up for Yogipass now."
+    } ]
+  }, {
+    "tStartMs": 1817600,
+    "dDurationMs": 3119,
+    "segs": [ {
+      "utf8": "From now on, you only pay 2,900 won per month for life."
+    } ]
+  }, {
+    "tStartMs": 1820719,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Oh yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1822080,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "That's when I settled on Yogiyo."
+    } ]
+  }, {
+    "tStartMs": 1825040,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "I remember that."
+    } ]
+  }, {
+    "tStartMs": 1827480,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "I remember seeing that event."
+    } ]
+  }, {
+    "tStartMs": 1829280,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1830719,
+    "dDurationMs": 5441,
+    "segs": [ {
+      "utf8": "Now that I think about it, it seems like Yogiyo was the first to start that pass."
+    } ]
+  }, {
+    "tStartMs": 1836160,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "The subscription service."
+    } ]
+  }, {
+    "tStartMs": 1838959,
+    "dDurationMs": 4521,
+    "segs": [ {
+      "utf8": "So since I'm a Yogipass subscriber."
+    } ]
+  }, {
+    "tStartMs": 1843480,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "The restaurants that qualify for Yogipass."
+    } ]
+  }, {
+    "tStartMs": 1847840,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "Just have free delivery."
+    } ]
+  }, {
+    "tStartMs": 1850599,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "If you only pay 2,900 won per month?"
+    } ]
+  }, {
+    "tStartMs": 1852279,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1853759,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "That's so good though?"
+    } ]
+  }, {
+    "tStartMs": 1855160,
+    "dDurationMs": 2759,
+    "segs": [ {
+      "utf8": "Right, even if you order just once a month, it's a win, right?"
+    } ]
+  }, {
+    "tStartMs": 1857919,
+    "dDurationMs": 4441,
+    "segs": [ {
+      "utf8": "Exactly, when you order usually it's about 2,000 to 3,000 won."
+    } ]
+  }, {
+    "tStartMs": 1862360,
+    "dDurationMs": 2599,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1864959,
+    "dDurationMs": 1081,
+    "segs": [ {
+      "utf8": "It's the best, the best."
+    } ]
+  }, {
+    "tStartMs": 1866040,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "Ah, I'm not sure what I think about that kind of event."
+    } ]
+  }, {
+    "tStartMs": 1868919,
+    "dDurationMs": 521,
+    "segs": [ {
+      "utf8": "So that's the thing."
+    } ]
+  }, {
+    "tStartMs": 1869440,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "It seems really clever."
+    } ]
+  }, {
+    "tStartMs": 1870760,
+    "dDurationMs": 3879,
+    "segs": [ {
+      "utf8": "But I'm curious whether it actually sustains itself if you do that."
+    } ]
+  }, {
+    "tStartMs": 1874639,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Ah, is there any profit left over?"
+    } ]
+  }, {
+    "tStartMs": 1875839,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1877519,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 1882199,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Baemin also originally didn't have a pass like that."
+    } ]
+  }, {
+    "tStartMs": 1886959,
+    "dDurationMs": 2721,
+    "segs": [ {
+      "utf8": "I think it came out last year or something."
+    } ]
+  }, {
+    "tStartMs": 1889680,
+    "dDurationMs": 1239,
+    "segs": [ {
+      "utf8": "Ah, last year."
+    } ]
+  }, {
+    "tStartMs": 1890919,
+    "dDurationMs": 3841,
+    "segs": [ {
+      "utf8": "Yes, I also got it because of an event back then."
+    } ]
+  }, {
+    "tStartMs": 1894760,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "Like six months free?"
+    } ]
+  }, {
+    "tStartMs": 1896959,
+    "dDurationMs": 1481,
+    "segs": [ {
+      "utf8": "You can cancel anytime."
+    } ]
+  }, {
+    "tStartMs": 1898440,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "I did that."
+    } ]
+  }, {
+    "tStartMs": 1901080,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "After six months I got so used to it."
+    } ]
+  }, {
+    "tStartMs": 1903440,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "It was just so convenient."
+    } ]
+  }, {
+    "tStartMs": 1906680,
+    "dDurationMs": 3559,
+    "segs": [ {
+      "utf8": "So I'm still paying for it now."
+    } ]
+  }, {
+    "tStartMs": 1910239,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "How much is Baemin per month?"
+    } ]
+  }, {
+    "tStartMs": 1912519,
+    "dDurationMs": 1281,
+    "segs": [ {
+      "utf8": "I don't remember."
+    } ]
+  }, {
+    "tStartMs": 1913800,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "But it's not that expensive."
+    } ]
+  }, {
+    "tStartMs": 1915839,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "I think it was similar."
+    } ]
+  }, {
+    "tStartMs": 1918360,
+    "dDurationMs": 4279,
+    "segs": [ {
+      "utf8": "This is the kind of economic structure that Freemium does, right?"
+    } ]
+  }, {
+    "tStartMs": 1922639,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "How so?"
+    } ]
+  }, {
+    "tStartMs": 1923639,
+    "dDurationMs": 8441,
+    "segs": [ {
+      "utf8": "So if 100 people all sign up for Yogipass."
+    } ]
+  }, {
+    "tStartMs": 1932080,
+    "dDurationMs": 9240,
+    "segs": [ {
+      "utf8": "If those 100 people all spend more than 2,900 won a month on delivery fees."
+    } ]
+  }, {
+    "tStartMs": 1941320,
+    "dDurationMs": 2799,
+    "segs": [ {
+      "utf8": "So they all use free delivery."
+    } ]
+  }, {
+    "tStartMs": 1944119,
+    "dDurationMs": 481,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1944600,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Then obviously Yogiyo would be losing money, right?"
+    } ]
+  }, {
+    "tStartMs": 1947240,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1948080,
+    "dDurationMs": 11000,
+    "segs": [ {
+      "utf8": "But what if out of 100 people, like 90 people bought Yogipass."
+    } ]
+  }, {
+    "tStartMs": 1959080,
+    "dDurationMs": 5399,
+    "segs": [ {
+      "utf8": "But what if they don't use delivery and don't order delivery."
+    } ]
+  }, {
+    "tStartMs": 1964479,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "Then Yogiyo would make money, right?"
+    } ]
+  }, {
+    "tStartMs": 1967440,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1969000,
+    "dDurationMs": 1839,
+    "segs": [ {
+      "utf8": "So there are people like that, right?"
+    } ]
+  }, {
+    "tStartMs": 1970839,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1972119,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Donors."
+    } ]
+  }, {
+    "tStartMs": 1974119,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1976080,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "They just donate and forget about it."
+    } ]
+  }, {
+    "tStartMs": 1977880,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1979600,
+    "dDurationMs": 2679,
+    "segs": [ {
+      "utf8": "There are quite a few people like that."
+    } ]
+  }, {
+    "tStartMs": 1982279,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "Anyway, we're really going back and forth about delivery here."
+    } ]
+  }, {
+    "tStartMs": 1986639,
+    "dDurationMs": 3161,
+    "segs": [ {
+      "utf8": "Yeah, how long have we been talking?"
+    } ]
+  }, {
+    "tStartMs": 1989800,
+    "dDurationMs": 3599,
+    "segs": [ {
+      "utf8": "So do you order delivery pretty often?"
+    } ]
+  }, {
+    "tStartMs": 1993399,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "I think I order delivery about once a week."
+    } ]
+  }, {
+    "tStartMs": 1999039,
+    "dDurationMs": 2681,
+    "segs": [ {
+      "utf8": "That's not that much, right?"
+    } ]
+  }, {
+    "tStartMs": 2001720,
+    "dDurationMs": 4839,
+    "segs": [ {
+      "utf8": "Right, I go back and forth to my parents' place a lot."
+    } ]
+  }, {
+    "tStartMs": 2006559,
+    "dDurationMs": 6601,
+    "segs": [ {
+      "utf8": "When I go to my parents' I either cook or eat what my parents make."
+    } ]
+  }, {
+    "tStartMs": 2013160,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "When I'm alone I order sometimes."
+    } ]
+  }, {
+    "tStartMs": 2017520,
+    "dDurationMs": 2879,
+    "segs": [ {
+      "utf8": "Do you usually order lunch? Or dinner?"
+    } ]
+  }, {
+    "tStartMs": 2020399,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I usually order lunch."
+    } ]
+  }, {
+    "tStartMs": 2023279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Lunch?"
+    } ]
+  }, {
+    "tStartMs": 2024279,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2025399,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Hmm."
+    } ]
+  }, {
+    "tStartMs": 2027360,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Do you eat breakfast, lunch, and dinner all together?"
+    } ]
+  }, {
+    "tStartMs": 2029240,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "I eat all three meals."
+    } ]
+  }, {
+    "tStartMs": 2033880,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "I eat three meals a day, so ordering once a week seems pretty reasonable."
+    } ]
+  }, {
+    "tStartMs": 2039240,
+    "dDurationMs": 1799,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2041039,
+    "dDurationMs": 6880,
+    "segs": [ {
+      "utf8": "Delivery, we're really going back and forth about delivery like this."
+    } ]
+  }, {
+    "tStartMs": 2047919,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "I'm going to tell you the whole story of yongho-jonghо."
+    } ]
+  }, {
+    "tStartMs": 2051559,
+    "dDurationMs": 521,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2052080,
+    "dDurationMs": 3039,
+    "segs": [ {
+      "utf8": "So there was an episode that happened."
+    } ]
+  }, {
+    "tStartMs": 2055119,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "It came about while using a delivery app."
+    } ]
+  }, {
+    "tStartMs": 2060000,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "You know that hamburger restaurant I mentioned at the beginning?"
+    } ]
+  }, {
+    "tStartMs": 2064640,
+    "dDurationMs": 6680,
+    "segs": [ {
+      "utf8": "I used to always go there and eat,"
+    } ]
+  }, {
+    "tStartMs": 2071320,
+    "dDurationMs": 6440,
+    "segs": [ {
+      "utf8": "but after I caught COVID for the first time in my life last July,"
+    } ]
+  }, {
+    "tStartMs": 2077760,
+    "dDurationMs": 6479,
+    "segs": [ {
+      "utf8": "I placed a delivery order from that hamburger restaurant for the first time."
+    } ]
+  }, {
+    "tStartMs": 2084279,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But at that restaurant,"
+    } ]
+  }, {
+    "tStartMs": 2090279,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "I couldn't say \"This is Jeong Tae-woong,\""
+    } ]
+  }, {
+    "tStartMs": 2092959,
+    "dDurationMs": 521,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2093480,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "My name—"
+    } ]
+  }, {
+    "tStartMs": 2094279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Do they know your name?"
+    } ]
+  }, {
+    "tStartMs": 2095279,
+    "dDurationMs": 2641,
+    "segs": [ {
+      "utf8": "They don't know my name either."
+    } ]
+  }, {
+    "tStartMs": 2097920,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "But anyway, I used to always go there and eat,"
+    } ]
+  }, {
+    "tStartMs": 2103720,
+    "dDurationMs": 4239,
+    "segs": [ {
+      "utf8": "and since I had COVID, I placed a delivery order."
+    } ]
+  }, {
+    "tStartMs": 2108000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I hope you sell a lot today."
+    } ]
+  }, {
+    "tStartMs": 2109200,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "I wrote a request message like that."
+    } ]
+  }, {
+    "tStartMs": 2114920,
+    "dDurationMs": 4159,
+    "segs": [ {
+      "utf8": "Even though you're a man, you always leave warm messages."
+    } ]
+  }, {
+    "tStartMs": 2119079,
+    "dDurationMs": 3921,
+    "segs": [ {
+      "utf8": "There's no reason a man can't be warm."
+    } ]
+  }, {
+    "tStartMs": 2123000,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "I don't leave reviews, though."
+    } ]
+  }, {
+    "tStartMs": 2124720,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "But that's a different matter."
+    } ]
+  }, {
+    "tStartMs": 2128000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "That's nice—when you give little words like that,"
+    } ]
+  }, {
+    "tStartMs": 2131000,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Yeah, but"
+    } ]
+  }, {
+    "tStartMs": 2134640,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "that was Baemin at the time."
+    } ]
+  }, {
+    "tStartMs": 2138880,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "At that time, that restaurant wasn't on Yogiyo,"
+    } ]
+  }, {
+    "tStartMs": 2141880,
+    "dDurationMs": 1359,
+    "segs": [ {
+      "utf8": "Or was it free delivery?"
+    } ]
+  }, {
+    "tStartMs": 2143239,
+    "dDurationMs": 4241,
+    "segs": [ {
+      "utf8": "Because free delivery was only available on Baemin,"
+    } ]
+  }, {
+    "tStartMs": 2147480,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "Anyway, I sent that message and received and ate the food,"
+    } ]
+  }, {
+    "tStartMs": 2155000,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and even then they included something like a Vita 500 bottle and all that,"
+    } ]
+  }, {
+    "tStartMs": 2159720,
+    "dDurationMs": 6239,
+    "segs": [ {
+      "utf8": "but after COVID cleared up,"
+    } ]
+  }, {
+    "tStartMs": 2165959,
+    "dDurationMs": 8081,
+    "segs": [ {
+      "utf8": "I tried to order different food with my mom."
+    } ]
+  }, {
+    "tStartMs": 2174040,
+    "dDurationMs": 5919,
+    "segs": [ {
+      "utf8": "But that restaurant also wasn't on the Yogiyo app, so I used Baemin,"
+    } ]
+  }, {
+    "tStartMs": 2179959,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "and I just ordered without thinking."
+    } ]
+  }, {
+    "tStartMs": 2183000,
+    "dDurationMs": 5839,
+    "segs": [ {
+      "utf8": "But I had ordered chicken,"
+    } ]
+  }, {
+    "tStartMs": 2188839,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "and suddenly some kind of chicken gizzard or something"
+    } ]
+  }, {
+    "tStartMs": 2191320,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "came as a service."
+    } ]
+  }, {
+    "tStartMs": 2193279,
+    "dDurationMs": 2441,
+    "segs": [ {
+      "utf8": "Yeah, it's a different restaurant from that hamburger place."
+    } ]
+  }, {
+    "tStartMs": 2195720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It's a different restaurant, a different one."
+    } ]
+  }, {
+    "tStartMs": 2197880,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "But I don't know why they gave me a service,"
+    } ]
+  }, {
+    "tStartMs": 2201119,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "but there was a Post-it note on it"
+    } ]
+  }, {
+    "tStartMs": 2202959,
+    "dDurationMs": 3481,
+    "segs": [ {
+      "utf8": "that said \"Eat deliciously and get better soon.\""
+    } ]
+  }, {
+    "tStartMs": 2206440,
+    "dDurationMs": 7679,
+    "segs": [ {
+      "utf8": "That was the request message I had written for the hamburger restaurant, and it was still saved there."
+    } ]
+  }, {
+    "tStartMs": 2214119,
+    "dDurationMs": 2481,
+    "segs": [ {
+      "utf8": "Baemin saves it like that."
+    } ]
+  }, {
+    "tStartMs": 2217359,
+    "dDurationMs": 4641,
+    "segs": [ {
+      "utf8": "So it's a restaurant I've never been to even once,"
+    } ]
+  }, {
+    "tStartMs": 2222000,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "and they actually wrote it by hand on a real Post-it note with a smiling face too."
+    } ]
+  }, {
+    "tStartMs": 2226440,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "You liar."
+    } ]
+  }, {
+    "tStartMs": 2228399,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So I felt so sorry."
+    } ]
+  }, {
+    "tStartMs": 2231519,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So the next time,"
+    } ]
+  }, {
+    "tStartMs": 2235559,
+    "dDurationMs": 2921,
+    "segs": [ {
+      "utf8": "I used Yogiyo for a while again,"
+    } ]
+  }, {
+    "tStartMs": 2238480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and then I made that mistake one more time?"
+    } ]
+  }, {
+    "tStartMs": 2240480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Anyway, and then"
+    } ]
+  }, {
+    "tStartMs": 2242760,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "this one was intentional."
+    } ]
+  }, {
+    "tStartMs": 2243920,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "The second time was intentional."
+    } ]
+  }, {
+    "tStartMs": 2245359,
+    "dDurationMs": 2521,
+    "segs": [ {
+      "utf8": "No, no, so"
+    } ]
+  }, {
+    "tStartMs": 2247880,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "so it was last week or the week before last,"
+    } ]
+  }, {
+    "tStartMs": 2250320,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "it was relatively recent,"
+    } ]
+  }, {
+    "tStartMs": 2253720,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "and then I had to use Baemin again,"
+    } ]
+  }, {
+    "tStartMs": 2257200,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "so I used Baemin once,"
+    } ]
+  }, {
+    "tStartMs": 2260720,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "but that time I didn't forget and checked to make sure—"
+    } ]
+  }, {
+    "tStartMs": 2264920,
+    "dDurationMs": 4199,
+    "segs": [ {
+      "utf8": "As expected, that request was written in there too."
+    } ]
+  }, {
+    "tStartMs": 2269119,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "It was automatically saved,"
+    } ]
+  }, {
+    "tStartMs": 2271959,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "so I deleted that"
+    } ]
+  }, {
+    "tStartMs": 2275239,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "and you can leave out the pickled radish."
+    } ]
+  }, {
+    "tStartMs": 2276839,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "That's all I wrote."
+    } ]
+  }, {
+    "tStartMs": 2277959,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2279079,
+    "dDurationMs": 2841,
+    "segs": [ {
+      "utf8": "But"
+    } ]
+  }, {
+    "tStartMs": 2281920,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "But"
+    } ]
+  }, {
+    "tStartMs": 2284119,
+    "dDurationMs": 2881,
+    "segs": [ {
+      "utf8": "But when I changed the food, a service came again."
+    } ]
+  }, {
+    "tStartMs": 2287000,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "A chicken place?"
+    } ]
+  }, {
+    "tStartMs": 2288200,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "A different chicken place"
+    } ]
+  }, {
+    "tStartMs": 2289679,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "A different chicken place?"
+    } ]
+  }, {
+    "tStartMs": 2291040,
+    "dDurationMs": 2039,
+    "segs": [ {
+      "utf8": "Yes, so it's a new restaurant."
+    } ]
+  }, {
+    "tStartMs": 2293079,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? Why?"
+    } ]
+  }, {
+    "tStartMs": 2295079,
+    "dDurationMs": 4081,
+    "segs": [ {
+      "utf8": "So I double-checked once more"
+    } ]
+  }, {
+    "tStartMs": 2299160,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2300239,
+    "dDurationMs": 2761,
+    "segs": [ {
+      "utf8": "\"You can leave out the pickled radish,\""
+    } ]
+  }, {
+    "tStartMs": 2303000,
+    "dDurationMs": 1559,
+    "segs": [ {
+      "utf8": "and I wrote that"
+    } ]
+  }, {
+    "tStartMs": 2304559,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2305920,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "and was about to order"
+    } ]
+  }, {
+    "tStartMs": 2307559,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2308160,
+    "dDurationMs": 3239,
+    "segs": [ {
+      "utf8": "but the payment method had an issue, so I cancelled"
+    } ]
+  }, {
+    "tStartMs": 2311399,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2313599,
+    "dDurationMs": 1361,
+    "segs": [ {
+      "utf8": "and then again"
+    } ]
+  }, {
+    "tStartMs": 2314960,
+    "dDurationMs": 719,
+    "segs": [ {
+      "utf8": "It was intentional."
+    } ]
+  }, {
+    "tStartMs": 2315679,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "I changed the menu again"
+    } ]
+  }, {
+    "tStartMs": 2317440,
+    "dDurationMs": 719,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2318159,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "and placed the order again,"
+    } ]
+  }, {
+    "tStartMs": 2319159,
+    "dDurationMs": 3681,
+    "segs": [ {
+      "utf8": "but that time I forgot"
+    } ]
+  }, {
+    "tStartMs": 2322840,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Oh, but I know what it is."
+    } ]
+  }, {
+    "tStartMs": 2325080,
+    "dDurationMs": 479,
+    "segs": [ {
+      "utf8": "So"
+    } ]
+  }, {
+    "tStartMs": 2325559,
+    "dDurationMs": 961,
+    "segs": [ {
+      "utf8": "I understand."
+    } ]
+  }, {
+    "tStartMs": 2326520,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2327320,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "That order with the pickled radish changed didn't go through"
+    } ]
+  }, {
+    "tStartMs": 2330280,
+    "dDurationMs": 1439,
+    "segs": [ {
+      "utf8": "because the payment didn't work,"
+    } ]
+  }, {
+    "tStartMs": 2331719,
+    "dDurationMs": 1161,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2333840,
+    "dDurationMs": 1959,
+    "segs": [ {
+      "utf8": "so back to the original, that corona"
+    } ]
+  }, {
+    "tStartMs": 2335799,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Corona"
+    } ]
+  }, {
+    "tStartMs": 2337719,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "A year of corona"
+    } ]
+  }, {
+    "tStartMs": 2339239,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So oh, I was really sorry about it."
+    } ]
+  }, {
+    "tStartMs": 2342119,
+    "dDurationMs": 1641,
+    "segs": [ {
+      "utf8": "What did you get that time?"
+    } ]
+  }, {
+    "tStartMs": 2343760,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Cheese balls that time."
+    } ]
+  }, {
+    "tStartMs": 2345080,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Ah"
+    } ]
+  }, {
+    "tStartMs": 2347440,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Cheese balls."
+    } ]
+  }, {
+    "tStartMs": 2348880,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Yes, oh I was really really sorry about it."
+    } ]
+  }, {
+    "tStartMs": 2351000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Oh, I relate to that because"
+    } ]
+  }, {
+    "tStartMs": 2354000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I participate in review events,"
+    } ]
+  }, {
+    "tStartMs": 2356000,
+    "dDurationMs": 1119,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2357119,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "but I always think I should write in the requests"
+    } ]
+  }, {
+    "tStartMs": 2359559,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "\"Please give me the review event,\" I think I should write,"
+    } ]
+  }, {
+    "tStartMs": 2362359,
+    "dDurationMs": 2401,
+    "segs": [ {
+      "utf8": "but then while doing payment methods and stuff, I forget"
+    } ]
+  }, {
+    "tStartMs": 2364760,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2365320,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "and can't apply for the review event,"
+    } ]
+  }, {
+    "tStartMs": 2366640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "and I'm like, oh I was supposed to do this,"
+    } ]
+  }, {
+    "tStartMs": 2368640,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2369880,
+    "dDurationMs": 1479,
+    "segs": [ {
+      "utf8": "I've had that kind of experience before."
+    } ]
+  }, {
+    "tStartMs": 2371359,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 2373919,
+    "dDurationMs": 3081,
+    "segs": [ {
+      "utf8": "But you didn't lie anyway."
+    } ]
+  }, {
+    "tStartMs": 2377000,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Like, \"this is good,\""
+    } ]
+  }, {
+    "tStartMs": 2379400,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I don't think using it that way would be good."
+    } ]
+  }, {
+    "tStartMs": 2382400,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Oh, you really shouldn't do that."
+    } ]
+  }, {
+    "tStartMs": 2383520,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "You can't live that way."
+    } ]
+  }, {
+    "tStartMs": 2384599,
+    "dDurationMs": 3241,
+    "segs": [ {
+      "utf8": "Well, how much heart you must have put into it"
+    } ]
+  }, {
+    "tStartMs": 2387840,
+    "dDurationMs": 1639,
+    "segs": [ {
+      "utf8": "to take care of the service like that."
+    } ]
+  }, {
+    "tStartMs": 2389479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh, exactly."
+    } ]
+  }, {
+    "tStartMs": 2391520,
+    "dDurationMs": 2199,
+    "segs": [ {
+      "utf8": "A regular customer got COVID,"
+    } ]
+  }, {
+    "tStartMs": 2393719,
+    "dDurationMs": 1681,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2395400,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "So, but in my opinion,"
+    } ]
+  }, {
+    "tStartMs": 2397320,
+    "dDurationMs": 399,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 2397719,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'm pretty sure that"
+    } ]
+  }, {
+    "tStartMs": 2400000,
+    "dDurationMs": 8480,
+    "segs": [ {
+      "utf8": "at the chicken restaurant where you gave that service, there must have been some customer who made a guess about it."
+    } ]
+  }, {
+    "tStartMs": 2408480,
+    "dDurationMs": 8840,
+    "segs": [ {
+      "utf8": "Right? Since they're a regular. Could it be that person? Like that. Ah, so I felt even more sorry."
+    } ]
+  }, {
+    "tStartMs": 2419320,
+    "dDurationMs": 7399,
+    "segs": [ {
+      "utf8": "A review scammer. So unintentionally I became a review scammer. A review scammer. Oh, this shouldn't happen, really."
+    } ]
+  }, {
+    "tStartMs": 2426719,
+    "dDurationMs": 10281,
+    "segs": [ {
+      "utf8": "That's really it. The essence of service. Ah, right. Really taking care of things with heart."
+    } ]
+  }, {
+    "tStartMs": 2437000,
+    "dDurationMs": 11040,
+    "segs": [ {
+      "utf8": "It started by accident. But still, all those restaurants are nice. The owners are. Right. There must be some places that just let it go and move on."
+    } ]
+  }, {
+    "tStartMs": 2448040,
+    "dDurationMs": 9320,
+    "segs": [ {
+      "utf8": "It seems there are a lot of good owners in Busan. Oh, is that so? Kind of a warm image. There's a bit of that image, isn't there."
+    } ]
+  }, {
+    "tStartMs": 2457360,
+    "dDurationMs": 10080,
+    "segs": [ {
+      "utf8": "More than here in Seoul or this area. Oh, really? Don't you think so? A bit like that. I recently went to Jeju Island."
+    } ]
+  }, {
+    "tStartMs": 2467440,
+    "dDurationMs": 9199,
+    "segs": [ {
+      "utf8": "But I felt it. It's very different from Seoul vibes. Even when you go to a restaurant, they just do a lot of small talk."
+    } ]
+  }, {
+    "tStartMs": 2476639,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "All of them, every single restaurant. Oh, I see. My older sister lives in Jeju Island."
+    } ]
+  }, {
+    "tStartMs": 2483839,
+    "dDurationMs": 8000,
+    "segs": [ {
+      "utf8": "Yes. And my brother-in-law runs a very famous seafood ramen restaurant. In Jeju Island. Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2491839,
+    "dDurationMs": 10481,
+    "segs": [ {
+      "utf8": "It was on Infinite Challenge back in the day. Oh, I would have gone if I'd known. Where is it? It's called Nolman. Huh? I think I've seen it passing by."
+    } ]
+  }, {
+    "tStartMs": 2502320,
+    "dDurationMs": 9120,
+    "segs": [ {
+      "utf8": "Yeah, it's right in front of the beach. Yes. That's the place. Below Aewol, by the beach. Right? Oh, I've seen it."
+    } ]
+  }, {
+    "tStartMs": 2511440,
+    "dDurationMs": 8320,
+    "segs": [ {
+      "utf8": "Oh wow, that's interesting. If I go there and say Tae-woong is my acquaintance, can I get special service?"
+    } ]
+  }, {
+    "tStartMs": 2519760,
+    "dDurationMs": 10560,
+    "segs": [ {
+      "utf8": "Even if I go, I can't get it. Oh, just kidding. If you let them know beforehand, it might be possible."
+    } ]
+  }, {
+    "tStartMs": 2530320,
+    "dDurationMs": 14760,
+    "segs": [ {
+      "utf8": "Okay, okay, okay. Seafood ramen. I've never tried it. Delivery. The most recent one I ordered was yesterday, and I had to eat it quickly before class."
+    } ]
+  }, {
+    "tStartMs": 2545080,
+    "dDurationMs": 13080,
+    "segs": [ {
+      "utf8": "So these days I'm like that. Minimum order amount is low. Regardless of the menu, just low minimum order and fast delivery available."
+    } ]
+  }, {
+    "tStartMs": 2558160,
+    "dDurationMs": 12920,
+    "segs": [ {
+      "utf8": "It seems like I choose that way a lot. Oh, I strongly agree. Do you agree? Minimum order 12,000 won or less. Something like that. Since I'm alone."
+    } ]
+  }, {
+    "tStartMs": 2571080,
+    "dDurationMs": 10080,
+    "segs": [ {
+      "utf8": "Really, for me. I'm someone who doesn't get lonely very easily. But when I look at delivery apps like that"
+    } ]
+  }, {
+    "tStartMs": 2581160,
+    "dDurationMs": 11399,
+    "segs": [ {
+      "utf8": "I wish there was a friend next door or a girlfriend, a neighborhood girlfriend, someone like that. So we can share? Yes."
+    } ]
+  }, {
+    "tStartMs": 2592559,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "Even if we're not eating together, I want to share. Exactly. Like chicken and stuff. Yes."
+    } ]
+  }, {
+    "tStartMs": 2599759,
+    "dDurationMs": 12561,
+    "segs": [ {
+      "utf8": "Often one person can't eat it all, right? Wasn't there something like that before? Single-serving orders. Like, ordering something and sharing it, some kind of service or app like that?"
+    } ]
+  }, {
+    "tStartMs": 2612320,
+    "dDurationMs": 14159,
+    "segs": [ {
+      "utf8": "Really? Yes. The Seoul metropolitan area. Kind of like Carrot. It could have been like that. Like Carrot, when you order too much in the neighborhood or buy too much"
+    } ]
+  }, {
+    "tStartMs": 2626479,
+    "dDurationMs": 9280,
+    "segs": [ {
+      "utf8": "like water or something, when you want to share it, they'd recruit people and share. It's like a group buying concept. Right, right."
+    } ]
+  }, {
+    "tStartMs": 2635759,
+    "dDurationMs": 10640,
+    "segs": [ {
+      "utf8": "It seems like it popped up for a bit. But it didn't last. There must be a reason it didn't last. Right."
+    } ]
+  }, {
+    "tStartMs": 2646919,
+    "dDurationMs": 14961,
+    "segs": [ {
+      "utf8": "So the minimum order. I mean, right. There was something like that. Yes. So yesterday, I'm not even on a diet or anything, but I ordered completely diet food."
+    } ]
+  }, {
+    "tStartMs": 2661880,
+    "dDurationMs": 9359,
+    "segs": [ {
+      "utf8": "What was it? Tofu inari sushi, stuff like that. Tofu inari sushi? You don't know tofu inari sushi? I've never even heard of it."
+    } ]
+  }, {
+    "tStartMs": 2671239,
+    "dDurationMs": 14481,
+    "segs": [ {
+      "utf8": "Oh, really? It's a pretty famous diet food. Instead of rice, you squeeze out all the moisture from tofu, crumble it, put it in inari, and eat the protein. But it's delicious."
+    } ]
+  }, {
+    "tStartMs": 2685720,
+    "dDurationMs": 7559,
+    "segs": [ {
+      "utf8": "It's delicious? Yes. Oh, I see. It's delicious? Inari is already delicious, you know. Right."
+    } ]
+  }, {
+    "tStartMs": 2693279,
+    "dDurationMs": 12881,
+    "segs": [ {
+      "utf8": "Yes. If you just put the tofu in there, it's delicious. I ate it deliciously. Wow, I see. Tae-woong, it seems like you eat pretty healthily in general."
+    } ]
+  }, {
+    "tStartMs": 2706160,
+    "dDurationMs": 11840,
+    "segs": [ {
+      "utf8": "In general? I'm curious about your diet too. Oh, is that so? First of all, breakfast is almost always soy sauce egg rice."
+    } ]
+  }, {
+    "tStartMs": 2718000,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "Soy sauce egg rice fixed? Yes, it's fixed. Fixed. Almost every day. Huh? Really? You don't get tired of eating it like that?"
+    } ]
+  }, {
+    "tStartMs": 2725040,
+    "dDurationMs": 10560,
+    "segs": [ {
+      "utf8": "Oh, I have a tip. Yes. If you wrap soy sauce egg rice in seaweed, you can prevent getting tired of it a bit. Yes."
+    } ]
+  }, {
+    "tStartMs": 2735600,
+    "dDurationMs": 9959,
+    "segs": [ {
+      "utf8": "And is it chili oil? Chili-flavored oil? Yes. That red oil. Yes. It seems like it's from Ottogi."
+    } ]
+  }, {
+    "tStartMs": 2745559,
+    "dDurationMs": 10441,
+    "segs": [ {
+      "utf8": "Yes. Chili oil. That seems right. Yes. But if you put a spoonful of that in soy sauce egg rice, it becomes very spicy."
+    } ]
+  }, {
+    "tStartMs": 2756000,
+    "dDurationMs": 11119,
+    "segs": [ {
+      "utf8": "You don't get tired of it? Yes, that's why. If you just eat it plain, it's a mild taste. Mm, add spiciness. And if you feel like you're getting tired of it,"
+    } ]
+  }, {
+    "tStartMs": 2767119,
+    "dDurationMs": 8120,
+    "segs": [ {
+      "utf8": "that spicy taste is for when maybe you drank a lot the night before? Yes. Then, oh, eating that settles your stomach."
+    } ]
+  }, {
+    "tStartMs": 2775239,
+    "dDurationMs": 12201,
+    "segs": [ {
+      "utf8": "Even hangover relief is possible. Of course. Oh, that's it, right? Fry an egg and just put it on rice, add soy sauce and sesame oil and mix it? That's right."
+    } ]
+  }, {
+    "tStartMs": 2787440,
+    "dDurationMs": 14200,
+    "segs": [ {
+      "utf8": "That's right. But since I eat it so often, to bring out the maximum flavor, Chef Baek Jong-won posted on YouTube how to make soy sauce egg rice delicious."
+    } ]
+  }, {
+    "tStartMs": 2801640,
+    "dDurationMs": 10439,
+    "segs": [ {
+      "utf8": "Yes. If you watch that, it's not just frying an egg, putting it on rice, adding soy sauce and sesame oil and mixing it."
+    } ]
+  }, {
+    "tStartMs": 2812079,
+    "dDurationMs": 20480,
+    "segs": [ {
+      "utf8": "You fry the egg on very high heat until it's crispy. From the beginning? Yes. And then turn off the heat in the pan, and when the pan has cooled down a bit, splash soy sauce into it"
+    } ]
+  }, {
+    "tStartMs": 2832559,
+    "dDurationMs": 15000,
+    "segs": [ {
+      "utf8": "and almost burn half of the soy sauce. Yes. From that half-burned soy sauce, you get that kind of charred flavor, that nuance? It makes a difference with just one step. So I'm really eating it deliciously. I am."
+    } ]
+  }, {
+    "tStartMs": 2847559,
+    "dDurationMs": 14601,
+    "segs": [ {
+      "utf8": "Oh, since when have you been eating this fixed? It's been over a month, I think? Still, it's recent. That's fine. Simple. Yes. Just eat it there with seaweed too."
+    } ]
+  }, {
+    "tStartMs": 2862160,
+    "dDurationMs": 19480,
+    "segs": [ {
+      "utf8": "But I secretly add one more thing to what Chef Baek Jong-won does, and when I heat up the pan, I put oil in it and heat it up, right. To make the pan hot, but I don't use vegetable oil, I use avocado oil anyway."
+    } ]
+  }, {
+    "tStartMs": 2881640,
+    "dDurationMs": 19000,
+    "segs": [ {
+      "utf8": "Wow. Yes. But then. Because it's good for your body? Because it's good for your body. But then I add about a 2cm block of butter, let's say? Not too much and not too little. I melt the butter in that oil beforehand."
+    } ]
+  }, {
+    "tStartMs": 2900640,
+    "dDurationMs": 10159,
+    "segs": [ {
+      "utf8": "Butter? Yes, yes. You use avocado oil because it's good for your body? Add 2cm of butter. It's not 2cm. About 1.5cm."
+    } ]
+  }, {
+    "tStartMs": 2910799,
+    "dDurationMs": 15240,
+    "segs": [ {
+      "utf8": "1.5cm. Thin. Thin 1.5cm. Thin butter. So when you fry the egg, you add the flavor of butter. A little bit of butter."
+    } ]
+  }, {
+    "tStartMs": 2926039,
+    "dDurationMs": 9680,
+    "segs": [ {
+      "utf8": "This is the end. Exactly. It can't help but be delicious. It's really the best. I get happy in the morning. Then you'll be looking forward to tomorrow morning. Of course."
+    } ]
+  }, {
+    "tStartMs": 2935719,
+    "dDurationMs": 12281,
+    "segs": [ {
+      "utf8": "Butter soy sauce egg rice. When I was little, when I didn't have an appetite, my mom would make it all the time. Soy sauce egg rice. Right?"
+    } ]
+  }, {
+    "tStartMs": 2948000,
+    "dDurationMs": 14200,
+    "segs": [ {
+      "utf8": "Soy sauce egg rice, really. If among the listeners there's someone who wants to develop the habit of eating breakfast. Then you can do it like this."
+    } ]
+  }, {
+    "tStartMs": 2962200,
+    "dDurationMs": 11039,
+    "segs": [ {
+      "utf8": "Soy sauce egg rice. Do one and that's it. That's enough. Let us know how long it lasts as an update. Understood."
+    } ]
+  }, {
+    "tStartMs": 2973239,
+    "dDurationMs": 9440,
+    "segs": [ {
+      "utf8": "And, the conversation just keeps going. Right? Tae-woong has so many stories to share."
+    } ]
+  }, {
+    "tStartMs": 2982679,
+    "dDurationMs": 16800,
+    "segs": [ {
+      "utf8": "That's true. It's like Nefertiti. From delivery to butter soy sauce egg rice. That's right. And finally, a story related to delivery."
+    } ]
+  }, {
+    "tStartMs": 3000000,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong's YouTube channels are Comprehensible Input Korean and All Things Korean."
+    } ]
+  }, {
+    "tStartMs": 3030000,
+    "dDurationMs": 14240,
+    "segs": [ {
+      "utf8": "In the past, I used to spend about 15 to 20 minutes every day wondering which chicken restaurant to order from, which chicken brand to have delivered."
+    } ]
+  }, {
+    "tStartMs": 3044240,
+    "dDurationMs": 14160,
+    "segs": [ {
+      "utf8": "But now, no matter where I am, no matter where I order from, no matter where I live, whether I go to a friend's place or a relative's place, I have one clear criterion for choosing."
+    } ]
+  }, {
+    "tStartMs": 3058599,
+    "dDurationMs": 1241,
+    "segs": [ {
+      "utf8": "Hmm, what is it?"
+    } ]
+  }, {
+    "tStartMs": 3059840,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "The place where I can get the most delicious chicken."
+    } ]
+  }, {
+    "tStartMs": 3062400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Huh? Yes, what is it?"
+    } ]
+  }, {
+    "tStartMs": 3064400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Do you know which place has the most delicious fried chicken?"
+    } ]
+  }, {
+    "tStartMs": 3066400,
+    "dDurationMs": 799,
+    "segs": [ {
+      "utf8": "Let me try to guess."
+    } ]
+  }, {
+    "tStartMs": 3067199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The place with the most delicious fried chicken."
+    } ]
+  }, {
+    "tStartMs": 3070080,
+    "dDurationMs": 920,
+    "segs": [ {
+      "utf8": "The closest one?"
+    } ]
+  }, {
+    "tStartMs": 3071000,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Uh, that's right."
+    } ]
+  }, {
+    "tStartMs": 3072080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "[laughs]"
+    } ]
+  }, {
+    "tStartMs": 3075959,
+    "dDurationMs": 2201,
+    "segs": [ {
+      "utf8": "Fried chicken has to be fried fresh right away."
+    } ]
+  }, {
+    "tStartMs": 3078160,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 3079160,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 3080480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It has to arrive as quickly as possible."
+    } ]
+  }, {
+    "tStartMs": 3082480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Ah, so that's the key."
+    } ]
+  }, {
+    "tStartMs": 3084760,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3085760,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wow, that's a great tip."
+    } ]
+  }, {
+    "tStartMs": 3088120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 3089120,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So I should look at the minimum order, by closest distance then?"
+    } ]
+  }, {
+    "tStartMs": 3094120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 3095120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "By closest distance."
+    } ]
+  }, {
+    "tStartMs": 3097120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "If you want to eat fried chicken by ordering from the closest distance?"
+    } ]
+  }, {
+    "tStartMs": 3101120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 3103120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah."
+    } ]
+  }, {
+    "tStartMs": 3104120,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "There's no failure?"
+    } ]
+  }, {
+    "tStartMs": 3106120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "There was no failure."
+    } ]
+  }, {
+    "tStartMs": 3107120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 3108120,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 3109480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And these days, most chicken restaurants are franchises."
+    } ]
+  }, {
+    "tStartMs": 3114480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 3115480,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So there's not really a risk of failure in taste, you know?"
+    } ]
+  }, {
+    "tStartMs": 3119480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3120480,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Most of them do the basics."
+    } ]
+  }, {
+    "tStartMs": 3122480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 3123480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "So then?"
+    } ]
+  }, {
+    "tStartMs": 3124480,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 3126480,
+    "dDurationMs": 1999,
+    "segs": [ {
+      "utf8": "The one that maintains the freshness the most,"
+    } ]
+  }, {
+    "tStartMs": 3128479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 3129479,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The one where you can eat it fresh from the fryer,"
+    } ]
+  }, {
+    "tStartMs": 3131479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 3132479,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The chicken restaurant closest by distance is the answer."
+    } ]
+  }, {
+    "tStartMs": 3135479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 3136479,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That makes sense."
+    } ]
+  }, {
+    "tStartMs": 3137839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "When it comes to delivery, it's chicken, right?"
+    } ]
+  }, {
+    "tStartMs": 3139839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 3140839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 3141839,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "So you don't really have a favorite franchise?"
+    } ]
+  }, {
+    "tStartMs": 3144839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Not anymore."
+    } ]
+  }, {
+    "tStartMs": 3145839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Wow."
+    } ]
+  }, {
+    "tStartMs": 3146839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 3147839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3148839,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Besides fried, what's your second favorite type of chicken?"
+    } ]
+  }, {
+    "tStartMs": 3152839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Well."
+    } ]
+  }, {
+    "tStartMs": 3154839,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Not half and half, just fried chicken?"
+    } ]
+  }, {
+    "tStartMs": 3157839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh."
+    } ]
+  }, {
+    "tStartMs": 3158839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 3159839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yeah, a lot. Almost always."
+    } ]
+  }, {
+    "tStartMs": 3161839,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wow, you really do love fried chicken."
+    } ]
+  }, {
+    "tStartMs": 3163839,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3165199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But there are special menu items, you know."
+    } ]
+  }, {
+    "tStartMs": 3168199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Like Bburing Kle or Gochubbasak and things like that."
+    } ]
+  }, {
+    "tStartMs": 3171199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3172199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I don't really have a favorite among those."
+    } ]
+  }, {
+    "tStartMs": 3174199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Oh, is that so?"
+    } ]
+  }, {
+    "tStartMs": 3175199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3176199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "You don't like Bburing Kle?"
+    } ]
+  }, {
+    "tStartMs": 3178199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "For me, after eating about three pieces of Bburing Kle, I get tired of it."
+    } ]
+  }, {
+    "tStartMs": 3181199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "But aren't those three pieces really delicious?"
+    } ]
+  }, {
+    "tStartMs": 3184199,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "No, just the first bite is really delicious."
+    } ]
+  }, {
+    "tStartMs": 3187199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's that explosive kind of deliciousness, you know?"
+    } ]
+  }, {
+    "tStartMs": 3189199,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Well, that's true."
+    } ]
+  }, {
+    "tStartMs": 3191199,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 3192559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "When I go and eat Bburing Kle, it stays delicious the whole time."
+    } ]
+  }, {
+    "tStartMs": 3195559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yeah. Because it's stimulating."
+    } ]
+  }, {
+    "tStartMs": 3198559,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Yes. Right when it's freshly fried,"
+    } ]
+  }, {
+    "tStartMs": 3203559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "when that explosive quality is still there,"
+    } ]
+  }, {
+    "tStartMs": 3206559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "once you finish eating it all, it's done."
+    } ]
+  }, {
+    "tStartMs": 3211559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It's done."
+    } ]
+  }, {
+    "tStartMs": 3212559,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3213559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Fried chicken."
+    } ]
+  }, {
+    "tStartMs": 3215559,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "What about old-style whole chicken?"
+    } ]
+  }, {
+    "tStartMs": 3217559,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Old-style whole chicken?"
+    } ]
+  }, {
+    "tStartMs": 3220919,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I like old-style whole chicken. I do."
+    } ]
+  }, {
+    "tStartMs": 3222919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You do?"
+    } ]
+  }, {
+    "tStartMs": 3223919,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Um... I do like it."
+    } ]
+  }, {
+    "tStartMs": 3228919,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Old-style whole chicken has several varieties these days, you know."
+    } ]
+  }, {
+    "tStartMs": 3232919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 3233919,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Or maybe not? I like the electric rotisserie style old-style whole chicken."
+    } ]
+  }, {
+    "tStartMs": 3240919,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "The kind without flour coating?"
+    } ]
+  }, {
+    "tStartMs": 3242919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3243919,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Ah..."
+    } ]
+  }, {
+    "tStartMs": 3244919,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "That feeling of the electric rotisserie whole chicken they used to sell from trucks."
+    } ]
+  }, {
+    "tStartMs": 3250279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mm."
+    } ]
+  }, {
+    "tStartMs": 3252279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I like that too."
+    } ]
+  }, {
+    "tStartMs": 3253279,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It's called Gimjonggu-style Mastkicken."
+    } ]
+  }, {
+    "tStartMs": 3255279,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. Mr. Gimjonggu's."
+    } ]
+  }, {
+    "tStartMs": 3258279,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Gimjonggu-style Mastkicken."
+    } ]
+  }, {
+    "tStartMs": 3261279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mastkicken?"
+    } ]
+  }, {
+    "tStartMs": 3262279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 3263279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Mastkicken."
+    } ]
+  }, {
+    "tStartMs": 3264279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "You don't have it in Seoul?"
+    } ]
+  }, {
+    "tStartMs": 3265279,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "I've never heard of it."
+    } ]
+  }, {
+    "tStartMs": 3266279,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Is it only in Busan?"
+    } ]
+  }, {
+    "tStartMs": 3268279,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Gimjonggu... oh, it's not Gimjonggu, it's Gimjonggu's Mastkicken."
+    } ]
+  }, {
+    "tStartMs": 3274279,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Gimjonggu-style Mastkicken."
+    } ]
+  }, {
+    "tStartMs": 3276279,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah. It does exist, but I've never heard of it."
+    } ]
+  }, {
+    "tStartMs": 3279640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "They sell electric rotisserie style, but they also sell regular fried chicken."
+    } ]
+  }, {
+    "tStartMs": 3283640,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Wow. That sounds delicious."
+    } ]
+  }, {
+    "tStartMs": 3285640,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "It is delicious."
+    } ]
+  }, {
+    "tStartMs": 3287640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I like the oven-roasted kind."
+    } ]
+  }, {
+    "tStartMs": 3290640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Something like Gochubbasak. I think you'd definitely like it."
+    } ]
+  }, {
+    "tStartMs": 3293640,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Oven-roasted. Then it would definitely be delicious."
+    } ]
+  }, {
+    "tStartMs": 3297640,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I should order delivery today."
+    } ]
+  }, {
+    "tStartMs": 3300640,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "Good idea. I mistakenly thought I had caught COVID there and ordered an extra sauce."
+    } ]
+  }, {
+    "tStartMs": 3308000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I'm taking this opportunity to say."
+    } ]
+  }, {
+    "tStartMs": 3311000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Well. But at least there's something to say about that."
+    } ]
+  }, {
+    "tStartMs": 3316000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "I've never eaten at that restaurant in person, but I order delivery from there quite often."
+    } ]
+  }, {
+    "tStartMs": 3319000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Oh really? That works then."
+    } ]
+  }, {
+    "tStartMs": 3321000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "My mother likes it, so that's why."
+    } ]
+  }, {
+    "tStartMs": 3325000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I'll try it sometime too."
+    } ]
+  }, {
+    "tStartMs": 3327000,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Yes. I recommend it."
+    } ]
+  }, {
+    "tStartMs": 3329000,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Then let's wrap up our conversation here for today."
+    } ]
+  }, {
+    "tStartMs": 3334359,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Today we talked about delivery from all angles,"
+    } ]
+  }, {
+    "tStartMs": 3337359,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "so what should we cover next time?"
+    } ]
+  }, {
+    "tStartMs": 3341359,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Like I mentioned earlier,"
+    } ]
+  }, {
+    "tStartMs": 3344359,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "that homemade burger place in Busan and"
+    } ]
+  }, {
+    "tStartMs": 3349359,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "should we talk about hamburgers in general?"
+    } ]
+  }, {
+    "tStartMs": 3352359,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Ah. That sounds good. It seems like you have a lot to say about it."
+    } ]
+  }, {
+    "tStartMs": 3355359,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "About that burger restaurant."
+    } ]
+  }, {
+    "tStartMs": 3357359,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "Other than that, just about hamburgers as a food in general."
+    } ]
+  }, {
+    "tStartMs": 3362720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Hamburgers are pretty good, right?"
+    } ]
+  }, {
+    "tStartMs": 3364720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "I like them too."
+    } ]
+  }, {
+    "tStartMs": 3366720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Then next week we'll talk about hamburgers"
+    } ]
+  }, {
+    "tStartMs": 3368720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "from all angles."
+    } ]
+  }, {
+    "tStartMs": 3370720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And if there are any topics you'd like us to discuss in the future,"
+    } ]
+  }, {
+    "tStartMs": 3375720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "please let us know through Spotify or YouTube comments, and we'd appreciate it."
+    } ]
+  }, {
+    "tStartMs": 3380720,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Yes. Thank you for your hard work today."
+    } ]
+  }, {
+    "tStartMs": 3383720,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 3392359,
+    "dDurationMs": 8361,
+    "segs": [ {
+      "utf8": "Please like and subscribe."
+    } ]
+  } ]
+}

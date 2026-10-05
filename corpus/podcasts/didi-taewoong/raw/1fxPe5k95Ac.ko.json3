@@ -1,0 +1,5101 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "\u003c디디와 정태웅의 한국생활 요모조모\u003e"
+    } ]
+  }, {
+    "tStartMs": 9820,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "안녕하세요 디디입니다"
+    } ]
+  }, {
+    "tStartMs": 11350,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "안녕하세요 정태웅입니다"
+    } ]
+  }, {
+    "tStartMs": 13550,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "\u003c한국생활 요모조모\u003e는 한국에서 살아가는 두 사람이"
+    } ]
+  }, {
+    "tStartMs": 16660,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "한국생활의 요모조모를 이야기하는 팟캐스트입니다"
+    } ]
+  }, {
+    "tStartMs": 20220,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "5월도 요모조모 이야기 해보려고 왔고요"
+    } ]
+  }, {
+    "tStartMs": 24810,
+    "dDurationMs": 7310,
+    "segs": [ {
+      "utf8": "오늘 본격적으로 토크 해보기 전에 저번... 주제에 대해서 얘기를 잠깐 해보고 넘어가면 좋을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 32120,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "저번에 테마가 친구였단 말이죠 그래서 퀴즈는 없었고"
+    } ]
+  }, {
+    "tStartMs": 36960,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "여러분들이 생각하는 친구란 뭔지 남겨주세요 라고 말씀을 드렸었어요"
+    } ]
+  }, {
+    "tStartMs": 42620,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "그래서 좀 재밌는 댓글들이 있어서 한번 읽어보고 싶은데"
+    } ]
+  }, {
+    "tStartMs": 47890,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "@dinoswarleafs 라고 하는 닉네임이신 것 같고"
+    } ]
+  }, {
+    "tStartMs": 53160,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "'제가 생각하는 친구의 정의는 술을 마시러 가자라고 했을 때"
+    } ]
+  }, {
+    "tStartMs": 57630,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "기쁘게 같이 갈 수 있는 사람이다' 라고 하셨어요"
+    } ]
+  }, {
+    "tStartMs": 61220,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "어떻게 생각하시나요?"
+    } ]
+  }, {
+    "tStartMs": 63640,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "어.. 한 번도 생각해 본 적 없는데"
+    } ]
+  }, {
+    "tStartMs": 66600,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "제 친구들이 술 마시러 가자고 하면 항상 기쁘긴 합니다"
+    } ]
+  }, {
+    "tStartMs": 69860,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "그쵸 '술 한번 먹자 했는데' 좀 부담스럽고"
+    } ]
+  }, {
+    "tStartMs": 74850,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "\"아 언젠가... 그쵸! 언젠가 한번 먹죠\" 이렇게 대답이 나온다면"
+    } ]
+  }, {
+    "tStartMs": 79760,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "그건 좀 친구가 아닐 수도 있을 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 85090,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "그래서 저도 동의를 하고요"
+    } ]
+  }, {
+    "tStartMs": 87140,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "또 Moka님께서는 '친구는 본심을 말할 수 있는 사람이에요' 라고 하셨었어요"
+    } ]
+  }, {
+    "tStartMs": 94000,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "친구들한테 본심을 종종 이야기하시나요? 태웅쌤은?"
+    } ]
+  }, {
+    "tStartMs": 97660,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "저는 항상 본심입니다"
+    } ]
+  }, {
+    "tStartMs": 100610,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "역시나"
+    } ]
+  }, {
+    "tStartMs": 101660,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "네 숨기지 않아요"
+    } ]
+  }, {
+    "tStartMs": 103330,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "숨기지 않고 얘기하는 걸로 그렇죠 솔직하게 이야기하고"
+    } ]
+  }, {
+    "tStartMs": 107560,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "꾸미지 않아도 되는 게 친구다라고 하시는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 111650,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "그리고 가장 저 좀 흥미롭게 봤던 댓글은"
+    } ]
+  }, {
+    "tStartMs": 115210,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "뭐 이런 말이 여러 번 있었어요"
+    } ]
+  }, {
+    "tStartMs": 119970,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Balcells 님도 그렇고"
+    } ]
+  }, {
+    "tStartMs": 122380,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "@jesseyu... 님인 것 같아요 그분들이 좀..."
+    } ]
+  }, {
+    "tStartMs": 126890,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "저희가 \"친구가 아니에요\" 라고 얘기를 했을 때 신기했나 봐요"
+    } ]
+  }, {
+    "tStartMs": 133210,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "그냥 서로 웃으면서 이렇게나 오랫동안 같이 이야기했는데"
+    } ]
+  }, {
+    "tStartMs": 137410,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "\"저희 친구 아니잖아요, 그렇죠?\" 이렇게 얘기하는 게 신기하다 그러면서"
+    } ]
+  }, {
+    "tStartMs": 142270,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "'한 가지 궁금한 게 있어요 한국 사람들은 친구가 없다라는 걸 자랑처럼 말씀하시나요?"
+    } ]
+  }, {
+    "tStartMs": 147590,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "서로 친구가 아니라는 말을 하면서"
+    } ]
+  }, {
+    "tStartMs": 150150,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "상대방이 상처받을 수 있다라고 생각하지 않나요?' 라고 하시더라고요"
+    } ]
+  }, {
+    "tStartMs": 155720,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "'웃으면서 이야기하는 게 좀 이상했다'라고 하셔서"
+    } ]
+  }, {
+    "tStartMs": 159630,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "이거는 어떻게 생각하시나요?"
+    } ]
+  }, {
+    "tStartMs": 163070,
+    "dDurationMs": 8550,
+    "segs": [ {
+      "utf8": "일단 한국 사람들이 친구가 없다라는 말을 자랑스럽게, 자랑처럼?"
+    } ]
+  }, {
+    "tStartMs": 171620,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "한다는 부분이 되게 좋은 포인트 같고"
+    } ]
+  }, {
+    "tStartMs": 176090,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "우리가 에피소드 얘기할 때 좀 놓친 게 좀 아까운 소재 같아요"
+    } ]
+  }, {
+    "tStartMs": 183260,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "왜냐하면 제 생각에도 좀 그런 부분이 있는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 188270,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "저도 그렇게 얘기를 많이 하고 \"저 친구 없어요\" 이렇게"
+    } ]
+  }, {
+    "tStartMs": 192600,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "많이들 얘기하죠"
+    } ]
+  }, {
+    "tStartMs": 194020,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "네, 근데 제 경우에는 여기에 어떤 마음이 있냐면,"
+    } ]
+  }, {
+    "tStartMs": 199460,
+    "dDurationMs": 7960,
+    "segs": [ {
+      "utf8": "내가 그만큼 내 할 일이 많다 내가 바쁘다 라는 마음도 있고"
+    } ]
+  }, {
+    "tStartMs": 207420,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "내가 친구가 없으니까 네가 친구 좀 해 줘라"
+    } ]
+  }, {
+    "tStartMs": 210820,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "아~ 난 외로운 사람이다?"
+    } ]
+  }, {
+    "tStartMs": 214370,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "네 '난 준비되어 있다' 이 말 같기도 합니다"
+    } ]
+  }, {
+    "tStartMs": 219000,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "그렇구나 맞는 거 같아요 둘 다"
+    } ]
+  }, {
+    "tStartMs": 222370,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "둘 다 어느 정도 있는 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 224260,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "저도 '친구 없다'라고 얘기를 하는 거는 자랑?"
+    } ]
+  }, {
+    "tStartMs": 229480,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "어렸을 때는 좀 친구 없으면 부끄럽고 창피하고 이럴 때도 있었거든요"
+    } ]
+  }, {
+    "tStartMs": 236500,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "'아 나도 친구 많았으면 좋겠다' 근데 살면서 점점"
+    } ]
+  }, {
+    "tStartMs": 240470,
+    "dDurationMs": 6060,
+    "segs": [ {
+      "utf8": "친구 있어야 되나? 그렇게 많아야 되나? 하는 생각이 들기 시작했을 때부터는"
+    } ]
+  }, {
+    "tStartMs": 246530,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "그냥 \"친구 저 많이 없는 것 같아요\" 이렇게 자연스럽게 얘기하게 된 것 같고"
+    } ]
+  }, {
+    "tStartMs": 251830,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "그 말 속에는 그쵸, 꼭 친구들이랑 시간을 자주 보내는 게 아니라"
+    } ]
+  }, {
+    "tStartMs": 257510,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "내 할 일이 좀 많아요 하는 것 같기도 하고"
+    } ]
+  }, {
+    "tStartMs": 261180,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "그리고 또 가장 크게 중요한 게 하나 있는 것 같은데요"
+    } ]
+  }, {
+    "tStartMs": 266540,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "한국 사람들의 정서, 한국 사람들의 마음에는 겸손함이라고 해야 하나?"
+    } ]
+  }, {
+    "tStartMs": 273940,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "함부로 내가 뭐가 많다, 내가 뭘 잘한다"
+    } ]
+  }, {
+    "tStartMs": 279900,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "'인기 있다' 이런 거를"
+    } ]
+  }, {
+    "tStartMs": 281540,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "인기 있다, 이렇게 얘기하기 무서워해요"
+    } ]
+  }, {
+    "tStartMs": 286070,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "얼마나 많은데? 이렇게 생각할 수도 있고"
+    } ]
+  }, {
+    "tStartMs": 289280,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "네, 그렇게"
+    } ]
+  }, {
+    "tStartMs": 290880,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "그래서 예를 들어 다른 곳에서도, 다른 영역에서도"
+    } ]
+  }, {
+    "tStartMs": 295160,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "\"저 운동 잘해요\" 이러면은..."
+    } ]
+  }, {
+    "tStartMs": 298620,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "모르는 사람들이 공격을 해요"
+    } ]
+  }, {
+    "tStartMs": 300800,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "그쵸? \"너 잘한다며?\" \"운동 잘한다며?\""
+    } ]
+  }, {
+    "tStartMs": 303640,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "\"너 못하잖아\" 이렇게 하는 사람들이 있거든요"
+    } ]
+  }, {
+    "tStartMs": 306240,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "그래서 내가 아무리 실제로 잘하고 잘한다고 생각해도"
+    } ]
+  }, {
+    "tStartMs": 311000,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "'저 못해요' 이렇게 하거든요"
+    } ]
+  }, {
+    "tStartMs": 313500,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "그것처럼 '아 저 인기 없어요' '저 친구 없어요' 이렇게"
+    } ]
+  }, {
+    "tStartMs": 317830,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "그런 것도 좀 있는 것 같네요 겸손의 표현"
+    } ]
+  }, {
+    "tStartMs": 321330,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "네네 그걸 제가 깜빡했습니다"
+    } ]
+  }, {
+    "tStartMs": 323150,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "아 맞네요 맞네요"
+    } ]
+  }, {
+    "tStartMs": 325540,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "응 맞아 외로움도 있고"
+    } ]
+  }, {
+    "tStartMs": 328530,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "사실 자기 세뇌 한 것 있어요 저는"
+    } ]
+  }, {
+    "tStartMs": 332650,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "'친구 있어야 되나? 없어도 괜찮지'"
+    } ]
+  }, {
+    "tStartMs": 335070,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "'이거 부끄러워할 거 아니지' 해서 친구 없어요"
+    } ]
+  }, {
+    "tStartMs": 338330,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "저는 그렇게 얘기하는 것 같기도 해요"
+    } ]
+  }, {
+    "tStartMs": 341600,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "네 그리고 또 웃으면서 '친구 아니에요~' 라고 얘기한 부분은"
+    } ]
+  }, {
+    "tStartMs": 347460,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "전 그거는 언어 차이인 것 같기도 한데"
+    } ]
+  }, {
+    "tStartMs": 352930,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "저랑 디디님이 서로 \"우리 친구는 아니에요\"라고 웃으며 얘기하지만"
+    } ]
+  }, {
+    "tStartMs": 358320,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "\"우리 안 친해요\"라고는 얘기를 안 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 360900,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "아 맞아요 맞아요"
+    } ]
+  }, {
+    "tStartMs": 363170,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "만약에 디디님이 저한테 웃으면서 \"우리 친하진 않잖아요\" 이러면"
+    } ]
+  }, {
+    "tStartMs": 367380,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "\"우리 그 정도까진 아니잖아요\""
+    } ]
+  }, {
+    "tStartMs": 369310,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "그럼 좀 기분 나쁠 것 같거든요"
+    } ]
+  }, {
+    "tStartMs": 371160,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 372730,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "근데 한국 사람들은"
+    } ]
+  }, {
+    "tStartMs": 375420,
+    "dDurationMs": 8160,
+    "segs": [ {
+      "utf8": "그 '친구'를 단순히 친한 사람이라고 생각하기보다"
+    } ]
+  }, {
+    "tStartMs": 383580,
+    "dDurationMs": 8870,
+    "segs": [ {
+      "utf8": "아무런 일 같은 관계가 없는 그냥 진짜 아무 상관없이 그냥 친구인"
+    } ]
+  }, {
+    "tStartMs": 392450,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "그런 관계에만 보통 친구라고 표현을 많이 하는 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 397450,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "제가 이 댓글을 읽으면서 느꼈던 건 그렇거든요"
+    } ]
+  }, {
+    "tStartMs": 400540,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "맞네요 단어, 친구라는 단어가 누구한테나 쓴다기보다는 진짜 얘기하신 대로..."
+    } ]
+  }, {
+    "tStartMs": 407580,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "네, 뭐 어렸을 때부터 알던 친구들, 학교 친구들 이렇게"
+    } ]
+  }, {
+    "tStartMs": 412380,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "맞아, 맞아, 맞아"
+    } ]
+  }, {
+    "tStartMs": 413990,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "그런 부분에만 한정해서 많이 쓰는 표현인 거 같습니다"
+    } ]
+  }, {
+    "tStartMs": 417560,
+    "dDurationMs": 4870,
+    "segs": [ {
+      "utf8": "그렇죠 예… 영어로도 'We are not friends'라고 하면"
+    } ]
+  }, {
+    "tStartMs": 422430,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "'안 친하다'라고 하는 것 같아요 선 긋는 느낌이 들어서 그런 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 427930,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "그런 것 같아요, 네"
+    } ]
+  }, {
+    "tStartMs": 430060,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "그래서 저희는 그런 생각으로 얘기를 했던 것이었습니다"
+    } ]
+  }, {
+    "tStartMs": 435710,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 436740,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "댓글 많이 남겨주셔서 감사하고요"
+    } ]
+  }, {
+    "tStartMs": 439500,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "이번 주는 퀴즈가 있으니까"
+    } ]
+  }, {
+    "tStartMs": 441370,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "끝까지 재밌게 들어주시면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 445020,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "이번 주는 어떤 주제로 얘기해 볼 건가요?"
+    } ]
+  }, {
+    "tStartMs": 448730,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "이번 주제는 요리입니다"
+    } ]
+  }, {
+    "tStartMs": 451140,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "요린데 태웅쌤은 지금 어머님이랑 같이 살고 계시고"
+    } ]
+  }, {
+    "tStartMs": 457560,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "저는 혼자 산지 꽤 됐어요 부모님 댁에 많이 자주 가긴 하지만"
+    } ]
+  }, {
+    "tStartMs": 463470,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "얼마나 됐지? 혼자 산 지 한 6년? 된 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 470030,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "오래됐다, 새삼"
+    } ]
+  }, {
+    "tStartMs": 472770,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "네 그런데 태웅쌤은 어때요? 요리 좀 하시나요?"
+    } ]
+  }, {
+    "tStartMs": 476480,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "거의 할 일이 없죠 사실"
+    } ]
+  }, {
+    "tStartMs": 478710,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "진짜요?"
+    } ]
+  }, {
+    "tStartMs": 479980,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 480520,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "너무 좋네요"
+    } ]
+  }, {
+    "tStartMs": 481860,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "너무 좋죠"
+    } ]
+  }, {
+    "tStartMs": 485140,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "잘 없는데 그럼 어떨 때는 하세요?"
+    } ]
+  }, {
+    "tStartMs": 489010,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "그게 요리... 한국어에 '요리'라는 단어랑"
+    } ]
+  }, {
+    "tStartMs": 494470,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "'조리'라는 단어가 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 496450,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "그쵸 좋은 포인트네요"
+    } ]
+  }, {
+    "tStartMs": 498880,
+    "dDurationMs": 6340,
+    "segs": [ {
+      "utf8": "네, 요리라고 하면 보통 재료 손질부터 직접 하는 느낌?"
+    } ]
+  }, {
+    "tStartMs": 505220,
+    "dDurationMs": 8380,
+    "segs": [ {
+      "utf8": "음식에 들어가는 재료까지 제가 다 직접 썰고 준비를 하는 건데"
+    } ]
+  }, {
+    "tStartMs": 513600,
+    "dDurationMs": 7900,
+    "segs": [ {
+      "utf8": "조리는 어느 정도 준비가 되어 있는 걸 제가 간편하게 끓이기만 한다던가"
+    } ]
+  }, {
+    "tStartMs": 521500,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "전자레인지에 넣고 돌리기만 한다던가 그런 걸 얘기하는데"
+    } ]
+  }, {
+    "tStartMs": 525580,
+    "dDurationMs": 5930,
+    "segs": [ {
+      "utf8": "저는 사실 요리는 진짜 하는 일이 드물고요"
+    } ]
+  }, {
+    "tStartMs": 531510,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "기껏해야 파스타? 가끔 그것도?"
+    } ]
+  }, {
+    "tStartMs": 537030,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "맞아 맞아 파스타 좋죠"
+    } ]
+  }, {
+    "tStartMs": 539610,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "조리는... 뭐 라면?"
+    } ]
+  }, {
+    "tStartMs": 542750,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "라면이나 계란후라이?"
+    } ]
+  }, {
+    "tStartMs": 545820,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "계란후라이도 조리... (- 계란밥?) 정도라고 할 수 있겠네요"
+    } ]
+  }, {
+    "tStartMs": 550810,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "계란밥 많이 드신다고 하셨었잖아요"
+    } ]
+  }, {
+    "tStartMs": 553310,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "아, 네 계란밥도 많이 하고요"
+    } ]
+  }, {
+    "tStartMs": 555130,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "그거는 애매하다"
+    } ]
+  }, {
+    "tStartMs": 557310,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "요리와 조리 사이네요, 그건"
+    } ]
+  }, {
+    "tStartMs": 559150,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "네 애매한데 너무 간단해서"
+    } ]
+  }, {
+    "tStartMs": 562050,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "간단한 요리?"
+    } ]
+  }, {
+    "tStartMs": 563620,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "조리라고 해도 뭐 크게 무리는 없을 것 같고"
+    } ]
+  }, {
+    "tStartMs": 567100,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "간단한 요리가 적당하네요"
+    } ]
+  }, {
+    "tStartMs": 568580,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "아, 네네네 그렇구나"
+    } ]
+  }, {
+    "tStartMs": 571730,
+    "dDurationMs": 7720,
+    "segs": [ {
+      "utf8": "저도 이제 요리라고 얘기를 들으면 되게 뭔가 거창하고 근사한 느낌이 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 579450,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "진짜 요리사처럼 하는 거라"
+    } ]
+  }, {
+    "tStartMs": 582250,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "저는 요리 자주 안 한다고 생각했는데 생각해보면"
+    } ]
+  }, {
+    "tStartMs": 587260,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "하루에 일주일에 밖에서 사 먹을 때가 그렇게 자주 없어요 요즘은"
+    } ]
+  }, {
+    "tStartMs": 593090,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "어떻게든 뭐라도 간단하게라도 만들어 먹는데 어떨까요?"
+    } ]
+  }, {
+    "tStartMs": 598970,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "제가 먹는 건 요리일까요? 조리일까요? 어떤 거 먹냐면"
+    } ]
+  }, {
+    "tStartMs": 602450,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "저는 낫또를 낫또의 맛을 안 지 얼마 안 돼서"
+    } ]
+  }, {
+    "tStartMs": 608220,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "낫또를 한 일주일에 3-4번은 먹는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 613600,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "낫또를 이렇게 저어서"
+    } ]
+  }, {
+    "tStartMs": 615230,
+    "dDurationMs": 6740,
+    "segs": [ {
+      "utf8": "계란을 그냥 날계란을 같이 저은 다음에 그걸 밥에 그냥 부어 먹어요"
+    } ]
+  }, {
+    "tStartMs": 621970,
+    "dDurationMs": 5780,
+    "segs": [ {
+      "utf8": "그리고 뭐 된장국도 간단한 미소 그거 있거든요? 된장?"
+    } ]
+  }, {
+    "tStartMs": 627750,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "그거 그냥 사서 물에 이렇게 풀어가지고 일본 가정식 느낌으로 먹어요"
+    } ]
+  }, {
+    "tStartMs": 632860,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "그리고 일본 애니메이션 보면서?"
+    } ]
+  }, {
+    "tStartMs": 636770,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "어... 맞네요?"
+    } ]
+  }, {
+    "tStartMs": 639480,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "저 한국인인데..."
+    } ]
+  }, {
+    "tStartMs": 642650,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "그게! 왜냐면"
+    } ]
+  }, {
+    "tStartMs": 644830,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "제가 엄청 오랫동안 한국 음식만 먹고 살았잖아요"
+    } ]
+  }, {
+    "tStartMs": 649380,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "그래서 좀 색다른 거를 이제 찾아 먹고 싶은 마음에"
+    } ]
+  }, {
+    "tStartMs": 653760,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "파스타도 자주 요리하고"
+    } ]
+  }, {
+    "tStartMs": 655840,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "제가 직접 뭘 만들어 먹으면"
+    } ]
+  }, {
+    "tStartMs": 658340,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "그런 다양한 나라 요리를 먹어보고 싶어지는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 662270,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "그쵸 그쵸"
+    } ]
+  }, {
+    "tStartMs": 664910,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "아무튼 그래서 낫또랑 된장국 풀어먹는"
+    } ]
+  }, {
+    "tStartMs": 668300,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "그 정도는 조리가 아닐까요?"
+    } ]
+  }, {
+    "tStartMs": 672550,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "조리인가요?"
+    } ]
+  }, {
+    "tStartMs": 674570,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "그렇지 않나요?"
+    } ]
+  }, {
+    "tStartMs": 675900,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "왜냐면 낫또를 만들진 않잖아요"
+    } ]
+  }, {
+    "tStartMs": 679730,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "그렇죠 불을 하나도 안 쓰니까"
+    } ]
+  }, {
+    "tStartMs": 682570,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "그것도 좋은 포인트네요"
+    } ]
+  }, {
+    "tStartMs": 684870,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "조리해서 간편히 먹고 있습니다"
+    } ]
+  }, {
+    "tStartMs": 687140,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "근데 편해서 좋아요"
+    } ]
+  }, {
+    "tStartMs": 689700,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "제 생각에 한식이 되게 어렵고 좀 손이 많이 가는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 696160,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "요리 분야 중에"
+    } ]
+  }, {
+    "tStartMs": 697930,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 698760,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 699710,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "네 재료 준비도 할 게 많고 보통"
+    } ]
+  }, {
+    "tStartMs": 703460,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "좀 정성이 많이 들어가야 하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 706200,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "그렇죠 혼자 살면 아무튼 간단해야 돼요"
+    } ]
+  }, {
+    "tStartMs": 710440,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "재료도 간단해야 되고"
+    } ]
+  }, {
+    "tStartMs": 711540,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "남으면 안 되고 네"
+    } ]
+  }, {
+    "tStartMs": 714930,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "아 그쵸 근데 사실 이 주제 디디님이 고른 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 719710,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 721090,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "고를 당시에 그 이유가 있었잖아요"
+    } ]
+  }, {
+    "tStartMs": 723860,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 725290,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "그거는 소개 안 해주십니까?"
+    } ]
+  }, {
+    "tStartMs": 728000,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "아 네! 제가 요리를 선택한 이유는"
+    } ]
+  }, {
+    "tStartMs": 731780,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "무슨 바람이 들었는지"
+    } ]
+  }, {
+    "tStartMs": 733860,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "한식조리사 자격증을 한번 따볼까 하는 생각이 갑자기 들었어요"
+    } ]
+  }, {
+    "tStartMs": 739420,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "왜냐면 말했던 대로 제가 원래는 밖에서 사 먹거나"
+    } ]
+  }, {
+    "tStartMs": 743300,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "배달 음식 많이 시켜 먹다가 요즘은 그냥 집에서"
+    } ]
+  }, {
+    "tStartMs": 747070,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "간단하게 해 먹는 것도 나쁘지 않더라고요"
+    } ]
+  }, {
+    "tStartMs": 750020,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "그러면서 이걸 좀 전문적으로 배워놓으면 내가 자신감도 생길 것 같고"
+    } ]
+  }, {
+    "tStartMs": 755880,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "그리고 어디에 써먹을 날이 오지 않을까? 그냥 일단 배워놓으면?"
+    } ]
+  }, {
+    "tStartMs": 760180,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "하는 생각에 그런 다짐을 하고"
+    } ]
+  }, {
+    "tStartMs": 765010,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "그러면 내가 한 이때쯤에는 배워놨겠지"
+    } ]
+  }, {
+    "tStartMs": 768160,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "그러면 요리에 대해서 얘기할 게 있겠다 해서"
+    } ]
+  }, {
+    "tStartMs": 770880,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "요모조모 주제로 한번 선정을 해봤고요"
+    } ]
+  }, {
+    "tStartMs": 773280,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "그래서 어떻게 됐냐!"
+    } ]
+  }, {
+    "tStartMs": 776310,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "그 시험이 어떻게 구성이 되어 있냐면요"
+    } ]
+  }, {
+    "tStartMs": 778810,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "필기와 실기가 있어요"
+    } ]
+  }, {
+    "tStartMs": 782100,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "그래서 필기는 그 시험 보는 거가 있고 어떤 내용이 있냐면"
+    } ]
+  }, {
+    "tStartMs": 787300,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "뭐가 있을 것 같아요? 한식 거기 필기에"
+    } ]
+  }, {
+    "tStartMs": 793220,
+    "dDurationMs": 8680,
+    "segs": [ {
+      "utf8": "예를 들면 닭도리탕을 만드는데 들어가는 소금은 한 티스푼이다 뭐 이런 거?"
+    } ]
+  }, {
+    "tStartMs": 801900,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "저도 그런 걸 생각했거든요"
+    } ]
+  }, {
+    "tStartMs": 803630,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "뭔가 레시피?"
+    } ]
+  }, {
+    "tStartMs": 805100,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "그래서 어떻게 공부하는지부터 일단 찾아보니까"
+    } ]
+  }, {
+    "tStartMs": 808800,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "뭐 책을 사서 하거나 아니면 유튜브 요즘 영상 많으니까"
+    } ]
+  }, {
+    "tStartMs": 812790,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "그런 거 그냥 계속 들으래요 그러면 뭐 잘 풀 수 있대요"
+    } ]
+  }, {
+    "tStartMs": 816540,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "그래서 들었죠 그랬더니 학교 다닐 때"
+    } ]
+  }, {
+    "tStartMs": 820690,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "가정 시간에 배우는 내용들이 있죠"
+    } ]
+  }, {
+    "tStartMs": 824540,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "'탄단지무비' 이런 거 아세요?"
+    } ]
+  }, {
+    "tStartMs": 826670,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "탄수화물 단백질 지방 무기질 비타민"
+    } ]
+  }, {
+    "tStartMs": 830900,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "이런 거 필수 영양소나"
+    } ]
+  }, {
+    "tStartMs": 834470,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "마이야르 반응이 정확히 어떤 건지"
+    } ]
+  }, {
+    "tStartMs": 838670,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "단백질이 당으로 바뀌면서 그런 약간..."
+    } ]
+  }, {
+    "tStartMs": 842820,
+    "dDurationMs": 690,
+    "segs": [ {
+      "utf8": "화학이네?"
+    } ]
+  }, {
+    "tStartMs": 843510,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "화학인 거예요!"
+    } ]
+  }, {
+    "tStartMs": 845380,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "와..."
+    } ]
+  }, {
+    "tStartMs": 847280,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "그걸 외워야 되고, 이름을 막 외워야 되고"
+    } ]
+  }, {
+    "tStartMs": 850180,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "막 원소기호들 있고"
+    } ]
+  }, {
+    "tStartMs": 852620,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "그래서 거기서 지금 멈춰있어요"
+    } ]
+  }, {
+    "tStartMs": 857540,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "지금 그 강의를 시간 날 때마다 팟캐스트처럼 그냥 틀어놓거든요?"
+    } ]
+  }, {
+    "tStartMs": 862640,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "아직 1단원에 멈춰있어요, 저는"
+    } ]
+  }, {
+    "tStartMs": 865090,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "아 그래서 아직 직접적인 요리로는"
+    } ]
+  }, {
+    "tStartMs": 870910,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "넘어가지도 못했습니다"
+    } ]
+  }, {
+    "tStartMs": 872100,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "아 그럼 이 에피소드를 몇 달 뒤에 했어야 되나?"
+    } ]
+  }, {
+    "tStartMs": 875970,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "근데 이거 그 필기를 준비하면서 좀 저는 드는 생각이"
+    } ]
+  }, {
+    "tStartMs": 880790,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "약간 시험이나 자격증 이런 게 꼭 그걸 해야지 잘한다고 할 수 있는 건 아니잖아요"
+    } ]
+  }, {
+    "tStartMs": 887120,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "그럼요"
+    } ]
+  }, {
+    "tStartMs": 887900,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "그런 생각이 자꾸 드는 거예요 '내가 이 탄수화물, 단백질,"
+    } ]
+  }, {
+    "tStartMs": 891390,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "지방... 이거를 공부해야 되나?'"
+    } ]
+  }, {
+    "tStartMs": 893620,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "'그 시간에 뭘 하나 레시피를 찾아보고 만드는 게 낫지 않나?'"
+    } ]
+  }, {
+    "tStartMs": 898270,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "그런 생각이 들어서 지금 살짝 그게 꺾인 상태?"
+    } ]
+  }, {
+    "tStartMs": 902290,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "그 의지가 살짝 꺾였어요"
+    } ]
+  }, {
+    "tStartMs": 905390,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "근데 또 뭐 필기를 지나서 실기 부분으로 가면"
+    } ]
+  }, {
+    "tStartMs": 909710,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "또 연습 많이 해야 할 거니까"
+    } ]
+  }, {
+    "tStartMs": 913050,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "계속 해보는 것도 좋다고 생각합니다, 저는"
+    } ]
+  }, {
+    "tStartMs": 915660,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "필기... 맞아요 좀 영상 계속 들어보고"
+    } ]
+  }, {
+    "tStartMs": 919900,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "그렇게 어렵진 않다고 해서 적당히 보고..."
+    } ]
+  }, {
+    "tStartMs": 925140,
+    "dDurationMs": 6300,
+    "segs": [ {
+      "utf8": "그리고 칼질 같은 거는 사실 미리 연습할 수 있는 거 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 931440,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "칼질?"
+    } ]
+  }, {
+    "tStartMs": 932860,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "네, 막 1CM, 1MM로 자르는 연습 이런 거"
+    } ]
+  }, {
+    "tStartMs": 937880,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "그런 걸 아예 생각을 못 했어요 뭘 해야 되는지를 모르니까"
+    } ]
+  }, {
+    "tStartMs": 943200,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "좋은 방법이네요 칼질 연습"
+    } ]
+  }, {
+    "tStartMs": 945820,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "근데 제일 좋은 거는 학원에 가는 게 가장 좋다고 생각합니다"
+    } ]
+  }, {
+    "tStartMs": 950340,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "그렇죠 그래서 알아보니까"
+    } ]
+  }, {
+    "tStartMs": 951730,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "필기 먼저 하고 그 다음에 실기 학원을 다녀서"
+    } ]
+  }, {
+    "tStartMs": 955840,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "한 두세 달 연습해서 시험 보더라고요"
+    } ]
+  }, {
+    "tStartMs": 958880,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "그렇구나"
+    } ]
+  }, {
+    "tStartMs": 960020,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "그래서 요리는 그냥 혼자서 가끔씩 하고 있어요"
+    } ]
+  }, {
+    "tStartMs": 966290,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 967880,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "그러면 다시 현실로 돌아와서"
+    } ]
+  }, {
+    "tStartMs": 971790,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "그러면 다른 요리는 혹시 안 하시나요?"
+    } ]
+  }, {
+    "tStartMs": 975430,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "그러니까 최근에 요리라고 할 만한 거"
+    } ]
+  }, {
+    "tStartMs": 978590,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "아, 파스타를 만들었는데,"
+    } ]
+  }, {
+    "tStartMs": 982100,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "보통 한국에서 제일 자주 만드는 파스타가 알리오 올리오,"
+    } ]
+  }, {
+    "tStartMs": 986580,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "뭐 크림 파스타, 아니면 토마토 소스 다 팔잖아요"
+    } ]
+  }, {
+    "tStartMs": 990380,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "그래서 그냥 부어서 이렇게 섞어 먹는"
+    } ]
+  }, {
+    "tStartMs": 992870,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "맞아요 면만 삶아서"
+    } ]
+  }, {
+    "tStartMs": 994220,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "그쵸 그거 제일 많이 하잖아요"
+    } ]
+  }, {
+    "tStartMs": 997440,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "제가 최근에 카츄오 페페인가?"
+    } ]
+  }, {
+    "tStartMs": 1000320,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "이게 이탈리아에서 클래식한 치즈 파스타고,"
+    } ]
+  }, {
+    "tStartMs": 1006240,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "한국어로 하면 치즈 후추 파스타예요"
+    } ]
+  }, {
+    "tStartMs": 1010630,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "이걸 학생분이랑 이야기를 하는데"
+    } ]
+  }, {
+    "tStartMs": 1013100,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "이거 되게 간단하고 진짜 맛있고"
+    } ]
+  }, {
+    "tStartMs": 1016380,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "자기가 할 수 있는 요리 중에 제일 맛있다 해서 한번 만들어봐라"
+    } ]
+  }, {
+    "tStartMs": 1020820,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "그래서 알려줘서 이거 만든 적 있어요"
+    } ]
+  }, {
+    "tStartMs": 1023360,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "저도 참고해봐야 되겠습니다"
+    } ]
+  }, {
+    "tStartMs": 1025250,
+    "dDurationMs": 3340,
+    "segs": [ {
+      "utf8": "그래서 이거는 필요한 재료가 파스타면"
+    } ]
+  }, {
+    "tStartMs": 1028590,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "그리고 페코리노 치즈"
+    } ]
+  }, {
+    "tStartMs": 1031080,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "이렇게 딱딱한 거 있어요 페코리노 치즈랑 파르마..."
+    } ]
+  }, {
+    "tStartMs": 1035200,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "파르미지아노 레지아노 치즈"
+    } ]
+  }, {
+    "tStartMs": 1038600,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "파마산 치즈?"
+    } ]
+  }, {
+    "tStartMs": 1039970,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "아 그래요? 그거예요?"
+    } ]
+  }, {
+    "tStartMs": 1041800,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1043070,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "파마산 치즈랑 그냥 그거만 있으면 돼요"
+    } ]
+  }, {
+    "tStartMs": 1045880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "버터 후추"
+    } ]
+  }, {
+    "tStartMs": 1048680,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "올리브 오일 필요 없어요?"
+    } ]
+  }, {
+    "tStartMs": 1049840,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "없어요 없어요 없어요 필요 없어요"
+    } ]
+  }, {
+    "tStartMs": 1051620,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "와우"
+    } ]
+  }, {
+    "tStartMs": 1052820,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "그래서 어떻게 하냐면 파스타면을 삶고 그 면수를 만들잖아요"
+    } ]
+  }, {
+    "tStartMs": 1057420,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "파스타면을 끓이는 물에 소금 좀 넣고"
+    } ]
+  }, {
+    "tStartMs": 1061660,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "이제 그동안은 치즈를 이렇게 막 갈아요"
+    } ]
+  }, {
+    "tStartMs": 1063840,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "가는 걸로 이렇게 갈아서"
+    } ]
+  }, {
+    "tStartMs": 1066170,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "그거를 블렌더에 넣고 이렇게 섞거든요"
+    } ]
+  }, {
+    "tStartMs": 1069930,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "그런 다음에 면수를 아주 조금 부어서 크림소스를 만든 다음에"
+    } ]
+  }, {
+    "tStartMs": 1074630,
+    "dDurationMs": 7330,
+    "segs": [ {
+      "utf8": "버터를 녹여서 거기에 후추를 엄청 많이 해서 살짝 한 다음에 불 끄고"
+    } ]
+  }, {
+    "tStartMs": 1081960,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "그냥 휘휘휘휘휘 다 섞어서 먹으면 돼요"
+    } ]
+  }, {
+    "tStartMs": 1085810,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "오~!"
+    } ]
+  }, {
+    "tStartMs": 1087660,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "맛있었습니까?"
+    } ]
+  }, {
+    "tStartMs": 1089440,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "이거... 실패했어요 제가 근데"
+    } ]
+  }, {
+    "tStartMs": 1092370,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "아 그래요?"
+    } ]
+  }, {
+    "tStartMs": 1093780,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "이렇게 쉬운데 면수를 제가 좀 너무 많이 넣어서 짜더라고요"
+    } ]
+  }, {
+    "tStartMs": 1099650,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "음~ 근데 그게 참 요리의 중요한 부분 같습니다"
+    } ]
+  }, {
+    "tStartMs": 1106550,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "어떤 거요?"
+    } ]
+  }, {
+    "tStartMs": 1107550,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "보통 첫 요리들은 많이 실패하는 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1110910,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "대부분!"
+    } ]
+  }, {
+    "tStartMs": 1111980,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "네 다 실패하는 거 같아요"
+    } ]
+  }, {
+    "tStartMs": 1114590,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "심지어 저는 꼬맹이 때..."
+    } ]
+  }, {
+    "tStartMs": 1116450,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "태어나서 처음 끓인 라면도 실패했고요"
+    } ]
+  }, {
+    "tStartMs": 1118550,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "맞아"
+    } ]
+  }, {
+    "tStartMs": 1120100,
+    "dDurationMs": 1570,
+    "segs": [ {
+      "utf8": "계란후라이 실패하고"
+    } ]
+  }, {
+    "tStartMs": 1121670,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "아, 그렇죠 그러니까 많이 해봐야 느는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1125920,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "맞네 맞네, 맞네"
+    } ]
+  }, {
+    "tStartMs": 1128370,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "처음에는 완벽을 기대하기 어렵다"
+    } ]
+  }, {
+    "tStartMs": 1132000,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "근데 진짜 요즘은 유튜브도 너무 잘 나와있고 해서"
+    } ]
+  }, {
+    "tStartMs": 1136390,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "진짜 다 정해져 있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1137920,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "얼만큼 넣고, 얼만큼 삶고"
+    } ]
+  }, {
+    "tStartMs": 1141860,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "근데 그대로 따라해도"
+    } ]
+  }, {
+    "tStartMs": 1144100,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "그 작은 뭔가 디테일 때문에 실패하더라고요"
+    } ]
+  }, {
+    "tStartMs": 1148900,
+    "dDurationMs": 7360,
+    "segs": [ {
+      "utf8": "저는 어떻게 생각하냐면 들어가는 재료를 똑같이 하더라도"
+    } ]
+  }, {
+    "tStartMs": 1156260,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "그거를 요리하는 환경이 좀 다르잖아요 예를 들면"
+    } ]
+  }, {
+    "tStartMs": 1159950,
+    "dDurationMs": 8080,
+    "segs": [ {
+      "utf8": "유튜브에는 불이 팔팔 올라오는 화구에서 요리를 하는 거가 나오는데"
+    } ]
+  }, {
+    "tStartMs": 1168030,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "저는 전기 인덕션에서..."
+    } ]
+  }, {
+    "tStartMs": 1171270,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "맞아"
+    } ]
+  }, {
+    "tStartMs": 1172130,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "그 자잘한 열 갖고 하는 거랑 다르잖아요"
+    } ]
+  }, {
+    "tStartMs": 1177080,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "맞아요 중불, 약불도 나와있지만 그게 또 환경마다 다르잖아요"
+    } ]
+  }, {
+    "tStartMs": 1182590,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 1184100,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "우리 집에서 하는 강불이 남의 집 약불일 수도 있어요"
+    } ]
+  }, {
+    "tStartMs": 1188060,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 1189440,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "그래서 익히거나 굽는 타이밍 그리고 삶는 시간"
+    } ]
+  }, {
+    "tStartMs": 1196240,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "이런 것들이 내 환경에 안 맞아서"
+    } ]
+  }, {
+    "tStartMs": 1199820,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "실패하는 경우도 있는 것 같습니다"
+    } ]
+  }, {
+    "tStartMs": 1202320,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "그렇구나 그래서 한번 해보고 '다음에는 내 환경에서는 이렇게 해야 되겠구나'"
+    } ]
+  }, {
+    "tStartMs": 1207810,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "좀 그런 거를 맞춰가면서"
+    } ]
+  }, {
+    "tStartMs": 1210980,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "점점 잘해지는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1212830,
+    "dDurationMs": 6270,
+    "segs": [ {
+      "utf8": "맞아요 그래서 결국 많이 해봐야 늘지 않을까"
+    } ]
+  }, {
+    "tStartMs": 1219100,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "그런 거였구나"
+    } ]
+  }, {
+    "tStartMs": 1220340,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "다음 파스타는 확실히 좀 더 잘할 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1223770,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "카츄오페페? 카시오페페?"
+    } ]
+  }, {
+    "tStartMs": 1225940,
+    "dDurationMs": 7150,
+    "segs": [ {
+      "utf8": "네 네 아무튼 그렇고 저는 지금 사는 집에서는"
+    } ]
+  }, {
+    "tStartMs": 1233090,
+    "dDurationMs": 5970,
+    "segs": [ {
+      "utf8": "라면 아니면 파스타인데"
+    } ]
+  }, {
+    "tStartMs": 1239060,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "라면은 이제 진짜 잘 끓이고요"
+    } ]
+  }, {
+    "tStartMs": 1241640,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "약간 예술 수준으로 잘 끓이게 됐습니다"
+    } ]
+  }, {
+    "tStartMs": 1244930,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "진짜요?"
+    } ]
+  }, {
+    "tStartMs": 1246190,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1247310,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "얼마나 맛있을까?"
+    } ]
+  }, {
+    "tStartMs": 1249420,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "그래서 방학 때마다 누나가 집으로 오는데 맨날 해달라고..."
+    } ]
+  }, {
+    "tStartMs": 1254060,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "'라면은 얘가 끓여야 맛있어' 하면서?"
+    } ]
+  }, {
+    "tStartMs": 1256580,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "네 그리고 짜파게티도"
+    } ]
+  }, {
+    "tStartMs": 1260310,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "진짜? 기가 막히게 끓이는군요"
+    } ]
+  }, {
+    "tStartMs": 1262940,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "좀 다릅니다"
+    } ]
+  }, {
+    "tStartMs": 1264830,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "뭐 더 첨가해요?"
+    } ]
+  }, {
+    "tStartMs": 1266750,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "첨가도 하죠"
+    } ]
+  }, {
+    "tStartMs": 1268030,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "뭐 파를 넣는다거나 고기를 넣는다거나"
+    } ]
+  }, {
+    "tStartMs": 1271300,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "파, 마늘, 계란,"
+    } ]
+  }, {
+    "tStartMs": 1275980,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "그리고 무드에 따라 액젓"
+    } ]
+  }, {
+    "tStartMs": 1279170,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "헉! 그럼 완벽한, 아니다"
+    } ]
+  }, {
+    "tStartMs": 1282220,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "\u003c라면 마스터 태웅쌤이 얘기하는 라면 레시피\u003e 한 번"
+    } ]
+  }, {
+    "tStartMs": 1286890,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "완벽한 라면 레시피"
+    } ]
+  }, {
+    "tStartMs": 1289310,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "완벽한 라면 레시피? 일단요 (- 어떤 라면?) 물을 넣을 때요"
+    } ]
+  }, {
+    "tStartMs": 1296370,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "눈대중으로 넣으면 안 되고요"
+    } ]
+  }, {
+    "tStartMs": 1298750,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "꼭 계량컵에 신라면의 경우 550ML 이렇게 나와 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1304250,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "라면 포장지 뒤를 보면"
+    } ]
+  }, {
+    "tStartMs": 1306940,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "그거에 딱 정해진 만큼 물을 넣어야 됩니다"
+    } ]
+  }, {
+    "tStartMs": 1309700,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "네 물을 잘 지키고"
+    } ]
+  }, {
+    "tStartMs": 1311430,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "그리고 네 그리고 뭐 면을 넣니..."
+    } ]
+  }, {
+    "tStartMs": 1314040,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "'면을 먼저 넣으니 스프를 먼저 넣니' 이런건 중요하지 않는데"
+    } ]
+  }, {
+    "tStartMs": 1318620,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "저는 스프를 먼저 넣으면 물이 빨리 끓어서"
+    } ]
+  }, {
+    "tStartMs": 1322560,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "스프를 먼저 넣고 끓입니다"
+    } ]
+  }, {
+    "tStartMs": 1326470,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "그리고 예전에는 제가 시간이 좀 아까워서"
+    } ]
+  }, {
+    "tStartMs": 1331430,
+    "dDurationMs": 6520,
+    "segs": [ {
+      "utf8": "전기 포트에 물을 먼저 끓여서 끓는 물을 냄비에 넣고 바로 끓였거든요"
+    } ]
+  }, {
+    "tStartMs": 1337950,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "근데 요즘은 그러지 않고"
+    } ]
+  }, {
+    "tStartMs": 1340180,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "그냥 안 끓는 물을 정량에 맞춰서 넣어서 끓이기 시작합니다"
+    } ]
+  }, {
+    "tStartMs": 1346590,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "아무튼 그렇게 해서 물이 국물이 펄펄 끓으면 면을 넣는데"
+    } ]
+  }, {
+    "tStartMs": 1352320,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "그 전에 미리 준비를 해놔요"
+    } ]
+  }, {
+    "tStartMs": 1357980,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "일단 계란을 요만한 종지에 깨서 넣고요"
+    } ]
+  }, {
+    "tStartMs": 1364940,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "그리고 이건 저의 취향인데"
+    } ]
+  }, {
+    "tStartMs": 1367500,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "저는 노른자를 터트리는 걸 좋아하거든요"
+    } ]
+  }, {
+    "tStartMs": 1369450,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "뭐 이렇게 풀어 푸는 거? 계란 푸는 걸 좋아해요?"
+    } ]
+  }, {
+    "tStartMs": 1373250,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "네네네"
+    } ]
+  }, {
+    "tStartMs": 1374070,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "그래서 종지에 계란을 까서 넣고 그리고 이 젓가락으로"
+    } ]
+  }, {
+    "tStartMs": 1378020,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "노른자를 터트려서 막 휘져놔요"
+    } ]
+  }, {
+    "tStartMs": 1380740,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "섞어 놓는 거죠"
+    } ]
+  }, {
+    "tStartMs": 1382810,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "그리고 또 다른 쪽에는 간마늘을 그냥 편하게 쓰고 싶으면"
+    } ]
+  }, {
+    "tStartMs": 1387730,
+    "dDurationMs": 5470,
+    "segs": [ {
+      "utf8": "그냥 간마늘을 많이 넣으면 많이 넣을수록 맛있는데"
+    } ]
+  }, {
+    "tStartMs": 1393200,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "뭐 어느 정도 이만큼 덜어서 놓고"
+    } ]
+  }, {
+    "tStartMs": 1396850,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "그리고 생마늘을 쓰고 싶을 땐 그 생마늘을 다지는 게 있어요"
+    } ]
+  }, {
+    "tStartMs": 1402260,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "넣고 이렇게 누르면 쭉 짜지는 게 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1405260,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "그렇게 해서 직접 마늘을 다지거나"
+    } ]
+  }, {
+    "tStartMs": 1408450,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "와 마늘까지 들어가요?"
+    } ]
+  }, {
+    "tStartMs": 1410440,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "네 마늘 한 3개 정도 넣습니다"
+    } ]
+  }, {
+    "tStartMs": 1414020,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "당연히 생마늘이 더 맛있겠죠?"
+    } ]
+  }, {
+    "tStartMs": 1415870,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "그렇죠 그렇게 하고"
+    } ]
+  }, {
+    "tStartMs": 1417800,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "그리고 파도 넣고 싶은 만큼 큼직큼직하게 썰어서 준비를 했습니다"
+    } ]
+  }, {
+    "tStartMs": 1424490,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "대략 어느 정도?"
+    } ]
+  }, {
+    "tStartMs": 1426860,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "파가 한 이 정도 된다 치면"
+    } ]
+  }, {
+    "tStartMs": 1430620,
+    "dDurationMs": 7850,
+    "segs": [ {
+      "utf8": "이 정도 손가락 두 개만한 길이에 파 한 개 반 정도 넣는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1438470,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "흰색 부분? 초록색 부분 다?"
+    } ]
+  }, {
+    "tStartMs": 1441280,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "둘 다요"
+    } ]
+  }, {
+    "tStartMs": 1443070,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "아무튼 그렇게 해서"
+    } ]
+  }, {
+    "tStartMs": 1445220,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "면을 끓는 국물에 넣고..."
+    } ]
+  }, {
+    "tStartMs": 1449710,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "이거 크게 중요하진 않은데"
+    } ]
+  }, {
+    "tStartMs": 1453020,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "같이 마늘이랑 파를 넣을 때도 있고"
+    } ]
+  }, {
+    "tStartMs": 1457500,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "아니면 마늘이랑 파는 좀 나중에 넣는 경우도 있어요"
+    } ]
+  }, {
+    "tStartMs": 1460850,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "근데 너무 늦게만 안 넣으면 됩니다"
+    } ]
+  }, {
+    "tStartMs": 1464670,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "그렇게 해서 다 넣고 끓여요 계란은 빼고"
+    } ]
+  }, {
+    "tStartMs": 1468280,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "후레이크 언제 넣어요?"
+    } ]
+  }, {
+    "tStartMs": 1469170,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "후레이크 처음에!"
+    } ]
+  }, {
+    "tStartMs": 1470850,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "아 처음에 스프랑 후레이크 같이?"
+    } ]
+  }, {
+    "tStartMs": 1473280,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1475160,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "그렇게 해서 여기서!"
+    } ]
+  }, {
+    "tStartMs": 1477170,
+    "dDurationMs": 8740,
+    "segs": [ {
+      "utf8": "라면 포장지에 나와있는 끓이는 시간보다 1분 일찍 면을 건져내요"
+    } ]
+  }, {
+    "tStartMs": 1485910,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "오 여기가 포인트입니다"
+    } ]
+  }, {
+    "tStartMs": 1490120,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "면만 건져요?"
+    } ]
+  }, {
+    "tStartMs": 1491850,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "네 면을 건져서"
+    } ]
+  }, {
+    "tStartMs": 1493560,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "먹을 큰 접시에 면만 덜어놔요"
+    } ]
+  }, {
+    "tStartMs": 1497660,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "그러면 국물만 남아있잖아요"
+    } ]
+  }, {
+    "tStartMs": 1500860,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "그러면 그 국물에 더 깊은 맛을 좀 내고 싶다 그러면"
+    } ]
+  }, {
+    "tStartMs": 1506690,
+    "dDurationMs": 7480,
+    "segs": [ {
+      "utf8": "참치액젓이나 멜젓 이런 거를 한 반 스푼 정도 넣습니다"
+    } ]
+  }, {
+    "tStartMs": 1514170,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "근데 전혀 비린 맛이 나지 않아요"
+    } ]
+  }, {
+    "tStartMs": 1516710,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "짜지지도 않아요? 스프 다 넣었잖아요"
+    } ]
+  }, {
+    "tStartMs": 1519230,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "짜지지도 않아요"
+    } ]
+  }, {
+    "tStartMs": 1521060,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "그냥 더 깊어질 뿐이에요"
+    } ]
+  }, {
+    "tStartMs": 1522620,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "깊은 맛만 추가되는군요"
+    } ]
+  }, {
+    "tStartMs": 1525350,
+    "dDurationMs": 8190,
+    "segs": [ {
+      "utf8": "네 근데 그게 다 먹고 나면 뭔가 목에 좀 헤비한 느낌이 있어서"
+    } ]
+  }, {
+    "tStartMs": 1533540,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "그건 취향인데 아무튼 그렇게 하고"
+    } ]
+  }, {
+    "tStartMs": 1537120,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "다시 국물을 끓여요"
+    } ]
+  }, {
+    "tStartMs": 1539710,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "면이 없는 남아있는 국물을"
+    } ]
+  }, {
+    "tStartMs": 1543600,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "그렇게 돌려서 끓이면서 국물을 휘저으면서"
+    } ]
+  }, {
+    "tStartMs": 1548640,
+    "dDurationMs": 5630,
+    "segs": [ {
+      "utf8": "종지에 풀어놓은 계란을 천천히 쪼르르르 떨어뜨립니다"
+    } ]
+  }, {
+    "tStartMs": 1554270,
+    "dDurationMs": 9090,
+    "segs": [ {
+      "utf8": "그러면 이제 이렇게 휘저어지는 국물 안에서 계란이 아주 얇게 풀리거든요 계란국처럼"
+    } ]
+  }, {
+    "tStartMs": 1563360,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "이제 국물이랑 계란이 하나가 되는 거죠"
+    } ]
+  }, {
+    "tStartMs": 1567780,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "그렇게 계란까지 풀고"
+    } ]
+  }, {
+    "tStartMs": 1570480,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "이제 마지막으로 덜어놓은 면 위로 국물을 사악- 부어줍니다"
+    } ]
+  }, {
+    "tStartMs": 1576810,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "아 그 위에?"
+    } ]
+  }, {
+    "tStartMs": 1578880,
+    "dDurationMs": 6850,
+    "segs": [ {
+      "utf8": "네 그러면 국물 맛은 깊고 면은 쫄깃쫄깃하고"
+    } ]
+  }, {
+    "tStartMs": 1585730,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "그렇게가 이제 저만의 레시피입니다"
+    } ]
+  }, {
+    "tStartMs": 1589410,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "계란도 얇고 보들보들하겠네요"
+    } ]
+  }, {
+    "tStartMs": 1592130,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1594020,
+    "dDurationMs": 7440,
+    "segs": [ {
+      "utf8": "그리고 이건 저의 취향인데 신라면이 좀 맵잖아요"
+    } ]
+  }, {
+    "tStartMs": 1601460,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "근데 그렇게 계란을 국물에 얇게 풀어내면 좀 덜 매워요"
+    } ]
+  }, {
+    "tStartMs": 1606970,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "그렇겠죠"
+    } ]
+  }, {
+    "tStartMs": 1608330,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "그래서 저는 더 좋아합니다 사실"
+    } ]
+  }, {
+    "tStartMs": 1610530,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "아, 이거는 신라면 레시피? 신라면으로 보통 하세요?"
+    } ]
+  }, {
+    "tStartMs": 1615520,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1616160,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "아, 그렇구나 아주 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 1619560,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "면 따로 옮기는 것까지는 진짜 생각 못했는데"
+    } ]
+  }, {
+    "tStartMs": 1623400,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "그게 PC방 라면 끓일 때 그렇게 한대요"
+    } ]
+  }, {
+    "tStartMs": 1626460,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "아, 확실히 쫄깃쫄깃하겠다 면이 안 퍼지니까"
+    } ]
+  }, {
+    "tStartMs": 1632020,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "그렇습니다"
+    } ]
+  }, {
+    "tStartMs": 1633340,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "그렇군요 감사합니다"
+    } ]
+  }, {
+    "tStartMs": 1634890,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "라면 레시피"
+    } ]
+  }, {
+    "tStartMs": 1637310,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "네 그리고 짜파게티, 짜파게티도"
+    } ]
+  }, {
+    "tStartMs": 1639200,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "짜파게티도? 오케이"
+    } ]
+  }, {
+    "tStartMs": 1640520,
+    "dDurationMs": 9900,
+    "segs": [ {
+      "utf8": "짜파게티는 양파 반의 반개를 큼직큼직하게 썰어서"
+    } ]
+  }, {
+    "tStartMs": 1650420,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "4분의 1개를?"
+    } ]
+  }, {
+    "tStartMs": 1651690,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "네 근데 반개를 써도 될 거예요"
+    } ]
+  }, {
+    "tStartMs": 1654740,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "아무튼 4분의 1개를 아주 얇게 써는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1659870,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "네 아주 얇게 썰어요"
+    } ]
+  }, {
+    "tStartMs": 1662400,
+    "dDurationMs": 8040,
+    "segs": [ {
+      "utf8": "그리고 그거를 팬에 올리브유나 코코넛 오일을 두르고"
+    } ]
+  }, {
+    "tStartMs": 1670440,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그 얇게 썬 양파들을 볶아요"
+    } ]
+  }, {
+    "tStartMs": 1673440,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "근데 그거를 좀 꽤 오래 볶으면"
+    } ]
+  }, {
+    "tStartMs": 1676160,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "카라멜라이징이 돼서 그게 갈색으로 바뀌거든요"
+    } ]
+  }, {
+    "tStartMs": 1680860,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "그리고 막 뭔가 탄 듯 안 탄 듯 뭔가 한 느낌도 들고"
+    } ]
+  }, {
+    "tStartMs": 1685600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "완전 바싹 굽나 보네요"
+    } ]
+  }, {
+    "tStartMs": 1687760,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "네네"
+    } ]
+  }, {
+    "tStartMs": 1689310,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "그렇게 구워놓고"
+    } ]
+  }, {
+    "tStartMs": 1691420,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "이제 짜파게티를 뭐 그냥"
+    } ]
+  }, {
+    "tStartMs": 1693790,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "일반적으로 짜파게티를 다 합니다 끓여요"
+    } ]
+  }, {
+    "tStartMs": 1698010,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "그리고 물 적당히 취향대로 버리고 스프를 넣고 비비는데"
+    } ]
+  }, {
+    "tStartMs": 1703970,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "그때 그 양파들을 좀 넣어서 같이 비벼주고"
+    } ]
+  }, {
+    "tStartMs": 1709730,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "그리고 취향에 따라 소고기를 굽거나"
+    } ]
+  }, {
+    "tStartMs": 1713670,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "아니면 계란후라이를 올리고"
+    } ]
+  }, {
+    "tStartMs": 1716540,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "여기서 오뚜기에서 나온 고추맛 기름이 있거든요"
+    } ]
+  }, {
+    "tStartMs": 1721200,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1721990,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "고추맛 기름 본 적 있어요?"
+    } ]
+  }, {
+    "tStartMs": 1723970,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "그냥 약간 매운 짜파게티 안에 들어있는..."
+    } ]
+  }, {
+    "tStartMs": 1728130,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "그런 느낌 맞아요"
+    } ]
+  }, {
+    "tStartMs": 1730180,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "그거를 참기름 대신에 고추맛 기름을 약간 넣어주면"
+    } ]
+  }, {
+    "tStartMs": 1735840,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "아주 딱 적당히 감칠맛 나는 칼칼한 맛이 나는"
+    } ]
+  }, {
+    "tStartMs": 1740180,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "그리고 양파 맛이 극대화된 짜파게티를 먹을 수 있습니다"
+    } ]
+  }, {
+    "tStartMs": 1743790,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "고추맛 기름이 킥이구나"
+    } ]
+  }, {
+    "tStartMs": 1746000,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "네 그거 진짜 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 1747920,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "그러면 태웅쌤 고추맛 기름을 자주 사용하시는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1751070,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "저번에 계란... 밥 할 때도 그거 넣는 거 맞죠?"
+    } ]
+  }, {
+    "tStartMs": 1753980,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "맞아요"
+    } ]
+  }, {
+    "tStartMs": 1755520,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "저희 집에 없는데"
+    } ]
+  }, {
+    "tStartMs": 1756990,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "태웅쌤의 킥은 고추 맛 기름이네요"
+    } ]
+  }, {
+    "tStartMs": 1759530,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "네, 진짜 유용합니다"
+    } ]
+  }, {
+    "tStartMs": 1760960,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "고추 맛 기름 고추 기름이에요?"
+    } ]
+  }, {
+    "tStartMs": 1764180,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1765440,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "네네네네"
+    } ]
+  }, {
+    "tStartMs": 1766430,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "근데 이름은 '고추맛 기름'이라고 돼 있을 거예요 그 제품 이름이"
+    } ]
+  }, {
+    "tStartMs": 1771130,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "오뚜기의 고추 맛 기름"
+    } ]
+  }, {
+    "tStartMs": 1772980,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1773880,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "요리 좋아하시는 분들은 한국 왔을 때"
+    } ]
+  }, {
+    "tStartMs": 1776250,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "이거 하나 사가시면 맛있는 짜파게티, 맛있는 계란밥을 만들 수 있습니다"
+    } ]
+  }, {
+    "tStartMs": 1781950,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1783200,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "그렇구나 좋네요 이 고추맛기름 하니까"
+    } ]
+  }, {
+    "tStartMs": 1788390,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "저의 좀 자주 사용하는 조미료는 뭐가 있을까 생각해보게 되는데"
+    } ]
+  }, {
+    "tStartMs": 1795210,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "간장을 많이 쓰잖아요 한국에서"
+    } ]
+  }, {
+    "tStartMs": 1797770,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "이거는 그냥 얘기해주면 좋을 포인트일 것 같아서"
+    } ]
+  }, {
+    "tStartMs": 1801710,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "간장이 한국에 와서 좀 사야겠다 하면은 종류가 다양하거든요?"
+    } ]
+  }, {
+    "tStartMs": 1807230,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "막 진간장, 양조간장, 국간장 크게 이렇게 3개가 있어요"
+    } ]
+  }, {
+    "tStartMs": 1813550,
+    "dDurationMs": 6780,
+    "segs": [ {
+      "utf8": "여기서 좀 무난하게 어느 요리에든 사용할 만한 그런 간장을 사겠다 하면"
+    } ]
+  }, {
+    "tStartMs": 1820330,
+    "dDurationMs": 6410,
+    "segs": [ {
+      "utf8": "양조간장 양조 간장을 많이 사는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 1826740,
+    "dDurationMs": 6940,
+    "segs": [ {
+      "utf8": "그래서 저도 집에 양조간장만 있고 그걸로 항상 요리를 하는 편이에요"
+    } ]
+  }, {
+    "tStartMs": 1833680,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "음 아, 그리고 굴소스 굴소스가 진짜 어디든 들어가면 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 1838700,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "MSG죠, 굴소스가?"
+    } ]
+  }, {
+    "tStartMs": 1840580,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 1842650,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "조미료"
+    } ]
+  }, {
+    "tStartMs": 1843610,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "네, 치킨스톡, 굴소스"
+    } ]
+  }, {
+    "tStartMs": 1846440,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "그런 거죠"
+    } ]
+  }, {
+    "tStartMs": 1847220,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "맛소금"
+    } ]
+  }, {
+    "tStartMs": 1849400,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "그런 게 맛있는 이유는 다 MSG가 들어가 있어서"
+    } ]
+  }, {
+    "tStartMs": 1852000,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "네, 맛있게 해주는 성분이 들어가 있는 거잖아요"
+    } ]
+  }, {
+    "tStartMs": 1856010,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 1858100,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "그래서..."
+    } ]
+  }, {
+    "tStartMs": 1859580,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "굴소스를 뭐 볶음밥 할 때도 조금씩 넣는다거나"
+    } ]
+  }, {
+    "tStartMs": 1863720,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "뭐 언제든지 넣는 것 같은데 뭐 양배추랑 고기 볶아서 먹을 때도"
+    } ]
+  }, {
+    "tStartMs": 1868720,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "간장, 참기름 이런 거 넣다가"
+    } ]
+  }, {
+    "tStartMs": 1871360,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "굴소스도 조금 넣으면 훨씬 맛있어져요"
+    } ]
+  }, {
+    "tStartMs": 1874800,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "맞아요 저는 MSG..."
+    } ]
+  }, {
+    "tStartMs": 1878540,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "아, 요리 사실 요리 할 얘기 많은데 되게..."
+    } ]
+  }, {
+    "tStartMs": 1882680,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "시간이 되는 건지 모르겠네요"
+    } ]
+  }, {
+    "tStartMs": 1884370,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "어떤 거 얘기하고 싶었어요?"
+    } ]
+  }, {
+    "tStartMs": 1886080,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "아, 그냥 MSG 이야기?"
+    } ]
+  }, {
+    "tStartMs": 1888580,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "아, MSG가 뭐, 논쟁이 있죠?"
+    } ]
+  }, {
+    "tStartMs": 1893930,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "아, 그렇죠 아, 근데 뭐 저는 논쟁 얘기보다는 그냥 있었던 일,"
+    } ]
+  }, {
+    "tStartMs": 1897970,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "제가 겪은 일"
+    } ]
+  }, {
+    "tStartMs": 1898790,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "아, 뭔데요? 뭔데요? 그거까지만 얘기해볼까요?"
+    } ]
+  }, {
+    "tStartMs": 1901240,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "아, 그 두 개가 있는데,"
+    } ]
+  }, {
+    "tStartMs": 1904090,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "하나는 제가 여행 가기 전에"
+    } ]
+  }, {
+    "tStartMs": 1908450,
+    "dDurationMs": 8490,
+    "segs": [ {
+      "utf8": "베트남 사람을 카우치 서핑이었나? 어떤 소셜미디어에서 만났어요"
+    } ]
+  }, {
+    "tStartMs": 1916940,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "그래서 내가 여행을 갈 건데 베트남에 갈 건데"
+    } ]
+  }, {
+    "tStartMs": 1921300,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "혹시 뭐 도움될 만한 정보 같은 걸 알 수 있을까요 해가지고"
+    } ]
+  }, {
+    "tStartMs": 1925110,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "카페에서 막 이런저런 이야기를 들었거든요"
+    } ]
+  }, {
+    "tStartMs": 1928700,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "근데 그 분이 저한테"
+    } ]
+  }, {
+    "tStartMs": 1933440,
+    "dDurationMs": 7970,
+    "segs": [ {
+      "utf8": "베트남은 쌀국수가 되게 맛있다 그렇게 하시면서 되게 당연하게..."
+    } ]
+  }, {
+    "tStartMs": 1941410,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "베트남 쌀국수는 안에 미원을 많이 넣기 때문에 되게 맛있어요"
+    } ]
+  }, {
+    "tStartMs": 1947030,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "이렇게 얘기를 해줬어요 미원이 MSG잖아요"
+    } ]
+  }, {
+    "tStartMs": 1951250,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "한국 MSG 브랜드인데"
+    } ]
+  }, {
+    "tStartMs": 1953880,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "근데 지금은 잘 모르겠는데 그때만 해도"
+    } ]
+  }, {
+    "tStartMs": 1957850,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "한국에서는 조미료를 좀 안 좋게 생각했거든요"
+    } ]
+  }, {
+    "tStartMs": 1962370,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "인공적이다,"
+    } ]
+  }, {
+    "tStartMs": 1963270,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "몸에 안 좋다,"
+    } ]
+  }, {
+    "tStartMs": 1965650,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "자연스럽지 않다 이렇게"
+    } ]
+  }, {
+    "tStartMs": 1968250,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "근데 되게 그냥 약간 좀 좋은 거 얘기해주듯이?"
+    } ]
+  }, {
+    "tStartMs": 1975210,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "'비법이에요'"
+    } ]
+  }, {
+    "tStartMs": 1976980,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "거기는 미원 많이 써서 맛있다고 이렇게 해주는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1979660,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "그래서 내가 이게 좋다는 말인지 안 좋다는 말인지 잘 모르겠는 거예요"
+    } ]
+  }, {
+    "tStartMs": 1985880,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "농담이야 이게 뭐야?"
+    } ]
+  }, {
+    "tStartMs": 1988100,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "근데 되게 당연한 표정으로"
+    } ]
+  }, {
+    "tStartMs": 1989950,
+    "dDurationMs": 6630,
+    "segs": [ {
+      "utf8": "그래서 약간 여기서 대답 잘해야 되겠는데 그렇게 하다가"
+    } ]
+  }, {
+    "tStartMs": 1996580,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "아 맛있다는 말이죠? 이렇게 했는데 그게 좋다는 뜻이었고"
+    } ]
+  }, {
+    "tStartMs": 2001480,
+    "dDurationMs": 6660,
+    "segs": [ {
+      "utf8": "그래서 약간 거기서 제가 문화적으로 한 단계 성장했다"
+    } ]
+  }, {
+    "tStartMs": 2008140,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "MSG가 나쁘게 생각하지 않는구나? MSG를?"
+    } ]
+  }, {
+    "tStartMs": 2011850,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "네, 그런 일이 있었고"
+    } ]
+  }, {
+    "tStartMs": 2014400,
+    "dDurationMs": 4970,
+    "segs": [ {
+      "utf8": "그리고 하나는 저는 예가 되게 재밌는 이야기인데"
+    } ]
+  }, {
+    "tStartMs": 2019370,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "친구랑 라오스를 여행할 때였어요"
+    } ]
+  }, {
+    "tStartMs": 2022110,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "루앙프라방이었던 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 2024770,
+    "dDurationMs": 7800,
+    "segs": [ {
+      "utf8": "거기서 중국인 부자가 하는, 부자, 아버지와 아들이 하는 식당을"
+    } ]
+  }, {
+    "tStartMs": 2032570,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "어떻게 저떻게 찾아간 적이 있어요"
+    } ]
+  }, {
+    "tStartMs": 2037310,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "근데 막 벽지에 메뉴들이 다 막 크게 써져 있는데"
+    } ]
+  }, {
+    "tStartMs": 2042750,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "그냥 글로만 봐서 무슨 메뉴지도 모르겠는데 그냥 일단 시켰어요"
+    } ]
+  }, {
+    "tStartMs": 2047830,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "그게 만두랑 고기볶음이었거든요"
+    } ]
+  }, {
+    "tStartMs": 2052250,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "만두랑 고기볶음이었는데"
+    } ]
+  }, {
+    "tStartMs": 2053840,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "둘 다 너무 맛있었어요"
+    } ]
+  }, {
+    "tStartMs": 2057790,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "너무 맛있어서 한 번 더 갔어요 다른 날에"
+    } ]
+  }, {
+    "tStartMs": 2062330,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "잘 골랐다"
+    } ]
+  }, {
+    "tStartMs": 2063970,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "네 우연히 갔는데"
+    } ]
+  }, {
+    "tStartMs": 2065840,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "그래서 다른 날에 한 번 더 갔는데"
+    } ]
+  }, {
+    "tStartMs": 2068850,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "그 같이 간 친구가 요리를 업으로 하던 친구였거든요"
+    } ]
+  }, {
+    "tStartMs": 2072760,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "요리를 공부하고 요리로 계속 일을 하고 싶어하는"
+    } ]
+  }, {
+    "tStartMs": 2076680,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "그래서 걔가 '아 이 레시피 너무 알고 싶다' '이거 진짜 대박이다'"
+    } ]
+  }, {
+    "tStartMs": 2081730,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "막 그렇게 계속 얘기를 하는 거예요"
+    } ]
+  }, {
+    "tStartMs": 2084100,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "근데 그 친구 특징이"
+    } ]
+  }, {
+    "tStartMs": 2086590,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "계속 그렇게 말만 해요"
+    } ]
+  }, {
+    "tStartMs": 2089330,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "실행을 안 하는구나"
+    } ]
+  }, {
+    "tStartMs": 2090790,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "뭔가 행동을 안 하는군요"
+    } ]
+  }, {
+    "tStartMs": 2092480,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2093570,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "근데 저는 특징이"
+    } ]
+  }, {
+    "tStartMs": 2094670,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "'야 그럴 거면 그냥 가서 물어봐라!'"
+    } ]
+  }, {
+    "tStartMs": 2097990,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "얘기를 해라! 전화를 해라!"
+    } ]
+  }, {
+    "tStartMs": 2099600,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "저는 항상 그러거든요 (- 물어봐라!ㅋㅋㅋ)"
+    } ]
+  }, {
+    "tStartMs": 2101380,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "저는 다짜고짜 그렇게 실행을 하고"
+    } ]
+  }, {
+    "tStartMs": 2103490,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "그래서 둘의 콤비가 좀 잘 맞았던 거죠"
+    } ]
+  }, {
+    "tStartMs": 2107330,
+    "dDurationMs": 9540,
+    "segs": [ {
+      "utf8": "그래서 제가 아들내미가 식당에서 서빙을 하러 음식을 가지고 왔을 때"
+    } ]
+  }, {
+    "tStartMs": 2116870,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "\"내 친구가 요리하는 애인데 이게 너무 맛있어서"
+    } ]
+  }, {
+    "tStartMs": 2120420,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "어떻게 음식을 요리하는지 좀 보고 싶다"
+    } ]
+  }, {
+    "tStartMs": 2123460,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "주방 가서 봐도 되겠냐\" 그렇게 해가지고"
+    } ]
+  }, {
+    "tStartMs": 2127410,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "그 아들내미가 \"당연히 된다\" 이렇게 흔쾌히 생각을 해서"
+    } ]
+  }, {
+    "tStartMs": 2131890,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "그 친구가 주방으로 갔어요"
+    } ]
+  }, {
+    "tStartMs": 2134430,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "그래서 저는 혼자 남은 음식 먹고"
+    } ]
+  }, {
+    "tStartMs": 2137620,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "그 친구가 주방에서 촬영도 하고 했거든요"
+    } ]
+  }, {
+    "tStartMs": 2141540,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "아 촬영은 안 했나? 모르겠는데 아무튼"
+    } ]
+  }, {
+    "tStartMs": 2144290,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "그래서 그 아들내미가 막 고기를 막 볶는데"
+    } ]
+  }, {
+    "tStartMs": 2147450,
+    "dDurationMs": 7640,
+    "segs": [ {
+      "utf8": "그 웍에다가 볶는데 볶으면서 그 금지막한 흰 가루가 있는 통에"
+    } ]
+  }, {
+    "tStartMs": 2155090,
+    "dDurationMs": 6980,
+    "segs": [ {
+      "utf8": "그 스푼을 이렇게 듬뿍 퍼서 한 번, 두 번, 세 번 넣는 거예요"
+    } ]
+  }, {
+    "tStartMs": 2162070,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "테이블 스푼, 뭔가 마법의 가루(?)를"
+    } ]
+  }, {
+    "tStartMs": 2164580,
+    "dDurationMs": 6330,
+    "segs": [ {
+      "utf8": "네 마법의 가루를 막 이렇게 큼지막하게 막 몇 스푼 넣고 계속 볶으면서 ..."
+    } ]
+  }, {
+    "tStartMs": 2170910,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "그게 조미료 맛이었던 거죠"
+    } ]
+  }, {
+    "tStartMs": 2174630,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "역시... 조미료를 사용해야 해요 맛있게 먹으려면"
+    } ]
+  }, {
+    "tStartMs": 2179560,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2181060,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "엄청 맛있었구나"
+    } ]
+  }, {
+    "tStartMs": 2182710,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "진짜 맛있었어요"
+    } ]
+  }, {
+    "tStartMs": 2185180,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "왜냐면 마법의 스프가 3스푼..."
+    } ]
+  }, {
+    "tStartMs": 2188380,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "3스푼 아니었어요 더 됐어요"
+    } ]
+  }, {
+    "tStartMs": 2189920,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "훨씬 많이 들어갔어요?"
+    } ]
+  }, {
+    "tStartMs": 2191120,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "그냥 팍팍팍!"
+    } ]
+  }, {
+    "tStartMs": 2193480,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "다 조미료 맛이었군요?"
+    } ]
+  }, {
+    "tStartMs": 2195290,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2196000,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "알고 나니 어땠나요?"
+    } ]
+  }, {
+    "tStartMs": 2198140,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "아 조미료가 맛있구나~"
+    } ]
+  }, {
+    "tStartMs": 2200860,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "좋구나!"
+    } ]
+  }, {
+    "tStartMs": 2201850,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "좋은 거구나"
+    } ]
+  }, {
+    "tStartMs": 2202930,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2204630,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "잘 활용하는 것도 좋은 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2206620,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2207900,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "요즘 그렇잖아요 MSG 그냥 나쁜 거 아니다 라고 많이 밝혀졌잖아요"
+    } ]
+  }, {
+    "tStartMs": 2214620,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2215920,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "근데 막 \u003c흑백요리사\u003e 이런 거 보면 조미료 많이 안 넣는 것 같았는데"
+    } ]
+  }, {
+    "tStartMs": 2222200,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "안 넣는 것 같죠"
+    } ]
+  }, {
+    "tStartMs": 2223980,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2224690,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "아 뭐 근데 소스 같은 것도 많이 보이더라고요"
+    } ]
+  }, {
+    "tStartMs": 2229960,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "굴소스 뭐 이런거요? 치킨스톡"
+    } ]
+  }, {
+    "tStartMs": 2232940,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "네 되게 다양하게 보이던데"
+    } ]
+  }, {
+    "tStartMs": 2235570,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "그렇구나"
+    } ]
+  }, {
+    "tStartMs": 2236960,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "아무래도 그분들은 프로니까 많이 안 쓰지 않을까요?"
+    } ]
+  }, {
+    "tStartMs": 2240510,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "직접 그런 감칠맛을 내주는 뭔가 요리를 하시는데"
+    } ]
+  }, {
+    "tStartMs": 2245920,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "빠르게 빠르게 또 단가에도 맞게 하려고 하다보면"
+    } ]
+  }, {
+    "tStartMs": 2250250,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "조미료를 활용하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2251840,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2254020,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "그러네요 그러네요"
+    } ]
+  }, {
+    "tStartMs": 2255480,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "요리!"
+    } ]
+  }, {
+    "tStartMs": 2256200,
+    "dDurationMs": 7860,
+    "segs": [ {
+      "utf8": "제가 그 한식조리를 좀 더 진지하게 배우고 있더라면 있었더라면"
+    } ]
+  }, {
+    "tStartMs": 2264060,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "더 할 이야기가 많았을 것 같은데"
+    } ]
+  }, {
+    "tStartMs": 2267040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "아 이번 편은 조리에 가깝고,"
+    } ]
+  }, {
+    "tStartMs": 2271840,
+    "dDurationMs": 5610,
+    "segs": [ {
+      "utf8": "저 사실 방글라데시 1년 살 때 맨날 요리했거든요"
+    } ]
+  }, {
+    "tStartMs": 2277450,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "그 얘기 아직 다 못해가지고"
+    } ]
+  }, {
+    "tStartMs": 2279680,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "뭐야! 그러네요!"
+    } ]
+  }, {
+    "tStartMs": 2281500,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "그러니까 조리만 지금까지 얘기했는데"
+    } ]
+  }, {
+    "tStartMs": 2284670,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "디디님 요리를 시작하시면"
+    } ]
+  }, {
+    "tStartMs": 2289190,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "그때 두 번째로 또 하죠 진정한 요리 이야기를 해요"
+    } ]
+  }, {
+    "tStartMs": 2294770,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "네 저 그때는 주먹밥도 만들고..."
+    } ]
+  }, {
+    "tStartMs": 2298290,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "한식 하셨어요?"
+    } ]
+  }, {
+    "tStartMs": 2299690,
+    "dDurationMs": 6820,
+    "segs": [ {
+      "utf8": "아니요 그냥 근본 없는... 근본 없는 요리"
+    } ]
+  }, {
+    "tStartMs": 2306510,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "마늘 볶음밥"
+    } ]
+  }, {
+    "tStartMs": 2308120,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "맞아"
+    } ]
+  }, {
+    "tStartMs": 2308690,
+    "dDurationMs": 5370,
+    "segs": [ {
+      "utf8": "마늘 파스타 이거 한 일주일에 한 대여섯 번씩 먹었고요"
+    } ]
+  }, {
+    "tStartMs": 2314060,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "그리고 양배추 참치 덮밥 이런 것도 많이 해먹었습니다"
+    } ]
+  }, {
+    "tStartMs": 2318720,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "약간 요즘 저랑 비슷하네요"
+    } ]
+  }, {
+    "tStartMs": 2320880,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "저도 근본 없는 그냥 냉장고 보고"
+    } ]
+  }, {
+    "tStartMs": 2324640,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "이거 이거 이거 있네? 그럼 어떻게 할까?"
+    } ]
+  }, {
+    "tStartMs": 2327140,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "챗지피티한테도 물어봐요"
+    } ]
+  }, {
+    "tStartMs": 2329190,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "내 냉장고에 지금 토마토랑 이거랑 이거 있는데 어떤 어떤 재료를 써서"
+    } ]
+  }, {
+    "tStartMs": 2335500,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "뭘로 맛있게 먹을 수 있을까? 하면은 구성해가지고"
+    } ]
+  }, {
+    "tStartMs": 2338860,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "레시피 대충 알려주거든요 그렇게 먹어요"
+    } ]
+  }, {
+    "tStartMs": 2343470,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "요리에 이름이 있는 건 아니고"
+    } ]
+  }, {
+    "tStartMs": 2345240,
+    "dDurationMs": 6610,
+    "segs": [ {
+      "utf8": "그냥 있는 채소 먹기? 단백질 먹기? 해가지고"
+    } ]
+  }, {
+    "tStartMs": 2351850,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "그렇게 요리 해드셨구나"
+    } ]
+  }, {
+    "tStartMs": 2353500,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2355110,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "알았어요 그러면 저도 좀 배워오고"
+    } ]
+  }, {
+    "tStartMs": 2357840,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "다시 한번 요리에 대해서 얘기도 해요"
+    } ]
+  }, {
+    "tStartMs": 2360900,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2362940,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "어 그러면 이제 또 퀴즈 하나 드리고 게임 코너 넘어가 볼 건데"
+    } ]
+  }, {
+    "tStartMs": 2367400,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "이번 주 퀴즈는"
+    } ]
+  }, {
+    "tStartMs": 2369400,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "태웅쌤과 디디가 자주 해먹는 요리가 아닌..."
+    } ]
+  }, {
+    "tStartMs": 2373560,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "자주 해먹는 조리가 아닌 음식은? 으로 해보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2378690,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "1번 국수"
+    } ]
+  }, {
+    "tStartMs": 2380740,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "2번 라면"
+    } ]
+  }, {
+    "tStartMs": 2383220,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "3번 파스타 입니다"
+    } ]
+  }, {
+    "tStartMs": 2385860,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "정답을 아시는 분은 댓글로"
+    } ]
+  }, {
+    "tStartMs": 2388060,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "그리고 여기 투표 버튼이 있거든요"
+    } ]
+  }, {
+    "tStartMs": 2390250,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "그걸로 많이 알려주시면 감사하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2392650,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "그러면 저희는 다음 코너로 넘어가 보겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2398410,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "말로 하는 미니게임"
+    } ]
+  }, {
+    "tStartMs": 2407160,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "오늘 할 말로 하는 미니게임은 비빔밥 게임이라는 게 있더라고요"
+    } ]
+  }, {
+    "tStartMs": 2412370,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "이게 뭐냐면 어떤 요리를 얘기하고"
+    } ]
+  }, {
+    "tStartMs": 2415110,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "거기 안에 들어가는 재료를 계속해서 이야기하는 거예요"
+    } ]
+  }, {
+    "tStartMs": 2419400,
+    "dDurationMs": 8780,
+    "segs": [ {
+      "utf8": "그래서 그 재료가 틀리거나, 이제 더이상 말 할 재료가 없다 하면은 지는 그런 게임이 되겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2428180,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "안 해봤어요 저도 어떻게 될지 모르겠는데 한 번 해볼까요?"
+    } ]
+  }, {
+    "tStartMs": 2432580,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2433580,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "그럼 첫번째 문제! 첫번째 게임이구요"
+    } ]
+  }, {
+    "tStartMs": 2436580,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "부대찌게 해보겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2438820,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "오~ 좋아요"
+    } ]
+  }, {
+    "tStartMs": 2440380,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "네, 먼저 하시죠"
+    } ]
+  }, {
+    "tStartMs": 2443940,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "스팸!"
+    } ]
+  }, {
+    "tStartMs": 2447170,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "대표적이죠"
+    } ]
+  }, {
+    "tStartMs": 2449860,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "베이크드 빈즈?"
+    } ]
+  }, {
+    "tStartMs": 2452030,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "콩?"
+    } ]
+  }, {
+    "tStartMs": 2453150,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "네, 콩 페이스트 같은 콩"
+    } ]
+  }, {
+    "tStartMs": 2456030,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "베이크드 빈즈?"
+    } ]
+  }, {
+    "tStartMs": 2457620,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2458530,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "그거 한국 이름을 모르겠는데?"
+    } ]
+  }, {
+    "tStartMs": 2460550,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "그러게요"
+    } ]
+  }, {
+    "tStartMs": 2461820,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "베이크드 빈즈라고 하는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2464990,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "부대찌개에는 그 콩이 정체성이라고 하더라고요"
+    } ]
+  }, {
+    "tStartMs": 2468260,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "네, 이게 약간 그..."
+    } ]
+  }, {
+    "tStartMs": 2470720,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "부대찌개가 그거잖아요 미국이 미국 군인들이 먹던 거로"
+    } ]
+  }, {
+    "tStartMs": 2474630,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "남은 거를 이렇게 끓인"
+    } ]
+  }, {
+    "tStartMs": 2476580,
+    "dDurationMs": 8470,
+    "segs": [ {
+      "utf8": "거다 보니까 미국에서 많이 먹는 베이크드 빈즈가 한식에 보이는 게 아이덴티티 같은 거죠"
+    } ]
+  }, {
+    "tStartMs": 2485050,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "저는 콩이 싫어요"
+    } ]
+  }, {
+    "tStartMs": 2487660,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "낫또도 안 드시겠다?"
+    } ]
+  }, {
+    "tStartMs": 2488820,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "안 먹어봤어요"
+    } ]
+  }, {
+    "tStartMs": 2490340,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "아 그래요? 저도 콩 싫어하는데"
+    } ]
+  }, {
+    "tStartMs": 2492370,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "또 그 낫또는 되게 작은 콩이라서 괜찮더라고요"
+    } ]
+  }, {
+    "tStartMs": 2496350,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "저 베이크드 빈즈 저도 안 좋아해요"
+    } ]
+  }, {
+    "tStartMs": 2499970,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "좋습니다 그리고"
+    } ]
+  }, {
+    "tStartMs": 2503290,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "두부"
+    } ]
+  }, {
+    "tStartMs": 2504100,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "부대찌개에 두부 들어가요?"
+    } ]
+  }, {
+    "tStartMs": 2505980,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "안 들어가요?"
+    } ]
+  }, {
+    "tStartMs": 2507620,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "그거 그냥 추가 메뉴인가?"
+    } ]
+  }, {
+    "tStartMs": 2510100,
+    "dDurationMs": 390,
+    "segs": [ {
+      "utf8": "그런가?"
+    } ]
+  }, {
+    "tStartMs": 2510490,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "뭐 넣을 수도 있을 것 같아요 맛있겠죠?"
+    } ]
+  }, {
+    "tStartMs": 2513600,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "라면 사리"
+    } ]
+  }, {
+    "tStartMs": 2516180,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "라면 사리"
+    } ]
+  }, {
+    "tStartMs": 2517920,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "양파!"
+    } ]
+  }, {
+    "tStartMs": 2519590,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "들어가죠"
+    } ]
+  }, {
+    "tStartMs": 2520740,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "마늘"
+    } ]
+  }, {
+    "tStartMs": 2522150,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "마늘 들어가요?"
+    } ]
+  }, {
+    "tStartMs": 2523870,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "한식에 마늘 안 들어가는 거 거의 없지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 2526430,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "그런가? 부대찌개 재료..."
+    } ]
+  }, {
+    "tStartMs": 2529340,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "아, 보면 안되는데 어떡하지...? 누가 봐주세요!"
+    } ]
+  }, {
+    "tStartMs": 2533340,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "아 마늘 들어가요"
+    } ]
+  }, {
+    "tStartMs": 2537340,
+    "dDurationMs": 5960,
+    "segs": [ {
+      "utf8": "그 소스 맛을 뭘로 내는지 잘 모르겠네요"
+    } ]
+  }, {
+    "tStartMs": 2543300,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "일단 파!"
+    } ]
+  }, {
+    "tStartMs": 2546340,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "파! 고춧가루"
+    } ]
+  }, {
+    "tStartMs": 2550840,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "그리고 후추"
+    } ]
+  }, {
+    "tStartMs": 2555140,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "간장 들어가지 않을까요? 간장?"
+    } ]
+  }, {
+    "tStartMs": 2557430,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "간장 안 들어갈 것 같은데?"
+    } ]
+  }, {
+    "tStartMs": 2559200,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "그럼 그 빨간 간을 어떻게 맞출까요?"
+    } ]
+  }, {
+    "tStartMs": 2563090,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "소금?"
+    } ]
+  }, {
+    "tStartMs": 2564100,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "간장 들어가지 않을까요?"
+    } ]
+  }, {
+    "tStartMs": 2566500,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "아, 그런가?"
+    } ]
+  }, {
+    "tStartMs": 2568100,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "이게 봐주는 사람이 없으니까 (- 아, 그렇네요)"
+    } ]
+  }, {
+    "tStartMs": 2570910,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "이게 어렵네"
+    } ]
+  }, {
+    "tStartMs": 2571870,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2573520,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "간장 들어가요"
+    } ]
+  }, {
+    "tStartMs": 2575200,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "한식에 간장, 마늘 안 들어가는 거는 거의 없어요"
+    } ]
+  }, {
+    "tStartMs": 2579200,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "오케이"
+    } ]
+  }, {
+    "tStartMs": 2580740,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "팽이버섯"
+    } ]
+  }, {
+    "tStartMs": 2581980,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "팽이버섯?"
+    } ]
+  }, {
+    "tStartMs": 2583200,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "들어가요"
+    } ]
+  }, {
+    "tStartMs": 2583810,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "마라탕으로 지금 착각하고 계신 거 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 2586560,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "아니에요 부대찌개예요!"
+    } ]
+  }, {
+    "tStartMs": 2587360,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "김치찌개로 착각하시는 거 아니에요?"
+    } ]
+  }, {
+    "tStartMs": 2589890,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "부대찌개도 들어가요"
+    } ]
+  }, {
+    "tStartMs": 2590780,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "그래요?"
+    } ]
+  }, {
+    "tStartMs": 2592670,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "'모박사 부대찌개' 이런 데 가면 나와요?"
+    } ]
+  }, {
+    "tStartMs": 2596070,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "뭔지는 모르겠지만... (- 그래요?)"
+    } ]
+  }, {
+    "tStartMs": 2598590,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "오케이"
+    } ]
+  }, {
+    "tStartMs": 2600350,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "고추장 들어갈까요?"
+    } ]
+  }, {
+    "tStartMs": 2603310,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "고춧가루 넣으면..."
+    } ]
+  }, {
+    "tStartMs": 2604930,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "고춧가루와 간장인가?"
+    } ]
+  }, {
+    "tStartMs": 2607680,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "그렇지 않아요?"
+    } ]
+  }, {
+    "tStartMs": 2610940,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "하... 또 생각나는 거 있으세요?"
+    } ]
+  }, {
+    "tStartMs": 2613180,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2613890,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "그럼 소세지!"
+    } ]
+  }, {
+    "tStartMs": 2615970,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "아 내가 소세지 할라 했는데"
+    } ]
+  }, {
+    "tStartMs": 2621620,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "소세지!"
+    } ]
+  }, {
+    "tStartMs": 2622940,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "맛술"
+    } ]
+  }, {
+    "tStartMs": 2624280,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "부대찌개에요?"
+    } ]
+  }, {
+    "tStartMs": 2625660,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "맛술 안 들어가요?"
+    } ]
+  }, {
+    "tStartMs": 2628050,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "이거... 이거 안 되겠다"
+    } ]
+  }, {
+    "tStartMs": 2630420,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "뭐야? 덤앤더머가 된 기분이에요"
+    } ]
+  }, {
+    "tStartMs": 2633780,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "이거 안 들어가요? 이거 들어가요?"
+    } ]
+  }, {
+    "tStartMs": 2636640,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "아 둘 다 모르니까!"
+    } ]
+  }, {
+    "tStartMs": 2637830,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "그러니까요"
+    } ]
+  }, {
+    "tStartMs": 2638940,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "나무 위키에 나와있는 부대찌개 재료"
+    } ]
+  }, {
+    "tStartMs": 2643300,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "가공육 = 햄, 소세지, 베이컨 들어가고요"
+    } ]
+  }, {
+    "tStartMs": 2647600,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "김치가 선택이긴 한데 종종 넣는 것 같아요"
+    } ]
+  }, {
+    "tStartMs": 2653000,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "부대찌개"
+    } ]
+  }, {
+    "tStartMs": 2654020,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "그리고 면 들어가고 대파, 양파, 청양고추"
+    } ]
+  }, {
+    "tStartMs": 2658740,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "아 청양고추"
+    } ]
+  }, {
+    "tStartMs": 2660780,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "그리고 간장, 고춧가루, 마늘, 이게 소스래요"
+    } ]
+  }, {
+    "tStartMs": 2665280,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "그리고 소금, 후추, 다시다 같은 조미료도 들어간다"
+    } ]
+  }, {
+    "tStartMs": 2669150,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "다 나왔는데요?"
+    } ]
+  }, {
+    "tStartMs": 2670400,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "네, 그리고 고기 국물을 위해서 사골 국물을 사용해서"
+    } ]
+  }, {
+    "tStartMs": 2676000,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "거기에다가 고춧가루 넣고, 간장 넣고, 베이크드 빈즈 넣고"
+    } ]
+  }, {
+    "tStartMs": 2681550,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "옛날에는 케첩 이런 것도 넣었었대요 토마토 소스 넣기도 하고"
+    } ]
+  }, {
+    "tStartMs": 2685970,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "케첩 얘기할까 했는데"
+    } ]
+  }, {
+    "tStartMs": 2688980,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "그리고 다짐육도 들어가고"
+    } ]
+  }, {
+    "tStartMs": 2692790,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "다짐육이 들어가는구나"
+    } ]
+  }, {
+    "tStartMs": 2694300,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "재료 너무 많이 들어간다 이거 집에서 못하겠다"
+    } ]
+  }, {
+    "tStartMs": 2697580,
+    "dDurationMs": 480,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2698060,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "그리고 혼자 먹기 좀 그래요 그 메뉴"
+    } ]
+  }, {
+    "tStartMs": 2701040,
+    "dDurationMs": 2030,
+    "segs": [ {
+      "utf8": "이런 게 많아요 한식이"
+    } ]
+  }, {
+    "tStartMs": 2703070,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "맞습니다"
+    } ]
+  }, {
+    "tStartMs": 2704130,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "마늘, 양파, 장, 소금"
+    } ]
+  }, {
+    "tStartMs": 2708360,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "너무 많이 들어가요"
+    } ]
+  }, {
+    "tStartMs": 2709520,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "네"
+    } ]
+  }, {
+    "tStartMs": 2711170,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "그런 거 좀 잘 배워서"
+    } ]
+  }, {
+    "tStartMs": 2713850,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "구독자들에게 식사 대접하고 하세요 좀(?)"
+    } ]
+  }, {
+    "tStartMs": 2721130,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "너무 부담스러운데?"
+    } ]
+  }, {
+    "tStartMs": 2722820,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "좀 해주세요"
+    } ]
+  }, {
+    "tStartMs": 2724650,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "그런 거 그게 좋을 것 같아요 저도 밋업 이번에 했었거든요"
+    } ]
+  }, {
+    "tStartMs": 2729220,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "근데 그게 그냥 만나서 언어 교환만 하니까"
+    } ]
+  }, {
+    "tStartMs": 2733020,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "좀 더 가치가 있고 의미 있는 걸 하면 좋겠다는 생각이 들더라고요"
+    } ]
+  }, {
+    "tStartMs": 2737020,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "그래서 뭐 예를 들면"
+    } ]
+  }, {
+    "tStartMs": 2738100,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "저의 쿠킹 클래스 일일 원데이 클래스 해서"
+    } ]
+  }, {
+    "tStartMs": 2741490,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "그런 거 같이 해봐도 재밌을 것 같고"
+    } ]
+  }, {
+    "tStartMs": 2744220,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "좋다"
+    } ]
+  }, {
+    "tStartMs": 2746240,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "떡볶이 만들기 뭐 이런 거 하는 거 좋을 것 같아서"
+    } ]
+  }, {
+    "tStartMs": 2751010,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "그런 것도 생각해서 한식조리사 자격증 따야지 했는데"
+    } ]
+  }, {
+    "tStartMs": 2755230,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "필기의 벽에 지금 부딪혀있네요"
+    } ]
+  }, {
+    "tStartMs": 2757380,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "저 있으면 그거 안 하고 해결할 수 있는데"
+    } ]
+  }, {
+    "tStartMs": 2761730,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "뭐요?"
+    } ]
+  }, {
+    "tStartMs": 2762410,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "태웅팀 대 디디팀 윷놀이 한 판"
+    } ]
+  }, {
+    "tStartMs": 2765990,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "그렇죠"
+    } ]
+  }, {
+    "tStartMs": 2767510,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "그렇게 즐거운 시간 하하호호 하고 끝"
+    } ]
+  }, {
+    "tStartMs": 2770020,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "그러니까ㅋㅋㅋ '자, 수고하셨습니다~'"
+    } ]
+  }, {
+    "tStartMs": 2773150,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "그것도 괜찮네 그냥 저 혼자서도 팀 나눠가지고 해줄 수도 있긴 하네요"
+    } ]
+  }, {
+    "tStartMs": 2779390,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "아 근데 나누면은 디디님은 아무 팀 안 하고 심판만 해야 되거나"
+    } ]
+  }, {
+    "tStartMs": 2785090,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "좀 그렇잖아요 아니면 한 팀에 디디님이 있으면"
+    } ]
+  }, {
+    "tStartMs": 2788040,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "약간 다른 팀은 좀 약간 소외될 수 있으니까 (- 헐 재밌겠다...)"
+    } ]
+  }, {
+    "tStartMs": 2793740,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "태웅팀 디디팀 해가지고"
+    } ]
+  }, {
+    "tStartMs": 2795990,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "팀장들끼리 이렇게 가위바위보 해서 한 명씩 데려가고 이런 것도 재밌겠네요"
+    } ]
+  }, {
+    "tStartMs": 2801250,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "팀 나눌 때"
+    } ]
+  }, {
+    "tStartMs": 2802880,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "약간 트라우마가 있긴 하네요"
+    } ]
+  }, {
+    "tStartMs": 2804680,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "왜요?"
+    } ]
+  }, {
+    "tStartMs": 2805410,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "'아 저 정태웅팀 안 할래요...' 막"
+    } ]
+  }, {
+    "tStartMs": 2809940,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "'아 태웅쌤 싫어요!!!'"
+    } ]
+  }, {
+    "tStartMs": 2812490,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "네..."
+    } ]
+  }, {
+    "tStartMs": 2813780,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "그렇게 안 하죠"
+    } ]
+  }, {
+    "tStartMs": 2814830,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "좀 무섭네요 갑자기"
+    } ]
+  }, {
+    "tStartMs": 2817240,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "그러니까 이거 한 번 해야 되는데 여름 MT 이런 느낌으로"
+    } ]
+  }, {
+    "tStartMs": 2820720,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "재밌겠다"
+    } ]
+  }, {
+    "tStartMs": 2821220,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "그쵸!!!"
+    } ]
+  }, {
+    "tStartMs": 2823220,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "화채 만들어 먹고!"
+    } ]
+  }, {
+    "tStartMs": 2825570,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "한옥 같은 데서 (- 그니까요!!) 다 같이 큰 윷놀이판 하고"
+    } ]
+  }, {
+    "tStartMs": 2830820,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "어떡하지 아이디어 이렇게 많아서"
+    } ]
+  }, {
+    "tStartMs": 2834530,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "닭싸움도 한 판 하고 ㅋㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2838030,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "닭싸움 태웅쌤 잘한다고 했었죠?"
+    } ]
+  }, {
+    "tStartMs": 2841490,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "어 잘하죠 잘하죠"
+    } ]
+  }, {
+    "tStartMs": 2842500,
+    "dDurationMs": 7410,
+    "segs": [ {
+      "utf8": "아 진짜 그러니까 재밌겠다 완전"
+    } ]
+  }, {
+    "tStartMs": 2849910,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "어떻게 하다가 여기까지 왔죠?"
+    } ]
+  }, {
+    "tStartMs": 2851110,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "여름 MT 좋은 아이디어도 나왔고요"
+    } ]
+  }, {
+    "tStartMs": 2856540,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "게임은 여기까지 하죠 어렵네요"
+    } ]
+  }, {
+    "tStartMs": 2859830,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "무승부로 합시다"
+    } ]
+  }, {
+    "tStartMs": 2861500,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "저희가 다 더 잘 준비해서"
+    } ]
+  }, {
+    "tStartMs": 2863990,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "요리편으로 또 돌아오도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2867470,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "이제 다음 주제 정해야 되는데"
+    } ]
+  }, {
+    "tStartMs": 2870330,
+    "dDurationMs": 3820,
+    "segs": [ {
+      "utf8": "태웅쌤 저번에 수영 대해서 얘기하고 싶었다 했잖아요"
+    } ]
+  }, {
+    "tStartMs": 2874150,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "괜찮아요?"
+    } ]
+  }, {
+    "tStartMs": 2874980,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "얘기 안 했었나요?"
+    } ]
+  }, {
+    "tStartMs": 2876120,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "안 했어요 수영편"
+    } ]
+  }, {
+    "tStartMs": 2877540,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "좋습니다"
+    } ]
+  }, {
+    "tStartMs": 2879080,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "저도 요즘 종종 수영하고 있고요"
+    } ]
+  }, {
+    "tStartMs": 2881870,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "태웅쌤도 수영 좀 집중해서 재밌게 하셨다고 해서"
+    } ]
+  }, {
+    "tStartMs": 2886370,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "얘기해보면 좋을 것 같고요"
+    } ]
+  }, {
+    "tStartMs": 2888030,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "다음 주에도 수영에 대해서"
+    } ]
+  }, {
+    "tStartMs": 2889500,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "또 요모조모 이야기해 보도록 하겠습니다"
+    } ]
+  }, {
+    "tStartMs": 2891960,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "여기까지 디디와 정태웅이었습니다 감사합니다"
+    } ]
+  } ]
+}

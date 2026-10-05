@@ -1,0 +1,4717 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 9180,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life with Didi and Jeong Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 9180,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 11550,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 13340,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Yomojomo of Korean Life is a podcast where two people living in Korea"
+    } ]
+  }, {
+    "tStartMs": 16510,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "talk about the various aspects of Korean life."
+    } ]
+  }, {
+    "tStartMs": 19710,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "This time we've come back with a new topic."
+    } ]
+  }, {
+    "tStartMs": 22220,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "What's this week's topic?"
+    } ]
+  }, {
+    "tStartMs": 24790,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "This week's topic is swimming."
+    } ]
+  }, {
+    "tStartMs": 27390,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Swimming!"
+    } ]
+  }, {
+    "tStartMs": 28190,
+    "dDurationMs": 8260,
+    "segs": [ {
+      "utf8": "I remember Teacher Tae-woong saying he had a lot to talk about regarding swimming, so I prepared it for this episode."
+    } ]
+  }, {
+    "tStartMs": 36450,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "The weather has gotten much hotter."
+    } ]
+  }, {
+    "tStartMs": 38950,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Oh, it's so hot."
+    } ]
+  }, {
+    "tStartMs": 39750,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Yesterday it was so hot that it was hard to fall asleep."
+    } ]
+  }, {
+    "tStartMs": 42510,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Oh really? Don't you turn on the air conditioner these days?"
+    } ]
+  }, {
+    "tStartMs": 45150,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "It doesn't seem like it's quite time to turn on the air conditioner yet."
+    } ]
+  }, {
+    "tStartMs": 48480,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 49490,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "It's awkwardly hot, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 50680,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "Yeah, it feels like something bad will happen if I turn it on now."
+    } ]
+  }, {
+    "tStartMs": 54210,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Since the real heat hasn't come yet."
+    } ]
+  }, {
+    "tStartMs": 56930,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 57830,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 58910,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "So I'm living with a fan on."
+    } ]
+  }, {
+    "tStartMs": 61160,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Oh, I see."
+    } ]
+  }, {
+    "tStartMs": 63140,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "I was so hot in the morning that I just turn on the air conditioner during the day."
+    } ]
+  }, {
+    "tStartMs": 67640,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Oh, that's nice."
+    } ]
+  }, {
+    "tStartMs": 69430,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Yes, so it seems like perfect weather for swimming."
+    } ]
+  }, {
+    "tStartMs": 72970,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "First, before we talk seriously about swimming,"
+    } ]
+  }, {
+    "tStartMs": 76190,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "I'll tell you the answer to last week's quiz."
+    } ]
+  }, {
+    "tStartMs": 79370,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "Last week's quiz was \"Which is not a dish that Teacher Tae-woong and Didi often cook?\""
+    } ]
+  }, {
+    "tStartMs": 85570,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "So the answer was number 1, noodles."
+    } ]
+  }, {
+    "tStartMs": 89130,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "We don't cook noodles very often."
+    } ]
+  }, {
+    "tStartMs": 91470,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Congratulations to everyone who got the answer right."
+    } ]
+  }, {
+    "tStartMs": 94580,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "So now if you listen until the very end today, there will be a quiz,"
+    } ]
+  }, {
+    "tStartMs": 98490,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "so I'd appreciate it if everyone listens all the way through."
+    } ]
+  }, {
+    "tStartMs": 102270,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Swimming, how is it these days?"
+    } ]
+  }, {
+    "tStartMs": 104050,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong seems to be doing less of the busy stuff, or will be doing less."
+    } ]
+  }, {
+    "tStartMs": 108260,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "Are you going swimming?"
+    } ]
+  }, {
+    "tStartMs": 111170,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "It got busy again."
+    } ]
+  }, {
+    "tStartMs": 112390,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Oh I see, it never stops."
+    } ]
+  }, {
+    "tStartMs": 115620,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 117300,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "But I've been thinking about it a lot lately. I want to go swimming."
+    } ]
+  }, {
+    "tStartMs": 121090,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Especially since the weather is so hot, it's so nice for swimming, right?"
+    } ]
+  }, {
+    "tStartMs": 125410,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 127790,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Why, what's stopping you?"
+    } ]
+  }, {
+    "tStartMs": 130090,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "I've started doing morning live streams lately."
+    } ]
+  }, {
+    "tStartMs": 135600,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 136450,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "These days I'm doing live streams almost every weekday on Comprehensible Input Korean."
+    } ]
+  }, {
+    "tStartMs": 141000,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "again."
+    } ]
+  }, {
+    "tStartMs": 142990,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Every day?"
+    } ]
+  }, {
+    "tStartMs": 144190,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Almost every weekday."
+    } ]
+  }, {
+    "tStartMs": 147580,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "So it's become difficult to find time to go."
+    } ]
+  }, {
+    "tStartMs": 152070,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "How can this be, how can this be."
+    } ]
+  }, {
+    "tStartMs": 154300,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "So you're still taking walks, then?"
+    } ]
+  }, {
+    "tStartMs": 157540,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I take walks in the morning and go running."
+    } ]
+  }, {
+    "tStartMs": 160440,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "And I take walks in the evening too."
+    } ]
+  }, {
+    "tStartMs": 161930,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "What if you replaced that with swimming?"
+    } ]
+  }, {
+    "tStartMs": 164600,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "The swimming pool is pretty far from my house."
+    } ]
+  }, {
+    "tStartMs": 166560,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "Oh, so it takes more time."
+    } ]
+  }, {
+    "tStartMs": 169500,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 171490,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "How far do you have to go?"
+    } ]
+  }, {
+    "tStartMs": 174060,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "If you take the bus, it's about 20, 30 minutes?"
+    } ]
+  }, {
+    "tStartMs": 177140,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Oh my."
+    } ]
+  }, {
+    "tStartMs": 178370,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "That's the problem, right—there just aren't many swimming pools in the neighborhood."
+    } ]
+  }, {
+    "tStartMs": 182910,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 184890,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "So it's hard to go. Then how often did you go back in the day?"
+    } ]
+  }, {
+    "tStartMs": 190220,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "When I went a lot."
+    } ]
+  }, {
+    "tStartMs": 192030,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "A lot, I didn't go for that long—just about two months—"
+    } ]
+  }, {
+    "tStartMs": 196290,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "but back then I went four times a week."
+    } ]
+  }, {
+    "tStartMs": 198140,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Wow, that's serious."
+    } ]
+  }, {
+    "tStartMs": 201210,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "You were really into it."
+    } ]
+  }, {
+    "tStartMs": 203010,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "No, well... yes, that's right. I signed up for a beginner class,"
+    } ]
+  }, {
+    "tStartMs": 208760,
+    "dDurationMs": 5700,
+    "segs": [ {
+      "utf8": "and I registered without knowing anything and took the classes,"
+    } ]
+  }, {
+    "tStartMs": 214460,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "and the class was held four times a week,"
+    } ]
+  }, {
+    "tStartMs": 218750,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "which was Tuesday, Wednesday, Thursday, Friday."
+    } ]
+  }, {
+    "tStartMs": 221090,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "So I went every day for that."
+    } ]
+  }, {
+    "tStartMs": 223400,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Wow, they taught pretty intensively."
+    } ]
+  }, {
+    "tStartMs": 227330,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "But that was a swimming pool run by the Haeundae district,"
+    } ]
+  }, {
+    "tStartMs": 234020,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "so that's pretty common."
+    } ]
+  }, {
+    "tStartMs": 235710,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "Right, but there are multiple lanes, you know, swimming lanes."
+    } ]
+  }, {
+    "tStartMs": 241750,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "So the three lanes on the far left were for the beginner class,"
+    } ]
+  }, {
+    "tStartMs": 247490,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "then three in the middle for intermediate, and three on the right for advanced."
+    } ]
+  }, {
+    "tStartMs": 254070,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "And within the beginner class there were levels 1, 2, and 3,"
+    } ]
+  }, {
+    "tStartMs": 257310,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and each class had about 10 or 15 students."
+    } ]
+  }, {
+    "tStartMs": 261590,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "There was only one instructor."
+    } ]
+  }, {
+    "tStartMs": 263130,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "What?"
+    } ]
+  }, {
+    "tStartMs": 266050,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "How many students per class? Per lane?"
+    } ]
+  }, {
+    "tStartMs": 268700,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "About 10?"
+    } ]
+  }, {
+    "tStartMs": 271740,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "Sometimes more than 10, so altogether it was about 30 people,"
+    } ]
+  }, {
+    "tStartMs": 277080,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "and there was only one instructor, so they'd say \"Okay, freestyle is done like this,\""
+    } ]
+  }, {
+    "tStartMs": 281020,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "\"Do a few laps,\" and then move to the next lane."
+    } ]
+  }, {
+    "tStartMs": 284120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Ah, that's totally cost-effective, isn't it? It feels cost-effective?"
+    } ]
+  }, {
+    "tStartMs": 288200,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 289050,
+    "dDurationMs": 4830,
+    "segs": [ {
+      "utf8": "Well, usually there's one instructor per lane,"
+    } ]
+  }, {
+    "tStartMs": 293880,
+    "dDurationMs": 670,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 294550,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "I haven't seen one instructor for three lanes before."
+    } ]
+  }, {
+    "tStartMs": 297820,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "So since there was no instructor,"
+    } ]
+  }, {
+    "tStartMs": 301610,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "you'd just do this and stand around a bit..."
+    } ]
+  }, {
+    "tStartMs": 304920,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "do it... and look around a bit,"
+    } ]
+  }, {
+    "tStartMs": 309100,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "so it wasn't really that hard."
+    } ]
+  }, {
+    "tStartMs": 311440,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "It was basically free swimming."
+    } ]
+  }, {
+    "tStartMs": 312930,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "Just like there was one lifeguard watching?"
+    } ]
+  }, {
+    "tStartMs": 317730,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 319660,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "But when you're a beginner, you definitely learn better,"
+    } ]
+  }, {
+    "tStartMs": 323740,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "I think that's how it is."
+    } ]
+  }, {
+    "tStartMs": 326830,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "So I didn't learn properly."
+    } ]
+  }, {
+    "tStartMs": 329700,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "You couldn't do it at all? You couldn't swim originally?"
+    } ]
+  }, {
+    "tStartMs": 332250,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 332990,
+    "dDurationMs": 7140,
+    "segs": [ {
+      "utf8": "Ah, I notice that people from countries with a lot of ocean nearby"
+    } ]
+  }, {
+    "tStartMs": 340130,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "learn swimming as a requirement."
+    } ]
+  }, {
+    "tStartMs": 342990,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 343430,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "From elementary school—like in Japan, there are a lot of natural disasters,"
+    } ]
+  }, {
+    "tStartMs": 347740,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "so swimming is a sport everyone learns in elementary school, but Korea isn't like that."
+    } ]
+  }, {
+    "tStartMs": 353300,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 355030,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong couldn't do it either, didn't learn it."
+    } ]
+  }, {
+    "tStartMs": 358430,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "I was born in Busan, but..."
+    } ]
+  }, {
+    "tStartMs": 360320,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "So..."
+    } ]
+  }, {
+    "tStartMs": 361660,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "What about Busan?"
+    } ]
+  }, {
+    "tStartMs": 363550,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "Isn't that supposed to be required?"
+    } ]
+  }, {
+    "tStartMs": 365440,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Well, I didn't really go to elementary school in Busan."
+    } ]
+  }, {
+    "tStartMs": 368540,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "I went in Chungcheongbuk-do, where there's no ocean."
+    } ]
+  }, {
+    "tStartMs": 372070,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "You've moved around a lot, haven't you?"
+    } ]
+  }, {
+    "tStartMs": 373360,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 374620,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "When you see people from Busan around you, what do you think? Are there people you learned with in elementary school?"
+    } ]
+  }, {
+    "tStartMs": 379950,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "But other than me, it seems like everyone else can just do it."
+    } ]
+  }, {
+    "tStartMs": 385040,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Ah..."
+    } ]
+  }, {
+    "tStartMs": 386910,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "I learned it when I was young, going to places like centers."
+    } ]
+  }, {
+    "tStartMs": 391510,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I learned it and can do it."
+    } ]
+  }, {
+    "tStartMs": 393220,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "But there are quite a lot of friends around me who can't do it."
+    } ]
+  }, {
+    "tStartMs": 396280,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 397120,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 399400,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "I also lived for such a long time not being able to do it at all."
+    } ]
+  }, {
+    "tStartMs": 403870,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "But after learning, it seems really good."
+    } ]
+  }, {
+    "tStartMs": 406950,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "What was good about it? What charm did you feel in swimming?"
+    } ]
+  }, {
+    "tStartMs": 410710,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "First of all, it's just fun."
+    } ]
+  }, {
+    "tStartMs": 412680,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Isn't the act of swimming itself fun?"
+    } ]
+  }, {
+    "tStartMs": 414180,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "Just floating like this in the water and moving forward, that kind of process?"
+    } ]
+  }, {
+    "tStartMs": 420000,
+    "dDurationMs": 7970,
+    "segs": [ {
+      "utf8": "That's because those are postures we can't do in our daily lives, right?"
+    } ]
+  }, {
+    "tStartMs": 427970,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 430530,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "Like doing it this way and like this..."
+    } ]
+  }, {
+    "tStartMs": 432430,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Floating..."
+    } ]
+  }, {
+    "tStartMs": 433850,
+    "dDurationMs": 6290,
+    "segs": [ {
+      "utf8": "Yes, so your body is doing more varied movements, right?"
+    } ]
+  }, {
+    "tStartMs": 440140,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "That itself feels like the body is enjoying it."
+    } ]
+  }, {
+    "tStartMs": 444270,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "Hmm, the movements are fun."
+    } ]
+  }, {
+    "tStartMs": 448450,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "Isn't it?"
+    } ]
+  }, {
+    "tStartMs": 449820,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "I didn't really feel swimming was fun."
+    } ]
+  }, {
+    "tStartMs": 454400,
+    "dDurationMs": 6110,
+    "segs": [ {
+      "utf8": "Because it's a bit boring for me—repetition, repetition like running."
+    } ]
+  }, {
+    "tStartMs": 460510,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 461700,
+    "dDurationMs": 6740,
+    "segs": [ {
+      "utf8": "It's not like climbing where you use your head in a fun way."
+    } ]
+  }, {
+    "tStartMs": 468440,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "I like swimming because I've heard it's good for the body."
+    } ]
+  }, {
+    "tStartMs": 472370,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "Your muscles don't get hurt and your knees don't get hurt, they say it's really good."
+    } ]
+  }, {
+    "tStartMs": 478500,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "That's the difference between me and you, Didi."
+    } ]
+  }, {
+    "tStartMs": 482230,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "I think it was because I was just learning at the time."
+    } ]
+  }, {
+    "tStartMs": 485700,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Ah, because you feel yourself improving."
+    } ]
+  }, {
+    "tStartMs": 489920,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Right, because you're doing movements you didn't know before."
+    } ]
+  }, {
+    "tStartMs": 492060,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "Oh, that must have been fun."
+    } ]
+  }, {
+    "tStartMs": 493590,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 495210,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "But now that I can do everything, just doing it is..."
+    } ]
+  }, {
+    "tStartMs": 499650,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It might be different from the fun I feel."
+    } ]
+  }, {
+    "tStartMs": 501810,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "That would make sense."
+    } ]
+  }, {
+    "tStartMs": 503090,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "I couldn't move forward in the water before, but back then learning that must have been fun."
+    } ]
+  }, {
+    "tStartMs": 508270,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 509950,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "When you start, you learn the kick first, right?"
+    } ]
+  }, {
+    "tStartMs": 512820,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 514060,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "But you learned up to freestyle? In a few months?"
+    } ]
+  }, {
+    "tStartMs": 517910,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "I learned freestyle and backstroke."
+    } ]
+  }, {
+    "tStartMs": 519820,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Ah, oh."
+    } ]
+  }, {
+    "tStartMs": 522910,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "I'm still not very good at both."
+    } ]
+  }, {
+    "tStartMs": 525250,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "But now I can do them a little."
+    } ]
+  }, {
+    "tStartMs": 527800,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "With just that you can survive in the ocean."
+    } ]
+  }, {
+    "tStartMs": 530530,
+    "dDurationMs": 590,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 531120,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Actually, just being able to float is enough."
+    } ]
+  }, {
+    "tStartMs": 532990,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 534180,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "I know four—'freestyle', 'backstroke', and butterfly is 'butterfly stroke'."
+    } ]
+  }, {
+    "tStartMs": 540190,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "And the one like a frog is 'breaststroke'."
+    } ]
+  }, {
+    "tStartMs": 543630,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "Butterfly stroke is still hard for me, I can't do it well."
+    } ]
+  }, {
+    "tStartMs": 546910,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "They say that's the hardest posture."
+    } ]
+  }, {
+    "tStartMs": 549080,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "That's right, that's right, just thinking about it."
+    } ]
+  }, {
+    "tStartMs": 552680,
+    "dDurationMs": 5220,
+    "segs": [ {
+      "utf8": "It's hard even on the ground... it requires strength, right?"
+    } ]
+  }, {
+    "tStartMs": 557900,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Lifting your body up like this and doing it."
+    } ]
+  }, {
+    "tStartMs": 560030,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 562940,
+    "dDurationMs": 8810,
+    "segs": [ {
+      "utf8": "So in the lane, you start with one person at a time, right?"
+    } ]
+  }, {
+    "tStartMs": 571750,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "But when the instructor gathers a few students who have learned a bit..."
+    } ]
+  }, {
+    "tStartMs": 578470,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "They teach them the butterfly stroke motion and all that."
+    } ]
+  }, {
+    "tStartMs": 584270,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "\"This is how you do it, like this.\""
+    } ]
+  }, {
+    "tStartMs": 585720,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "\"Start like this,\" and so on."
+    } ]
+  }, {
+    "tStartMs": 589570,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Everyone only watches that motion when they're starting off."
+    } ]
+  }, {
+    "tStartMs": 593820,
+    "dDurationMs": 4470,
+    "segs": [ {
+      "utf8": "So when it becomes my turn last,"
+    } ]
+  }, {
+    "tStartMs": 598290,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "I say to the member, \"Please go do freestyle and come back,\" like that."
+    } ]
+  }, {
+    "tStartMs": 603940,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "So then after about a month or two,"
+    } ]
+  }, {
+    "tStartMs": 607740,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "I can do freestyle a little bit now,"
+    } ]
+  }, {
+    "tStartMs": 610590,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "So everyone suddenly starts with breaststroke, like whoosh,"
+    } ]
+  }, {
+    "tStartMs": 613900,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "And I suddenly go whoosh like that too... I go in like that whoosh as well."
+    } ]
+  }, {
+    "tStartMs": 618250,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "And then I come up, puh,"
+    } ]
+  }, {
+    "tStartMs": 620960,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "And then the instructor asks, \"What are you doing?\""
+    } ]
+  }, {
+    "tStartMs": 623640,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "You just wanted to try it, right?"
+    } ]
+  }, {
+    "tStartMs": 625300,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Yes. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 627220,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "But anyway, it looked fun."
+    } ]
+  }, {
+    "tStartMs": 629070,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "So you just do it."
+    } ]
+  }, {
+    "tStartMs": 630140,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 631040,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "At first when you start, you kind of dive in and go for a while,"
+    } ]
+  }, {
+    "tStartMs": 635000,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Then you come up like this and start, right?"
+    } ]
+  }, {
+    "tStartMs": 637440,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Did you do something like that?"
+    } ]
+  }, {
+    "tStartMs": 638780,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 640440,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "I realized this needs to come up."
+    } ]
+  }, {
+    "tStartMs": 642190,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 644450,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "So I'd like to learn until I master it, since I've already started."
+    } ]
+  }, {
+    "tStartMs": 649050,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 651550,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "But this isn't easy."
+    } ]
+  }, {
+    "tStartMs": 654870,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "I have three YouTube channels"
+    } ]
+  }, {
+    "tStartMs": 659410,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "And classes that I'm preparing for..."
+    } ]
+  }, {
+    "tStartMs": 663170,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "You must be really busy."
+    } ]
+  }, {
+    "tStartMs": 664630,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 665580,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "So if you have time, are you thinking of learning swimming again?"
+    } ]
+  }, {
+    "tStartMs": 670580,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "If the conditions allow?"
+    } ]
+  }, {
+    "tStartMs": 673270,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "You said you did it for how long?"
+    } ]
+  }, {
+    "tStartMs": 675290,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Two months."
+    } ]
+  }, {
+    "tStartMs": 676020,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "Two months."
+    } ]
+  }, {
+    "tStartMs": 677350,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "What happened during those two months?"
+    } ]
+  }, {
+    "tStartMs": 679930,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "Like, do you remember any episodes?"
+    } ]
+  }, {
+    "tStartMs": 682560,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "There wasn't any special episode,"
+    } ]
+  }, {
+    "tStartMs": 684940,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Oh right, I thought it would be good if we talked about swimming pool culture,"
+    } ]
+  }, {
+    "tStartMs": 689440,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "Because it seems like this doesn't exist in other countries."
+    } ]
+  }, {
+    "tStartMs": 694490,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "You said there are three beginner lanes, right?"
+    } ]
+  }, {
+    "tStartMs": 697530,
+    "dDurationMs": 6570,
+    "segs": [ {
+      "utf8": "So after you do a one-hour swimming lesson and it's time to finish,"
+    } ]
+  }, {
+    "tStartMs": 704100,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "The people from the three beginner lanes"
+    } ]
+  }, {
+    "tStartMs": 706880,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "Form a circle in the swimming pool water,"
+    } ]
+  }, {
+    "tStartMs": 712440,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Everyone stands in a circle, making a circle,"
+    } ]
+  }, {
+    "tStartMs": 715950,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "With people all around like this,"
+    } ]
+  }, {
+    "tStartMs": 718540,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "At the end the instructor says, \"You all worked hard today, see you tomorrow,\""
+    } ]
+  }, {
+    "tStartMs": 722950,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "Or \"See you next week,\" and then everyone says \"Fighting!\""
+    } ]
+  }, {
+    "tStartMs": 726980,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "So then... anyway, that's how it goes,"
+    } ]
+  }, {
+    "tStartMs": 730400,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "On the first day, I thought, \"Oh, this must be the goodbye greeting.\""
+    } ]
+  }, {
+    "tStartMs": 734460,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "I thought that on the first day,"
+    } ]
+  }, {
+    "tStartMs": 736610,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "But there was this man next to me,"
+    } ]
+  }, {
+    "tStartMs": 740010,
+    "dDurationMs": 7320,
+    "segs": [ {
+      "utf8": "And he grabbed my hand under the water."
+    } ]
+  }, {
+    "tStartMs": 747330,
+    "dDurationMs": 3350,
+    "segs": [ {
+      "utf8": "So... uh, what's this? Does he want to get close to me?"
+    } ]
+  }, {
+    "tStartMs": 750680,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "That's what I thought..."
+    } ]
+  }, {
+    "tStartMs": 752450,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Uh, what does this mean?"
+    } ]
+  }, {
+    "tStartMs": 754200,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "D... does he want to get close to me?"
+    } ]
+  }, {
+    "tStartMs": 756570,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "He just grabbed my hand."
+    } ]
+  }, {
+    "tStartMs": 757750,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Is it a handshake? Yes."
+    } ]
+  }, {
+    "tStartMs": 759300,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 760490,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "And I was just holding it from below."
+    } ]
+  }, {
+    "tStartMs": 764900,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Squeeze. ❤️"
+    } ]
+  }, {
+    "tStartMs": 765880,
+    "dDurationMs": 6130,
+    "segs": [ {
+      "utf8": "But then suddenly other people were raising their hands like this."
+    } ]
+  }, {
+    "tStartMs": 772010,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "But I didn't know anything about it."
+    } ]
+  }, {
+    "tStartMs": 774210,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "So I was like, \"What is this?\""
+    } ]
+  }, {
+    "tStartMs": 775240,
+    "dDurationMs": 5880,
+    "segs": [ {
+      "utf8": "Then the man next to me said that when we finish, we all hold hands together and do this fighting cheer."
+    } ]
+  }, {
+    "tStartMs": 781120,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "While doing a banzai, while doing a banzai, \"Thank you for your hard work.\""
+    } ]
+  }, {
+    "tStartMs": 784510,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "He said that's how we end it."
+    } ]
+  }, {
+    "tStartMs": 786440,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "What kind of culture is that?"
+    } ]
+  }, {
+    "tStartMs": 787330,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "Isn't that a Busan culture? I'm hearing about it for the first time."
+    } ]
+  }, {
+    "tStartMs": 789920,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "I bet other swimming pools have that during class time too?"
+    } ]
+  }, {
+    "tStartMs": 794310,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "Is that so?"
+    } ]
+  }, {
+    "tStartMs": 796000,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "I learned it when I was so young..."
+    } ]
+  }, {
+    "tStartMs": 799090,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "I think there probably is."
+    } ]
+  }, {
+    "tStartMs": 800410,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Huh? That's a swimming greeting culture?"
+    } ]
+  }, {
+    "tStartMs": 803260,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 806050,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Oh..."
+    } ]
+  }, {
+    "tStartMs": 809020,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "So I was really surprised."
+    } ]
+  }, {
+    "tStartMs": 810320,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "But on that first day, the lady on the opposite side of me"
+    } ]
+  }, {
+    "tStartMs": 814610,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "seemed a bit embarrassed and didn't hold hands."
+    } ]
+  }, {
+    "tStartMs": 818220,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Ah, someone who practices gender separation..."
+    } ]
+  }, {
+    "tStartMs": 820520,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "So that's what confused me."
+    } ]
+  }, {
+    "tStartMs": 822160,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Oh, because only one person held hands?"
+    } ]
+  }, {
+    "tStartMs": 826880,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Oh, that's funny."
+    } ]
+  }, {
+    "tStartMs": 828620,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 830590,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "So did that person just do the fighting cheer with the person next to her?"
+    } ]
+  }, {
+    "tStartMs": 833300,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Well, some people might not do it? If they're a bit shy?"
+    } ]
+  }, {
+    "tStartMs": 836150,
+    "dDurationMs": 7460,
+    "segs": [ {
+      "utf8": "No, everyone did it, but only that person seemed a bit shy."
+    } ]
+  }, {
+    "tStartMs": 843610,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "That's interesting. Was there nothing when you started?"
+    } ]
+  }, {
+    "tStartMs": 846720,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "There was nothing at the start."
+    } ]
+  }, {
+    "tStartMs": 848810,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Oh, just like, warm-up exercises."
+    } ]
+  }, {
+    "tStartMs": 849840,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Warm-up exercises?"
+    } ]
+  }, {
+    "tStartMs": 851640,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Do you do them in the water? Or outside the water?"
+    } ]
+  }, {
+    "tStartMs": 853820,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "Some people do it inside and some people do it outside on the side."
+    } ]
+  }, {
+    "tStartMs": 858330,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Do you do whatever you want?"
+    } ]
+  }, {
+    "tStartMs": 859810,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 860930,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "So you do warm-up exercises and then the closing greeting with a fighting cheer like that."
+    } ]
+  }, {
+    "tStartMs": 865380,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 865940,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "That's funny."
+    } ]
+  }, {
+    "tStartMs": 867230,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 869410,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Why do you think that is? Maybe to get closer to each other, anyway."
+    } ]
+  }, {
+    "tStartMs": 873090,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "That's what I think sometimes."
+    } ]
+  }, {
+    "tStartMs": 874820,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 876680,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I'm not sure why, but it felt really warm."
+    } ]
+  }, {
+    "tStartMs": 879560,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 881050,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Like a sense of doing a team sport together?"
+    } ]
+  }, {
+    "tStartMs": 882850,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 883990,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "So there's a greeting culture like that."
+    } ]
+  }, {
+    "tStartMs": 886370,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 887520,
+    "dDurationMs": 7460,
+    "segs": [ {
+      "utf8": "Um... there's probably a men's changing room and a women's changing room, right?"
+    } ]
+  }, {
+    "tStartMs": 894980,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "Is there anything you remember about things to be careful about or etiquette?"
+    } ]
+  }, {
+    "tStartMs": 899470,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "I heard this is a culture that Korea follows pretty strictly."
+    } ]
+  }, {
+    "tStartMs": 905650,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "You go into the shower and then go into the swimming pool, right?"
+    } ]
+  }, {
+    "tStartMs": 910750,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "But when you shower, people say you absolutely have to use shampoo generously"
+    } ]
+  }, {
+    "tStartMs": 916000,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "and wash your body with soap before going in, and a lot of people seem to say that."
+    } ]
+  }, {
+    "tStartMs": 921390,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "Yeah, I agree."
+    } ]
+  }, {
+    "tStartMs": 923100,
+    "dDurationMs": 4200,
+    "segs": [ {
+      "utf8": "It's the same when you go to a bathhouse, and also when you have swimming class."
+    } ]
+  }, {
+    "tStartMs": 927300,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Or even when you swim alone, you wash up thoroughly like you're showering at home."
+    } ]
+  }, {
+    "tStartMs": 931800,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "You need to go in with a clean body wearing a swimsuit."
+    } ]
+  }, {
+    "tStartMs": 935670,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "Right, so you can't just rinse with water and call it good, right?"
+    } ]
+  }, {
+    "tStartMs": 939100,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Some people do mention that."
+    } ]
+  }, {
+    "tStartMs": 940700,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "\"Oh, you should shower before going in,\" like that."
+    } ]
+  }, {
+    "tStartMs": 943470,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 944200,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Mm-hmm."
+    } ]
+  }, {
+    "tStartMs": 945230,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Ah~"
+    } ]
+  }, {
+    "tStartMs": 946710,
+    "dDurationMs": 7630,
+    "segs": [ {
+      "utf8": "Other members, people who use other pools, they say it that way."
+    } ]
+  }, {
+    "tStartMs": 954340,
+    "dDurationMs": 6040,
+    "segs": [ {
+      "utf8": "I haven't heard or seen it directly myself... but do people actually do that?"
+    } ]
+  }, {
+    "tStartMs": 960380,
+    "dDurationMs": 2920,
+    "segs": [ {
+      "utf8": "The pool I went to seemed pretty laid-back about it, though."
+    } ]
+  }, {
+    "tStartMs": 963300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Like, just your own way?"
+    } ]
+  }, {
+    "tStartMs": 966000,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 967280,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "It's good to be clean when you go, since they have to maintain it."
+    } ]
+  }, {
+    "tStartMs": 972790,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "There's that too."
+    } ]
+  }, {
+    "tStartMs": 973850,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "And another thing I find unique is that at Korean pools you have to wear a swim cap."
+    } ]
+  }, {
+    "tStartMs": 978850,
+    "dDurationMs": 1100,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 979950,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "You absolutely have to wear a swim cap."
+    } ]
+  }, {
+    "tStartMs": 981700,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "I think that's a culture that should definitely be kept."
+    } ]
+  }, {
+    "tStartMs": 987340,
+    "dDurationMs": 5810,
+    "segs": [ {
+      "utf8": "But when I talk to European people, they say swim caps aren't required."
+    } ]
+  }, {
+    "tStartMs": 993150,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "Oh, but then doesn't hair fall out?"
+    } ]
+  }, {
+    "tStartMs": 997480,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I think it's kind of a matter of perspective."
+    } ]
+  }, {
+    "tStartMs": 1000180,
+    "dDurationMs": 2190,
+    "segs": [ {
+      "utf8": "We're just used to it."
+    } ]
+  }, {
+    "tStartMs": 1002370,
+    "dDurationMs": 700,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1003070,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "But like, even at the beach."
+    } ]
+  }, {
+    "tStartMs": 1005210,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "There's a culture of swimming with your hair down."
+    } ]
+  }, {
+    "tStartMs": 1010590,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "So it's different, I guess."
+    } ]
+  }, {
+    "tStartMs": 1012110,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "I think beaches and rivers are okay."
+    } ]
+  }, {
+    "tStartMs": 1014430,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1016320,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "It's so vast."
+    } ]
+  }, {
+    "tStartMs": 1017150,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "It goes back to nature."
+    } ]
+  }, {
+    "tStartMs": 1018890,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "But a pool is a confined space, right?"
+    } ]
+  }, {
+    "tStartMs": 1022420,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "It's limited."
+    } ]
+  }, {
+    "tStartMs": 1023140,
+    "dDurationMs": 1240,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1024380,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "But here people are doing this."
+    } ]
+  }, {
+    "tStartMs": 1026270,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Hair just like..."
+    } ]
+  }, {
+    "tStartMs": 1028470,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Going to the person next to you..."
+    } ]
+  }, {
+    "tStartMs": 1030200,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1031140,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Ah, you're right."
+    } ]
+  }, {
+    "tStartMs": 1033120,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Swimming like this, and then like..."
+    } ]
+  }, {
+    "tStartMs": 1036870,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "Hair just sticking right on..."
+    } ]
+  }, {
+    "tStartMs": 1037820,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "It's unhygienic."
+    } ]
+  }, {
+    "tStartMs": 1039170,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1039980,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1042510,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "You definitely have to wear a swim cap."
+    } ]
+  }, {
+    "tStartMs": 1044330,
+    "dDurationMs": 4570,
+    "segs": [ {
+      "utf8": "And you can't wear a bikini as a swimsuit, right?"
+    } ]
+  }, {
+    "tStartMs": 1048900,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Should I say you can't? Nobody wears bikinis."
+    } ]
+  }, {
+    "tStartMs": 1052070,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "Nobody does."
+    } ]
+  }, {
+    "tStartMs": 1053150,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "There's a specific outfit for swimming lessons."
+    } ]
+  }, {
+    "tStartMs": 1055940,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "It's like that for men too and women as well."
+    } ]
+  }, {
+    "tStartMs": 1058080,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "Like the kind of swimsuit athletes wear at the Olympics or competitions."
+    } ]
+  }, {
+    "tStartMs": 1062230,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Right, there's sports swimsuits."
+    } ]
+  }, {
+    "tStartMs": 1066750,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "So when I wear that kind of swimsuit, I don't feel good about it."
+    } ]
+  }, {
+    "tStartMs": 1070590,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 1071710,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "It's like... I don't like it."
+    } ]
+  }, {
+    "tStartMs": 1074230,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "My hair gets all done up like this and I look completely ugly."
+    } ]
+  }, {
+    "tStartMs": 1078830,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "It fits tight like this, right?"
+    } ]
+  }, {
+    "tStartMs": 1080940,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "It leaves marks here and marks there."
+    } ]
+  }, {
+    "tStartMs": 1083360,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "And you have to wear goggles too."
+    } ]
+  }, {
+    "tStartMs": 1085730,
+    "dDurationMs": 460,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1086190,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Marks here too..."
+    } ]
+  }, {
+    "tStartMs": 1087260,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "In Korea, men's swimming..."
+    } ]
+  }, {
+    "tStartMs": 1089150,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Right, and the clothing too, like, how do I even describe it..."
+    } ]
+  }, {
+    "tStartMs": 1093070,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "You have to show a lot of skin and wear something, and it feels kind of uncomfortable?"
+    } ]
+  }, {
+    "tStartMs": 1097850,
+    "dDurationMs": 930,
+    "segs": [ {
+      "utf8": "Yeah, it's uncomfortable."
+    } ]
+  }, {
+    "tStartMs": 1098780,
+    "dDurationMs": 6720,
+    "segs": [ {
+      "utf8": "But women still cover up more areas, don't they?"
+    } ]
+  }, {
+    "tStartMs": 1105500,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "That's true."
+    } ]
+  }, {
+    "tStartMs": 1106370,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "Men just wear, like, basically underwear-like short swimming trunks..."
+    } ]
+  }, {
+    "tStartMs": 1112390,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Oh yeah, that would be even worse."
+    } ]
+  }, {
+    "tStartMs": 1114780,
+    "dDurationMs": 5580,
+    "segs": [ {
+      "utf8": "Yeah, so on the very first day, I was really embarrassed."
+    } ]
+  }, {
+    "tStartMs": 1120360,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "I bet you were."
+    } ]
+  }, {
+    "tStartMs": 1122090,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Like, I was just covering up like this..."
+    } ]
+  }, {
+    "tStartMs": 1123180,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "I absolutely didn't want to run into anyone I knew, so at the pool..."
+    } ]
+  }, {
+    "tStartMs": 1126510,
+    "dDurationMs": 2830,
+    "segs": [ {
+      "utf8": "Yeah, like, you just kind of do this..."
+    } ]
+  }, {
+    "tStartMs": 1129340,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "Yeah, that does seem kind of unique too."
+    } ]
+  }, {
+    "tStartMs": 1132510,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Because there aren't many occasions to show your body like that."
+    } ]
+  }, {
+    "tStartMs": 1135020,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Oh, in Korea?"
+    } ]
+  }, {
+    "tStartMs": 1136170,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "Yeah, in Korea."
+    } ]
+  }, {
+    "tStartMs": 1141360,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "And that's the story that comes to mind the most."
+    } ]
+  }, {
+    "tStartMs": 1144550,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Have you heard about \"swimming pool turf wars\"?"
+    } ]
+  }, {
+    "tStartMs": 1147240,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "I've seen a lot about it online."
+    } ]
+  }, {
+    "tStartMs": 1150500,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "What kind of things did you see?"
+    } ]
+  }, {
+    "tStartMs": 1152790,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "Well, what I saw was, so this person, a certain person"
+    } ]
+  }, {
+    "tStartMs": 1158430,
+    "dDurationMs": 8290,
+    "segs": [ {
+      "utf8": "went to a new swimming pool and joined an advanced class, so a class where skilled swimmers take lessons,"
+    } ]
+  }, {
+    "tStartMs": 1166720,
+    "dDurationMs": 8050,
+    "segs": [ {
+      "utf8": "and the people in that advanced class said we all have to wear the same swimming cap, swimming cap,"
+    } ]
+  }, {
+    "tStartMs": 1174770,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "we have to wear the same one."
+    } ]
+  }, {
+    "tStartMs": 1179370,
+    "dDurationMs": 9760,
+    "segs": [ {
+      "utf8": "And they forced them to buy it and wear it, that's the story I heard."
+    } ]
+  }, {
+    "tStartMs": 1189130,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "I saw it online too."
+    } ]
+  }, {
+    "tStartMs": 1192500,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "And there's also shower room turf wars? I heard there's that kind of thing too."
+    } ]
+  }, {
+    "tStartMs": 1197190,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "I don't know the details about that."
+    } ]
+  }, {
+    "tStartMs": 1198710,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "So it would be good to explain what turf wars means."
+    } ]
+  }, {
+    "tStartMs": 1203380,
+    "dDurationMs": 6030,
+    "segs": [ {
+      "utf8": "When newcomers come to a space where people have already been for a long time,"
+    } ]
+  }, {
+    "tStartMs": 1209410,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "like, \"What, who's that, we kind of ignore them and we have our own culture, so follow it,\""
+    } ]
+  }, {
+    "tStartMs": 1216380,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "it's like forcing that kind of thing, I'd say."
+    } ]
+  }, {
+    "tStartMs": 1220840,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "I heard that kind of thing especially happens at swimming pools."
+    } ]
+  }, {
+    "tStartMs": 1225400,
+    "dDurationMs": 8360,
+    "segs": [ {
+      "utf8": "I think it's places where older people gather?"
+    } ]
+  }, {
+    "tStartMs": 1233760,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "It seems like there's a lot of turf wars in those kinds of places."
+    } ]
+  }, {
+    "tStartMs": 1236380,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "Oh, it seems like some old culture is still remaining?"
+    } ]
+  }, {
+    "tStartMs": 1242400,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "So usually when people talk about turf wars, swimming pool turf wars,"
+    } ]
+  }, {
+    "tStartMs": 1246060,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "they say there are a lot of turf wars in morning swimming sessions."
+    } ]
+  }, {
+    "tStartMs": 1250590,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "That's a good point."
+    } ]
+  }, {
+    "tStartMs": 1251600,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "When you go to morning swimming, the age group is really high, right?"
+    } ]
+  }, {
+    "tStartMs": 1255510,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Especially there are a lot of older women, housewives."
+    } ]
+  }, {
+    "tStartMs": 1258750,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1259980,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "You went to the morning class, right?"
+    } ]
+  }, {
+    "tStartMs": 1261410,
+    "dDurationMs": 570,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1261980,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "Ah, there must have been a lot?"
+    } ]
+  }, {
+    "tStartMs": 1264160,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "There were a lot of older women."
+    } ]
+  }, {
+    "tStartMs": 1265600,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "There really are a lot."
+    } ]
+  }, {
+    "tStartMs": 1266330,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Usually when I go, I tend to go during the day,"
+    } ]
+  }, {
+    "tStartMs": 1271230,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "and there are so many that you think, \"Oh, all the neighborhood women who live here come here.\""
+    } ]
+  }, {
+    "tStartMs": 1276320,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1278140,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "But there weren't any in our class."
+    } ]
+  }, {
+    "tStartMs": 1281660,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "Is it because it's beginner level?"
+    } ]
+  }, {
+    "tStartMs": 1283140,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1283870,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So the older women are already skilled people — right — who've been around a long time."
+    } ]
+  }, {
+    "tStartMs": 1286990,
+    "dDurationMs": 7820,
+    "segs": [ {
+      "utf8": "The older women who can do it well are probably people who've stayed for a long time,"
+    } ]
+  }, {
+    "tStartMs": 1294810,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "and then they develop their own community among themselves,"
+    } ]
+  }, {
+    "tStartMs": 1299520,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "and that's how turf wars happen."
+    } ]
+  }, {
+    "tStartMs": 1300910,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "It's interesting, because back in the day there was more of that community culture,"
+    } ]
+  }, {
+    "tStartMs": 1307140,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "so it seems like that kind of thing is still around."
+    } ]
+  }, {
+    "tStartMs": 1308820,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "That seems to be the case."
+    } ]
+  }, {
+    "tStartMs": 1310110,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "The changing room and shower area seniority you mentioned, if I remember correctly,"
+    } ]
+  }, {
+    "tStartMs": 1315070,
+    "dDurationMs": 7230,
+    "segs": [ {
+      "utf8": "people criticize a lot if you don't wash your body before leaving,"
+    } ]
+  }, {
+    "tStartMs": 1322300,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "and they set swimming pool etiquette rules"
+    } ]
+  }, {
+    "tStartMs": 1325060,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and tell people to follow them that way, you said."
+    } ]
+  }, {
+    "tStartMs": 1329820,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "It's like a vigilante group."
+    } ]
+  }, {
+    "tStartMs": 1331140,
+    "dDurationMs": 3870,
+    "segs": [ {
+      "utf8": "Yes, that's right, with a sense of justice."
+    } ]
+  }, {
+    "tStartMs": 1335010,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Private punishment."
+    } ]
+  }, {
+    "tStartMs": 1336030,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Yes, there are people who do private punishment like that."
+    } ]
+  }, {
+    "tStartMs": 1340720,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "That's scary."
+    } ]
+  }, {
+    "tStartMs": 1342600,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "I go swimming occasionally these days."
+    } ]
+  }, {
+    "tStartMs": 1345880,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "I go about once a week or once every two weeks,"
+    } ]
+  }, {
+    "tStartMs": 1349520,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "and I had an episode like this once, though it wasn't quite seniority."
+    } ]
+  }, {
+    "tStartMs": 1354880,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "After I finished swimming at the pool and did some free swimming,"
+    } ]
+  }, {
+    "tStartMs": 1357900,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "I wash my body and rinse my swimsuit there inside,"
+    } ]
+  }, {
+    "tStartMs": 1362860,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "do a simple wash and head home,"
+    } ]
+  }, {
+    "tStartMs": 1366280,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "and there's this thing where you can squeeze the water out of the rinsed swimsuit."
+    } ]
+  }, {
+    "tStartMs": 1371820,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "What do you call it? Is it called a 'spin dryer'?"
+    } ]
+  }, {
+    "tStartMs": 1374500,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "Oh, there's something like that?"
+    } ]
+  }, {
+    "tStartMs": 1375370,
+    "dDurationMs": 5790,
+    "segs": [ {
+      "utf8": "Is it called a 'spin-spin machine'? You know, that machine that removes water from swimsuits?"
+    } ]
+  }, {
+    "tStartMs": 1381160,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Like a washing machine."
+    } ]
+  }, {
+    "tStartMs": 1382430,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "My pool didn't have one."
+    } ]
+  }, {
+    "tStartMs": 1383810,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "Or maybe it's only in the women's changing room."
+    } ]
+  }, {
+    "tStartMs": 1387290,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "So since I went alone, I put my laundry in by myself and tried it,"
+    } ]
+  }, {
+    "tStartMs": 1392860,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "but it wouldn't spin, so"
+    } ]
+  }, {
+    "tStartMs": 1397980,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "I turned it on and came back after a quick shower,"
+    } ]
+  }, {
+    "tStartMs": 1401500,
+    "dDurationMs": 4340,
+    "segs": [ {
+      "utf8": "and the lid was just open like that, so I was like 'what's this, what's this',"
+    } ]
+  }, {
+    "tStartMs": 1405840,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "but it still didn't work even when I tried again,"
+    } ]
+  }, {
+    "tStartMs": 1407460,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "and then there was this woman standing next to me"
+    } ]
+  }, {
+    "tStartMs": 1409900,
+    "dDurationMs": 6150,
+    "segs": [ {
+      "utf8": "and she very coldly just yanked the door open,"
+    } ]
+  }, {
+    "tStartMs": 1416050,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "so I was like 'what's this, what's this', but she just kept doing this 🙂‍↔️"
+    } ]
+  }, {
+    "tStartMs": 1420760,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "shaking her head and leaving, like 'you don't even know this?', and she left,"
+    } ]
+  }, {
+    "tStartMs": 1427620,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "and I was wondering what I did wrong, but it turned out"
+    } ]
+  }, {
+    "tStartMs": 1430460,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "another kind woman came over and explained that..."
+    } ]
+  }, {
+    "tStartMs": 1434560,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "if you put in too little laundry, it won't spin and it might break, she said."
+    } ]
+  }, {
+    "tStartMs": 1439150,
+    "dDurationMs": 5430,
+    "segs": [ {
+      "utf8": "So she said 'let's put mine in with yours' and we spun the swimsuit together,"
+    } ]
+  }, {
+    "tStartMs": 1444580,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "was it something like that? Was that it?"
+    } ]
+  }, {
+    "tStartMs": 1447320,
+    "dDurationMs": 6900,
+    "segs": [ {
+      "utf8": "I thought, if you don't know that pool culture, you feel a bit stupid like this."
+    } ]
+  }, {
+    "tStartMs": 1454220,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Wow, she's really a twisted person."
+    } ]
+  }, {
+    "tStartMs": 1456770,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "I think it was something like that, just seemed like an unkind person."
+    } ]
+  }, {
+    "tStartMs": 1461950,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "You can tell what kind of life she's living."
+    } ]
+  }, {
+    "tStartMs": 1466090,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "I hope she becomes happy."
+    } ]
+  }, {
+    "tStartMs": 1469240,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "No, I hope she stays unhappy forever. (- Oh really?)"
+    } ]
+  }, {
+    "tStartMs": 1474150,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Something like that comes out because she's unhappy, you know?"
+    } ]
+  }, {
+    "tStartMs": 1478340,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "Oh right, you have to keep your heart pure."
+    } ]
+  }, {
+    "tStartMs": 1482670,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "Oh I learned something, when you explain things kindly like this, you can also learn that you can feel good learning, and"
+    } ]
+  }, {
+    "tStartMs": 1489790,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "that's how people should be."
+    } ]
+  }, {
+    "tStartMs": 1491280,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1493290,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "Oh right, since the age group is a bit older,"
+    } ]
+  }, {
+    "tStartMs": 1496800,
+    "dDurationMs": 5530,
+    "segs": [ {
+      "utf8": "I think those kinds of interpersonal issues might come up."
+    } ]
+  }, {
+    "tStartMs": 1502330,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Next time you see her, ask \"Are you angry?\""
+    } ]
+  }, {
+    "tStartMs": 1507490,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "\"Are you upset?\""
+    } ]
+  }, {
+    "tStartMs": 1508840,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1509890,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Right, right, I'll do that."
+    } ]
+  }, {
+    "tStartMs": 1511740,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Yes anyway, and swimming"
+    } ]
+  }, {
+    "tStartMs": 1514030,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "Oh so Didi, you don't really enjoy swimming itself that much, do you?"
+    } ]
+  }, {
+    "tStartMs": 1519190,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "Unfortunately..."
+    } ]
+  }, {
+    "tStartMs": 1522890,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "But it really does seem to be a good exercise for sure."
+    } ]
+  }, {
+    "tStartMs": 1527190,
+    "dDurationMs": 6740,
+    "segs": [ {
+      "utf8": "That's what they say, and just from seeing so many older people doing it, it seems good,"
+    } ]
+  }, {
+    "tStartMs": 1533930,
+    "dDurationMs": 5010,
+    "segs": [ {
+      "utf8": "it's really hard though, after about 10 minutes I actually want to stop."
+    } ]
+  }, {
+    "tStartMs": 1538940,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "Ah, I see."
+    } ]
+  }, {
+    "tStartMs": 1542530,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Ah, so now that you understand that posture well,"
+    } ]
+  }, {
+    "tStartMs": 1547030,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "you can keep going continuously for 10 minutes straight like that, right?"
+    } ]
+  }, {
+    "tStartMs": 1551580,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "So it must be harder because of that."
+    } ]
+  }, {
+    "tStartMs": 1553540,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Yes, it feels like doing cardio and strength training together."
+    } ]
+  }, {
+    "tStartMs": 1556990,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "Your feet keep moving, and you have to put in strength too."
+    } ]
+  }, {
+    "tStartMs": 1561950,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1563100,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "And to not fall in the water, you end up having to keep moving no matter what, more so than running."
+    } ]
+  }, {
+    "tStartMs": 1568940,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "So it seems to get tiring quickly, and I read something like this too."
+    } ]
+  }, {
+    "tStartMs": 1572980,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "Like, \"Does swimming help with dieting?\" When I looked at the answers in posts like that,"
+    } ]
+  }, {
+    "tStartMs": 1579360,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "apparently it doesn't come off easily, but the reason is"
+    } ]
+  }, {
+    "tStartMs": 1582100,
+    "dDurationMs": 4660,
+    "segs": [ {
+      "utf8": "after swimming, you get so hungry that you end up eating a lot."
+    } ]
+  }, {
+    "tStartMs": 1586760,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1589120,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Because you burn so much energy."
+    } ]
+  }, {
+    "tStartMs": 1592420,
+    "dDurationMs": 7850,
+    "segs": [ {
+      "utf8": "But I think that's all just an excuse, personally."
+    } ]
+  }, {
+    "tStartMs": 1600270,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "If you do it and don't eat, then you'll lose weight."
+    } ]
+  }, {
+    "tStartMs": 1602060,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Of course, of course."
+    } ]
+  }, {
+    "tStartMs": 1603350,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "It helps."
+    } ]
+  }, {
+    "tStartMs": 1604220,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "Yes, it's a really good exercise for dieting, actually."
+    } ]
+  }, {
+    "tStartMs": 1607120,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Absolutely, absolutely."
+    } ]
+  }, {
+    "tStartMs": 1610330,
+    "dDurationMs": 5490,
+    "segs": [ {
+      "utf8": "But I, wow, I talked about this in another podcast too,"
+    } ]
+  }, {
+    "tStartMs": 1615820,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "and there was another reason I think I really learned to swim well."
+    } ]
+  }, {
+    "tStartMs": 1622190,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Yes?"
+    } ]
+  }, {
+    "tStartMs": 1624180,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "That swimming pool is pretty spacious, you know."
+    } ]
+  }, {
+    "tStartMs": 1628540,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "And there are like 10 lanes,"
+    } ]
+  }, {
+    "tStartMs": 1631510,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "and in each lane there are like about 10 people, about 10 people,"
+    } ]
+  }, {
+    "tStartMs": 1636030,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "there are a lot of people, and the pool ceiling is also really high,"
+    } ]
+  }, {
+    "tStartMs": 1639770,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "and it's all bustling like that (- Right) and it feels crowded."
+    } ]
+  }, {
+    "tStartMs": 1644460,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "But when I was over thirty years old,"
+    } ]
+  }, {
+    "tStartMs": 1648130,
+    "dDurationMs": 7490,
+    "segs": [ {
+      "utf8": "I went there as someone who couldn't do anything in swimming at all,"
+    } ]
+  }, {
+    "tStartMs": 1655620,
+    "dDurationMs": 4590,
+    "segs": [ {
+      "utf8": "and among all those lanes, among all those people,"
+    } ]
+  }, {
+    "tStartMs": 1660210,
+    "dDurationMs": 6730,
+    "segs": [ {
+      "utf8": "I was the person in the most basic class who knew the least about swimming."
+    } ]
+  }, {
+    "tStartMs": 1666940,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "So out of maybe close to 100 people,"
+    } ]
+  }, {
+    "tStartMs": 1672680,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "and all those people had gathered to do swimming,"
+    } ]
+  }, {
+    "tStartMs": 1678020,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "I was the worst one among them."
+    } ]
+  }, {
+    "tStartMs": 1681570,
+    "dDurationMs": 7060,
+    "segs": [ {
+      "utf8": "But that experience was really thrilling."
+    } ]
+  }, {
+    "tStartMs": 1688630,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Oh wow, you learned well."
+    } ]
+  }, {
+    "tStartMs": 1691900,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "It was a really fresh experience."
+    } ]
+  }, {
+    "tStartMs": 1695490,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "So if you think of this pool as a rectangle,"
+    } ]
+  }, {
+    "tStartMs": 1700220,
+    "dDurationMs": 6230,
+    "segs": [ {
+      "utf8": "the left lane is the beginner class, the right lane is the advanced class, if you think of it that way,"
+    } ]
+  }, {
+    "tStartMs": 1706450,
+    "dDurationMs": 6890,
+    "segs": [ {
+      "utf8": "the left lane is the beginner class, but even there, people who already learned go first."
+    } ]
+  }, {
+    "tStartMs": 1713340,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "And I'm at the back."
+    } ]
+  }, {
+    "tStartMs": 1716420,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "So I'm the person in the worst corner here."
+    } ]
+  }, {
+    "tStartMs": 1720100,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1721360,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "And I practice kicking like this,"
+    } ]
+  }, {
+    "tStartMs": 1724990,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "and also from the first day,"
+    } ]
+  }, {
+    "tStartMs": 1727170,
+    "dDurationMs": 9520,
+    "segs": [ {
+      "utf8": "they tell you to practice floating in the water, without holding this kickboard, this board,"
+    } ]
+  }, {
+    "tStartMs": 1736690,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "just walking forward while stretching your arms and doing a \"banzai\" pose and saying \"lie face down.\""
+    } ]
+  }, {
+    "tStartMs": 1742930,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "That's what they do."
+    } ]
+  }, {
+    "tStartMs": 1745410,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "To practice floating in the water."
+    } ]
+  }, {
+    "tStartMs": 1747550,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "But since this was my first time too,"
+    } ]
+  }, {
+    "tStartMs": 1750140,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "I didn't even know how to breathe,"
+    } ]
+  }, {
+    "tStartMs": 1752380,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "it was so scary."
+    } ]
+  }, {
+    "tStartMs": 1753630,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "It must have been scary."
+    } ]
+  }, {
+    "tStartMs": 1754960,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "But no one was watching me, I was alone."
+    } ]
+  }, {
+    "tStartMs": 1759570,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "The instructor also moved to the next lane,"
+    } ]
+  }, {
+    "tStartMs": 1762610,
+    "dDurationMs": 5100,
+    "segs": [ {
+      "utf8": "and the people who went ahead are already coming back,"
+    } ]
+  }, {
+    "tStartMs": 1767710,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "and I'm now at the back,"
+    } ]
+  }, {
+    "tStartMs": 1770920,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "trying to avoid those sharks coming behind me,"
+    } ]
+  }, {
+    "tStartMs": 1777720,
+    "dDurationMs": 5740,
+    "segs": [ {
+      "utf8": "and I have to practice doing this, this, this quickly."
+    } ]
+  }, {
+    "tStartMs": 1783460,
+    "dDurationMs": 6240,
+    "segs": [ {
+      "utf8": "That was truly a fresh experience."
+    } ]
+  }, {
+    "tStartMs": 1789700,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Did it help you grow a bit?"
+    } ]
+  }, {
+    "tStartMs": 1791710,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "Yes, I think it became personal growth for me."
+    } ]
+  }, {
+    "tStartMs": 1795960,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "The thing is, actually, once we get past our student days,"
+    } ]
+  }, {
+    "tStartMs": 1802180,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "when we become adults, we really don't find ourselves in a position where we're the most clueless person, the most incompetent person,"
+    } ]
+  }, {
+    "tStartMs": 1808580,
+    "dDurationMs": 5420,
+    "segs": [ {
+      "utf8": "someone who knows nothing, someone who needs to learn—we don't really find ourselves in that position that often, do we?"
+    } ]
+  }, {
+    "tStartMs": 1814000,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1815680,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "But having that kind of experience was really nice."
+    } ]
+  }, {
+    "tStartMs": 1821990,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Right, when you're an adult and learning something, it just feels good."
+    } ]
+  }, {
+    "tStartMs": 1825790,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1826660,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "But if I had to say which one I was worst at,"
+    } ]
+  }, {
+    "tStartMs": 1830990,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "watching other people, I might be able to learn quickly too, I think."
+    } ]
+  }, {
+    "tStartMs": 1835490,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1836480,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "So after two months, when you were about to leave, how was it?"
+    } ]
+  }, {
+    "tStartMs": 1840780,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Were you still the last person?"
+    } ]
+  }, {
+    "tStartMs": 1843070,
+    "dDurationMs": 1890,
+    "segs": [ {
+      "utf8": "No."
+    } ]
+  }, {
+    "tStartMs": 1844960,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Some juniors had come in."
+    } ]
+  }, {
+    "tStartMs": 1846460,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "There were a junior or two,"
+    } ]
+  }, {
+    "tStartMs": 1848700,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "but they kept coming and going, coming and going."
+    } ]
+  }, {
+    "tStartMs": 1852760,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "That's right, and on the last day, after I finished,"
+    } ]
+  }, {
+    "tStartMs": 1857220,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "I said goodbye like that, saying thank you for your hard work,"
+    } ]
+  }, {
+    "tStartMs": 1860350,
+    "dDurationMs": 8070,
+    "segs": [ {
+      "utf8": "and everyone scattered in different directions, and that's when I told the instructor that today was my last day."
+    } ]
+  }, {
+    "tStartMs": 1868420,
+    "dDurationMs": 6970,
+    "segs": [ {
+      "utf8": "I told the instructor that I couldn't come for a few months because of work, so today is my last day."
+    } ]
+  }, {
+    "tStartMs": 1875390,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "As I was saying goodbye, two elderly women next to me, Lane,"
+    } ]
+  }, {
+    "tStartMs": 1881400,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "said, \"That bachelor worked so hard and got better so quickly, it's such a shame.\""
+    } ]
+  }, {
+    "tStartMs": 1886300,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "That was... I really went four times,"
+    } ]
+  }, {
+    "tStartMs": 1889030,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1891310,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "I didn't miss a single day during those two months."
+    } ]
+  }, {
+    "tStartMs": 1894390,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Jeong Seong-sil,"
+    } ]
+  }, {
+    "tStartMs": 1895910,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "Yes, so wasn't it even more of a shame?"
+    } ]
+  }, {
+    "tStartMs": 1901910,
+    "dDurationMs": 5640,
+    "segs": [ {
+      "utf8": "They recognized me, I felt a bit of affection, and now saying goodbye like this became natural too."
+    } ]
+  }, {
+    "tStartMs": 1907550,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1908860,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "It's a shame, it's a shame."
+    } ]
+  }, {
+    "tStartMs": 1910990,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "I think it would be good to talk about things like that,"
+    } ]
+  }, {
+    "tStartMs": 1913890,
+    "dDurationMs": 8870,
+    "segs": [ {
+      "utf8": "I'd like to talk about how to use and register at Korean swimming pools and what the prices are like and things like that."
+    } ]
+  }, {
+    "tStartMs": 1922760,
+    "dDurationMs": 3480,
+    "segs": [ {
+      "utf8": "I think it could be a good comparison."
+    } ]
+  }, {
+    "tStartMs": 1926240,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "First of all, usually like the place Tae-woong went to, the ones run by the district,"
+    } ]
+  }, {
+    "tStartMs": 1931020,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "people go to swimming pools run by the city a lot,"
+    } ]
+  }, {
+    "tStartMs": 1936230,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "and there don't seem to be many privately run swimming pools."
+    } ]
+  }, {
+    "tStartMs": 1939360,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Even if there are, they're mostly for children."
+    } ]
+  }, {
+    "tStartMs": 1942980,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "The water is warm and shallow and narrow."
+    } ]
+  }, {
+    "tStartMs": 1947870,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "So that's how it seems with big swimming pools,"
+    } ]
+  }, {
+    "tStartMs": 1950990,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Tae-woong took classes, right?"
+    } ]
+  }, {
+    "tStartMs": 1953540,
+    "dDurationMs": 5820,
+    "segs": [ {
+      "utf8": "I heard that the class registration has a really high competition rate."
+    } ]
+  }, {
+    "tStartMs": 1959360,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Was it okay for you?"
+    } ]
+  }, {
+    "tStartMs": 1960880,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "The place I go to is not very competitive at all."
+    } ]
+  }, {
+    "tStartMs": 1963900,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Oh really? Why is that?"
+    } ]
+  }, {
+    "tStartMs": 1966970,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "Well, whether 10 people come or 20 people come,"
+    } ]
+  }, {
+    "tStartMs": 1970400,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "the instructor just says, \"Okay, let's start, go ahead, hold your posture like this and go,\""
+    } ]
+  }, {
+    "tStartMs": 1974900,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "so there was no limit on the number of people."
+    } ]
+  }, {
+    "tStartMs": 1978270,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Oh really? It was just open?"
+    } ]
+  }, {
+    "tStartMs": 1981570,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1982560,
+    "dDurationMs": 5730,
+    "segs": [ {
+      "utf8": "Oh, I have very few swimming pools to begin with,"
+    } ]
+  }, {
+    "tStartMs": 1988290,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "there are many people who want to learn, but there are no swimming pools,"
+    } ]
+  }, {
+    "tStartMs": 1991510,
+    "dDurationMs": 7300,
+    "segs": [ {
+      "utf8": "so some people waited a year, and that's how it was in Gyeonggi Province where I am."
+    } ]
+  }, {
+    "tStartMs": 1998810,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "So it was okay there."
+    } ]
+  }, {
+    "tStartMs": 2000860,
+    "dDurationMs": 8890,
+    "segs": [ {
+      "utf8": "Right, the swimming pool I went to... there was another swimming pool just a 10-minute walk away."
+    } ]
+  }, {
+    "tStartMs": 2009750,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "That was also run by the government,"
+    } ]
+  }, {
+    "tStartMs": 2012900,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "but it seems the number of students there was limited."
+    } ]
+  }, {
+    "tStartMs": 2017340,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "But there the competition was really fierce."
+    } ]
+  }, {
+    "tStartMs": 2022340,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Did you find out about it?"
+    } ]
+  }, {
+    "tStartMs": 2023520,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Yes, I did find out, but they said you have to line up from early morning."
+    } ]
+  }, {
+    "tStartMs": 2028120,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2029830,
+    "dDurationMs": 12540,
+    "segs": [ {
+      "utf8": "So instead of just giving up, we went to a factory-style place, a farm, our Korean swimming pool."
+    } ]
+  }, {
+    "tStartMs": 2042370,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Ah, so that's why places like that can have lower competition rates."
+    } ]
+  }, {
+    "tStartMs": 2047490,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "I use what they call free swimming, which has set times."
+    } ]
+  }, {
+    "tStartMs": 2052560,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "There's about 3 hours a day, and during that time you can just come freely and swim, so I used that option."
+    } ]
+  }, {
+    "tStartMs": 2058560,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "That costs about 3,000 won per visit."
+    } ]
+  }, {
+    "tStartMs": 2062660,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "So it's very affordable."
+    } ]
+  }, {
+    "tStartMs": 2064830,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "It seems cheaper than any other exercise."
+    } ]
+  }, {
+    "tStartMs": 2067490,
+    "dDurationMs": 510,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2068000,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Because you go and shower and everything."
+    } ]
+  }, {
+    "tStartMs": 2071020,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "You can exercise and all that for 3,000 won, so it's really great, right? It's a good deal, right?"
+    } ]
+  }, {
+    "tStartMs": 2075450,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "It's so good."
+    } ]
+  }, {
+    "tStartMs": 2076660,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "How much was the class fee? The tuition?"
+    } ]
+  }, {
+    "tStartMs": 2079870,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "That was also really cheap."
+    } ]
+  }, {
+    "tStartMs": 2084930,
+    "dDurationMs": 4920,
+    "segs": [ {
+      "utf8": "I don't remember exactly, but around 60,000 or 70,000 won?"
+    } ]
+  }, {
+    "tStartMs": 2089850,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "Per month?"
+    } ]
+  }, {
+    "tStartMs": 2090760,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2091300,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "Oh, yeah, that's about what it was, right?"
+    } ]
+  }, {
+    "tStartMs": 2093690,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Yes, 60, 70 thousand won per month."
+    } ]
+  }, {
+    "tStartMs": 2096250,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "And you can go four times a week."
+    } ]
+  }, {
+    "tStartMs": 2098420,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2099610,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "That's really cheap, right?"
+    } ]
+  }, {
+    "tStartMs": 2100720,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Yes, it's so good."
+    } ]
+  }, {
+    "tStartMs": 2102940,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2104770,
+    "dDurationMs": 5290,
+    "segs": [ {
+      "utf8": "So that's probably why places with such high competition rates have to exist."
+    } ]
+  }, {
+    "tStartMs": 2110060,
+    "dDurationMs": 560,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2110620,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "Because it's affordable and good for your body and all that."
+    } ]
+  }, {
+    "tStartMs": 2116130,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "So if you split those two (free swimming and classes), you can use them."
+    } ]
+  }, {
+    "tStartMs": 2120290,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "Usually when you go there, there's a front counter."
+    } ]
+  }, {
+    "tStartMs": 2125050,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Where you can sign up for classes or buy daily passes and things like that."
+    } ]
+  }, {
+    "tStartMs": 2128310,
+    "dDurationMs": 9740,
+    "segs": [ {
+      "utf8": "These days there's a kiosk, so I also print out a ticket from it, then shower and swim and come back and all that."
+    } ]
+  }, {
+    "tStartMs": 2138050,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "There might be people like me who are afraid of water."
+    } ]
+  }, {
+    "tStartMs": 2142530,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "And in that sense, learning to swim anew."
+    } ]
+  }, {
+    "tStartMs": 2146620,
+    "dDurationMs": 6870,
+    "segs": [ {
+      "utf8": "Could be a meaningful experience of overcoming one of your fears in life."
+    } ]
+  }, {
+    "tStartMs": 2153490,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It really seems like a good experience."
+    } ]
+  }, {
+    "tStartMs": 2155490,
+    "dDurationMs": 2180,
+    "segs": [ {
+      "utf8": "It really is good."
+    } ]
+  }, {
+    "tStartMs": 2157670,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "Are you not afraid of water now?"
+    } ]
+  }, {
+    "tStartMs": 2159900,
+    "dDurationMs": 6310,
+    "segs": [ {
+      "utf8": "Yes, but it was pretty hard to overcome."
+    } ]
+  }, {
+    "tStartMs": 2166210,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "When I first went into the swimming pool, my heart kept pounding."
+    } ]
+  }, {
+    "tStartMs": 2171320,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Thump thump, thump thump."
+    } ]
+  }, {
+    "tStartMs": 2175090,
+    "dDurationMs": 7550,
+    "segs": [ {
+      "utf8": "So by the last day of the first week, that had eased a bit."
+    } ]
+  }, {
+    "tStartMs": 2182640,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "That fear, I had adapted to it somewhat."
+    } ]
+  }, {
+    "tStartMs": 2187440,
+    "dDurationMs": 6320,
+    "segs": [ {
+      "utf8": "But then after the weekend, a few days after the weekend passed, when I went back again."
+    } ]
+  }, {
+    "tStartMs": 2193760,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "It was just as scary."
+    } ]
+  }, {
+    "tStartMs": 2195010,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Wow, that happened."
+    } ]
+  }, {
+    "tStartMs": 2197380,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "It's just scary, that's all."
+    } ]
+  }, {
+    "tStartMs": 2198940,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Right, but while practicing freestyle at first."
+    } ]
+  }, {
+    "tStartMs": 2204460,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "I overcame it quite a bit."
+    } ]
+  }, {
+    "tStartMs": 2207170,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "And then suddenly one day the instructor says, \"Member, let's try backstroke now.\""
+    } ]
+  }, {
+    "tStartMs": 2212360,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Then you have to lie on your back, so you get scared again."
+    } ]
+  }, {
+    "tStartMs": 2217200,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Backstroke is scary, you swallow so much water."
+    } ]
+  }, {
+    "tStartMs": 2219740,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "When I first did backstroke, it was really scary."
+    } ]
+  }, {
+    "tStartMs": 2221840,
+    "dDurationMs": 4780,
+    "segs": [ {
+      "utf8": "Yeah, I bet it was."
+    } ]
+  }, {
+    "tStartMs": 2226620,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "The instructor just keeps saying, \"Lie down, lie down.\""
+    } ]
+  }, {
+    "tStartMs": 2231140,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "But now backstroke seems like the most comfortable one for me."
+    } ]
+  }, {
+    "tStartMs": 2234770,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "Backstroke, the speed seemed a bit slow for me."
+    } ]
+  }, {
+    "tStartMs": 2239230,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "When you turn at that lane, people go in a line like that."
+    } ]
+  }, {
+    "tStartMs": 2242800,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "Especially when you do backstroke, other people's hands keep hitting my feet."
+    } ]
+  }, {
+    "tStartMs": 2247030,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "I'm slow when I do backstroke."
+    } ]
+  }, {
+    "tStartMs": 2249810,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "That's right, and sometimes the direction gets twisted too."
+    } ]
+  }, {
+    "tStartMs": 2255090,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Since I can't see where I'm going,"
+    } ]
+  }, {
+    "tStartMs": 2256230,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2257700,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "There's etiquette like that too, now that I think about it."
+    } ]
+  }, {
+    "tStartMs": 2262000,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "When another person is about to start like this,"
+    } ]
+  }, {
+    "tStartMs": 2265800,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "You wait a bit and then start? Other countries probably have this too, right?"
+    } ]
+  }, {
+    "tStartMs": 2269590,
+    "dDurationMs": 5830,
+    "segs": [ {
+      "utf8": "Ah yes, you do it when the distance gets far enough."
+    } ]
+  }, {
+    "tStartMs": 2275420,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Right, when the distance gets far,"
+    } ]
+  }, {
+    "tStartMs": 2277540,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "You can't pass someone,"
+    } ]
+  }, {
+    "tStartMs": 2279360,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "You can't pass, right."
+    } ]
+  }, {
+    "tStartMs": 2280830,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "Yes, you can't pass,"
+    } ]
+  }, {
+    "tStartMs": 2282750,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "These days there are lanes like that too, just for walking."
+    } ]
+  }, {
+    "tStartMs": 2286760,
+    "dDurationMs": 6650,
+    "segs": [ {
+      "utf8": "So when I get tired or bored while swimming, I go to that lane next to me,"
+    } ]
+  }, {
+    "tStartMs": 2293410,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "When there's no one around, I look carefully and move to the side and walk,"
+    } ]
+  }, {
+    "tStartMs": 2297560,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "That's nice."
+    } ]
+  }, {
+    "tStartMs": 2298290,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Yes, there was something like that."
+    } ]
+  }, {
+    "tStartMs": 2301590,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Water phobia, but I'm glad you overcame it."
+    } ]
+  }, {
+    "tStartMs": 2306230,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Really..."
+    } ]
+  }, {
+    "tStartMs": 2308610,
+    "dDurationMs": 7910,
+    "segs": [ {
+      "utf8": "When the previous class ends, during the 10-minute break time,"
+    } ]
+  }, {
+    "tStartMs": 2316520,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "I shower first and go first and keep dunking my face."
+    } ]
+  }, {
+    "tStartMs": 2322590,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "You're hardworking..."
+    } ]
+  }, {
+    "tStartMs": 2323910,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "I kept doing that to get more comfortable, and it got better."
+    } ]
+  }, {
+    "tStartMs": 2331010,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "You can do everything."
+    } ]
+  }, {
+    "tStartMs": 2333500,
+    "dDurationMs": 600,
+    "segs": [ {
+      "utf8": "It's possible."
+    } ]
+  }, {
+    "tStartMs": 2334100,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "You can overcome it."
+    } ]
+  }, {
+    "tStartMs": 2335550,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Fighting!"
+    } ]
+  }, {
+    "tStartMs": 2336540,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "Fighting, fighting, Teacher Tae-woong, if you have some free time,"
+    } ]
+  }, {
+    "tStartMs": 2340660,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "Or if you make some time,"
+    } ]
+  }, {
+    "tStartMs": 2343040,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "I hope you can continue and master butterfly stroke."
+    } ]
+  }, {
+    "tStartMs": 2346290,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 2347500,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Then I'll give you this week's quiz."
+    } ]
+  }, {
+    "tStartMs": 2350510,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "This week's quiz is,"
+    } ]
+  }, {
+    "tStartMs": 2352250,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "Let's do a swimming style that Teacher Tae-woong can't do."
+    } ]
+  }, {
+    "tStartMs": 2356980,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 2359200,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "Number 1, freestyle."
+    } ]
+  }, {
+    "tStartMs": 2361900,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Number 2, breaststroke."
+    } ]
+  }, {
+    "tStartMs": 2364850,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Number 3, backstroke!"
+    } ]
+  }, {
+    "tStartMs": 2367450,
+    "dDurationMs": 6420,
+    "segs": [ {
+      "utf8": "Among these three swimming styles, pick the one that Teacher Tae-woong can't do,"
+    } ]
+  }, {
+    "tStartMs": 2373870,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "And vote or leave a comment, I'd appreciate it."
+    } ]
+  }, {
+    "tStartMs": 2378020,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "Then we'll move on to our next mini-game time."
+    } ]
+  }, {
+    "tStartMs": 2384620,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "A mini-game done with words!"
+    } ]
+  }, {
+    "tStartMs": 2392450,
+    "dDurationMs": 3080,
+    "segs": [ {
+      "utf8": "Yes, the word mini-game time has come around again today,"
+    } ]
+  }, {
+    "tStartMs": 2395530,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "This mini-game got good reactions last time we did it,"
+    } ]
+  }, {
+    "tStartMs": 2399680,
+    "dDurationMs": 5900,
+    "segs": [ {
+      "utf8": "So we'll do it as a series of 'When you go to the market',"
+    } ]
+  }, {
+    "tStartMs": 2405580,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "And we'll do the 'When you go to the swimming pool' game."
+    } ]
+  }, {
+    "tStartMs": 2408220,
+    "dDurationMs": 9380,
+    "segs": [ {
+      "utf8": "You talk about things that exist at the swimming pool one by one, and you say what the previous person said together."
+    } ]
+  }, {
+    "tStartMs": 2417600,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Once you listen, you'll understand."
+    } ]
+  }, {
+    "tStartMs": 2419760,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "But it doesn't have to be objects necessarily."
+    } ]
+  }, {
+    "tStartMs": 2422130,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Oh right, anything that exists there."
+    } ]
+  }, {
+    "tStartMs": 2425160,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 2426570,
+    "dDurationMs": 3510,
+    "segs": [ {
+      "utf8": "I'm getting nervous."
+    } ]
+  }, {
+    "tStartMs": 2430080,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "Should we start?"
+    } ]
+  }, {
+    "tStartMs": 2431410,
+    "dDurationMs": 1220,
+    "segs": [ {
+      "utf8": "Let's start."
+    } ]
+  }, {
+    "tStartMs": 2432630,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "You go first, Didi."
+    } ]
+  }, {
+    "tStartMs": 2434880,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "Let's finish in one round."
+    } ]
+  }, {
+    "tStartMs": 2436540,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2439060,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "When you go to the swimming pool,"
+    } ]
+  }, {
+    "tStartMs": 2440570,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "There are teachers,"
+    } ]
+  }, {
+    "tStartMs": 2442380,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "When you go to the swimming pool, there are teachers and water too."
+    } ]
+  }, {
+    "tStartMs": 2446910,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher, and water, and a kickboard,"
+    } ]
+  }, {
+    "tStartMs": 2452750,
+    "dDurationMs": 7650,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher, and water, and a kickboard, and a lane rope,"
+    } ]
+  }, {
+    "tStartMs": 2460400,
+    "dDurationMs": 6560,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher, and water, and a kickboard, and a lane rope,"
+    } ]
+  }, {
+    "tStartMs": 2466960,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "and students,"
+    } ]
+  }, {
+    "tStartMs": 2468630,
+    "dDurationMs": 5870,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher, and water, and a kickboard,"
+    } ]
+  }, {
+    "tStartMs": 2474500,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "and a lane rope, and students, and a clock,"
+    } ]
+  }, {
+    "tStartMs": 2478590,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher,"
+    } ]
+  }, {
+    "tStartMs": 2481250,
+    "dDurationMs": 4730,
+    "segs": [ {
+      "utf8": "and water, and a kickboard, and a lane rope,"
+    } ]
+  }, {
+    "tStartMs": 2485980,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "and students,"
+    } ]
+  }, {
+    "tStartMs": 2488580,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "and a clock,"
+    } ]
+  }, {
+    "tStartMs": 2490690,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "and~~~ uh..."
+    } ]
+  }, {
+    "tStartMs": 2495250,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "and a swimsuit,"
+    } ]
+  }, {
+    "tStartMs": 2499880,
+    "dDurationMs": 6460,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher, and a rope... water,"
+    } ]
+  }, {
+    "tStartMs": 2506340,
+    "dDurationMs": 4890,
+    "segs": [ {
+      "utf8": "and a kickboard, and a lane rope, and students,"
+    } ]
+  }, {
+    "tStartMs": 2511230,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "and a clock..."
+    } ]
+  }, {
+    "tStartMs": 2514800,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "Huh? Is that right?"
+    } ]
+  }, {
+    "tStartMs": 2516770,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "Did I, did I do that?"
+    } ]
+  }, {
+    "tStartMs": 2518540,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Oh, that's right, swimming, and a swimsuit,"
+    } ]
+  }, {
+    "tStartMs": 2521790,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "and a swimsuit,"
+    } ]
+  }, {
+    "tStartMs": 2525250,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "and flippers,"
+    } ]
+  }, {
+    "tStartMs": 2529150,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher, and water,"
+    } ]
+  }, {
+    "tStartMs": 2533570,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "and a kickboard, and a lane rope,"
+    } ]
+  }, {
+    "tStartMs": 2538640,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "and students, and a clock,"
+    } ]
+  }, {
+    "tStartMs": 2542590,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "and a swimsuit..."
+    } ]
+  }, {
+    "tStartMs": 2545630,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Ugh! And flippers!"
+    } ]
+  }, {
+    "tStartMs": 2548990,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "and shampoo,"
+    } ]
+  }, {
+    "tStartMs": 2552820,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher,"
+    } ]
+  }, {
+    "tStartMs": 2556060,
+    "dDurationMs": 7840,
+    "segs": [ {
+      "utf8": "and water..."
+    } ]
+  }, {
+    "tStartMs": 2563900,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Huh?"
+    } ]
+  }, {
+    "tStartMs": 2567010,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Wait a moment..."
+    } ]
+  }, {
+    "tStartMs": 2569980,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "What was it? I can't remember either,"
+    } ]
+  }, {
+    "tStartMs": 2574670,
+    "dDurationMs": 440,
+    "segs": [ {
+      "utf8": "I lost..."
+    } ]
+  }, {
+    "tStartMs": 2575110,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "You don't know, right?"
+    } ]
+  }, {
+    "tStartMs": 2576050,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "What is it? But what is it?"
+    } ]
+  }, {
+    "tStartMs": 2577450,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "When you go to a swimming pool, there's a teacher, and water,"
+    } ]
+  }, {
+    "tStartMs": 2581280,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "and then..."
+    } ]
+  }, {
+    "tStartMs": 2583250,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Was it a kickboard?"
+    } ]
+  }, {
+    "tStartMs": 2584430,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "Oh, it's a kickboard,"
+    } ]
+  }, {
+    "tStartMs": 2585400,
+    "dDurationMs": 8270,
+    "segs": [ {
+      "utf8": "A kickboard! I remember Teacher Tae-woong using a kickboard when practicing kicks!"
+    } ]
+  }, {
+    "tStartMs": 2593670,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Wow, this is so hard, my heart is pounding right now,"
+    } ]
+  }, {
+    "tStartMs": 2598270,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "Oh but we went a lot,"
+    } ]
+  }, {
+    "tStartMs": 2599690,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "We went a lot, really,"
+    } ]
+  }, {
+    "tStartMs": 2601220,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Since it was one round, we did it with our lives on the line,"
+    } ]
+  }, {
+    "tStartMs": 2603900,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "We went a lot, it's a shame,"
+    } ]
+  }, {
+    "tStartMs": 2605910,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "It was fun, it was fun,"
+    } ]
+  }, {
+    "tStartMs": 2609400,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "So today we talked about swimming pools and swimming from every angle,"
+    } ]
+  }, {
+    "tStartMs": 2614110,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "And if you have any more questions about swimming or Korean swimming pools,"
+    } ]
+  }, {
+    "tStartMs": 2618030,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "please leave them in the comments, and I'll reply to them whenever I check,"
+    } ]
+  }, {
+    "tStartMs": 2623630,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "I've been thinking about the next topic, and the next topic is 'sleep,' how does that sound?"
+    } ]
+  }, {
+    "tStartMs": 2627870,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Sleep, sleeping,"
+    } ]
+  }, {
+    "tStartMs": 2629380,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "That's what we do, sleep,"
+    } ]
+  }, {
+    "tStartMs": 2631530,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "Right, sleeping,"
+    } ]
+  }, {
+    "tStartMs": 2633360,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "It'll be a chance for me to flex my sleep score,"
+    } ]
+  }, {
+    "tStartMs": 2637050,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Your score must be high,"
+    } ]
+  }, {
+    "tStartMs": 2639100,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Mine too,"
+    } ]
+  }, {
+    "tStartMs": 2640130,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "I'm also a bit confident,"
+    } ]
+  }, {
+    "tStartMs": 2642070,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2643100,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "Want to battle?"
+    } ]
+  }, {
+    "tStartMs": 2644120,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "Oh, I like it, a sleep score battle,"
+    } ]
+  }, {
+    "tStartMs": 2648200,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "Yes, sounds good, right?"
+    } ]
+  }, {
+    "tStartMs": 2649260,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "Sounds good, sounds good. So next week we'll have a battle about how well we sleep."
+    } ]
+  }, {
+    "tStartMs": 2654210,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "We'll talk about sleep in all sorts of ways with Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 2657510,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Well, thank you for listening today."
+    } ]
+  }, {
+    "tStartMs": 2659790,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "This has been Didi and Jeong Tae-woong. Thank you!"
+    } ]
+  } ]
+}

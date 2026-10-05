@@ -1,0 +1,6301 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 10020,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Hello, this is Didi."
+    } ]
+  }, {
+    "tStartMs": 12190,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Hello, this is Jeong Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 14070,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Yomojomo is a podcast where two people living in Korea"
+    } ]
+  }, {
+    "tStartMs": 17430,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "talk about the ins and outs of life in Korea."
+    } ]
+  }, {
+    "tStartMs": 20800,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "This is the last Yomojomo episode of 2025."
+    } ]
+  }, {
+    "tStartMs": 25880,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "We've been doing this for a while."
+    } ]
+  }, {
+    "tStartMs": 27740,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Quite... when did we first start?"
+    } ]
+  }, {
+    "tStartMs": 30250,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "We..."
+    } ]
+  }, {
+    "tStartMs": 31090,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "Right, did we start last year?"
+    } ]
+  }, {
+    "tStartMs": 33350,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "Not this year?"
+    } ]
+  }, {
+    "tStartMs": 34710,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "I think it was early this year."
+    } ]
+  }, {
+    "tStartMs": 36270,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "I think it was around spring."
+    } ]
+  }, {
+    "tStartMs": 38310,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "So we're almost at a year of doing Yomojomo."
+    } ]
+  }, {
+    "tStartMs": 41470,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Wow... so when we first started,"
+    } ]
+  }, {
+    "tStartMs": 43900,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "it wasn't once a month, we did it every week."
+    } ]
+  }, {
+    "tStartMs": 47430,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 48830,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "So that means we've done it over 12 times."
+    } ]
+  }, {
+    "tStartMs": 51000,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Oh yeah, we've definitely done way more than that."
+    } ]
+  }, {
+    "tStartMs": 52980,
+    "dDurationMs": 1780,
+    "segs": [ {
+      "utf8": "Wow..."
+    } ]
+  }, {
+    "tStartMs": 54760,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "Then let's count it as over a year!"
+    } ]
+  }, {
+    "tStartMs": 56990,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Wow~ [laughs]"
+    } ]
+  }, {
+    "tStartMs": 58850,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Congratulations on one year."
+    } ]
+  }, {
+    "tStartMs": 61140,
+    "dDurationMs": 580,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 61720,
+    "dDurationMs": 1930,
+    "segs": [ {
+      "utf8": "And thank you for working so hard on it."
+    } ]
+  }, {
+    "tStartMs": 63650,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "How have you been doing lately, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 66390,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "You seemed really busy."
+    } ]
+  }, {
+    "tStartMs": 68860,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "I've been going through a very tiring time."
+    } ]
+  }, {
+    "tStartMs": 71450,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "I think everyone would be curious about your recent updates, Teacher Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 75330,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "As for my updates..."
+    } ]
+  }, {
+    "tStartMs": 77050,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "it's not that simple..."
+    } ]
+  }, {
+    "tStartMs": 80160,
+    "dDurationMs": 2110,
+    "segs": [ {
+      "utf8": "does it become one episode?"
+    } ]
+  }, {
+    "tStartMs": 82270,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "Yes, I'm thinking of re-uploading my All Things Korean podcast on Christmas Eve."
+    } ]
+  }, {
+    "tStartMs": 86280,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "Oh, finally, yes."
+    } ]
+  }, {
+    "tStartMs": 91820,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Yes, would it be okay to talk about it a bit when we do that episode?"
+    } ]
+  }, {
+    "tStartMs": 93870,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "By inviting Didi?"
+    } ]
+  }, {
+    "tStartMs": 97320,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Oh yes, yes."
+    } ]
+  }, {
+    "tStartMs": 98640,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Ah, so Teacher Tae-woong's updates will be"
+    } ]
+  }, {
+    "tStartMs": 100490,
+    "dDurationMs": 3850,
+    "segs": [ {
+      "utf8": "something to look forward to on your channel as a special episode."
+    } ]
+  }, {
+    "tStartMs": 104340,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "Please make sure to do it, Teacher Tae-woong."
+    } ]
+  }, {
+    "tStartMs": 107360,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Of course. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 108670,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "So should we introduce what today's theme is?"
+    } ]
+  }, {
+    "tStartMs": 111000,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "Today's topic is"
+    } ]
+  }, {
+    "tStartMs": 115560,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "hobbies."
+    } ]
+  }, {
+    "tStartMs": 117350,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Hobbies, right, everyone."
+    } ]
+  }, {
+    "tStartMs": 118750,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "I'm sure everyone listening has hobbies... or at least most people do?"
+    } ]
+  }, {
+    "tStartMs": 120890,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Well, some people might not have any."
+    } ]
+  }, {
+    "tStartMs": 125410,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "But today we're going to talk about our hobbies."
+    } ]
+  }, {
+    "tStartMs": 127120,
+    "dDurationMs": 4290,
+    "segs": [ {
+      "utf8": "And before we talk about them, there was a quiz last time, right?"
+    } ]
+  }, {
+    "tStartMs": 131410,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "So I'll let you know the answer."
+    } ]
+  }, {
+    "tStartMs": 134090,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "The quiz answer was first, it's not a food with a cool taste."
+    } ]
+  }, {
+    "tStartMs": 137090,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "The correct answer was number 1, tteokbokki."
+    } ]
+  }, {
+    "tStartMs": 141760,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "So many of you got it right this time too."
+    } ]
+  }, {
+    "tStartMs": 145760,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "...congratulations on getting the quiz answer correct."
+    } ]
+  }, {
+    "tStartMs": 165170,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "There's a quiz at the end, so everyone try to get it right."
+    } ]
+  }, {
+    "tStartMs": 168930,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "Then let's talk about hobbies."
+    } ]
+  }, {
+    "tStartMs": 172470,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 176540,
+    "dDurationMs": 820,
+    "segs": [ {
+      "utf8": "First, what do you think \"hobby\" means, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 177360,
+    "dDurationMs": 4040,
+    "segs": [ {
+      "utf8": "I want to talk about the definition of \"hobby\" first."
+    } ]
+  }, {
+    "tStartMs": 181400,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Hobby..."
+    } ]
+  }, {
+    "tStartMs": 186120,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "취미..."
+    } ]
+  }, {
+    "tStartMs": 187740,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "Literally, a small thing you do for fun?"
+    } ]
+  }, {
+    "tStartMs": 191770,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Something you do for fun?"
+    } ]
+  }, {
+    "tStartMs": 193210,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "A small thing?"
+    } ]
+  }, {
+    "tStartMs": 195530,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "It might not be that small, actually."
+    } ]
+  }, {
+    "tStartMs": 197180,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "It depends on the person."
+    } ]
+  }, {
+    "tStartMs": 199170,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "So the key point is fun, then."
+    } ]
+  }, {
+    "tStartMs": 201270,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 202680,
+    "dDurationMs": 3780,
+    "segs": [ {
+      "utf8": "What I think of as a hobby is..."
+    } ]
+  }, {
+    "tStartMs": 206460,
+    "dDurationMs": 5230,
+    "segs": [ {
+      "utf8": "Right, it's about fun and something enjoyable to do while doing it,"
+    } ]
+  }, {
+    "tStartMs": 211690,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "and it's not work?"
+    } ]
+  }, {
+    "tStartMs": 214180,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "It's not something you do as work,"
+    } ]
+  }, {
+    "tStartMs": 217310,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "so I looked up the definition in a dictionary"
+    } ]
+  }, {
+    "tStartMs": 221020,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "and it was written like this:"
+    } ]
+  }, {
+    "tStartMs": 222320,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "\"Something you do not as a job or profession,"
+    } ]
+  }, {
+    "tStartMs": 226310,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "but because you like it and want to enjoy it,\" that's what it said."
+    } ]
+  }, {
+    "tStartMs": 229950,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "That's the same as what we were talking about, right?"
+    } ]
+  }, {
+    "tStartMs": 232400,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "It is."
+    } ]
+  }, {
+    "tStartMs": 233890,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "So Tae-woong, do you have any hobbies right now?"
+    } ]
+  }, {
+    "tStartMs": 238110,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "Right now?"
+    } ]
+  }, {
+    "tStartMs": 239000,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "These days, now."
+    } ]
+  }, {
+    "tStartMs": 241850,
+    "dDurationMs": 5770,
+    "segs": [ {
+      "utf8": "It's really unfortunate, but I don't have time to really have a hobby."
+    } ]
+  }, {
+    "tStartMs": 247620,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "You don't have time to enjoy a hobby?"
+    } ]
+  }, {
+    "tStartMs": 250080,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "Right, if I think about it, there's one thing."
+    } ]
+  }, {
+    "tStartMs": 256770,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Duolingo? Japanese?"
+    } ]
+  }, {
+    "tStartMs": 259540,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "Oh, yes."
+    } ]
+  }, {
+    "tStartMs": 261500,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "I've been doing Duolingo Japanese for a few months now."
+    } ]
+  }, {
+    "tStartMs": 264740,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Do you need to invest about 5 minutes a day in Duolingo?"
+    } ]
+  }, {
+    "tStartMs": 268550,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "Sometimes it doesn't even take 5 minutes, if you just do it once."
+    } ]
+  }, {
+    "tStartMs": 272520,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "If you just do that one exercise,"
+    } ]
+  }, {
+    "tStartMs": 274820,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "sometimes it only takes about 1 or 2 minutes."
+    } ]
+  }, {
+    "tStartMs": 277860,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Oh, you only do just that much?"
+    } ]
+  }, {
+    "tStartMs": 280710,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "Yes. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 283360,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Wow, it's hard to be consistent, but Duolingo—just one thing..."
+    } ]
+  }, {
+    "tStartMs": 286780,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Yes, so it's probably been about 75 days, or is it 76 days today?"
+    } ]
+  }, {
+    "tStartMs": 291490,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "You've been doing it for a long time."
+    } ]
+  }, {
+    "tStartMs": 293430,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 294900,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "So you're doing Duolingo."
+    } ]
+  }, {
+    "tStartMs": 296800,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "Yes, without really thinking about it."
+    } ]
+  }, {
+    "tStartMs": 298590,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "I'm not really thinking like, \"I should study a foreign language,\""
+    } ]
+  }, {
+    "tStartMs": 303170,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "that kind of thing."
+    } ]
+  }, {
+    "tStartMs": 305050,
+    "dDurationMs": 1130,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 306180,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "Just about 75 days ago,"
+    } ]
+  }, {
+    "tStartMs": 309540,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "back then I wasn't as busy as I am now."
+    } ]
+  }, {
+    "tStartMs": 313060,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "I had nothing to do."
+    } ]
+  }, {
+    "tStartMs": 314920,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "You were bored."
+    } ]
+  }, {
+    "tStartMs": 316450,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Yes, I was really bored."
+    } ]
+  }, {
+    "tStartMs": 318590,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "So that's when I started."
+    } ]
+  }, {
+    "tStartMs": 322720,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "But I've been doing it consistently like this."
+    } ]
+  }, {
+    "tStartMs": 326270,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Duolingo definitely has a streak? A streak?"
+    } ]
+  }, {
+    "tStartMs": 330590,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "A streak, yes."
+    } ]
+  }, {
+    "tStartMs": 331420,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "Because of the streak, that's why you're keeping it up so consistently, it seems?"
+    } ]
+  }, {
+    "tStartMs": 335590,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "It feels bad when that goes away, you know?"
+    } ]
+  }, {
+    "tStartMs": 339940,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Right, because the record breaks."
+    } ]
+  }, {
+    "tStartMs": 341340,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "If you skip even one day,"
+    } ]
+  }, {
+    "tStartMs": 343350,
+    "dDurationMs": 410,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 343760,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Oh, because of that kind of mechanism..."
+    } ]
+  }, {
+    "tStartMs": 346340,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "What can I do, I'm so busy..."
+    } ]
+  }, {
+    "tStartMs": 349000,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "Yeah, right."
+    } ]
+  }, {
+    "tStartMs": 350270,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "So is there no \"fun\" in Tae-woong's life right now?"
+    } ]
+  }, {
+    "tStartMs": 354550,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "There's no fun in it, honestly...ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 357230,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "Fun, what else..."
+    } ]
+  }, {
+    "tStartMs": 359660,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Sometimes, not sometimes but often during lunch break,"
+    } ]
+  }, {
+    "tStartMs": 363500,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "I eat lunch quickly during that one hour lunch break"
+    } ]
+  }, {
+    "tStartMs": 368710,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "and take about a 10-minute walk in front of my house?"
+    } ]
+  }, {
+    "tStartMs": 370510,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Ah, a walk..."
+    } ]
+  }, {
+    "tStartMs": 372130,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋ Yes, about 10 minutes"
+    } ]
+  }, {
+    "tStartMs": 374570,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "Ah, that's so small and precious"
+    } ]
+  }, {
+    "tStartMs": 378540,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "What can you do, you're working hard"
+    } ]
+  }, {
+    "tStartMs": 381570,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 382870,
+    "dDurationMs": 5550,
+    "segs": [ {
+      "utf8": "Your current hobby, so apart from your current hobby, is there something you've done for a long time?"
+    } ]
+  }, {
+    "tStartMs": 388420,
+    "dDurationMs": 5110,
+    "segs": [ {
+      "utf8": "As a hobby of mine, what would be something I could say I've done consistently for a long time?"
+    } ]
+  }, {
+    "tStartMs": 393530,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "Done for a long time?"
+    } ]
+  }, {
+    "tStartMs": 394410,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Something you've done consistently for a while?"
+    } ]
+  }, {
+    "tStartMs": 398690,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Beat-making? Music?"
+    } ]
+  }, {
+    "tStartMs": 400840,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 402560,
+    "dDurationMs": 7650,
+    "segs": [ {
+      "utf8": "I was really interested in making music, songs, compositions,"
+    } ]
+  }, {
+    "tStartMs": 410210,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "so I did that for quite a long time, several years"
+    } ]
+  }, {
+    "tStartMs": 413860,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "I studied and also made things myself"
+    } ]
+  }, {
+    "tStartMs": 416740,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Right, right"
+    } ]
+  }, {
+    "tStartMs": 420800,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "So all the BGM that appears on my YouTube, I made all of it"
+    } ]
+  }, {
+    "tStartMs": 424920,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 426560,
+    "dDurationMs": 950,
+    "segs": [ {
+      "utf8": "Yes, yes"
+    } ]
+  }, {
+    "tStartMs": 427510,
+    "dDurationMs": 1330,
+    "segs": [ {
+      "utf8": "That's amazing"
+    } ]
+  }, {
+    "tStartMs": 428840,
+    "dDurationMs": 650,
+    "segs": [ {
+      "utf8": "I'm jealous"
+    } ]
+  }, {
+    "tStartMs": 429490,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "The ending songs and things like that"
+    } ]
+  }, {
+    "tStartMs": 431660,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "That's such a useful hobby"
+    } ]
+  }, {
+    "tStartMs": 433890,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "Right, it's fun, it's really fun"
+    } ]
+  }, {
+    "tStartMs": 435770,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Oh, so if I could, it would be really nice"
+    } ]
+  }, {
+    "tStartMs": 440510,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "I recommend it"
+    } ]
+  }, {
+    "tStartMs": 442060,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "You have to learn a special program for that, right?"
+    } ]
+  }, {
+    "tStartMs": 445500,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "Um..."
+    } ]
+  }, {
+    "tStartMs": 446780,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "Right, to really make a beat you have to make it with a program,"
+    } ]
+  }, {
+    "tStartMs": 453620,
+    "dDurationMs": 2590,
+    "segs": [ {
+      "utf8": "but you know, music"
+    } ]
+  }, {
+    "tStartMs": 456210,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "actually, you can do it with just a person's voice, can't you?"
+    } ]
+  }, {
+    "tStartMs": 459730,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "That's true, but it's difficult"
+    } ]
+  }, {
+    "tStartMs": 463270,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "it's difficult to do well"
+    } ]
+  }, {
+    "tStartMs": 465740,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "Beat-making is a bit composition,"
+    } ]
+  }, {
+    "tStartMs": 467750,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "is it the same as making a song? How is it?"
+    } ]
+  }, {
+    "tStartMs": 472520,
+    "dDurationMs": 7000,
+    "segs": [ {
+      "utf8": "It's similar, but composition seems like a broader concept"
+    } ]
+  }, {
+    "tStartMs": 479520,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "it's literally making a song, a piece of music,"
+    } ]
+  }, {
+    "tStartMs": 484550,
+    "dDurationMs": 2260,
+    "segs": [ {
+      "utf8": "beat-making is literally"
+    } ]
+  }, {
+    "tStartMs": 486810,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "just if you make a bit of a beat..."
+    } ]
+  }, {
+    "tStartMs": 490140,
+    "dDurationMs": 7020,
+    "segs": [ {
+      "utf8": "🥁boom-chick tack-chick🥁 if you just make a beat like this... how should I put it"
+    } ]
+  }, {
+    "tStartMs": 497160,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "you could say it's beat-making to that degree?"
+    } ]
+  }, {
+    "tStartMs": 502100,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "really, just having a beat"
+    } ]
+  }, {
+    "tStartMs": 504100,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "Yes, yes, it's a bit easier"
+    } ]
+  }, {
+    "tStartMs": 508160,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "How did you get into beat-making?"
+    } ]
+  }, {
+    "tStartMs": 511010,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "I just like listening to music"
+    } ]
+  }, {
+    "tStartMs": 514080,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Music with that kind of beat?"
+    } ]
+  }, {
+    "tStartMs": 516100,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Uh, yes"
+    } ]
+  }, {
+    "tStartMs": 517840,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Songs with good compositions"
+    } ]
+  }, {
+    "tStartMs": 520380,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Songs with good compositions?"
+    } ]
+  }, {
+    "tStartMs": 521890,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "Good beat... I mean, even if the lyrics or"
+    } ]
+  }, {
+    "tStartMs": 526800,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "the singing ability of the person singing isn't that outstanding,"
+    } ]
+  }, {
+    "tStartMs": 532010,
+    "dDurationMs": 6840,
+    "segs": [ {
+      "utf8": "the instruments playing underneath are so nice to listen to, you know?"
+    } ]
+  }, {
+    "tStartMs": 538850,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 539840,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "But I found myself really drawn to that kind of thing"
+    } ]
+  }, {
+    "tStartMs": 544350,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "and then because I liked it so much, I wanted to try doing it myself"
+    } ]
+  }, {
+    "tStartMs": 548630,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "That's how it happened"
+    } ]
+  }, {
+    "tStartMs": 550300,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "You don't do it these days? Beatmaking?"
+    } ]
+  }, {
+    "tStartMs": 552030,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "Oh, well, probably when doing the podcast"
+    } ]
+  }, {
+    "tStartMs": 556630,
+    "dDurationMs": 1640,
+    "segs": [ {
+      "utf8": "But it seems like it's been quite a while"
+    } ]
+  }, {
+    "tStartMs": 558270,
+    "dDurationMs": 610,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 558880,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "It feels like it's been about 1 to 2 years since I haven't done it"
+    } ]
+  }, {
+    "tStartMs": 563490,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "Of course, if I do it again, I will — but why?"
+    } ]
+  }, {
+    "tStartMs": 565660,
+    "dDurationMs": 4790,
+    "segs": [ {
+      "utf8": "Was there some moment when your interest decreased a bit?"
+    } ]
+  }, {
+    "tStartMs": 570450,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "I don't think that's it, it's just..."
+    } ]
+  }, {
+    "tStartMs": 573300,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Ah! For me to do it even a little"
+    } ]
+  }, {
+    "tStartMs": 577400,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "I have to mentally prepare myself for it, with everything"
+    } ]
+  }, {
+    "tStartMs": 581650,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Like, if I just casually"
+    } ]
+  }, {
+    "tStartMs": 584900,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "turn on my laptop or computer and start working right away"
+    } ]
+  }, {
+    "tStartMs": 589050,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "even if I don't finish making something, I can do it"
+    } ]
+  }, {
+    "tStartMs": 592020,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "but I have to keep preparing myself mentally"
+    } ]
+  }, {
+    "tStartMs": 594730,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "I need to have plenty of time, and I need to be able to concentrate"
+    } ]
+  }, {
+    "tStartMs": 598890,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "and I need to have no other worries"
+    } ]
+  }, {
+    "tStartMs": 600210,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "and then I'm like, I'll do it then!"
+    } ]
+  }, {
+    "tStartMs": 603810,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "so I end up not being able to do it easily"
+    } ]
+  }, {
+    "tStartMs": 606460,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "Was beatmaking especially like that?"
+    } ]
+  }, {
+    "tStartMs": 609120,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 610500,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Well, I think a lot of hobbies were like that too, when I think about it"
+    } ]
+  }, {
+    "tStartMs": 614080,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 615330,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 616770,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "But I don't know much about beatmaking either"
+    } ]
+  }, {
+    "tStartMs": 619960,
+    "dDurationMs": 5050,
+    "segs": [ {
+      "utf8": "but it seems like something you have to approach seriously"
+    } ]
+  }, {
+    "tStartMs": 625010,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "so like, just watching videos"
+    } ]
+  }, {
+    "tStartMs": 626670,
+    "dDurationMs": 5070,
+    "segs": [ {
+      "utf8": "you can fit hobbies like that into your daily life, right?"
+    } ]
+  }, {
+    "tStartMs": 631740,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "That's true, that's correct"
+    } ]
+  }, {
+    "tStartMs": 632880,
+    "dDurationMs": 4690,
+    "segs": [ {
+      "utf8": "Since it requires a lot of time and effort, there weren't many opportunities like that for you"
+    } ]
+  }, {
+    "tStartMs": 637570,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 638940,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 640360,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "Since I talked about mine, should I hear about yours, Didi?"
+    } ]
+  }, {
+    "tStartMs": 644030,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "My hobby? What are you curious about?"
+    } ]
+  }, {
+    "tStartMs": 647770,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "Current hobby or hobbies from the past?"
+    } ]
+  }, {
+    "tStartMs": 653290,
+    "dDurationMs": 2760,
+    "segs": [ {
+      "utf8": "Let's talk about my current hobby first"
+    } ]
+  }, {
+    "tStartMs": 656050,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "I've thought a lot about my current hobby"
+    } ]
+  }, {
+    "tStartMs": 659760,
+    "dDurationMs": 4700,
+    "segs": [ {
+      "utf8": "when people ask me, \"What's your hobby?\" I wonder what to say"
+    } ]
+  }, {
+    "tStartMs": 664460,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "but no matter how much I think about it, for me it's making videos"
+    } ]
+  }, {
+    "tStartMs": 668400,
+    "dDurationMs": 5350,
+    "segs": [ {
+      "utf8": "and watching videos, making videos after watching them — that's my hobby"
+    } ]
+  }, {
+    "tStartMs": 673750,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "this has been my hobby for a really long time and now it's become work"
+    } ]
+  }, {
+    "tStartMs": 678200,
+    "dDurationMs": 4410,
+    "segs": [ {
+      "utf8": "but since I still enjoy doing it"
+    } ]
+  }, {
+    "tStartMs": 682610,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "I do it as both work and hobby"
+    } ]
+  }, {
+    "tStartMs": 684350,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "watching videos is like watching movies, watching anime, watching dramas"
+    } ]
+  }, {
+    "tStartMs": 688520,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "watching YouTube and stuff, it's so fun"
+    } ]
+  }, {
+    "tStartMs": 693790,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "I'm not sure if this is only like this in Korea"
+    } ]
+  }, {
+    "tStartMs": 697900,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "I'm not sure if there's a cultural difference between Korea and other countries"
+    } ]
+  }, {
+    "tStartMs": 701990,
+    "dDurationMs": 3590,
+    "segs": [ {
+      "utf8": "but when someone asks like that, \"What's your hobby?\""
+    } ]
+  }, {
+    "tStartMs": 705580,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "doesn't it feel like there's a burden that comes up?"
+    } ]
+  }, {
+    "tStartMs": 709910,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "That's right, that's right"
+    } ]
+  }, {
+    "tStartMs": 711220,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "I wanted to talk about that today too"
+    } ]
+  }, {
+    "tStartMs": 714370,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Korea is a bit... it might not be just Korea"
+    } ]
+  }, {
+    "tStartMs": 719020,
+    "dDurationMs": 6760,
+    "segs": [ {
+      "utf8": "\"What's your hobby?\" isn't really asking \"What do you do when you rest?\" but rather"
+    } ]
+  }, {
+    "tStartMs": 725780,
+    "dDurationMs": 5710,
+    "segs": [ {
+      "utf8": "\"What are you good at? What are you good at besides work?\" it seems like that's what they're asking"
+    } ]
+  }, {
+    "tStartMs": 731490,
+    "dDurationMs": 1580,
+    "segs": [ {
+      "utf8": "kind of that feeling?"
+    } ]
+  }, {
+    "tStartMs": 733070,
+    "dDurationMs": 6180,
+    "segs": [ {
+      "utf8": "and if you say \"I just watch movies\" you feel like you become a boring person?"
+    } ]
+  }, {
+    "tStartMs": 739250,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "Yeah, there's a bit of that too"
+    } ]
+  }, {
+    "tStartMs": 740940,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "like, no fun! that kind of feeling"
+    } ]
+  }, {
+    "tStartMs": 743810,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "and when talking about a hobby..."
+    } ]
+  }, {
+    "tStartMs": 749470,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "they expect you to be doing some kind of productive activity"
+    } ]
+  }, {
+    "tStartMs": 753650,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Yeah, even though it's something you do when you rest"
+    } ]
+  }, {
+    "tStartMs": 755940,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 757660,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "So Korea is really a tiring society."
+    } ]
+  }, {
+    "tStartMs": 762210,
+    "dDurationMs": 6550,
+    "segs": [ {
+      "utf8": "It feels like there's pressure to create hobbies too..."
+    } ]
+  }, {
+    "tStartMs": 768760,
+    "dDurationMs": 4680,
+    "segs": [ {
+      "utf8": "Especially when you go to work or something, people ask what your hobbies are a lot."
+    } ]
+  }, {
+    "tStartMs": 773440,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 774560,
+    "dDurationMs": 4600,
+    "segs": [ {
+      "utf8": "It seems like they want to know your interests,"
+    } ]
+  }, {
+    "tStartMs": 779160,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "how hard you're working at life,"
+    } ]
+  }, {
+    "tStartMs": 780980,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "whether you're someone with something unique about you or not,"
+    } ]
+  }, {
+    "tStartMs": 784440,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "it seems like they want to figure out things like that."
+    } ]
+  }, {
+    "tStartMs": 789710,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "When that happens, is there a fun kind of answer you could give?"
+    } ]
+  }, {
+    "tStartMs": 793430,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Like hobbies that seem impressive when you say \"that's my hobby.\""
+    } ]
+  }, {
+    "tStartMs": 797560,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "There are a few."
+    } ]
+  }, {
+    "tStartMs": 798750,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "The typical one is like reading?"
+    } ]
+  }, {
+    "tStartMs": 800410,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Kind of like \"I read books 😎\"..."
+    } ]
+  }, {
+    "tStartMs": 803680,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "What do you think? (- It's not fun.) Not really?"
+    } ]
+  }, {
+    "tStartMs": 807840,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "Oh but it does seem impressive, doesn't it?"
+    } ]
+  }, {
+    "tStartMs": 810660,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "Doesn't it? (- Is that so?) I thought so."
+    } ]
+  }, {
+    "tStartMs": 814610,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Oh is that so?"
+    } ]
+  }, {
+    "tStartMs": 816880,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "Is it different if someone reads a lot of books?"
+    } ]
+  }, {
+    "tStartMs": 819420,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "I have one thing that comes to mind."
+    } ]
+  }, {
+    "tStartMs": 823160,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 824160,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "It was actually a hobby I had,"
+    } ]
+  }, {
+    "tStartMs": 826560,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "Ooh..."
+    } ]
+  }, {
+    "tStartMs": 828830,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I'll listen."
+    } ]
+  }, {
+    "tStartMs": 830030,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "It was a hobby I had last winter."
+    } ]
+  }, {
+    "tStartMs": 832190,
+    "dDurationMs": 1150,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 833340,
+    "dDurationMs": 4630,
+    "segs": [ {
+      "utf8": "Around 9 or 10 at night, late at night,"
+    } ]
+  }, {
+    "tStartMs": 837970,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "I'd go out to a seaside promenade..."
+    } ]
+  }, {
+    "tStartMs": 842830,
+    "dDurationMs": 5190,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋ That's already a scam, where's the beach around here?"
+    } ]
+  }, {
+    "tStartMs": 848020,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "Yes, the beach."
+    } ]
+  }, {
+    "tStartMs": 848760,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "I'd go out to the seaside promenade,"
+    } ]
+  }, {
+    "tStartMs": 850750,
+    "dDurationMs": 5540,
+    "segs": [ {
+      "utf8": "and go to a place away from the building lights,"
+    } ]
+  }, {
+    "tStartMs": 856290,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "A dark place?"
+    } ]
+  }, {
+    "tStartMs": 857540,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Yes, to a dark place,"
+    } ]
+  }, {
+    "tStartMs": 859740,
+    "dDurationMs": 7010,
+    "segs": [ {
+      "utf8": "and my hobby was admiring the stars floating above the night sea with waves."
+    } ]
+  }, {
+    "tStartMs": 868410,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Romance overdose."
+    } ]
+  }, {
+    "tStartMs": 870430,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "Romance lethal dose. (- Overdose, overdose.)"
+    } ]
+  }, {
+    "tStartMs": 874080,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "On that promenade, I'd rest my arm like this,"
+    } ]
+  }, {
+    "tStartMs": 878480,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "and sit leaning against it, just quietly looking up at the sky,"
+    } ]
+  }, {
+    "tStartMs": 882900,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "and sometimes I'd rest my chin like this,"
+    } ]
+  }, {
+    "tStartMs": 887650,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "and not all the stars are visible at once."
+    } ]
+  }, {
+    "tStartMs": 890940,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "But when you quietly look at the sky like that,"
+    } ]
+  }, {
+    "tStartMs": 894150,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "more and more stars become visible."
+    } ]
+  }, {
+    "tStartMs": 896700,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Right, your eyes get used to it."
+    } ]
+  }, {
+    "tStartMs": 899550,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 901270,
+    "dDurationMs": 7030,
+    "segs": [ {
+      "utf8": "So when I look at those stars and listen to the sound of the waves,"
+    } ]
+  }, {
+    "tStartMs": 908300,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "I think \"I'm just one speck of dust in the universe.\""
+    } ]
+  }, {
+    "tStartMs": 912060,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "You're quite the sensitive boy."
+    } ]
+  }, {
+    "tStartMs": 914230,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 914980,
+    "dDurationMs": 6010,
+    "segs": [ {
+      "utf8": "\"Don't stress about useless things in this world.\""
+    } ]
+  }, {
+    "tStartMs": 920990,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "\"Look at those stars, we're nothing.\" Like that."
+    } ]
+  }, {
+    "tStartMs": 926390,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "That was my hobby."
+    } ]
+  }, {
+    "tStartMs": 927660,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "That's an amazing hobby..."
+    } ]
+  }, {
+    "tStartMs": 929510,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "It's quite impressive, actually."
+    } ]
+  }, {
+    "tStartMs": 931790,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "It's a hobby that makes you excited just thinking about it."
+    } ]
+  }, {
+    "tStartMs": 934400,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "I want to do it too."
+    } ]
+  }, {
+    "tStartMs": 935690,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "Next time someone asks what your hobby is, try answering like that."
+    } ]
+  }, {
+    "tStartMs": 940570,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "There's no beach around here."
+    } ]
+  }, {
+    "tStartMs": 942890,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "Only possible if you're from Busan..."
+    } ]
+  }, {
+    "tStartMs": 944510,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "Well, I mean... I just go up to the rooftop of a tall building and look at it."
+    } ]
+  }, {
+    "tStartMs": 949760,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "Is stargazing your hobby?"
+    } ]
+  }, {
+    "tStartMs": 952490,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 954140,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "You're not joking?"
+    } ]
+  }, {
+    "tStartMs": 955330,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "I'm not joking."
+    } ]
+  }, {
+    "tStartMs": 956620,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Wow..."
+    } ]
+  }, {
+    "tStartMs": 957790,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "When you answer like that, I'm like, what is this guy? Like this..."
+    } ]
+  }, {
+    "tStartMs": 961870,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "What is this person? ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 965090,
+    "dDurationMs": 6470,
+    "segs": [ {
+      "utf8": "I usually just think about exercise, art, things like that."
+    } ]
+  }, {
+    "tStartMs": 971560,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Pretty simple."
+    } ]
+  }, {
+    "tStartMs": 972700,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Like climbing?"
+    } ]
+  }, {
+    "tStartMs": 974220,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Yeah ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 975740,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "It's something a lot of people do."
+    } ]
+  }, {
+    "tStartMs": 977200,
+    "dDurationMs": 1880,
+    "segs": [ {
+      "utf8": "That's right, the way you see it is different, isn't it?"
+    } ]
+  }, {
+    "tStartMs": 979080,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "You're going beyond that."
+    } ]
+  }, {
+    "tStartMs": 982470,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "That's not ordinary."
+    } ]
+  }, {
+    "tStartMs": 983300,
+    "dDurationMs": 1630,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 984930,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "That's interesting, but do you have another hobby, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 988130,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "Do I have another one? If I think about it, there probably is another one."
+    } ]
+  }, {
+    "tStartMs": 990200,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "If I think about it, there probably..."
+    } ]
+  }, {
+    "tStartMs": 991270,
+    "dDurationMs": 4430,
+    "segs": [ {
+      "utf8": "Yeah, right, but that kind of thing is a hobby too."
+    } ]
+  }, {
+    "tStartMs": 995700,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "Just when I'm not working."
+    } ]
+  }, {
+    "tStartMs": 998660,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "Quietly lying still alone under the blankets."
+    } ]
+  }, {
+    "tStartMs": 1003680,
+    "dDurationMs": 5860,
+    "segs": [ {
+      "utf8": "If you feel happiness and comfort there, then it can become a hobby."
+    } ]
+  }, {
+    "tStartMs": 1009540,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Under the blankets, just..."
+    } ]
+  }, {
+    "tStartMs": 1011870,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "But I think it changes a bit depending on how you express it."
+    } ]
+  }, {
+    "tStartMs": 1015840,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "If Teacher Tae-woong just expresses it simply,"
+    } ]
+  }, {
+    "tStartMs": 1018980,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "You could say 'I just take walks by the beach,'"
+    } ]
+  }, {
+    "tStartMs": 1025200,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "But it's fun to add a story to it too."
+    } ]
+  }, {
+    "tStartMs": 1027300,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1029090,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "So should we try adding a story?"
+    } ]
+  }, {
+    "tStartMs": 1030630,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "Just 'I don't really have a hobby,'"
+    } ]
+  }, {
+    "tStartMs": 1033410,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "So there are people who say their hobby is watching YouTube under the blankets."
+    } ]
+  }, {
+    "tStartMs": 1039810,
+    "dDurationMs": 7160,
+    "segs": [ {
+      "utf8": "Is there a way that person could explain it more romantically?"
+    } ]
+  }, {
+    "tStartMs": 1046970,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "What YouTube? What YouTube are you watching?"
+    } ]
+  }, {
+    "tStartMs": 1049660,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "What YouTube?"
+    } ]
+  }, {
+    "tStartMs": 1050940,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1051580,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Chim Chak Man?"
+    } ]
+  }, {
+    "tStartMs": 1052750,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "Chim Chak Man? Chim Chak Man is great, the best."
+    } ]
+  }, {
+    "tStartMs": 1055080,
+    "dDurationMs": 1010,
+    "segs": [ {
+      "utf8": "Funny stuff?"
+    } ]
+  }, {
+    "tStartMs": 1056090,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Funny stuff?"
+    } ]
+  }, {
+    "tStartMs": 1056840,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Funny videos."
+    } ]
+  }, {
+    "tStartMs": 1059830,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Ah, that's a bit hard to package up ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1063540,
+    "dDurationMs": 3040,
+    "segs": [ {
+      "utf8": "Is that so? Is that so?"
+    } ]
+  }, {
+    "tStartMs": 1066580,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "'On a cold winter day...' kind of like starting that way."
+    } ]
+  }, {
+    "tStartMs": 1069640,
+    "dDurationMs": 380,
+    "segs": [ {
+      "utf8": "On a cold winter day?"
+    } ]
+  }, {
+    "tStartMs": 1070020,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "On a cold winter day, you turn on the boiler at home,"
+    } ]
+  }, {
+    "tStartMs": 1074390,
+    "dDurationMs": 1070,
+    "segs": [ {
+      "utf8": "Turn on the electric heating pad,"
+    } ]
+  }, {
+    "tStartMs": 1075460,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "Get into warm blankets,"
+    } ]
+  }, {
+    "tStartMs": 1078690,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "And watch videos that just came up or..."
+    } ]
+  }, {
+    "tStartMs": 1083340,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Trends?"
+    } ]
+  }, {
+    "tStartMs": 1085330,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "To see what the current trends are..."
+    } ]
+  }, {
+    "tStartMs": 1089410,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "Oh, I was thinking about that too."
+    } ]
+  }, {
+    "tStartMs": 1093930,
+    "dDurationMs": 8500,
+    "segs": [ {
+      "utf8": "Watching videos come up and laughing and stuff like that is the hobby."
+    } ]
+  }, {
+    "tStartMs": 1102430,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "You could say the hobby is 'trend catching.'"
+    } ]
+  }, {
+    "tStartMs": 1106200,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "Trend catching..."
+    } ]
+  }, {
+    "tStartMs": 1109610,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "What do you call discovering things, uncovering them?"
+    } ]
+  }, {
+    "tStartMs": 1112480,
+    "dDurationMs": 890,
+    "segs": [ {
+      "utf8": "Digging."
+    } ]
+  }, {
+    "tStartMs": 1113370,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "Oh right, right, 'trend digging.'"
+    } ]
+  }, {
+    "tStartMs": 1115590,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "Trend digging."
+    } ]
+  }, {
+    "tStartMs": 1118200,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "You can package it like this too."
+    } ]
+  }, {
+    "tStartMs": 1119650,
+    "dDurationMs": 3650,
+    "segs": [ {
+      "utf8": "And I think it would work to say you do internet culture commentary."
+    } ]
+  }, {
+    "tStartMs": 1123300,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋ Commentary, yes, that sounds like it would work."
+    } ]
+  }, {
+    "tStartMs": 1127580,
+    "dDurationMs": 3970,
+    "segs": [ {
+      "utf8": "So Tae-woong, it seems like you've had various hobbies up until now."
+    } ]
+  }, {
+    "tStartMs": 1131550,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "It seems like you've had quite diverse interests."
+    } ]
+  }, {
+    "tStartMs": 1133620,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Do your hobbies tend to change quickly?"
+    } ]
+  }, {
+    "tStartMs": 1136120,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "Or do you tend to stick with one thing for a long time?"
+    } ]
+  }, {
+    "tStartMs": 1141440,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "It seems like my hobbies have changed quickly more often."
+    } ]
+  }, {
+    "tStartMs": 1149610,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "But as for the reason, I'm not sure."
+    } ]
+  }, {
+    "tStartMs": 1153600,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "I've often wanted to take things that I could learn"
+    } ]
+  }, {
+    "tStartMs": 1159170,
+    "dDurationMs": 4210,
+    "segs": [ {
+      "utf8": "and try them out as hobbies."
+    } ]
+  }, {
+    "tStartMs": 1163380,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "But learning isn't easy, you know?"
+    } ]
+  }, {
+    "tStartMs": 1165710,
+    "dDurationMs": 790,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 1166500,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "So then if I give up quickly, (- learning?)"
+    } ]
+  }, {
+    "tStartMs": 1170420,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "my hobby changes, you know. For example,"
+    } ]
+  }, {
+    "tStartMs": 1173530,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "like piano practice"
+    } ]
+  }, {
+    "tStartMs": 1176350,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "or maybe song practice"
+    } ]
+  }, {
+    "tStartMs": 1180700,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "or learning a foreign language, things like that?"
+    } ]
+  }, {
+    "tStartMs": 1184580,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "So Tae-woong, usually when you think 'that would be cool'"
+    } ]
+  }, {
+    "tStartMs": 1189290,
+    "dDurationMs": 4090,
+    "segs": [ {
+      "utf8": "or 'this is cool,' do you tend to try it out?"
+    } ]
+  }, {
+    "tStartMs": 1193380,
+    "dDurationMs": 1790,
+    "segs": [ {
+      "utf8": "When it comes to hobbies?"
+    } ]
+  }, {
+    "tStartMs": 1195170,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Absolutely."
+    } ]
+  }, {
+    "tStartMs": 1196150,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "The moment you see it?"
+    } ]
+  }, {
+    "tStartMs": 1198290,
+    "dDurationMs": 830,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1199120,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "So that's how you end up learning."
+    } ]
+  }, {
+    "tStartMs": 1201860,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 1204130,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "I think I'm more of a person who sticks with one thing for a long time."
+    } ]
+  }, {
+    "tStartMs": 1208050,
+    "dDurationMs": 5330,
+    "segs": [ {
+      "utf8": "The hobbies I've had haven't really changed much."
+    } ]
+  }, {
+    "tStartMs": 1213380,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "And making videos too,"
+    } ]
+  }, {
+    "tStartMs": 1215150,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "I think I've been doing that for almost about 10 years."
+    } ]
+  }, {
+    "tStartMs": 1219290,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "When I was a student, I really liked drawing."
+    } ]
+  }, {
+    "tStartMs": 1222590,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "What kind of drawing?"
+    } ]
+  }, {
+    "tStartMs": 1224580,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Just like comics, drawing with friends"
+    } ]
+  }, {
+    "tStartMs": 1228510,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and various things. Back then oil painting?"
+    } ]
+  }, {
+    "tStartMs": 1231120,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "Oil pastels? Painting? Those kinds of things were trendy, so I tried those too."
+    } ]
+  }, {
+    "tStartMs": 1236630,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Back then it was drawing, but now that's shifted to video."
+    } ]
+  }, {
+    "tStartMs": 1241030,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "And I've been doing foreign languages for a long time too."
+    } ]
+  }, {
+    "tStartMs": 1242880,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "Foreign language hobbies as well."
+    } ]
+  }, {
+    "tStartMs": 1246190,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "I think I'm more of a person who does one thing for a long time."
+    } ]
+  }, {
+    "tStartMs": 1250030,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "I'm envious."
+    } ]
+  }, {
+    "tStartMs": 1251460,
+    "dDurationMs": 1120,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 1252580,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Doing something for that long means experience builds up so you can get good at it, right?"
+    } ]
+  }, {
+    "tStartMs": 1257300,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Oh right, right."
+    } ]
+  }, {
+    "tStartMs": 1261940,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So you pick one thing"
+    } ]
+  }, {
+    "tStartMs": 1264670,
+    "dDurationMs": 4510,
+    "segs": [ {
+      "utf8": "and do it until you're good at it."
+    } ]
+  }, {
+    "tStartMs": 1269180,
+    "dDurationMs": 6620,
+    "segs": [ {
+      "utf8": "I'm envious. I wish I had stuck with Japanese as a hobby consistently."
+    } ]
+  }, {
+    "tStartMs": 1275800,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "I'd probably be good at it by now..."
+    } ]
+  }, {
+    "tStartMs": 1279020,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "But Tae-woong, you're so busy doing other things."
+    } ]
+  }, {
+    "tStartMs": 1281720,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "There's nothing left."
+    } ]
+  }, {
+    "tStartMs": 1284220,
+    "dDurationMs": 2620,
+    "segs": [ {
+      "utf8": "What are you talking about? ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1286840,
+    "dDurationMs": 4550,
+    "segs": [ {
+      "utf8": "You're working so hard even now."
+    } ]
+  }, {
+    "tStartMs": 1291390,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 1292570,
+    "dDurationMs": 5720,
+    "segs": [ {
+      "utf8": "It seems like Tae-woong has a lot of ideas, so you change things quickly too."
+    } ]
+  }, {
+    "tStartMs": 1298290,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "That could be true."
+    } ]
+  }, {
+    "tStartMs": 1301180,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "And what you think is cool changes quickly too."
+    } ]
+  }, {
+    "tStartMs": 1305210,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "So does that mean you're exposed to a lot of things?"
+    } ]
+  }, {
+    "tStartMs": 1307720,
+    "dDurationMs": 4770,
+    "segs": [ {
+      "utf8": "Right, you could say that."
+    } ]
+  }, {
+    "tStartMs": 1312490,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Where do those inspirations come from?"
+    } ]
+  }, {
+    "tStartMs": 1315760,
+    "dDurationMs": 3300,
+    "segs": [ {
+      "utf8": "Conversations with people? Media?"
+    } ]
+  }, {
+    "tStartMs": 1319060,
+    "dDurationMs": 4460,
+    "segs": [ {
+      "utf8": "It seems like it's mostly media."
+    } ]
+  }, {
+    "tStartMs": 1323520,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "What about Japanese, which you're doing now?"
+    } ]
+  }, {
+    "tStartMs": 1326180,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Japanese?"
+    } ]
+  }, {
+    "tStartMs": 1327620,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "Did you think about it after watching movies or something like that?"
+    } ]
+  }, {
+    "tStartMs": 1330760,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "That's not it, it's not Japanese."
+    } ]
+  }, {
+    "tStartMs": 1332670,
+    "dDurationMs": 5890,
+    "segs": [ {
+      "utf8": "The reason I want to learn Japanese is"
+    } ]
+  }, {
+    "tStartMs": 1338560,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "Korea is actually like an island country, you know?"
+    } ]
+  }, {
+    "tStartMs": 1343420,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "Because North Korea is above our South Korea,"
+    } ]
+  }, {
+    "tStartMs": 1347230,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "you have to take a plane to go anywhere."
+    } ]
+  }, {
+    "tStartMs": 1349390,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Yes, you absolutely have to take a plane,"
+    } ]
+  }, {
+    "tStartMs": 1352100,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "but Japan is the closest country, right?"
+    } ]
+  }, {
+    "tStartMs": 1355010,
+    "dDurationMs": 6860,
+    "segs": [ {
+      "utf8": "So if you know the language of the closest country well,"
+    } ]
+  }, {
+    "tStartMs": 1361870,
+    "dDurationMs": 1270,
+    "segs": [ {
+      "utf8": "it's the easiest country to visit,"
+    } ]
+  }, {
+    "tStartMs": 1363140,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "and you can experience more fun,"
+    } ]
+  }, {
+    "tStartMs": 1365930,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "and you can eat more delicious things too,"
+    } ]
+  }, {
+    "tStartMs": 1369720,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "and I think you can enjoy it more deeply and comfortably,"
+    } ]
+  }, {
+    "tStartMs": 1374810,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "so I keep thinking I always want to learn it."
+    } ]
+  }, {
+    "tStartMs": 1377980,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1378920,
+    "dDurationMs": 4820,
+    "segs": [ {
+      "utf8": "Also, the more you learn, the more you end up going."
+    } ]
+  }, {
+    "tStartMs": 1383740,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "I like that too."
+    } ]
+  }, {
+    "tStartMs": 1385300,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "One of the reasons I started learning Japanese was"
+    } ]
+  }, {
+    "tStartMs": 1388400,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "because I can go there often,"
+    } ]
+  }, {
+    "tStartMs": 1390460,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "but with English, I learned it and there's nowhere to use it."
+    } ]
+  }, {
+    "tStartMs": 1394840,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "Nowhere to use it."
+    } ]
+  }, {
+    "tStartMs": 1396960,
+    "dDurationMs": 3190,
+    "segs": [ {
+      "utf8": "No one to use it with and it's hard to find around me,"
+    } ]
+  }, {
+    "tStartMs": 1400150,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "but with Japan, so many people come here,"
+    } ]
+  }, {
+    "tStartMs": 1402500,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "and I can go there often too,"
+    } ]
+  }, {
+    "tStartMs": 1404320,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "right?"
+    } ]
+  }, {
+    "tStartMs": 1405370,
+    "dDurationMs": 5270,
+    "segs": [ {
+      "utf8": "So there are many opportunities to use it, it seems like a pretty good foreign language."
+    } ]
+  }, {
+    "tStartMs": 1410640,
+    "dDurationMs": 1810,
+    "segs": [ {
+      "utf8": "It's also easy for Korean people."
+    } ]
+  }, {
+    "tStartMs": 1412450,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Don't you have any plans to learn it? Seriously?"
+    } ]
+  }, {
+    "tStartMs": 1415290,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Oh well, I'm doing Duolingo seriously too,"
+    } ]
+  }, {
+    "tStartMs": 1419930,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "one minute a day. [laughs]"
+    } ]
+  }, {
+    "tStartMs": 1421940,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "And sometimes... I listen to Japanese podcasts too."
+    } ]
+  }, {
+    "tStartMs": 1426660,
+    "dDurationMs": 680,
+    "segs": [ {
+      "utf8": "Which one?"
+    } ]
+  }, {
+    "tStartMs": 1427340,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "I don't listen to podcasts,"
+    } ]
+  }, {
+    "tStartMs": 1430360,
+    "dDurationMs": 4930,
+    "segs": [ {
+      "utf8": "I listen to MP3 files from Japanese learning books."
+    } ]
+  }, {
+    "tStartMs": 1435290,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Oh I see."
+    } ]
+  }, {
+    "tStartMs": 1437340,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "Fuji Asari sensei's \"Japanese, Just Follow Along,\""
+    } ]
+  }, {
+    "tStartMs": 1442430,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "you know?"
+    } ]
+  }, {
+    "tStartMs": 1444180,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "I listen to it from time to time."
+    } ]
+  }, {
+    "tStartMs": 1445680,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 1447380,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Yeah, you're doing well."
+    } ]
+  }, {
+    "tStartMs": 1449180,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  }, {
+    "tStartMs": 1451740,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Actually, I sometimes think like this,"
+    } ]
+  }, {
+    "tStartMs": 1454830,
+    "dDurationMs": 6220,
+    "segs": [ {
+      "utf8": "I want to learn Japanese and Chinese together too."
+    } ]
+  }, {
+    "tStartMs": 1461050,
+    "dDurationMs": 1910,
+    "segs": [ {
+      "utf8": "I also want to learn Chinese."
+    } ]
+  }, {
+    "tStartMs": 1462960,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "Learning all the East Asian languages, you know?"
+    } ]
+  }, {
+    "tStartMs": 1466590,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1467500,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "I want to learn all of them like that..."
+    } ]
+  }, {
+    "tStartMs": 1470060,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "and later I want to become a spy."
+    } ]
+  }, {
+    "tStartMs": 1474320,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Who would hire you?"
+    } ]
+  }, {
+    "tStartMs": 1478530,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "If you're good at it, couldn't you do it?"
+    } ]
+  }, {
+    "tStartMs": 1480970,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "What kind of spy?"
+    } ]
+  }, {
+    "tStartMs": 1482270,
+    "dDurationMs": 1530,
+    "segs": [ {
+      "utf8": "I don't know, just any kind?"
+    } ]
+  }, {
+    "tStartMs": 1486300,
+    "dDurationMs": 4070,
+    "segs": [ {
+      "utf8": "Why? Did you watch another movie?"
+    } ]
+  }, {
+    "tStartMs": 1490370,
+    "dDurationMs": 5130,
+    "segs": [ {
+      "utf8": "This isn't really related to spies,"
+    } ]
+  }, {
+    "tStartMs": 1495500,
+    "dDurationMs": 6800,
+    "segs": [ {
+      "utf8": "but there's a movie called \"Inglourious Basterds\" by director Quentin Tarantino,"
+    } ]
+  }, {
+    "tStartMs": 1502300,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "and I really love it so I've watched it several times,"
+    } ]
+  }, {
+    "tStartMs": 1504390,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "you really love it, don't you?"
+    } ]
+  }, {
+    "tStartMs": 1506470,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "But the character I like the most in it"
+    } ]
+  }, {
+    "tStartMs": 1510160,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "is a character named Hans Landa,"
+    } ]
+  }, {
+    "tStartMs": 1512260,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "That character can speak many different languages."
+    } ]
+  }, {
+    "tStartMs": 1517220,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "German,"
+    } ]
+  }, {
+    "tStartMs": 1518260,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "English of course,"
+    } ]
+  }, {
+    "tStartMs": 1520530,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "Italian... and just like that, many different languages,"
+    } ]
+  }, {
+    "tStartMs": 1524720,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "French too."
+    } ]
+  }, {
+    "tStartMs": 1527600,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "But during that World War 2,"
+    } ]
+  }, {
+    "tStartMs": 1531960,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "there are spies,"
+    } ]
+  }, {
+    "tStartMs": 1534130,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "and people who hide their country and things like that,"
+    } ]
+  }, {
+    "tStartMs": 1538180,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "and that Hans Landa uses that language"
+    } ]
+  }, {
+    "tStartMs": 1542940,
+    "dDurationMs": 5990,
+    "segs": [ {
+      "utf8": "to figure out \"that person is a spy, that person is lying,\""
+    } ]
+  }, {
+    "tStartMs": 1548930,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "he finds out these kinds of things really well."
+    } ]
+  }, {
+    "tStartMs": 1552300,
+    "dDurationMs": 5660,
+    "segs": [ {
+      "utf8": "So in that movie he appears as a really evil villain,"
+    } ]
+  }, {
+    "tStartMs": 1557960,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "but that person's most terrifying ability"
+    } ]
+  }, {
+    "tStartMs": 1560910,
+    "dDurationMs": 3460,
+    "segs": [ {
+      "utf8": "is that language ability."
+    } ]
+  }, {
+    "tStartMs": 1564370,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "It feels like a superpower."
+    } ]
+  }, {
+    "tStartMs": 1566370,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 1567970,
+    "dDurationMs": 5210,
+    "segs": [ {
+      "utf8": "It's the ability to know that language and culture well."
+    } ]
+  }, {
+    "tStartMs": 1573180,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "Yeah."
+    } ]
+  }, {
+    "tStartMs": 1575030,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "But that movie itself"
+    } ]
+  }, {
+    "tStartMs": 1577050,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "is actually a movie about language and culture like that."
+    } ]
+  }, {
+    "tStartMs": 1580000,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1581210,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "It's not just a war movie,"
+    } ]
+  }, {
+    "tStartMs": 1583420,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "I should watch it."
+    } ]
+  }, {
+    "tStartMs": 1584620,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "It's really fun, it really is."
+    } ]
+  }, {
+    "tStartMs": 1585850,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "I still haven't seen it haha."
+    } ]
+  }, {
+    "tStartMs": 1588910,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Anyway, but whenever I see that character,"
+    } ]
+  }, {
+    "tStartMs": 1592830,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "\"Wow, that's power.\""
+    } ]
+  }, {
+    "tStartMs": 1598570,
+    "dDurationMs": 730,
+    "segs": [ {
+      "utf8": "That is power."
+    } ]
+  }, {
+    "tStartMs": 1599300,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "It's so strong."
+    } ]
+  }, {
+    "tStartMs": 1600660,
+    "dDurationMs": 6380,
+    "segs": [ {
+      "utf8": "So in my case, since I'm an Asian, an Oriental person,"
+    } ]
+  }, {
+    "tStartMs": 1607040,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "if I get good at Japanese and Chinese, how about doing my hair a bit,"
+    } ]
+  }, {
+    "tStartMs": 1611750,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "like with an ikemen cut,"
+    } ]
+  }, {
+    "tStartMs": 1614980,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "and pretend to be Japanese a bit,"
+    } ]
+  }, {
+    "tStartMs": 1618870,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "and also do a Chinese style,"
+    } ]
+  }, {
+    "tStartMs": 1620850,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "I thought it would be fun in Chinese culture like that."
+    } ]
+  }, {
+    "tStartMs": 1626110,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "I could gain power."
+    } ]
+  }, {
+    "tStartMs": 1627940,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1628800,
+    "dDurationMs": 1160,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 1629960,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "I keep thinking like this."
+    } ]
+  }, {
+    "tStartMs": 1633980,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "You're like Power N."
+    } ]
+  }, {
+    "tStartMs": 1635470,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Yeah haha."
+    } ]
+  }, {
+    "tStartMs": 1638190,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "Right, that's true, so my hobbies keep increasing like this."
+    } ]
+  }, {
+    "tStartMs": 1642450,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1643510,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Only my interests are growing."
+    } ]
+  }, {
+    "tStartMs": 1644860,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "What do I do."
+    } ]
+  }, {
+    "tStartMs": 1646820,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "You should hurry and do Japanese and Chinese too."
+    } ]
+  }, {
+    "tStartMs": 1649380,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Yeah I should, let me finish Japanese first quickly,"
+    } ]
+  }, {
+    "tStartMs": 1653660,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "and I should do Chinese too."
+    } ]
+  }, {
+    "tStartMs": 1655140,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "But this is unrelated to hobbies,"
+    } ]
+  }, {
+    "tStartMs": 1657440,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "but hearing about that movie reminds me of something—"
+    } ]
+  }, {
+    "tStartMs": 1661020,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "sometimes language feels like a superpower."
+    } ]
+  }, {
+    "tStartMs": 1666020,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "Like when you watch comics or something, you use a superpower at just the right moment, right,"
+    } ]
+  }, {
+    "tStartMs": 1671530,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "you don't use it all the time,"
+    } ]
+  }, {
+    "tStartMs": 1673140,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "like \"teleportation, starting now!\" like that,"
+    } ]
+  }, {
+    "tStartMs": 1676040,
+    "dDurationMs": 5260,
+    "segs": [ {
+      "utf8": "but with foreign languages too, if you're not concentrating, sometimes you can't hear it,"
+    } ]
+  }, {
+    "tStartMs": 1681300,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "right?"
+    } ]
+  }, {
+    "tStartMs": 1682150,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "But now if I'm like \"let me listen,\" I can hear it,"
+    } ]
+  }, {
+    "tStartMs": 1687610,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "and that feels a bit like a superpower sometimes."
+    } ]
+  }, {
+    "tStartMs": 1690300,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "When I travel with friends who don't know that language,"
+    } ]
+  }, {
+    "tStartMs": 1693250,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "now I want to know what the person behind us is saying."
+    } ]
+  }, {
+    "tStartMs": 1696910,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "So like, \"wait, let me listen to this\" and then interpret it"
+    } ]
+  }, {
+    "tStartMs": 1701080,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "That felt like a superpower"
+    } ]
+  }, {
+    "tStartMs": 1703510,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "Right, right, and I'm sure the subscribers watching this"
+    } ]
+  }, {
+    "tStartMs": 1707520,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Are probably mostly learning Korean as a hobby, wouldn't you say?"
+    } ]
+  }, {
+    "tStartMs": 1712360,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "Yeah, that's true"
+    } ]
+  }, {
+    "tStartMs": 1713920,
+    "dDurationMs": 5150,
+    "segs": [ {
+      "utf8": "Most people listening probably, if you ask them what their hobby is"
+    } ]
+  }, {
+    "tStartMs": 1719070,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Would say Korean study"
+    } ]
+  }, {
+    "tStartMs": 1722520,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Things like listening to podcasts"
+    } ]
+  }, {
+    "tStartMs": 1725200,
+    "dDurationMs": 7170,
+    "segs": [ {
+      "utf8": "But the fact that you can learn Korean as a hobby and enjoy this podcast"
+    } ]
+  }, {
+    "tStartMs": 1732370,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "That really seems amazing"
+    } ]
+  }, {
+    "tStartMs": 1735470,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "Right, and it means you've spent a lot of time on it"
+    } ]
+  }, {
+    "tStartMs": 1738630,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Right"
+    } ]
+  }, {
+    "tStartMs": 1741400,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "It's impressive when you think about it"
+    } ]
+  }, {
+    "tStartMs": 1742770,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1744610,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "Have you had any hobbies recently that you picked up and then dropped"
+    } ]
+  }, {
+    "tStartMs": 1748660,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Or anything like that?"
+    } ]
+  }, {
+    "tStartMs": 1750460,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Something you picked up recently and then dropped"
+    } ]
+  }, {
+    "tStartMs": 1752760,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "Yes"
+    } ]
+  }, {
+    "tStartMs": 1754170,
+    "dDurationMs": 1290,
+    "segs": [ {
+      "utf8": "Well, when you put it that way"
+    } ]
+  }, {
+    "tStartMs": 1755460,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "The most recent hobby?"
+    } ]
+  }, {
+    "tStartMs": 1759190,
+    "dDurationMs": 3160,
+    "segs": [ {
+      "utf8": "I... it's getting smaller again"
+    } ]
+  }, {
+    "tStartMs": 1762350,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "Making exercise a hobby is my lifelong wish"
+    } ]
+  }, {
+    "tStartMs": 1766570,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "And my lifelong task"
+    } ]
+  }, {
+    "tStartMs": 1767940,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "But before I went to stay in Japan for a month, I was doing it pretty seriously"
+    } ]
+  }, {
+    "tStartMs": 1772340,
+    "dDurationMs": 2060,
+    "segs": [ {
+      "utf8": "I had a gym membership"
+    } ]
+  }, {
+    "tStartMs": 1774400,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "And I was getting personal training"
+    } ]
+  }, {
+    "tStartMs": 1776860,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "But then a gap opened up when I came back from Japan"
+    } ]
+  }, {
+    "tStartMs": 1780550,
+    "dDurationMs": 6630,
+    "segs": [ {
+      "utf8": "Now I'm at the point where I need to sign up again"
+    } ]
+  }, {
+    "tStartMs": 1787180,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Your situation sounds similar to mine"
+    } ]
+  }, {
+    "tStartMs": 1790310,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Why? Why?"
+    } ]
+  }, {
+    "tStartMs": 1791520,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Because the reason I chose hobbies as today's topic"
+    } ]
+  }, {
+    "tStartMs": 1796420,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "Was that when I was filming Yomojomo last time"
+    } ]
+  }, {
+    "tStartMs": 1799840,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "I was going swimming, right?"
+    } ]
+  }, {
+    "tStartMs": 1802620,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "So I was like, \"Should we do swimming as the topic?\" but then"
+    } ]
+  }, {
+    "tStartMs": 1806420,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "It became \"let's do hobbies\" so it's broader - right, a bit wider"
+    } ]
+  }, {
+    "tStartMs": 1810180,
+    "dDurationMs": 2780,
+    "segs": [ {
+      "utf8": "I see, so where did the swimming go?"
+    } ]
+  }, {
+    "tStartMs": 1812960,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "That swimming... I was going to morning swimming"
+    } ]
+  }, {
+    "tStartMs": 1816980,
+    "dDurationMs": 4760,
+    "segs": [ {
+      "utf8": "But then I ended up in a situation where I couldn't go in the mornings"
+    } ]
+  }, {
+    "tStartMs": 1821740,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Because you got busy?"
+    } ]
+  }, {
+    "tStartMs": 1822580,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Yes, I got so busy that I couldn't go at all"
+    } ]
+  }, {
+    "tStartMs": 1826290,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "So like a month or two?"
+    } ]
+  }, {
+    "tStartMs": 1827500,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Not even two months... I lasted a month and a half and then it ended"
+    } ]
+  }, {
+    "tStartMs": 1830210,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "Couldn't you do evening swimming instead if you had the time?"
+    } ]
+  }, {
+    "tStartMs": 1833870,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Evening doesn't work either"
+    } ]
+  }, {
+    "tStartMs": 1838530,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "How busy of a life are you living?"
+    } ]
+  }, {
+    "tStartMs": 1841640,
+    "dDurationMs": 3940,
+    "segs": [ {
+      "utf8": "Exactly, I'm barely squeezing in time for this podcast right now"
+    } ]
+  }, {
+    "tStartMs": 1845580,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "I'm really grateful...ㅋㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 1849180,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Swimming... but also it's winter"
+    } ]
+  }, {
+    "tStartMs": 1851730,
+    "dDurationMs": 4300,
+    "segs": [ {
+      "utf8": "It must be really hard, right? Winter swimming?"
+    } ]
+  }, {
+    "tStartMs": 1856030,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "No"
+    } ]
+  }, {
+    "tStartMs": 1857080,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "Is the water warm?"
+    } ]
+  }, {
+    "tStartMs": 1858280,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "Well, it's a bit cold when you first get in"
+    } ]
+  }, {
+    "tStartMs": 1862020,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "But it seems like warm water comes out"
+    } ]
+  }, {
+    "tStartMs": 1866380,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "I see"
+    } ]
+  }, {
+    "tStartMs": 1868360,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Yes, it's definitely an indoor sport"
+    } ]
+  }, {
+    "tStartMs": 1871040,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Getting into the water in winter and coming out wet"
+    } ]
+  }, {
+    "tStartMs": 1875440,
+    "dDurationMs": 4110,
+    "segs": [ {
+      "utf8": "And then having to walk outside again, that thought is kind of..."
+    } ]
+  }, {
+    "tStartMs": 1879550,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "But the inside of the pool is warm"
+    } ]
+  }, {
+    "tStartMs": 1883820,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Is it?"
+    } ]
+  }, {
+    "tStartMs": 1884670,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "Yes, it's not cold at all"
+    } ]
+  }, {
+    "tStartMs": 1886530,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "So it was a hobby you really enjoyed and did happily,"
+    } ]
+  }, {
+    "tStartMs": 1890030,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "but you couldn't do it because you got busy?"
+    } ]
+  }, {
+    "tStartMs": 1891870,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1892710,
+    "dDurationMs": 2050,
+    "segs": [ {
+      "utf8": "Ah, I see..."
+    } ]
+  }, {
+    "tStartMs": 1894760,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Swimming—there's actually a lot I could talk about,"
+    } ]
+  }, {
+    "tStartMs": 1898050,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "but anyway, to keep it brief,"
+    } ]
+  }, {
+    "tStartMs": 1901600,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "it was the first time I learned to swim after I was born."
+    } ]
+  }, {
+    "tStartMs": 1904100,
+    "dDurationMs": 1550,
+    "segs": [ {
+      "utf8": "Oh really?"
+    } ]
+  }, {
+    "tStartMs": 1905650,
+    "dDurationMs": 1390,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1907040,
+    "dDurationMs": 4990,
+    "segs": [ {
+      "utf8": "So for the first week,"
+    } ]
+  }, {
+    "tStartMs": 1912030,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "I was trembling about an hour before going to the pool."
+    } ]
+  }, {
+    "tStartMs": 1915080,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "I was scared, scared of getting into the water."
+    } ]
+  }, {
+    "tStartMs": 1917240,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "Really? You were nervous."
+    } ]
+  }, {
+    "tStartMs": 1919280,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "Yes, so at first,"
+    } ]
+  }, {
+    "tStartMs": 1922590,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "even putting my face in the water"
+    } ]
+  }, {
+    "tStartMs": 1925970,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "made my heart pound,"
+    } ]
+  }, {
+    "tStartMs": 1929190,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "it was pounding and scary,"
+    } ]
+  }, {
+    "tStartMs": 1932600,
+    "dDurationMs": 3530,
+    "segs": [ {
+      "utf8": "but then I got into it,"
+    } ]
+  }, {
+    "tStartMs": 1936130,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "and it became not so scary anymore."
+    } ]
+  }, {
+    "tStartMs": 1940320,
+    "dDurationMs": 2440,
+    "segs": [ {
+      "utf8": "Oh, so you're not trembling now?"
+    } ]
+  }, {
+    "tStartMs": 1942760,
+    "dDurationMs": 1670,
+    "segs": [ {
+      "utf8": "No, I'm not trembling and it's fun."
+    } ]
+  }, {
+    "tStartMs": 1944430,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 1945610,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "But unfortunately I had to stop."
+    } ]
+  }, {
+    "tStartMs": 1950220,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "How far did you learn?"
+    } ]
+  }, {
+    "tStartMs": 1952040,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "Just freestyle."
+    } ]
+  }, {
+    "tStartMs": 1953380,
+    "dDurationMs": 1460,
+    "segs": [ {
+      "utf8": "Freestyle."
+    } ]
+  }, {
+    "tStartMs": 1954840,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "Freestyle and also backstroke, the one you do lying on your back."
+    } ]
+  }, {
+    "tStartMs": 1957710,
+    "dDurationMs": 1190,
+    "segs": [ {
+      "utf8": "Backstroke too?"
+    } ]
+  }, {
+    "tStartMs": 1958900,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1960420,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "What do I do, butterfly and breaststroke are left..."
+    } ]
+  }, {
+    "tStartMs": 1963230,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 1964460,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "Once you're done with everything busy, you'll start again right away?"
+    } ]
+  }, {
+    "tStartMs": 1968260,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 1969010,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Ah... you can do it, you can do it."
+    } ]
+  }, {
+    "tStartMs": 1971760,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "I'll start again right away."
+    } ]
+  }, {
+    "tStartMs": 1973200,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "The reason exercise hasn't become a hobby for me is"
+    } ]
+  }, {
+    "tStartMs": 1977850,
+    "dDurationMs": 4260,
+    "segs": [ {
+      "utf8": "you said earlier that a hobby has to be fun, right?"
+    } ]
+  }, {
+    "tStartMs": 1982110,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "It's not fun."
+    } ]
+  }, {
+    "tStartMs": 1983290,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "So it doesn't seem like it can become a hobby."
+    } ]
+  }, {
+    "tStartMs": 1986650,
+    "dDurationMs": 540,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 1987190,
+    "dDurationMs": 5380,
+    "segs": [ {
+      "utf8": "That seems really difficult."
+    } ]
+  }, {
+    "tStartMs": 1992570,
+    "dDurationMs": 5080,
+    "segs": [ {
+      "utf8": "You have to get to the point where you feel the fun,"
+    } ]
+  }, {
+    "tStartMs": 1997650,
+    "dDurationMs": 2980,
+    "segs": [ {
+      "utf8": "but if you can't feel that fun, there's nothing you can do."
+    } ]
+  }, {
+    "tStartMs": 2000630,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 2002140,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "It just stays as a chore."
+    } ]
+  }, {
+    "tStartMs": 2003940,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2005430,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "So now, as a final question, we touched on this briefly earlier,"
+    } ]
+  }, {
+    "tStartMs": 2010880,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "that in Korean society there's a feeling that you have to have hobbies as an obligation,"
+    } ]
+  }, {
+    "tStartMs": 2016160,
+    "dDurationMs": 2470,
+    "segs": [ {
+      "utf8": "or a feeling that society is forcing it,"
+    } ]
+  }, {
+    "tStartMs": 2018630,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "like there's an atmosphere of \"you need to have a hobby,\""
+    } ]
+  }, {
+    "tStartMs": 2025030,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "so I'd like to talk about whether hobbies really have to exist,"
+    } ]
+  }, {
+    "tStartMs": 2029780,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "and discuss that."
+    } ]
+  }, {
+    "tStartMs": 2031650,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Do you really have to have a hobby?"
+    } ]
+  }, {
+    "tStartMs": 2033300,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "What do you think, Teacher Tae-woong?"
+    } ]
+  }, {
+    "tStartMs": 2036000,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "My thought is..."
+    } ]
+  }, {
+    "tStartMs": 2038090,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "Well... I'm not sure..."
+    } ]
+  }, {
+    "tStartMs": 2040400,
+    "dDurationMs": 5390,
+    "segs": [ {
+      "utf8": "But the thing is..."
+    } ]
+  }, {
+    "tStartMs": 2045790,
+    "dDurationMs": 4390,
+    "segs": [ {
+      "utf8": "well, my opinion isn't the right answer,"
+    } ]
+  }, {
+    "tStartMs": 2050180,
+    "dDurationMs": 8070,
+    "segs": [ {
+      "utf8": "but the problem is that the question itself seems a bit nonsensical."
+    } ]
+  }, {
+    "tStartMs": 2058250,
+    "dDurationMs": 1430,
+    "segs": [ {
+      "utf8": "In what sense?"
+    } ]
+  }, {
+    "tStartMs": 2059680,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "There's no way you don't have a hobby,"
+    } ]
+  }, {
+    "tStartMs": 2061990,
+    "dDurationMs": 4370,
+    "segs": [ {
+      "utf8": "so then, should you have a hobby? Or is it okay not to?"
+    } ]
+  }, {
+    "tStartMs": 2066360,
+    "dDurationMs": 4940,
+    "segs": [ {
+      "utf8": "Before thinking about that, do you think 'everyone has a hobby to begin with'?"
+    } ]
+  }, {
+    "tStartMs": 2071300,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "Like that?"
+    } ]
+  }, {
+    "tStartMs": 2072620,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2073470,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "I think so too."
+    } ]
+  }, {
+    "tStartMs": 2075420,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "Oh, really?"
+    } ]
+  }, {
+    "tStartMs": 2076510,
+    "dDurationMs": 2290,
+    "segs": [ {
+      "utf8": "Yes, yes, yes."
+    } ]
+  }, {
+    "tStartMs": 2078800,
+    "dDurationMs": 4140,
+    "segs": [ {
+      "utf8": "So since we think the same way,"
+    } ]
+  }, {
+    "tStartMs": 2082940,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "if we think about this question again with this idea here,"
+    } ]
+  }, {
+    "tStartMs": 2088120,
+    "dDurationMs": 3380,
+    "segs": [ {
+      "utf8": "then what this question is actually talking about is"
+    } ]
+  }, {
+    "tStartMs": 2091500,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "some kind of special hobby, a cool"
+    } ]
+  }, {
+    "tStartMs": 2096210,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "✌️hobby✌️"
+    } ]
+  }, {
+    "tStartMs": 2097580,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "✌️hobby✌️ — should you have one?"
+    } ]
+  }, {
+    "tStartMs": 2098930,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Yes, exactly."
+    } ]
+  }, {
+    "tStartMs": 2102570,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "Should we think about it that way? The question?"
+    } ]
+  }, {
+    "tStartMs": 2105360,
+    "dDurationMs": 2450,
+    "segs": [ {
+      "utf8": "Should we?"
+    } ]
+  }, {
+    "tStartMs": 2107810,
+    "dDurationMs": 910,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 2108720,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "Now, the reason why many people can't easily answer \"What's your hobby?\""
+    } ]
+  }, {
+    "tStartMs": 2114290,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "is mostly because it's just everyday life,"
+    } ]
+  }, {
+    "tStartMs": 2117080,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "so they don't think of it as a hobby."
+    } ]
+  }, {
+    "tStartMs": 2121410,
+    "dDurationMs": 5090,
+    "segs": [ {
+      "utf8": "For example, just looking at your phone — some people might call that a hobby,"
+    } ]
+  }, {
+    "tStartMs": 2126500,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "but for others it's just part of the daily routine."
+    } ]
+  }, {
+    "tStartMs": 2130430,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "But now, like, telling other people 'I'm someone interested in this'"
+    } ]
+  }, {
+    "tStartMs": 2135010,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "— whether you need to have that kind of hobby"
+    } ]
+  }, {
+    "tStartMs": 2138590,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "or if it's nice to have one, let's think about that again."
+    } ]
+  }, {
+    "tStartMs": 2143710,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "I think you don't need to have one."
+    } ]
+  }, {
+    "tStartMs": 2146290,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Why?"
+    } ]
+  }, {
+    "tStartMs": 2149280,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Do you really have to have one?"
+    } ]
+  }, {
+    "tStartMs": 2152990,
+    "dDurationMs": 4850,
+    "segs": [ {
+      "utf8": "Well... that's true, that's right, you don't need to."
+    } ]
+  }, {
+    "tStartMs": 2157840,
+    "dDurationMs": 3260,
+    "segs": [ {
+      "utf8": "Yes... I have another hobby!"
+    } ]
+  }, {
+    "tStartMs": 2161100,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 2162090,
+    "dDurationMs": 3930,
+    "segs": [ {
+      "utf8": "Going to the convenience store and buying snacks to eat."
+    } ]
+  }, {
+    "tStartMs": 2166020,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "It's a real hobby."
+    } ]
+  }, {
+    "tStartMs": 2167870,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "I often buy and eat them,"
+    } ]
+  }, {
+    "tStartMs": 2169700,
+    "dDurationMs": 1490,
+    "segs": [ {
+      "utf8": "and it's enjoyable,"
+    } ]
+  }, {
+    "tStartMs": 2171190,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "trying snacks I don't know."
+    } ]
+  }, {
+    "tStartMs": 2174610,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "It's a hobby of trying new snacks."
+    } ]
+  }, {
+    "tStartMs": 2178490,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "So how should I think about it?"
+    } ]
+  }, {
+    "tStartMs": 2180170,
+    "dDurationMs": 2230,
+    "segs": [ {
+      "utf8": "I have some here right now..."
+    } ]
+  }, {
+    "tStartMs": 2182400,
+    "dDurationMs": 1310,
+    "segs": [ {
+      "utf8": "Have you had anything delicious recently?"
+    } ]
+  }, {
+    "tStartMs": 2183710,
+    "dDurationMs": 1470,
+    "segs": [ {
+      "utf8": "Bintz matcha flavor."
+    } ]
+  }, {
+    "tStartMs": 2185180,
+    "dDurationMs": 3640,
+    "segs": [ {
+      "utf8": "Matcha flavor — I've seen that, I've seen that."
+    } ]
+  }, {
+    "tStartMs": 2188820,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "And there was something else interesting, Bintz"
+    } ]
+  }, {
+    "tStartMs": 2192240,
+    "dDurationMs": 1250,
+    "segs": [ {
+      "utf8": "sweet potato flavor maybe?"
+    } ]
+  }, {
+    "tStartMs": 2193490,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "There is sweet potato flavor, that's right."
+    } ]
+  }, {
+    "tStartMs": 2194890,
+    "dDurationMs": 1170,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 2196060,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "The focus isn't quite right."
+    } ]
+  }, {
+    "tStartMs": 2197460,
+    "dDurationMs": 1750,
+    "segs": [ {
+      "utf8": "Was the Bintz matcha pretty good?"
+    } ]
+  }, {
+    "tStartMs": 2199210,
+    "dDurationMs": 1340,
+    "segs": [ {
+      "utf8": "It's delicious."
+    } ]
+  }, {
+    "tStartMs": 2200550,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "You must like matcha."
+    } ]
+  }, {
+    "tStartMs": 2202690,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "It's just not bad, you know,"
+    } ]
+  }, {
+    "tStartMs": 2204510,
+    "dDurationMs": 1990,
+    "segs": [ {
+      "utf8": "Bintz..."
+    } ]
+  }, {
+    "tStartMs": 2206500,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "Let me show you another hobby of mine."
+    } ]
+  }, {
+    "tStartMs": 2210080,
+    "dDurationMs": 620,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2210700,
+    "dDurationMs": 2520,
+    "segs": [ {
+      "utf8": "This Bintz, you see,"
+    } ]
+  }, {
+    "tStartMs": 2213220,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "it's like this, how it looks,"
+    } ]
+  }, {
+    "tStartMs": 2216660,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "on top of this cracker biscuit,"
+    } ]
+  }, {
+    "tStartMs": 2219340,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "on top of the biscuit, there's chocolate spread like this,"
+    } ]
+  }, {
+    "tStartMs": 2223900,
+    "dDurationMs": 1960,
+    "segs": [ {
+      "utf8": "it looks like this."
+    } ]
+  }, {
+    "tStartMs": 2225860,
+    "dDurationMs": 1420,
+    "segs": [ {
+      "utf8": "It's a bit sophisticated."
+    } ]
+  }, {
+    "tStartMs": 2227280,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "Yeah, it's a bit sophisticated."
+    } ]
+  }, {
+    "tStartMs": 2229380,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "But when you look at it this carefully,"
+    } ]
+  }, {
+    "tStartMs": 2231720,
+    "dDurationMs": 5320,
+    "segs": [ {
+      "utf8": "there's more chocolate spread on the edge of this biscuit."
+    } ]
+  }, {
+    "tStartMs": 2237040,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "So the way I enjoy Pringles is,"
+    } ]
+  }, {
+    "tStartMs": 2241570,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "I eat the part where there's chocolate on the edge like this."
+    } ]
+  }, {
+    "tStartMs": 2248970,
+    "dDurationMs": 2900,
+    "segs": [ {
+      "utf8": "What do you mean, how do you eat it?"
+    } ]
+  }, {
+    "tStartMs": 2251870,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Oh, the part that sticks out?"
+    } ]
+  }, {
+    "tStartMs": 2254360,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Kind of like eating the crispy part off dalgona?"
+    } ]
+  }, {
+    "tStartMs": 2256520,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 2257150,
+    "dDurationMs": 4190,
+    "segs": [ {
+      "utf8": "I just snap off the part that sticks out on the edge."
+    } ]
+  }, {
+    "tStartMs": 2261340,
+    "dDurationMs": 4670,
+    "segs": [ {
+      "utf8": "So at first, you're eating just the chocolate without the biscuit."
+    } ]
+  }, {
+    "tStartMs": 2266010,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Oh, you enjoy the chocolate first?"
+    } ]
+  }, {
+    "tStartMs": 2268100,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Yes, like this, like this."
+    } ]
+  }, {
+    "tStartMs": 2271310,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Wait, while you're explaining, you're naturally eating the snack..."
+    } ]
+  }, {
+    "tStartMs": 2275960,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "Aren't you having a sugar craving?"
+    } ]
+  }, {
+    "tStartMs": 2278110,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "Oh, a little bit... ㅋㅋㅋ"
+    } ]
+  }, {
+    "tStartMs": 2281440,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Anyway, like this, the chocolate on the edge,"
+    } ]
+  }, {
+    "tStartMs": 2284890,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "you get to enjoy just the chocolate flavor."
+    } ]
+  }, {
+    "tStartMs": 2287350,
+    "dDurationMs": 1510,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2288860,
+    "dDurationMs": 1850,
+    "segs": [ {
+      "utf8": "That's very professional."
+    } ]
+  }, {
+    "tStartMs": 2290710,
+    "dDurationMs": 6280,
+    "segs": [ {
+      "utf8": "Right, it's already serving the role of two snacks."
+    } ]
+  }, {
+    "tStartMs": 2296990,
+    "dDurationMs": 640,
+    "segs": [ {
+      "utf8": "So,"
+    } ]
+  }, {
+    "tStartMs": 2297630,
+    "dDurationMs": 2250,
+    "segs": [ {
+      "utf8": "Yes, after I eat all the edges like this,"
+    } ]
+  }, {
+    "tStartMs": 2299880,
+    "dDurationMs": 3320,
+    "segs": [ {
+      "utf8": "I put a whole biscuit in my mouth and eat it."
+    } ]
+  }, {
+    "tStartMs": 2303200,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "You've really researched how to eat Pringles deliciously."
+    } ]
+  }, {
+    "tStartMs": 2306230,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "So now you could call it a hobby."
+    } ]
+  }, {
+    "tStartMs": 2308030,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "So what's different about this from wine tasting?"
+    } ]
+  }, {
+    "tStartMs": 2310160,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "Exactly! So,"
+    } ]
+  }, {
+    "tStartMs": 2313950,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "It's delicious."
+    } ]
+  }, {
+    "tStartMs": 2316820,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "That's funny."
+    } ]
+  }, {
+    "tStartMs": 2318980,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "A hobby that looks impressive."
+    } ]
+  }, {
+    "tStartMs": 2320420,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "So it all depends on how you think about it."
+    } ]
+  }, {
+    "tStartMs": 2322620,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "Right, right, right."
+    } ]
+  }, {
+    "tStartMs": 2326050,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Don't worry about it and just do what you like,"
+    } ]
+  }, {
+    "tStartMs": 2328800,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "and from a first impression perspective, hobbies..."
+    } ]
+  }, {
+    "tStartMs": 2333250,
+    "dDurationMs": 6020,
+    "segs": [ {
+      "utf8": "seem to be a tool that can give a good impression."
+    } ]
+  }, {
+    "tStartMs": 2339270,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "When you're trying to understand a person,"
+    } ]
+  }, {
+    "tStartMs": 2341960,
+    "dDurationMs": 5340,
+    "segs": [ {
+      "utf8": "but if you look over time, people end up being understood anyway,"
+    } ]
+  }, {
+    "tStartMs": 2347300,
+    "dDurationMs": 5400,
+    "segs": [ {
+      "utf8": "so hobbies are kind of a first impression kick?"
+    } ]
+  }, {
+    "tStartMs": 2352700,
+    "dDurationMs": 1760,
+    "segs": [ {
+      "utf8": "Kind of a point?"
+    } ]
+  }, {
+    "tStartMs": 2354460,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "What do you call it?"
+    } ]
+  }, {
+    "tStartMs": 2355760,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "Like sprinkles?"
+    } ]
+  }, {
+    "tStartMs": 2358710,
+    "dDurationMs": 530,
+    "segs": [ {
+      "utf8": "Is that right?"
+    } ]
+  }, {
+    "tStartMs": 2359240,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "For example, blind dates... it's blind dates again,"
+    } ]
+  }, {
+    "tStartMs": 2363040,
+    "dDurationMs": 6070,
+    "segs": [ {
+      "utf8": "when the person on the blind date asks Teacher Tae-woong what your hobby is,"
+    } ]
+  }, {
+    "tStartMs": 2369110,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "a somewhat impressive hobby, for example..."
+    } ]
+  }, {
+    "tStartMs": 2373070,
+    "dDurationMs": 1180,
+    "segs": [ {
+      "utf8": "What kind?"
+    } ]
+  }, {
+    "tStartMs": 2374250,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "What could there be?"
+    } ]
+  }, {
+    "tStartMs": 2375290,
+    "dDurationMs": 1720,
+    "segs": [ {
+      "utf8": "Horseback riding?"
+    } ]
+  }, {
+    "tStartMs": 2377010,
+    "dDurationMs": 630,
+    "segs": [ {
+      "utf8": "What, what?"
+    } ]
+  }, {
+    "tStartMs": 2377640,
+    "dDurationMs": 4380,
+    "segs": [ {
+      "utf8": "Horseback riding? Yeah, right, horseback riding, something like that."
+    } ]
+  }, {
+    "tStartMs": 2382020,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Wouldn't that give you some plus points?"
+    } ]
+  }, {
+    "tStartMs": 2384770,
+    "dDurationMs": 2170,
+    "segs": [ {
+      "utf8": "It could."
+    } ]
+  }, {
+    "tStartMs": 2386940,
+    "dDurationMs": 5450,
+    "segs": [ {
+      "utf8": "And then versus 'My hobby is just lying down watching YouTube,'"
+    } ]
+  }, {
+    "tStartMs": 2392390,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Yeah, that's true."
+    } ]
+  }, {
+    "tStartMs": 2395140,
+    "dDurationMs": 4980,
+    "segs": [ {
+      "utf8": "But to say horseback riding is your hobby,"
+    } ]
+  }, {
+    "tStartMs": 2400120,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "you actually have to do horseback riding."
+    } ]
+  }, {
+    "tStartMs": 2402420,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "Right?"
+    } ]
+  }, {
+    "tStartMs": 2403420,
+    "dDurationMs": 4490,
+    "segs": [ {
+      "utf8": "Yes, I sometimes see people like that, 'Reading is my hobby.'"
+    } ]
+  }, {
+    "tStartMs": 2407910,
+    "dDurationMs": 5910,
+    "segs": [ {
+      "utf8": "When I meet someone who says that, I really get excited, you know?"
+    } ]
+  }, {
+    "tStartMs": 2413820,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "How much...!"
+    } ]
+  }, {
+    "tStartMs": 2414850,
+    "dDurationMs": 4420,
+    "segs": [ {
+      "utf8": "We can talk about books! What's your favorite book?"
+    } ]
+  }, {
+    "tStartMs": 2419270,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "What are you reading these days?"
+    } ]
+  }, {
+    "tStartMs": 2420920,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "But once I actually find out, they barely read books"
+    } ]
+  }, {
+    "tStartMs": 2426920,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "There's no depth to it"
+    } ]
+  }, {
+    "tStartMs": 2428610,
+    "dDurationMs": 4900,
+    "segs": [ {
+      "utf8": "Then I end up feeling more disappointed, actually"
+    } ]
+  }, {
+    "tStartMs": 2433510,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "A really good key point came out here"
+    } ]
+  }, {
+    "tStartMs": 2436710,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "Hobbies for show get exposed"
+    } ]
+  }, {
+    "tStartMs": 2441550,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "It can actually become a minus"
+    } ]
+  }, {
+    "tStartMs": 2446350,
+    "dDurationMs": 4950,
+    "segs": [ {
+      "utf8": "Rather, it's better to be genuinely honest about it"
+    } ]
+  }, {
+    "tStartMs": 2451300,
+    "dDurationMs": 3400,
+    "segs": [ {
+      "utf8": "Like, researching how to eat snacks deliciously"
+    } ]
+  }, {
+    "tStartMs": 2454700,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "If you add a story to it..."
+    } ]
+  }, {
+    "tStartMs": 2457550,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "It's not about trying to add a story, but rather as you talk about it together"
+    } ]
+  }, {
+    "tStartMs": 2462430,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "You end up acknowledging it as a hobby"
+    } ]
+  }, {
+    "tStartMs": 2465920,
+    "dDurationMs": 4560,
+    "segs": [ {
+      "utf8": "That's where wit is needed"
+    } ]
+  }, {
+    "tStartMs": 2470480,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "Life is wit"
+    } ]
+  }, {
+    "tStartMs": 2473700,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "That's good, right?"
+    } ]
+  }, {
+    "tStartMs": 2474810,
+    "dDurationMs": 2530,
+    "segs": [ {
+      "utf8": "I ate all the chocolate on the edge"
+    } ]
+  }, {
+    "tStartMs": 2477340,
+    "dDurationMs": 3020,
+    "segs": [ {
+      "utf8": "What do you do after that?"
+    } ]
+  }, {
+    "tStartMs": 2480360,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "Ah, in one bite~"
+    } ]
+  }, {
+    "tStartMs": 2483390,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "That looks delicious, matcha bites"
+    } ]
+  }, {
+    "tStartMs": 2486970,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Good, good, so today we talked about hobbies like this"
+    } ]
+  }, {
+    "tStartMs": 2490090,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "While Tae-woong is eating, I'll give you this week's quiz"
+    } ]
+  }, {
+    "tStartMs": 2494490,
+    "dDurationMs": 1820,
+    "segs": [ {
+      "utf8": "This week's quiz is"
+    } ]
+  }, {
+    "tStartMs": 2496310,
+    "dDurationMs": 6370,
+    "segs": [ {
+      "utf8": "Among the things we talked about today, the hobby that wasn't mentioned by me and Tae-woong"
+    } ]
+  }, {
+    "tStartMs": 2502680,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "You just pick that one"
+    } ]
+  }, {
+    "tStartMs": 2503660,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "Old hobbies are fine and current hobbies are fine too"
+    } ]
+  }, {
+    "tStartMs": 2506760,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Just pick the one that wasn't a hobby of ours"
+    } ]
+  }, {
+    "tStartMs": 2510720,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Number 1: Swimming"
+    } ]
+  }, {
+    "tStartMs": 2513080,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "Number 2: Drawing"
+    } ]
+  }, {
+    "tStartMs": 2515850,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Number 3: Horseback riding"
+    } ]
+  }, {
+    "tStartMs": 2518840,
+    "dDurationMs": 670,
+    "segs": [ {
+      "utf8": "Yes, good"
+    } ]
+  }, {
+    "tStartMs": 2519510,
+    "dDurationMs": 3430,
+    "segs": [ {
+      "utf8": "Then now we'll move on to our next segment"
+    } ]
+  }, {
+    "tStartMs": 2534510,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "Now it's the word-based mini-game corner"
+    } ]
+  }, {
+    "tStartMs": 2537350,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Today's game is a one-round match that I brought"
+    } ]
+  }, {
+    "tStartMs": 2540040,
+    "dDurationMs": 3950,
+    "segs": [ {
+      "utf8": "But I brought a game that has some things to talk about"
+    } ]
+  }, {
+    "tStartMs": 2543990,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "So what kind of game is it? It's a guessing-the-number-one game, guessing number one"
+    } ]
+  }, {
+    "tStartMs": 2549750,
+    "dDurationMs": 5510,
+    "segs": [ {
+      "utf8": "We're going to search on Google for \"the most popular hobbies among Korean people\""
+    } ]
+  }, {
+    "tStartMs": 2555260,
+    "dDurationMs": 1260,
+    "segs": [ {
+      "utf8": "Something like that"
+    } ]
+  }, {
+    "tStartMs": 2556520,
+    "dDurationMs": 5240,
+    "segs": [ {
+      "utf8": "And it's a game where we guess what comes up as number one"
+    } ]
+  }, {
+    "tStartMs": 2561760,
+    "dDurationMs": 1370,
+    "segs": [ {
+      "utf8": "I haven't looked it up either"
+    } ]
+  }, {
+    "tStartMs": 2563130,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "Tae-woong also heard about it today"
+    } ]
+  }, {
+    "tStartMs": 2566520,
+    "dDurationMs": 940,
+    "segs": [ {
+      "utf8": "This is difficult..."
+    } ]
+  }, {
+    "tStartMs": 2567460,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "Let's talk through the hobbies that are popular in Korea"
+    } ]
+  }, {
+    "tStartMs": 2570910,
+    "dDurationMs": 5020,
+    "segs": [ {
+      "utf8": "And each guess what's number one"
+    } ]
+  }, {
+    "tStartMs": 2575930,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "So, do you have something you think is number one?"
+    } ]
+  }, {
+    "tStartMs": 2578540,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "For me, first of all..."
+    } ]
+  }, {
+    "tStartMs": 2580890,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "But I think this might differ depending on gender"
+    } ]
+  }, {
+    "tStartMs": 2585200,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2587620,
+    "dDurationMs": 2840,
+    "segs": [ {
+      "utf8": "If it's men, it's definitely gaming"
+    } ]
+  }, {
+    "tStartMs": 2590460,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Oh, gaming was there, right"
+    } ]
+  }, {
+    "tStartMs": 2592960,
+    "dDurationMs": 1280,
+    "segs": [ {
+      "utf8": "...wouldn't come up?"
+    } ]
+  }, {
+    "tStartMs": 2594240,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "It's also the country of PC bangs"
+    } ]
+  }, {
+    "tStartMs": 2597460,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "I've barely seen people who don't game"
+    } ]
+  }, {
+    "tStartMs": 2601210,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "Among men"
+    } ]
+  }, {
+    "tStartMs": 2605490,
+    "dDurationMs": 3050,
+    "segs": [ {
+      "utf8": "Right, gaming was also a recent hobby for me"
+    } ]
+  }, {
+    "tStartMs": 2608540,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "Oh, you had gaming?"
+    } ]
+  }, {
+    "tStartMs": 2610040,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "Yes, yes, I recently started gaming and was having fun"
+    } ]
+  }, {
+    "tStartMs": 2613330,
+    "dDurationMs": 3660,
+    "segs": [ {
+      "utf8": "But I could only do it for about a week"
+    } ]
+  }, {
+    "tStartMs": 2616990,
+    "dDurationMs": 2380,
+    "segs": [ {
+      "utf8": "I can't do it now because I'm busy."
+    } ]
+  }, {
+    "tStartMs": 2619370,
+    "dDurationMs": 2390,
+    "segs": [ {
+      "utf8": "I can't even play games."
+    } ]
+  }, {
+    "tStartMs": 2621760,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "It's not fun."
+    } ]
+  }, {
+    "tStartMs": 2625150,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "It's really not fun."
+    } ]
+  }, {
+    "tStartMs": 2626750,
+    "dDurationMs": 3550,
+    "segs": [ {
+      "utf8": "So I'm living a life without fun right now."
+    } ]
+  }, {
+    "tStartMs": 2630300,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Games, right? Teacher Tae-woong likes them too."
+    } ]
+  }, {
+    "tStartMs": 2632500,
+    "dDurationMs": 2020,
+    "segs": [ {
+      "utf8": "Yes, that's right."
+    } ]
+  }, {
+    "tStartMs": 2634520,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "Anyway, games?"
+    } ]
+  }, {
+    "tStartMs": 2636500,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "But... women don't do it much."
+    } ]
+  }, {
+    "tStartMs": 2641340,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "That's right, when you say women."
+    } ]
+  }, {
+    "tStartMs": 2643620,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "Oh, but I wanted to talk about this too."
+    } ]
+  }, {
+    "tStartMs": 2646890,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "Like, getting nail art and things like that, you know?"
+    } ]
+  }, {
+    "tStartMs": 2649600,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "Is this also a hobby?"
+    } ]
+  }, {
+    "tStartMs": 2652450,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "Like buying cosmetics and things."
+    } ]
+  }, {
+    "tStartMs": 2654940,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Doing makeup."
+    } ]
+  }, {
+    "tStartMs": 2655900,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "That's the confusing part for me too."
+    } ]
+  }, {
+    "tStartMs": 2658050,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "Right, because you do it every day."
+    } ]
+  }, {
+    "tStartMs": 2661200,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Can you even call this a hobby?"
+    } ]
+  }, {
+    "tStartMs": 2663360,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "If it's a hobby, then I have things like that too."
+    } ]
+  }, {
+    "tStartMs": 2667420,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Couldn't you look at it that way?"
+    } ]
+  }, {
+    "tStartMs": 2669920,
+    "dDurationMs": 6750,
+    "segs": [ {
+      "utf8": "But usually a hobby seems to refer to an activity."
+    } ]
+  }, {
+    "tStartMs": 2676670,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "An activity, an activity."
+    } ]
+  }, {
+    "tStartMs": 2678620,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Even eating snacks is an activity of eating."
+    } ]
+  }, {
+    "tStartMs": 2682240,
+    "dDurationMs": 2650,
+    "segs": [ {
+      "utf8": "There has to be an action."
+    } ]
+  }, {
+    "tStartMs": 2684890,
+    "dDurationMs": 4540,
+    "segs": [ {
+      "utf8": "So honestly, getting nails done and getting your hair done and things like that, you're just sitting still and receiving it."
+    } ]
+  }, {
+    "tStartMs": 2689430,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2690240,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "So I don't think you can call it a hobby."
+    } ]
+  }, {
+    "tStartMs": 2693190,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "I see."
+    } ]
+  }, {
+    "tStartMs": 2695700,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "Then what could there be?"
+    } ]
+  }, {
+    "tStartMs": 2697570,
+    "dDurationMs": 3420,
+    "segs": [ {
+      "utf8": "There are two things I naturally think would be high."
+    } ]
+  }, {
+    "tStartMs": 2700990,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "What are those?"
+    } ]
+  }, {
+    "tStartMs": 2702400,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Movie appreciation and reading."
+    } ]
+  }, {
+    "tStartMs": 2705970,
+    "dDurationMs": 1450,
+    "segs": [ {
+      "utf8": "Reading?"
+    } ]
+  }, {
+    "tStartMs": 2707420,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "There's a lot of reading, but?"
+    } ]
+  }, {
+    "tStartMs": 2708940,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Do people read a lot these days?"
+    } ]
+  }, {
+    "tStartMs": 2710880,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "In my opinion..."
+    } ]
+  }, {
+    "tStartMs": 2713220,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "I'm not sure if there are actually many people who read."
+    } ]
+  }, {
+    "tStartMs": 2716850,
+    "dDurationMs": 850,
+    "segs": [ {
+      "utf8": "Right."
+    } ]
+  }, {
+    "tStartMs": 2717700,
+    "dDurationMs": 3730,
+    "segs": [ {
+      "utf8": "But I think a lot of people would answer reading when asked what their hobby is."
+    } ]
+  }, {
+    "tStartMs": 2721430,
+    "dDurationMs": 2510,
+    "segs": [ {
+      "utf8": "Oh, so you just check it off on a survey like that?"
+    } ]
+  }, {
+    "tStartMs": 2723940,
+    "dDurationMs": 780,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2724720,
+    "dDurationMs": 3150,
+    "segs": [ {
+      "utf8": "If you've read even one book recently."
+    } ]
+  }, {
+    "tStartMs": 2727870,
+    "dDurationMs": 5570,
+    "segs": [ {
+      "utf8": "Hmm... movies and reading."
+    } ]
+  }, {
+    "tStartMs": 2733440,
+    "dDurationMs": 2210,
+    "segs": [ {
+      "utf8": "Yes, but these days."
+    } ]
+  }, {
+    "tStartMs": 2735650,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "These days, like YouTube watching?"
+    } ]
+  }, {
+    "tStartMs": 2737810,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "YouTube watching."
+    } ]
+  }, {
+    "tStartMs": 2739010,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "If this can also be called a hobby."
+    } ]
+  }, {
+    "tStartMs": 2741820,
+    "dDurationMs": 7370,
+    "segs": [ {
+      "utf8": "Right, so then... dramas and things like that would all be movie appreciation..."
+    } ]
+  }, {
+    "tStartMs": 2749190,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Like, watching something... yeah."
+    } ]
+  }, {
+    "tStartMs": 2752180,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "This seems like the most common hobby."
+    } ]
+  }, {
+    "tStartMs": 2756260,
+    "dDurationMs": 5620,
+    "segs": [ {
+      "utf8": "And it seems like Koreans especially love movies."
+    } ]
+  }, {
+    "tStartMs": 2761880,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Don't you think?"
+    } ]
+  }, {
+    "tStartMs": 2764520,
+    "dDurationMs": 2740,
+    "segs": [ {
+      "utf8": "I used to think that way back then."
+    } ]
+  }, {
+    "tStartMs": 2767260,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "Especially Koreans went to movie theaters a lot."
+    } ]
+  }, {
+    "tStartMs": 2770880,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "So there were movie theater events and things like that."
+    } ]
+  }, {
+    "tStartMs": 2774080,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Hollywood actors would always pass through Korea too."
+    } ]
+  }, {
+    "tStartMs": 2777090,
+    "dDurationMs": 880,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2777970,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "But since Netflix came out, it seems like people all over the world watch a lot."
+    } ]
+  }, {
+    "tStartMs": 2782690,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Oh, now?"
+    } ]
+  }, {
+    "tStartMs": 2783900,
+    "dDurationMs": 580,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2784480,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Oh, so you get to see many other countries?"
+    } ]
+  }, {
+    "tStartMs": 2786760,
+    "dDurationMs": 970,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2787730,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "Oh, that makes sense."
+    } ]
+  }, {
+    "tStartMs": 2790080,
+    "dDurationMs": 2930,
+    "segs": [ {
+      "utf8": "When I think about what Koreans do a lot, another thing comes to mind."
+    } ]
+  }, {
+    "tStartMs": 2793010,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "Traveling."
+    } ]
+  }, {
+    "tStartMs": 2794600,
+    "dDurationMs": 1400,
+    "segs": [ {
+      "utf8": "Overseas travel."
+    } ]
+  }, {
+    "tStartMs": 2796000,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 2797600,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "It seems like people go a lot."
+    } ]
+  }, {
+    "tStartMs": 2798980,
+    "dDurationMs": 3140,
+    "segs": [ {
+      "utf8": "You see them everywhere you go."
+    } ]
+  }, {
+    "tStartMs": 2802120,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Everywhere you go, you see them."
+    } ]
+  }, {
+    "tStartMs": 2804720,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "I was a bit surprised when I went to Japan, a nearby country."
+    } ]
+  }, {
+    "tStartMs": 2810240,
+    "dDurationMs": 4580,
+    "segs": [ {
+      "utf8": "Among friends my age, quite a few said they didn't have a passport."
+    } ]
+  }, {
+    "tStartMs": 2814820,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "But in Korea, that's hard to find."
+    } ]
+  }, {
+    "tStartMs": 2818650,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Friends my age without a passport..."
+    } ]
+  }, {
+    "tStartMs": 2822400,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "There was a big boom once, a travel boom."
+    } ]
+  }, {
+    "tStartMs": 2824860,
+    "dDurationMs": 4050,
+    "segs": [ {
+      "utf8": "That's right, I was going to mention that."
+    } ]
+  }, {
+    "tStartMs": 2828910,
+    "dDurationMs": 3680,
+    "segs": [ {
+      "utf8": "Korea is a country of trends."
+    } ]
+  }, {
+    "tStartMs": 2832590,
+    "dDurationMs": 2330,
+    "segs": [ {
+      "utf8": "When something becomes a thing, everyone follows it."
+    } ]
+  }, {
+    "tStartMs": 2834920,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 2837080,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "Right, right."
+    } ]
+  }, {
+    "tStartMs": 2838770,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "What else was trendy?"
+    } ]
+  }, {
+    "tStartMs": 2841110,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "Are there other hobbies like that?"
+    } ]
+  }, {
+    "tStartMs": 2843690,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Golf or tennis?"
+    } ]
+  }, {
+    "tStartMs": 2845210,
+    "dDurationMs": 3980,
+    "segs": [ {
+      "utf8": "Those seem to be quite popular recently too."
+    } ]
+  }, {
+    "tStartMs": 2849190,
+    "dDurationMs": 670,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 2849860,
+    "dDurationMs": 3830,
+    "segs": [ {
+      "utf8": "They seem to be trending."
+    } ]
+  }, {
+    "tStartMs": 2853690,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "Is there anything else we missed? I don't think so."
+    } ]
+  }, {
+    "tStartMs": 2856060,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "I think we've covered most of the hobbies worth doing now."
+    } ]
+  }, {
+    "tStartMs": 2860900,
+    "dDurationMs": 5060,
+    "segs": [ {
+      "utf8": "Among what we've talked about, there wasn't much exercise."
+    } ]
+  }, {
+    "tStartMs": 2865960,
+    "dDurationMs": 3310,
+    "segs": [ {
+      "utf8": "Golf and tennis are just recent trends."
+    } ]
+  }, {
+    "tStartMs": 2869270,
+    "dDurationMs": 2410,
+    "segs": [ {
+      "utf8": "Among sports... going to the gym?"
+    } ]
+  }, {
+    "tStartMs": 2871680,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "Do people do things like that as a hobby often?"
+    } ]
+  }, {
+    "tStartMs": 2874230,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "Yes, they probably do."
+    } ]
+  }, {
+    "tStartMs": 2875580,
+    "dDurationMs": 1700,
+    "segs": [ {
+      "utf8": "You think so? The gym? Yes."
+    } ]
+  }, {
+    "tStartMs": 2877280,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "The gym and running."
+    } ]
+  }, {
+    "tStartMs": 2879260,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "Running, right."
+    } ]
+  }, {
+    "tStartMs": 2881200,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "Running."
+    } ]
+  }, {
+    "tStartMs": 2881700,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "Running was a trend, running."
+    } ]
+  }, {
+    "tStartMs": 2884180,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "Even these days when you go to parks and it's really cold,"
+    } ]
+  }, {
+    "tStartMs": 2887890,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "I see a lot of running crews all running together."
+    } ]
+  }, {
+    "tStartMs": 2892060,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2892800,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Right, the most popular ones seem to be the gym and running."
+    } ]
+  }, {
+    "tStartMs": 2898300,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "That's correct."
+    } ]
+  }, {
+    "tStartMs": 2899840,
+    "dDurationMs": 1590,
+    "segs": [ {
+      "utf8": "So what we've covered so far—"
+    } ]
+  }, {
+    "tStartMs": 2901430,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Gaming, watching movies, reading,"
+    } ]
+  }, {
+    "tStartMs": 2904120,
+    "dDurationMs": 4650,
+    "segs": [ {
+      "utf8": "Watching YouTube, overseas travel, gym, running."
+    } ]
+  }, {
+    "tStartMs": 2908770,
+    "dDurationMs": 2720,
+    "segs": [ {
+      "utf8": "Teacher Tae-woong, which one would you pick as number one?"
+    } ]
+  }, {
+    "tStartMs": 2911490,
+    "dDurationMs": 1680,
+    "segs": [ {
+      "utf8": "Watching movies."
+    } ]
+  }, {
+    "tStartMs": 2913170,
+    "dDurationMs": 1140,
+    "segs": [ {
+      "utf8": "Watching movies?"
+    } ]
+  }, {
+    "tStartMs": 2914310,
+    "dDurationMs": 710,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2915020,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "Then can I pick watching YouTube?"
+    } ]
+  }, {
+    "tStartMs": 2917660,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "It's a close call."
+    } ]
+  }, {
+    "tStartMs": 2921950,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "It seems like people use their phones a lot."
+    } ]
+  }, {
+    "tStartMs": 2924190,
+    "dDurationMs": 2300,
+    "segs": [ {
+      "utf8": "Oh right, right, right."
+    } ]
+  }, {
+    "tStartMs": 2926490,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "These days it's just the phone."
+    } ]
+  }, {
+    "tStartMs": 2928320,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "Using the phone when resting."
+    } ]
+  }, {
+    "tStartMs": 2930060,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "Oh right, and about that question,"
+    } ]
+  }, {
+    "tStartMs": 2933970,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "There's one more option for the fundamental answer that we missed."
+    } ]
+  }, {
+    "tStartMs": 2937420,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "What is it?"
+    } ]
+  }, {
+    "tStartMs": 2938500,
+    "dDurationMs": 2360,
+    "segs": [ {
+      "utf8": "Listening to music."
+    } ]
+  }, {
+    "tStartMs": 2940860,
+    "dDurationMs": 2200,
+    "segs": [ {
+      "utf8": "Music appreciation"
+    } ]
+  }, {
+    "tStartMs": 2943060,
+    "dDurationMs": 1610,
+    "segs": [ {
+      "utf8": "Ah, oh, that's quite impressive?"
+    } ]
+  }, {
+    "tStartMs": 2944670,
+    "dDurationMs": 2140,
+    "segs": [ {
+      "utf8": "Yes, there is music appreciation."
+    } ]
+  }, {
+    "tStartMs": 2946810,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "It's hard to find someone who doesn't listen to music, right?"
+    } ]
+  }, {
+    "tStartMs": 2948910,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "That's right, that's right."
+    } ]
+  }, {
+    "tStartMs": 2950560,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "True, it seems like everyone listens to music no matter what?"
+    } ]
+  }, {
+    "tStartMs": 2953380,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2954220,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong, music appreciation for you?"
+    } ]
+  }, {
+    "tStartMs": 2957690,
+    "dDurationMs": 3100,
+    "segs": [ {
+      "utf8": "I'll go with movie appreciation."
+    } ]
+  }, {
+    "tStartMs": 2960790,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "So that's why we can't really talk about music as a hobby... because everyone does it."
+    } ]
+  }, {
+    "tStartMs": 2964960,
+    "dDurationMs": 1540,
+    "segs": [ {
+      "utf8": "Exactly."
+    } ]
+  }, {
+    "tStartMs": 2966500,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "Among people who listen to music, there are some who listen very professionally, you know?"
+    } ]
+  }, {
+    "tStartMs": 2971750,
+    "dDurationMs": 1690,
+    "segs": [ {
+      "utf8": "People who listen to music with some depth."
+    } ]
+  }, {
+    "tStartMs": 2973440,
+    "dDurationMs": 1480,
+    "segs": [ {
+      "utf8": "In a maniacal way."
+    } ]
+  }, {
+    "tStartMs": 2974920,
+    "dDurationMs": 5650,
+    "segs": [ {
+      "utf8": "Yes, I think it would be difficult to talk about those kinds of people too."
+    } ]
+  }, {
+    "tStartMs": 2980570,
+    "dDurationMs": 1940,
+    "segs": [ {
+      "utf8": "So movie appreciation for you?"
+    } ]
+  }, {
+    "tStartMs": 2982510,
+    "dDurationMs": 2860,
+    "segs": [ {
+      "utf8": "Yes."
+    } ]
+  }, {
+    "tStartMs": 2985370,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "I'll go with YouTube appreciation."
+    } ]
+  }, {
+    "tStartMs": 2987080,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "ㅋㅋㅋ okay."
+    } ]
+  }, {
+    "tStartMs": 2989780,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "So then, like, how about we search on Google for Korean people..."
+    } ]
+  }, {
+    "tStartMs": 2994230,
+    "dDurationMs": 4910,
+    "segs": [ {
+      "utf8": "Korean hobby rankings? Should we do it like that?"
+    } ]
+  }, {
+    "tStartMs": 2999140,
+    "dDurationMs": 2270,
+    "segs": [ {
+      "utf8": "'Korean Gallup' — is that trustworthy?"
+    } ]
+  }, {
+    "tStartMs": 3001410,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Oh, that's a research company."
+    } ]
+  }, {
+    "tStartMs": 3004500,
+    "dDurationMs": 1030,
+    "segs": [ {
+      "utf8": "Really?"
+    } ]
+  }, {
+    "tStartMs": 3005530,
+    "dDurationMs": 2630,
+    "segs": [ {
+      "utf8": "The hobby that Koreans enjoy the most is"
+    } ]
+  }, {
+    "tStartMs": 3008160,
+    "dDurationMs": 4130,
+    "segs": [ {
+      "utf8": "Gaming!"
+    } ]
+  }, {
+    "tStartMs": 3012290,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "It recorded a 9% response rate."
+    } ]
+  }, {
+    "tStartMs": 3015020,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "Hiking, which was number one five years ago, has risen to a tied second place."
+    } ]
+  }, {
+    "tStartMs": 3019170,
+    "dDurationMs": 870,
+    "segs": [ {
+      "utf8": "Hiking?"
+    } ]
+  }, {
+    "tStartMs": 3020040,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "The tied second place is hiking, exercise, and fitness."
+    } ]
+  }, {
+    "tStartMs": 3024030,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "That seems wrong to me?"
+    } ]
+  }, {
+    "tStartMs": 3026970,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "But besides that, there's video watching, walking, music appreciation, reading,"
+    } ]
+  }, {
+    "tStartMs": 3032090,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "Golf, fishing, travel, and things like that."
+    } ]
+  }, {
+    "tStartMs": 3036830,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "But they chose gaming as number one."
+    } ]
+  }, {
+    "tStartMs": 3040330,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "Based on 2024."
+    } ]
+  }, {
+    "tStartMs": 3041540,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "Ah, but from what I saw, this seems to be skewed toward older age groups."
+    } ]
+  }, {
+    "tStartMs": 3044910,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Yes, it seems like it."
+    } ]
+  }, {
+    "tStartMs": 3046560,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "Because the previous number ones were all hiking, and the age group that hikes is all elderly people, right?"
+    } ]
+  }, {
+    "tStartMs": 3053140,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "Yes, yes."
+    } ]
+  }, {
+    "tStartMs": 3053880,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "'But the fact that gaming beat out other hobbies and took first place"
+    } ]
+  }, {
+    "tStartMs": 3057060,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "Was very much influenced by men.'"
+    } ]
+  }, {
+    "tStartMs": 3059220,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "The percentage of male respondents whose hobby is gaming was 15%."
+    } ]
+  }, {
+    "tStartMs": 3062960,
+    "dDurationMs": 3810,
+    "segs": [ {
+      "utf8": "For women it was 3%."
+    } ]
+  }, {
+    "tStartMs": 3066770,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "So the number one hobby for men was gaming,"
+    } ]
+  }, {
+    "tStartMs": 3069540,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "And the number one hobby for women was video watching."
+    } ]
+  }, {
+    "tStartMs": 3073140,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "But because men chose gaming so much,"
+    } ]
+  }, {
+    "tStartMs": 3076900,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "Overall, gaming became number one."
+    } ]
+  }, {
+    "tStartMs": 3081380,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "The men all concentrated their votes on gaming."
+    } ]
+  }, {
+    "tStartMs": 3084290,
+    "dDurationMs": 6360,
+    "segs": [ {
+      "utf8": "It seems like they chose gaming regardless of age."
+    } ]
+  }, {
+    "tStartMs": 3090650,
+    "dDurationMs": 2420,
+    "segs": [ {
+      "utf8": "Alright then, let's call it a tie."
+    } ]
+  }, {
+    "tStartMs": 3093070,
+    "dDurationMs": 1300,
+    "segs": [ {
+      "utf8": "What..."
+    } ]
+  }, {
+    "tStartMs": 3094370,
+    "dDurationMs": 4350,
+    "segs": [ {
+      "utf8": "But even though there was no winner, it was informative."
+    } ]
+  }, {
+    "tStartMs": 3098720,
+    "dDurationMs": 1060,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 3099780,
+    "dDurationMs": 4120,
+    "segs": [ {
+      "utf8": "I think you've learned a lot about popular hobbies in Korea,"
+    } ]
+  }, {
+    "tStartMs": 3103900,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "And among those listening to this, there are probably many people"
+    } ]
+  }, {
+    "tStartMs": 3106850,
+    "dDurationMs": 3580,
+    "segs": [ {
+      "utf8": "For whom learning Korean is a hobby,"
+    } ]
+  }, {
+    "tStartMs": 3110430,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "But if there are other hobbies you enjoy,"
+    } ]
+  }, {
+    "tStartMs": 3112970,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "I'd appreciate it if you'd leave a lot of comments."
+    } ]
+  }, {
+    "tStartMs": 3116770,
+    "dDurationMs": 4170,
+    "segs": [ {
+      "utf8": "So now we're going to preview the next topic and wrap up,"
+    } ]
+  }, {
+    "tStartMs": 3120940,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "What would be a good topic for next time?"
+    } ]
+  }, {
+    "tStartMs": 3123070,
+    "dDurationMs": 4360,
+    "segs": [ {
+      "utf8": "This is the January episode."
+    } ]
+  }, {
+    "tStartMs": 3127430,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "The theme of the January Yomojomo episode is right away"
+    } ]
+  }, {
+    "tStartMs": 3131650,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "the secondhand market."
+    } ]
+  }, {
+    "tStartMs": 3133650,
+    "dDurationMs": 3180,
+    "segs": [ {
+      "utf8": "The secondhand market."
+    } ]
+  }, {
+    "tStartMs": 3136830,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "Selling things you've used before."
+    } ]
+  }, {
+    "tStartMs": 3139230,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "Carrot Market."
+    } ]
+  }, {
+    "tStartMs": 3140460,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "Carrot Market and various other platforms exist."
+    } ]
+  }, {
+    "tStartMs": 3143710,
+    "dDurationMs": 5750,
+    "segs": [ {
+      "utf8": "Yes, that's right. When you make a fresh start in 2026, everyone will be organizing their homes too."
+    } ]
+  }, {
+    "tStartMs": 3149460,
+    "dDurationMs": 1800,
+    "segs": [ {
+      "utf8": "Many people will be doing that."
+    } ]
+  }, {
+    "tStartMs": 3151260,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "And in the process, unused items come up."
+    } ]
+  }, {
+    "tStartMs": 3153740,
+    "dDurationMs": 2660,
+    "segs": [ {
+      "utf8": "We can talk about how to handle those items,"
+    } ]
+  }, {
+    "tStartMs": 3156400,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "and I think we can explore the secondhand topic a bit more."
+    } ]
+  }, {
+    "tStartMs": 3159460,
+    "dDurationMs": 860,
+    "segs": [ {
+      "utf8": "That's right."
+    } ]
+  }, {
+    "tStartMs": 3160320,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "Sounds good, sounds good."
+    } ]
+  }, {
+    "tStartMs": 3161310,
+    "dDurationMs": 4740,
+    "segs": [ {
+      "utf8": "So Teacher Tae-woong, wrap up 2025 well,"
+    } ]
+  }, {
+    "tStartMs": 3166050,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "and we'll talk about it in 2026."
+    } ]
+  }, {
+    "tStartMs": 3170280,
+    "dDurationMs": 4180,
+    "segs": [ {
+      "utf8": "That's what we'll do on Yomojomo,"
+    } ]
+  }, {
+    "tStartMs": 3174460,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "and you'll be coming on my podcast soon too."
+    } ]
+  }, {
+    "tStartMs": 3179180,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "We're aiming for Christmas Eve for the upload."
+    } ]
+  }, {
+    "tStartMs": 3181610,
+    "dDurationMs": 1210,
+    "segs": [ {
+      "utf8": "The upload target."
+    } ]
+  }, {
+    "tStartMs": 3182820,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "Oh really? Feel free to call me anytime."
+    } ]
+  }, {
+    "tStartMs": 3186230,
+    "dDurationMs": 3240,
+    "segs": [ {
+      "utf8": "Ah, then I'll see you again on my channel."
+    } ]
+  }, {
+    "tStartMs": 3189470,
+    "dDurationMs": 810,
+    "segs": [ {
+      "utf8": "Sounds good."
+    } ]
+  }, {
+    "tStartMs": 3190280,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "Everyone, subscribe to Teacher Tae-woong's All Things Korean channel too"
+    } ]
+  }, {
+    "tStartMs": 3194380,
+    "dDurationMs": 3230,
+    "segs": [ {
+      "utf8": "and keep an eye on it because I'm going to be on it."
+    } ]
+  }, {
+    "tStartMs": 3197610,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "So this is where Didi and"
+    } ]
+  }, {
+    "tStartMs": 3200620,
+    "dDurationMs": 980,
+    "segs": [ {
+      "utf8": "Jeong Tae-woong say goodbye."
+    } ]
+  }, {
+    "tStartMs": 3201600,
+    "dDurationMs": 1730,
+    "segs": [ {
+      "utf8": "Thank you."
+    } ]
+  } ]
+}

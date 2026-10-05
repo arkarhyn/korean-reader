@@ -1,0 +1,4531 @@
+{
+ "id": "QiEdnFjVDg4",
+ "title": "(Video ver.) Natural Korean Conversation Podcast | 한국생활 요모조모 ♯15 운동 (Workout 🏋️‍♂️)",
+ "url": "https://www.youtube.com/watch?v=QiEdnFjVDg4",
+ "upload_date": "20250604",
+ "duration_s": 1851,
+ "order": 15,
+ "show_no": 15,
+ "sources": {
+  "ko": "manual",
+  "en": "manual"
+ },
+ "speakers": [
+  "디디",
+  "태웅"
+ ],
+ "parts": [
+  {
+   "part": 1,
+   "title_ko": "오프닝과 태웅쌤의 헬스장 이야기",
+   "title_en": "Opening and Taewoong's gym story",
+   "start_ms": 1000,
+   "end_ms": 471480,
+   "hangul_chars": 1682,
+   "turns": [
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1000,
+       "end_ms": 9400,
+       "ko": "디디와 정태웅의 한국생활 요모조모",
+       "en": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea"
+      },
+      {
+       "start_ms": 9400,
+       "end_ms": 11360,
+       "ko": "안녕하세요 디디입니다.",
+       "en": "Hello, this is Didi."
+      }
+     ],
+     "start_ms": 1000,
+     "end_ms": 11360,
+     "ko": "디디와 정태웅의 한국생활 요모조모\n안녕하세요 디디입니다.",
+     "en": "Yomojomo of Didi and Jeong Tae-woong's Life in Korea Hello, this is Didi."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 11360,
+       "end_ms": 13600,
+       "ko": "안녕하세요 정태웅입니다.",
+       "en": "Hello, this is Jeong Tae-woong."
+      }
+     ],
+     "start_ms": 11360,
+     "end_ms": 13600,
+     "ko": "안녕하세요 정태웅입니다.",
+     "en": "Hello, this is Jeong Tae-woong."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 13600,
+       "end_ms": 20840,
+       "ko": "한국생활 요모조모는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다.",
+       "en": "Yomojomo of Life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea."
+      },
+      {
+       "start_ms": 20840,
+       "end_ms": 25600,
+       "ko": "네, 오늘은 두 번째로 이렇게 얼굴을 함께 찍고 있습니다.",
+       "en": "Yes, today we're filming together on camera for the second time."
+      },
+      {
+       "start_ms": 25600,
+       "end_ms": 28200,
+       "ko": "영상과 함께하는 팟캐스트고요.",
+       "en": "It's a podcast that comes with video."
+      },
+      {
+       "start_ms": 28200,
+       "end_ms": 30719,
+       "ko": "오늘의 주제는 어떤 거였죠?",
+       "en": "What's today's topic?"
+      }
+     ],
+     "start_ms": 13600,
+     "end_ms": 30719,
+     "ko": "한국생활 요모조모는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다.\n네, 오늘은 두 번째로 이렇게 얼굴을 함께 찍고 있습니다.\n영상과 함께하는 팟캐스트고요.\n오늘의 주제는 어떤 거였죠?",
+     "en": "Yomojomo of Life in Korea is a podcast where two people living in Korea talk about the various aspects of life in Korea. Yes, today we're filming together on camera for the second time. It's a podcast that comes with video. What's today's topic?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 30719,
+       "end_ms": 33959,
+       "ko": "오늘의 주제는 운동입니다.",
+       "en": "Today's topic is exercise."
+      }
+     ],
+     "start_ms": 30719,
+     "end_ms": 33959,
+     "ko": "오늘의 주제는 운동입니다.",
+     "en": "Today's topic is exercise."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 33959,
+       "end_ms": 37080,
+       "ko": "운동이라... 운동이라...",
+       "en": "Exercise... exercise..."
+      },
+      {
+       "start_ms": 37080,
+       "end_ms": 44520,
+       "ko": "운동은 꼭 해야 되는 거지만 너무너무 하기 싫은 건데, 저한테는.",
+       "en": "Exercise is something I really should do, but I really don't want to do it, at least for me."
+      },
+      {
+       "start_ms": 44520,
+       "end_ms": 47560,
+       "ko": "태웅쌤은 요즘 운동 많이 하시나요?",
+       "en": "Teacher Tae-woong, do you exercise a lot these days?"
+      }
+     ],
+     "start_ms": 33959,
+     "end_ms": 47560,
+     "ko": "운동이라... 운동이라...\n운동은 꼭 해야 되는 거지만 너무너무 하기 싫은 건데, 저한테는.\n태웅쌤은 요즘 운동 많이 하시나요?",
+     "en": "Exercise... exercise... Exercise is something I really should do, but I really don't want to do it, at least for me. Teacher Tae-woong, do you exercise a lot these days?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 47560,
+       "end_ms": 48200,
+       "ko": "아니요.",
+       "en": "No."
+      }
+     ],
+     "start_ms": 47560,
+     "end_ms": 48200,
+     "ko": "아니요.",
+     "en": "No."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 48200,
+       "end_ms": 50720,
+       "ko": "작년에는 많이 했잖아요.",
+       "en": "You did a lot last year, didn't you?"
+      }
+     ],
+     "start_ms": 48200,
+     "end_ms": 50720,
+     "ko": "작년에는 많이 했잖아요.",
+     "en": "You did a lot last year, didn't you?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 50720,
+       "end_ms": 51880,
+       "ko": "아니요 나왔습니다.",
+       "en": "No, that came out."
+      },
+      {
+       "start_ms": 51880,
+       "end_ms": 54360,
+       "ko": "네, 작년에는 많이 했죠.",
+       "en": "Yes, I did exercise a lot last year."
+      },
+      {
+       "start_ms": 54360,
+       "end_ms": 57000,
+       "ko": "지금은 운동 부족입니다.",
+       "en": "Right now I'm lacking in exercise."
+      }
+     ],
+     "start_ms": 50720,
+     "end_ms": 57000,
+     "ko": "아니요 나왔습니다.\n네, 작년에는 많이 했죠.\n지금은 운동 부족입니다.",
+     "en": "No, that came out. Yes, I did exercise a lot last year. Right now I'm lacking in exercise."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 57000,
+       "end_ms": 58439,
+       "ko": "아예 안 해요?",
+       "en": "You don't do it at all?"
+      }
+     ],
+     "start_ms": 57000,
+     "end_ms": 58439,
+     "ko": "아예 안 해요?",
+     "en": "You don't do it at all?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 58439,
+       "end_ms": 62320,
+       "ko": "조금은 해요. 진짜 조금. 안 하는 것과 다름없는 조금.",
+       "en": "I do a little. Really a little. A little that's no different from not doing it."
+      }
+     ],
+     "start_ms": 58439,
+     "end_ms": 62320,
+     "ko": "조금은 해요. 진짜 조금. 안 하는 것과 다름없는 조금.",
+     "en": "I do a little. Really a little. A little that's no different from not doing it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 62320,
+       "end_ms": 65320,
+       "ko": "어떻게 해요? 뭐 해요? 조금이라도?",
+       "en": "How do you do it? What do you do? Even if it's just a little?"
+      }
+     ],
+     "start_ms": 62320,
+     "end_ms": 65320,
+     "ko": "어떻게 해요? 뭐 해요? 조금이라도?",
+     "en": "How do you do it? What do you do? Even if it's just a little?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 65320,
+       "end_ms": 70959,
+       "ko": "아침에 집 앞에 공원에 산책하러 가서요.",
+       "en": "I go to the park in front of my house in the morning for a walk."
+      },
+      {
+       "start_ms": 70959,
+       "end_ms": 73239,
+       "ko": "턱걸이, 풀업.",
+       "en": "Pull-ups."
+      },
+      {
+       "start_ms": 73239,
+       "end_ms": 76320,
+       "ko": "그거 한 대여섯 개?",
+       "en": "Like five or six of them?"
+      },
+      {
+       "start_ms": 76320,
+       "end_ms": 80199,
+       "ko": "그리고 돌아옵니다.",
+       "en": "And then I come back."
+      },
+      {
+       "start_ms": 80199,
+       "end_ms": 81120,
+       "ko": "운동 끝.",
+       "en": "Exercise done."
+      }
+     ],
+     "start_ms": 65320,
+     "end_ms": 81120,
+     "ko": "아침에 집 앞에 공원에 산책하러 가서요.\n턱걸이, 풀업.\n그거 한 대여섯 개?\n그리고 돌아옵니다.\n운동 끝.",
+     "en": "I go to the park in front of my house in the morning for a walk. Pull-ups. Like five or six of them? And then I come back. Exercise done."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 81120,
+       "end_ms": 83040,
+       "ko": "운동 끝.",
+       "en": "Exercise done."
+      },
+      {
+       "start_ms": 83040,
+       "end_ms": 84040,
+       "ko": "오늘도 하셨어요?",
+       "en": "Did you do it today too?"
+      }
+     ],
+     "start_ms": 81120,
+     "end_ms": 84040,
+     "ko": "운동 끝.\n오늘도 하셨어요?",
+     "en": "Exercise done. Did you do it today too?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 84040,
+       "end_ms": 85639,
+       "ko": "오늘도 했죠.",
+       "en": "I did today as well."
+      }
+     ],
+     "start_ms": 84040,
+     "end_ms": 85639,
+     "ko": "오늘도 했죠.",
+     "en": "I did today as well."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 86040,
+       "end_ms": 88360,
+       "ko": "그래도 나가는 게 어딥니까.",
+       "en": "Still, going out is something, isn't it?"
+      }
+     ],
+     "start_ms": 86040,
+     "end_ms": 88360,
+     "ko": "그래도 나가는 게 어딥니까.",
+     "en": "Still, going out is something, isn't it?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 88360,
+       "end_ms": 93839,
+       "ko": "아, 진짜 그거라도 안 하면 안 될 것 같아서 억지로 하고 있어요.",
+       "en": "Ah, I feel like I really have to do at least that, so I'm forcing myself to do it."
+      }
+     ],
+     "start_ms": 88360,
+     "end_ms": 93839,
+     "ko": "아, 진짜 그거라도 안 하면 안 될 것 같아서 억지로 하고 있어요.",
+     "en": "Ah, I feel like I really have to do at least that, so I'm forcing myself to do it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 93839,
+       "end_ms": 97599,
+       "ko": "올해는 왜 이렇게 안 하게 됐어요?",
+       "en": "Why did you stop doing it so much this year?"
+      }
+     ],
+     "start_ms": 93839,
+     "end_ms": 97599,
+     "ko": "올해는 왜 이렇게 안 하게 됐어요?",
+     "en": "Why did you stop doing it so much this year?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 97599,
+       "end_ms": 100239,
+       "ko": "작년에 너무 열심히 해서.",
+       "en": "Because I did it so hard last year."
+      }
+     ],
+     "start_ms": 97599,
+     "end_ms": 100239,
+     "ko": "작년에 너무 열심히 해서.",
+     "en": "Because I did it so hard last year."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 100239,
+       "end_ms": 102160,
+       "ko": "번아웃?",
+       "en": "Burnout?"
+      }
+     ],
+     "start_ms": 100239,
+     "end_ms": 102160,
+     "ko": "번아웃?",
+     "en": "Burnout?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 102160,
+       "end_ms": 106959,
+       "ko": "번아웃이랑 비슷한 것 같아요.",
+       "en": "It seems similar to burnout."
+      },
+      {
+       "start_ms": 106959,
+       "end_ms": 110879,
+       "ko": "그리고 한 번 안 해볼까? 이런 생각이.",
+       "en": "And I thought, what if I just don't do it?"
+      },
+      {
+       "start_ms": 110879,
+       "end_ms": 112239,
+       "ko": "안 하면 어떻게 되지?",
+       "en": "What happens if I don't?"
+      }
+     ],
+     "start_ms": 102160,
+     "end_ms": 112239,
+     "ko": "번아웃이랑 비슷한 것 같아요.\n그리고 한 번 안 해볼까? 이런 생각이.\n안 하면 어떻게 되지?",
+     "en": "It seems similar to burnout. And I thought, what if I just don't do it? What happens if I don't?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 112239,
+       "end_ms": 114320,
+       "ko": "안 하면 어떻게 되지?",
+       "en": "What happens if I don't?"
+      }
+     ],
+     "start_ms": 112239,
+     "end_ms": 114320,
+     "ko": "안 하면 어떻게 되지?",
+     "en": "What happens if I don't?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 114320,
+       "end_ms": 119959,
+       "ko": "진짜 사람들 말처럼 운동 꾸준히 하는 게 큰 차이가 있나?",
+       "en": "Does exercising consistently really make that big of a difference, like people say?"
+      },
+      {
+       "start_ms": 119959,
+       "end_ms": 125040,
+       "ko": "그래서 한 번 실험을 해봤어요.",
+       "en": "So I did an experiment."
+      }
+     ],
+     "start_ms": 114320,
+     "end_ms": 125040,
+     "ko": "진짜 사람들 말처럼 운동 꾸준히 하는 게 큰 차이가 있나?\n그래서 한 번 실험을 해봤어요.",
+     "en": "Does exercising consistently really make that big of a difference, like people say? So I did an experiment."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 125040,
+       "end_ms": 134080,
+       "ko": "어떤가요? 5개월이 지난 지금 운동을 안 하니까 변화가 느껴져요?",
+       "en": "How is it? Now that five months have passed and you're not exercising, do you feel a change?"
+      }
+     ],
+     "start_ms": 125040,
+     "end_ms": 134080,
+     "ko": "어떤가요? 5개월이 지난 지금 운동을 안 하니까 변화가 느껴져요?",
+     "en": "How is it? Now that five months have passed and you're not exercising, do you feel a change?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 134080,
+       "end_ms": 142360,
+       "ko": "사실 단정지여서 딱 하나 때문에 인생이 좋다, 안 좋다라고 얘기할 수는 없는 것 같아요.",
+       "en": "Actually, I don't think you can say that life is good or bad because of just one thing in such a definitive way."
+      },
+      {
+       "start_ms": 142360,
+       "end_ms": 148600,
+       "ko": "그럼에도 불구하고 운동은 꾸준히 하는 게 좋은 것 같아요.",
+       "en": "Still, it seems like exercising consistently is good."
+      }
+     ],
+     "start_ms": 134080,
+     "end_ms": 148600,
+     "ko": "사실 단정지여서 딱 하나 때문에 인생이 좋다, 안 좋다라고 얘기할 수는 없는 것 같아요.\n그럼에도 불구하고 운동은 꾸준히 하는 게 좋은 것 같아요.",
+     "en": "Actually, I don't think you can say that life is good or bad because of just one thing in such a definitive way. Still, it seems like exercising consistently is good."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 148600,
+       "end_ms": 151279,
+       "ko": "그렇다고 합니다.",
+       "en": "That's what they say."
+      }
+     ],
+     "start_ms": 148600,
+     "end_ms": 151279,
+     "ko": "그렇다고 합니다.",
+     "en": "That's what they say."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 151279,
+       "end_ms": 154960,
+       "ko": "열심히 하는 게 좋죠.",
+       "en": "It's good to do it hard."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 151279,
+     "end_ms": 154960,
+     "ko": "열심히 하는 게 좋죠.",
+     "en": "It's good to do it hard."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 154960,
+       "end_ms": 169839,
+       "ko": "그러면 지금까지 제일 나한테 잘 맞다 생각했던 운동이 있었어요, 태용쌤은?",
+       "en": "So far, has there been an exercise that you thought fit you best, Teacher Tae-woong?"
+      }
+     ],
+     "start_ms": 154960,
+     "end_ms": 169839,
+     "ko": "그러면 지금까지 제일 나한테 잘 맞다 생각했던 운동이 있었어요, 태용쌤은?",
+     "en": "So far, has there been an exercise that you thought fit you best, Teacher Tae-woong?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 169839,
+       "end_ms": 172160,
+       "ko": "없는 것 같습니다.",
+       "en": "I don't think so."
+      },
+      {
+       "start_ms": 172160,
+       "end_ms": 175080,
+       "ko": "운동은 잘 맞는 게 아닙니다. 그냥 하는 겁니다.",
+       "en": "Exercise isn't about finding what fits. You just do it."
+      }
+     ],
+     "start_ms": 169839,
+     "end_ms": 175080,
+     "ko": "없는 것 같습니다.\n운동은 잘 맞는 게 아닙니다. 그냥 하는 겁니다.",
+     "en": "I don't think so. Exercise isn't about finding what fits. You just do it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 175080,
+       "end_ms": 176639,
+       "ko": "네, 그냥 하는 거예요.",
+       "en": "Yes, you just do it."
+      },
+      {
+       "start_ms": 176639,
+       "end_ms": 178720,
+       "ko": "그렇구나.",
+       "en": "I see."
+      },
+      {
+       "start_ms": 178720,
+       "end_ms": 184199,
+       "ko": "그러면 돈을 내고 배워봤거나 하는 운동은 없어요?",
+       "en": "Then is there an exercise you paid for and learned?"
+      }
+     ],
+     "start_ms": 175080,
+     "end_ms": 184199,
+     "ko": "네, 그냥 하는 거예요.\n그렇구나.\n그러면 돈을 내고 배워봤거나 하는 운동은 없어요?",
+     "en": "Yes, you just do it. I see. Then is there an exercise you paid for and learned?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 184199,
+       "end_ms": 191080,
+       "ko": "배워본 건… 저의 의지로 배워본 건 없는 것 같아요.",
+       "en": "As for learning... I don't think there's anything I learned of my own will."
+      },
+      {
+       "start_ms": 191080,
+       "end_ms": 195919,
+       "ko": "어릴 때 태권도를 배웠으니까.",
+       "en": "I learned Taekwondo when I was young."
+      },
+      {
+       "start_ms": 195919,
+       "end_ms": 200479,
+       "ko": "근데 그거 말고는 딱히 없는 것 같은데.",
+       "en": "But other than that, I don't think there's anything specific."
+      }
+     ],
+     "start_ms": 184199,
+     "end_ms": 200479,
+     "ko": "배워본 건… 저의 의지로 배워본 건 없는 것 같아요.\n어릴 때 태권도를 배웠으니까.\n근데 그거 말고는 딱히 없는 것 같은데.",
+     "en": "As for learning... I don't think there's anything I learned of my own will. I learned Taekwondo when I was young. But other than that, I don't think there's anything specific."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 200479,
+       "end_ms": 201880,
+       "ko": "헬스장은요?",
+       "en": "What about the gym?"
+      }
+     ],
+     "start_ms": 200479,
+     "end_ms": 201880,
+     "ko": "헬스장은요?",
+     "en": "What about the gym?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 202199,
+       "end_ms": 209399,
+       "ko": "헬스장도 스무 살 때부터 갔었는데요.",
+       "en": "I started going to the gym from when I was twenty."
+      },
+      {
+       "start_ms": 209399,
+       "end_ms": 214039,
+       "ko": "PT라고 하는 Personal Training. 그건 한 번도 안 받아 봤어요.",
+       "en": "PT, which stands for Personal Training. I've never received that."
+      }
+     ],
+     "start_ms": 202199,
+     "end_ms": 214039,
+     "ko": "헬스장도 스무 살 때부터 갔었는데요.\nPT라고 하는 Personal Training. 그건 한 번도 안 받아 봤어요.",
+     "en": "I started going to the gym from when I was twenty. PT, which stands for Personal Training. I've never received that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 214039,
+       "end_ms": 217039,
+       "ko": "그럼 어떻게 알고 했어요?",
+       "en": "Then how did you know and do it?"
+      }
+     ],
+     "start_ms": 214039,
+     "end_ms": 217039,
+     "ko": "그럼 어떻게 알고 했어요?",
+     "en": "Then how did you know and do it?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 217039,
+       "end_ms": 225000,
+       "ko": "말을 헷갈리게 해서 죄송한데 PT를 돈 내고 받은 적은 없는데",
+       "en": "I'm sorry for confusing things, but I've never paid for and received PT."
+      },
+      {
+       "start_ms": 225000,
+       "end_ms": 229360,
+       "ko": "제가 그렇게 스무 살 때 처음 갔던 헬스장에서",
+       "en": "When I first went to the gym at twenty,"
+      },
+      {
+       "start_ms": 229360,
+       "end_ms": 232479,
+       "ko": "거기 일하고 계시던 트레이너 선생님이",
+       "en": "The trainer who was working there"
+      },
+      {
+       "start_ms": 232479,
+       "end_ms": 237240,
+       "ko": "그냥 제가 운동하는 걸 보고 가르쳐 주셨어요. 한동안.",
+       "en": "Just watched me exercising and taught me. For a while."
+      }
+     ],
+     "start_ms": 217039,
+     "end_ms": 237240,
+     "ko": "말을 헷갈리게 해서 죄송한데 PT를 돈 내고 받은 적은 없는데\n제가 그렇게 스무 살 때 처음 갔던 헬스장에서\n거기 일하고 계시던 트레이너 선생님이\n그냥 제가 운동하는 걸 보고 가르쳐 주셨어요. 한동안.",
+     "en": "I'm sorry for confusing things, but I've never paid for and received PT. When I first went to the gym at twenty, The trainer who was working there Just watched me exercising and taught me. For a while."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 237240,
+       "end_ms": 238119,
+       "ko": "공짜다!",
+       "en": "It's free!"
+      }
+     ],
+     "start_ms": 237240,
+     "end_ms": 238119,
+     "ko": "공짜다!",
+     "en": "It's free!"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 238119,
+       "end_ms": 239720,
+       "ko": "진짜 좋았어요.",
+       "en": "It was really great."
+      }
+     ],
+     "start_ms": 238119,
+     "end_ms": 239720,
+     "ko": "진짜 좋았어요.",
+     "en": "It was really great."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 239720,
+       "end_ms": 243399,
+       "ko": "우와, 왜 가르쳐 주고 싶었을까?",
+       "en": "Wow, why did you want to teach me?"
+      },
+      {
+       "start_ms": 243399,
+       "end_ms": 245240,
+       "ko": "너무 이상하게 하고 있어서.",
+       "en": "Because I was doing it in a really strange way."
+      }
+     ],
+     "start_ms": 239720,
+     "end_ms": 245240,
+     "ko": "우와, 왜 가르쳐 주고 싶었을까?\n너무 이상하게 하고 있어서.",
+     "en": "Wow, why did you want to teach me? Because I was doing it in a really strange way."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 245240,
+       "end_ms": 246559,
+       "ko": "아, 그건 아니고.",
+       "en": "Oh, that's not it."
+      }
+     ],
+     "start_ms": 245240,
+     "end_ms": 246559,
+     "ko": "아, 그건 아니고.",
+     "en": "Oh, that's not it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 246559,
+       "end_ms": 248960,
+       "ko": "그렇게 하면 다쳐요.",
+       "en": "If you do it like that, you'll get hurt."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 246559,
+     "end_ms": 248960,
+     "ko": "그렇게 하면 다쳐요.",
+     "en": "If you do it like that, you'll get hurt."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 248960,
+       "end_ms": 256239,
+       "ko": "되게 지금 생각하면… 이게 무슨 느낌이지?",
+       "en": "When I think about it now… what kind of feeling is this?"
+      },
+      {
+       "start_ms": 256239,
+       "end_ms": 261399,
+       "ko": "좀 찡하다고 해야 되나?",
+       "en": "Should I say it's a bit touching?"
+      }
+     ],
+     "start_ms": 248960,
+     "end_ms": 261399,
+     "ko": "되게 지금 생각하면… 이게 무슨 느낌이지?\n좀 찡하다고 해야 되나?",
+     "en": "When I think about it now… what kind of feeling is this? Should I say it's a bit touching?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 261399,
+       "end_ms": 262200,
+       "ko": "짠한 거?",
+       "en": "Something sad?"
+      }
+     ],
+     "start_ms": 261399,
+     "end_ms": 262200,
+     "ko": "짠한 거?",
+     "en": "Something sad?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 262200,
+       "end_ms": 263920,
+       "ko": "짠하다고 해야 되나?",
+       "en": "Should I say it's sad?"
+      },
+      {
+       "start_ms": 263920,
+       "end_ms": 268720,
+       "ko": "아니, 그렇다기엔 좀 좋은 기억인데",
+       "en": "No, it's more of a good memory than that."
+      },
+      {
+       "start_ms": 268720,
+       "end_ms": 272200,
+       "ko": "제가 몸이 어릴 때부터 되게 많이 약했거든요.",
+       "en": "My body was very weak from a young age."
+      },
+      {
+       "start_ms": 272200,
+       "end_ms": 273839,
+       "ko": "체격도 왜소하고.",
+       "en": "My physique was also small and frail."
+      },
+      {
+       "start_ms": 273839,
+       "end_ms": 280160,
+       "ko": "그리고 또 중고등학생 때 큰 수술을 여러 번 받은 적이 있어서",
+       "en": "And I had several major surgeries during middle and high school."
+      },
+      {
+       "start_ms": 280160,
+       "end_ms": 282519,
+       "ko": "몸이 엄청 약했어요.",
+       "en": "My body was extremely weak."
+      },
+      {
+       "start_ms": 282519,
+       "end_ms": 286160,
+       "ko": "그렇게 고등학교를 졸업할 때까지도 그랬는데",
+       "en": "It was like that even until I graduated high school."
+      },
+      {
+       "start_ms": 286160,
+       "end_ms": 292160,
+       "ko": "어머니께서 제가 스무 살인가 스물한 살 때",
+       "en": "When I was around twenty or twenty-one years old, my mother"
+      },
+      {
+       "start_ms": 292160,
+       "end_ms": 299160,
+       "ko": "제가 수술 기록 때문에 군대를 공익근무로 가긴 했지만",
+       "en": "Because of my surgery records, I did go to the military for public service,"
+      },
+      {
+       "start_ms": 299160,
+       "end_ms": 301559,
+       "ko": "그래도 훈련소에 가야 되는데",
+       "en": "but I still had to go to boot camp."
+      },
+      {
+       "start_ms": 301559,
+       "end_ms": 303959,
+       "ko": "얘가 몸이 너무 약하니까",
+       "en": "Since this kid's body was so weak,"
+      },
+      {
+       "start_ms": 303959,
+       "end_ms": 306440,
+       "ko": "이대로 훈련소에 보냈다가",
+       "en": "if I sent him to boot camp like this,"
+      },
+      {
+       "start_ms": 306440,
+       "end_ms": 312000,
+       "ko": "뭐 또 못하고 그렇게 힘들게 지낼까 봐",
+       "en": "he might struggle and not be able to do things properly."
+      },
+      {
+       "start_ms": 312000,
+       "end_ms": 316399,
+       "ko": "그렇게 어머니께서 저를 헬스장에 데리고 가셨어요.",
+       "en": "So my mother took me to the gym."
+      }
+     ],
+     "start_ms": 262200,
+     "end_ms": 316399,
+     "ko": "짠하다고 해야 되나?\n아니, 그렇다기엔 좀 좋은 기억인데\n제가 몸이 어릴 때부터 되게 많이 약했거든요.\n체격도 왜소하고.\n그리고 또 중고등학생 때 큰 수술을 여러 번 받은 적이 있어서\n몸이 엄청 약했어요.\n그렇게 고등학교를 졸업할 때까지도 그랬는데\n어머니께서 제가 스무 살인가 스물한 살 때\n제가 수술 기록 때문에 군대를 공익근무로 가긴 했지만\n그래도 훈련소에 가야 되는데\n얘가 몸이 너무 약하니까\n이대로 훈련소에 보냈다가\n뭐 또 못하고 그렇게 힘들게 지낼까 봐\n그렇게 어머니께서 저를 헬스장에 데리고 가셨어요.",
+     "en": "Should I say it's sad? No, it's more of a good memory than that. My body was very weak from a young age. My physique was also small and frail. And I had several major surgeries during middle and high school. My body was extremely weak. It was like that even until I graduated high school. When I was around twenty or twenty-one years old, my mother Because of my surgery records, I did go to the military for public service, but I still had to go to boot camp. Since this kid's body was so weak, if I sent him to boot camp like this, he might struggle and not be able to do things properly. So my mother took me to the gym."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 316399,
+       "end_ms": 319679,
+       "ko": "우와, 그럴 수 있죠.",
+       "en": "Wow, that makes sense."
+      }
+     ],
+     "start_ms": 316399,
+     "end_ms": 319679,
+     "ko": "우와, 그럴 수 있죠.",
+     "en": "Wow, that makes sense."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 319679,
+       "end_ms": 322160,
+       "ko": "등록할 때 돈도 내고 하니까",
+       "en": "You pay the registration fee and all that."
+      },
+      {
+       "start_ms": 322160,
+       "end_ms": 325320,
+       "ko": "그러면서 그때 계시던 선생님한테",
+       "en": "And then to the trainer who was there at the time,"
+      },
+      {
+       "start_ms": 325320,
+       "end_ms": 331480,
+       "ko": "얘가 몸이 너무 약하고 운동도 제대로…",
+       "en": "this kid's body is very weak and he doesn't exercise properly…"
+      },
+      {
+       "start_ms": 331480,
+       "end_ms": 333160,
+       "ko": "태권도를 하긴 했지만",
+       "en": "he did do taekwondo,"
+      },
+      {
+       "start_ms": 333160,
+       "end_ms": 337200,
+       "ko": "근데 뭐 그래서 좀 군대 보내기 전에",
+       "en": "but anyway, so before sending him to the military,"
+      },
+      {
+       "start_ms": 337200,
+       "end_ms": 341720,
+       "ko": "훈련소 보내기 전에 좀 제대로 운동을 시켜야 할 것 같다.",
+       "en": "before sending him to boot camp, I should probably train him properly."
+      },
+      {
+       "start_ms": 341720,
+       "end_ms": 346480,
+       "ko": "그래서 등록한다고 얘기를 하고 등록을 했어요.",
+       "en": "So I told them I was registering and I registered."
+      }
+     ],
+     "start_ms": 319679,
+     "end_ms": 346480,
+     "ko": "등록할 때 돈도 내고 하니까\n그러면서 그때 계시던 선생님한테\n얘가 몸이 너무 약하고 운동도 제대로…\n태권도를 하긴 했지만\n근데 뭐 그래서 좀 군대 보내기 전에\n훈련소 보내기 전에 좀 제대로 운동을 시켜야 할 것 같다.\n그래서 등록한다고 얘기를 하고 등록을 했어요.",
+     "en": "You pay the registration fee and all that. And then to the trainer who was there at the time, this kid's body is very weak and he doesn't exercise properly… he did do taekwondo, but anyway, so before sending him to the military, before sending him to boot camp, I should probably train him properly. So I told them I was registering and I registered."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 346480,
+       "end_ms": 353040,
+       "ko": "그랬는데 얼마나 어린 남자애가 귀엽게 보였겠어요.",
+       "en": "But how cute must a young boy have looked."
+      },
+      {
+       "start_ms": 353040,
+       "end_ms": 355200,
+       "ko": "그리고 짠했겠어요, 얼마나.",
+       "en": "And how sad it must have seemed."
+      },
+      {
+       "start_ms": 355200,
+       "end_ms": 357559,
+       "ko": "몸이 약해서 이렇게 하니까.",
+       "en": "Because his body was weak, it was like this."
+      }
+     ],
+     "start_ms": 346480,
+     "end_ms": 357559,
+     "ko": "그랬는데 얼마나 어린 남자애가 귀엽게 보였겠어요.\n그리고 짠했겠어요, 얼마나.\n몸이 약해서 이렇게 하니까.",
+     "en": "But how cute must a young boy have looked. And how sad it must have seemed. Because his body was weak, it was like this."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 357559,
+       "end_ms": 363359,
+       "ko": "네, 그래서 제가 매일 새벽 아침에 헬스장을 갔는데",
+       "en": "Yes, so I went to the gym every early morning."
+      },
+      {
+       "start_ms": 363359,
+       "end_ms": 367079,
+       "ko": "그 트레이너 선생님께서 저를 아주 전담해서",
+       "en": "And that trainer took me under his wing completely."
+      }
+     ],
+     "start_ms": 357559,
+     "end_ms": 367079,
+     "ko": "네, 그래서 제가 매일 새벽 아침에 헬스장을 갔는데\n그 트레이너 선생님께서 저를 아주 전담해서",
+     "en": "Yes, so I went to the gym every early morning. And that trainer took me under his wing completely."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 367079,
+       "end_ms": 368720,
+       "ko": "우와, 최고다.",
+       "en": "Wow, that's the best."
+      }
+     ],
+     "start_ms": 367079,
+     "end_ms": 368720,
+     "ko": "우와, 최고다.",
+     "en": "Wow, that's the best."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 368720,
+       "end_ms": 373640,
+       "ko": "네, 많은 운동을 가르쳐 주셨어요.",
+       "en": "Yes, he taught me a lot of exercises."
+      }
+     ],
+     "start_ms": 368720,
+     "end_ms": 373640,
+     "ko": "네, 많은 운동을 가르쳐 주셨어요.",
+     "en": "Yes, he taught me a lot of exercises."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 373640,
+       "end_ms": 376119,
+       "ko": "너무 좋은 곳을 만났네요.",
+       "en": "You really found a great place."
+      }
+     ],
+     "start_ms": 373640,
+     "end_ms": 376119,
+     "ko": "너무 좋은 곳을 만났네요.",
+     "en": "You really found a great place."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 376119,
+       "end_ms": 382359,
+       "ko": "네, 진짜 제 삶의 몇몇 귀인 분들 중에 한 분입니다.",
+       "en": "Yes, he's one of several noble people in my life."
+      }
+     ],
+     "start_ms": 376119,
+     "end_ms": 382359,
+     "ko": "네, 진짜 제 삶의 몇몇 귀인 분들 중에 한 분입니다.",
+     "en": "Yes, he's one of several noble people in my life."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 382359,
+       "end_ms": 385480,
+       "ko": "우와, 보통 몸이 약해서요, 이러면",
+       "en": "Wow, usually when it's like, the body is weak, you know,"
+      },
+      {
+       "start_ms": 385480,
+       "end_ms": 389440,
+       "ko": "아, 그러면 저희 퍼스널 트레이닝 코스 이렇게 있고요.",
+       "en": "Oh, then we have our personal training course like this."
+      },
+      {
+       "start_ms": 389440,
+       "end_ms": 392519,
+       "ko": "하면서 안내해 주실 수도 있는데",
+       "en": "and they could guide you through it,"
+      },
+      {
+       "start_ms": 392519,
+       "end_ms": 394480,
+       "ko": "해주셨구나.",
+       "en": "but he did it for me."
+      }
+     ],
+     "start_ms": 382359,
+     "end_ms": 394480,
+     "ko": "우와, 보통 몸이 약해서요, 이러면\n아, 그러면 저희 퍼스널 트레이닝 코스 이렇게 있고요.\n하면서 안내해 주실 수도 있는데\n해주셨구나.",
+     "en": "Wow, usually when it's like, the body is weak, you know, Oh, then we have our personal training course like this. and they could guide you through it, but he did it for me."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 394480,
+       "end_ms": 399000,
+       "ko": "네, 되게 특이한, 그분도 되게 특이한 사람이었어요.",
+       "en": "Yes, he was a very unique person too."
+      }
+     ],
+     "start_ms": 394480,
+     "end_ms": 399000,
+     "ko": "네, 되게 특이한, 그분도 되게 특이한 사람이었어요.",
+     "en": "Yes, he was a very unique person too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 399000,
+       "end_ms": 400040,
+       "ko": "아, 그래요?",
+       "en": "Oh, really?"
+      }
+     ],
+     "start_ms": 399000,
+     "end_ms": 400040,
+     "ko": "아, 그래요?",
+     "en": "Oh, really?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 400040,
+       "end_ms": 403320,
+       "ko": "네, 전업으로 운동을 하시는 분이 아니고",
+       "en": "Yes, he wasn't someone who worked out professionally full-time."
+      },
+      {
+       "start_ms": 403320,
+       "end_ms": 406880,
+       "ko": "원래 개인 비즈니스를 하던 사람인데",
+       "en": "He was originally someone who did his own business,"
+      },
+      {
+       "start_ms": 406880,
+       "end_ms": 410559,
+       "ko": "미국에서 일을 하다가 한국으로 돌아왔는데",
+       "en": "and he came back to Korea after working in America,"
+      },
+      {
+       "start_ms": 410559,
+       "end_ms": 414079,
+       "ko": "자기가 운동하는 걸 그냥 좋아하고",
+       "en": "but he just liked working out,"
+      },
+      {
+       "start_ms": 414079,
+       "end_ms": 419320,
+       "ko": "그런데 자기의 현재 생활 습관이",
+       "en": "and he thought his current lifestyle habits"
+      },
+      {
+       "start_ms": 419320,
+       "end_ms": 422799,
+       "ko": "좀 아침형 인간이면 좋을 것 같아서",
+       "en": "would be better if he were more of a morning person,"
+      },
+      {
+       "start_ms": 422799,
+       "end_ms": 429640,
+       "ko": "일부러 새벽에 오픈하는 그 헬스장 카운터를 자기가 지원해서",
+       "en": "so he volunteered to work the counter at that gym that opens early in the morning,"
+      },
+      {
+       "start_ms": 429640,
+       "end_ms": 434519,
+       "ko": "자기가 헬스장 문을 오픈하려면 일찍 일어나야 하니까",
+       "en": "because to open the gym he had to wake up early,"
+      },
+      {
+       "start_ms": 434519,
+       "end_ms": 439320,
+       "ko": "그래서 오전에만 그렇게 일하다가 퇴근하던 분이었어요.",
+       "en": "so he worked in the morning like that and then clocked out."
+      },
+      {
+       "start_ms": 439320,
+       "end_ms": 443440,
+       "ko": "그리고 자기 운동하고 저 같은 사람 도와주고",
+       "en": "And he worked out himself and helped people like me,"
+      },
+      {
+       "start_ms": 443440,
+       "end_ms": 446600,
+       "ko": "PT 그런 거 돈 받고 안 하고",
+       "en": "and he didn't take money for personal training or anything like that."
+      },
+      {
+       "start_ms": 446600,
+       "end_ms": 447880,
+       "ko": "진짜 특이한 사람이었어요.",
+       "en": "He was a really unique person."
+      }
+     ],
+     "start_ms": 400040,
+     "end_ms": 447880,
+     "ko": "네, 전업으로 운동을 하시는 분이 아니고\n원래 개인 비즈니스를 하던 사람인데\n미국에서 일을 하다가 한국으로 돌아왔는데\n자기가 운동하는 걸 그냥 좋아하고\n그런데 자기의 현재 생활 습관이\n좀 아침형 인간이면 좋을 것 같아서\n일부러 새벽에 오픈하는 그 헬스장 카운터를 자기가 지원해서\n자기가 헬스장 문을 오픈하려면 일찍 일어나야 하니까\n그래서 오전에만 그렇게 일하다가 퇴근하던 분이었어요.\n그리고 자기 운동하고 저 같은 사람 도와주고\nPT 그런 거 돈 받고 안 하고\n진짜 특이한 사람이었어요.",
+     "en": "Yes, he wasn't someone who worked out professionally full-time. He was originally someone who did his own business, and he came back to Korea after working in America, but he just liked working out, and he thought his current lifestyle habits would be better if he were more of a morning person, so he volunteered to work the counter at that gym that opens early in the morning, because to open the gym he had to wake up early, so he worked in the morning like that and then clocked out. And he worked out himself and helped people like me, and he didn't take money for personal training or anything like that. He was a really unique person."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 447880,
+       "end_ms": 450839,
+       "ko": "그러네요, 특이하다.",
+       "en": "That's something, unique indeed."
+      },
+      {
+       "start_ms": 450839,
+       "end_ms": 452640,
+       "ko": "의지가 대단하다, 그래도.",
+       "en": "His determination is remarkable, even so."
+      }
+     ],
+     "start_ms": 447880,
+     "end_ms": 452640,
+     "ko": "그러네요, 특이하다.\n의지가 대단하다, 그래도.",
+     "en": "That's something, unique indeed. His determination is remarkable, even so."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 452640,
+       "end_ms": 456279,
+       "ko": "네, 저의 가치관에 좀 큰 영향을 준 사람입니다.",
+       "en": "Yes, this person had quite a big influence on my values."
+      }
+     ],
+     "start_ms": 452640,
+     "end_ms": 456279,
+     "ko": "네, 저의 가치관에 좀 큰 영향을 준 사람입니다.",
+     "en": "Yes, this person had quite a big influence on my values."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 456279,
+       "end_ms": 459640,
+       "ko": "오, 그래요? 꽤 오래 했어요, 그래도?",
+       "en": "Oh really? You did it for quite a long time then?"
+      }
+     ],
+     "start_ms": 456279,
+     "end_ms": 459640,
+     "ko": "오, 그래요? 꽤 오래 했어요, 그래도?",
+     "en": "Oh really? You did it for quite a long time then?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 459640,
+       "end_ms": 464359,
+       "ko": "네, 그래도 꽤 몇 달 넘게, 한 6개월은 한 것 같은데",
+       "en": "Yes, I think I did it for over several months, around six months or so."
+      }
+     ],
+     "start_ms": 459640,
+     "end_ms": 464359,
+     "ko": "네, 그래도 꽤 몇 달 넘게, 한 6개월은 한 것 같은데",
+     "en": "Yes, I think I did it for over several months, around six months or so."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 464359,
+       "end_ms": 465559,
+       "ko": "대박.",
+       "en": "Wow."
+      },
+      {
+       "start_ms": 465559,
+       "end_ms": 468320,
+       "ko": "그때 배웠구나, 헬스 기구 같은 거는?",
+       "en": "So you learned about fitness equipment and things like that back then?"
+      }
+     ],
+     "start_ms": 464359,
+     "end_ms": 468320,
+     "ko": "대박.\n그때 배웠구나, 헬스 기구 같은 거는?",
+     "en": "Wow. So you learned about fitness equipment and things like that back then?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 468320,
+       "end_ms": 471480,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 468320,
+     "end_ms": 471480,
+     "ko": "네.",
+     "en": "Yes."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "title_ko": "해 본 운동, 해 보고 싶은 운동",
+   "title_en": "Sports we've tried and want to try",
+   "start_ms": 471480,
+   "end_ms": 1088200,
+   "hangul_chars": 2102,
+   "turns": [
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 471480,
+       "end_ms": 476399,
+       "ko": "아무튼 다시 운동 얘기로 돌아가서",
+       "en": "Anyway, getting back to the topic of exercise"
+      },
+      {
+       "start_ms": 476399,
+       "end_ms": 478760,
+       "ko": "그거 말고는 딱히 없는 것 같은데요?",
+       "en": "It seems like there's nothing else besides that?"
+      }
+     ],
+     "start_ms": 471480,
+     "end_ms": 478760,
+     "ko": "아무튼 다시 운동 얘기로 돌아가서\n그거 말고는 딱히 없는 것 같은데요?",
+     "en": "Anyway, getting back to the topic of exercise It seems like there's nothing else besides that?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 478760,
+       "end_ms": 480160,
+       "ko": "배운 건 없어요?",
+       "en": "You didn't learn anything else?"
+      }
+     ],
+     "start_ms": 478760,
+     "end_ms": 480160,
+     "ko": "배운 건 없어요?",
+     "en": "You didn't learn anything else?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 480160,
+       "end_ms": 482160,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 480160,
+     "end_ms": 482160,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 482160,
+       "end_ms": 487160,
+       "ko": "저는 운동을 너무 싫어하는 사람으로서",
+       "en": "As someone who really dislikes exercise"
+      },
+      {
+       "start_ms": 487160,
+       "end_ms": 492760,
+       "ko": "뭐 돈 내면 하겠지 하는 마음으로 여러 가지 도전해 봤거든요.",
+       "en": "I've tried various things with the mindset of, well, if I pay for it I'll do it."
+      },
+      {
+       "start_ms": 492760,
+       "end_ms": 497160,
+       "ko": "일단 어렸을 때 배웠던 거는 수영을 좀 오래 배웠고",
+       "en": "First, when I was young, I took swimming lessons for quite a long time"
+      },
+      {
+       "start_ms": 497160,
+       "end_ms": 500559,
+       "ko": "그건 부모님이 보내신 거고",
+       "en": "and that was because my parents sent me"
+      },
+      {
+       "start_ms": 500559,
+       "end_ms": 505839,
+       "ko": "성인이 돼서는 PT 이런 것도 해봤어요, 잠깐.",
+       "en": "and as an adult, I've also tried things like personal training, briefly."
+      },
+      {
+       "start_ms": 505839,
+       "end_ms": 509440,
+       "ko": "해봤고, 요가 해봤고",
+       "en": "I tried it, and I did yoga"
+      },
+      {
+       "start_ms": 509440,
+       "end_ms": 513719,
+       "ko": "스쿼트라고 테니스 같은 거 있거든요.",
+       "en": "There's squash, which is like tennis."
+      },
+      {
+       "start_ms": 513719,
+       "end_ms": 518080,
+       "ko": "공 요만한 걸로 하는 테니스, 그것도 잠깐 배웠고",
+       "en": "Tennis played with a ball this small, I learned that briefly too"
+      }
+     ],
+     "start_ms": 482160,
+     "end_ms": 518080,
+     "ko": "저는 운동을 너무 싫어하는 사람으로서\n뭐 돈 내면 하겠지 하는 마음으로 여러 가지 도전해 봤거든요.\n일단 어렸을 때 배웠던 거는 수영을 좀 오래 배웠고\n그건 부모님이 보내신 거고\n성인이 돼서는 PT 이런 것도 해봤어요, 잠깐.\n해봤고, 요가 해봤고\n스쿼트라고 테니스 같은 거 있거든요.\n공 요만한 걸로 하는 테니스, 그것도 잠깐 배웠고",
+     "en": "As someone who really dislikes exercise I've tried various things with the mindset of, well, if I pay for it I'll do it. First, when I was young, I took swimming lessons for quite a long time and that was because my parents sent me and as an adult, I've also tried things like personal training, briefly. I tried it, and I did yoga There's squash, which is like tennis. Tennis played with a ball this small, I learned that briefly too"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 518080,
+       "end_ms": 519760,
+       "ko": "멋있다.",
+       "en": "That's cool."
+      }
+     ],
+     "start_ms": 518080,
+     "end_ms": 519760,
+     "ko": "멋있다.",
+     "en": "That's cool."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 519760,
+       "end_ms": 524119,
+       "ko": "잘하면 멋있는데, 잠깐 배웠어요.",
+       "en": "It's cool if you're good at it, but I only learned it briefly."
+      },
+      {
+       "start_ms": 524119,
+       "end_ms": 529280,
+       "ko": "그리고, 그리고는 없다.",
+       "en": "And, and that's it."
+      },
+      {
+       "start_ms": 529280,
+       "end_ms": 530760,
+       "ko": "배워봤는데",
+       "en": "I tried it"
+      }
+     ],
+     "start_ms": 519760,
+     "end_ms": 530760,
+     "ko": "잘하면 멋있는데, 잠깐 배웠어요.\n그리고, 그리고는 없다.\n배워봤는데",
+     "en": "It's cool if you're good at it, but I only learned it briefly. And, and that's it. I tried it"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 530760,
+       "end_ms": 533520,
+       "ko": "어때요?",
+       "en": "How was it?"
+      }
+     ],
+     "start_ms": 530760,
+     "end_ms": 533520,
+     "ko": "어때요?",
+     "en": "How was it?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 533520,
+       "end_ms": 538559,
+       "ko": "그것도 돈을 내고도 안 가게 되기도 하잖아요.",
+       "en": "Even when you pay money, you end up not going sometimes, right?"
+      },
+      {
+       "start_ms": 539520,
+       "end_ms": 541320,
+       "ko": "뭐라 해야 되지?",
+       "en": "How should I put it?"
+      },
+      {
+       "start_ms": 541320,
+       "end_ms": 543520,
+       "ko": "강제성이 부족해요.",
+       "en": "There's a lack of obligation."
+      }
+     ],
+     "start_ms": 533520,
+     "end_ms": 543520,
+     "ko": "그것도 돈을 내고도 안 가게 되기도 하잖아요.\n뭐라 해야 되지?\n강제성이 부족해요.",
+     "en": "Even when you pay money, you end up not going sometimes, right? How should I put it? There's a lack of obligation."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 543520,
+       "end_ms": 546080,
+       "ko": "돈을 내고 가는데도요?",
+       "en": "Even though you're paying to go?"
+      }
+     ],
+     "start_ms": 543520,
+     "end_ms": 546080,
+     "ko": "돈을 내고 가는데도요?",
+     "en": "Even though you're paying to go?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 546080,
+       "end_ms": 549440,
+       "ko": "뭔가 안 가면 그만이에요.",
+       "en": "If I don't go, that's just it."
+      },
+      {
+       "start_ms": 549440,
+       "end_ms": 552919,
+       "ko": "뭐 아까 내가 안 가면 헬스장 문을 못 여니까",
+       "en": "Like, earlier I mentioned that if I don't go the gym door won't open"
+      },
+      {
+       "start_ms": 552919,
+       "end_ms": 555320,
+       "ko": "하는 그런 것이 없고",
+       "en": "there's nothing like that"
+      },
+      {
+       "start_ms": 555320,
+       "end_ms": 559280,
+       "ko": "그냥 안 가면 나만 손해니까",
+       "en": "if I just don't go, only I lose out"
+      },
+      {
+       "start_ms": 559280,
+       "end_ms": 563000,
+       "ko": "그것도 포기하기가 쉬워요.",
+       "en": "so it's easy to give up on that too."
+      },
+      {
+       "start_ms": 563000,
+       "end_ms": 567960,
+       "ko": "그래서 운동의 습관을 들이진 못했지만",
+       "en": "So even though I couldn't build a habit of exercising"
+      },
+      {
+       "start_ms": 567960,
+       "end_ms": 570799,
+       "ko": "가서 막상 하면 재미있기 때문에",
+       "en": "because once I actually go and do it, it's fun"
+      },
+      {
+       "start_ms": 570799,
+       "end_ms": 572359,
+       "ko": "가서 할 때는 재미있게 했어요.",
+       "en": "when I go and do it, I have fun doing it."
+      },
+      {
+       "start_ms": 572359,
+       "end_ms": 576840,
+       "ko": "요가도 재미있었고, 스쿼트도 재미있었어요.",
+       "en": "Yoga was fun too, and squash was fun."
+      }
+     ],
+     "start_ms": 546080,
+     "end_ms": 576840,
+     "ko": "뭔가 안 가면 그만이에요.\n뭐 아까 내가 안 가면 헬스장 문을 못 여니까\n하는 그런 것이 없고\n그냥 안 가면 나만 손해니까\n그것도 포기하기가 쉬워요.\n그래서 운동의 습관을 들이진 못했지만\n가서 막상 하면 재미있기 때문에\n가서 할 때는 재미있게 했어요.\n요가도 재미있었고, 스쿼트도 재미있었어요.",
+     "en": "If I don't go, that's just it. Like, earlier I mentioned that if I don't go the gym door won't open there's nothing like that if I just don't go, only I lose out so it's easy to give up on that too. So even though I couldn't build a habit of exercising because once I actually go and do it, it's fun when I go and do it, I have fun doing it. Yoga was fun too, and squash was fun."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 576840,
+       "end_ms": 581080,
+       "ko": "수영도 가서 하면 재미있죠.",
+       "en": "Swimming is fun when you go and do it."
+      }
+     ],
+     "start_ms": 576840,
+     "end_ms": 581080,
+     "ko": "수영도 가서 하면 재미있죠.",
+     "en": "Swimming is fun when you go and do it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 581080,
+       "end_ms": 583520,
+       "ko": "아니, 재미있는데",
+       "en": "No, it's fun"
+      },
+      {
+       "start_ms": 583520,
+       "end_ms": 587640,
+       "ko": "하러 가기가 귀찮아요. 하러 가기가",
+       "en": "but it's annoying to go do it. It's annoying to go"
+      },
+      {
+       "start_ms": 587640,
+       "end_ms": 589320,
+       "ko": "그 준비 과정",
+       "en": "that preparation process"
+      }
+     ],
+     "start_ms": 581080,
+     "end_ms": 589320,
+     "ko": "아니, 재미있는데\n하러 가기가 귀찮아요. 하러 가기가\n그 준비 과정",
+     "en": "No, it's fun but it's annoying to go do it. It's annoying to go that preparation process"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 589320,
+       "end_ms": 590599,
+       "ko": "그렇구나",
+       "en": "I see"
+      }
+     ],
+     "start_ms": 589320,
+     "end_ms": 590599,
+     "ko": "그렇구나",
+     "en": "I see"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 590599,
+       "end_ms": 593799,
+       "ko": "그래도 겨울보다는 여름이 나은 게",
+       "en": "but still, summer is better than winter"
+      },
+      {
+       "start_ms": 593799,
+       "end_ms": 597280,
+       "ko": "겨울에는 막 옷을 몇 개를 껴입어야 되잖아요.",
+       "en": "in winter you have to wear several layers of clothes, right?"
+      },
+      {
+       "start_ms": 597280,
+       "end_ms": 599960,
+       "ko": "운동을 하러 가려면",
+       "en": "to go exercise"
+      },
+      {
+       "start_ms": 600000,
+       "end_ms": 607000,
+       "ko": "모든 과정, 너무 귀찮은데 여름은 그래도 티셔츠, 바지 입고 나가면 되니까",
+       "en": "the whole process is so annoying, but in summer I can just put on a t-shirt and pants and go out"
+      },
+      {
+       "start_ms": 607000,
+       "end_ms": 612640,
+       "ko": "제가 그나마 운동을 하는 시즌이 지금이에요, 지금.",
+       "en": "so the season when I exercise the most is now, right now."
+      },
+      {
+       "start_ms": 612640,
+       "end_ms": 617440,
+       "ko": "조금이라도 귀찮음이 덜 날 때.",
+       "en": "when things are even a little less annoying."
+      }
+     ],
+     "start_ms": 590599,
+     "end_ms": 617440,
+     "ko": "그래도 겨울보다는 여름이 나은 게\n겨울에는 막 옷을 몇 개를 껴입어야 되잖아요.\n운동을 하러 가려면\n모든 과정, 너무 귀찮은데 여름은 그래도 티셔츠, 바지 입고 나가면 되니까\n제가 그나마 운동을 하는 시즌이 지금이에요, 지금.\n조금이라도 귀찮음이 덜 날 때.",
+     "en": "but still, summer is better than winter in winter you have to wear several layers of clothes, right? to go exercise the whole process is so annoying, but in summer I can just put on a t-shirt and pants and go out so the season when I exercise the most is now, right now. when things are even a little less annoying."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 617440,
+       "end_ms": 623040,
+       "ko": "요즘 아파트 안에 헬스장 있고 수영장 있는 곳들도 있잖아요.",
+       "en": "these days there are apartments with gyms and swimming pools inside, right?"
+      }
+     ],
+     "start_ms": 617440,
+     "end_ms": 623040,
+     "ko": "요즘 아파트 안에 헬스장 있고 수영장 있는 곳들도 있잖아요.",
+     "en": "these days there are apartments with gyms and swimming pools inside, right?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 623040,
+       "end_ms": 624200,
+       "ko": "그런 곳도 있죠.",
+       "en": "There are places like that."
+      }
+     ],
+     "start_ms": 623040,
+     "end_ms": 624200,
+     "ko": "그런 곳도 있죠.",
+     "en": "There are places like that."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 624200,
+       "end_ms": 628840,
+       "ko": "만약에 그런 곳에 살면 좀 도움이 될까요?",
+       "en": "If you lived in a place like that, do you think it would help a bit?"
+      }
+     ],
+     "start_ms": 624200,
+     "end_ms": 628840,
+     "ko": "만약에 그런 곳에 살면 좀 도움이 될까요?",
+     "en": "If you lived in a place like that, do you think it would help a bit?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 628840,
+       "end_ms": 634560,
+       "ko": "제가 생각해 본 건데 같이 할 사람이 있으면 잘할 것 같아요.",
+       "en": "What I've thought about is, if there was someone to do it with, I think I'd do well."
+      },
+      {
+       "start_ms": 634560,
+       "end_ms": 636919,
+       "ko": "자주 나가게 될 것 같아요.",
+       "en": "I think I'd go out more often."
+      },
+      {
+       "start_ms": 636919,
+       "end_ms": 642840,
+       "ko": "가자 가자 같이 가자 하는 누군가가 있으면",
+       "en": "if there was someone saying let's go, let's go, let's go together"
+      },
+      {
+       "start_ms": 642840,
+       "end_ms": 648680,
+       "ko": "좀 더 나가게 되지 않을까요? 혼자 하는 것보다는?",
+       "en": "wouldn't I go out more? than doing it alone?"
+      },
+      {
+       "start_ms": 648680,
+       "end_ms": 651919,
+       "ko": "운동 메이트가 있었으면 좋겠다.",
+       "en": "I wish I had a workout buddy."
+      }
+     ],
+     "start_ms": 628840,
+     "end_ms": 651919,
+     "ko": "제가 생각해 본 건데 같이 할 사람이 있으면 잘할 것 같아요.\n자주 나가게 될 것 같아요.\n가자 가자 같이 가자 하는 누군가가 있으면\n좀 더 나가게 되지 않을까요? 혼자 하는 것보다는?\n운동 메이트가 있었으면 좋겠다.",
+     "en": "What I've thought about is, if there was someone to do it with, I think I'd do well. I think I'd go out more often. if there was someone saying let's go, let's go, let's go together wouldn't I go out more? than doing it alone? I wish I had a workout buddy."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 651919,
+       "end_ms": 659880,
+       "ko": "맞아요. 그런 것 때문에 러닝크루 하고 동호회 하고 그런 거겠죠?",
+       "en": "Right. That's probably why running clubs and hobby groups exist, right?"
+      }
+     ],
+     "start_ms": 651919,
+     "end_ms": 659880,
+     "ko": "맞아요. 그런 것 때문에 러닝크루 하고 동호회 하고 그런 거겠죠?",
+     "en": "Right. That's probably why running clubs and hobby groups exist, right?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 659880,
+       "end_ms": 666959,
+       "ko": "맞죠. 요즘 좀 흥미가 있는 아니면 배워보고 싶은 운동은 없어요?",
+       "en": "Right. These days, is there any exercise you're interested in or want to try?"
+      },
+      {
+       "start_ms": 666959,
+       "end_ms": 669160,
+       "ko": "해볼까 하는 운동.",
+       "en": "An exercise you're thinking of trying."
+      }
+     ],
+     "start_ms": 659880,
+     "end_ms": 669160,
+     "ko": "맞죠. 요즘 좀 흥미가 있는 아니면 배워보고 싶은 운동은 없어요?\n해볼까 하는 운동.",
+     "en": "Right. These days, is there any exercise you're interested in or want to try? An exercise you're thinking of trying."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 669160,
+       "end_ms": 676440,
+       "ko": "요즘 따로 있는 건 없는데 저는 운동에 관심은 많거든요.",
+       "en": "There's nothing in particular these days, but I'm very interested in exercise."
+      },
+      {
+       "start_ms": 676440,
+       "end_ms": 679400,
+       "ko": "선망하는 운동들이 많아요.",
+       "en": "There are many sports I admire."
+      }
+     ],
+     "start_ms": 669160,
+     "end_ms": 679400,
+     "ko": "요즘 따로 있는 건 없는데 저는 운동에 관심은 많거든요.\n선망하는 운동들이 많아요.",
+     "en": "There's nothing in particular these days, but I'm very interested in exercise. There are many sports I admire."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 679400,
+       "end_ms": 680720,
+       "ko": "네, 어떤 게 있어요?",
+       "en": "Yes, what are some examples?"
+      }
+     ],
+     "start_ms": 679400,
+     "end_ms": 680720,
+     "ko": "네, 어떤 게 있어요?",
+     "en": "Yes, what are some examples?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 680720,
+       "end_ms": 683320,
+       "ko": "대표적으로 수영.",
+       "en": "Swimming is a typical one."
+      },
+      {
+       "start_ms": 683320,
+       "end_ms": 689639,
+       "ko": "저는 수영을 어릴 때부터 안 배워서 할 줄 몰라요.",
+       "en": "I didn't learn swimming from a young age, so I don't know how to do it."
+      }
+     ],
+     "start_ms": 680720,
+     "end_ms": 689639,
+     "ko": "대표적으로 수영.\n저는 수영을 어릴 때부터 안 배워서 할 줄 몰라요.",
+     "en": "Swimming is a typical one. I didn't learn swimming from a young age, so I don't know how to do it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 689639,
+       "end_ms": 690559,
+       "ko": "오케이, 수영.",
+       "en": "Okay, swimming."
+      }
+     ],
+     "start_ms": 689639,
+     "end_ms": 690559,
+     "ko": "오케이, 수영.",
+     "en": "Okay, swimming."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 690559,
+       "end_ms": 692760,
+       "ko": "네, 배우면 너무 좋을 것 같고.",
+       "en": "Yes, it seems like it would be really great if I learned it."
+      }
+     ],
+     "start_ms": 690559,
+     "end_ms": 692760,
+     "ko": "네, 배우면 너무 좋을 것 같고.",
+     "en": "Yes, it seems like it would be really great if I learned it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 692760,
+       "end_ms": 695000,
+       "ko": "너무 좋을 거예요.",
+       "en": "It really would be great."
+      },
+      {
+       "start_ms": 695000,
+       "end_ms": 696599,
+       "ko": "부산이잖아요, 그럼.",
+       "en": "Since it's Busan, right?"
+      }
+     ],
+     "start_ms": 692760,
+     "end_ms": 696599,
+     "ko": "너무 좋을 거예요.\n부산이잖아요, 그럼.",
+     "en": "It really would be great. Since it's Busan, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 696599,
+       "end_ms": 698360,
+       "ko": "맞아요.",
+       "en": "That's right."
+      },
+      {
+       "start_ms": 698360,
+       "end_ms": 701839,
+       "ko": "그리고 클라이밍.",
+       "en": "And rock climbing."
+      },
+      {
+       "start_ms": 701839,
+       "end_ms": 705639,
+       "ko": "네, 클라이밍은 한 번 해본 적은 있어요.",
+       "en": "Yes, I've tried rock climbing once before."
+      },
+      {
+       "start_ms": 705639,
+       "end_ms": 708559,
+       "ko": "근데 재밌더라고요.",
+       "en": "But it was fun."
+      },
+      {
+       "start_ms": 708599,
+       "end_ms": 712279,
+       "ko": "그리고 좀 저랑 잘 맞는 운동인 것 같아요.",
+       "en": "And it seems like a sport that suits me well."
+      },
+      {
+       "start_ms": 712279,
+       "end_ms": 714239,
+       "ko": "잘은 모르지만 아직.",
+       "en": "I'm not sure yet, though."
+      },
+      {
+       "start_ms": 714239,
+       "end_ms": 721160,
+       "ko": "그냥 뭐 저의 체형과 그런 걸 고려했을 때 좀 유리한 종목인 것 같아요.",
+       "en": "Just considering my body type and things like that, it seems like a sport where I'd have an advantage."
+      },
+      {
+       "start_ms": 721160,
+       "end_ms": 727040,
+       "ko": "네, 그다음에는 저는 복싱, 킥복싱.",
+       "en": "Yes, and next for me is boxing, kickboxing."
+      },
+      {
+       "start_ms": 727040,
+       "end_ms": 728839,
+       "ko": "킥복싱을 배우고 싶고.",
+       "en": "I want to learn kickboxing."
+      }
+     ],
+     "start_ms": 696599,
+     "end_ms": 728839,
+     "ko": "맞아요.\n그리고 클라이밍.\n네, 클라이밍은 한 번 해본 적은 있어요.\n근데 재밌더라고요.\n그리고 좀 저랑 잘 맞는 운동인 것 같아요.\n잘은 모르지만 아직.\n그냥 뭐 저의 체형과 그런 걸 고려했을 때 좀 유리한 종목인 것 같아요.\n네, 그다음에는 저는 복싱, 킥복싱.\n킥복싱을 배우고 싶고.",
+     "en": "That's right. And rock climbing. Yes, I've tried rock climbing once before. But it was fun. And it seems like a sport that suits me well. I'm not sure yet, though. Just considering my body type and things like that, it seems like a sport where I'd have an advantage. Yes, and next for me is boxing, kickboxing. I want to learn kickboxing."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 728839,
+       "end_ms": 729559,
+       "ko": "저도.",
+       "en": "Me too."
+      }
+     ],
+     "start_ms": 728839,
+     "end_ms": 729559,
+     "ko": "저도.",
+     "en": "Me too."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 729559,
+       "end_ms": 732960,
+       "ko": "네, 그다음에 주짓수.",
+       "en": "Yes, and then Brazilian jiu-jitsu."
+      }
+     ],
+     "start_ms": 729559,
+     "end_ms": 732960,
+     "ko": "네, 그다음에 주짓수.",
+     "en": "Yes, and then Brazilian jiu-jitsu."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 732960,
+       "end_ms": 735160,
+       "ko": "주짓수도 많이 배우더라고요, 요즘.",
+       "en": "I see a lot of people learning Brazilian jiu-jitsu these days."
+      }
+     ],
+     "start_ms": 732960,
+     "end_ms": 735160,
+     "ko": "주짓수도 많이 배우더라고요, 요즘.",
+     "en": "I see a lot of people learning Brazilian jiu-jitsu these days."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 735160,
+       "end_ms": 743320,
+       "ko": "네, 킥복싱과 주짓수 외에 레슬링까지 배우면",
+       "en": "Yes, if you learn kickboxing, Brazilian jiu-jitsu, and wrestling in addition to those,"
+      },
+      {
+       "start_ms": 743320,
+       "end_ms": 753199,
+       "ko": "그러면 맨몸으로는 좀 당할 자가 없지 않을까 싶은데.",
+       "en": "then I think there wouldn't be anyone you couldn't handle with just your bare hands."
+      }
+     ],
+     "start_ms": 735160,
+     "end_ms": 753199,
+     "ko": "네, 킥복싱과 주짓수 외에 레슬링까지 배우면\n그러면 맨몸으로는 좀 당할 자가 없지 않을까 싶은데.",
+     "en": "Yes, if you learn kickboxing, Brazilian jiu-jitsu, and wrestling in addition to those, then I think there wouldn't be anyone you couldn't handle with just your bare hands."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 753199,
+       "end_ms": 757199,
+       "ko": "운동이 많이 돼서 궁금해요, 그 마지막 세 개.",
+       "en": "I'm curious because you're learning a lot of sports, those last three especially."
+      },
+      {
+       "start_ms": 757199,
+       "end_ms": 762839,
+       "ko": "킥복싱, 주짓수 이런 것들?",
+       "en": "Kickboxing, Brazilian jiu-jitsu, things like that?"
+      },
+      {
+       "start_ms": 762839,
+       "end_ms": 764360,
+       "ko": "아니면 강해지기 위해?",
+       "en": "Or is it to become stronger?"
+      }
+     ],
+     "start_ms": 753199,
+     "end_ms": 764360,
+     "ko": "운동이 많이 돼서 궁금해요, 그 마지막 세 개.\n킥복싱, 주짓수 이런 것들?\n아니면 강해지기 위해?",
+     "en": "I'm curious because you're learning a lot of sports, those last three especially. Kickboxing, Brazilian jiu-jitsu, things like that? Or is it to become stronger?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 764360,
+       "end_ms": 765520,
+       "ko": "강해지기 위해.",
+       "en": "To become stronger."
+      }
+     ],
+     "start_ms": 764360,
+     "end_ms": 765520,
+     "ko": "강해지기 위해.",
+     "en": "To become stronger."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 765520,
+       "end_ms": 767520,
+       "ko": "아, 진짜요?",
+       "en": "Really?"
+      },
+      {
+       "start_ms": 767520,
+       "end_ms": 770479,
+       "ko": "아니, 싸울 일이 언제가 있지 않잖아요.",
+       "en": "I mean, when would you ever get into a fight?"
+      }
+     ],
+     "start_ms": 765520,
+     "end_ms": 770479,
+     "ko": "아, 진짜요?\n아니, 싸울 일이 언제가 있지 않잖아요.",
+     "en": "Really? I mean, when would you ever get into a fight?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 770479,
+       "end_ms": 774479,
+       "ko": "그걸 하면 싸울 일이 많겠죠.",
+       "en": "If you do that, you'd probably get into fights a lot."
+      }
+     ],
+     "start_ms": 770479,
+     "end_ms": 774479,
+     "ko": "그걸 하면 싸울 일이 많겠죠.",
+     "en": "If you do that, you'd probably get into fights a lot."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 774479,
+       "end_ms": 776119,
+       "ko": "자신감을 얻어서.",
+       "en": "To gain confidence."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 774479,
+     "end_ms": 776119,
+     "ko": "자신감을 얻어서.",
+     "en": "To gain confidence."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 776119,
+       "end_ms": 780520,
+       "ko": "아니, 그걸 배워서 밖에서 싸운다는 게 아니고.",
+       "en": "No, I don't mean learning that and then fighting outside."
+      }
+     ],
+     "start_ms": 776119,
+     "end_ms": 780520,
+     "ko": "아니, 그걸 배워서 밖에서 싸운다는 게 아니고.",
+     "en": "No, I don't mean learning that and then fighting outside."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 780520,
+       "end_ms": 781839,
+       "ko": "아, 네네네.",
+       "en": "Oh, yes, yes, yes."
+      }
+     ],
+     "start_ms": 780520,
+     "end_ms": 781839,
+     "ko": "아, 네네네.",
+     "en": "Oh, yes, yes, yes."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 781839,
+       "end_ms": 788759,
+       "ko": "그 체육관 스파링에서 가짜 싸움을 해보겠죠.",
+       "en": "You'd do sparring at the gym, like a practice fight."
+      }
+     ],
+     "start_ms": 781839,
+     "end_ms": 788759,
+     "ko": "그 체육관 스파링에서 가짜 싸움을 해보겠죠.",
+     "en": "You'd do sparring at the gym, like a practice fight."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 788759,
+       "end_ms": 790320,
+       "ko": "해보고 싶어요?",
+       "en": "You want to try it?"
+      },
+      {
+       "start_ms": 790320,
+       "end_ms": 792679,
+       "ko": "되게 긴장될 것 같아요.",
+       "en": "It seems like it would be really nerve-wracking."
+      }
+     ],
+     "start_ms": 788759,
+     "end_ms": 792679,
+     "ko": "해보고 싶어요?\n되게 긴장될 것 같아요.",
+     "en": "You want to try it? It seems like it would be really nerve-wracking."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 792720,
+       "end_ms": 794919,
+       "ko": "전 그래서 해보고 싶어요.",
+       "en": "That's why I want to try it."
+      }
+     ],
+     "start_ms": 792720,
+     "end_ms": 794919,
+     "ko": "전 그래서 해보고 싶어요.",
+     "en": "That's why I want to try it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 794919,
+       "end_ms": 802960,
+       "ko": "전 킥복싱 배우더라도 스파링은 안 하고 그냥 운동만 하고 싶어요.",
+       "en": "Even if I learn kickboxing, I don't want to do sparring—I just want to exercise."
+      },
+      {
+       "start_ms": 802960,
+       "end_ms": 806199,
+       "ko": "지면 슬프잖아요.",
+       "en": "Losing is sad, you know."
+      }
+     ],
+     "start_ms": 794919,
+     "end_ms": 806199,
+     "ko": "전 킥복싱 배우더라도 스파링은 안 하고 그냥 운동만 하고 싶어요.\n지면 슬프잖아요.",
+     "en": "Even if I learn kickboxing, I don't want to do sparring—I just want to exercise. Losing is sad, you know."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 806199,
+       "end_ms": 811919,
+       "ko": "근데 사람이 안 지고 살 수는 없잖아요.",
+       "en": "But people can't live without losing, right?"
+      },
+      {
+       "start_ms": 811919,
+       "end_ms": 814679,
+       "ko": "사람이 계속 질 때도 있고 계속 이길 때도 있는데",
+       "en": "People sometimes lose continuously and sometimes win continuously,"
+      },
+      {
+       "start_ms": 814679,
+       "end_ms": 818080,
+       "ko": "그러니까 지고 이기고를 반복하는데",
+       "en": "so you're repeating losing and winning,"
+      },
+      {
+       "start_ms": 818080,
+       "end_ms": 826160,
+       "ko": "그래서 많이 질 수 있는 활동을 하는 게 좋지 않을까 하는 생각이 들어요.",
+       "en": "and that's why I think it's good to do activities where you can lose a lot."
+      }
+     ],
+     "start_ms": 806199,
+     "end_ms": 826160,
+     "ko": "근데 사람이 안 지고 살 수는 없잖아요.\n사람이 계속 질 때도 있고 계속 이길 때도 있는데\n그러니까 지고 이기고를 반복하는데\n그래서 많이 질 수 있는 활동을 하는 게 좋지 않을까 하는 생각이 들어요.",
+     "en": "But people can't live without losing, right? People sometimes lose continuously and sometimes win continuously, so you're repeating losing and winning, and that's why I think it's good to do activities where you can lose a lot."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 826160,
+       "end_ms": 831119,
+       "ko": "스포츠 좋아하시는 분들 보면 막 이해가 안 되는 게",
+       "en": "When I see people who like sports, there's something I don't understand—"
+      },
+      {
+       "start_ms": 831119,
+       "end_ms": 835839,
+       "ko": "팀 지면 엄청 스트레스 받고 슬퍼하고 이러잖아요.",
+       "en": "when their team loses, they get really stressed and sad, right?"
+      },
+      {
+       "start_ms": 835839,
+       "end_ms": 839679,
+       "ko": "왜 그거를 볼까 싶었는데",
+       "en": "I wondered why they'd watch that,"
+      },
+      {
+       "start_ms": 839720,
+       "end_ms": 844119,
+       "ko": "한 번 이길 때의 그 성취감?",
+       "en": "but when you win once, that sense of accomplishment?"
+      },
+      {
+       "start_ms": 844119,
+       "end_ms": 849039,
+       "ko": "그 짜릿함을 위해서 보시는 것 같더라고요.",
+       "en": "It seems like they watch for that thrill."
+      }
+     ],
+     "start_ms": 826160,
+     "end_ms": 849039,
+     "ko": "스포츠 좋아하시는 분들 보면 막 이해가 안 되는 게\n팀 지면 엄청 스트레스 받고 슬퍼하고 이러잖아요.\n왜 그거를 볼까 싶었는데\n한 번 이길 때의 그 성취감?\n그 짜릿함을 위해서 보시는 것 같더라고요.",
+     "en": "When I see people who like sports, there's something I don't understand— when their team loses, they get really stressed and sad, right? I wondered why they'd watch that, but when you win once, that sense of accomplishment? It seems like they watch for that thrill."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 849039,
+       "end_ms": 850800,
+       "ko": "그렇구나.",
+       "en": "I see."
+      },
+      {
+       "start_ms": 850800,
+       "end_ms": 854919,
+       "ko": "디디님은 그래서 배우고 싶은 게 없나요? 관심 있는 거 요즘?",
+       "en": "So Didi, is there nothing you want to learn? Anything you're interested in these days?"
+      }
+     ],
+     "start_ms": 849039,
+     "end_ms": 854919,
+     "ko": "그렇구나.\n디디님은 그래서 배우고 싶은 게 없나요? 관심 있는 거 요즘?",
+     "en": "I see. So Didi, is there nothing you want to learn? Anything you're interested in these days?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 854919,
+       "end_ms": 859119,
+       "ko": "킥복싱 궁금했어요. 킥복싱.",
+       "en": "I was curious about kickboxing. Kickboxing."
+      },
+      {
+       "start_ms": 859119,
+       "end_ms": 866480,
+       "ko": "운동을 진짜 빡세게 강하게 시켜주신다고 했고",
+       "en": "They said it gives you a really intense, strong workout,"
+      },
+      {
+       "start_ms": 866480,
+       "end_ms": 871359,
+       "ko": "재밌게 배웠다는 후기들을 많이 들어서 가보고 싶은데",
+       "en": "and I heard a lot of good reviews about learning it, so I want to go try it,"
+      },
+      {
+       "start_ms": 871359,
+       "end_ms": 875279,
+       "ko": "집 주변에는 복싱만 있더라고요.",
+       "en": "but there's only boxing near my house."
+      },
+      {
+       "start_ms": 875279,
+       "end_ms": 881679,
+       "ko": "근데 또 복싱보다는 킥복싱이 좋다고 들긴 했어요.",
+       "en": "But I did hear that kickboxing is better than boxing."
+      },
+      {
+       "start_ms": 881679,
+       "end_ms": 883160,
+       "ko": "다리 운동도 하니까.",
+       "en": "Because you also work your legs."
+      }
+     ],
+     "start_ms": 854919,
+     "end_ms": 883160,
+     "ko": "킥복싱 궁금했어요. 킥복싱.\n운동을 진짜 빡세게 강하게 시켜주신다고 했고\n재밌게 배웠다는 후기들을 많이 들어서 가보고 싶은데\n집 주변에는 복싱만 있더라고요.\n근데 또 복싱보다는 킥복싱이 좋다고 들긴 했어요.\n다리 운동도 하니까.",
+     "en": "I was curious about kickboxing. Kickboxing. They said it gives you a really intense, strong workout, and I heard a lot of good reviews about learning it, so I want to go try it, but there's only boxing near my house. But I did hear that kickboxing is better than boxing. Because you also work your legs."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 883160,
+       "end_ms": 885440,
+       "ko": "발차기도 해야죠.",
+       "en": "You have to do kicks too."
+      }
+     ],
+     "start_ms": 883160,
+     "end_ms": 885440,
+     "ko": "발차기도 해야죠.",
+     "en": "You have to do kicks too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 885440,
+       "end_ms": 887679,
+       "ko": "필라테스도 해보고 싶어요.",
+       "en": "I also want to try Pilates."
+      }
+     ],
+     "start_ms": 885440,
+     "end_ms": 887679,
+     "ko": "필라테스도 해보고 싶어요.",
+     "en": "I also want to try Pilates."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 887679,
+       "end_ms": 889559,
+       "ko": "필라테스?",
+       "en": "Pilates?"
+      }
+     ],
+     "start_ms": 887679,
+     "end_ms": 889559,
+     "ko": "필라테스?",
+     "en": "Pilates?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 889559,
+       "end_ms": 894679,
+       "ko": "돈을 나중에 많이 벌면 1대1 필라테스 해보고 싶어요.",
+       "en": "If I make a lot of money later, I want to try one-on-one Pilates."
+      },
+      {
+       "start_ms": 894679,
+       "end_ms": 901239,
+       "ko": "정말 딱 제 몸에 맞는 강도와 자세로.",
+       "en": "With the intensity and posture that fits my body exactly."
+      }
+     ],
+     "start_ms": 889559,
+     "end_ms": 901239,
+     "ko": "돈을 나중에 많이 벌면 1대1 필라테스 해보고 싶어요.\n정말 딱 제 몸에 맞는 강도와 자세로.",
+     "en": "If I make a lot of money later, I want to try one-on-one Pilates. With the intensity and posture that fits my body exactly."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 901239,
+       "end_ms": 906600,
+       "ko": "그거 아시나요? 필라테스가 사람 이름이라는 거?",
+       "en": "Do you know that? That Pilates is a person's name?"
+      }
+     ],
+     "start_ms": 901239,
+     "end_ms": 906600,
+     "ko": "그거 아시나요? 필라테스가 사람 이름이라는 거?",
+     "en": "Do you know that? That Pilates is a person's name?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 906600,
+       "end_ms": 908720,
+       "ko": "그래요?",
+       "en": "Is that so?"
+      }
+     ],
+     "start_ms": 906600,
+     "end_ms": 908720,
+     "ko": "그래요?",
+     "en": "Is that so?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 908720,
+       "end_ms": 911399,
+       "ko": "조셉 필라테스인가?",
+       "en": "Joseph Pilates?"
+      }
+     ],
+     "start_ms": 908720,
+     "end_ms": 911399,
+     "ko": "조셉 필라테스인가?",
+     "en": "Joseph Pilates?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 911399,
+       "end_ms": 912920,
+       "ko": "개발한 사람 이름이에요?",
+       "en": "Is that the name of the person who developed it?"
+      }
+     ],
+     "start_ms": 911399,
+     "end_ms": 912920,
+     "ko": "개발한 사람 이름이에요?",
+     "en": "Is that the name of the person who developed it?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 912920,
+       "end_ms": 919279,
+       "ko": "네. 그리고 아까 이름에서 알다시피 남자예요.",
+       "en": "Yes. And as you can tell from the name, he was a man."
+      },
+      {
+       "start_ms": 919279,
+       "end_ms": 920920,
+       "ko": "남자가 만든 운동입니다.",
+       "en": "It's an exercise developed by a man."
+      }
+     ],
+     "start_ms": 912920,
+     "end_ms": 920920,
+     "ko": "네. 그리고 아까 이름에서 알다시피 남자예요.\n남자가 만든 운동입니다.",
+     "en": "Yes. And as you can tell from the name, he was a man. It's an exercise developed by a man."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 920920,
+       "end_ms": 925399,
+       "ko": "그건 들어본 것 같아요.",
+       "en": "I think I've heard of that."
+      },
+      {
+       "start_ms": 925399,
+       "end_ms": 928839,
+       "ko": "근데 한국에서는 여자들이 하는 이미지가 있어요.",
+       "en": "But in Korea, there's an image that women do it."
+      }
+     ],
+     "start_ms": 920920,
+     "end_ms": 928839,
+     "ko": "그건 들어본 것 같아요.\n근데 한국에서는 여자들이 하는 이미지가 있어요.",
+     "en": "I think I've heard of that. But in Korea, there's an image that women do it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 928839,
+       "end_ms": 931000,
+       "ko": "맞아요.",
+       "en": "That's right."
+      }
+     ],
+     "start_ms": 928839,
+     "end_ms": 931000,
+     "ko": "맞아요.",
+     "en": "That's right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 931000,
+       "end_ms": 934679,
+       "ko": "예쁜 여자 선생님이 가르쳐 줄 것 같은 이미지.",
+       "en": "Like, it seems like a pretty female instructor would teach it."
+      }
+     ],
+     "start_ms": 931000,
+     "end_ms": 934679,
+     "ko": "예쁜 여자 선생님이 가르쳐 줄 것 같은 이미지.",
+     "en": "Like, it seems like a pretty female instructor would teach it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 934679,
+       "end_ms": 936040,
+       "ko": "좋지 않은 것 같아요.",
+       "en": "That doesn't seem good."
+      }
+     ],
+     "start_ms": 934679,
+     "end_ms": 936040,
+     "ko": "좋지 않은 것 같아요.",
+     "en": "That doesn't seem good."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 936040,
+       "end_ms": 938200,
+       "ko": "왜요?",
+       "en": "Why?"
+      },
+      {
+       "start_ms": 938200,
+       "end_ms": 938839,
+       "ko": "왜?",
+       "en": "Why?"
+      }
+     ],
+     "start_ms": 936040,
+     "end_ms": 938839,
+     "ko": "왜요?\n왜?",
+     "en": "Why? Why?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 938839,
+       "end_ms": 941119,
+       "ko": "아니 그냥 그런 이미지가 있다는 것 자체가.",
+       "en": "Well, just the fact that there's such an image."
+      }
+     ],
+     "start_ms": 938839,
+     "end_ms": 941119,
+     "ko": "아니 그냥 그런 이미지가 있다는 것 자체가.",
+     "en": "Well, just the fact that there's such an image."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 941119,
+       "end_ms": 945839,
+       "ko": "아 그러네요. 남자들이 하기가 어려울 수도 있겠네요.",
+       "en": "Oh, I see. It might be difficult for men to do it."
+      }
+     ],
+     "start_ms": 941119,
+     "end_ms": 945839,
+     "ko": "아 그러네요. 남자들이 하기가 어려울 수도 있겠네요.",
+     "en": "Oh, I see. It might be difficult for men to do it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 945839,
+       "end_ms": 947720,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 945839,
+     "end_ms": 947720,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 947720,
+       "end_ms": 949399,
+       "ko": "되게 좋다는데 필라테스.",
+       "en": "People say it's really good, Pilates."
+      }
+     ],
+     "start_ms": 947720,
+     "end_ms": 949399,
+     "ko": "되게 좋다는데 필라테스.",
+     "en": "People say it's really good, Pilates."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 949399,
+       "end_ms": 954720,
+       "ko": "근데 남녀에 상관없이 장점이 많은 운동들인데 모든 운동이 그렇잖아요?",
+       "en": "But it's an exercise with lots of benefits regardless of gender, and that's true for all exercises, right?"
+      }
+     ],
+     "start_ms": 949399,
+     "end_ms": 954720,
+     "ko": "근데 남녀에 상관없이 장점이 많은 운동들인데 모든 운동이 그렇잖아요?",
+     "en": "But it's an exercise with lots of benefits regardless of gender, and that's true for all exercises, right?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 954720,
+       "end_ms": 956480,
+       "ko": "네. 아.",
+       "en": "Yes. Ah."
+      }
+     ],
+     "start_ms": 954720,
+     "end_ms": 956480,
+     "ko": "네. 아.",
+     "en": "Yes. Ah."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 956480,
+       "end_ms": 962559,
+       "ko": "근데 예를 들어 한국에서 달리기는 남자들만 하는 거야.",
+       "en": "But for example, in Korea, running is something only men do."
+      },
+      {
+       "start_ms": 962559,
+       "end_ms": 966720,
+       "ko": "이런 인식이 있다면 굉장한 문제잖아요.",
+       "en": "If there's a perception like this, that's a huge problem, isn't it?"
+      }
+     ],
+     "start_ms": 956480,
+     "end_ms": 966720,
+     "ko": "근데 예를 들어 한국에서 달리기는 남자들만 하는 거야.\n이런 인식이 있다면 굉장한 문제잖아요.",
+     "en": "But for example, in Korea, running is something only men do. If there's a perception like this, that's a huge problem, isn't it?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 966720,
+       "end_ms": 969440,
+       "ko": "그러네요. 문제를 발견했다.",
+       "en": "You're right. You found a problem."
+      }
+     ],
+     "start_ms": 966720,
+     "end_ms": 969440,
+     "ko": "그러네요. 문제를 발견했다.",
+     "en": "You're right. You found a problem."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 969440,
+       "end_ms": 970559,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 969440,
+     "end_ms": 970559,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 970559,
+       "end_ms": 975040,
+       "ko": "의외로 남자들만 하는 운동 이런 거는 많이 없는 것 같아요.",
+       "en": "Surprisingly, there don't seem to be many exercises that only men do."
+      }
+     ],
+     "start_ms": 970559,
+     "end_ms": 975040,
+     "ko": "의외로 남자들만 하는 운동 이런 거는 많이 없는 것 같아요.",
+     "en": "Surprisingly, there don't seem to be many exercises that only men do."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 975040,
+       "end_ms": 978399,
+       "ko": "남자들만 하는 운동이 요새 있나?",
+       "en": "Are there exercises only men do these days?"
+      }
+     ],
+     "start_ms": 975040,
+     "end_ms": 978399,
+     "ko": "남자들만 하는 운동이 요새 있나?",
+     "en": "Are there exercises only men do these days?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 978399,
+       "end_ms": 985679,
+       "ko": "보통 구기 종목은 여자들은 잘 안 하는 게 어릴 때부터 있었어요.",
+       "en": "Usually, ball sports are something women haven't done much since childhood."
+      }
+     ],
+     "start_ms": 978399,
+     "end_ms": 985679,
+     "ko": "보통 구기 종목은 여자들은 잘 안 하는 게 어릴 때부터 있었어요.",
+     "en": "Usually, ball sports are something women haven't done much since childhood."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 985679,
+       "end_ms": 989200,
+       "ko": "아 그렇네요.",
+       "en": "Oh, I see."
+      },
+      {
+       "start_ms": 989200,
+       "end_ms": 1000880,
+       "ko": "근데 뭐 몇 년 전이랑 비교하면 이제 헬스, 피트닉, 웨이트 트레이닝 그것도 이제는 그런 편견이 없어졌잖아요.",
+       "en": "But compared to a few years ago, now with fitness, fitnesss, weight training—those prejudices are gone, right?"
+      }
+     ],
+     "start_ms": 985679,
+     "end_ms": 1000880,
+     "ko": "아 그렇네요.\n근데 뭐 몇 년 전이랑 비교하면 이제 헬스, 피트닉, 웨이트 트레이닝 그것도 이제는 그런 편견이 없어졌잖아요.",
+     "en": "Oh, I see. But compared to a few years ago, now with fitness, fitnesss, weight training—those prejudices are gone, right?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1000880,
+       "end_ms": 1004720,
+       "ko": "맞아요.",
+       "en": "That's right."
+      },
+      {
+       "start_ms": 1004720,
+       "end_ms": 1005959,
+       "ko": "차차 없어질 것 같아요.",
+       "en": "I think they'll gradually disappear."
+      }
+     ],
+     "start_ms": 1000880,
+     "end_ms": 1005959,
+     "ko": "맞아요.\n차차 없어질 것 같아요.",
+     "en": "That's right. I think they'll gradually disappear."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1005959,
+       "end_ms": 1007880,
+       "ko": "차차 없어지겠죠.",
+       "en": "They'll gradually disappear."
+      },
+      {
+       "start_ms": 1008000,
+       "end_ms": 1013200,
+       "ko": "그리고 여성 전용 뭐 이런 것들이 많아서.",
+       "en": "And there are a lot of women-only things like that."
+      }
+     ],
+     "start_ms": 1005959,
+     "end_ms": 1013200,
+     "ko": "차차 없어지겠죠.\n그리고 여성 전용 뭐 이런 것들이 많아서.",
+     "en": "They'll gradually disappear. And there are a lot of women-only things like that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1013200,
+       "end_ms": 1015399,
+       "ko": "맞아요. 여성 전용 헬스장이 있더라고요.",
+       "en": "That's right. There are women-only gyms."
+      },
+      {
+       "start_ms": 1015399,
+       "end_ms": 1022200,
+       "ko": "여성 전용 헬스장, 여성 전용 요가, 여성 전용 필라테스 이런 것들이 좀 있어요.",
+       "en": "Women-only gyms, women-only yoga, women-only Pilates—there are things like that."
+      }
+     ],
+     "start_ms": 1013200,
+     "end_ms": 1022200,
+     "ko": "맞아요. 여성 전용 헬스장이 있더라고요.\n여성 전용 헬스장, 여성 전용 요가, 여성 전용 필라테스 이런 것들이 좀 있어요.",
+     "en": "That's right. There are women-only gyms. Women-only gyms, women-only yoga, women-only Pilates—there are things like that."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1022200,
+       "end_ms": 1023839,
+       "ko": "가봤어요?",
+       "en": "Have you been to one?"
+      }
+     ],
+     "start_ms": 1022200,
+     "end_ms": 1023839,
+     "ko": "가봤어요?",
+     "en": "Have you been to one?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1023839,
+       "end_ms": 1027359,
+       "ko": "전 사실 그게 좋아요.",
+       "en": "I actually like that."
+      },
+      {
+       "start_ms": 1027359,
+       "end_ms": 1032679,
+       "ko": "PT 받은 것도 여성 전용이었고 요가도 여성 전용으로 갔어요.",
+       "en": "I got PT at a women-only place, and I did yoga at a women-only place too."
+      },
+      {
+       "start_ms": 1033000,
+       "end_ms": 1036079,
+       "ko": "제가 여성 전용 PT를 받았거든요.",
+       "en": "I got women-only PT."
+      },
+      {
+       "start_ms": 1036079,
+       "end_ms": 1040119,
+       "ko": "여성 전용 헬스장에 있는 PT를 받았거든요.",
+       "en": "I got PT at a women-only gym."
+      },
+      {
+       "start_ms": 1040119,
+       "end_ms": 1045480,
+       "ko": "근데 또 트레이너들은 남자더라고요.",
+       "en": "But the trainers were men."
+      },
+      {
+       "start_ms": 1045480,
+       "end_ms": 1050320,
+       "ko": "그래서 저 하다 그만뒀어요.",
+       "en": "So I quit."
+      },
+      {
+       "start_ms": 1050320,
+       "end_ms": 1051799,
+       "ko": "환불받았어요, 환불.",
+       "en": "I got a refund, a refund."
+      }
+     ],
+     "start_ms": 1023839,
+     "end_ms": 1051799,
+     "ko": "전 사실 그게 좋아요.\nPT 받은 것도 여성 전용이었고 요가도 여성 전용으로 갔어요.\n제가 여성 전용 PT를 받았거든요.\n여성 전용 헬스장에 있는 PT를 받았거든요.\n근데 또 트레이너들은 남자더라고요.\n그래서 저 하다 그만뒀어요.\n환불받았어요, 환불.",
+     "en": "I actually like that. I got PT at a women-only place, and I did yoga at a women-only place too. I got women-only PT. I got PT at a women-only gym. But the trainers were men. So I quit. I got a refund, a refund."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1051799,
+       "end_ms": 1053279,
+       "ko": "좀 모순이 있네요.",
+       "en": "There's a bit of a contradiction there."
+      }
+     ],
+     "start_ms": 1051799,
+     "end_ms": 1053279,
+     "ko": "좀 모순이 있네요.",
+     "en": "There's a bit of a contradiction there."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1053279,
+       "end_ms": 1057559,
+       "ko": "좀 그런 게 불편해서, 뭐가 불편한 거지?",
+       "en": "That was inconvenient, what was inconvenient?"
+      },
+      {
+       "start_ms": 1057559,
+       "end_ms": 1065440,
+       "ko": "그냥 아무 신경을 안 쓰고 싶은데 뭔가 신경 쓸 일이 생기는 거?",
+       "en": "I just don't want to think about anything, but then something comes up that makes me think about it?"
+      },
+      {
+       "start_ms": 1065440,
+       "end_ms": 1071040,
+       "ko": "여성 전용 헬스장인데 트레이너들은 남자다.",
+       "en": "It's a women-only gym but the trainers are men."
+      },
+      {
+       "start_ms": 1071040,
+       "end_ms": 1076200,
+       "ko": "PT 할 때, 쉴 때 있잖아요.",
+       "en": "During PT, there are breaks, right?"
+      },
+      {
+       "start_ms": 1076200,
+       "end_ms": 1084079,
+       "ko": "그럴 때 나누는 얘기들, 이런 것도 재미도 없었고.",
+       "en": "The conversations we'd have during those times, that wasn't fun either."
+      },
+      {
+       "start_ms": 1084079,
+       "end_ms": 1088200,
+       "ko": "별로였어요, 저는. 그 경험이.",
+       "en": "I didn't like it, that experience."
+      }
+     ],
+     "start_ms": 1053279,
+     "end_ms": 1088200,
+     "ko": "좀 그런 게 불편해서, 뭐가 불편한 거지?\n그냥 아무 신경을 안 쓰고 싶은데 뭔가 신경 쓸 일이 생기는 거?\n여성 전용 헬스장인데 트레이너들은 남자다.\nPT 할 때, 쉴 때 있잖아요.\n그럴 때 나누는 얘기들, 이런 것도 재미도 없었고.\n별로였어요, 저는. 그 경험이.",
+     "en": "That was inconvenient, what was inconvenient? I just don't want to think about anything, but then something comes up that makes me think about it? It's a women-only gym but the trainers are men. During PT, there are breaks, right? The conversations we'd have during those times, that wasn't fun either. I didn't like it, that experience."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "title_ko": "수영, 달리기, 운동 습관",
+   "title_en": "Swimming, running, and the exercise habit",
+   "start_ms": 1088200,
+   "end_ms": 1833000,
+   "hangul_chars": 2513,
+   "turns": [
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1088200,
+       "end_ms": 1089640,
+       "ko": "수영 좋아요, 수영.",
+       "en": "I like swimming, swimming."
+      }
+     ],
+     "start_ms": 1088200,
+     "end_ms": 1089640,
+     "ko": "수영 좋아요, 수영.",
+     "en": "I like swimming, swimming."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1089640,
+       "end_ms": 1092720,
+       "ko": "수영?",
+       "en": "Swimming?"
+      },
+      {
+       "start_ms": 1092720,
+       "end_ms": 1095760,
+       "ko": "수영 진짜 꼭 배우고 싶습니다.",
+       "en": "I really want to learn swimming."
+      }
+     ],
+     "start_ms": 1089640,
+     "end_ms": 1095760,
+     "ko": "수영?\n수영 진짜 꼭 배우고 싶습니다.",
+     "en": "Swimming? I really want to learn swimming."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1095760,
+       "end_ms": 1097519,
+       "ko": "올 여름 어때요?",
+       "en": "How about this summer?"
+      }
+     ],
+     "start_ms": 1095760,
+     "end_ms": 1097519,
+     "ko": "올 여름 어때요?",
+     "en": "How about this summer?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1097519,
+       "end_ms": 1099720,
+       "ko": "아마 안 될 것 같아요.",
+       "en": "I don't think it'll work out."
+      }
+     ],
+     "start_ms": 1097519,
+     "end_ms": 1099720,
+     "ko": "아마 안 될 것 같아요.",
+     "en": "I don't think it'll work out."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1099720,
+       "end_ms": 1100559,
+       "ko": "바쁘죠?",
+       "en": "You're busy, right?"
+      }
+     ],
+     "start_ms": 1099720,
+     "end_ms": 1100559,
+     "ko": "바쁘죠?",
+     "en": "You're busy, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1100559,
+       "end_ms": 1104559,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1100559,
+     "end_ms": 1104559,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1104559,
+       "end_ms": 1108359,
+       "ko": "수영 다 좋은데, 진짜 다 좋은데.",
+       "en": "Swimming is all good, it's really all good."
+      },
+      {
+       "start_ms": 1109279,
+       "end_ms": 1114840,
+       "ko": "진짜 제일 귀찮은, 과정이 제일 귀찮은 것 같아요.",
+       "en": "The process is really the most annoying part, I think."
+      }
+     ],
+     "start_ms": 1104559,
+     "end_ms": 1114840,
+     "ko": "수영 다 좋은데, 진짜 다 좋은데.\n진짜 제일 귀찮은, 과정이 제일 귀찮은 것 같아요.",
+     "en": "Swimming is all good, it's really all good. The process is really the most annoying part, I think."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1114840,
+       "end_ms": 1116440,
+       "ko": "그래요?",
+       "en": "Is that so?"
+      }
+     ],
+     "start_ms": 1114840,
+     "end_ms": 1116440,
+     "ko": "그래요?",
+     "en": "Is that so?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1116440,
+       "end_ms": 1126880,
+       "ko": "가기 전에 샤워해야 되고, 끝나면 샤워하고, 머리 말리고, 옷도 계속 매일매일 빨아야 되고.",
+       "en": "You have to shower before you go, shower when you're done, dry your hair, and you have to wash your clothes every single day."
+      }
+     ],
+     "start_ms": 1116440,
+     "end_ms": 1126880,
+     "ko": "가기 전에 샤워해야 되고, 끝나면 샤워하고, 머리 말리고, 옷도 계속 매일매일 빨아야 되고.",
+     "en": "You have to shower before you go, shower when you're done, dry your hair, and you have to wash your clothes every single day."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1126880,
+       "end_ms": 1130880,
+       "ko": "근데 어차피 아침에 샤워는 하니까.",
+       "en": "But you shower in the morning anyway."
+      },
+      {
+       "start_ms": 1130880,
+       "end_ms": 1142760,
+       "ko": "그러니까 안 씻고 수영장 가서, 수영장에 있는 샤워실에서 빨리 샤워하고, 수영하고, 마무리로 샤워하고.",
+       "en": "So I don't shower before going to the pool, I quickly shower in the shower room at the pool, swim, and then shower again to finish up."
+      },
+      {
+       "start_ms": 1142760,
+       "end_ms": 1144719,
+       "ko": "어차피 머리는 말리는 거고.",
+       "en": "Either way, my hair is going to dry anyway."
+      }
+     ],
+     "start_ms": 1126880,
+     "end_ms": 1144719,
+     "ko": "근데 어차피 아침에 샤워는 하니까.\n그러니까 안 씻고 수영장 가서, 수영장에 있는 샤워실에서 빨리 샤워하고, 수영하고, 마무리로 샤워하고.\n어차피 머리는 말리는 거고.",
+     "en": "But you shower in the morning anyway. So I don't shower before going to the pool, I quickly shower in the shower room at the pool, swim, and then shower again to finish up. Either way, my hair is going to dry anyway."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1144719,
+       "end_ms": 1146520,
+       "ko": "그렇게 생각하니까 좋네요.",
+       "en": "Thinking about it that way feels nice."
+      }
+     ],
+     "start_ms": 1144719,
+     "end_ms": 1146520,
+     "ko": "그렇게 생각하니까 좋네요.",
+     "en": "Thinking about it that way feels nice."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1146520,
+       "end_ms": 1147640,
+       "ko": "그런 거 아닌가요?",
+       "en": "Isn't that how it is?"
+      }
+     ],
+     "start_ms": 1146520,
+     "end_ms": 1147640,
+     "ko": "그런 거 아닌가요?",
+     "en": "Isn't that how it is?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1147640,
+       "end_ms": 1149039,
+       "ko": "아침 반을 하면 좋겠다.",
+       "en": "I wish I could do the morning session."
+      },
+      {
+       "start_ms": 1149039,
+       "end_ms": 1153880,
+       "ko": "저녁 반을 하면 좀 두 번 하게 될 수도 있으니까.",
+       "en": "If I do the evening session, I might end up going twice, so."
+      }
+     ],
+     "start_ms": 1147640,
+     "end_ms": 1153880,
+     "ko": "아침 반을 하면 좋겠다.\n저녁 반을 하면 좀 두 번 하게 될 수도 있으니까.",
+     "en": "I wish I could do the morning session. If I do the evening session, I might end up going twice, so."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1153880,
+       "end_ms": 1154719,
+       "ko": "그렇네요.",
+       "en": "That makes sense."
+      },
+      {
+       "start_ms": 1154719,
+       "end_ms": 1156840,
+       "ko": "아침 반 괜찮네요.",
+       "en": "The morning session sounds good."
+      },
+      {
+       "start_ms": 1156840,
+       "end_ms": 1159880,
+       "ko": "저도 하면 아침 수영하려고요.",
+       "en": "If I do it, I'm planning to swim in the morning too."
+      }
+     ],
+     "start_ms": 1153880,
+     "end_ms": 1159880,
+     "ko": "그렇네요.\n아침 반 괜찮네요.\n저도 하면 아침 수영하려고요.",
+     "en": "That makes sense. The morning session sounds good. If I do it, I'm planning to swim in the morning too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1159880,
+       "end_ms": 1163599,
+       "ko": "저도 제가 할까 봐요, 올해.",
+       "en": "I'm thinking I might do it too, this year."
+      },
+      {
+       "start_ms": 1163599,
+       "end_ms": 1166640,
+       "ko": "알아봐야겠다, 아침 수영.",
+       "en": "I should look into morning swimming."
+      },
+      {
+       "start_ms": 1166640,
+       "end_ms": 1170080,
+       "ko": "수영은 레벨 올라가는 재미가 있어요.",
+       "en": "Swimming has the fun of leveling up."
+      }
+     ],
+     "start_ms": 1159880,
+     "end_ms": 1170080,
+     "ko": "저도 제가 할까 봐요, 올해.\n알아봐야겠다, 아침 수영.\n수영은 레벨 올라가는 재미가 있어요.",
+     "en": "I'm thinking I might do it too, this year. I should look into morning swimming. Swimming has the fun of leveling up."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1170080,
+       "end_ms": 1171080,
+       "ko": "그래요?",
+       "en": "Really?"
+      }
+     ],
+     "start_ms": 1170080,
+     "end_ms": 1171080,
+     "ko": "그래요?",
+     "en": "Really?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1171080,
+       "end_ms": 1176679,
+       "ko": "네, 처음에는 발차기 반, 킥판이라고 하죠?",
+       "en": "Yes, at first you do half kicking, what we call a kickboard?"
+      },
+      {
+       "start_ms": 1176679,
+       "end_ms": 1182119,
+       "ko": "튜브 같은 거 들고 하다가 점점 올라가요.",
+       "en": "You do it while holding a tube or something, and gradually you move up."
+      },
+      {
+       "start_ms": 1182119,
+       "end_ms": 1188239,
+       "ko": "이거 자유형 배우고, 평형 개구리처럼 하는 거 배우고.",
+       "en": "You learn freestyle, and you learn breaststroke like a frog."
+      },
+      {
+       "start_ms": 1188239,
+       "end_ms": 1193159,
+       "ko": "더 올라가면 접영 배울 수 있어요.",
+       "en": "If you go higher, you can learn butterfly."
+      }
+     ],
+     "start_ms": 1171080,
+     "end_ms": 1193159,
+     "ko": "네, 처음에는 발차기 반, 킥판이라고 하죠?\n튜브 같은 거 들고 하다가 점점 올라가요.\n이거 자유형 배우고, 평형 개구리처럼 하는 거 배우고.\n더 올라가면 접영 배울 수 있어요.",
+     "en": "Yes, at first you do half kicking, what we call a kickboard? You do it while holding a tube or something, and gradually you move up. You learn freestyle, and you learn breaststroke like a frog. If you go higher, you can learn butterfly."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1193159,
+       "end_ms": 1196039,
+       "ko": "디디님은 좀 잘하는 편이겠네요?",
+       "en": "You must be pretty good at swimming, Didi?"
+      }
+     ],
+     "start_ms": 1193159,
+     "end_ms": 1196039,
+     "ko": "디디님은 좀 잘하는 편이겠네요?",
+     "en": "You must be pretty good at swimming, Didi?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1196039,
+       "end_ms": 1200039,
+       "ko": "까먹진 않았어요.",
+       "en": "I haven't forgotten."
+      }
+     ],
+     "start_ms": 1196039,
+     "end_ms": 1200039,
+     "ko": "까먹진 않았어요.",
+     "en": "I haven't forgotten."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1201000,
+       "end_ms": 1209000,
+       "ko": "수업을 듣는 수영반에 가면 초, 중급, 고가 나뉜다던데?",
+       "en": "I heard that when you go to a swimming class, they divide it into beginner, intermediate, and advanced?"
+      }
+     ],
+     "start_ms": 1201000,
+     "end_ms": 1209000,
+     "ko": "수업을 듣는 수영반에 가면 초, 중급, 고가 나뉜다던데?",
+     "en": "I heard that when you go to a swimming class, they divide it into beginner, intermediate, and advanced?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1209000,
+       "end_ms": 1210000,
+       "ko": "나뉘어요, 나뉘어요.",
+       "en": "They do divide it, they do."
+      }
+     ],
+     "start_ms": 1209000,
+     "end_ms": 1210000,
+     "ko": "나뉘어요, 나뉘어요.",
+     "en": "They do divide it, they do."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1210000,
+       "end_ms": 1211000,
+       "ko": "디디님은?",
+       "en": "What about you, Didi?"
+      }
+     ],
+     "start_ms": 1210000,
+     "end_ms": 1211000,
+     "ko": "디디님은?",
+     "en": "What about you, Didi?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1211000,
+       "end_ms": 1215000,
+       "ko": "저는 그냥 자유 수영으로 가요, 이제는.",
+       "en": "I just do free swimming now."
+      }
+     ],
+     "start_ms": 1211000,
+     "end_ms": 1215000,
+     "ko": "저는 그냥 자유 수영으로 가요, 이제는.",
+     "en": "I just do free swimming now."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1215000,
+       "end_ms": 1218000,
+       "ko": "이제 수업이 필요 없는 단계?",
+       "en": "You're at a stage where you don't need classes anymore?"
+      }
+     ],
+     "start_ms": 1215000,
+     "end_ms": 1218000,
+     "ko": "이제 수업이 필요 없는 단계?",
+     "en": "You're at a stage where you don't need classes anymore?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1218000,
+       "end_ms": 1228000,
+       "ko": "그쵸. 가면 자세 정도? 알고 있는 거에서 이렇게 해야 된다 정도만 고쳐주시니까.",
+       "en": "Right. When I go, they just correct things like posture or technique based on what I already know."
+      },
+      {
+       "start_ms": 1228000,
+       "end_ms": 1231000,
+       "ko": "자유가 좋아요.",
+       "en": "Free swimming is nice."
+      },
+      {
+       "start_ms": 1231000,
+       "end_ms": 1234000,
+       "ko": "작년에 러닝 오래 하셨잖아요.",
+       "en": "You did a lot of running last year, didn't you?"
+      }
+     ],
+     "start_ms": 1218000,
+     "end_ms": 1234000,
+     "ko": "그쵸. 가면 자세 정도? 알고 있는 거에서 이렇게 해야 된다 정도만 고쳐주시니까.\n자유가 좋아요.\n작년에 러닝 오래 하셨잖아요.",
+     "en": "Right. When I go, they just correct things like posture or technique based on what I already know. Free swimming is nice. You did a lot of running last year, didn't you?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1234000,
+       "end_ms": 1235000,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1234000,
+     "end_ms": 1235000,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1235000,
+       "end_ms": 1238000,
+       "ko": "1년 동안 하루도 빠짐없이?",
+       "en": "Every single day for a whole year?"
+      }
+     ],
+     "start_ms": 1235000,
+     "end_ms": 1238000,
+     "ko": "1년 동안 하루도 빠짐없이?",
+     "en": "Every single day for a whole year?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1238000,
+       "end_ms": 1244000,
+       "ko": "뛰려고 했는데, 1월부터 7월까지만 하루도 빠짐없이 뛰었고,",
+       "en": "I wanted to run, and from January to July I ran without missing a single day,"
+      },
+      {
+       "start_ms": 1244000,
+       "end_ms": 1252000,
+       "ko": "7월에 코로나에 걸려서 그때부터는 하루도 빠짐없이 뛰지는 못했고,",
+       "en": "but I got COVID in July, and from then on I couldn't run every single day,"
+      },
+      {
+       "start_ms": 1252000,
+       "end_ms": 1257000,
+       "ko": "하루도 빠짐없이 나가서 걷거나 뛰었습니다.",
+       "en": "but I went out every single day and either walked or ran."
+      }
+     ],
+     "start_ms": 1238000,
+     "end_ms": 1257000,
+     "ko": "뛰려고 했는데, 1월부터 7월까지만 하루도 빠짐없이 뛰었고,\n7월에 코로나에 걸려서 그때부터는 하루도 빠짐없이 뛰지는 못했고,\n하루도 빠짐없이 나가서 걷거나 뛰었습니다.",
+     "en": "I wanted to run, and from January to July I ran without missing a single day, but I got COVID in July, and from then on I couldn't run every single day, but I went out every single day and either walked or ran."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1257000,
+       "end_ms": 1260000,
+       "ko": "전 이거 듣고 진짜 깜짝 놀랐어요.",
+       "en": "I was really shocked when I heard that."
+      },
+      {
+       "start_ms": 1260000,
+       "end_ms": 1262000,
+       "ko": "진짜 매일 나가긴 나간 거네요.",
+       "en": "So you really did go out every single day."
+      }
+     ],
+     "start_ms": 1257000,
+     "end_ms": 1262000,
+     "ko": "전 이거 듣고 진짜 깜짝 놀랐어요.\n진짜 매일 나가긴 나간 거네요.",
+     "en": "I was really shocked when I heard that. So you really did go out every single day."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1262000,
+       "end_ms": 1265000,
+       "ko": "그렇죠. 말 그대로 진짜 매일 나간 거죠.",
+       "en": "Right. Literally, I really did go out every day."
+      }
+     ],
+     "start_ms": 1262000,
+     "end_ms": 1265000,
+     "ko": "그렇죠. 말 그대로 진짜 매일 나간 거죠.",
+     "en": "Right. Literally, I really did go out every day."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1265000,
+       "end_ms": 1267000,
+       "ko": "어때요? 달리기는?",
+       "en": "How about it? How's the running?"
+      }
+     ],
+     "start_ms": 1265000,
+     "end_ms": 1267000,
+     "ko": "어때요? 달리기는?",
+     "en": "How about it? How's the running?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1267000,
+       "end_ms": 1273000,
+       "ko": "달리기... 아니, 사실 저는 달리기를 한 지 몇 년이 돼서,",
+       "en": "Running... well, actually, it's been several years since I started running,"
+      },
+      {
+       "start_ms": 1273000,
+       "end_ms": 1286000,
+       "ko": "이제는 달리기 안 했을 때랑 하고 나서 어떻게 이렇게 다르다라고 말할 수 있는 게 기억이 안 나요.",
+       "en": "and now I can't even remember what the difference was like between when I wasn't running and after I started."
+      }
+     ],
+     "start_ms": 1267000,
+     "end_ms": 1286000,
+     "ko": "달리기... 아니, 사실 저는 달리기를 한 지 몇 년이 돼서,\n이제는 달리기 안 했을 때랑 하고 나서 어떻게 이렇게 다르다라고 말할 수 있는 게 기억이 안 나요.",
+     "en": "Running... well, actually, it's been several years since I started running, and now I can't even remember what the difference was like between when I wasn't running and after I started."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1287000,
+       "end_ms": 1289000,
+       "ko": "안 했던 삶이 기억이 안 나요?",
+       "en": "You can't remember what life was like before running?"
+      }
+     ],
+     "start_ms": 1287000,
+     "end_ms": 1289000,
+     "ko": "안 했던 삶이 기억이 안 나요?",
+     "en": "You can't remember what life was like before running?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1289000,
+       "end_ms": 1294000,
+       "ko": "네. 근데 진짜 좋아요.",
+       "en": "Right. But it's really great."
+      },
+      {
+       "start_ms": 1294000,
+       "end_ms": 1303000,
+       "ko": "일단 체력 수준이 올라가고, 그래서 쉽게 피곤하지 않은 것 같고,",
+       "en": "First of all, my fitness level went up, so I don't get tired as easily,"
+      },
+      {
+       "start_ms": 1303000,
+       "end_ms": 1311000,
+       "ko": "요즘 보면 계단 조금 올라도 힘들어하는 제 또래나 어린 친구들이 많거든요.",
+       "en": "and these days I see a lot of people my age and younger friends who struggle even going up a few stairs,"
+      },
+      {
+       "start_ms": 1311000,
+       "end_ms": 1314000,
+       "ko": "그런데 그럴 일도 없고.",
+       "en": "but I don't have that problem."
+      }
+     ],
+     "start_ms": 1289000,
+     "end_ms": 1314000,
+     "ko": "네. 근데 진짜 좋아요.\n일단 체력 수준이 올라가고, 그래서 쉽게 피곤하지 않은 것 같고,\n요즘 보면 계단 조금 올라도 힘들어하는 제 또래나 어린 친구들이 많거든요.\n그런데 그럴 일도 없고.",
+     "en": "Right. But it's really great. First of all, my fitness level went up, so I don't get tired as easily, and these days I see a lot of people my age and younger friends who struggle even going up a few stairs, but I don't have that problem."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1314000,
+       "end_ms": 1316000,
+       "ko": "체력이 좋아질 것 같아요.",
+       "en": "I think my fitness has really improved."
+      }
+     ],
+     "start_ms": 1314000,
+     "end_ms": 1316000,
+     "ko": "체력이 좋아질 것 같아요.",
+     "en": "I think my fitness has really improved."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1316000,
+       "end_ms": 1329000,
+       "ko": "네. 그리고 밖에서 주로 뛰니까 전반적인 하루의 에너지? 그 무드? 그런 것도 좋아요.",
+       "en": "Yes. And since I mainly run outside, the overall energy of my day, the mood, those kinds of things feel good too."
+      }
+     ],
+     "start_ms": 1316000,
+     "end_ms": 1329000,
+     "ko": "네. 그리고 밖에서 주로 뛰니까 전반적인 하루의 에너지? 그 무드? 그런 것도 좋아요.",
+     "en": "Yes. And since I mainly run outside, the overall energy of my day, the mood, those kinds of things feel good too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1329000,
+       "end_ms": 1335000,
+       "ko": "그렇구나. 달리기도 참 좋은 운동인데, 돈도 안 들고.",
+       "en": "I see. Running really is a great exercise, and it doesn't cost anything."
+      },
+      {
+       "start_ms": 1335000,
+       "end_ms": 1341000,
+       "ko": "뭐 러닝화가 들긴 하지만, 그 정도는 뭐.",
+       "en": "Well, running shoes do cost something, but that's not much."
+      }
+     ],
+     "start_ms": 1329000,
+     "end_ms": 1341000,
+     "ko": "그렇구나. 달리기도 참 좋은 운동인데, 돈도 안 들고.\n뭐 러닝화가 들긴 하지만, 그 정도는 뭐.",
+     "en": "I see. Running really is a great exercise, and it doesn't cost anything. Well, running shoes do cost something, but that's not much."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1341000,
+       "end_ms": 1349000,
+       "ko": "제 학생 중에 러닝을 진짜 오래 하신 분이 있거든요.",
+       "en": "I have a student who's been running for a really long time."
+      },
+      {
+       "start_ms": 1349000,
+       "end_ms": 1356000,
+       "ko": "지금 50대이시니까 거의 인생 전체 동안 하신 분이 있는데,",
+       "en": "They're in their 50s now, so they've been doing it for almost their whole life,"
+      },
+      {
+       "start_ms": 1356000,
+       "end_ms": 1363000,
+       "ko": "그분을 보면서 느낀 거는 일단 운동을 한다는 자체에도 의미가 있지만,",
+       "en": "and watching them, what I felt was that exercise itself has meaning,"
+      },
+      {
+       "start_ms": 1363000,
+       "end_ms": 1371000,
+       "ko": "운동을 하다 보면 계속 내가 먹는 거나 건강에 대해서 신경을 쓰게 되나 봐요.",
+       "en": "but when you exercise, you keep paying attention to what you eat and your health."
+      },
+      {
+       "start_ms": 1371000,
+       "end_ms": 1375000,
+       "ko": "그런 걸로 이어지니까 또 좋은 것 같아요.",
+       "en": "Since it leads to those things, it seems good in other ways too."
+      }
+     ],
+     "start_ms": 1341000,
+     "end_ms": 1375000,
+     "ko": "제 학생 중에 러닝을 진짜 오래 하신 분이 있거든요.\n지금 50대이시니까 거의 인생 전체 동안 하신 분이 있는데,\n그분을 보면서 느낀 거는 일단 운동을 한다는 자체에도 의미가 있지만,\n운동을 하다 보면 계속 내가 먹는 거나 건강에 대해서 신경을 쓰게 되나 봐요.\n그런 걸로 이어지니까 또 좋은 것 같아요.",
+     "en": "I have a student who's been running for a really long time. They're in their 50s now, so they've been doing it for almost their whole life, and watching them, what I felt was that exercise itself has meaning, but when you exercise, you keep paying attention to what you eat and your health. Since it leads to those things, it seems good in other ways too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1375000,
+       "end_ms": 1377000,
+       "ko": "아, 맞는 것 같아요.",
+       "en": "Oh, that does seem right."
+      },
+      {
+       "start_ms": 1377000,
+       "end_ms": 1387000,
+       "ko": "아무래도 단백질 먹어야지. 탄수화물보다는 운동했으니까 이거 먹어야지.",
+       "en": "You naturally think, I should eat protein. More than carbs, since I exercised, I should eat this."
+      },
+      {
+       "start_ms": 1387000,
+       "end_ms": 1395000,
+       "ko": "생각을 계속 하니까. 그래서 운동을 하는 것도 있지 않을까. 의미가 있지 않을까.",
+       "en": "You keep thinking about it. So maybe that's why exercise is meaningful. Maybe it has meaning."
+      }
+     ],
+     "start_ms": 1375000,
+     "end_ms": 1395000,
+     "ko": "아, 맞는 것 같아요.\n아무래도 단백질 먹어야지. 탄수화물보다는 운동했으니까 이거 먹어야지.\n생각을 계속 하니까. 그래서 운동을 하는 것도 있지 않을까. 의미가 있지 않을까.",
+     "en": "Oh, that does seem right. You naturally think, I should eat protein. More than carbs, since I exercised, I should eat this. You keep thinking about it. So maybe that's why exercise is meaningful. Maybe it has meaning."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1395000,
+       "end_ms": 1398000,
+       "ko": "맞네요. 맞아요. 맞아요.",
+       "en": "That's right. Yes. Yes."
+      }
+     ],
+     "start_ms": 1395000,
+     "end_ms": 1398000,
+     "ko": "맞네요. 맞아요. 맞아요.",
+     "en": "That's right. Yes. Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1398000,
+       "end_ms": 1403000,
+       "ko": "먹는 것도 신경을 좀 썼어요. 작년에. 어떤 것 같아요?",
+       "en": "I paid attention to what I ate too, last year. What do you think?"
+      }
+     ],
+     "start_ms": 1398000,
+     "end_ms": 1403000,
+     "ko": "먹는 것도 신경을 좀 썼어요. 작년에. 어떤 것 같아요?",
+     "en": "I paid attention to what I ate too, last year. What do you think?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1403000,
+       "end_ms": 1409000,
+       "ko": "그것도 너무 신경 쓴 지 오래돼서.",
+       "en": "I haven't paid attention to that in so long."
+      },
+      {
+       "start_ms": 1409000,
+       "end_ms": 1416000,
+       "ko": "그런데 저도 먹는 거 거의 자주 신경 쓰는 편이거든요.",
+       "en": "But I also tend to pay attention to what I eat pretty often."
+      },
+      {
+       "start_ms": 1416000,
+       "end_ms": 1423000,
+       "ko": "항상 가능하면 깨끗하게 먹고. 그리고 술도 잘 안 마시고.",
+       "en": "I always try to eat clean when possible. And I don't drink much alcohol either."
+      },
+      {
+       "start_ms": 1423000,
+       "end_ms": 1432000,
+       "ko": "그리고 콜라, 음료수 같은 거 잘 안 마시거든요. 무조건 물 아니면 가끔 우유 마시고.",
+       "en": "And I don't really drink cola or soft drinks like that. I only drink water, or sometimes milk."
+      }
+     ],
+     "start_ms": 1403000,
+     "end_ms": 1432000,
+     "ko": "그것도 너무 신경 쓴 지 오래돼서.\n그런데 저도 먹는 거 거의 자주 신경 쓰는 편이거든요.\n항상 가능하면 깨끗하게 먹고. 그리고 술도 잘 안 마시고.\n그리고 콜라, 음료수 같은 거 잘 안 마시거든요. 무조건 물 아니면 가끔 우유 마시고.",
+     "en": "I haven't paid attention to that in so long. But I also tend to pay attention to what I eat pretty often. I always try to eat clean when possible. And I don't drink much alcohol either. And I don't really drink cola or soft drinks like that. I only drink water, or sometimes milk."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1432000,
+       "end_ms": 1434000,
+       "ko": "치킨 시키면요?",
+       "en": "When you order chicken?"
+      }
+     ],
+     "start_ms": 1432000,
+     "end_ms": 1434000,
+     "ko": "치킨 시키면요?",
+     "en": "When you order chicken?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1434000,
+       "end_ms": 1438000,
+       "ko": "그냥 치킨만 먹어요.",
+       "en": "I just eat the chicken by itself."
+      }
+     ],
+     "start_ms": 1434000,
+     "end_ms": 1438000,
+     "ko": "그냥 치킨만 먹어요.",
+     "en": "I just eat the chicken by itself."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1438000,
+       "end_ms": 1439000,
+       "ko": "햄버거?",
+       "en": "Hamburger?"
+      }
+     ],
+     "start_ms": 1438000,
+     "end_ms": 1439000,
+     "ko": "햄버거?",
+     "en": "Hamburger?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1439000,
+       "end_ms": 1443000,
+       "ko": "햄버거만 먹어요.",
+       "en": "I just eat the hamburger by itself."
+      }
+     ],
+     "start_ms": 1439000,
+     "end_ms": 1443000,
+     "ko": "햄버거만 먹어요.",
+     "en": "I just eat the hamburger by itself."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1443000,
+       "end_ms": 1445000,
+       "ko": "세트를 안 시킨다고요?",
+       "en": "You don't order a set?"
+      }
+     ],
+     "start_ms": 1443000,
+     "end_ms": 1445000,
+     "ko": "세트를 안 시킨다고요?",
+     "en": "You don't order a set?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1445000,
+       "end_ms": 1450000,
+       "ko": "네. 안 먹어요. 왜 먹는지 모를 정도예요. 이제는.",
+       "en": "Right. I don't eat it. I don't even understand why people eat it anymore."
+      }
+     ],
+     "start_ms": 1445000,
+     "end_ms": 1450000,
+     "ko": "네. 안 먹어요. 왜 먹는지 모를 정도예요. 이제는.",
+     "en": "Right. I don't eat it. I don't even understand why people eat it anymore."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1450000,
+       "end_ms": 1453000,
+       "ko": "대박. 그렇게 될 수 있군요.",
+       "en": "Wow. So that can happen."
+      }
+     ],
+     "start_ms": 1450000,
+     "end_ms": 1453000,
+     "ko": "대박. 그렇게 될 수 있군요.",
+     "en": "Wow. So that can happen."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1453000,
+       "end_ms": 1461000,
+       "ko": "네. 그게 신기한 게 진짜 예전에 어릴 때 그거 다 먹었어요.",
+       "en": "Yes. What's interesting is that I really ate all of that when I was younger."
+      },
+      {
+       "start_ms": 1461000,
+       "end_ms": 1465000,
+       "ko": "콜라 그런 거 진짜 다 먹었어요.",
+       "en": "I really drank all that cola and stuff."
+      },
+      {
+       "start_ms": 1465000,
+       "end_ms": 1472000,
+       "ko": "심지어 그냥 쉴 때도 콜라, 탄산음료 이런 거 까서 혼자 마시고.",
+       "en": "Even when I was just resting, I'd open cola and carbonated drinks like that and drink them by myself."
+      },
+      {
+       "start_ms": 1472000,
+       "end_ms": 1475000,
+       "ko": "그런데 이제는 안 그래요.",
+       "en": "But I don't do that anymore."
+      }
+     ],
+     "start_ms": 1453000,
+     "end_ms": 1475000,
+     "ko": "네. 그게 신기한 게 진짜 예전에 어릴 때 그거 다 먹었어요.\n콜라 그런 거 진짜 다 먹었어요.\n심지어 그냥 쉴 때도 콜라, 탄산음료 이런 거 까서 혼자 마시고.\n그런데 이제는 안 그래요.",
+     "en": "Yes. What's interesting is that I really ate all of that when I was younger. I really drank all that cola and stuff. Even when I was just resting, I'd open cola and carbonated drinks like that and drink them by myself. But I don't do that anymore."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1475000,
+       "end_ms": 1481000,
+       "ko": "그런데 그거 알아요? 헬스 유튜버 중에 핏블리라고 있는데.",
+       "en": "But do you know this? There's a fitness YouTuber called Fitbly."
+      }
+     ],
+     "start_ms": 1475000,
+     "end_ms": 1481000,
+     "ko": "그런데 그거 알아요? 헬스 유튜버 중에 핏블리라고 있는데.",
+     "en": "But do you know this? There's a fitness YouTuber called Fitbly."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1481000,
+       "end_ms": 1483000,
+       "ko": "핏블리님.",
+       "en": "Fitbly."
+      }
+     ],
+     "start_ms": 1481000,
+     "end_ms": 1483000,
+     "ko": "핏블리님.",
+     "en": "Fitbly."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1483000,
+       "end_ms": 1489000,
+       "ko": "그분이 치즈볼을 진짜 처음 먹었나? 그 영상 알아요?",
+       "en": "Do you know that video where he ate cheese balls for the first time? That video?"
+      }
+     ],
+     "start_ms": 1483000,
+     "end_ms": 1489000,
+     "ko": "그분이 치즈볼을 진짜 처음 먹었나? 그 영상 알아요?",
+     "en": "Do you know that video where he ate cheese balls for the first time? That video?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1489000,
+       "end_ms": 1491000,
+       "ko": "코로나 때 아니에요?",
+       "en": "Wasn't that during COVID?"
+      }
+     ],
+     "start_ms": 1489000,
+     "end_ms": 1491000,
+     "ko": "코로나 때 아니에요?",
+     "en": "Wasn't that during COVID?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1491000,
+       "end_ms": 1501000,
+       "ko": "맞아요. 헬스 트레이너 하시는 분인데 처음으로 치즈볼을 먹고 거의 눈물을 흘리는 그 영상이 있거든요.",
+       "en": "Right. He's a fitness trainer, and there's this video where he eats cheese balls for the first time and almost tears up."
+      },
+      {
+       "start_ms": 1502000,
+       "end_ms": 1511000,
+       "ko": "그러니까 그게 익숙해져서 잊은 거지. 그게 잊었구나. 잊을 수가 있구나. 그 맛있는 맛을.",
+       "en": "So it's because you got used to it and forgot about it. You forgot. You can forget about that delicious taste."
+      }
+     ],
+     "start_ms": 1491000,
+     "end_ms": 1511000,
+     "ko": "맞아요. 헬스 트레이너 하시는 분인데 처음으로 치즈볼을 먹고 거의 눈물을 흘리는 그 영상이 있거든요.\n그러니까 그게 익숙해져서 잊은 거지. 그게 잊었구나. 잊을 수가 있구나. 그 맛있는 맛을.",
+     "en": "Right. He's a fitness trainer, and there's this video where he eats cheese balls for the first time and almost tears up. So it's because you got used to it and forgot about it. You forgot. You can forget about that delicious taste."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1511000,
+       "end_ms": 1513000,
+       "ko": "맞아요.",
+       "en": "That's right."
+      }
+     ],
+     "start_ms": 1511000,
+     "end_ms": 1513000,
+     "ko": "맞아요.",
+     "en": "That's right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1513000,
+       "end_ms": 1519000,
+       "ko": "에이. 건강하니까. 부럽다.",
+       "en": "Wow. You're so healthy. I'm jealous."
+      }
+     ],
+     "start_ms": 1513000,
+     "end_ms": 1519000,
+     "ko": "에이. 건강하니까. 부럽다.",
+     "en": "Wow. You're so healthy. I'm jealous."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1519000,
+       "end_ms": 1524000,
+       "ko": "그런데 몸에 그렇게 탄산음료 같은 거 안 들이붓고.",
+       "en": "But you don't pour carbonated drinks like that into your body."
+      },
+      {
+       "start_ms": 1524000,
+       "end_ms": 1527000,
+       "ko": "그리고 운동 꾸준히 하고.",
+       "en": "And you exercise consistently."
+      },
+      {
+       "start_ms": 1528000,
+       "end_ms": 1537000,
+       "ko": "아무래도 다음 날에 운동해야 하니까 컨디션 관리를 생각해서 너무 안 늦게 자려고 하고.",
+       "en": "Since you have to exercise the next day, you think about managing your condition so you try not to go to bed too late."
+      },
+      {
+       "start_ms": 1537000,
+       "end_ms": 1543000,
+       "ko": "가능한 일찍 자려고 하고. 컨디션 신경을 쓰잖아요.",
+       "en": "And you try to go to bed as early as possible. You care about your condition."
+      },
+      {
+       "start_ms": 1543000,
+       "end_ms": 1551000,
+       "ko": "그런데 그러고 나니까 콜라 맛을 잊어버린 것처럼.",
+       "en": "But after doing that, it's like you forgot the taste of cola."
+      },
+      {
+       "start_ms": 1551000,
+       "end_ms": 1563000,
+       "ko": "예전에 안 좋은 컨디션에 있을 때 그 이상한 느낌? 짜증이 쉽게 나고.",
+       "en": "That strange feeling from back when you were in bad condition? Getting irritated easily."
+      },
+      {
+       "start_ms": 1563000,
+       "end_ms": 1564000,
+       "ko": "무기력하고.",
+       "en": "Feeling lethargic."
+      },
+      {
+       "start_ms": 1564000,
+       "end_ms": 1573000,
+       "ko": "무기력하고 피곤하고. 집중 안 되고. 그런 것도 잊게 됐는데.",
+       "en": "Feeling lethargic and tired and not being able to concentrate. You forget about those things too."
+      },
+      {
+       "start_ms": 1573000,
+       "end_ms": 1581000,
+       "ko": "그런데 어쩌다가 특별한 일이 있어서 특별한 행사가 있거나 해서 패턴이 깨졌다.",
+       "en": "But then sometimes something special happens or there's a special event and your pattern breaks."
+      },
+      {
+       "start_ms": 1581000,
+       "end_ms": 1589000,
+       "ko": "그러면 그때 다시 한 번 그걸 확 느끼잖아요. 몸이 너무 피곤하고 무기력하고.",
+       "en": "Then you feel it all over again at that moment. Your body feels so tired and lethargic."
+      },
+      {
+       "start_ms": 1589000,
+       "end_ms": 1594000,
+       "ko": "그때마다 한 번 다시 나랑은 안 맞다.",
+       "en": "Each time, I realize once again that it doesn't suit me."
+      }
+     ],
+     "start_ms": 1519000,
+     "end_ms": 1594000,
+     "ko": "그런데 몸에 그렇게 탄산음료 같은 거 안 들이붓고.\n그리고 운동 꾸준히 하고.\n아무래도 다음 날에 운동해야 하니까 컨디션 관리를 생각해서 너무 안 늦게 자려고 하고.\n가능한 일찍 자려고 하고. 컨디션 신경을 쓰잖아요.\n그런데 그러고 나니까 콜라 맛을 잊어버린 것처럼.\n예전에 안 좋은 컨디션에 있을 때 그 이상한 느낌? 짜증이 쉽게 나고.\n무기력하고.\n무기력하고 피곤하고. 집중 안 되고. 그런 것도 잊게 됐는데.\n그런데 어쩌다가 특별한 일이 있어서 특별한 행사가 있거나 해서 패턴이 깨졌다.\n그러면 그때 다시 한 번 그걸 확 느끼잖아요. 몸이 너무 피곤하고 무기력하고.\n그때마다 한 번 다시 나랑은 안 맞다.",
+     "en": "But you don't pour carbonated drinks like that into your body. And you exercise consistently. Since you have to exercise the next day, you think about managing your condition so you try not to go to bed too late. And you try to go to bed as early as possible. You care about your condition. But after doing that, it's like you forgot the taste of cola. That strange feeling from back when you were in bad condition? Getting irritated easily. Feeling lethargic. Feeling lethargic and tired and not being able to concentrate. You forget about those things too. But then sometimes something special happens or there's a special event and your pattern breaks. Then you feel it all over again at that moment. Your body feels so tired and lethargic. Each time, I realize once again that it doesn't suit me."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1594000,
+       "end_ms": 1598000,
+       "ko": "운동해야겠다.",
+       "en": "I need to exercise."
+      },
+      {
+       "start_ms": 1598000,
+       "end_ms": 1606000,
+       "ko": "제일 도움이 됐던 건 뭔 거 같아요? 운동이 습관이 되고 건강이 습관이 됐던?",
+       "en": "What do you think was the most helpful thing? When exercise became a habit and health became a habit?"
+      }
+     ],
+     "start_ms": 1594000,
+     "end_ms": 1606000,
+     "ko": "운동해야겠다.\n제일 도움이 됐던 건 뭔 거 같아요? 운동이 습관이 되고 건강이 습관이 됐던?",
+     "en": "I need to exercise. What do you think was the most helpful thing? When exercise became a habit and health became a habit?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1606000,
+       "end_ms": 1617000,
+       "ko": "그런데 사람마다 다르겠지만 아까 디디님이 질문했던 거에 가장 근접한 저의 경험은",
+       "en": "But it would be different for each person, but the experience closest to what Didi asked earlier is"
+      },
+      {
+       "start_ms": 1617000,
+       "end_ms": 1625000,
+       "ko": "제가 몸이 되게 약했다고 했잖아요. 지금도 몸이 엄청 좋은 건 아니지만",
+       "en": "I told you my body was very weak. Even now my body isn't extremely good, but"
+      },
+      {
+       "start_ms": 1625000,
+       "end_ms": 1639000,
+       "ko": "예전에는 유달리 약했는데 그때는 운동을 하는 만큼 몸이 개선되는 게, 몸이 나아지는 게 쉽게 보였어요.",
+       "en": "Back then it was unusually weak, and at that time, as much as I exercised, I could easily see my body improving and getting better."
+      },
+      {
+       "start_ms": 1639000,
+       "end_ms": 1653000,
+       "ko": "할 때 너무 힘들고 근육통도 너무 아프고 괴로운데 그만큼 제가 거울을 볼 때 제 모습이 조금 더 볼만해지니까",
+       "en": "It was so hard when doing it and the muscle soreness was so painful and difficult, but as much as that, when I looked in the mirror my appearance looked a bit more presentable, so"
+      },
+      {
+       "start_ms": 1654000,
+       "end_ms": 1664000,
+       "ko": "그게 너무 재밌더라고요. 그래서 이 긴 기간 동안 초반에는 그런 즐거움으로 했고",
+       "en": "That was so fun. So in the beginning of this long period, I did it with that kind of joy, and"
+      },
+      {
+       "start_ms": 1664000,
+       "end_ms": 1676000,
+       "ko": "또 어쩌다 보니 그 이후에는 하는 행위 자체에서 느끼는 것들, 그런 생각들, 그런 거에 즐거움을 찾기도 하고",
+       "en": "Then somehow after that, I also found joy in the things I felt from the act of exercising itself, those thoughts, things like that, and"
+      },
+      {
+       "start_ms": 1676000,
+       "end_ms": 1679000,
+       "ko": "그렇게 하나하나 바뀐 건데.",
+       "en": "It changed one by one like that."
+      }
+     ],
+     "start_ms": 1606000,
+     "end_ms": 1679000,
+     "ko": "그런데 사람마다 다르겠지만 아까 디디님이 질문했던 거에 가장 근접한 저의 경험은\n제가 몸이 되게 약했다고 했잖아요. 지금도 몸이 엄청 좋은 건 아니지만\n예전에는 유달리 약했는데 그때는 운동을 하는 만큼 몸이 개선되는 게, 몸이 나아지는 게 쉽게 보였어요.\n할 때 너무 힘들고 근육통도 너무 아프고 괴로운데 그만큼 제가 거울을 볼 때 제 모습이 조금 더 볼만해지니까\n그게 너무 재밌더라고요. 그래서 이 긴 기간 동안 초반에는 그런 즐거움으로 했고\n또 어쩌다 보니 그 이후에는 하는 행위 자체에서 느끼는 것들, 그런 생각들, 그런 거에 즐거움을 찾기도 하고\n그렇게 하나하나 바뀐 건데.",
+     "en": "But it would be different for each person, but the experience closest to what Didi asked earlier is I told you my body was very weak. Even now my body isn't extremely good, but Back then it was unusually weak, and at that time, as much as I exercised, I could easily see my body improving and getting better. It was so hard when doing it and the muscle soreness was so painful and difficult, but as much as that, when I looked in the mirror my appearance looked a bit more presentable, so That was so fun. So in the beginning of this long period, I did it with that kind of joy, and Then somehow after that, I also found joy in the things I felt from the act of exercising itself, those thoughts, things like that, and It changed one by one like that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1680000,
+       "end_ms": 1686000,
+       "ko": "확실히 눈에 보이면 즐거울 것 같아요. 잘하고 있구나.",
+       "en": "It would definitely be fun if you can see it. You're doing well."
+      }
+     ],
+     "start_ms": 1680000,
+     "end_ms": 1686000,
+     "ko": "확실히 눈에 보이면 즐거울 것 같아요. 잘하고 있구나.",
+     "en": "It would definitely be fun if you can see it. You're doing well."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1686000,
+       "end_ms": 1696000,
+       "ko": "그래서 공익 근무할 때 제가 기장군청에 있었는데 그 군청에 공익 근무 요원들만 있는 게 아니라",
+       "en": "So when I was doing public service, I was at the Gijang County Office, and at that county office there weren't just public service workers, but"
+      },
+      {
+       "start_ms": 1696000,
+       "end_ms": 1704000,
+       "ko": "상근 군인이라고 하는 군인이라서 군복을 입고 군 생활을 하는 친구들인데",
+       "en": "There are soldiers called full-time soldiers who wear military uniforms and live a military life,"
+      },
+      {
+       "start_ms": 1704000,
+       "end_ms": 1712000,
+       "ko": "군청으로 출퇴근을 하는 친구들이 있거든요. 그런 군인들도 있어요. 직장인처럼.",
+       "en": "Friends who commute to the county office. There are soldiers like that too. Like office workers."
+      },
+      {
+       "start_ms": 1712000,
+       "end_ms": 1717000,
+       "ko": "근데 걔네들도 걔네들끼리 세, 네 명이서 무리를 지으면서 다니는데",
+       "en": "But those guys also form groups of three or four among themselves and go around,"
+      },
+      {
+       "start_ms": 1717000,
+       "end_ms": 1726000,
+       "ko": "제가 운동을 그렇게 한참 재밌게 취미를 붙여서 했는데 그 중에 한 명이 지나가면서",
+       "en": "I was exercising and really enjoying it as a hobby, and when one of them passed by"
+      },
+      {
+       "start_ms": 1726000,
+       "end_ms": 1731000,
+       "ko": "한참 뒤였거든요. 제가 군청에 들어간 지. 모르는 사인데.",
+       "en": "It was quite a while later. After I entered the county office. A stranger."
+      },
+      {
+       "start_ms": 1731000,
+       "end_ms": 1735000,
+       "ko": "근데 딱 지나가면서 그 군복을 입은 군인 그 친구가",
+       "en": "But as he just passed by, that soldier in military uniform"
+      },
+      {
+       "start_ms": 1735000,
+       "end_ms": 1738000,
+       "ko": "어, 몸 많이 커졌네. 이러고 지나가는 거예요.",
+       "en": "Said, \"Wow, you've gotten really big.\""
+      },
+      {
+       "start_ms": 1738000,
+       "end_ms": 1741000,
+       "ko": "근데 약간 되게 으쓱.",
+       "en": "But I felt kind of proud."
+      },
+      {
+       "start_ms": 1741000,
+       "end_ms": 1744000,
+       "ko": "어, 내가? 이렇게.",
+       "en": "Me? Like this."
+      },
+      {
+       "start_ms": 1744000,
+       "end_ms": 1747000,
+       "ko": "몸 많이 커졌네. 이러고 가요.",
+       "en": "\"You've gotten really big.\" And he went on."
+      }
+     ],
+     "start_ms": 1686000,
+     "end_ms": 1747000,
+     "ko": "그래서 공익 근무할 때 제가 기장군청에 있었는데 그 군청에 공익 근무 요원들만 있는 게 아니라\n상근 군인이라고 하는 군인이라서 군복을 입고 군 생활을 하는 친구들인데\n군청으로 출퇴근을 하는 친구들이 있거든요. 그런 군인들도 있어요. 직장인처럼.\n근데 걔네들도 걔네들끼리 세, 네 명이서 무리를 지으면서 다니는데\n제가 운동을 그렇게 한참 재밌게 취미를 붙여서 했는데 그 중에 한 명이 지나가면서\n한참 뒤였거든요. 제가 군청에 들어간 지. 모르는 사인데.\n근데 딱 지나가면서 그 군복을 입은 군인 그 친구가\n어, 몸 많이 커졌네. 이러고 지나가는 거예요.\n근데 약간 되게 으쓱.\n어, 내가? 이렇게.\n몸 많이 커졌네. 이러고 가요.",
+     "en": "So when I was doing public service, I was at the Gijang County Office, and at that county office there weren't just public service workers, but There are soldiers called full-time soldiers who wear military uniforms and live a military life, Friends who commute to the county office. There are soldiers like that too. Like office workers. But those guys also form groups of three or four among themselves and go around, I was exercising and really enjoying it as a hobby, and when one of them passed by It was quite a while later. After I entered the county office. A stranger. But as he just passed by, that soldier in military uniform Said, \"Wow, you've gotten really big.\" But I felt kind of proud. Me? Like this. \"You've gotten really big.\" And he went on."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1747000,
+       "end_ms": 1749000,
+       "ko": "오, 좋았겠다. 기분.",
+       "en": "Oh, that must have felt good."
+      }
+     ],
+     "start_ms": 1747000,
+     "end_ms": 1749000,
+     "ko": "오, 좋았겠다. 기분.",
+     "en": "Oh, that must have felt good."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1749000,
+       "end_ms": 1751000,
+       "ko": "엄청 좋았죠.",
+       "en": "It felt really good."
+      }
+     ],
+     "start_ms": 1749000,
+     "end_ms": 1751000,
+     "ko": "엄청 좋았죠.",
+     "en": "It felt really good."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1751000,
+       "end_ms": 1756000,
+       "ko": "그 맛이구나. 그렇군요.",
+       "en": "So that's the taste of it. I see."
+      }
+     ],
+     "start_ms": 1751000,
+     "end_ms": 1756000,
+     "ko": "그 맛이구나. 그렇군요.",
+     "en": "So that's the taste of it. I see."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1756000,
+       "end_ms": 1765000,
+       "ko": "그래서 그것도 수많은 계기, 더 운동을 좋아하게 되는 계기 중에 하나이지 않았나.",
+       "en": "So that was also one of many opportunities, one of the reasons I came to like exercising more."
+      }
+     ],
+     "start_ms": 1756000,
+     "end_ms": 1765000,
+     "ko": "그래서 그것도 수많은 계기, 더 운동을 좋아하게 되는 계기 중에 하나이지 않았나.",
+     "en": "So that was also one of many opportunities, one of the reasons I came to like exercising more."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1765000,
+       "end_ms": 1766000,
+       "ko": "재밌다.",
+       "en": "It's fun."
+      }
+     ],
+     "start_ms": 1765000,
+     "end_ms": 1766000,
+     "ko": "재밌다.",
+     "en": "It's fun."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1766000,
+       "end_ms": 1769000,
+       "ko": "또 인생에 여러 즐거움이 있습니다. 이렇게.",
+       "en": "So there are many pleasures in life like this."
+      }
+     ],
+     "start_ms": 1766000,
+     "end_ms": 1769000,
+     "ko": "또 인생에 여러 즐거움이 있습니다. 이렇게.",
+     "en": "So there are many pleasures in life like this."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1769000,
+       "end_ms": 1776000,
+       "ko": "알고 싶다. 운동의 즐거움. 언젠가는 알았으면 좋겠고.",
+       "en": "I want to know. The joy of exercise. I hope I'll understand it someday."
+      },
+      {
+       "start_ms": 1776000,
+       "end_ms": 1782000,
+       "ko": "혹시나 이 팟캐스트 듣고 계시는 분들 중에서도 운동을 너무너무 좋아하시는 분들이라면",
+       "en": "If there are people listening to this podcast who really, really love exercising,"
+      },
+      {
+       "start_ms": 1782000,
+       "end_ms": 1786000,
+       "ko": "운동의 매력을 좀 많이 알려주셨으면 좋겠습니다.",
+       "en": "I'd really like you to share a lot about the appeal of exercise."
+      },
+      {
+       "start_ms": 1786000,
+       "end_ms": 1791000,
+       "ko": "그리고 저처럼 운동 안 좋아하시는 분들은 태용쌤의 말을 듣고",
+       "en": "And for people like me who don't like exercise, I hope listening to Taeyong's words"
+      },
+      {
+       "start_ms": 1791000,
+       "end_ms": 1794000,
+       "ko": "좀 동기부여가 됐으면 좋겠네요.",
+       "en": "will give us some motivation."
+      }
+     ],
+     "start_ms": 1769000,
+     "end_ms": 1794000,
+     "ko": "알고 싶다. 운동의 즐거움. 언젠가는 알았으면 좋겠고.\n혹시나 이 팟캐스트 듣고 계시는 분들 중에서도 운동을 너무너무 좋아하시는 분들이라면\n운동의 매력을 좀 많이 알려주셨으면 좋겠습니다.\n그리고 저처럼 운동 안 좋아하시는 분들은 태용쌤의 말을 듣고\n좀 동기부여가 됐으면 좋겠네요.",
+     "en": "I want to know. The joy of exercise. I hope I'll understand it someday. If there are people listening to this podcast who really, really love exercising, I'd really like you to share a lot about the appeal of exercise. And for people like me who don't like exercise, I hope listening to Taeyong's words will give us some motivation."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1794000,
+       "end_ms": 1797000,
+       "ko": "그러면 좋겠습니다.",
+       "en": "That would be great."
+      }
+     ],
+     "start_ms": 1794000,
+     "end_ms": 1797000,
+     "ko": "그러면 좋겠습니다.",
+     "en": "That would be great."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1797000,
+       "end_ms": 1800000,
+       "ko": "다음 주 주제는 플레이리스트 만들기.",
+       "en": "Next week's topic is creating a playlist."
+      },
+      {
+       "start_ms": 1801000,
+       "end_ms": 1806000,
+       "ko": "어떤 플레이리스트 만들지는 좀 더 생각해보고",
+       "en": "We'll think a bit more about what kind of playlist to make,"
+      },
+      {
+       "start_ms": 1806000,
+       "end_ms": 1815000,
+       "ko": "저희 둘이 하나의 플레이리스트를 만드는 거를 목표로 이야기해보는 팟캐스트 만들어보도록 하겠습니다.",
+       "en": "and we'll create a podcast where the two of us discuss making one playlist together as our goal."
+      },
+      {
+       "start_ms": 1815000,
+       "end_ms": 1821000,
+       "ko": "네, 그러면 오늘은 이렇게 운동에 대해서 요모조모 이야기를 해봤고요.",
+       "en": "Yes, so today we've talked about exercise from all angles,"
+      },
+      {
+       "start_ms": 1821000,
+       "end_ms": 1828000,
+       "ko": "다음주는 노래에 대해서 요모조모 이야기해보는 시간을 가지도록 하겠습니다.",
+       "en": "and next week we'll have a time where we talk about music from all angles."
+      },
+      {
+       "start_ms": 1828000,
+       "end_ms": 1833000,
+       "ko": "그러면 여기까지 디디와 정태웅이었습니다. 감사합니다.",
+       "en": "So this has been Didi and Jeong Taeyong. Thank you."
+      }
+     ],
+     "start_ms": 1797000,
+     "end_ms": 1833000,
+     "ko": "다음 주 주제는 플레이리스트 만들기.\n어떤 플레이리스트 만들지는 좀 더 생각해보고\n저희 둘이 하나의 플레이리스트를 만드는 거를 목표로 이야기해보는 팟캐스트 만들어보도록 하겠습니다.\n네, 그러면 오늘은 이렇게 운동에 대해서 요모조모 이야기를 해봤고요.\n다음주는 노래에 대해서 요모조모 이야기해보는 시간을 가지도록 하겠습니다.\n그러면 여기까지 디디와 정태웅이었습니다. 감사합니다.",
+     "en": "Next week's topic is creating a playlist. We'll think a bit more about what kind of playlist to make, and we'll create a podcast where the two of us discuss making one playlist together as our goal. Yes, so today we've talked about exercise from all angles, and next week we'll have a time where we talk about music from all angles. So this has been Didi and Jeong Taeyong. Thank you."
+    }
+   ]
+  }
+ ]
+}
