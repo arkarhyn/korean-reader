@@ -29,13 +29,14 @@ New ones (read untapped, known for ~2 days, then due): 결혼식, 긴장, 넣다
 부르다, 긴장하다, 곧, 그러다, 그릇, 댁, 데려오다, 또, 모두, 식탁, 하루, 단톡방, then
 placement `seen` words (대하다, 보이다, 가지다...).
 
-**Not deployed yet** -- waiting for Austin's OK on the dry run. Deploy steps:
-merge `stage-6-srs` into `stage-6`; back up the live DB (sqlite backup API); stop the service;
-`cd server; uv run python scripts/derive_srs.py --rebase --check --apply`;
-`uv run python scripts/ingest_episodes.py` (fills context sentences, resolves meaning checks);
-`cd web; npm run build`; start the service.
+**Deployed 2026-10-05 (Austin OK'd the dry run):** `stage-6` fast-forwarded to
+`stage-6-srs`; live DB backed up to `%TEMP%\kr5\live_backup_pre_stage6.db`; service stopped;
+`derive_srs.py --rebase --check --apply` (migration 0003; replay stable; 599 counts-known,
+98 due, top: 그릇, 댁, 데려오다, 단톡방, 또, 부르다, 긴장하다, 곧...); all episodes re-ingested
+(srs: 0 rows changed); web rebuilt; service started; health OK, sync pull serves 20 review items.
+Rollback: stop service, restore the backup, reset `stage-6` to a0fd0cf, rebuild web, start.
 
-**Next:** deploy, then `/generate-batch` (acceptance: due words appear in the batch; the
+**Next:** `/generate-batch` (acceptance: due words appear in the batch; the
 checker's `batch:` line). Stage 6 is DONE once that batch passes.
 
 **Open issues:**
