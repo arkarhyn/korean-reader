@@ -67,6 +67,21 @@ Known caveats, found in the sample pass:
 - **Coverage is about 60–69% per episode and 54–71% per ~10-min part (Oct 2026, 594 known words).**
   It's slightly understated: `-것 같다` counts 같다, and the 예 / 그 fillers count as words.
 
+## Stage 7 decisions so far (Austin, 2026-10-05)
+Move these into `docs/DECISIONS.md` when Stage 7 Phase B starts. They're held here so this work doesn't
+collide with the concurrent Stage 6 session's DECISIONS edits.
+- **Podcasts get their own Listen surface,** separate from the story library. They're stored as
+  episodes with a hidden `podcast` series, reusing the reader, tap logging and SRS events.
+  Rejected: mixing them into the story list.
+- **The video is a synced YouTube embed** (all 33 videos allow embedding). It assumes you're online, and
+  it can't keep playing with the iPhone screen locked. Rejected: text plus system TTS only, since the real
+  voices are the point.
+- **Parts are ~10 min (8–12),** cut at topic breaks. Rejected: ~5 min (too many parts).
+- **Uncertain speakers show "?"** in the app. Rejected: hiding the uncertainty.
+- **Start with the 23 manual-subtitle episodes.** The 10 auto-caption ones wait for a cleanup pass or
+  a listen-only mode.
+- **Phase A** (prep in `corpus/`) runs alongside Stage 6. **Phase B** (app) starts after Stage 6 merges.
+
 ## Refresh (new episodes)
 `python corpus/podcasts/didi-taewoong/fetch.py`: downloads subtitles for videos
 not in `raw/archive.txt` (via `uvx yt-dlp`), then reruns `build.py`.
