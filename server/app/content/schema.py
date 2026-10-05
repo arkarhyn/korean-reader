@@ -10,14 +10,24 @@ from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
-Series = Literal["main", "side-parent", "side-folk", "primer", "legacy", "placement"]
+Series = Literal["main", "side-parent", "side-folk", "primer", "legacy", "placement", "podcast"]
 Register = Literal["banmal", "haeyo", "hasipsio"]
 
 
 class Paragraph(BaseModel):
     model_config = ConfigDict(extra="forbid")
     ko: str = Field(min_length=1)
-    en: str = Field(min_length=1)
+    en: str = ""
+    # Podcast turns: {speaker, uncertain?, start_ms, end_ms, lines: [{s, start_ms, end_ms, en}]},
+    # `s` = char offset of the subtitle line in `ko`.
+    meta: dict | None = None
+
+    @model_validator(mode="after")
+    def _en_required_without_meta(self):
+        # Authored episodes always carry English; podcast turns may have an untranslated one.
+        if not self.en and self.meta is None:
+            raise ValueError("en is required")
+        return self
 
 
 class Question(BaseModel):
@@ -47,6 +57,8 @@ class Episode(BaseModel):
     status: Literal["draft", "published", "retired"] = "draft"
     source: str | None = None
     summary: str | None = None  # one line for continuity (generation context)
+    # Podcast parts: {kind: "youtube", video_id, start_ms, end_ms, show, show_episode, part, parts}
+    media: dict | None = None
     paragraphs: list[Paragraph] = Field(min_length=1)
     questions: list[Question] = []
 

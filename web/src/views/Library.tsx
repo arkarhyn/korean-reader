@@ -3,12 +3,12 @@ import { useState } from "react";
 import { Link } from "react-router";
 import SyncChip from "../components/SyncChip";
 import { db } from "../db";
-import { buildSections, mainPosition, upNext, type Section } from "../library";
+import { buildSections, HIDDEN_SERIES, mainPosition, upNext, type Section } from "../library";
 import { loadData, loadProgress } from "../placement";
 import type { Episode } from "../types";
 
-/** Library hides placement calibration passages (series "placement"). */
-export const libraryEpisodes = (eps: Episode[]) => eps.filter((e) => e.series !== "placement");
+/** Library hides placement calibration passages and podcast parts (they live in the Listen tab). */
+export const libraryEpisodes = (eps: Episode[]) => eps.filter((e) => !HIDDEN_SERIES.has(e.series));
 
 const REGISTER_LABEL: Record<string, string> = { banmal: "반말", haeyo: "해요체", hasipsio: "합니다체" };
 const PRACTICE_OPEN_KEY = "library.practiceOpen";
@@ -42,6 +42,12 @@ export default function Library() {
               복습
             </Link>
           )}
+          <Link
+            to="/listen"
+            className="flex min-h-11 items-center rounded-full border border-rule px-4 font-title text-sm font-bold active:bg-paper-deep"
+          >
+            듣기
+          </Link>
           <Link
             to="/words"
             className="flex min-h-11 items-center rounded-full border border-rule px-4 font-title text-sm font-bold active:bg-paper-deep"

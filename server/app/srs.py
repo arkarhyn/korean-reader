@@ -42,6 +42,9 @@ BASE_DUE = datetime(2000, 1, 1, tzinfo=UTC)  # unreviewed baseline cards: due si
 LEXEME_STATES = ("new", "seen", "learning", "known", "ignored")
 KNOWN = ("known", "ignored")
 EXCLUDED_SERIES = ("placement",)  # calibration passages are placement's evidence, not reviews
+# Outside content far below the 95% band: untapped new words are exposures, not first-encounter
+# Good cards (DECISIONS 84). Taps -> Again and untapped due words -> Good as in stories.
+DUE_ONLY_SERIES = ("podcast",)
 
 
 @dataclass(frozen=True)
@@ -258,7 +261,8 @@ class Replay:
                 rate(rec, lex, Rating.Easy if fast else Rating.Good, ts, LEX)
             elif rec is not None and is_due(rec.card, ts):
                 rate(rec, lex, Rating.Good, ts, LEX)
-            elif not known_no_card and (rec is None or rec.card is None):
+            elif (info.series not in DUE_ONLY_SERIES
+                  and not known_no_card and (rec is None or rec.card is None)):
                 rec = rec or self.lex_rec(lex, ts)
                 rate(rec, lex, Rating.Good, ts, LEX)  # first encounter, read without a lookup
             if rec is not None:

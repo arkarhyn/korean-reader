@@ -132,24 +132,34 @@ def sentences(ko: str) -> list[tuple[int, int]]:
     return [(m.start(), m.end()) for m in _SENTENCE.finditer(ko) if m.group().strip()]
 
 
+def line_spans(p: EpisodeParagraph) -> list[tuple[int, int, str]]:
+    """(start, end, en) per sentence: podcast turns split on their subtitle lines (which carry no
+    reliable punctuation), authored paragraphs on .!? with the paragraph's English."""
+    lines = (p.meta or {}).get("lines")
+    if lines:
+        starts = [ln["s"] for ln in lines] + [len(p.ko)]
+        return [(starts[i], starts[i + 1], ln.get("en") or p.en) for i, ln in enumerate(lines)]
+    return [(a, b, p.en) for a, b in sentences(p.ko)]
+
+
 def context_rows(ep_id: str, paragraphs: list[EpisodeParagraph]) -> list[ContextSentence]:
     """One context sentence per (lexeme, sentence) of an episode, with the word's span."""
     out, seen = [], set()
     for p in paragraphs:
         content = sorted((t for t in p.tokens if "lex" in t), key=lambda t: t["s"])
-        spans = sentences(p.ko)
+        spans = line_spans(p)
         for i, t in enumerate(content):
-            s0, s1 = next(((a, b) for a, b in spans if a <= t["s"] < b), (0, len(p.ko)))
+            s0, s1, en = next(((a, b, en) for a, b, en in spans if a <= t["s"] < b), (0, len(p.ko), p.en))
             raw = p.ko[s0:s1]
             lead = len(raw) - len(raw.lstrip())
             text = raw.strip()
-            limit = content[i + 1]["s"] if i + 1 < len(content) else len(p.ko)
+            limit = min(content[i + 1]["s"] if i + 1 < len(content) else len(p.ko), s1)
             start = t["s"] - s0 - lead
             end = word_end(p.ko, t["e"], limit) - s0 - lead
             if (t["lex"], text) in seen or not 0 <= start < end <= len(text):
                 continue
             seen.add((t["lex"], text))
-            out.append(ContextSentence(lexeme_id=t["lex"], sentence_ko=text, sentence_en=p.en,
+            out.append(ContextSentence(lexeme_id=t["lex"], sentence_ko=text, sentence_en=en,
                                        origin=f"episode:{ep_id}", start=start, end=end))
     return out
 
@@ -175,6 +185,7 @@ def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, pub
     ep.target_grammar = doc.target_grammar
     ep.source = doc.source
     ep.summary = doc.summary
+    ep.media = doc.media
     if publish:
         ep.status = "published"  # re-ingest without --publish keeps the current status
     ep.paragraphs.clear()
@@ -197,7 +208,7 @@ def ingest_episode(session: Session, doc: EpisodeDoc, lookup: Lookup | None, pub
                 report.content_tokens += 1
             elif t.grammar_code is not None:
                 stored.append({"s": t.start, "e": t.end, "g": t.grammar_code})
-        ep.paragraphs.append(EpisodeParagraph(idx=idx, ko=para.ko, en=para.en, tokens=stored))
+        ep.paragraphs.append(EpisodeParagraph(idx=idx, ko=para.ko, en=para.en, tokens=stored, meta=para.meta))
 
     lemma_ids: dict[str, int] = {}
     ep_lex_ids = {t["lex"] for p in ep.paragraphs for t in p.tokens if "lex" in t}

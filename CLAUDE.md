@@ -58,6 +58,7 @@ Reference as needed: `docs/SPEC.md`, `docs/DATA_MODEL.md`,
 - coverage check: `cd server; uv run python scripts/coverage_check.py ../content/episodes/s01/S01E001.json ...` (exit 1 on any failing draft)
 - hidden SRS replay (dry run by default; runs automatically after every event batch): `cd server; uv run python scripts/derive_srs.py [--db PATH] [--rebase] [--check] [--apply]`
 - generate a batch: `/generate-batch` skill (`.claude/skills/generate-batch/`)
+- podcasts (Stage 7): prep in `corpus/podcasts/didi-taewoong/` (README: `fetch.py`, `prep.py`), then `cd server; uv run python scripts/ingest_podcasts.py [NN ...] --publish` (Listen tab, `/listen`)
 - word sets: edit `content/seed/word_sets.json`, then `cd server; uv run python scripts/ingest_episodes.py --seed` (creates lexemes; served at `GET /api/word-sets`)
 
 ## Conventions

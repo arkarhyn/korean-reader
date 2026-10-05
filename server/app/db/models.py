@@ -131,6 +131,7 @@ class Episode(Base):
     status: Mapped[str] = mapped_column(String, index=True)  # draft / published / retired
     source: Mapped[str | None]
     summary: Mapped[str | None] = mapped_column(Text)  # one-line continuity note for the generator
+    media: Mapped[dict[str, Any] | None]  # podcast parts: YouTube id + time range (migration 0004)
     created_at: Mapped[datetime] = mapped_column(default=utcnow)
     updated_at: Mapped[datetime] = mapped_column(default=utcnow, index=True)
 
@@ -148,6 +149,7 @@ class EpisodeParagraph(Base):
     en: Mapped[str] = mapped_column(Text)
     # [{"s", "e", "lex": lexeme_id}] for content, [{"s", "e", "g": code}] for coded grammar
     tokens: Mapped[list[Any]] = mapped_column(default=list)
+    meta: Mapped[dict[str, Any] | None]  # podcast turns: speaker + timed subtitle lines (migration 0004)
 
 
 class Question(Base):

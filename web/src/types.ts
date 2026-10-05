@@ -22,7 +22,27 @@ export type Question = {
   target_ref: string | null;
 };
 
-export type Paragraph = { idx: number; ko: string; en: string; tokens: Token[] };
+/** A podcast turn's subtitle line: `s` = char offset in the paragraph's `ko`. */
+export type TurnLine = { s: number; start_ms: number; end_ms: number; en: string };
+
+/** Podcast turns (Stage 7): speaker + timed subtitle lines. */
+export type TurnMeta = { speaker: string; uncertain?: boolean; start_ms: number; end_ms: number; lines: TurnLine[] };
+
+export type Paragraph = { idx: number; ko: string; en: string; tokens: Token[]; meta?: TurnMeta | null };
+
+/** Podcast parts: YouTube video + the part's time range. */
+export type Media = {
+  kind: "youtube";
+  video_id: string;
+  start_ms: number;
+  end_ms: number;
+  show: string;
+  order: number;
+  show_episode: number | null;
+  episode_title: string;
+  part: number;
+  parts: number;
+};
 
 export type Episode = {
   id: string;
@@ -33,6 +53,7 @@ export type Episode = {
   target_grammar: string | null;
   coverage: number | null;
   updated_at: string;
+  media?: Media | null;
   paragraphs: Paragraph[];
   questions: Question[];
   lexemes: Record<string, Lexeme>;
@@ -85,7 +106,32 @@ export type EventType =
   | "grammar_drill_answer"
   | "set_state"
   | "word_untap"
-  | "review_answer";
+  | "review_answer"
+  | "primer_request";
+
+/** GET /api/podcasts (Stage 7 Listen tab). */
+export type PodcastPart = {
+  id: string;
+  part: number;
+  title_ko: string;
+  title_en: string;
+  start_ms: number;
+  end_ms: number;
+  coverage: number | null;
+  primer: "requested" | "published" | null;
+  primer_id: string | null;
+};
+
+export type PodcastEpisode = {
+  order: number;
+  show_episode: number | null;
+  title: string;
+  video_id: string;
+  register_tags: string[];
+  parts: PodcastPart[];
+};
+
+export type PodcastShow = { id: string; title_ko: string; title_en: string; episodes: PodcastEpisode[] };
 
 export type Device = "laptop" | "iphone";
 

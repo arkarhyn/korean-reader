@@ -28,6 +28,8 @@ and `docs/LEARNER_PROFILE.md`. Key fields:
   `grammar_avoid` (state `new`: do not use unless it is the episode's target)
 - `recent_episodes` (summaries for continuity), `flagged_sentences` ("sounds off" taps:
   rewrite or avoid those constructions; mention in the batch report)
+- `primer_requests` (Stage 7): podcast parts Austin tapped "프라이머 만들기" on, each with its
+  top unknown `words`. Draft one primer per request in addition to the batch (section 2b).
 
 Pick one target per episode from `suggested_targets`, guided by the arc table's focus.
 A target must have a `kiwi_pattern` in `content/seed/grammar_points.json`; add one
@@ -57,6 +59,18 @@ Writing rules:
   is the only thing that grades grammar). Options short, one clearly right answer.
 - At most one Japanese-parallel moment per episode, correct about where it breaks.
 
+## 2b. Primers (only if `primer_requests` is non-empty)
+A primer pre-teaches a podcast part's words before Austin listens (DECISIONS 87). Write
+`content/episodes/primer/<part id>.json`: `id: "primer-<part id>"`, `series: "primer"`,
+`source` = the request's `source` (`primer:<part id>`; this links it to the part in the
+Listen tab), `target_grammar` optional (null is fine), titles naming the topic.
+- Pick 5-10 of the request's `words` that fit one everyday scene on the part's topic
+  (`title_ko` / `title_en`); use each 2-3 times in clearly guessable context.
+- Characters from the S01 cast or a neutral everyday scene; same register and one-speaker-
+  per-paragraph rules as episodes. Original text: never quote or paraphrase the podcast.
+- Same coverage band and length; the checker allows 5-10 new words for `primer` and no
+  target grammar. 2-3 questions, including meaning checks on 1-2 primer words.
+
 ## 3. Coverage swap loop
 ```
 uv run python scripts/coverage_check.py ../content/episodes/s01/S01E00N.json
@@ -85,4 +99,5 @@ uv run python scripts/ingest_episodes.py ../content/episodes/s01/S01E00N.json ..
 
 ## 6. Report
 Per episode: id, title, coverage, new words, due words used, target x count, review
-notes, flagged sentences addressed. Update `docs/STATUS.md`.
+notes, flagged sentences addressed; per primer: which part and words it covers.
+Update `docs/STATUS.md`.

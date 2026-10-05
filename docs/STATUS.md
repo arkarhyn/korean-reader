@@ -1,5 +1,40 @@
 # STATUS
 
+## 2026-10-05 -- Stage 7 Phases A + B (Claude Code)
+**Done (branch `stage-7` = `stage-6` + podcast work, worktree `.claude/worktrees/podcast-transcripts`):**
+- Phase A (`corpus/podcasts/didi-taewoong/`): 33 Didi & Taewoong episodes downloaded
+  (yt-dlp; 23 with creator subtitles), 23 speaker-labeled and split into 106 ~10-min parts
+  (`prep.py`), coverage ranking, `podcast-common` word set (76 words, +9-11 pts coverage).
+- Phase B (DECISIONS 84-88): migration 0004 (`episode.media`, `episode_paragraph.meta`),
+  `podcast` series, `app/podcasts.py` + `scripts/ingest_podcasts.py`, line-level context
+  sentences, due-only grading for podcast completions, Quick review prefers story sentences,
+  `/api/podcasts`, podcasts out of sync pull, `primer_request` -> `primer_requests` in the
+  generation context (+ checker bands, skill step 2b). Web: `useWordTaps` + `WordSpans`
+  extracted from the Reader (no behavior change), Listen tab (`/listen`, `/listen/:id`) with
+  YouTube IFrame player, line follow, seek, pause-on-tap, "Learn this", primer button.
+- Tests: server 145 passed (4 skipped), web 38 passed, tsc clean, build OK.
+- Checked on a copy of the live DB: all 106 parts ingest in ~20 s (coverage 56-73%, mean
+  65%); replay stable; in Chrome the list, part page, word tap, Learn this and finish all
+  worked, and finishing a 289-word part created exactly 1 card (the mined word).
+  Playback/line follow not seen in the browser (the Chrome window was hidden, so video
+  can't play); `activeLineAt` is unit-tested.
+
+**Not deployed.** To deploy (after Austin OKs): back up the live DB; stop the service;
+merge `stage-7`; `cd server; uv run python scripts/ingest_episodes.py --seed` (word set +
+names) and `uv run python scripts/ingest_podcasts.py --publish`; `cd web; npm run build`;
+start the service; open 듣기.
+
+**Next:** Austin listens to a part on the phone (check line follow + video inline); request
+a primer, then `/generate-batch` (also Stage 6's pending acceptance). Then Phase C.
+
+**Open issues:**
+- 1,557 of 6,152 podcast lexemes (25%) have no gloss, including common ones (그래도, 완전,
+  이렇게, 어떻게, 아니면): local-dump POS mismatches + spoken forms. Fix: a gloss pass in a
+  Claude Code session (`gloss_source = llm`, SPEC 5) or POS fallbacks in the lookup.
+- Some subtitle cues hold 2-3 speakers (01 40-50 min, 05 30-36 min, 18 9-18 min); labels
+  there are approximate. 10 auto-caption episodes are not ingested.
+- The embedded player stops when the iPhone locks (YouTube embed limit).
+
 ## 2026-10-05 -- Stage 6 (Claude Code)
 **Done (branch `stage-6-srs`, worktree `.claude/worktrees/stage-6-srs`, on top of `stage-6`):**
 - Hidden SRS (`server/app/srs.py`): baseline columns (migration 0003) + full replay of

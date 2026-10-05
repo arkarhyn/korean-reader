@@ -14,13 +14,13 @@ from typing import Any
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from .analyzer import analyze, proper_nouns
+from .analyzer import analyze, proper_nouns, story_names
 from .analyzer.patterns import count_grammar, seed_patterns
 from .config import REPO_ROOT
 from .content.schema import Episode as EpisodeDoc
 from .coverage import coverage
 from .db.models import Episode, Event, GrammarPoint, GrammarState, Lexeme, LexemeState, utcnow
-from .ingest import due_lexeme_ids, known_keys
+from .ingest import due_lexeme_ids, known_keys, known_lexeme_ids
 from .srs import due_now, load_card, retrievability
 
 BAND = (0.95, 0.98)
@@ -90,6 +90,41 @@ def _still_present(session: Session, episode_id: str | None, text: str | None) -
     return any(needle in p.ko for p in ep.paragraphs)
 
 
+PRIMER_WORDS = 10  # top unknown words offered per requested podcast part
+PRIMER_NEW_WORDS = (5, 10)
+
+
+def primer_requests(session: Session) -> list[dict[str, Any]]:
+    """Podcast parts Austin asked to be pre-taught (`primer_request`) that have no primer episode yet,
+    each with its most frequent words that don't count as known (story/host names excluded)."""
+    done = {src.removeprefix("primer:") for src in session.scalars(
+        select(Episode.source).where(Episode.source.like("primer:%")))}
+    known = known_lexeme_ids(session)
+    names = proper_nouns()
+    out, seen = [], set()
+    for ev in session.scalars(select(Event).where(Event.type == "primer_request").order_by(Event.ts)):
+        part_id = ev.payload.get("episode_id")
+        if part_id in seen or part_id in done:
+            continue
+        seen.add(part_id)
+        part = session.get(Episode, part_id)
+        if part is None or part.series != "podcast":
+            continue
+        counts = Counter(t["lex"] for p in part.paragraphs for t in p.tokens if "lex" in t and t["lex"] not in known)
+        words = []
+        for lex_id, n in counts.most_common():
+            lx = session.get(Lexeme, lex_id)
+            if lx is None or (lx.pos == "NNP" and lx.lemma in names) or not lx.gloss_en:
+                continue
+            words.append({"lemma": lx.lemma, "pos": lx.pos, "gloss": lx.gloss_en, "rank": lx.freq_rank, "count": n})
+            if len(words) == PRIMER_WORDS:
+                break
+        out.append({"part_id": part_id, "source": f"primer:{part_id}", "title_ko": part.title_ko,
+                    "title_en": part.title_en, "episode_title": part.summary, "words": words,
+                    "requested_at": ev.ts.isoformat()})
+    return out
+
+
 def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
     """Everything a /generate-batch session needs, as one JSON document."""
     states = {lx.id: (lx, st) for lx, st in session.execute(select(Lexeme, LexemeState).join(LexemeState)).all()}
@@ -127,7 +162,7 @@ def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
         "next_episode_id": next_episode_id(session),
         "targets": {"coverage": list(BAND), "new_words": list(NEW_WORDS), "target_grammar_count": list(TARGET_GRAMMAR),
                     "hangul_chars": list(HANGUL_CHARS)},
-        "proper_nouns": sorted(proper_nouns()),
+        "proper_nouns": sorted(story_names()),
         "known": [f"{lemma}/{pos}" for lemma, pos in known],
         "learning": learning,
         "due": [due_row(lx, st, now) for lx, st in due_lexemes(session, now)],
@@ -140,6 +175,7 @@ def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
                              "target_grammar": e.target_grammar, "summary": e.summary, "coverage": e.coverage,
                              "status": e.status} for e in episodes],
         "flagged_sentences": flags,
+        "primer_requests": primer_requests(session),
         "docs": {k: (REPO_ROOT / v).read_text(encoding="utf-8") for k, v in DOCS.items()},
     }
 
@@ -228,8 +264,10 @@ def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] |
         r.problems.append(f"coverage {cov:.1%} < {lo:.0%}")
     elif cov > hi:
         r.problems.append(f"coverage {cov:.1%} > {hi:.0%}")
-    if not NEW_WORDS[0] <= len(r.new_words) <= NEW_WORDS[1]:
-        r.problems.append(f"{len(r.new_words)} new words (want {NEW_WORDS[0]}-{NEW_WORDS[1]})")
+    primer = doc.series == "primer"  # pre-teaches a podcast part's words (DECISIONS 87)
+    lo_new, hi_new = PRIMER_NEW_WORDS if primer else NEW_WORDS
+    if not lo_new <= len(r.new_words) <= hi_new:
+        r.problems.append(f"{len(r.new_words)} new words (want {lo_new}-{hi_new})")
     if not r.due_words:
         r.problems.append("no due words")
     else:  # SPEC 3.2: about 1 in 5 due words also gets a meaning check
@@ -244,7 +282,8 @@ def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] |
         if q.kind == "meaning_check" and q.target_ref not in lemmas:
             r.problems.append(f"meaning_check target_ref {q.target_ref!r} is not a word in the episode")
     if doc.target_grammar is None:
-        r.problems.append("no target_grammar")
+        if not primer:
+            r.problems.append("no target_grammar")
     elif doc.target_grammar not in seed_patterns():
         r.problems.append(f"{doc.target_grammar} has no kiwi_pattern; cannot count it")
     elif not TARGET_GRAMMAR[0] <= (target_count or 0) <= TARGET_GRAMMAR[1]:

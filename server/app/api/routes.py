@@ -17,6 +17,7 @@ from ..generation import build_context
 from ..ingest import raw_known_keys
 from ..placement import items as placement_items
 from ..placement import service as placement
+from ..podcasts import podcasts_out
 from ..review import review_items
 from ..srs import derive, known_until, load_card
 from .schemas import (CompletedOut, EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, GrammarItemOut, LexemeOut,
@@ -42,7 +43,8 @@ def _full(session: Session, ep: Episode, raw_known: set[tuple[str, str]] | None 
     raw_known = raw_known_keys(session) if raw_known is None else raw_known
     return EpisodeFull(
         **_summary(ep).model_dump(),
-        paragraphs=[{"idx": p.idx, "ko": p.ko, "en": p.en, "tokens": p.tokens} for p in ep.paragraphs],
+        paragraphs=[{"idx": p.idx, "ko": p.ko, "en": p.en, "tokens": p.tokens, "meta": p.meta}
+                    for p in ep.paragraphs],
         questions=[QuestionOut.model_validate(q, from_attributes=True) for q in ep.questions],
         lexemes={lx.id: _lexeme_out(lx, raw_known) for lx in lexemes},
     )
@@ -55,7 +57,8 @@ def _published():
 
 @router.get("/episodes", response_model=list[EpisodeSummary])
 def list_episodes(session: Session = Depends(get_session)):
-    eps = session.scalars(select(Episode).where(Episode.status == "published").order_by(Episode.created_at))
+    eps = session.scalars(select(Episode).where(Episode.status == "published", Episode.series != "podcast")
+                          .order_by(Episode.created_at))
     return [_summary(ep) for ep in eps]
 
 
@@ -88,7 +91,8 @@ def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get
     """Everything changed after `since` (all of it when omitted). Client stores server_time as its next cursor."""
     server_time = utcnow()
     raw_known = raw_known_keys(session)
-    eps = _published().order_by(Episode.created_at)
+    # Podcast parts are long and only read online: fetched one by one (GET /episodes/{id}), not synced.
+    eps = _published().where(Episode.series != "podcast").order_by(Episode.created_at)
     states = select(LexemeState)
     # Read marks always go out in full: one row per finished episode, and devices that
     # synced before this existed would otherwise never get the earlier ones.
@@ -113,6 +117,12 @@ def _state_out(s: LexemeState) -> LexemeStateOut:
     return LexemeStateOut(lexeme_id=s.lexeme_id, state=s.state, updated_at=s.updated_at,
                           due=known_until(load_card(s.fsrs_card)))
 
+
+
+@router.get("/podcasts")
+def list_podcasts(session: Session = Depends(get_session)) -> list[dict[str, Any]]:
+    """Shows -> episodes -> parts for the Listen tab (Stage 7). Read marks come from sync `completed`."""
+    return podcasts_out(session)
 
 
 @router.get("/export/generation-context")

@@ -67,9 +67,9 @@ Known caveats, found in the sample pass:
 - **Coverage is about 60–69% per episode and 54–71% per ~10-min part (Oct 2026, 594 known words).**
   It's slightly understated: `-것 같다` counts 같다, and the 예 / 그 fillers count as words.
 
-## Stage 7 decisions so far (Austin, 2026-10-05)
-Move these into `docs/DECISIONS.md` when Stage 7 Phase B starts. They're held here so this work doesn't
-collide with the concurrent Stage 6 session's DECISIONS edits.
+## Stage 7 decisions (Austin, 2026-10-05)
+Now logged in `docs/DECISIONS.md` 84-88; this summary is kept for context. The app ingests
+`prepared/` with `server/scripts/ingest_podcasts.py`.
 - **Podcasts get their own Listen surface,** separate from the story library. They're stored as
   episodes with a hidden `podcast` series, reusing the reader, tap logging and SRS events.
   Rejected: mixing them into the story list.

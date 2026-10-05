@@ -7,6 +7,7 @@ from pydantic import AwareDatetime, BaseModel, ConfigDict, Field
 EventType = Literal[
     "episode_open", "word_tap", "episode_complete", "question_answer", "mine_word",
     "flag_sentence", "placement_answer", "grammar_drill_answer", "set_state", "word_untap", "review_answer",
+    "primer_request",
 ]
 
 
@@ -19,6 +20,7 @@ class EpisodeSummary(BaseModel):
     target_grammar: str | None
     coverage: float | None
     updated_at: datetime
+    media: dict[str, Any] | None = None  # podcast parts: YouTube id + time range
 
 
 class ParagraphOut(BaseModel):
@@ -26,6 +28,7 @@ class ParagraphOut(BaseModel):
     ko: str
     en: str
     tokens: list[dict[str, Any]]
+    meta: dict[str, Any] | None = None  # podcast turns: speaker + timed lines
 
 
 class QuestionOut(BaseModel):

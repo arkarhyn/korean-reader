@@ -1,0 +1,10 @@
+{
+  "_note": "Podcast hosts (corpus/podcasts/didi-taewoong). Kiwi user words, counted as known, never graded; not offered to the story generator (story names live in proper_nouns.json). Address forms are listed too: Kiwi reads 태웅쌤 / 디디님 as one common noun otherwise.",
+  "names": {
+    "디디": "Didi (podcast host)",
+    "디디님": "Didi (podcast host; -님 = polite address)",
+    "태웅": "Taewoong (podcast host)",
+    "정태웅": "Jung Taewoong (podcast host)",
+    "태웅쌤": "Taewoong (podcast host; 쌤 = casual 'teacher')"
+  }
+}

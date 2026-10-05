@@ -39,7 +39,9 @@ def review_items(session: Session) -> list[dict[str, Any]]:
                     if c.start is not None and published.get(c.origin.removeprefix("episode:"), "placement") != "placement"]
         if not contexts:
             continue
-        ctx = max(contexts, key=lambda c: (c.origin.removeprefix("episode:") in read, c.id))
+        # Story sentences first (authored at the learner's level); podcast lines only as a fallback.
+        ctx = max(contexts, key=lambda c: (published.get(c.origin.removeprefix("episode:")) != "podcast",
+                                           c.origin.removeprefix("episode:") in read, c.id))
         wrong = _distractors(session, lx)
         if len(wrong) < 2:
             continue

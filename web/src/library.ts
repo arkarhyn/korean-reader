@@ -14,6 +14,8 @@ export type Section = {
 /** Season titles from docs/STORY_BIBLE.md. */
 const SEASON_TITLES: Record<number, string> = { 1: "언니 결혼식" };
 const SIDE_SERIES = new Set(["side-parent", "side-folk"]);
+/** Not story content: placement calibration passages, and podcast parts (Listen tab, Stage 7). */
+export const HIDDEN_SERIES = new Set(["placement", "podcast"]);
 
 const MAIN_ID = /^S(\d+)E(\d+)$/;
 
@@ -30,7 +32,7 @@ export function buildSections(episodes: Episode[]): Section[] {
   const side: Episode[] = [];
   const practice: Episode[] = [];
   for (const ep of episodes) {
-    if (ep.series === "placement") continue;
+    if (HIDDEN_SERIES.has(ep.series)) continue;
     const pos = ep.series === "main" ? mainPosition(ep.id) : null;
     if (pos) seasons.set(pos.season, [...(seasons.get(pos.season) ?? []), ep]);
     else if (SIDE_SERIES.has(ep.series)) side.push(ep);

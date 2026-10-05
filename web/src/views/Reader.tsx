@@ -1,18 +1,19 @@
 import { useLiveQuery } from "dexie-react-hooks";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router";
 import Questions from "../components/Questions";
 import WordPopover from "../components/WordPopover";
+import WordSpans from "../components/WordSpans";
 import { db } from "../db";
-import { segment, sentenceAt } from "../segments";
+import { segment } from "../segments";
 import { speakerColor } from "../speakers";
 import { syncer } from "../sync";
-import type { Episode, Paragraph, Question, WordStatus } from "../types";
-import { countsKnown, KNOWN_STATES, setWordState, untap } from "../wordActions";
+import type { Episode, Paragraph, Question } from "../types";
+import { type OnTap, useWordTaps } from "../useWordTaps";
 
 const HIGHLIGHT_KEY = "reader.highlightKnown";
 
-function loadHighlight(): boolean {
+export function loadHighlight(): boolean {
   try {
     return localStorage.getItem(HIGHLIGHT_KEY) !== "0";
   } catch {
@@ -20,7 +21,13 @@ function loadHighlight(): boolean {
   }
 }
 
-type Active = { para: number; start: number; end: number; lex: number; surface: string; anchor: DOMRect };
+export function saveHighlight(on: boolean) {
+  try {
+    localStorage.setItem(HIGHLIGHT_KEY, on ? "1" : "0");
+  } catch {
+    /* preference only */
+  }
+}
 
 export default function Reader() {
   const { id = "" } = useParams();
@@ -42,114 +49,15 @@ export type PlacementMode = { onDone: (tapped: number[]) => void };
 
 export function EpisodeView({ episode, placement }: { episode: Episode; placement?: PlacementMode }) {
   const navigate = useNavigate();
-  const [active, setActive] = useState<Active | null>(null);
-  const [tapped, setTapped] = useState<Set<number>>(new Set());
-  const tappedRef = useRef<Set<number>>(new Set()); // read at finish; state can lag a burst of taps
-  const [flagged, setFlagged] = useState<Set<string>>(new Set());
+  const w = useWordTaps(episode);
   const [shown, setShown] = useState<Set<number>>(new Set());
-  const changedRef = useRef<Map<number, string>>(new Map()); // lexeme -> state before this visit's change
-  const [changed, setChanged] = useState<Map<number, string>>(new Map());
   const [highlight, setHighlight] = useState(loadHighlight);
-  const opened = useRef(false);
-
-  const lexIds = useMemo(() => Object.keys(episode.lexemes).map(Number), [episode.lexemes]);
-  const rows = useLiveQuery(async () => {
-    const found = await db.lexemeStates.bulkGet(lexIds);
-    return new Map(found.flatMap((r) => (r ? [[r.lexeme_id, r] as const] : [])));
-  }, [lexIds]);
-  const states = useMemo(() => new Map([...(rows ?? [])].map(([id, r]) => [id, r.state])), [rows]);
-  const known = useMemo(() => {
-    const s = new Set<number>();
-    for (const id of lexIds) {
-      if (countsKnown(rows?.get(id)) || episode.lexemes[String(id)]?.counts_known) s.add(id);
-    }
-    return s;
-  }, [lexIds, rows, episode.lexemes]);
 
   function toggleHighlight() {
     setHighlight((h) => {
-      try {
-        localStorage.setItem(HIGHLIGHT_KEY, h ? "0" : "1");
-      } catch {
-        /* preference only */
-      }
+      saveHighlight(!h);
       return !h;
     });
-  }
-
-  useEffect(() => {
-    if (opened.current) return; // StrictMode re-runs effects; log once per visit
-    opened.current = true;
-    void syncer.logEvent("episode_open", { episode_id: episode.id });
-  }, [episode.id]);
-
-  const tap = useCallback(
-    (para: number, start: number, end: number, lex: number, surface: string, el: HTMLElement) => {
-      setActive((cur) =>
-        cur?.para === para && cur.start === start
-          ? null
-          : { para, start, end, lex, surface, anchor: el.getBoundingClientRect() },
-      );
-      tappedRef.current.add(lex);
-      setTapped(new Set(tappedRef.current));
-      void syncer.logEvent("word_tap", { episode_id: episode.id, paragraph_idx: para, start, end, lexeme_id: lex });
-    },
-    [episode.id],
-  );
-
-  const close = useCallback(() => setActive(null), []);
-
-  function flag() {
-    if (!active) return;
-    const p = episode.paragraphs[active.para];
-    const s = sentenceAt(p.ko, active.start);
-    const key = `${active.para}:${s.start}`;
-    if (flagged.has(key)) return;
-    setFlagged((f) => new Set(f).add(key));
-    void syncer.logEvent("flag_sentence", {
-      episode_id: episode.id,
-      paragraph_idx: active.para,
-      start: s.start,
-      end: s.end,
-      text: s.text,
-    });
-  }
-
-  const log = syncer.logEvent;
-
-  async function untapActive() {
-    if (!active) return;
-    await untap(log, tappedRef.current, episode.id, active);
-    setTapped(new Set(tappedRef.current));
-  }
-
-  async function mistap() {
-    await untapActive();
-    setActive(null);
-  }
-
-  /** "I know this word" -> known; "I forgot this" -> learning (due again); Undo -> previous state. */
-  async function changeState(to: "known" | "learning" | "undo") {
-    if (!active) return;
-    const lex = active.lex;
-    if (to === "undo") {
-      const prev = changedRef.current.get(lex);
-      if (prev === undefined) return;
-      await setWordState(db, log, lex, prev, { episode_id: episode.id, undo: true });
-      changedRef.current.delete(lex);
-    } else {
-      if (to === "known") await untapActive(); // knowing it means the tap wasn't a lookup
-      changedRef.current.set(lex, await setWordState(db, log, lex, to, { episode_id: episode.id }));
-      if (to === "known") setActive(null);
-    }
-    setChanged(new Map(changedRef.current));
-  }
-
-  function statusOf(lex: number): WordStatus {
-    if (changed.has(lex)) return { kind: "changed", to: states?.get(lex) ?? "" };
-    if (KNOWN_STATES.has(states?.get(lex) ?? "")) return { kind: "known" };
-    if (episode.lexemes[String(lex)]?.counts_known) return { kind: "fixed" };
-    return { kind: "unknown" };
   }
 
   function answer(q: Question, choice: number, ms: number) {
@@ -166,20 +74,18 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
   }
 
   async function finish() {
-    if (placement) return placement.onDone([...tappedRef.current]);
+    if (placement) return placement.onDone([...w.tappedRef.current]);
     await syncer.logEvent("episode_complete", {
       episode_id: episode.id,
-      tapped_lexeme_ids: [...tappedRef.current],
-      lexeme_ids: lexIds, // the words this version of the episode contained (hidden SRS reviews)
+      tapped_lexeme_ids: [...w.tappedRef.current],
+      lexeme_ids: w.lexIds, // the words this version of the episode contained (hidden SRS reviews)
     });
     await db.progress.put({ episode_id: episode.id, completed_at: new Date().toISOString() });
     void syncer.sync();
     navigate("/");
   }
 
-  const activeLexeme = active ? episode.lexemes[String(active.lex)] : undefined;
-  const activeFlagged =
-    !!active && flagged.has(`${active.para}:${sentenceAt(episode.paragraphs[active.para].ko, active.start).start}`);
+  const { active } = w;
 
   return (
     <div className="mx-auto max-w-[36rem] px-4 pt-[max(1rem,env(safe-area-inset-top))] pb-40">
@@ -190,15 +96,7 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
         {placement ? (
           <span className="text-xs text-ink-soft">배치 · placement</span>
         ) : (
-          <button
-            type="button"
-            onClick={toggleHighlight}
-            aria-pressed={highlight}
-            className="flex min-h-11 items-center gap-2 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep"
-          >
-            <span className={`inline-block size-3 rounded-sm border border-rule ${highlight ? "bg-known" : ""}`} />
-            Highlight known
-          </button>
+          <HighlightToggle on={highlight} onToggle={toggleHighlight} />
         )}
       </nav>
 
@@ -218,8 +116,8 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
             key={p.idx}
             p={p}
             active={active?.para === p.idx ? active.start : null}
-            tapped={tapped}
-            known={!placement && highlight ? known : undefined}
+            tapped={w.tapped}
+            known={!placement && highlight ? w.known : undefined}
             showEn={shown.has(p.idx)}
             canShowEn={!placement}
             onToggleEn={() =>
@@ -229,7 +127,7 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
                 return n;
               })
             }
-            onTap={tap}
+            onTap={w.tap}
           />
         ))}
       </article>
@@ -253,21 +151,35 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
         </button>
       </div>
 
-      {active && activeLexeme && (
+      {active && w.activeLexeme && (
         <WordPopover
-          lexeme={activeLexeme}
+          lexeme={w.activeLexeme}
           surface={active.surface}
           anchor={active.anchor}
-          flagged={activeFlagged}
-          onFlag={flag}
-          onClose={close}
-          tapped={tapped.has(active.lex)}
-          onMistap={() => void mistap()}
-          status={placement ? undefined : statusOf(active.lex)}
-          onChangeState={(to) => void changeState(to)}
+          flagged={w.activeFlagged}
+          onFlag={w.flag}
+          onClose={w.close}
+          tapped={w.tapped.has(active.lex)}
+          onMistap={() => void w.mistap()}
+          status={placement ? undefined : w.statusOf(active.lex)}
+          onChangeState={(to) => void w.changeState(to)}
         />
       )}
     </div>
+  );
+}
+
+export function HighlightToggle({ on, onToggle }: { on: boolean; onToggle: () => void }) {
+  return (
+    <button
+      type="button"
+      onClick={onToggle}
+      aria-pressed={on}
+      className="flex min-h-11 items-center gap-2 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep"
+    >
+      <span className={`inline-block size-3 rounded-sm border border-rule ${on ? "bg-known" : ""}`} />
+      Highlight known
+    </button>
   );
 }
 
@@ -280,14 +192,8 @@ type ParaProps = {
   showEn: boolean;
   canShowEn: boolean;
   onToggleEn: () => void;
-  onTap: (para: number, start: number, end: number, lex: number, surface: string, el: HTMLElement) => void;
+  onTap: OnTap;
 };
-
-function wordClass(start: number, lex: number, active: number | null, tapped: Set<number>, known?: Set<number>) {
-  if (active === start) return "word active";
-  if (tapped.has(lex)) return "word tapped";
-  return known?.has(lex) ? "word known" : "word";
-}
 
 /** "화자: 대사" dialogue lines (DECISIONS 71): length of the speaker label incl. ": ", else 0. */
 export function speakerLabelEnd(ko: string): number {
@@ -295,10 +201,28 @@ export function speakerLabelEnd(ko: string): number {
   return m ? m[0].length : 0;
 }
 
+export function EnToggle({ shown, onToggle }: { shown: boolean; onToggle: () => void }) {
+  return (
+    <button
+      type="button"
+      onClick={onToggle}
+      aria-pressed={shown}
+      aria-label={shown ? "Hide English" : "Show English"}
+      className={`ml-2 inline-flex min-h-8 items-center rounded-full border px-2 align-middle font-ui text-[11px] leading-none active:bg-paper-deep ${
+        shown ? "border-accent text-accent" : "border-rule text-ink-soft"
+      }`}
+    >
+      EN
+    </button>
+  );
+}
+
 function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn, onTap }: ParaProps) {
   const segs = useMemo(() => segment(p.ko, p.tokens), [p.ko, p.tokens]);
   const labelEnd = speakerLabelEnd(p.ko);
   const labelColor = labelEnd ? speakerColor(p.ko.slice(0, labelEnd)) : undefined;
+  const label = segs.filter((s) => s.start < labelEnd);
+  const body = segs.filter((s) => s.start >= labelEnd);
   return (
     // Dialogue: hanging indent, so a wrapped line never looks like a new paragraph.
     // Narration: flush left with extra space around it, so it reads as its own beat.
@@ -307,39 +231,13 @@ function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn
         className="font-body text-[19px] leading-[2.05] break-keep sm:text-[20px]"
         style={labelEnd ? { paddingLeft: "1.75em", textIndent: "-1.75em" } : undefined}
       >
-        {segs.map((s) =>
-          s.start < labelEnd ? (
-            <span key={s.start} className="font-bold" style={{ color: labelColor }}>
-              {s.text}
-            </span>
-          ) : s.lex === undefined ? (
-            <span key={s.start}>{s.text}</span>
-          ) : (
-            <span
-              key={s.start}
-              role="button"
-              tabIndex={0}
-              className={wordClass(s.start, s.lex, active, tapped, known)}
-              onClick={(e) => onTap(p.idx, s.start, s.end, s.lex!, s.text, e.currentTarget)}
-              onKeyDown={(e) => e.key === "Enter" && onTap(p.idx, s.start, s.end, s.lex!, s.text, e.currentTarget)}
-            >
-              {s.text}
-            </span>
-          ),
-        )}
-        {canShowEn && (
-          <button
-            type="button"
-            onClick={onToggleEn}
-            aria-pressed={showEn}
-            aria-label={showEn ? "Hide English" : "Show English"}
-            className={`ml-2 inline-flex min-h-8 items-center rounded-full border px-2 align-middle font-ui text-[11px] leading-none active:bg-paper-deep ${
-              showEn ? "border-accent text-accent" : "border-rule text-ink-soft"
-            }`}
-          >
-            EN
-          </button>
-        )}
+        {label.map((s) => (
+          <span key={s.start} className="font-bold" style={{ color: labelColor }}>
+            {s.text}
+          </span>
+        ))}
+        <WordSpans segs={body} para={p.idx} active={active} tapped={tapped} known={known} onTap={onTap} />
+        {canShowEn && <EnToggle shown={showEn} onToggle={onToggleEn} />}
       </p>
       {canShowEn && showEn && (
         <p className={`mt-0.5 mb-2 border-l-2 border-rule pl-3 text-[15px] leading-relaxed text-ink-soft ${labelEnd ? "ml-8" : ""}`}>

@@ -391,6 +391,38 @@ Do not reverse an entry without asking Austin.
     stable (re-ingest had been replacing them, which silently dropped old answers from the
     replay). Older events fall back to current episode/question rows.
 
+### Stage 7 (2026-10-05)
+
+84. **Podcast completions grade due words only (Austin):** finishing a `podcast` part:
+    tapped -> Again; untapped and due -> Good; untapped new / not due -> exposure only, no
+    new card (`srs.DUE_ONLY_SERIES`). Parts sit at ~56-73% coverage, so the story rule
+    (76: untapped new word -> Good) would push hundreds of skimmed words toward known.
+    Rejected: the story rule; no grading at all.
+85. **Mining = "Learn this" (Austin):** the Listen popover adds "Learn this" for unknown
+    words, sent as the existing `set_state learning` (card soft-lapsed and due now, 77).
+    No `mine_word` handler. Quick review prefers story context sentences; podcast lines
+    (split per subtitle line with the line's English) are only a fallback.
+86. **Podcasts live in a separate Listen tab (Austin):** prepared transcripts
+    (`corpus/podcasts/<show>/prepared/`, Phase A) are ingested as a hidden `podcast` series,
+    one episode per ~8-12 min part (`pod-dt-NN-pK`), one paragraph per speaker turn with
+    `meta` (speaker, uncertain, timed lines) and `media` (YouTube id + time range;
+    migration 0004). Not in the sync pull or `/api/episodes`: `/api/podcasts` lists them and
+    a part is fetched when opened (cached in IndexedDB). The part view embeds YouTube
+    (online only; it stops when the iPhone locks), highlights the line being spoken, seeks
+    on a timestamp tap, pauses on a word tap, shows English per turn (per-line English is
+    unreliable) and "?" on uncertain speakers. Only the 23 manual-subtitle episodes.
+    Host names (`content/seed/podcast_names.json`, incl. 태웅쌤 / 디디님) count as known and
+    are never graded, but are not offered to the story generator. Rejected: mixing parts
+    into the Library; syncing them (~2k Hangul each, 106 parts); text + TTS only (the
+    real voices are the point); ~5 min parts (too many).
+87. **Primers (Austin):** "프라이머 만들기" on a part logs `primer_request`; the generation
+    context lists open requests with the part's top 10 unknown words; `/generate-batch`
+    drafts an original `series: primer` episode with `source: primer:<part id>` (5-10 new
+    words, no target grammar required), which links back from the part once published.
+    Rejected: generating primers in the app (no paid APIs).
+88. **Stage 7 split:** Phase A (corpus prep) and Phase B (Listen tab + primer) done here;
+    Phase C = the generic paste / .srt / .vtt ingest page with a coverage report.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

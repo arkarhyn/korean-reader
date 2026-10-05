@@ -12,6 +12,9 @@ const SPEAKER_SLOT: Record<string, number> = {
   서현: 6,
   마이클: 7,
   할머니: 8,
+  // Podcast hosts (Listen tab, never on a page with the story cast).
+  디디: 2,
+  태웅: 1,
 };
 
 /** CSS color for a speaker label ("어머니: " -> var(--spk-3)); unlisted labels are neutral. */

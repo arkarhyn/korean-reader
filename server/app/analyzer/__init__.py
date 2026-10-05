@@ -8,22 +8,31 @@ from kiwipiepy import Kiwi
 from ..config import CONTENT_DIR
 from .rules import Morph, Token, base_tag, build_tokens
 
-__all__ = ["Token", "analyze", "content_tokens", "lemmatize", "morphemes", "proper_noun_glosses", "proper_nouns"]
+__all__ = ["Token", "analyze", "content_tokens", "lemmatize", "morphemes", "proper_noun_glosses", "proper_nouns",
+           "story_names"]
 
 PROPER_NOUNS = CONTENT_DIR / "seed" / "proper_nouns.json"
+PODCAST_NAMES = CONTENT_DIR / "seed" / "podcast_names.json"
+
+
+def _names(path) -> dict[str, str]:
+    return json.loads(path.read_text(encoding="utf-8"))["names"] if path.exists() else {}
 
 
 @lru_cache(maxsize=1)
 def proper_noun_glosses() -> dict[str, str]:
-    """Story-bible name -> English gloss."""
-    if not PROPER_NOUNS.exists():
-        return {}
-    return json.loads(PROPER_NOUNS.read_text(encoding="utf-8"))["names"]
+    """Story-bible and podcast-host name -> English gloss."""
+    return _names(PROPER_NOUNS) | _names(PODCAST_NAMES)
 
 
 def proper_nouns() -> frozenset[str]:
-    """Story-bible names (counted as known by coverage, SPEC 7)."""
+    """Names counted as known by coverage (SPEC 7) and never graded: story cast + podcast hosts."""
     return frozenset(proper_noun_glosses())
+
+
+def story_names() -> frozenset[str]:
+    """Story-bible names only (what the generator may use)."""
+    return frozenset(_names(PROPER_NOUNS))
 
 
 @lru_cache(maxsize=1)

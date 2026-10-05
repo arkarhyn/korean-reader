@@ -76,7 +76,7 @@ Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
 | column | type | notes |
 |---|---|---|
 | id | TEXT PK | e.g. `S01E004` or `side-folk-002` |
-| series | TEXT | `main` / `side-parent` / `side-folk` / `primer` / `legacy` / `placement` (calibration passages, hidden from the library) |
+| series | TEXT | `main` / `side-parent` / `side-folk` / `primer` / `legacy` / `placement` (calibration passages, hidden from the library) / `podcast` (Stage 7 parts, Listen tab only; not synced) |
 | title_ko, title_en | TEXT | |
 | register_tags | JSON | e.g. `["banmal","haeyo","hasipsio"]` |
 | target_grammar | TEXT FK NULL | |
@@ -85,7 +85,8 @@ Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
 | coverage | REAL | measured at generation |
 | status | TEXT | `draft` / `published` / `retired` |
 | source | TEXT NULL | e.g. `legacy:passage/20` |
-| summary | TEXT NULL | one-line continuity note for the generator (migration 0002) |
+| summary | TEXT NULL | one-line continuity note for the generator (migration 0002); podcast parts: the episode title |
+| media | JSON NULL | podcast parts: `{kind: youtube, video_id, start_ms, end_ms, show, order, show_episode, episode_title, part, parts}` (migration 0004) |
 | created_at | DATETIME | |
 | updated_at | DATETIME | sync pull cursor |
 
@@ -94,6 +95,7 @@ Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
 | ko | TEXT | |
 | en | TEXT | |
 | tokens | JSON | `[{s, e, lex}]` content / `[{s, e, g}]` coded grammar (DECISIONS 36) |
+| meta | JSON NULL | podcast turns: `{speaker, uncertain?, start_ms, end_ms, lines: [{s, start_ms, end_ms, en}]}`, `s` = line offset in `ko` (migration 0004) |
 
 ### question
 | id | PK | |
@@ -126,7 +128,8 @@ Same shape as lexeme_state (incl. `updated_at`), keyed by grammar code. States:
 
 Types: `episode_open`, `word_tap`, `episode_complete`, `question_answer`,
 `mine_word`, `flag_sentence`, `placement_answer`, `grammar_drill_answer`,
-`set_state` (manual override, e.g. ignore), `word_untap` (Stage 5), `review_answer` (Stage 6).
+`set_state` (manual override, e.g. ignore), `word_untap` (Stage 5), `review_answer` (Stage 6),
+`primer_request {episode_id}` (Stage 7: pre-teach a podcast part; fulfilled by a `primer` episode with `source = primer:<part id>`).
 
 Payloads written by the Stage 3 reader:
 `episode_open {episode_id}`, `word_tap {episode_id, paragraph_idx, start, end,

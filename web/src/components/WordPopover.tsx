@@ -30,6 +30,8 @@ type Props = {
   /** Omitted in placement mode, where taps mean "don't know". */
   status?: WordStatus;
   onChangeState: (to: "known" | "learning" | "undo") => void;
+  /** Listen tab: also offer "Learn this" (mine the word: learning, due now; DECISIONS 85). */
+  canLearn?: boolean;
 };
 
 const isPhone = () => window.matchMedia("(max-width: 639px)").matches;
@@ -37,13 +39,20 @@ const isPhone = () => window.matchMedia("(max-width: 639px)").matches;
 const pill = "min-h-11 rounded-full border border-rule px-4 text-sm active:opacity-80";
 
 /** Known-status line: offer the change that makes sense for the word's current state. */
-function StatusControl({ status, onChange }: { status: WordStatus; onChange: Props["onChangeState"] }) {
+function StatusControl({ status, onChange, canLearn }: { status: WordStatus; onChange: Props["onChangeState"]; canLearn?: boolean }) {
   switch (status.kind) {
     case "unknown":
       return (
-        <button type="button" onClick={() => onChange("known")} className={`${pill} bg-seal-wash font-bold`}>
-          I know this word
-        </button>
+        <>
+          <button type="button" onClick={() => onChange("known")} className={`${pill} bg-seal-wash font-bold`}>
+            I know this word
+          </button>
+          {canLearn && (
+            <button type="button" onClick={() => onChange("learning")} className={`${pill} font-bold`}>
+              Learn this
+            </button>
+          )}
+        </>
       );
     case "known":
       return (
@@ -63,7 +72,7 @@ function StatusControl({ status, onChange }: { status: WordStatus; onChange: Pro
 }
 
 export default function WordPopover(props: Props) {
-  const { lexeme, surface, anchor, flagged, onFlag, onClose, tapped, onMistap, status, onChangeState } = props;
+  const { lexeme, surface, anchor, flagged, onFlag, onClose, tapped, onMistap, status, onChangeState, canLearn } = props;
   const ref = useRef<HTMLDivElement>(null);
   const [pos, setPos] = useState<{ top: number; left: number } | null>(null);
   const phone = isPhone();
@@ -142,7 +151,7 @@ export default function WordPopover(props: Props) {
       </dl>
 
       <div className="mt-4 flex flex-wrap items-center gap-2">
-        {status && <StatusControl status={status} onChange={onChangeState} />}
+        {status && <StatusControl status={status} onChange={onChangeState} canLearn={canLearn} />}
         {tapped && (
           <button
             type="button"
