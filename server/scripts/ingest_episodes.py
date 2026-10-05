@@ -21,6 +21,7 @@ from app.ingest import first_of, ingest_episode, seed  # noqa: E402
 from app.krdict.cache import KrdictCache  # noqa: E402
 from app.krdict.client import KrdictClient  # noqa: E402
 from app.krdict.local import LocalDict  # noqa: E402
+from app.srs import derive  # noqa: E402
 
 
 def main() -> None:
@@ -53,6 +54,8 @@ def main() -> None:
                   f"{len(r.new_lexemes)} new lexemes")
             for lemma, pos in r.missing_gloss:
                 print(f"  no gloss: {lemma} ({pos})")
+        d = derive(session)  # episode contents feed the replay of earlier completions
+        print(f"srs: {d.changed} state rows changed, {d.created} created")
         session.commit()
 
 

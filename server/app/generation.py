@@ -1,13 +1,14 @@
 """Generator support (SPEC 5): the generation context export and the draft checker.
 
-Both run on the server's DB. Until FSRS exists (Stage 6), "due" means every
-lexeme at state `learning` or `seen` (Austin, Stage 5), learning first, then the
-longest untouched.
+Both run on the server's DB. "Due" comes from the FSRS cards derived from the
+event log (app/srs.py): reviewed cards that are due, least retrievable first, then
+never-reviewed cards (placement `seen`, "I forgot this") by frequency rank.
 """
 
 import re
 from collections import Counter
 from dataclasses import dataclass, field
+from datetime import datetime
 from typing import Any
 
 from sqlalchemy import select
@@ -19,7 +20,8 @@ from .config import REPO_ROOT
 from .content.schema import Episode as EpisodeDoc
 from .coverage import coverage
 from .db.models import Episode, Event, GrammarPoint, GrammarState, Lexeme, LexemeState, utcnow
-from .ingest import DUE_STATES, known_keys
+from .ingest import due_lexeme_ids, known_keys
+from .srs import due_now, load_card, retrievability
 
 BAND = (0.95, 0.98)
 NEW_WORDS = (3, 6)
@@ -46,11 +48,30 @@ def _lexeme_row(lx: Lexeme, st: LexemeState | None = None) -> dict[str, Any]:
     return row
 
 
-def due_lexemes(session: Session) -> list[tuple[Lexeme, LexemeState]]:
+def _due_key(lx: Lexeme, st: LexemeState, now: datetime) -> tuple:
+    card = load_card(st.fsrs_card)
+    if card is not None and card.last_review is not None:
+        return (0, retrievability(card, now), lx.id)
+    return (1, lx.freq_rank if lx.freq_rank is not None else 10**9, lx.id)
+
+
+def due_lexemes(session: Session, now: datetime | None = None) -> list[tuple[Lexeme, LexemeState]]:
+    """Due now, in the order the generator should weave them in."""
+    now = now or utcnow()
     rows = session.execute(select(Lexeme, LexemeState).join(LexemeState)
-                           .where(LexemeState.state.in_(DUE_STATES))).all()
-    return sorted(((lx, st) for lx, st in rows),
-                  key=lambda r: (DUE_STATES.index(r[1].state), r[1].last_seen_at or r[1].updated_at, r[0].id))
+                           .where(LexemeState.fsrs_card.is_not(None))).all()
+    due = [(lx, st) for lx, st in rows if due_now(st.state, st.fsrs_card, now)]
+    return sorted(due, key=lambda r: _due_key(*r, now))
+
+
+def due_row(lx: Lexeme, st: LexemeState, now: datetime) -> dict[str, Any]:
+    card = load_card(st.fsrs_card)
+    row = _lexeme_row(lx, st)
+    row["reviewed"] = card is not None and card.last_review is not None
+    if row["reviewed"]:
+        row["retrievability"] = round(retrievability(card, now), 2)
+        row["last_review"] = card.last_review.date().isoformat()
+    return row
 
 
 def next_episode_id(session: Session, season: int = 1) -> str:
@@ -81,17 +102,21 @@ def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
                (LexemeState.state.is_(None)) | (LexemeState.state == "new"))
         .order_by(Lexeme.freq_rank).limit(NEW_WORD_CANDIDATES)).all()
 
-    gstates = {g.code: g.state for g in session.scalars(select(GrammarState))}
+    now = utcnow()
+    grows = {g.code: g for g in session.scalars(select(GrammarState))}
     grammar = []
     for gp in session.scalars(select(GrammarPoint).order_by(GrammarPoint.htsk_lesson, GrammarPoint.code)):
+        g = grows.get(gp.code)
         grammar.append({"code": gp.code, "label_ko": gp.label_ko, "lesson": gp.htsk_lesson,
-                        "state": gstates.get(gp.code, "new"), "ja": gp.ja_parallel, "pattern": bool(gp.kiwi_pattern)})
+                        "state": g.state if g else "new", "ja": gp.ja_parallel, "pattern": bool(gp.kiwi_pattern),
+                        "due": g is not None and due_now(g.state, g.fsrs_card, now)})
 
     episodes = session.scalars(select(Episode).where(Episode.series.in_(CONTENT_SERIES))
                                .order_by(Episode.created_at.desc()).limit(recent)).all()
     recent_targets = {e.target_grammar for e in episodes if e.target_grammar}
-    suggested = [g["code"] for g in grammar
-                 if g["state"] == "practicing" and g["pattern"] and g["code"] not in recent_targets]
+    # Due grammar first (SPEC 3.2: the generator prioritizes due items).
+    suggested = [g["code"] for g in sorted(grammar, key=lambda g: not g["due"])
+                 if g["state"] in ("introduced", "practicing") and g["pattern"] and g["code"] not in recent_targets]
 
     flags = [{"episode_id": ev.payload.get("episode_id"), "text": ev.payload.get("text"), "ts": ev.ts.isoformat()}
              for ev in session.scalars(select(Event).where(Event.type == "flag_sentence").order_by(Event.ts))
@@ -105,7 +130,7 @@ def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
         "proper_nouns": sorted(proper_nouns()),
         "known": [f"{lemma}/{pos}" for lemma, pos in known],
         "learning": learning,
-        "due": [_lexeme_row(lx, st) for lx, st in due_lexemes(session)],
+        "due": [due_row(lx, st, now) for lx, st in due_lexemes(session, now)],
         "new_word_candidates": [_lexeme_row(lx) for lx in candidates],
         "grammar": grammar,
         "grammar_usable": [g["code"] for g in grammar if g["state"] in GRAMMAR_USABLE],
@@ -129,10 +154,7 @@ class Unknown:
     state: str | None  # None = no lexeme_state row (or no lexeme yet)
     rank: int | None
     gloss: str
-
-    @property
-    def is_due(self) -> bool:
-        return self.state in DUE_STATES
+    is_due: bool = False  # has an FSRS card that is due now
 
 
 @dataclass
@@ -160,6 +182,17 @@ class DraftReport:
         return not self.problems
 
 
+def meaning_checks_wanted(due_words: int) -> int:
+    return max(1, round(due_words / 5)) if due_words else 0
+
+
+def batch_due_coverage(session: Session, docs: list[EpisodeDoc], top: int = 15) -> tuple[list[str], list[str]]:
+    """(covered, missing) lemmas among the top-N due words across a batch of drafts."""
+    due = [lx.lemma for lx, _ in due_lexemes(session)[:top]]
+    used = {t.lemma for doc in docs for para in doc.paragraphs for t in analyze(para.ko) if t.kind == "content"}
+    return [w for w in due if w in used], [w for w in due if w not in used]
+
+
 def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] | None = None) -> DraftReport:
     """Coverage, new/due words, target grammar density, length, and `new` grammar used."""
     known = known_keys(session) if known is None else known
@@ -174,12 +207,14 @@ def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] |
             counts[t.key] = counts.get(t.key, 0) + 1
 
     unknown = []
+    due_ids = due_lexeme_ids(session)
     for (lemma, pos), n in sorted(counts.items(), key=lambda kv: -kv[1]):
         row = session.execute(select(Lexeme, LexemeState).outerjoin(LexemeState)
                               .where(Lexeme.lemma == lemma, Lexeme.pos == pos)).first()
         lx, st = row if row else (None, None)
         unknown.append(Unknown(lemma, pos, n, st.state if st else None,
-                               lx.freq_rank if lx else None, lx.gloss_en if lx else ""))
+                               lx.freq_rank if lx else None, lx.gloss_en if lx else "",
+                               is_due=lx is not None and lx.id in due_ids))
 
     gstates = {g.code: g.state for g in session.scalars(select(GrammarState))}
     grammar_counts = sum((count_grammar(para.ko) for para in doc.paragraphs), Counter())
@@ -197,6 +232,17 @@ def check_draft(session: Session, doc: EpisodeDoc, known: set[tuple[str, str]] |
         r.problems.append(f"{len(r.new_words)} new words (want {NEW_WORDS[0]}-{NEW_WORDS[1]})")
     if not r.due_words:
         r.problems.append("no due words")
+    else:  # SPEC 3.2: about 1 in 5 due words also gets a meaning check
+        due_lemmas = {u.lemma for u in r.due_words}
+        checked = {q.target_ref for q in doc.questions if q.kind == "meaning_check"}
+        want = meaning_checks_wanted(len(r.due_words))
+        if len(checked & due_lemmas) < want:
+            r.problems.append(f"{len(checked & due_lemmas)} meaning checks on due words (want {want}; "
+                              f"target_ref = the lemma)")
+    lemmas = {t.lemma for t in toks if t.kind == "content"}
+    for q in doc.questions:
+        if q.kind == "meaning_check" and q.target_ref not in lemmas:
+            r.problems.append(f"meaning_check target_ref {q.target_ref!r} is not a word in the episode")
     if doc.target_grammar is None:
         r.problems.append("no target_grammar")
     elif doc.target_grammar not in seed_patterns():

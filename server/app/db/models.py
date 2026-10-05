@@ -63,6 +63,9 @@ class LexemeState(Base):
     first_seen_at: Mapped[datetime | None]
     last_seen_at: Mapped[datetime | None]
     source: Mapped[str] = mapped_column(String)  # placement / episode / ingest / manual
+    # Replay baseline written by placement / seed; app/srs.py derives the rest from events.
+    base_state: Mapped[str | None]
+    base_source: Mapped[str | None]
     updated_at: Mapped[datetime] = mapped_column(default=utcnow, onupdate=utcnow)
 
     lexeme: Mapped[Lexeme] = relationship(back_populates="state")
@@ -75,8 +78,10 @@ class ContextSentence(Base):
     lexeme_id: Mapped[int] = mapped_column(ForeignKey("lexeme.id"), index=True)
     sentence_ko: Mapped[str] = mapped_column(Text)
     sentence_en: Mapped[str | None] = mapped_column(Text)
-    origin: Mapped[str] = mapped_column(String)  # episode:<id> / ingest:<id>
+    origin: Mapped[str] = mapped_column(String, index=True)  # episode:<id> / ingest:<id>
     audio_ref: Mapped[str | None]
+    start: Mapped[int | None]  # the word's span inside sentence_ko
+    end: Mapped[int | None]
 
 
 # ---- Grammar ----
@@ -104,6 +109,8 @@ class GrammarState(Base):
     first_seen_at: Mapped[datetime | None]
     last_seen_at: Mapped[datetime | None]
     source: Mapped[str] = mapped_column(String)
+    base_state: Mapped[str | None]
+    base_source: Mapped[str | None]
     updated_at: Mapped[datetime] = mapped_column(default=utcnow, onupdate=utcnow)
 
 

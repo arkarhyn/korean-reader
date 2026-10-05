@@ -12,7 +12,7 @@ from app.analyzer.patterns import count_grammar
 from app.content.schema import Episode as EpisodeDoc
 from app.db import get_session, make_sessionmaker
 from app.db.models import Episode, GrammarState, Lexeme, LexemeState
-from app.events import replay_manual_states
+from app.srs import derive
 from app.generation import build_context, check_draft, next_episode_id
 from app.ingest import get_or_create_lexeme, ingest_episode, seed
 from app.main import app
@@ -50,11 +50,13 @@ def seeded(session):
     for lemma, pos in [("밥", "NNG"), ("먹다", "VV"), ("많이", "MAG"), ("좋다", "VA"), ("저", "NP"),
                        ("오늘", "NNG"), ("정말", "MAG"), ("맛있다", "VA")]:
         lx, _ = get_or_create_lexeme(session, lemma, pos, fake_lookup)
-        session.add(LexemeState(lexeme_id=lx.id, state="known", source="placement"))
+        session.add(LexemeState(lexeme_id=lx.id, state="known", source="placement",
+                                base_state="known", base_source="placement"))
     lx, _ = get_or_create_lexeme(session, "반찬", "NNG", fake_lookup)
     session.add(LexemeState(lexeme_id=lx.id, state="seen", source="placement",
-                            last_seen_at=datetime.now(UTC) - timedelta(days=1)))
+                            base_state="seen", base_source="placement"))
     session.flush()
+    derive(session)  # baseline `seen` -> an unreviewed card, due now
     return session
 
 
@@ -148,7 +150,7 @@ def test_set_state_applies_on_receipt_once_and_replays(client, engine):
 
     with make_sessionmaker(engine)() as s:
         s.get(LexemeState, lex_id).state = "seen"
-        replay_manual_states(s)
+        derive(s)
         assert s.get(LexemeState, lex_id).state == "new"
 
 

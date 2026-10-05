@@ -1,4 +1,4 @@
-"""Reader API under /api. Events are stored as-is; state is derived from the log by explicit jobs (placement fit; DECISIONS 8), except manual `set_state` overrides, applied on receipt (DECISIONS 54)."""
+"""Reader API under /api. Events are stored as-is; every accepted batch re-derives all states from the log (app/srs.py; DECISIONS 8)."""
 
 from typing import Any
 
@@ -13,13 +13,14 @@ from ..analyzer import proper_nouns
 from ..coverage import known_by_alias
 from ..db import get_session
 from ..db.models import Episode, Event, Lexeme, LexemeState, utcnow
-from ..events import apply_events
 from ..generation import build_context
 from ..ingest import raw_known_keys
 from ..placement import items as placement_items
 from ..placement import service as placement
+from ..review import review_items
+from ..srs import derive, known_until, load_card
 from .schemas import (CompletedOut, EpisodeFull, EpisodeSummary, EventBatch, EventBatchResult, GrammarItemOut, LexemeOut,
-                      LexemeStateOut, PlacementOut, QuestionOut, SyncPull, VocabItemOut)
+                      LexemeStateOut, PlacementOut, QuestionOut, ReviewItemOut, SyncPull, VocabItemOut)
 
 router = APIRouter(prefix="/api")
 
@@ -76,7 +77,8 @@ def post_events(batch: EventBatch, session: Session = Depends(get_session)):
         stmt = insert(Event).values(id=ev_id, ts=ev.ts, device=ev.device, type=ev.type,
                                     payload=ev.payload, received_at=now).on_conflict_do_nothing()
         (accepted if session.execute(stmt).rowcount else duplicate).append(ev_id)
-    apply_events(session, session.scalars(select(Event).where(Event.id.in_(accepted))))
+    if accepted:
+        derive(session)
     session.commit()
     return EventBatchResult(accepted=accepted, duplicate=duplicate)
 
@@ -101,9 +103,15 @@ def sync_pull(since: AwareDatetime | None = None, session: Session = Depends(get
     return SyncPull(
         server_time=server_time,
         episodes=[_full(session, ep, raw_known) for ep in session.scalars(eps)],
-        lexeme_states=[LexemeStateOut.model_validate(s, from_attributes=True) for s in session.scalars(states)],
+        lexeme_states=[_state_out(s) for s in session.scalars(states)],
         completed=list(completed.values()),
+        review_items=[ReviewItemOut(**it) for it in review_items(session)],
     )
+
+
+def _state_out(s: LexemeState) -> LexemeStateOut:
+    return LexemeStateOut(lexeme_id=s.lexeme_id, state=s.state, updated_at=s.updated_at,
+                          due=known_until(load_card(s.fsrs_card)))
 
 
 

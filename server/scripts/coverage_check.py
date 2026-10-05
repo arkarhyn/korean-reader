@@ -16,7 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from app.content.schema import load_episode  # noqa: E402
 from app.db import make_engine, make_sessionmaker  # noqa: E402
-from app.generation import check_draft  # noqa: E402
+from app.generation import batch_due_coverage, check_draft  # noqa: E402
 from app.ingest import known_keys  # noqa: E402
 
 
@@ -28,7 +28,9 @@ def main() -> None:
     args = ap.parse_args()
     with make_sessionmaker(make_engine())() as session:
         known = known_keys(session)
-        reports = [check_draft(session, load_episode(p), known) for p in args.paths]
+        docs = [load_episode(p) for p in args.paths]
+        reports = [check_draft(session, d, known) for d in docs]
+        covered, missing = batch_due_coverage(session, docs)
     if args.json:
         print(json.dumps([asdict(r) | {"ok": r.ok} for r in reports], ensure_ascii=False, indent=1))
     else:
@@ -42,6 +44,10 @@ def main() -> None:
                 tag = f"due:{u.state}" if u.is_due else (u.state or "no row")
                 rank = f"#{u.rank}" if u.rank else "unranked"
                 print(f"    {u.lemma}/{u.pos} x{u.count}  [{tag}, {rank}]  {u.gloss}")
+        if len(docs) > 1 or missing:
+            n = len(covered) + len(missing)
+            print(f"batch: due top-{n} covered {len(covered)}/{n}"
+                  + (f"; not yet used: {', '.join(missing)}" if missing else ""))
     sys.exit(0 if all(r.ok for r in reports) else 1)
 
 

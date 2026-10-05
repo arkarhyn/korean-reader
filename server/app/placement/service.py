@@ -15,6 +15,8 @@ from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 from ..db.models import Episode, Event, GrammarState, Lexeme, LexemeState, utcnow
+from ..ingest import known_lexeme_ids
+from ..srs import derive
 from . import items
 from .fit import (KNOWN_THRESHOLD, VocabParams, false_alarm_rate, fit_vocab, grammar_state, lexeme_states,
                   posterior_draws, posterior_known_given_yes,
@@ -153,23 +155,27 @@ def fit(att: Attempt, inp: Inputs, exclude: str | None = None) -> tuple[VocabPar
 # ---- apply ----
 
 def apply_states(session: Session, states: dict[int, str]) -> dict[str, int]:
-    """Write placement lexeme states; earlier placement rows not in `states` go back to `new`."""
+    """Write placement lexeme states as the replay baseline (`base_state`); the seed's (manual) baseline wins.
+
+    Earlier placement baselines not in `states` are dropped. `srs.derive` turns baselines into states.
+    """
     now = utcnow()
     rows = {s.lexeme_id: s for s in session.scalars(select(LexemeState))}
     counts: dict[str, int] = defaultdict(int)
     for lex_id, st in states.items():
         row = rows.get(lex_id)
         if row is None:
-            session.add(LexemeState(lexeme_id=lex_id, state=st, source="placement", first_seen_at=now))
-        elif row.source == "placement":
-            if row.state != st:
-                row.state = st
+            session.add(LexemeState(lexeme_id=lex_id, state=st, source="placement", first_seen_at=now,
+                                    base_state=st, base_source="placement"))
+        elif row.base_source not in (None, "placement"):
+            continue
         else:
-            continue  # manual / episode / ingest history wins
+            row.base_state, row.base_source = st, "placement"
+            row.first_seen_at = row.first_seen_at or now
         counts[st] += 1
     for lex_id, row in rows.items():
-        if row.source == "placement" and lex_id not in states and row.state != "new":
-            row.state = "new"
+        if row.base_source == "placement" and lex_id not in states:
+            row.base_state = row.base_source = None
     session.flush()
     return dict(counts)
 
@@ -189,11 +195,12 @@ def apply_grammar(session: Session, att: Attempt) -> dict[str, list[str]]:
         st = grammar_state(got[code], total[code])
         row = session.get(GrammarState, code)
         if row is None:
-            session.add(GrammarState(code=code, state=st, source="placement", first_seen_at=now))
-        elif row.source == "placement":
-            row.state = st
-        else:
+            session.add(GrammarState(code=code, state=st, source="placement", first_seen_at=now,
+                                     base_state=st, base_source="placement"))
+        elif row.base_source not in (None, "placement"):
             continue
+        else:
+            row.base_state, row.base_source = st, "placement"
         result[st].append(code)
     session.flush()
     return {k: sorted(v) for k, v in result.items()}
@@ -201,7 +208,7 @@ def apply_grammar(session: Session, att: Attempt) -> dict[str, list[str]]:
 
 def refresh_coverage(session: Session) -> None:
     """Episode.coverage was set at ingest; recompute from current states and bump updated_at for sync."""
-    known = set(session.scalars(select(LexemeState.lexeme_id).where(LexemeState.state.in_(("known", "ignored")))))
+    known = known_lexeme_ids(session)
     now = utcnow()
     for ep in session.scalars(select(Episode)):
         ids = [t["lex"] for p in ep.paragraphs for t in p.tokens if "lex" in t]
@@ -275,6 +282,7 @@ def run(session: Session) -> dict[str, Any] | None:
     params, states = fit(att, inp)
     lexeme_counts = apply_states(session, states)
     grammar = apply_grammar(session, att)
+    derive(session)  # baselines -> states, replaying reading evidence on top
     refresh_coverage(session)
     calibration = evaluate(session, att, inp)
     return {

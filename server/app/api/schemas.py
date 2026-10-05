@@ -6,7 +6,7 @@ from pydantic import AwareDatetime, BaseModel, ConfigDict, Field
 
 EventType = Literal[
     "episode_open", "word_tap", "episode_complete", "question_answer", "mine_word",
-    "flag_sentence", "placement_answer", "grammar_drill_answer", "set_state", "word_untap",
+    "flag_sentence", "placement_answer", "grammar_drill_answer", "set_state", "word_untap", "review_answer",
 ]
 
 
@@ -77,6 +77,9 @@ class LexemeStateOut(BaseModel):
     lexeme_id: int
     state: str
     updated_at: datetime
+    # When a reviewed card's retrievability falls to 0.9 (last review + stability): a `learning`
+    # word counts as known until then (SPEC 7) and is due after it.
+    due: datetime | None = None
 
 
 class CompletedOut(BaseModel):
@@ -84,11 +87,27 @@ class CompletedOut(BaseModel):
     completed_at: datetime  # client time of the first episode_complete
 
 
+class ReviewItemOut(BaseModel):
+    lexeme_id: int
+    lemma: str
+    pos: str
+    gloss_en: str
+    hanja: str | None
+    context_id: int
+    sentence_ko: str
+    sentence_en: str | None
+    start: int  # the word's span in sentence_ko
+    end: int
+    options: list[str]  # 3 English glosses
+    answer_idx: int
+
+
 class SyncPull(BaseModel):
     server_time: datetime
     episodes: list[EpisodeFull]
     lexeme_states: list[LexemeStateOut]
     completed: list[CompletedOut] = []  # read marks from every device; always the full list
+    review_items: list[ReviewItemOut] = []  # Quick review: due words, always the full (short) list
 
 
 class GrammarItemOut(BaseModel):
