@@ -60,6 +60,15 @@ def next_episode_id(session: Session, season: int = 1) -> str:
     return f"{prefix}{max(nums, default=0) + 1:03d}"
 
 
+def _still_present(session: Session, episode_id: str | None, text: str | None) -> bool:
+    """A flagged sentence counts as open until its episode no longer contains it (rewritten)."""
+    ep = session.get(Episode, episode_id) if episode_id else None
+    if ep is None or not text:
+        return ep is not None
+    needle = text.strip().strip("\"'").strip()
+    return any(needle in p.ko for p in ep.paragraphs)
+
+
 def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
     """Everything a /generate-batch session needs, as one JSON document."""
     states = {lx.id: (lx, st) for lx, st in session.execute(select(Lexeme, LexemeState).join(LexemeState)).all()}
@@ -85,7 +94,8 @@ def build_context(session: Session, recent: int = 10) -> dict[str, Any]:
                  if g["state"] == "practicing" and g["pattern"] and g["code"] not in recent_targets]
 
     flags = [{"episode_id": ev.payload.get("episode_id"), "text": ev.payload.get("text"), "ts": ev.ts.isoformat()}
-             for ev in session.scalars(select(Event).where(Event.type == "flag_sentence").order_by(Event.ts))]
+             for ev in session.scalars(select(Event).where(Event.type == "flag_sentence").order_by(Event.ts))
+             if _still_present(session, ev.payload.get("episode_id"), ev.payload.get("text"))]
 
     return {
         "generated_at": utcnow().isoformat(),

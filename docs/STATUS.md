@@ -47,6 +47,11 @@ you read -- each tap widens what the next batch can use (DECISIONS 60).
 - 2026-10-05: read marks (✓ read / Up next) now sync between devices via
   `completed` in sync pull (DECISIONS 70). Server 126 tests, web 26.
 
+- 2026-10-05: S01E003-005 regenerated against 597 known words (95.1-95.6%),
+  reviewed (4/5 each), published; all S01 episodes now one speaker per line;
+  reader shows speaker labels and an inline EN toggle (DECISIONS 71-72).
+  Server 127 tests, web 28. Live DB backup `%TEMP%\kr5\live_backup_pre_regen.db`.
+
 **Next:** Austin works through some word sets, then the next `/generate-batch`
 (must resolve E5's leave cliffhanger; vary days/times now that weekday words
 can be confirmed). Then Stage 6 (hidden SRS).

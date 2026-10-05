@@ -2,83 +2,155 @@
   "id": "S01E003",
   "series": "main",
   "title_ko": "축의금",
-  "title_en": "The Wedding Gift Envelope",
+  "title_en": "The Gift Envelope",
   "register_tags": [
     "banmal",
     "haeyo"
   ],
   "target_grammar": "G.BODA",
   "status": "draft",
-  "summary": "Ethan comes back for Mom's 김밥 (Dad claims he made it; Mom: 'just the rice'). Mom slips into 반말 and he asks her to talk casually. She explains 축의금: cash in an envelope instead of a present, even for Michael's wedding; family gives more than friends; the name matters most. 준수 says he'll give the least. Ethan writes his name in Korean and Mom shows it off.",
+  "summary": "Sunday kimbap at the parents' (Dad claims he made it; Mom: 'just the rice'). Mom slips into 반말 and Ethan asks her to talk casually. They explain 축의금: Japan does it too, and Korean families give money even at American weddings; about $100 from a friend, more from family; the name matters more than the money (Junsu once forgot his, so Mom couldn't tell who gave it). Ethan and Seoyun will give one envelope together; 준수 will give the least. Dad quietly asks Ethan to come by: there's something to do together.",
   "paragraphs": [
     {
-      "ko": "다음 토요일, 이선은 김밥을 먹으러 다시 서윤이 부모님 집에 갔다.",
-      "en": "The next Saturday, Ethan went back to Seoyun's parents' house to eat kimbap."
+      "ko": "일요일 오후, 이선은 서윤이와 같이 다시 서윤이 부모님 집에 갔다. 어머니가 김밥을 만든다고 했다.",
+      "en": "On Sunday afternoon, Ethan went back to Seoyun's parents' house with her. Her mother had said she was making kimbap."
     },
     {
-      "ko": "어머니: \"이선 씨, 왔어? 아, 왔어요?\" 이선이 웃었다. \"저한테는 그냥 말 편하게 하세요.\" 어머니: \"그래? 나도 그게 편해. 여기 앉아.\"",
-      "en": "Mother: \"Ethan, you came? Oh, I mean, you came?\" Ethan laughed. \"Please just talk to me casually.\" Mother: \"Yeah? That's easier for me too. Sit here.\""
+      "ko": "어머니: 이선 씨, 왔어? 아, 왔어요?",
+      "en": "Mother: Ethan, you're here? Oh, I mean, you're here?"
     },
     {
-      "ko": "식탁 위에 김밥이 정말 많았다. 아버지가 웃으면서 말했다. \"이선 씨, 이 김밥은 내가 만들었어요.\" 어머니: \"당신은 밥만 했잖아.\"",
-      "en": "There was a huge pile of kimbap on the table. Father smiled and said, \"Ethan, I made this kimbap.\" Mother: \"All you did was make the rice.\""
+      "ko": "이선이 웃었다.",
+      "en": "Ethan laughed."
     },
     {
-      "ko": "김밥 옆에는 봉투가 몇 개 있었다. 이선: \"이건 뭐예요?\" 어머니: \"축의금이야. 결혼식에 갈 때 여기에 돈을 넣어서 줘.\"",
-      "en": "Next to the kimbap were a few envelopes. Ethan: \"What are these?\" Mother: \"Wedding gift money. When you go to a wedding, you put money in here and give it.\""
+      "ko": "이선: 저한테는 말 편하게 하세요.",
+      "en": "Ethan: Please just talk to me casually."
     },
     {
-      "ko": "이선: \"이번에도 줘야 돼요? 마이클 씨는 한국 사람 아니잖아요.\" 어머니: \"줘, 줘. 우리는 선물보다 돈을 더 많이 줘. 받는 사람도 그게 좋고.\"",
-      "en": "Ethan: \"Do you have to, even this time? Michael isn't Korean.\" Mother: \"We do, we do. We give money a lot more than presents. The people getting it like that, too.\""
+      "ko": "어머니: 그래? 그럼 편하게 할게. 빨리 앉아. 배고프지?",
+      "en": "Mother: Yeah? Then I'll talk casually. Sit down, quick. You must be hungry."
     },
     {
-      "ko": "이선: \"얼마나 넣어요?\" 어머니: \"친구는 보통 조금 넣고, 가족은 그것보다 많이 넣어.\"",
-      "en": "Ethan: \"How much do you put in?\" Mother: \"Friends usually put in a little, and family puts in more than that.\""
+      "ko": "김밥이 산처럼 많았다.",
+      "en": "There was a mountain of kimbap."
     },
     {
-      "ko": "아버지: \"이선 씨, 돈은 중요하지 않아요. 이름을 꼭 써야 돼요.\" 서윤: \"이름이 가장 중요해. 이름이 없으면 누가 줬는지 몰라.\"",
-      "en": "Father: \"Ethan, the money isn't important. You have to write your name.\" Seoyun: \"The name is the most important part. Without a name, nobody knows who gave it.\""
+      "ko": "아버지: 이선 씨, 이 김밥은 내가 만들었어요.",
+      "en": "Father: Ethan, I made this kimbap."
     },
     {
-      "ko": "그때 준수가 방에서 나왔다. 어머니: \"준수야, 너 지금 일어났어? 지금 오후야.\" 준수: \"형, 내가 가장 조금 넣을 거야. 나는 학생이잖아.\" 이선: \"준수야, 나도 돈 많이 없어.\"",
-      "en": "Just then Junsu came out of his room. Mother: \"Junsu, did you just get up? It's the afternoon.\" Junsu: \"Hyung, I'll be putting in the least. I'm a student, you know.\" Ethan: \"Junsu, I don't have much money either.\""
+      "ko": "어머니: 당신은 밥만 했잖아.",
+      "en": "Mother: All you did was the rice."
     },
     {
-      "ko": "어머니: \"이선 씨는 서윤이랑 같이 하나만 해. 준수 너는 김밥이나 먹어. 이선 씨도 더 먹어. 오늘 많이 만들었어.\" 아버지: \"내가 만들었어요.\" 어머니: \"밥만!\"",
-      "en": "Mother: \"Ethan, you and Seoyun just do one together. Junsu, you eat your kimbap. Ethan, you eat more too. I made a lot today.\" Father: \"I made it.\" Mother: \"Just the rice!\""
+      "ko": "김밥 옆에 봉투가 몇 개 있었다.",
+      "en": "Next to the kimbap were a few envelopes."
     },
     {
-      "ko": "준수가 크게 웃었다. 이선은 봉투를 하나 받아서 한국어로 이름을 썼다. 어머니가 그걸 보고 웃었다. \"서윤아, 이선 씨 이름 좀 봐!\"",
-      "en": "Junsu burst out laughing. Ethan took an envelope and wrote his name in Korean. Mother saw it and smiled. \"Seoyun, look at Ethan's name!\""
+      "ko": "이선: 이건 뭐예요?",
+      "en": "Ethan: What are these?"
+    },
+    {
+      "ko": "서윤: 축의금이야. 여기에 돈을 넣어서 줘.",
+      "en": "Seoyun: Wedding gift money. You put money in here and give it."
+    },
+    {
+      "ko": "이선: 아, 일본도 그래요! 근데 미국 결혼식에서도 줘요?",
+      "en": "Ethan: Oh, Japan does that too! But do you give money at American weddings too?"
+    },
+    {
+      "ko": "어머니: 그럼. 우리는 선물보다 돈을 많이 줘. 받는 사람도 그게 편하고.",
+      "en": "Mother: Of course. We give money more than presents. It's easier for the people getting it, too."
+    },
+    {
+      "ko": "이선: 얼마나 넣어요?",
+      "en": "Ethan: How much do you put in?"
+    },
+    {
+      "ko": "어머니: 친구는 보통 백 달러 정도. 가족은 그거보다 더 많이 하고.",
+      "en": "Mother: Friends usually give about a hundred dollars. Family gives more than that."
+    },
+    {
+      "ko": "이선: 그럼 저는?",
+      "en": "Ethan: Then what about me?"
+    },
+    {
+      "ko": "서윤: 너는 나랑 같이 하나만 하면 돼.",
+      "en": "Seoyun: You and I just do one together."
+    },
+    {
+      "ko": "아버지: 돈보다 이름이 더 중요해요.",
+      "en": "Father: The name matters more than the money."
+    },
+    {
+      "ko": "서윤: 아빠 말이 맞아. 전에 준수가 봉투에 이름을 안 써서, 엄마가 누가 줬는지 몰랐어.",
+      "en": "Seoyun: Dad's right. Once Junsu didn't write his name on the envelope, so Mom couldn't tell who it was from."
+    },
+    {
+      "ko": "그때 준수가 방에서 나왔다.",
+      "en": "Just then Junsu came out of his room."
+    },
+    {
+      "ko": "어머니: 준수야, 지금 일어났어? 벌써 오후 두 시야.",
+      "en": "Mother: Junsu, did you just get up? It's already two in the afternoon."
+    },
+    {
+      "ko": "준수: 형, 축의금은 내가 제일 조금 할 거야. 난 학생이잖아.",
+      "en": "Junsu: Hyung, I'll be giving the least. I'm a student, you know."
+    },
+    {
+      "ko": "이선: 나도 돈 많이 없어.",
+      "en": "Ethan: I don't have much money either."
+    },
+    {
+      "ko": "준수: 형은 일하잖아. 나는 진짜 없어.",
+      "en": "Junsu: You work, though. I really don't have any."
+    },
+    {
+      "ko": "이선은 하나를 받아서 한국어로 이름을 썼다.",
+      "en": "Ethan took one and wrote his name in Korean."
+    },
+    {
+      "ko": "어머니: 서윤아, 이선 씨 이름 좀 봐!",
+      "en": "Mother: Seoyun, look at Ethan's name!"
+    },
+    {
+      "ko": "집에 가기 전에 아버지가 이선에게 말했다.",
+      "en": "Before Ethan went home, Father said to him,"
+    },
+    {
+      "ko": "아버지: 다음에 시간 있으면 와요. 같이 할 일이 있어요.",
+      "en": "Father: Come by when you have time. There's something I want us to do together."
     }
   ],
   "questions": [
     {
       "kind": "comprehension",
-      "prompt_ko": "아버지는 김밥을 만들 때 뭘 했어요?",
-      "prompt_en": "What did Father do when the kimbap was made?",
+      "prompt_ko": "친구는 보통 얼마 정도 줘요?",
+      "prompt_en": "About how much does a friend usually give?",
       "options": [
-        "김밥을 다 만들었어요",
-        "밥만 했어요",
-        "아무것도 안 했어요"
+        "십 달러",
+        "백 달러",
+        "천 달러"
       ],
       "answer_idx": 1
     },
     {
       "kind": "comprehension",
-      "prompt_ko": "아버지는 뭐가 중요하다고 했어요?",
-      "prompt_en": "What did Father say was important?",
+      "prompt_ko": "준수가 봉투에 이름을 안 써서 어떻게 됐어요?",
+      "prompt_en": "What happened because Junsu didn't write his name on the envelope?",
       "options": [
-        "돈을 많이 넣는 것",
-        "이름을 쓰는 것",
-        "빨리 주는 것"
+        "엄마가 누가 줬는지 몰랐어요",
+        "돈을 다시 받았어요",
+        "봉투가 없어졌어요"
       ],
-      "answer_idx": 1
+      "answer_idx": 0
     },
     {
       "kind": "grammar_check",
-      "prompt_ko": "\"우리는 선물___ 돈을 더 많이 줘.\" 빈칸에 뭐가 들어가요?",
-      "prompt_en": "\"We give money more ___ presents.\" What goes in the blank?",
+      "prompt_ko": "\"돈___ 이름이 더 중요해요.\" 빈칸에 뭐가 들어가요?",
+      "prompt_en": "\"The name matters more ___ the money.\" What goes in the blank?",
       "options": [
         "보다",
         "처럼",
@@ -94,7 +166,7 @@
       "options": [
         "envelope",
         "bowl",
-        "gift"
+        "present"
       ],
       "answer_idx": 0,
       "target_ref": "봉투"

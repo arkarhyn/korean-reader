@@ -89,12 +89,24 @@
       "en": "Dad: Kimbap 👍"
     },
     {
-      "ko": "그때 서윤에게서 전화가 왔다. \"'내가 할게요'는 또 뭐야? 우리 언니한테는 '제가 할게요', 준수한테는 '내가 할게'. 그렇게 해.\"",
-      "en": "Just then Seoyun called. \"What was 'nae-ga halgeyo'? To my sister it's 'je-ga halgeyo,' and to Junsu it's 'nae-ga halge.' Do it like that.\""
+      "ko": "그때 서윤에게서 전화가 왔다.",
+      "en": "Just then Seoyun called."
     },
     {
-      "ko": "이선: \"아… 다 달라. 정말 어렵다.\" 서윤: \"우리 아빠보다는 말 많이 했잖아. 아빠는 👍만 보냈어.\" 이선: \"아, 다음에는 👍만 보낼래.\"",
-      "en": "Ethan: \"Ugh... it's all different. It's really hard.\" Seoyun: \"You still said more than my dad. Dad only sent 👍.\" Ethan: \"Ah, next time I'll just send 👍.\""
+      "ko": "서윤: '내가 할게요'는 또 뭐야? 우리 언니한테는 '제가 할게요', 준수한테는 '내가 할게'. 그렇게 해.",
+      "en": "Seoyun: What was 'nae-ga halgeyo'? To my sister it's 'je-ga halgeyo,' and to Junsu it's 'nae-ga halge.' Do it like that."
+    },
+    {
+      "ko": "이선: 아… 다 달라. 정말 어렵다.",
+      "en": "Ethan: Ugh... it's all different. It's really hard."
+    },
+    {
+      "ko": "서윤: 우리 아빠보다는 말 많이 했잖아. 아빠는 👍만 보냈어.",
+      "en": "Seoyun: You still said more than my dad. Dad only sent 👍."
+    },
+    {
+      "ko": "이선: 아, 다음에는 👍만 보낼래.",
+      "en": "Ethan: Ah, next time I'll just send 👍."
     }
   ],
   "questions": [

@@ -186,3 +186,15 @@ def test_episode_lexemes_flag_names_and_alias_known(engine):
     flags = {(l["lemma"], l["pos"]): l["counts_known"] for l in lexemes}
     assert flags[("서윤", "NNP")] and flags[("감사하다", "VV")]
     assert not flags[("김치", "NNG")]
+
+
+def test_flags_drop_out_once_the_sentence_is_rewritten(seeded):
+    from app.db.models import Event
+
+    ingest_episode(seeded, _doc("밥 먹었습니다. 정말 맛있습니다."), fake_lookup, publish=True)
+    seeded.add(Event(id=str(uuid.uuid4()), ts=datetime.now(UTC), device="iphone", type="flag_sentence",
+                     payload={"episode_id": "S01E001", "text": '정말 맛있습니다."'}))
+    seeded.flush()
+    assert len(build_context(seeded)["flagged_sentences"]) == 1
+    ingest_episode(seeded, _doc("밥 먹었습니다. 진짜 맛있어요."), fake_lookup, publish=True)
+    assert build_context(seeded)["flagged_sentences"] == []

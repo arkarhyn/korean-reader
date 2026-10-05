@@ -35,8 +35,11 @@ Write `content/episodes/s01/S01E00N.json` (format: `server/app/content/schema.py
 (one line, used as continuity in later batches), `paragraphs [{ko, en}]`, `questions`.
 
 Writing rules:
-- Mostly dialogue (LEARNER_PROFILE: narration reads far harder). One paragraph per
-  speaker turn or short exchange; narration only as linking lines.
+- Mostly dialogue (LEARNER_PROFILE: narration reads far harder); narration only as
+  linking lines.
+- **One speaker per paragraph** (Austin, DECISIONS 71): every dialogue line is its own
+  paragraph, written `화자: 대사` with no quote marks. Narration gets its own
+  paragraphs and never shares one with dialogue. Don't run two speakers together.
 - Speech must follow the STORY_BIBLE register map exactly (who uses 반말, 해요체, 합니다체,
   -시-, humble verbs, address terms) at this point in the arc.
 - Write natural Korean first, then simplify vocabulary. Never bend grammar to dodge a word;

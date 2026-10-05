@@ -9,54 +9,118 @@
   ],
   "target_grammar": "G.DEON",
   "status": "draft",
-  "summary": "Father shows Ethan his 텃밭 and learns Ethan grows peppers too. He remembers the girls playing there as kids, quietly admits he isn't ready for 서현 to leave home, and asks about Ethan's military computer job and what comes after 전역 (in two years). He gives Ethan his biggest pepper, which he never does.",
+  "summary": "Wednesday after work Ethan and Seoyun come by: the 'something to do together' is Dad's 텃밭. Ethan grows peppers too (smaller). Dad's mother in Korea talked to her plants. The girls played there as kids (Seoyun once ate one of the peppers and drank a ton of water; Seohyun kept laughing). The wedding is next month and Dad is 'not sure'. He asks about Ethan's military computer job and after 전역 (in two years), mentions a former coworker who did military computer work and now works at a big company, asks Ethan to come garden together, and gives him his biggest pepper -- which he never does.",
   "paragraphs": [
     {
-      "ko": "토요일 오후, 아버지가 이선을 집 밖으로 불렀다.",
-      "en": "Saturday afternoon, Father called Ethan outside."
+      "ko": "아버지가 같이 할 일이 있다고 했다. 수요일 저녁, 이선은 퇴근하고 서윤이와 같이 서윤이 부모님 집에 갔다. 아버지는 집 밖에 있었다.",
+      "en": "Father had said there was something to do together. Wednesday evening, after work, Ethan went to Seoyun's parents' house with her. Her father was outside."
     },
     {
-      "ko": "아버지: \"이선 씨, 여기 와 봐요. 이게 내 텃밭이에요.\"",
-      "en": "Father: \"Ethan, come take a look. This is my garden.\""
+      "ko": "아버지: 왔어요? 여기 와 봐요. 이게 내 텃밭이에요.",
+      "en": "Father: You're here? Come take a look. This is my garden."
     },
     {
-      "ko": "이선: \"고추가 정말 크네요! 저도 집에서 고추를 키워요.\" 아버지가 이선을 보았다. \"정말요? 이선 씨도요? 어디에서 해요?\" 이선: \"집 앞에 조금 있어요.\"",
-      "en": "Ethan: \"Your peppers are really big! I grow peppers at home too.\" Father looked at Ethan. \"Really? You too? Where do you grow them?\" Ethan: \"I have a little patch in front of my place.\""
+      "ko": "텃밭에는 빨간 고추가 많았다.",
+      "en": "The garden was full of red peppers."
     },
     {
-      "ko": "아버지는 처음으로 크게 웃었다. 그리고 텃밭 앞에 앉았다. \"내가 한국에서 살던 집에도 이런 게 있었어요. 여기는 전에 서현이랑 서윤이가 놀던 곳이에요. 그때는 아이들이 정말 작았어요.\"",
-      "en": "For the first time, Father laughed out loud. Then he sat down in front of the garden. \"The house I lived in back in Korea had one of these too. This is where Seohyun and Seoyun used to play. The girls were so small back then.\""
+      "ko": "이선: 고추가 정말 크네요! 저도 집에서 키워요.",
+      "en": "Ethan: These peppers are really big! I grow them at home too."
     },
     {
-      "ko": "아버지가 하늘을 보면서 말했다. \"이제 서현이 결혼식이에요. 나는 아직… 잘 모르겠어요.\" 이선은 말없이 아버지 옆에 앉았다.",
-      "en": "Looking up at the sky, Father said, \"Now it's Seohyun's wedding. I'm still... not sure how I feel.\" Ethan sat down next to him without a word."
+      "ko": "아버지: 정말요? 이선 씨도요?",
+      "en": "Father: Really? You too?"
     },
     {
-      "ko": "아버지: \"이선 씨는 무슨 일 해요? 서윤이한테 조금 들었어요.\" 이선: \"네, 컴퓨터 일을 해요.\"",
-      "en": "Father: \"What do you do, Ethan? Seoyun told me a little.\" Ethan: \"Yes, I do computer work.\""
+      "ko": "이선: 네. 근데 제 건 너무 작아요.",
+      "en": "Ethan: Yes. But mine are really small."
     },
     {
-      "ko": "아버지: \"전역하면 뭐 할 거예요?\" 이선: \"아직 시간이 있어요. 잘 모르겠어요. 그런데 계속 컴퓨터 일을 하고 싶어요.\"",
-      "en": "Father: \"What will you do when you get out?\" Ethan: \"I still have time. I'm not really sure. But I want to keep doing computer work.\""
+      "ko": "아버지가 처음으로 크게 웃었다.",
+      "en": "For the first time, Father laughed out loud."
     },
     {
-      "ko": "아버지: \"내가 다니던 회사에도 이선 씨처럼 컴퓨터 일 하던 사람이 있었어요. 그 사람은 지금 큰 회사에 다녀요. 이선 씨도 잘 될 거예요.\"",
-      "en": "Father: \"At the company I used to work for, there was a guy who did computer work like you. He works at a big company now. You'll do well too.\""
+      "ko": "아버지: 매일 봐야 돼요. 물도 주고, 말도 하고.",
+      "en": "Father: You have to check on them every day. Water them, talk to them too."
     },
     {
-      "ko": "아버지는 가장 큰 걸 하나 이선에게 줬다. \"이거 받아요. 다음에 또 와요. 여기 할 일이 많아요.\" 이선: \"감사합니다. 꼭 다시 올게요.\"",
-      "en": "Father gave Ethan the biggest one. \"Take this. Come again next time. There's a lot to do out here.\" Ethan: \"Thank you. I'll definitely come back.\""
+      "ko": "이선: 말을 해요?",
+      "en": "Ethan: You talk to them?"
     },
     {
-      "ko": "집 안에서 서윤이가 그걸 보고 말했다. \"아빠가 그거 줬어? 아빠는 그거 누구한테도 안 줘. 아빠가 너 정말 좋게 보나 봐.\"",
-      "en": "Inside the house, Seoyun saw it and said, \"Dad gave you that? Dad never gives those to anyone. He must really think well of you.\""
+      "ko": "아버지: 네. 한국에서 살던 집에도 이런 게 있었어요. 우리 어머니가 매일 그렇게 했어요.",
+      "en": "Father: Yes. The house I lived in back in Korea had one of these too. My mother did that every day."
+    },
+    {
+      "ko": "아버지는 의자에 앉았다.",
+      "en": "Father sat down on a chair."
+    },
+    {
+      "ko": "아버지: 여기는 서현이랑 서윤이가 아이였을 때 놀던 곳이에요.",
+      "en": "Father: This is where Seohyun and Seoyun used to play when they were kids."
+    },
+    {
+      "ko": "아버지: 서윤이는 여기서 하나를 먹고 물을 정말 많이 마셨어요. 서현이는 옆에서 계속 웃었고요.",
+      "en": "Father: Seoyun once ate one of these out here and drank a ton of water. Seohyun just kept laughing next to her."
+    },
+    {
+      "ko": "아버지는 잠깐 하늘을 봤다.",
+      "en": "Father looked up at the sky for a moment."
+    },
+    {
+      "ko": "아버지: 그때 웃던 아이가 다음 달에 결혼식을 해요. 나는 아직… 잘 모르겠어요.",
+      "en": "Father: That kid who was laughing is having her wedding next month. I'm still... not sure how I feel."
+    },
+    {
+      "ko": "이선은 말없이 아버지 옆에 앉았다.",
+      "en": "Ethan sat down next to him without a word."
+    },
+    {
+      "ko": "아버지: 이선 씨는 군인이죠? 서윤이가 그랬어요.",
+      "en": "Father: You're in the military, right? Seoyun told me."
+    },
+    {
+      "ko": "이선: 네. 군인이고, 컴퓨터 일을 해요.",
+      "en": "Ethan: Yes. I'm in the military, and I do computer work."
+    },
+    {
+      "ko": "아버지: 일은 힘들지 않아요? 전역하면 뭐 할 거예요?",
+      "en": "Father: Isn't the work hard? What will you do when you get out?"
+    },
+    {
+      "ko": "이선: 이 년 후에 전역해요. 아직 잘 모르겠어요. 근데 컴퓨터 일은 계속하고 싶어요.",
+      "en": "Ethan: I get out in two years. I'm not sure yet. But I want to keep doing computer work."
+    },
+    {
+      "ko": "아버지: 내가 다니던 회사에 군인일 때 컴퓨터 일을 하던 사람이 있었어요. 지금은 큰 회사에서 일해요.",
+      "en": "Father: At the company I used to work for, there was a guy who did computer work when he was in the military. He works at a big company now."
+    },
+    {
+      "ko": "아버지: 걱정하지 마요. 이선 씨도 잘 될 거예요. 그리고 다음에도 와서 같이 일해요. 혼자 하면 힘들어요.",
+      "en": "Father: Don't worry. You'll do well too. And come again so we can work out here together. It's hard doing it alone."
+    },
+    {
+      "ko": "아버지는 가장 큰 걸 하나 이선에게 줬다.",
+      "en": "Father gave Ethan the biggest one."
+    },
+    {
+      "ko": "아버지: 이거 받아요. 이선 씨 거보다 클 거예요.",
+      "en": "Father: Take this. I bet it's bigger than yours."
+    },
+    {
+      "ko": "집 안에서 서윤이가 그걸 봤다.",
+      "en": "Inside the house, Seoyun saw it."
+    },
+    {
+      "ko": "서윤: 아빠가 고추를 줬어? 아빠는 그거 누구한테도 안 줘!",
+      "en": "Seoyun: Dad gave you a pepper? Dad never gives those to anyone!"
     }
   ],
   "questions": [
     {
       "kind": "comprehension",
-      "prompt_ko": "텃밭은 전에 어떤 곳이었어요?",
-      "prompt_en": "What was the garden spot before?",
+      "prompt_ko": "텃밭은 옛날에 어떤 곳이었어요?",
+      "prompt_en": "What was the garden spot in the old days?",
       "options": [
         "딸들이 놀던 곳",
         "아버지가 일하던 곳",
@@ -66,25 +130,26 @@
     },
     {
       "kind": "comprehension",
-      "prompt_ko": "이선은 전역하면 뭘 하고 싶어요?",
-      "prompt_en": "What does Ethan want to do after leaving the military?",
+      "prompt_ko": "이선은 언제 전역해요?",
+      "prompt_en": "When does Ethan leave the military?",
       "options": [
-        "텃밭 일",
-        "컴퓨터 일",
-        "회사 사장"
+        "다음 달",
+        "일 년 후",
+        "이 년 후"
       ],
-      "answer_idx": 1
+      "answer_idx": 2
     },
     {
-      "kind": "comprehension",
-      "prompt_ko": "아버지는 이선에게 뭘 줬어요?",
-      "prompt_en": "What did Father give Ethan?",
+      "kind": "grammar_check",
+      "prompt_ko": "\"여기는 딸들이 아이였을 때 놀___ 곳이에요.\" 빈칸에 뭐가 들어가요?",
+      "prompt_en": "\"This is the place where my daughters ___ play when they were kids.\"",
       "options": [
-        "가장 큰 고추",
-        "김밥",
-        "봉투"
+        "던",
+        "고 싶은",
+        "지 않는"
       ],
-      "answer_idx": 0
+      "answer_idx": 0,
+      "target_ref": "G.DEON"
     },
     {
       "kind": "meaning_check",

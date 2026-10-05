@@ -312,6 +312,21 @@ Do not reverse an entry without asking Austin.
     shipped would never get earlier finishes); a progress table (DECISIONS 8:
     derive from the log).
 
+71. **One speaker per paragraph (Austin, 2026-10-05):** dialogue lines are
+    `화자: 대사` without quote marks, one speaker per paragraph; narration in its
+    own paragraphs. S01E001-002 re-split (text unchanged, except the flagged
+    line). The reader styles the speaker label, tightens spacing, and moves the
+    English toggle inline ("EN" at the end of the line). Rejected: keeping mixed
+    paragraphs; a single global English toggle.
+72. **S01E003-005 regenerated with the expanded known set (Austin):** same arc
+    beats and targets (G.BODA, G.DEON, G.JI_MOTHADA) since they replace their
+    own episodes; Austin had read only E001-002. Second-pass review fixes
+    applied (E003 envelope logic, E004 아이였을 때 for 작을 때, E005 line order);
+    declined: adding 동안 (still `new`, DECISIONS 61). Canon log entries
+    replaced; the wedding is now fixed as next month. The flagged E001 line
+    became 어머니: 긴장은 무슨. 밥만 잘 먹었으면서. The generation context drops
+    flags whose sentence is no longer in the episode.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

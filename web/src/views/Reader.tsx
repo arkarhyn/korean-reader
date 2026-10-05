@@ -203,7 +203,7 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
         )}
       </header>
 
-      <article className="space-y-7">
+      <article className="space-y-3">
         {episode.paragraphs.map((p) => (
           <ParagraphView
             key={p.idx}
@@ -280,13 +280,24 @@ function wordClass(start: number, lex: number, active: number | null, tapped: Se
   return known?.has(lex) ? "word known" : "word";
 }
 
+/** "화자: 대사" dialogue lines (DECISIONS 71): length of the speaker label incl. ": ", else 0. */
+export function speakerLabelEnd(ko: string): number {
+  const m = /^[^\s:"']{1,8}: /.exec(ko);
+  return m ? m[0].length : 0;
+}
+
 function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn, onTap }: ParaProps) {
   const segs = useMemo(() => segment(p.ko, p.tokens), [p.ko, p.tokens]);
+  const labelEnd = speakerLabelEnd(p.ko);
   return (
     <div>
       <p className="font-body text-[19px] leading-[2.05] break-keep sm:text-[20px]">
         {segs.map((s) =>
-          s.lex === undefined ? (
+          s.start < labelEnd ? (
+            <span key={s.start} className="font-bold text-accent">
+              {s.text}
+            </span>
+          ) : s.lex === undefined ? (
             <span key={s.start}>{s.text}</span>
           ) : (
             <span
@@ -301,18 +312,21 @@ function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn
             </span>
           ),
         )}
+        {canShowEn && (
+          <button
+            type="button"
+            onClick={onToggleEn}
+            aria-pressed={showEn}
+            aria-label={showEn ? "Hide English" : "Show English"}
+            className={`ml-2 inline-flex min-h-8 items-center rounded-full border px-2 align-middle font-ui text-[11px] leading-none active:bg-paper-deep ${
+              showEn ? "border-accent text-accent" : "border-rule text-ink-soft"
+            }`}
+          >
+            EN
+          </button>
+        )}
       </p>
-      {canShowEn && <div className="mt-1 flex justify-end">
-        <button
-          type="button"
-          onClick={onToggleEn}
-          aria-pressed={showEn}
-          className="min-h-9 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep"
-        >
-          {showEn ? "Hide English" : "English"}
-        </button>
-      </div>}
-      {canShowEn && showEn && <p className="mt-1 border-l-2 border-rule pl-3 text-[15px] leading-relaxed text-ink-soft">{p.en}</p>}
+      {canShowEn && showEn && <p className="mt-0.5 mb-2 border-l-2 border-rule pl-3 text-[15px] leading-relaxed text-ink-soft">{p.en}</p>}
     </div>
   );
 }

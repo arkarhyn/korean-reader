@@ -8,66 +8,114 @@
   ],
   "target_grammar": "G.JI_MOTHADA",
   "status": "draft",
-  "summary": "Ethan calls Seoyun: there's an important job at work the wedding weekend and he may not get leave; he hasn't asked yet and nobody else can do it. Seoyun reminds him Dad gave him a pepper and that he's family now, and that 준수 would be stuck next to Mom alone. They agree not to tell Mom yet; he'll call again soon. Unresolved.",
+  "summary": "Thursday night Ethan gets an email from his superior about his leave request: an important team job on the wedding weekend means leave may be denied; they'll talk again next Wednesday. He calls Seoyun: he's the only one on the team who does that job. She says Mom and Dad are waiting (Dad gave him a pepper), her sister already set him a seat, and 준수 would be stuck next to Mom alone. They agree not to tell Mom until Wednesday. Unresolved.",
   "paragraphs": [
     {
-      "ko": "저녁에 이선은 혼자 집에 있었다. 오래 생각하다가 서윤이에게 전화를 했다.",
-      "en": "In the evening, Ethan was home alone. After thinking for a long while, he called Seoyun."
+      "ko": "목요일 밤, 이선은 상사에게서 이메일을 하나 받았다.",
+      "en": "Thursday night, Ethan got an email from his superior."
     },
     {
-      "ko": "서윤: \"이선아, 무슨 일 있어? 목소리가 안 좋아. 밥은 먹었어?\"",
-      "en": "Seoyun: \"Ethan, is something wrong? You don't sound good. Did you eat?\""
+      "ko": "이메일: 다음 달 그 주말에 팀에 중요한 일이 있습니다. 그래서 휴가를 주지 못할 수도 있습니다. 다음 주 수요일에 다시 이야기하겠습니다.",
+      "en": "Email: There is an important job for the team on that weekend next month. So we may not be able to give you leave. We will talk again next Wednesday."
     },
     {
-      "ko": "이선: \"서윤아… 나 결혼식에 못 갈 수도 있어.\" 서윤: \"뭐? 왜?\"",
-      "en": "Ethan: \"Seoyun... I might not be able to go to the wedding.\" Seoyun: \"What? Why?\""
+      "ko": "이선은 한참 이메일을 봤다. 그리고 서윤이에게 전화를 했다.",
+      "en": "Ethan stared at the email for a long while. Then he called Seoyun."
     },
     {
-      "ko": "이선: \"지금 일이 너무 많아. 그 주말에 중요한 일이 하나 있어. 그래서 휴가를 받지 못할 수도 있어.\"",
-      "en": "Ethan: \"There's way too much work right now. There's an important job that weekend. So I might not be able to get leave.\""
+      "ko": "서윤: 어, 왜? 무슨 일 있어? 목소리가 왜 그래?",
+      "en": "Seoyun: Hey, what's up? Is something wrong? Why do you sound like that?"
     },
     {
-      "ko": "서윤: \"휴가 이야기는 했어?\" 이선: \"아직 말하지 못했어. 그리고 그 일은 다른 사람이 못 해. 나만 할 수 있어.\"",
-      "en": "Seoyun: \"Did you bring up the leave?\" Ethan: \"I haven't been able to say anything yet. And nobody else can do that job. Only I can.\""
+      "ko": "이선: 서윤아… 나 결혼식에 못 갈 수도 있어.",
+      "en": "Ethan: Seoyun... I might not be able to go to the wedding."
     },
     {
-      "ko": "서윤이는 바로 말하지 못했다. \"엄마가 많이 기다리고 있는데. 아빠도. 아빠가 너한테 고추도 줬잖아. 너 이제 우리 가족이잖아.\"",
-      "en": "Seoyun couldn't answer right away. \"Mom is really looking forward to it. Dad too. Dad even gave you a pepper. You're part of our family now.\""
+      "ko": "서윤: 뭐? 진짜? 왜?",
+      "en": "Seoyun: What? Seriously? Why?"
     },
     {
-      "ko": "이선: \"나도 알아. 나도 정말 가고 싶어. 그래서 밤에도 계속 그 생각만 했어.\"",
-      "en": "Ethan: \"I know. I really want to go too. That's all I could think about, even at night.\""
+      "ko": "이선: 다음 달 그 주말에 팀에 중요한 일이 있대. 상사가 휴가를 주지 못할 수도 있대.",
+      "en": "Ethan: There's an important job for the team on that weekend next month. My superior says he might not be able to give me leave."
     },
     {
-      "ko": "서윤: \"그리고 준수는? 너 없으면 혼자 엄마 옆에 앉아야 돼. 엄마 이야기 정말 길잖아.\" 이선: \"그건 준수한테 정말 큰 문제네.\"",
-      "en": "Seoyun: \"And Junsu? Without you, he has to sit next to Mom alone. Mom's stories are really long, you know.\" Ethan: \"That's a really big problem for Junsu.\""
+      "ko": "서윤: 다른 사람은 그 일 못 해?",
+      "en": "Seoyun: Can't someone else do it?"
     },
     {
-      "ko": "서윤: \"엄마한테는 내가 말할까?\" 이선: \"아니야, 아직 말하지 마. 나도 아직 잘 모르니까. 곧 다시 이야기하자.\"",
-      "en": "Seoyun: \"Should I tell Mom?\" Ethan: \"No, don't tell her yet. I don't really know yet either. Let's talk again soon.\""
+      "ko": "이선: 응. 그건 내가 제일 잘 알아. 우리 팀에서 그 일 하는 사람은 나밖에 없어.",
+      "en": "Ethan: No. I know it better than anyone. I'm the only one on our team who does that job."
     },
     {
-      "ko": "서윤: \"그래. 기다려 보자. 준수도 너 기다려. 그리고 이선아, 너 오면 엄마가 또 '더 먹어' 할 거야.\"",
-      "en": "Seoyun: \"Okay. Let's wait and see. Junsu's waiting for you too. And Ethan, if you come, Mom will say 'eat more' again.\""
+      "ko": "서윤이는 바로 말하지 못했다.",
+      "en": "Seoyun couldn't say anything right away."
     },
     {
-      "ko": "이선이 조금 웃었다. \"그건 너무 좋아. 꼭 가고 싶어.\"",
-      "en": "Ethan laughed a little. \"That I'd love. I really want to go.\""
+      "ko": "서윤: 엄마가 진짜 기다리고 있는데. 아빠도. 아빠가 너한테 고추도 줬잖아.",
+      "en": "Seoyun: Mom is really looking forward to it. Dad too. Dad even gave you a pepper."
     },
     {
-      "ko": "전화가 끝나고 이선은 다시 컴퓨터 앞에 앉았다. 할 일이 아직 많았다. 그리고 그날 밤에도 이선은 잘 자지 못했다.",
-      "en": "After the call, Ethan sat back down at his computer. There was still a lot to do. And that night, too, he couldn't sleep well."
+      "ko": "서윤: 언니가 벌써 네 자리도 준비했어.",
+      "en": "Seoyun: My sister already set a seat for you."
+    },
+    {
+      "ko": "이선: 아… 그럼 더 미안하네.",
+      "en": "Ethan: Ah... that makes me feel even worse."
+    },
+    {
+      "ko": "이선: 알아. 나도 정말 가고 싶어.",
+      "en": "Ethan: I know. I really want to go too."
+    },
+    {
+      "ko": "서윤: 그리고 준수는? 너 없으면 혼자 엄마 옆에 앉아야 돼. 엄마 이야기 진짜 길잖아.",
+      "en": "Seoyun: And Junsu? Without you, he has to sit next to Mom alone. Mom's stories are really long, you know."
+    },
+    {
+      "ko": "이선: 그건 준수한테 큰 문제네.",
+      "en": "Ethan: That's a big problem for Junsu."
+    },
+    {
+      "ko": "서윤이가 조금 웃었다.",
+      "en": "Seoyun laughed a little."
+    },
+    {
+      "ko": "서윤: 엄마한테는 내가 말할까?",
+      "en": "Seoyun: Should I tell Mom?"
+    },
+    {
+      "ko": "이선: 아니, 아직 말하지 마. 수요일에 알 수 있어.",
+      "en": "Ethan: No, don't tell her yet. I'll know on Wednesday."
+    },
+    {
+      "ko": "서윤: 알았어. 기다려 보자. 그리고 미안해하지 마.",
+      "en": "Seoyun: Okay. Let's wait and see. And don't feel sorry."
+    },
+    {
+      "ko": "이선: 고마워.",
+      "en": "Ethan: Thanks."
+    },
+    {
+      "ko": "서윤: 수요일에 바로 전화 줘. 알았지?",
+      "en": "Seoyun: Call me right away on Wednesday. Okay?"
+    },
+    {
+      "ko": "이선: 응, 바로 할게.",
+      "en": "Ethan: Yeah, right away."
+    },
+    {
+      "ko": "전화가 끝나고 이선은 이메일을 다시 읽었다. 그날 밤 이선은 잘 자지 못했다.",
+      "en": "After the call, Ethan read the email again. That night he couldn't sleep well."
     }
   ],
   "questions": [
     {
       "kind": "comprehension",
-      "prompt_ko": "이선은 왜 결혼식에 가지 못할 수도 있어요?",
-      "prompt_en": "Why might Ethan not be able to go to the wedding?",
+      "prompt_ko": "이선은 언제 휴가 이야기를 다시 들을 수 있어요?",
+      "prompt_en": "When will Ethan hear about his leave again?",
       "options": [
-        "휴가를 받지 못할 수도 있어서",
-        "아파서",
-        "돈이 없어서"
+        "다음 주 수요일",
+        "결혼식 날",
+        "내일 아침"
       ],
       "answer_idx": 0
     },
@@ -84,8 +132,8 @@
     },
     {
       "kind": "grammar_check",
-      "prompt_ko": "\"그날 밤에도 이선은 잘 자___.\" (= he couldn't sleep well.) 뭐가 맞아요?",
-      "prompt_en": "\"That night, too, Ethan ___ sleep well.\" Which is right?",
+      "prompt_ko": "\"그날 밤 이선은 잘 자___.\" (= he couldn't sleep well) 뭐가 맞아요?",
+      "prompt_en": "\"That night Ethan ___ sleep well.\"",
       "options": [
         "지 못했다",
         "고 싶었다",
@@ -101,7 +149,7 @@
       "options": [
         "time off / leave",
         "wedding",
-        "work"
+        "email"
       ],
       "answer_idx": 0,
       "target_ref": "휴가"
