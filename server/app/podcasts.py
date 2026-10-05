@@ -11,11 +11,13 @@ from collections.abc import Iterator
 from pathlib import Path
 
 from sqlalchemy import select
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, selectinload
 
+from .analyzer import proper_nouns
 from .config import REPO_ROOT
 from .content.schema import Episode as EpisodeDoc
-from .db.models import Episode, Event
+from .db.models import Episode, Event, Lexeme
+from .ingest import known_keys
 
 CORPUS = REPO_ROOT / "corpus" / "podcasts"
 SHOWS = {"didi-taewoong": {"key": "dt", "title_ko": "디디와 정태웅의 한국생활 요모조모",
@@ -70,9 +72,26 @@ def load_prepared(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def live_coverage(session: Session, parts: list[Episode]) -> dict[str, float | None]:
+    """Coverage of each part against the words known now (SPEC 7, as at ingest: tag aliases,
+    names count as known). Stored `episode.coverage` is only a snapshot from ingest time."""
+    known = known_keys(session)
+    names = proper_nouns()
+    lex_ids = {t["lex"] for ep in parts for p in ep.paragraphs for t in p.tokens if "lex" in t}
+    rows = session.execute(select(Lexeme.id, Lexeme.lemma, Lexeme.pos).where(Lexeme.id.in_(lex_ids))) if lex_ids else []
+    is_known = {i: (lemma, pos) in known or (pos == "NNP" and lemma in names) for i, lemma, pos in rows}
+    out = {}
+    for ep in parts:
+        lexes = [t["lex"] for p in ep.paragraphs for t in p.tokens if "lex" in t]
+        out[ep.id] = sum(is_known.get(i, False) for i in lexes) / len(lexes) if lexes else ep.coverage
+    return out
+
+
 def podcasts_out(session: Session) -> list[dict]:
-    """Shows -> episodes -> parts for the Listen tab (published parts only)."""
-    parts = session.scalars(select(Episode).where(Episode.series == "podcast", Episode.status == "published"))
+    """Shows -> episodes -> parts for the Listen tab (published parts only), coverage computed live."""
+    parts = session.scalars(select(Episode).where(Episode.series == "podcast", Episode.status == "published")
+                            .options(selectinload(Episode.paragraphs))).all()
+    coverage = live_coverage(session, parts)
     primers = {ep.source.removeprefix("primer:"): ep for ep in session.scalars(
         select(Episode).where(Episode.series == "primer", Episode.source.like("primer:%")))}
     requested = {e.payload.get("episode_id") for e in session.scalars(
@@ -89,7 +108,7 @@ def podcasts_out(session: Session) -> list[dict]:
         primer = primers.get(ep.id)
         e["parts"].append({
             "id": ep.id, "part": m.get("part"), "title_ko": ep.title_ko, "title_en": ep.title_en,
-            "start_ms": m.get("start_ms"), "end_ms": m.get("end_ms"), "coverage": ep.coverage,
+            "start_ms": m.get("start_ms"), "end_ms": m.get("end_ms"), "coverage": coverage[ep.id],
             "primer": ("published" if primer is not None and primer.status == "published"
                        else "requested" if ep.id in requested else None),
             "primer_id": primer.id if primer is not None and primer.status == "published" else None,

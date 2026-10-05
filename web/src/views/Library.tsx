@@ -3,9 +3,9 @@ import { useState } from "react";
 import { Link } from "react-router";
 import SyncChip from "../components/SyncChip";
 import { db } from "../db";
-import { buildSections, HIDDEN_SERIES, mainPosition, upNext, type Section } from "../library";
+import { buildSections, HIDDEN_SERIES, liveCoverage, mainPosition, upNext, type Section } from "../library";
 import { loadData, loadProgress } from "../placement";
-import type { Episode } from "../types";
+import type { Episode, LexemeState } from "../types";
 
 /** Library hides placement calibration passages and podcast parts (they live in the Listen tab). */
 export const libraryEpisodes = (eps: Episode[]) => eps.filter((e) => !HIDDEN_SERIES.has(e.series));
@@ -13,7 +13,14 @@ export const libraryEpisodes = (eps: Episode[]) => eps.filter((e) => !HIDDEN_SER
 const REGISTER_LABEL: Record<string, string> = { banmal: "반말", haeyo: "해요체", hasipsio: "합니다체" };
 const PRACTICE_OPEN_KEY = "library.practiceOpen";
 
-const pct = (ep: Episode) => (ep.coverage !== null ? `${Math.round(ep.coverage * 100)}%` : "");
+type States = Map<number, LexemeState>;
+
+/** Coverage against the words known now (falls back to the figure stored at ingest). */
+const coverageOf = (ep: Episode, rows: States) => liveCoverage(ep, rows) ?? ep.coverage;
+const pct = (ep: Episode, rows: States) => {
+  const c = coverageOf(ep, rows);
+  return c !== null ? `${Math.round(c * 100)}%` : "";
+};
 const epLabel = (ep: Episode) => {
   const pos = mainPosition(ep.id);
   return pos ? `${pos.episode}화` : null;
@@ -25,6 +32,8 @@ export default function Library() {
   const done = useLiveQuery(async () => new Set((await db.progress.toArray()).map((p) => p.episode_id)), []);
   // Quick review is optional: a plain link when there is something to review, never a count.
   const canReview = useLiveQuery(async () => (await db.reviewItems.count()) > 0, []);
+  // Word states for live coverage: re-renders as words are marked known or reviewed.
+  const rows = useLiveQuery(async () => new Map((await db.lexemeStates.toArray()).map((r) => [r.lexeme_id, r])), []) ?? new Map();
 
   const sections = episodes ? buildSections(episodes) : [];
   const next = done ? upNext(sections, done) : undefined;
@@ -67,10 +76,10 @@ export default function Library() {
         </p>
       ) : (
         <>
-          {next && <UpNext ep={next} />}
+          {next && <UpNext ep={next} rows={rows} />}
           <div className="space-y-10">
             {sections.map((s) => (
-              <SectionList key={s.key} section={s} read={done ?? new Set()} nextId={next?.id} />
+              <SectionList key={s.key} section={s} read={done ?? new Set()} nextId={next?.id} rows={rows} />
             ))}
           </div>
         </>
@@ -87,7 +96,7 @@ export default function Library() {
   );
 }
 
-function UpNext({ ep }: { ep: Episode }) {
+function UpNext({ ep, rows }: { ep: Episode; rows: States }) {
   const label = epLabel(ep);
   return (
     <Link
@@ -101,7 +110,7 @@ function UpNext({ ep }: { ep: Episode }) {
       </h2>
       <p className="mt-0.5 text-sm text-ink-soft">{ep.title_en}</p>
       <div className="mt-3 flex flex-wrap gap-x-3 gap-y-1 text-xs text-ink-soft">
-        {ep.coverage !== null && <span>{pct(ep)} known</span>}
+        {coverageOf(ep, rows) !== null && <span>{pct(ep, rows)} known</span>}
         {ep.register_tags.map((r) => (
           <span key={r}>{REGISTER_LABEL[r] ?? r}</span>
         ))}
@@ -110,7 +119,7 @@ function UpNext({ ep }: { ep: Episode }) {
   );
 }
 
-function SectionList({ section, read, nextId }: { section: Section; read: Set<string>; nextId?: string }) {
+function SectionList({ section, read, nextId, rows }: { section: Section; read: Set<string>; nextId?: string; rows: States }) {
   const [open, setOpen] = useState(() => {
     if (!section.collapsible) return true;
     try {
@@ -155,7 +164,7 @@ function SectionList({ section, read, nextId }: { section: Section; read: Set<st
       {open && (
         <ul>
           {section.episodes.map((ep) => (
-            <EpisodeRow key={ep.id} ep={ep} read={read.has(ep.id)} next={ep.id === nextId} />
+            <EpisodeRow key={ep.id} ep={ep} read={read.has(ep.id)} next={ep.id === nextId} rows={rows} />
           ))}
         </ul>
       )}
@@ -163,7 +172,7 @@ function SectionList({ section, read, nextId }: { section: Section; read: Set<st
   );
 }
 
-function EpisodeRow({ ep, read, next }: { ep: Episode; read: boolean; next: boolean }) {
+function EpisodeRow({ ep, read, next, rows }: { ep: Episode; read: boolean; next: boolean; rows: States }) {
   const label = epLabel(ep);
   return (
     <li>
@@ -178,7 +187,7 @@ function EpisodeRow({ ep, read, next }: { ep: Episode; read: boolean; next: bool
           <span className="block truncate font-title text-[17px] font-bold">{ep.title_ko}</span>
           <span className="block truncate text-xs text-ink-soft">{ep.title_en}</span>
         </span>
-        <span className="shrink-0 text-xs text-ink-soft">{pct(ep)}</span>
+        <span className="shrink-0 text-xs text-ink-soft">{pct(ep, rows)}</span>
       </Link>
     </li>
   );

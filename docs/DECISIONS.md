@@ -422,6 +422,10 @@ Do not reverse an entry without asking Austin.
     Rejected: generating primers in the app (no paid APIs).
 88. **Stage 7 split:** Phase A (corpus prep) and Phase B (Listen tab + primer) done here;
     Phase C = the generic paste / .srt / .vtt ingest page with a coverage report.
+89. **Coverage shown live (Austin):** the Library computes each story's % on the device from
+    current word states (`liveCoverage`, SPEC 7 like the known tint) and `/api/podcasts`
+    computes parts' % on request; the stored `episode.coverage` stays the at-ingest snapshot
+    (generator / checker record). Rejected: re-ingesting to refresh numbers.
 
 ## OPEN
 

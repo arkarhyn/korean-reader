@@ -1,4 +1,5 @@
-import type { Episode } from "./types";
+import type { Episode, LexemeState } from "./types";
+import { countsKnown } from "./wordActions";
 
 // Library organization: an "up next" pick plus sections by series.
 // Main-series ids look like S01E005; everything else sorts by id.
@@ -13,6 +14,23 @@ export type Section = {
 
 /** Season titles from docs/STORY_BIBLE.md. */
 const SEASON_TITLES: Record<number, string> = { 1: "언니 결혼식" };
+/**
+ * Known-word coverage right now (SPEC 7, like the known tint): content words that count as
+ * known by their state on this device, or always (story names, other-tag aliases), over all
+ * content words. null when the episode carries no tokens (then the stored figure is shown).
+ */
+export function liveCoverage(ep: Episode, rows: Map<number, LexemeState>, now = Date.now()): number | null {
+  let total = 0;
+  let known = 0;
+  for (const p of ep.paragraphs)
+    for (const t of p.tokens) {
+      if (t.lex === undefined) continue;
+      total++;
+      if (countsKnown(rows.get(t.lex), now) || ep.lexemes[String(t.lex)]?.counts_known) known++;
+    }
+  return total ? known / total : null;
+}
+
 const SIDE_SERIES = new Set(["side-parent", "side-folk"]);
 /** Not story content: placement calibration passages, and podcast parts (Listen tab, Stage 7). */
 export const HIDDEN_SERIES = new Set(["placement", "podcast"]);

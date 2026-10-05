@@ -136,6 +136,18 @@ def test_podcast_part_fetch_and_listing(client):
     assert client.get("/api/podcasts").json()[0]["episodes"][0]["parts"][0]["primer"] == "requested"
 
 
+def test_podcast_coverage_is_live(client):
+    def cov():
+        return client.get("/api/podcasts").json()[0]["episodes"][0]["parts"][0]["coverage"]
+
+    before = cov()
+    kimchi = next(lx_id for lx_id, lx in client.get("/api/episodes/pod-dt-07-p1").json()["lexemes"].items()
+                  if lx["lemma"] == "김치")
+    client.post("/api/events/batch", json={"events": [
+        ev("set_state", T0, lexeme_id=int(kimchi), state="known", prev_state="new")]})
+    assert cov() > before  # no re-ingest needed
+
+
 def primer_doc(part_id="pod-dt-07-p1") -> EpisodeDoc:
     return EpisodeDoc(id=f"primer-{part_id}", series="primer", title_ko="김치", title_en="Kimchi",
                       register_tags=["haeyo"], source=f"primer:{part_id}",

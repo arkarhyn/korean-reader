@@ -1,7 +1,7 @@
 import "fake-indexeddb/auto";
 import { describe, expect, it } from "vitest";
 import { ReaderDB } from "./db";
-import { buildSections } from "./library";
+import { buildSections, liveCoverage } from "./library";
 import { activeLineAt, fetchPodcasts, loadPart, splitByLines, upNextPart } from "./podcasts";
 import { segment } from "./segments";
 import type { Episode, Paragraph, PodcastShow } from "./types";
@@ -65,6 +65,25 @@ describe("upNextPart", () => {
 const episode = (id: string, series: string): Episode => ({
   id, series, title_ko: id, title_en: id, register_tags: [], target_grammar: null, coverage: null,
   updated_at: "2026-10-05T00:00:00Z", paragraphs: [], questions: [], lexemes: {},
+});
+
+describe("liveCoverage", () => {
+  it("counts content words known on this device or always known", () => {
+    const ep = { ...episode("S01E001", "main"), paragraphs: [turn], lexemes: {
+      "1": { lemma: "반찬", pos: "NNG", gloss_en: "", gloss_ja: null, hanja: null },
+      "2": { lemma: "정말", pos: "MAG", gloss_en: "", gloss_ja: null, hanja: null, counts_known: true },
+      "3": { lemma: "김치", pos: "NNG", gloss_en: "", gloss_ja: null, hanja: null },
+    } };
+    const now = Date.parse("2026-10-05T12:00:00Z");
+    const rows = new Map([
+      [1, { lexeme_id: 1, state: "known", updated_at: "" }],
+      [3, { lexeme_id: 3, state: "learning", updated_at: "", due: "2026-10-04T00:00:00Z" }], // due: not known
+    ]);
+    expect(liveCoverage(ep, rows, now)).toBeCloseTo(2 / 3);
+    rows.set(3, { lexeme_id: 3, state: "learning", updated_at: "", due: "2026-10-09T00:00:00Z" }); // fresh
+    expect(liveCoverage(ep, rows, now)).toBe(1);
+    expect(liveCoverage(episode("x", "main"), rows, now)).toBeNull();
+  });
 });
 
 describe("library", () => {
