@@ -1,5 +1,5 @@
 import { useLiveQuery } from "dexie-react-hooks";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Link } from "react-router";
 import { db } from "../db";
 import { pickSession, splitSentence } from "../review";
@@ -18,11 +18,41 @@ export default function Review() {
   return <Session items={list} />;
 }
 
+const AUTOPLAY_KEY = "review.autoplay";
+
+function loadAutoplay(): boolean {
+  try {
+    return localStorage.getItem(AUTOPLAY_KEY) === "1";
+  } catch {
+    return false;
+  }
+}
+
 function Session({ items }: { items: ReviewItem[] }) {
   const [i, setI] = useState(0);
   const [picked, setPicked] = useState<number | null>(null);
+  const [autoplay, setAutoplay] = useState(loadAutoplay);
   const since = useRef(performance.now());
   const it = items[i];
+
+  // First card: play on open (desktop; iOS only allows speech from a tap, so it may stay quiet there).
+  const firstPlayed = useRef(false);
+  useEffect(() => {
+    if (firstPlayed.current || !autoplay || !items[0]) return;
+    firstPlayed.current = true;
+    tts.speak(items[0].sentence_ko);
+  }, [autoplay, items]);
+
+  function toggleAutoplay() {
+    const on = !autoplay;
+    setAutoplay(on);
+    try {
+      localStorage.setItem(AUTOPLAY_KEY, on ? "1" : "0");
+    } catch {
+      /* preference only */
+    }
+    if (on && it && picked === null) tts.speak(it.sentence_ko); // inside the tap, so iOS allows it
+  }
 
   async function choose(idx: number) {
     if (picked !== null || !it) return;
@@ -38,6 +68,8 @@ function Session({ items }: { items: ReviewItem[] }) {
   }
 
   function next() {
+    // Speak the next sentence from inside the "다음" tap, which iOS requires for speech.
+    if (autoplay && items[i + 1]) tts.speak(items[i + 1].sentence_ko);
     setI((n) => n + 1);
     setPicked(null);
     since.current = performance.now();
@@ -49,8 +81,17 @@ function Session({ items }: { items: ReviewItem[] }) {
         <Link to="/" className="-ml-2 flex min-h-11 items-center px-2 text-sm text-ink-soft">
           ← Library
         </Link>
-        <span className="text-xs text-ink-soft">복습 · quick review</span>
+        <button
+          type="button"
+          onClick={toggleAutoplay}
+          aria-pressed={autoplay}
+          className="flex min-h-11 items-center gap-2 rounded-full px-3 text-xs text-ink-soft active:bg-paper-deep"
+        >
+          <span className={`inline-block size-3 rounded-sm border border-rule ${autoplay ? "bg-seal-wash" : ""}`} />
+          Autoplay audio
+        </button>
       </nav>
+      <p className="-mt-1 text-right text-[11px] text-ink-soft">복습 · quick review</p>
 
       {!it ? (
         <div className="mt-24 text-center">
