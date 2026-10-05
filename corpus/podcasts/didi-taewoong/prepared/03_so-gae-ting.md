@@ -2,8 +2,8 @@
 
 https://www.youtube.com/watch?v=jIyPcb6S6TI
 
-## Part 1: 오프닝과 소개팅의 뜻 (Opening and what sogaeting means)
-`00:00–05:03` · 1124 hangul
+## Part 1: 소개팅이란? 왜 부담스러울까 (What sogaeting is, and why it feels like pressure)
+`00:00–10:08` · 2205 hangul
 
 **디디:** [AI로 생성된 자막입니다] 디디와 정태웅의 한국생활 요모조모 <sub>Didi and Taewoong Jung's Korean Life Yomo Jomo</sub>  
 안녕하세요 디디입니다 <sub>Hello, this is D.D.</sub>
@@ -143,9 +143,6 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 **디디:** 아 소개팅을 앞으로도 받을 생각이 없는 <sub>Oh, you don't want to get a blind date in the future</sub>
 
 **태웅:** 네 <sub>Oh, you don't want to get a blind date in the future</sub>
-
-## Part 2: 소개팅이 부담스러운 이유 (Why blind dates feel like pressure)
-`05:03–10:08` · 1081 hangul
 
 **디디:** 자만춥 하신가요? <sub>Are you a conceited person?</sub>
 
@@ -336,8 +333,8 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 
 **태웅:** 음 <sub>Hmm</sub>
 
-## Part 3: 소개팅의 3단계와 첫 메뉴 (The three stages and the first-date menu)
-`10:08–15:01` · 1081 hangul
+## Part 2: 첫 만남의 메뉴와 계산 (The first-date menu and who pays)
+`10:08–21:50` · 2504 hangul
 
 **디디:** 그래서 소개팅 같은 거 할 때는 <sub>So when you go on a blind date</sub>  
 단계가 3단계가 있는 것 같아요 <sub>I think there are 3 steps</sub>
@@ -576,12 +573,8 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 **태웅?:** 한 입에 넣는 스시보다는 <sub></sub>  
 덜 깔끔할 수는 있겠다 <sub>It may be less neat than sushi in one bite</sub>
 
-**디디:** 그렇죠 <sub>That's right</sub>
-
-## Part 4: 파스타, 덮밥, 그리고 더치페이 (Pasta, rice bowls, and splitting the bill)
-`15:01–18:32` · 767 hangul
-
-**디디:** 아 근데 <sub></sub>  
+**디디:** 그렇죠 <sub>That's right</sub>  
+아 근데 <sub></sub>  
 전에 인터넷에서 어떤 글을 <sub>Oh, but what I saw on the Internet before</sub>  
 봤었냐면 <sub></sub>  
 정확하게 기억은 안 나는데 <sub>I don't remember exactly</sub>  
@@ -724,9 +717,6 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 
 **태웅:** 좀 <sub>A little</sub>
 
-## Part 5: 한 끼 쏘기와 아이스크림 이야기 (Treating a meal and the ice cream story)
-`18:32–21:50` · 656 hangul
-
 **디디:** 그러면 태웅쌤은 소개팅을 해서 <sub>Then will you go on a blind date</sub>  
 마음에 들든 마음에 안 들든 한 끼를 쏘실 건가요? <sub>Whether you like it or not Are you going to treat me to a meal?</sub>
 
@@ -823,8 +813,8 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 
 **태웅:** 어 좋죠 <sub>Good</sub>
 
-## Part 6: 소개팅이 어려운 이유와 맞는 사람 (Why it's hard, and the right person)
-`21:50–26:45` · 899 hangul
+## Part 3: 나와 맞는 사람 찾기 (Finding the right person)
+`21:50–30:35` · 1638 hangul
 
 **디디:** 근데 소개팅이 진짜 성공하기 어려운 거 같은 게 <sub>I think it's hard to succeed in a blind date</sub>  
 주변에 진짜 많이 나가는데 <sub>There are people around me who go out a lot</sub>  
@@ -942,12 +932,8 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 일수도 되지 않을까? <sub>Maybe</sub>
 
 **태웅:** 뭐 그렇게 얘기할 수 있죠 <sub>Well, you could say that</sub>  
-그 사람만의 매력이 있는 <sub>That person's own charm Yes</sub>
-
-## Part 7: 디디가 생각하는 맞는 사람 (Didi's idea of the right person)
-`26:45–30:35` · 739 hangul
-
-**태웅:** 디디님은요? <sub>What about you?</sub>
+그 사람만의 매력이 있는 <sub>That person's own charm Yes</sub>  
+디디님은요? <sub>What about you?</sub>
 
 **디디:** 맞는 사람? <sub>The right person? Yes</sub>  
 많은 사람들이 하는 이야기인데 <sub>This is something a lot of people say</sub>  
@@ -1048,8 +1034,8 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 굉장히 중요한 포인트였네요 <sub>It was a very important point</sub>  
 또 정떨어진다 하는 거 있나? 정떨어진다 <sub>Is there anything else to lose affection? Lose affection</sub>
 
-## Part 8: SNS를 많이 하는 사람 (People who post a lot on social media)
-`30:35–34:44` · 786 hangul
+## Part 4: SNS, 꽈팅, 요즘의 만남 (Social media, group dates, and meeting people today)
+`30:35–41:36` · 2330 hangul
 
 **디디:** 인스타그램 많이 하는 사람은 어때요? <sub>How about people who do a lot of Instagram?</sub>
 
@@ -1137,12 +1123,8 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 **디디:** 외로운 사람이구나 <sub>You're a lonely person</sub>
 
 **태웅:** 좀 그런 느낌이 있어요 <sub>Oh, it feels like that Hmm</sub>  
-자기가 마음속에 좀 아쉬운 구석이 있나 이렇게 <sub>Is there something in your heart Is there something you want to do? Like this Hmm</sub>
-
-## Part 9: 디디의 꽈팅과 태웅의 누나 이야기 (Didi's group dates and Taewoong's sister)
-`34:44–39:05` · 957 hangul
-
-**태웅:** 소개팅 얘기하다가 소개팅 해본 적 있어요? <sub>We were talking about a blind date Have you ever been on a blind date?</sub>
+자기가 마음속에 좀 아쉬운 구석이 있나 이렇게 <sub>Is there something in your heart Is there something you want to do? Like this Hmm</sub>  
+소개팅 얘기하다가 소개팅 해본 적 있어요? <sub>We were talking about a blind date Have you ever been on a blind date?</sub>
 
 **디디:** 있어요 <sub>Yes</sub>
 
@@ -1246,9 +1228,6 @@ https://www.youtube.com/watch?v=jIyPcb6S6TI
 안 좋게 생각하는 게 절대 아니고 <sub>I don't think bad about people on blind dates</sub>  
 그 이후로 계속 그런 식으로 생각을 해서 <sub>I think it's because I've been thinking like that since then</sub>  
 지금의 제가 있는 게 아닐까 생각이 드네요 <sub>I think I'm where I am now</sub>
-
-## Part 10: 요즘의 만남과 다음 주 주제 (Meeting people today and next week's topic)
-`39:05–41:36` · 587 hangul
 
 **디디:** 또 다른 얘기가 되긴 하는데 <sub>It's a different story</sub>  
 요즘 결혼도 많이 안 하고 <sub>I don't get married a lot these days</sub>  

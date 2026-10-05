@@ -2,8 +2,8 @@
 
 https://www.youtube.com/watch?v=7DyxPsjhWDg
 
-## Part 1: 공지와 인스타 아이디 질문 (Announcement and the Instagram ID question)
-`00:01–04:28` · 1030 hangul
+## Part 1: 공지와 낯가림 극복 팁 (Announcement and tips for getting over shyness)
+`00:01–10:00` · 2290 hangul
 
 **디디:** 디디와 정태웅의 한국생활 요모조모 <sub>Yomojomo of Didi and Jeong Tae-woong's Life in Korea</sub>  
 안녕하세요 디디입니다. <sub>Hello, this is Didi.</sub>
@@ -108,9 +108,6 @@ https://www.youtube.com/watch?v=7DyxPsjhWDg
 **태웅:** 저는 갑자기 질문이 있다고 해서 놀랐잖아요. <sub>I was surprised when you suddenly said you had a question.</sub>
 
 **디디:** 매주 이렇게 당황을 시키고 있습니다. <sub>You're catching me off guard like this every week.</sub>
-
-## Part 2: 낯가림이란? 극복하는 팁 (What is shyness? Tips for getting over it)
-`04:28–10:00` · 1260 hangul
 
 **태웅:** 그러면 이제 다시 본격적으로 요모조모 테마 소개해주세요. <sub>So now let's get back to introducing the Yomojomo theme properly.</sub>  
 이번주 주제는 뭐죠? <sub>What's this week's topic?</sub>
@@ -274,8 +271,8 @@ I'm shy with strangers 라고 나오거든요. <sub>it comes out as "I'm shy wit
 
 **태웅?:** 다른 사람은 날 그렇게 생각하지 않는다. <sub>Other people don't think of me that way.</sub>
 
-## Part 3: 낯가림이 없어진 이유와 장점 (How shyness went away, and its upsides)
-`10:00–13:18` · 755 hangul
+## Part 2: 낯가림의 장점과 낯가리는 사람과 대화하기 (The upsides of shyness and talking with shy people)
+`10:00–19:15` · 2133 hangul
 
 **디디:** 일본어를 공부할 때 표현이 하나 있어서 배우게 됐는데 팔방미인 이라는 말이 있잖아요. <sub>When I was studying Japanese, I learned an expression—you know the term "jack of all trades"?</sub>  
 팔방미인 증후군 이라는 그런 단어가 있더라구요. 나는 너무 완벽하려고 대하다 보면 거기에 스트레스 받고 잘 그런 본 모습이 안 나오고 <sub>There's something called "jack of all trades syndrome," and when I try to be too perfect, I get stressed about it and my true self doesn't come out, so I've been thinking lately that I should build up the courage to let myself be a mess.</sub>  
@@ -327,12 +324,8 @@ He knows what he does. 이런 표현 있잖아요. <sub>That person knows what k
 **디디:** 왜요? <sub>Why?</sub>
 
 **태웅:** 좋은 의미로. <sub>In a good way.</sub>  
-다 관찰당하고 있어요. <sub>Everyone's being observed.</sub>
-
-## Part 4: 낯가림이 심한 사람과 대화하기 (Talking with very shy people)
-`13:18–19:15` · 1378 hangul
-
-**태웅:** 그러면 디디님은 본인이 낯가림이 있는 거랑 별개로 또 자기 말고 낯가림이 있는 사람들을 만나본 적이 있을 거 아니에요? <sub>So Didi, aside from whether you have shyness yourself, you must have met people who are shy before, right?</sub>
+다 관찰당하고 있어요. <sub>Everyone's being observed.</sub>  
+그러면 디디님은 본인이 낯가림이 있는 거랑 별개로 또 자기 말고 낯가림이 있는 사람들을 만나본 적이 있을 거 아니에요? <sub>So Didi, aside from whether you have shyness yourself, you must have met people who are shy before, right?</sub>
 
 **디디:** 네. <sub>Yes.</sub>
 
@@ -494,8 +487,8 @@ He knows what he does. 이런 표현 있잖아요. <sub>That person knows what k
 
 **태웅:** 다 좋습니다. 저의 학생분들과의 얘기는. <sub>Everything is good. My conversations with my students.</sub>
 
-## Part 5: 새 코너: 말로 하는 미니게임 (New segment: a word mini game)
-`19:15–23:08` · 929 hangul
+## Part 3: 새 코너: 첫 번째 스무고개 (New segment: Twenty Questions, round one)
+`19:15–28:11` · 1912 hangul
 
 **디디:** 이렇게 낯가림에 대해서 오늘은 좀 얘기해봤는데 <sub>So we talked a bit about shyness today,</sub>  
 이제부터 요모조모를 코너를 하나 더 추가해서 만들어보려고 합니다. <sub>and now I'm going to add one more segment to Yomojomo and create it.</sub>  
@@ -598,9 +591,6 @@ He knows what he does. 이런 표현 있잖아요. <sub>That person knows what k
 **태웅:** 한국어 전문가이기 때문에. <sub>Because I'm a Korean language expert.</sub>
 
 **디디:** 알겠습니다. 좋습니다. <sub>I understand. That sounds good.</sub>
-
-## Part 6: 첫 번째 스무고개 (Twenty Questions, round one)
-`23:08–28:11` · 983 hangul
 
 **태웅:** 네. 저는 생각했어요. <sub>Yes. I was thinking...</sub>
 
@@ -838,7 +828,7 @@ He knows what he does. 이런 표현 있잖아요. <sub>That person knows what k
 **디디:** 연필인가? 약간 이런 생각 했었다가 <sub>I was thinking, is it a pencil? Something like that,</sub>  
 제가 1포인트 가져갔고요. <sub>and I got 1 point.</sub>
 
-## Part 7: 두 번째 스무고개와 마무리 (Twenty Questions, round two, and goodbye)
+## Part 4: 두 번째 스무고개와 마무리 (Twenty Questions, round two, and goodbye)
 `28:11–34:40` · 1199 hangul
 
 **디디:** 저도 한번 문제를 내보겠습니다. <sub>Let me try asking a question too.</sub>

@@ -2,8 +2,8 @@
 
 https://www.youtube.com/watch?v=bwaHMZ4mVTE
 
-## Part 1: 오프닝: 오늘의 주제는 친구 (Opening: today's topic is friends)
-`00:00–03:00` · 735 hangul
+## Part 1: 친구란? 디디와 태웅은 친구일까 (What is a friend? Are Didi and Taewoong friends?)
+`00:00–10:28` · 2429 hangul
 
 **디디:** 디디와 정태웅의 한국생활 요모조모 <sub>Yomojomo of Korean Life with Didi and Jeong Tae-woong</sub>  
 안녕하세요, 디디입니다 <sub>Hello, this is Didi.</sub>
@@ -92,9 +92,6 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 
 **태웅:** 좋습니다 <sub>So what do you think a friend is, Teacher Tae-woong?</sub>
 
-## Part 2: 친구란 무엇일까? (What is a friend?)
-`03:00–06:41` · 848 hangul
-
 **디디:** 태웅쌤이 생각하는 친구란 어떤 건가요? <sub>In my opinion, a friend is...</sub>
 
 **태웅:** 제 생각에는요 친구란... <sub>someone you can contact without any particular reason?</sub>  
@@ -167,9 +164,6 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 대부분 많은 시간을 보냈거나, 오랜 시간을 보냈거나 <sub>Most of them either spent a lot of time together or spent a long time together</sub>  
 아니면 짧은 기간 안에 많은 경험을 같이 나눴거나 <sub>Or they shared a lot of experiences in a short period</sub>  
 그런 친구들이 많은 것 같네요 대부분인 것 같네요 <sub>It seems like most of my friends are like that</sub>
-
-## Part 3: 디디와 태웅은 친구일까? (Are Didi and Taewoong friends?)
-`06:41–10:28` · 846 hangul
 
 **디디:** 그렇군요 그렇다면 아까 방금 얘기 나왔던 <sub>I see, so then about the question that just came up earlier</sub>  
 '디디와 태웅은 친구일까 아닐까' 문제 <sub>'Are Didi and Tae-woong friends or not'</sub>  
@@ -254,8 +248,8 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 
 **태웅:** 네 <sub>Yes.</sub>
 
-## Part 4: 선생님과 학생은 친구일까? (Can teachers and students be friends?)
-`10:28–14:55` · 970 hangul
+## Part 2: 선생님과 학생, 유튜버와 구독자 (Teachers and students, YouTubers and subscribers)
+`10:28–21:34` · 2419 hangul
 
 **디디:** 그럼 태웅쌤은 수업도 가끔 하시거나 <sub>So Teacher Tae-woong, you sometimes teach classes too,</sub>  
 구독자분들을 만날 수도 있고 하잖아요 <sub>and you can meet subscribers and things like that, right?</sub>
@@ -373,12 +367,8 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 **디디?:** 그럴 수밖에 없어요 <sub>There's no way around it.</sub>  
 하지만 어떻게 그래요... <sub>But how can it be like that...</sub>
 
-**태웅:** 그렇죠 쉽지 않죠 <sub>Right, it's not easy, is it?</sub>
-
-## Part 5: 유튜버와 구독자, 그리고 친구 무리 (YouTubers, subscribers, and friend groups)
-`14:55–21:34` · 1449 hangul
-
-**태웅:** 저는 그래서 좀 분리를 많이 하려고 해요 <sub>So I try to separate things a lot.</sub>  
+**태웅:** 그렇죠 쉽지 않죠 <sub>Right, it's not easy, is it?</sub>  
+저는 그래서 좀 분리를 많이 하려고 해요 <sub>So I try to separate things a lot.</sub>  
 저는 막 Comprehensible Input Korean 라이브 할 때도 <sub>Even when I do Comprehensible Input Korean live,</sub>  
 그런 말 한 적 있거든요 <sub>I've said things like that before.</sub>  
 '태웅쌤 한국에 가면 부산에 가면 맛있는 거 사줄게요 <sub>'Teacher Tae-woong, if you go to Korea, if you go to Busan, I'll buy you something delicious,</sub>  
@@ -532,8 +522,8 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 
 **태웅:** 그런 것 같아요 <sub>That seems to be it.</sub>
 
-## Part 6: 친한 친구일수록 예의 (The closer the friend, the more manners matter)
-`21:34–25:26` · 846 hangul
+## Part 3: 친한 친구의 예의, 어떤 사람과 친구가 될까 (Manners with close friends, and who we befriend)
+`21:34–30:17` · 1863 hangul
 
 **태웅:** 친구가 소중하냐고 물어봤잖아요 <sub>You asked if friends are precious,</sub>
 
@@ -608,12 +598,8 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 **태웅?:** 네네 근데 꼭 그래야 우리가 진짜 편한 친구지 <sub>Yeah, but some people are like "only if we do this are we really comfortable friends,"</sub>  
 이렇게 하는 사람들도 있잖아요 <sub>you know?</sub>
 
-**디디:** 근데 뭐 사람이 다양하니까 <sub>But well, people are diverse,</sub>
-
-## Part 7: 어떤 사람과 친구가 될까? (Who do we become friends with?)
-`25:26–30:17` · 1017 hangul
-
-**디디:** 그러면 태웅쌤은 어떤 분들이랑 쉽게 친구가 되는 것 같아요? <sub>so Tae-woong, what kind of people do you find it easy to become friends with?</sub>  
+**디디:** 근데 뭐 사람이 다양하니까 <sub>But well, people are diverse,</sub>  
+그러면 태웅쌤은 어떤 분들이랑 쉽게 친구가 되는 것 같아요? <sub>so Tae-woong, what kind of people do you find it easy to become friends with?</sub>  
 그런 특징이 있을까요? 뭐 아까 얘기했던 <sub>Is there a characteristic like that? Like what you mentioned earlier,</sub>  
 그런 기본적인 예의가 잘 맞는 사람? <sub>people who match well with basic courtesy?</sub>
 
@@ -724,7 +710,7 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 
 **태웅:** 그쵸 더 안 만나고 싶죠 <sub>Yeah, you don't want to meet them again.</sub>
 
-## Part 8: 고민 상담과 내 편 (Talking about worries and taking sides)
+## Part 4: 고민 상담과 내 편 (Talking about worries and taking sides)
 `30:17–36:23` · 1360 hangul
 
 **디디:** 아 그리고 저는 고민 같은 거를 털어놨을 때 <sub>Oh, and when I open up about my worries,</sub>  
@@ -878,8 +864,8 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 
 **태웅:** 좋습니다 <sub>Sounds good</sub>
 
-## Part 9: 우정 테스트: 생일과 음식 (Friendship test: birthdays and food)
-`36:23–41:30` · 1166 hangul
+## Part 5: 우정 테스트와 마무리 (Friendship test and closing)
+`36:23–46:17` · 2127 hangul
 
 **디디:** 그럼 이번 주 퀴즈도 드려야 되는데 <sub>So I should give you this week's quiz too</sub>  
 이번 주는 그러면 퀴즈 없이 <sub>So this week, then, without a quiz,</sub>  
@@ -1072,12 +1058,8 @@ https://www.youtube.com/watch?v=bwaHMZ4mVTE
 
 **태웅:** 정답으로 쳐야 돼요 <sub>It should count as correct.</sub>
 
-**디디:** 3대 2이고요 다음 <sub>It's 3 to 2, and next.</sub>
-
-## Part 10: 우정 테스트 결과와 마무리 (Friendship test results and closing)
-`41:30–46:17` · 961 hangul
-
-**디디:** 제가 제일 좋아하는 계절 <sub>My favorite season</sub>  
+**디디:** 3대 2이고요 다음 <sub>It's 3 to 2, and next.</sub>  
+제가 제일 좋아하는 계절 <sub>My favorite season</sub>  
 그리고 그 이유는 뭘까요? <sub>And what's the reason for that?</sub>
 
 **태웅:** 이유까지는 어려우니까 제일 좋아하는 계절은? <sub>That's hard to explain the reason, so what's your favorite season?</sub>  

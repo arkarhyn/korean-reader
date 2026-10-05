@@ -1,4 +1,4 @@
-# part 1 | 공지와 인스타 아이디 질문 | Announcement and the Instagram ID question
+# part 1 | 공지와 낯가림 극복 팁 | Announcement and tips for getting over shyness
 0-1 디디
 2 태웅
 3-4 디디
@@ -36,7 +36,6 @@
 64 디디
 65 태웅
 66 디디
-# part 2 | 낯가림이란? 극복하는 팁 | What is shyness? Tips for getting over it
 67-68 태웅
 69-71 디디
 72 태웅
@@ -99,7 +98,7 @@
 164 태웅?
 165 디디?
 166 태웅?
-# part 3 | 낯가림이 없어진 이유와 장점 | How shyness went away, and its upsides
+# part 2 | 낯가림의 장점과 낯가리는 사람과 대화하기 | The upsides of shyness and talking with shy people
 167-169 디디
 170 태웅
 171-172 디디
@@ -118,7 +117,6 @@
 197 태웅
 198 디디
 199-200 태웅
-# part 4 | 낯가림이 심한 사람과 대화하기 | Talking with very shy people
 201 태웅
 202 디디
 203 태웅
@@ -189,7 +187,7 @@
 291 태웅
 292 디디
 293 태웅
-# part 5 | 새 코너: 말로 하는 미니게임 | New segment: a word mini game
+# part 3 | 새 코너: 첫 번째 스무고개 | New segment: Twenty Questions, round one
 294-305 디디
 306 태웅
 307-309 디디
@@ -227,7 +225,6 @@
 356 디디
 357 태웅
 358 디디
-# part 6 | 첫 번째 스무고개 | Twenty Questions, round one
 359 태웅
 360-361 디디
 362 태웅
@@ -326,7 +323,7 @@
 492-493 디디
 494 태웅
 495-496 디디
-# part 7 | 두 번째 스무고개와 마무리 | Twenty Questions, round two, and goodbye
+# part 4 | 두 번째 스무고개와 마무리 | Twenty Questions, round two, and goodbye
 497 디디
 498-499 태웅
 500 디디

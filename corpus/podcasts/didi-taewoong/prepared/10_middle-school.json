@@ -1,0 +1,6962 @@
+{
+ "id": "k9jjH1uTUK0",
+ "title": "Natural Korean Conversation Podcast | 한국생활 요모조모 ♯10 중학교 (Middle School 📚)",
+ "url": "https://www.youtube.com/watch?v=k9jjH1uTUK0",
+ "upload_date": "20250430",
+ "duration_s": 2074,
+ "order": 10,
+ "show_no": 10,
+ "sources": {
+  "ko": "manual",
+  "en": "manual"
+ },
+ "speakers": [
+  "둘",
+  "디디",
+  "태웅"
+ ],
+ "parts": [
+  {
+   "part": 1,
+   "title_ko": "사춘기와 디디의 장난",
+   "title_en": "Puberty and Didi's pranks",
+   "start_ms": 1000,
+   "end_ms": 497000,
+   "hangul_chars": 1660,
+   "turns": [
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1000,
+       "end_ms": 4000,
+       "ko": "디디와 정태웅의 한국생활 요모조모",
+       "en": "Didi and Jeong Tae-woong's Yomojomo of Korean Life"
+      },
+      {
+       "start_ms": 10000,
+       "end_ms": 12000,
+       "ko": "안녕하세요 디디입니다.",
+       "en": "Hello, this is Didi."
+      }
+     ],
+     "start_ms": 1000,
+     "end_ms": 12000,
+     "ko": "디디와 정태웅의 한국생활 요모조모\n안녕하세요 디디입니다.",
+     "en": "Didi and Jeong Tae-woong's Yomojomo of Korean Life Hello, this is Didi."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 12000,
+       "end_ms": 14000,
+       "ko": "안녕하세요 정태웅입니다.",
+       "en": "Hello, this is Jeong Tae-woong."
+      }
+     ],
+     "start_ms": 12000,
+     "end_ms": 14000,
+     "ko": "안녕하세요 정태웅입니다.",
+     "en": "Hello, this is Jeong Tae-woong."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 14000,
+       "end_ms": 20000,
+       "ko": "한국생활 요모조모는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다.",
+       "en": "Yomojomo of Korean Life is a podcast where two people living in Korea talk about the various aspects of Korean life."
+      },
+      {
+       "start_ms": 20000,
+       "end_ms": 26000,
+       "ko": "이번 주가 열 번째 에피소드고 이번 주제는 뭐죠?",
+       "en": "This is the tenth episode this week, and what's the topic this time?"
+      }
+     ],
+     "start_ms": 14000,
+     "end_ms": 26000,
+     "ko": "한국생활 요모조모는 한국에서 살아가는 두 사람이 한국생활의 요모조모를 이야기하는 팟캐스트입니다.\n이번 주가 열 번째 에피소드고 이번 주제는 뭐죠?",
+     "en": "Yomojomo of Korean Life is a podcast where two people living in Korea talk about the various aspects of Korean life. This is the tenth episode this week, and what's the topic this time?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 26000,
+       "end_ms": 30000,
+       "ko": "이번 열 번째 주제는 중학교입니다.",
+       "en": "This tenth episode's topic is middle school."
+      }
+     ],
+     "start_ms": 26000,
+     "end_ms": 30000,
+     "ko": "이번 열 번째 주제는 중학교입니다.",
+     "en": "This tenth episode's topic is middle school."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 30000,
+       "end_ms": 34000,
+       "ko": "태웅쌤은 중학교 하면 어떤 게 떠올라요?",
+       "en": "Teacher Tae-woong, what comes to mind when you think of middle school?"
+      }
+     ],
+     "start_ms": 30000,
+     "end_ms": 34000,
+     "ko": "태웅쌤은 중학교 하면 어떤 게 떠올라요?",
+     "en": "Teacher Tae-woong, what comes to mind when you think of middle school?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 34000,
+       "end_ms": 40000,
+       "ko": "중학교 때도 초등학교 때와 마찬가지로",
+       "en": "When I think of middle school, just like with elementary school,"
+      },
+      {
+       "start_ms": 40000,
+       "end_ms": 42000,
+       "ko": "언제 커요?",
+       "en": "When do you grow up?"
+      },
+      {
+       "start_ms": 42000,
+       "end_ms": 44000,
+       "ko": "버티기",
+       "en": "Hanging in there."
+      }
+     ],
+     "start_ms": 34000,
+     "end_ms": 44000,
+     "ko": "중학교 때도 초등학교 때와 마찬가지로\n언제 커요?\n버티기",
+     "en": "When I think of middle school, just like with elementary school, When do you grow up? Hanging in there."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 44000,
+       "end_ms": 46000,
+       "ko": "버티기",
+       "en": "Hanging in there."
+      }
+     ],
+     "start_ms": 44000,
+     "end_ms": 46000,
+     "ko": "버티기",
+     "en": "Hanging in there."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 46000,
+       "end_ms": 55000,
+       "ko": "참고로 지난 시간에는 저희가 사실 초등학교에 대한 얘기보다는 초등학교 시절에 저희 얘기를 많이 했잖아요?",
+       "en": "By the way, last time we actually talked more about our own elementary school experiences rather than elementary school itself, right?"
+      },
+      {
+       "start_ms": 56000,
+       "end_ms": 63000,
+       "ko": "근데 그건 사실 기억이 많이 안 나는 부분이 많아서 어쩔 수 없었던 것 같고",
+       "en": "But I think that was unavoidable because there are a lot of things I don't remember well,"
+      },
+      {
+       "start_ms": 63000,
+       "end_ms": 72000,
+       "ko": "이번 시간에는 중학교 안에서 일어난 일들을 중심으로 최대한 이야기해보겠습니다.",
+       "en": "So this time I'll try to talk as much as possible focusing on things that happened within middle school."
+      },
+      {
+       "start_ms": 74000,
+       "end_ms": 79000,
+       "ko": "디디님부터 얘기해주실래요? 중학교 어떠셨는지?",
+       "en": "Would you like to start, Didi? How was middle school for you?"
+      }
+     ],
+     "start_ms": 46000,
+     "end_ms": 79000,
+     "ko": "참고로 지난 시간에는 저희가 사실 초등학교에 대한 얘기보다는 초등학교 시절에 저희 얘기를 많이 했잖아요?\n근데 그건 사실 기억이 많이 안 나는 부분이 많아서 어쩔 수 없었던 것 같고\n이번 시간에는 중학교 안에서 일어난 일들을 중심으로 최대한 이야기해보겠습니다.\n디디님부터 얘기해주실래요? 중학교 어떠셨는지?",
+     "en": "By the way, last time we actually talked more about our own elementary school experiences rather than elementary school itself, right? But I think that was unavoidable because there are a lot of things I don't remember well, So this time I'll try to talk as much as possible focusing on things that happened within middle school. Would you like to start, Didi? How was middle school for you?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 79000,
+       "end_ms": 83000,
+       "ko": "저는 중학교 하면 생각나는 게 흑역사",
+       "en": "When I think of middle school, what comes to mind is dark history."
+      }
+     ],
+     "start_ms": 79000,
+     "end_ms": 83000,
+     "ko": "저는 중학교 하면 생각나는 게 흑역사",
+     "en": "When I think of middle school, what comes to mind is dark history."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 83000,
+       "end_ms": 84000,
+       "ko": "흑역사?",
+       "en": "Dark history?"
+      }
+     ],
+     "start_ms": 83000,
+     "end_ms": 84000,
+     "ko": "흑역사?",
+     "en": "Dark history?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 84000,
+       "end_ms": 86000,
+       "ko": "흑역사밖에 생각이 안 나요",
+       "en": "I can only think of dark history."
+      }
+     ],
+     "start_ms": 84000,
+     "end_ms": 86000,
+     "ko": "흑역사밖에 생각이 안 나요",
+     "en": "I can only think of dark history."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 86000,
+       "end_ms": 87000,
+       "ko": "왜요?",
+       "en": "Why?"
+      }
+     ],
+     "start_ms": 86000,
+     "end_ms": 87000,
+     "ko": "왜요?",
+     "en": "Why?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 87000,
+       "end_ms": 92000,
+       "ko": "뭔가 중학교 시절을 지울 수 있다면서요? 지우고 싶어요",
+       "en": "If I could erase my middle school years, I would want to erase them."
+      }
+     ],
+     "start_ms": 87000,
+     "end_ms": 92000,
+     "ko": "뭔가 중학교 시절을 지울 수 있다면서요? 지우고 싶어요",
+     "en": "If I could erase my middle school years, I would want to erase them."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 92000,
+       "end_ms": 93000,
+       "ko": "왜요?",
+       "en": "Why?"
+      }
+     ],
+     "start_ms": 92000,
+     "end_ms": 93000,
+     "ko": "왜요?",
+     "en": "Why?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 93000,
+       "end_ms": 105000,
+       "ko": "중학교라고 하면 인터내셔널 에이지로 12살에서 14살? 13살에서 15살? 그 정도인데",
+       "en": "Middle school is, in international age, from 12 to 14? Or 13 to 15? Around that range,"
+      },
+      {
+       "start_ms": 105000,
+       "end_ms": 108000,
+       "ko": "사춘기 시절이잖아요? 질풍노도의 시기",
+       "en": "It's the puberty period, right? The stormy period."
+      }
+     ],
+     "start_ms": 93000,
+     "end_ms": 108000,
+     "ko": "중학교라고 하면 인터내셔널 에이지로 12살에서 14살? 13살에서 15살? 그 정도인데\n사춘기 시절이잖아요? 질풍노도의 시기",
+     "en": "Middle school is, in international age, from 12 to 14? Or 13 to 15? Around that range, It's the puberty period, right? The stormy period."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 108000,
+       "end_ms": 111000,
+       "ko": "아 맞네",
+       "en": "Oh, that's right."
+      }
+     ],
+     "start_ms": 108000,
+     "end_ms": 111000,
+     "ko": "아 맞네",
+     "en": "Oh, that's right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 111000,
+       "end_ms": 119000,
+       "ko": "부모님한테 반항도 하고 해야 되는 규칙도 어기고 그랬던 시절?",
+       "en": "When you rebelled against your parents and broke rules that you were supposed to follow?"
+      },
+      {
+       "start_ms": 119000,
+       "end_ms": 124000,
+       "ko": "그래서 저는 지우고 싶은 기억이 좀 많아요",
+       "en": "So I have quite a few memories I'd like to erase."
+      }
+     ],
+     "start_ms": 111000,
+     "end_ms": 124000,
+     "ko": "부모님한테 반항도 하고 해야 되는 규칙도 어기고 그랬던 시절?\n그래서 저는 지우고 싶은 기억이 좀 많아요",
+     "en": "When you rebelled against your parents and broke rules that you were supposed to follow? So I have quite a few memories I'd like to erase."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 124000,
+       "end_ms": 126000,
+       "ko": "생각해보니 저도 그렇네요",
+       "en": "Now that I think about it, I'm the same way."
+      }
+     ],
+     "start_ms": 124000,
+     "end_ms": 126000,
+     "ko": "생각해보니 저도 그렇네요",
+     "en": "Now that I think about it, I'm the same way."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 126000,
+       "end_ms": 127000,
+       "ko": "그래요?",
+       "en": "Really?"
+      }
+     ],
+     "start_ms": 126000,
+     "end_ms": 127000,
+     "ko": "그래요?",
+     "en": "Really?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 127000,
+       "end_ms": 132000,
+       "ko": "괜히 한국에 중2병이라는 단어가 있는 게 아닌 것 같아요",
+       "en": "It makes sense that Korea has a word called \"middle school second-year syndrome.\""
+      }
+     ],
+     "start_ms": 127000,
+     "end_ms": 132000,
+     "ko": "괜히 한국에 중2병이라는 단어가 있는 게 아닌 것 같아요",
+     "en": "It makes sense that Korea has a word called \"middle school second-year syndrome.\""
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 132000,
+       "end_ms": 133000,
+       "ko": "그게 있죠",
+       "en": "That exists, right."
+      }
+     ],
+     "start_ms": 132000,
+     "end_ms": 133000,
+     "ko": "그게 있죠",
+     "en": "That exists, right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 133000,
+       "end_ms": 139000,
+       "ko": "중2병, 중학교 2학년 때 걸리는 아이들의 마음의 병이랄까요?",
+       "en": "Middle school second-year syndrome, a kind of mental illness that children get in their second year of middle school?"
+      },
+      {
+       "start_ms": 140000,
+       "end_ms": 147000,
+       "ko": "반항하고 세상에서 내가 제일 멋지다 생각에 빠지고",
+       "en": "Being rebellious and getting caught up in the idea that you're the coolest person in the world,"
+      },
+      {
+       "start_ms": 147000,
+       "end_ms": 152000,
+       "ko": "그런 시기가 전 세계적으로 있지 않을까",
+       "en": "I wonder if that kind of period exists worldwide."
+      }
+     ],
+     "start_ms": 133000,
+     "end_ms": 152000,
+     "ko": "중2병, 중학교 2학년 때 걸리는 아이들의 마음의 병이랄까요?\n반항하고 세상에서 내가 제일 멋지다 생각에 빠지고\n그런 시기가 전 세계적으로 있지 않을까",
+     "en": "Middle school second-year syndrome, a kind of mental illness that children get in their second year of middle school? Being rebellious and getting caught up in the idea that you're the coolest person in the world, I wonder if that kind of period exists worldwide."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 152000,
+       "end_ms": 153000,
+       "ko": "그렇겠죠",
+       "en": "I'm sure it does."
+      },
+      {
+       "start_ms": 153000,
+       "end_ms": 156000,
+       "ko": "태용쌤은 사춘기는 좀 있었던 편인 것 같아요?",
+       "en": "Teacher Tae-woong, it seems like you went through puberty quite a bit?"
+      }
+     ],
+     "start_ms": 152000,
+     "end_ms": 156000,
+     "ko": "그렇겠죠\n태용쌤은 사춘기는 좀 있었던 편인 것 같아요?",
+     "en": "I'm sure it does. Teacher Tae-woong, it seems like you went through puberty quite a bit?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 156000,
+       "end_ms": 158000,
+       "ko": "있었어요",
+       "en": "I did."
+      }
+     ],
+     "start_ms": 156000,
+     "end_ms": 158000,
+     "ko": "있었어요",
+     "en": "I did."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 158000,
+       "end_ms": 161000,
+       "ko": "어떤 증상이 있었나요?",
+       "en": "What kind of symptoms did you have?"
+      }
+     ],
+     "start_ms": 158000,
+     "end_ms": 161000,
+     "ko": "어떤 증상이 있었나요?",
+     "en": "What kind of symptoms did you have?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 164000,
+       "end_ms": 166000,
+       "ko": "화가 많이 나고",
+       "en": "I got angry a lot."
+      }
+     ],
+     "start_ms": 164000,
+     "end_ms": 166000,
+     "ko": "화가 많이 나고",
+     "en": "I got angry a lot."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 167000,
+       "end_ms": 169000,
+       "ko": "화가 많이 나고",
+       "en": "Got angry a lot."
+      }
+     ],
+     "start_ms": 167000,
+     "end_ms": 169000,
+     "ko": "화가 많이 나고",
+     "en": "Got angry a lot."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 169000,
+       "end_ms": 173000,
+       "ko": "네 화가 많이 나고 우울하기도 하고",
+       "en": "Yes, I got angry a lot and also felt depressed."
+      },
+      {
+       "start_ms": 173000,
+       "end_ms": 177000,
+       "ko": "대체로 들쭉날쭉했던 것 같아요",
+       "en": "Overall it seemed like I was very up and down."
+      },
+      {
+       "start_ms": 177000,
+       "end_ms": 184000,
+       "ko": "답답하고 정확한 이유가 없는데 억울하고",
+       "en": "Frustrated and upset for no clear reason,"
+      },
+      {
+       "start_ms": 184000,
+       "end_ms": 187000,
+       "ko": "정말 호르몬 변화를 느꼈네요",
+       "en": "I really felt the hormonal changes."
+      }
+     ],
+     "start_ms": 169000,
+     "end_ms": 187000,
+     "ko": "네 화가 많이 나고 우울하기도 하고\n대체로 들쭉날쭉했던 것 같아요\n답답하고 정확한 이유가 없는데 억울하고\n정말 호르몬 변화를 느꼈네요",
+     "en": "Yes, I got angry a lot and also felt depressed. Overall it seemed like I was very up and down. Frustrated and upset for no clear reason, I really felt the hormonal changes."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 187000,
+       "end_ms": 189000,
+       "ko": "아 호르몬이 무섭습니다",
+       "en": "Oh, hormones are scary."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 187000,
+     "end_ms": 189000,
+     "ko": "아 호르몬이 무섭습니다",
+     "en": "Oh, hormones are scary."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 189000,
+       "end_ms": 191000,
+       "ko": "그랬구나",
+       "en": "I see."
+      },
+      {
+       "start_ms": 191000,
+       "end_ms": 195000,
+       "ko": "부모님한테 반항하고 이러진 않았어요? 말 안 하고?",
+       "en": "You didn't rebel against your parents or anything? Not talking to them?"
+      }
+     ],
+     "start_ms": 189000,
+     "end_ms": 195000,
+     "ko": "그랬구나\n부모님한테 반항하고 이러진 않았어요? 말 안 하고?",
+     "en": "I see. You didn't rebel against your parents or anything? Not talking to them?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 195000,
+       "end_ms": 199000,
+       "ko": "좀 그랬어요",
+       "en": "I did a bit."
+      },
+      {
+       "start_ms": 199000,
+       "end_ms": 204000,
+       "ko": "어떤 게 기억이 나냐면",
+       "en": "What I remember is,"
+      },
+      {
+       "start_ms": 204000,
+       "end_ms": 210000,
+       "ko": "제가 중학생 때 어머니께서 수학 학원에서 일을 하고 계셨거든요",
+       "en": "When I was in middle school, my mother was working at a math academy."
+      },
+      {
+       "start_ms": 210000,
+       "end_ms": 215000,
+       "ko": "수학을 가르치신 건 아닌데 학원에서 일을 하셨어요",
+       "en": "She wasn't teaching math, but she worked at the academy."
+      },
+      {
+       "start_ms": 215000,
+       "end_ms": 218000,
+       "ko": "근데 제가 그 학원에 다녔던 말이에요",
+       "en": "And I attended that academy too."
+      },
+      {
+       "start_ms": 218000,
+       "end_ms": 225000,
+       "ko": "근데 거기서 제가 되게 좋아하고 존경하고 잘 따르는 남자 선생님이 계셨는데",
+       "en": "But there was a male teacher there that I really liked, respected, and followed closely,"
+      },
+      {
+       "start_ms": 225000,
+       "end_ms": 229000,
+       "ko": "그 선생님이 되게 인자하신 분이셨는데",
+       "en": "And that teacher was a very kind person,"
+      },
+      {
+       "start_ms": 229000,
+       "end_ms": 238000,
+       "ko": "엄마가 선생님께 제가 사춘기라는 얘기를 하셨는지",
+       "en": "I wonder if mom told the teacher that I was going through puberty,"
+      },
+      {
+       "start_ms": 238000,
+       "end_ms": 241000,
+       "ko": "그 선생님이 웃는 얼굴로",
+       "en": "That teacher, with a smiling face,"
+      },
+      {
+       "start_ms": 241000,
+       "end_ms": 246000,
+       "ko": "태용아 요새 엄마한테 너무 화내지 마",
+       "en": "Tae-woong, don't get too angry at mom these days."
+      },
+      {
+       "start_ms": 247000,
+       "end_ms": 250000,
+       "ko": "이런 말씀을 하셨거든요",
+       "en": "He said something like that."
+      }
+     ],
+     "start_ms": 195000,
+     "end_ms": 250000,
+     "ko": "좀 그랬어요\n어떤 게 기억이 나냐면\n제가 중학생 때 어머니께서 수학 학원에서 일을 하고 계셨거든요\n수학을 가르치신 건 아닌데 학원에서 일을 하셨어요\n근데 제가 그 학원에 다녔던 말이에요\n근데 거기서 제가 되게 좋아하고 존경하고 잘 따르는 남자 선생님이 계셨는데\n그 선생님이 되게 인자하신 분이셨는데\n엄마가 선생님께 제가 사춘기라는 얘기를 하셨는지\n그 선생님이 웃는 얼굴로\n태용아 요새 엄마한테 너무 화내지 마\n이런 말씀을 하셨거든요",
+     "en": "I did a bit. What I remember is, When I was in middle school, my mother was working at a math academy. She wasn't teaching math, but she worked at the academy. And I attended that academy too. But there was a male teacher there that I really liked, respected, and followed closely, And that teacher was a very kind person, I wonder if mom told the teacher that I was going through puberty, That teacher, with a smiling face, Tae-woong, don't get too angry at mom these days. He said something like that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 250000,
+       "end_ms": 252000,
+       "ko": "아 그랬구나",
+       "en": "Oh, I see."
+      }
+     ],
+     "start_ms": 250000,
+     "end_ms": 252000,
+     "ko": "아 그랬구나",
+     "en": "Oh, I see."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 252000,
+       "end_ms": 254000,
+       "ko": "그때 뜨끔하게 되더라고요",
+       "en": "I felt a bit stung at that moment."
+      },
+      {
+       "start_ms": 254000,
+       "end_ms": 257000,
+       "ko": "아 내가 사춘기구나",
+       "en": "Oh, so I'm going through puberty."
+      }
+     ],
+     "start_ms": 252000,
+     "end_ms": 257000,
+     "ko": "그때 뜨끔하게 되더라고요\n아 내가 사춘기구나",
+     "en": "I felt a bit stung at that moment. Oh, so I'm going through puberty."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 257000,
+       "end_ms": 261000,
+       "ko": "그래도 착하다 그런 얘기 들었을 때",
+       "en": "Even so, when I heard things like \"you're a good person\""
+      },
+      {
+       "start_ms": 261000,
+       "end_ms": 263000,
+       "ko": "엄마한테 가서 그걸 왜 말해?",
+       "en": "I'd go to my mom and ask why she'd say that"
+      },
+      {
+       "start_ms": 263000,
+       "end_ms": 267000,
+       "ko": "이렇게까지 해야지 사춘기죠",
+       "en": "You have to go that far for it to be adolescence, right?"
+      }
+     ],
+     "start_ms": 257000,
+     "end_ms": 267000,
+     "ko": "그래도 착하다 그런 얘기 들었을 때\n엄마한테 가서 그걸 왜 말해?\n이렇게까지 해야지 사춘기죠",
+     "en": "Even so, when I heard things like \"you're a good person\" I'd go to my mom and ask why she'd say that You have to go that far for it to be adolescence, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 267000,
+       "end_ms": 270000,
+       "ko": "차마 그러진 못했던 것 같아요",
+       "en": "I don't think I was able to actually do that"
+      }
+     ],
+     "start_ms": 267000,
+     "end_ms": 270000,
+     "ko": "차마 그러진 못했던 것 같아요",
+     "en": "I don't think I was able to actually do that"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 270000,
+       "end_ms": 273000,
+       "ko": "착하네요 착한 사춘기였네",
+       "en": "You're kind, you had a well-behaved adolescence"
+      }
+     ],
+     "start_ms": 270000,
+     "end_ms": 273000,
+     "ko": "착하네요 착한 사춘기였네",
+     "en": "You're kind, you had a well-behaved adolescence"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 273000,
+       "end_ms": 277000,
+       "ko": "막 엄청 사고를 치거나 하진 않았어요",
+       "en": "I didn't cause major trouble or anything like that"
+      }
+     ],
+     "start_ms": 273000,
+     "end_ms": 277000,
+     "ko": "막 엄청 사고를 치거나 하진 않았어요",
+     "en": "I didn't cause major trouble or anything like that"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 277000,
+       "end_ms": 281000,
+       "ko": "저도 뭐 사고를 치거나 이러진 않았던 것 같아요",
+       "en": "I also don't think I caused trouble or anything like that"
+      }
+     ],
+     "start_ms": 277000,
+     "end_ms": 281000,
+     "ko": "저도 뭐 사고를 치거나 이러진 않았던 것 같아요",
+     "en": "I also don't think I caused trouble or anything like that"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 281000,
+       "end_ms": 285000,
+       "ko": "근데 왜 지우고 싶으신가요?",
+       "en": "But why do you want to erase it?"
+      }
+     ],
+     "start_ms": 281000,
+     "end_ms": 285000,
+     "ko": "근데 왜 지우고 싶으신가요?",
+     "en": "But why do you want to erase it?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 285000,
+       "end_ms": 287000,
+       "ko": "좀 짓궂었다고 해야 되나 제가?",
+       "en": "Should I say I was a bit mischievous?"
+      },
+      {
+       "start_ms": 287000,
+       "end_ms": 291000,
+       "ko": "중학교 때 좀 짓궂은 장난 같은 걸 많이 쳤어요",
+       "en": "In middle school I played a lot of mischievous pranks"
+      },
+      {
+       "start_ms": 291000,
+       "end_ms": 294000,
+       "ko": "선생님들이나",
+       "en": "On teachers and"
+      }
+     ],
+     "start_ms": 285000,
+     "end_ms": 294000,
+     "ko": "좀 짓궂었다고 해야 되나 제가?\n중학교 때 좀 짓궂은 장난 같은 걸 많이 쳤어요\n선생님들이나",
+     "en": "Should I say I was a bit mischievous? In middle school I played a lot of mischievous pranks On teachers and"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 294000,
+       "end_ms": 296000,
+       "ko": "오 무슨",
+       "en": "Oh what"
+      }
+     ],
+     "start_ms": 294000,
+     "end_ms": 296000,
+     "ko": "오 무슨",
+     "en": "Oh what"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 296000,
+       "end_ms": 298000,
+       "ko": "제가 아니었다니까요",
+       "en": "It wasn't me, I'm telling you"
+      }
+     ],
+     "start_ms": 296000,
+     "end_ms": 298000,
+     "ko": "제가 아니었다니까요",
+     "en": "It wasn't me, I'm telling you"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 299000,
+       "end_ms": 303000,
+       "ko": "우와 충격적인데?",
+       "en": "Wow, that's shocking?"
+      }
+     ],
+     "start_ms": 299000,
+     "end_ms": 303000,
+     "ko": "우와 충격적인데?",
+     "en": "Wow, that's shocking?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 303000,
+       "end_ms": 305000,
+       "ko": "그쵸",
+       "en": "Right?"
+      },
+      {
+       "start_ms": 305000,
+       "end_ms": 308000,
+       "ko": "아니 근데 뭐 심각하게 혼나거나",
+       "en": "But it wasn't like I got seriously scolded"
+      },
+      {
+       "start_ms": 308000,
+       "end_ms": 314000,
+       "ko": "심각하게 학교에서 처벌을 받거나 이런 건 아니라서",
+       "en": "Or received serious punishment at school or anything like that"
+      },
+      {
+       "start_ms": 314000,
+       "end_ms": 321000,
+       "ko": "넘어가 줄 수 있는 그런 장난들이었을 거라고 생각해요",
+       "en": "So I think those were pranks that could be overlooked"
+      },
+      {
+       "start_ms": 321000,
+       "end_ms": 325000,
+       "ko": "근데 수업 시간에 집중 안 하고 애들끼리 놀고",
+       "en": "But I didn't focus during class and played around with friends"
+      },
+      {
+       "start_ms": 325000,
+       "end_ms": 330000,
+       "ko": "약간 선생님 놀리고",
+       "en": "And kind of teased the teacher a bit"
+      },
+      {
+       "start_ms": 330000,
+       "end_ms": 333000,
+       "ko": "그랬던 기억이 있어요",
+       "en": "I have memories of doing that"
+      },
+      {
+       "start_ms": 333000,
+       "end_ms": 337000,
+       "ko": "장난치고 선생님한테",
+       "en": "Playing pranks and on the teacher"
+      }
+     ],
+     "start_ms": 303000,
+     "end_ms": 337000,
+     "ko": "그쵸\n아니 근데 뭐 심각하게 혼나거나\n심각하게 학교에서 처벌을 받거나 이런 건 아니라서\n넘어가 줄 수 있는 그런 장난들이었을 거라고 생각해요\n근데 수업 시간에 집중 안 하고 애들끼리 놀고\n약간 선생님 놀리고\n그랬던 기억이 있어요\n장난치고 선생님한테",
+     "en": "Right? But it wasn't like I got seriously scolded Or received serious punishment at school or anything like that So I think those were pranks that could be overlooked But I didn't focus during class and played around with friends And kind of teased the teacher a bit I have memories of doing that Playing pranks and on the teacher"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 337000,
+       "end_ms": 343000,
+       "ko": "그렇게만 얘기를 들으면 별거 없는 것 같은데",
+       "en": "If you just hear it that way, it doesn't sound like much"
+      },
+      {
+       "start_ms": 343000,
+       "end_ms": 345000,
+       "ko": "좀 자세히 얘기해 주세요",
+       "en": "Can you tell me in more detail?"
+      }
+     ],
+     "start_ms": 337000,
+     "end_ms": 345000,
+     "ko": "그렇게만 얘기를 들으면 별거 없는 것 같은데\n좀 자세히 얘기해 주세요",
+     "en": "If you just hear it that way, it doesn't sound like much Can you tell me in more detail?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 345000,
+       "end_ms": 349000,
+       "ko": "뭘 얘기해도 될까?",
+       "en": "What could I even talk about?"
+      },
+      {
+       "start_ms": 349000,
+       "end_ms": 352000,
+       "ko": "얘기할 만한 게 뭐가 있을까?",
+       "en": "What is there to talk about?"
+      },
+      {
+       "start_ms": 353000,
+       "end_ms": 357000,
+       "ko": "수업 시간에 선생님 욕하는 쪽지 같은 거",
+       "en": "Like notes where I cursed out the teacher during class"
+      },
+      {
+       "start_ms": 357000,
+       "end_ms": 360000,
+       "ko": "친구들이랑 주고받다가 걸려서",
+       "en": "I was passing them back and forth with friends and got caught"
+      }
+     ],
+     "start_ms": 345000,
+     "end_ms": 360000,
+     "ko": "뭘 얘기해도 될까?\n얘기할 만한 게 뭐가 있을까?\n수업 시간에 선생님 욕하는 쪽지 같은 거\n친구들이랑 주고받다가 걸려서",
+     "en": "What could I even talk about? What is there to talk about? Like notes where I cursed out the teacher during class I was passing them back and forth with friends and got caught"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 360000,
+       "end_ms": 362000,
+       "ko": "어떡해",
+       "en": "What do I do"
+      }
+     ],
+     "start_ms": 360000,
+     "end_ms": 362000,
+     "ko": "어떡해",
+     "en": "What do I do"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 362000,
+       "end_ms": 366000,
+       "ko": "교실 앞으로 나가서 맞고 그랬죠",
+       "en": "I went to the front of the classroom and got hit"
+      }
+     ],
+     "start_ms": 362000,
+     "end_ms": 366000,
+     "ko": "교실 앞으로 나가서 맞고 그랬죠",
+     "en": "I went to the front of the classroom and got hit"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 366000,
+       "end_ms": 369000,
+       "ko": "우와",
+       "en": "Wow"
+      },
+      {
+       "start_ms": 369000,
+       "end_ms": 371000,
+       "ko": "꾸러기였네 꾸러기",
+       "en": "You were a troublemaker, a real troublemaker"
+      }
+     ],
+     "start_ms": 366000,
+     "end_ms": 371000,
+     "ko": "우와\n꾸러기였네 꾸러기",
+     "en": "Wow You were a troublemaker, a real troublemaker"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 371000,
+       "end_ms": 373000,
+       "ko": "꾸러기였어요 장난꾸러기",
+       "en": "I was a troublemaker, a prankster"
+      }
+     ],
+     "start_ms": 371000,
+     "end_ms": 373000,
+     "ko": "꾸러기였어요 장난꾸러기",
+     "en": "I was a troublemaker, a prankster"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 373000,
+       "end_ms": 377000,
+       "ko": "진짜 얼마나 선생님 입장에서는 얄미웠을까요?",
+       "en": "I wonder how annoying it must have been for the teacher"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 373000,
+     "end_ms": 377000,
+     "ko": "진짜 얼마나 선생님 입장에서는 얄미웠을까요?",
+     "en": "I wonder how annoying it must have been for the teacher"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 377000,
+       "end_ms": 379000,
+       "ko": "그러니까 미웠을 거예요",
+       "en": "So they must have been annoyed"
+      },
+      {
+       "start_ms": 379000,
+       "end_ms": 381000,
+       "ko": "3년 내내 그런 건 아니고",
+       "en": "It wasn't like that for all three years"
+      },
+      {
+       "start_ms": 381000,
+       "end_ms": 385000,
+       "ko": "중1, 중2까지 그랬던 것 같아요",
+       "en": "I think it was like that through first and second year of middle school"
+      },
+      {
+       "start_ms": 385000,
+       "end_ms": 388000,
+       "ko": "이것도 친구 영향을 좀 많이 받았는데",
+       "en": "I was influenced a lot by my friends too"
+      },
+      {
+       "start_ms": 388000,
+       "end_ms": 392000,
+       "ko": "중학교 1학년 때 친구들이 짓궂은 친구들이었어요",
+       "en": "My friends in first year of middle school were mischievous kids"
+      },
+      {
+       "start_ms": 392000,
+       "end_ms": 395000,
+       "ko": "막 노는 친구들은 아니었지만",
+       "en": "Not like kids who just played around"
+      },
+      {
+       "start_ms": 395000,
+       "end_ms": 400000,
+       "ko": "장난치고 그런 거 좋아하는?",
+       "en": "Kids who liked to prank and stuff like that"
+      },
+      {
+       "start_ms": 400000,
+       "end_ms": 403000,
+       "ko": "왜 그랬지? 죄송해요 선생님 진짜",
+       "en": "Why did I do that? I'm really sorry, teacher"
+      },
+      {
+       "start_ms": 403000,
+       "end_ms": 405000,
+       "ko": "제가 지금이라면 안 그럴 텐데",
+       "en": "If it were now, I wouldn't do that"
+      },
+      {
+       "start_ms": 405000,
+       "end_ms": 408000,
+       "ko": "덜 커서 그랬습니다",
+       "en": "I was less mature back then"
+      },
+      {
+       "start_ms": 408000,
+       "end_ms": 414000,
+       "ko": "그때 잘못한 어른분들이 너무 많습니다",
+       "en": "There are so many adults I wronged back then"
+      },
+      {
+       "start_ms": 414000,
+       "end_ms": 417000,
+       "ko": "너무 죄송한 분들이 너무 많아요",
+       "en": "There are so many people I'm sorry to"
+      },
+      {
+       "start_ms": 417000,
+       "end_ms": 421000,
+       "ko": "정말 신뢰를 저질렀어",
+       "en": "I really committed a betrayal of trust"
+      }
+     ],
+     "start_ms": 377000,
+     "end_ms": 421000,
+     "ko": "그러니까 미웠을 거예요\n3년 내내 그런 건 아니고\n중1, 중2까지 그랬던 것 같아요\n이것도 친구 영향을 좀 많이 받았는데\n중학교 1학년 때 친구들이 짓궂은 친구들이었어요\n막 노는 친구들은 아니었지만\n장난치고 그런 거 좋아하는?\n왜 그랬지? 죄송해요 선생님 진짜\n제가 지금이라면 안 그럴 텐데\n덜 커서 그랬습니다\n그때 잘못한 어른분들이 너무 많습니다\n너무 죄송한 분들이 너무 많아요\n정말 신뢰를 저질렀어",
+     "en": "So they must have been annoyed It wasn't like that for all three years I think it was like that through first and second year of middle school I was influenced a lot by my friends too My friends in first year of middle school were mischievous kids Not like kids who just played around Kids who liked to prank and stuff like that Why did I do that? I'm really sorry, teacher If it were now, I wouldn't do that I was less mature back then There are so many adults I wronged back then There are so many people I'm sorry to I really committed a betrayal of trust"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 421000,
+       "end_ms": 424000,
+       "ko": "근데 그래봤기 때문에",
+       "en": "But because I did those things"
+      },
+      {
+       "start_ms": 424000,
+       "end_ms": 432000,
+       "ko": "다른 어린 친구가 저한테 실수할 때",
+       "en": "When another young person makes a mistake with me"
+      },
+      {
+       "start_ms": 432000,
+       "end_ms": 434000,
+       "ko": "좀 너그러워지는 부분도 있는 것 같아요",
+       "en": "I think I become a bit more forgiving"
+      }
+     ],
+     "start_ms": 421000,
+     "end_ms": 434000,
+     "ko": "근데 그래봤기 때문에\n다른 어린 친구가 저한테 실수할 때\n좀 너그러워지는 부분도 있는 것 같아요",
+     "en": "But because I did those things When another young person makes a mistake with me I think I become a bit more forgiving"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 434000,
+       "end_ms": 436000,
+       "ko": "그렇게 생각하니 위로가 되네",
+       "en": "Thinking about it that way is comforting"
+      },
+      {
+       "start_ms": 436000,
+       "end_ms": 437000,
+       "ko": "나도 그랬었지",
+       "en": "I did that too back then"
+      }
+     ],
+     "start_ms": 434000,
+     "end_ms": 437000,
+     "ko": "그렇게 생각하니 위로가 되네\n나도 그랬었지",
+     "en": "Thinking about it that way is comforting I did that too back then"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 437000,
+       "end_ms": 440000,
+       "ko": "맞아 맞아 그럴 때지",
+       "en": "Right, right, that's when it happens"
+      },
+      {
+       "start_ms": 440000,
+       "end_ms": 442000,
+       "ko": "그렇게 되더라고요 저는",
+       "en": "That's how it became for me"
+      }
+     ],
+     "start_ms": 437000,
+     "end_ms": 442000,
+     "ko": "맞아 맞아 그럴 때지\n그렇게 되더라고요 저는",
+     "en": "Right, right, that's when it happens That's how it became for me"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 442000,
+       "end_ms": 445000,
+       "ko": "나중에는 후회하겠지만",
+       "en": "Later on I'll regret it"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 442000,
+     "end_ms": 445000,
+     "ko": "나중에는 후회하겠지만",
+     "en": "Later on I'll regret it"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 445000,
+       "end_ms": 446000,
+       "ko": "맞아요",
+       "en": "That's right"
+      }
+     ],
+     "start_ms": 445000,
+     "end_ms": 446000,
+     "ko": "맞아요",
+     "en": "That's right"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 446000,
+       "end_ms": 448000,
+       "ko": "좀 더 생각해 볼게요",
+       "en": "I'll think about it a bit more"
+      }
+     ],
+     "start_ms": 446000,
+     "end_ms": 448000,
+     "ko": "좀 더 생각해 볼게요",
+     "en": "I'll think about it a bit more"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 448000,
+       "end_ms": 454000,
+       "ko": "아니요 이미 강한 장난을 얘기한 것 같아요",
+       "en": "No, I think I've already talked about pretty serious pranks"
+      }
+     ],
+     "start_ms": 448000,
+     "end_ms": 454000,
+     "ko": "아니요 이미 강한 장난을 얘기한 것 같아요",
+     "en": "No, I think I've already talked about pretty serious pranks"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 454000,
+       "end_ms": 459000,
+       "ko": "그러면 거기까지만 알아주세요",
+       "en": "So please just know up to that point"
+      },
+      {
+       "start_ms": 459000,
+       "end_ms": 465000,
+       "ko": "이 정도는 말할 수 있는 범위의 장난이었다",
+       "en": "This level was within the range of pranks I could talk about"
+      }
+     ],
+     "start_ms": 454000,
+     "end_ms": 465000,
+     "ko": "그러면 거기까지만 알아주세요\n이 정도는 말할 수 있는 범위의 장난이었다",
+     "en": "So please just know up to that point This level was within the range of pranks I could talk about"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 466000,
+       "end_ms": 468000,
+       "ko": "그 시절의 디디님은",
+       "en": "The Didi from back then"
+      }
+     ],
+     "start_ms": 466000,
+     "end_ms": 468000,
+     "ko": "그 시절의 디디님은",
+     "en": "The Didi from back then"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 468000,
+       "end_ms": 470000,
+       "ko": "제가 아니었습니다",
+       "en": "was not me."
+      }
+     ],
+     "start_ms": 468000,
+     "end_ms": 470000,
+     "ko": "제가 아니었습니다",
+     "en": "was not me."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 470000,
+       "end_ms": 473000,
+       "ko": "그때는 우리가 아니었어요",
+       "en": "Back then, we weren't like that."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 470000,
+     "end_ms": 473000,
+     "ko": "그때는 우리가 아니었어요",
+     "en": "Back then, we weren't like that."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 473000,
+       "end_ms": 479000,
+       "ko": "그때는 많은 사람들이 반대를 할 수 있는 의견인데",
+       "en": "Back then, it was an opinion that many people could have disagreed with,"
+      },
+      {
+       "start_ms": 479000,
+       "end_ms": 481000,
+       "ko": "저는 그때는 그냥",
+       "en": "but at that time I just"
+      },
+      {
+       "start_ms": 481000,
+       "end_ms": 486000,
+       "ko": "아직 사실상 동물이나 다름없다고 생각합니다",
+       "en": "still thought of them as practically no different from animals."
+      }
+     ],
+     "start_ms": 473000,
+     "end_ms": 486000,
+     "ko": "그때는 많은 사람들이 반대를 할 수 있는 의견인데\n저는 그때는 그냥\n아직 사실상 동물이나 다름없다고 생각합니다",
+     "en": "Back then, it was an opinion that many people could have disagreed with, but at that time I just still thought of them as practically no different from animals."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 486000,
+       "end_ms": 489000,
+       "ko": "맞아요 몸이 커진 아이",
+       "en": "Right, a child with a grown body."
+      }
+     ],
+     "start_ms": 486000,
+     "end_ms": 489000,
+     "ko": "맞아요 몸이 커진 아이",
+     "en": "Right, a child with a grown body."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 489000,
+       "end_ms": 491000,
+       "ko": "그러니까 맞아",
+       "en": "So that's right."
+      }
+     ],
+     "start_ms": 489000,
+     "end_ms": 491000,
+     "ko": "그러니까 맞아",
+     "en": "So that's right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 491000,
+       "end_ms": 494000,
+       "ko": "사회화가 되지 않은",
+       "en": "Not socialized."
+      }
+     ],
+     "start_ms": 491000,
+     "end_ms": 494000,
+     "ko": "사회화가 되지 않은",
+     "en": "Not socialized."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 495000,
+       "end_ms": 497000,
+       "ko": "맞아요",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 495000,
+     "end_ms": 497000,
+     "ko": "맞아요",
+     "en": "Right."
+    }
+   ]
+  },
+  {
+   "part": 2,
+   "title_ko": "교복, 두발 단속, 공부와 힙합",
+   "title_en": "Uniforms, hair rules, school and hip-hop",
+   "start_ms": 497000,
+   "end_ms": 1119479,
+   "hangul_chars": 2073,
+   "turns": [
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 497000,
+       "end_ms": 499000,
+       "ko": "교복은 예뻤어요?",
+       "en": "Was your school uniform pretty?"
+      }
+     ],
+     "start_ms": 497000,
+     "end_ms": 499000,
+     "ko": "교복은 예뻤어요?",
+     "en": "Was your school uniform pretty?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 499000,
+       "end_ms": 500000,
+       "ko": "네",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 499000,
+     "end_ms": 500000,
+     "ko": "네",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 500000,
+       "end_ms": 502000,
+       "ko": "중학교 교복 예뻤어요?",
+       "en": "Was your middle school uniform pretty?"
+      }
+     ],
+     "start_ms": 500000,
+     "end_ms": 502000,
+     "ko": "중학교 교복 예뻤어요?",
+     "en": "Was your middle school uniform pretty?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 502000,
+       "end_ms": 504000,
+       "ko": "다른 건 다 괜찮았는데",
+       "en": "Everything else was fine,"
+      },
+      {
+       "start_ms": 504000,
+       "end_ms": 510000,
+       "ko": "마이라고 하는 겨울용 자켓? 겉옷?",
+       "en": "but the mai, the winter jacket? The outer garment?"
+      },
+      {
+       "start_ms": 510000,
+       "end_ms": 513000,
+       "ko": "그게 좀 별로였어요",
+       "en": "I didn't really like that."
+      },
+      {
+       "start_ms": 513000,
+       "end_ms": 514000,
+       "ko": "그래서",
+       "en": "So"
+      }
+     ],
+     "start_ms": 502000,
+     "end_ms": 514000,
+     "ko": "다른 건 다 괜찮았는데\n마이라고 하는 겨울용 자켓? 겉옷?\n그게 좀 별로였어요\n그래서",
+     "en": "Everything else was fine, but the mai, the winter jacket? The outer garment? I didn't really like that. So"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 514000,
+       "end_ms": 515000,
+       "ko": "색깔이?",
+       "en": "The color?"
+      }
+     ],
+     "start_ms": 514000,
+     "end_ms": 515000,
+     "ko": "색깔이?",
+     "en": "The color?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 515000,
+       "end_ms": 518000,
+       "ko": "네 색깔이 회색이었는데",
+       "en": "Yes, the color was gray,"
+      },
+      {
+       "start_ms": 518000,
+       "end_ms": 523000,
+       "ko": "그 옷감이 부직포 같은 거슬거슬한 재질이었어요",
+       "en": "and the fabric was rough like non-woven material."
+      }
+     ],
+     "start_ms": 515000,
+     "end_ms": 523000,
+     "ko": "네 색깔이 회색이었는데\n그 옷감이 부직포 같은 거슬거슬한 재질이었어요",
+     "en": "Yes, the color was gray, and the fabric was rough like non-woven material."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 523000,
+       "end_ms": 524000,
+       "ko": "까칠까칠",
+       "en": "Scratchy."
+      }
+     ],
+     "start_ms": 523000,
+     "end_ms": 524000,
+     "ko": "까칠까칠",
+     "en": "Scratchy."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 524000,
+       "end_ms": 526000,
+       "ko": "네 그래서",
+       "en": "Yes, so"
+      },
+      {
+       "start_ms": 526000,
+       "end_ms": 528000,
+       "ko": "그 동복 겨울에 입는 옷",
+       "en": "That winter uniform, the clothes you wear in winter—"
+      },
+      {
+       "start_ms": 528000,
+       "end_ms": 535000,
+       "ko": "그 동복 교복의 마이라고 하는 자켓을 겉옷을 입으면",
+       "en": "when you put on that mai, that jacket of the school uniform, that outer garment,"
+      },
+      {
+       "start_ms": 535000,
+       "end_ms": 539000,
+       "ko": "그 부직포 같은 거슬거슬한 옷감이",
+       "en": "that rough non-woven-like fabric"
+      },
+      {
+       "start_ms": 539000,
+       "end_ms": 544000,
+       "ko": "계속 목을 막 간지럽히는 거예요",
+       "en": "keeps tickling your neck."
+      }
+     ],
+     "start_ms": 524000,
+     "end_ms": 544000,
+     "ko": "네 그래서\n그 동복 겨울에 입는 옷\n그 동복 교복의 마이라고 하는 자켓을 겉옷을 입으면\n그 부직포 같은 거슬거슬한 옷감이\n계속 목을 막 간지럽히는 거예요",
+     "en": "Yes, so That winter uniform, the clothes you wear in winter— when you put on that mai, that jacket of the school uniform, that outer garment, that rough non-woven-like fabric keeps tickling your neck."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 544000,
+       "end_ms": 545000,
+       "ko": "진짜 싫어",
+       "en": "I really hated it."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 544000,
+     "end_ms": 545000,
+     "ko": "진짜 싫어",
+     "en": "I really hated it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 545000,
+       "end_ms": 547000,
+       "ko": "최악이었어요",
+       "en": "It was the worst."
+      }
+     ],
+     "start_ms": 545000,
+     "end_ms": 547000,
+     "ko": "최악이었어요",
+     "en": "It was the worst."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 547000,
+       "end_ms": 549000,
+       "ko": "안 예쁜 건 둘째치고 불편하게까지?",
+       "en": "Not only was it not pretty, but it was uncomfortable too?"
+      }
+     ],
+     "start_ms": 547000,
+     "end_ms": 549000,
+     "ko": "안 예쁜 건 둘째치고 불편하게까지?",
+     "en": "Not only was it not pretty, but it was uncomfortable too?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 549000,
+       "end_ms": 552000,
+       "ko": "네 그래서 항상 목이 가렵고",
+       "en": "Yes, so my neck was always itchy,"
+      }
+     ],
+     "start_ms": 549000,
+     "end_ms": 552000,
+     "ko": "네 그래서 항상 목이 가렵고",
+     "en": "Yes, so my neck was always itchy,"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 552000,
+       "end_ms": 554000,
+       "ko": "왜 그렇게 했을까?",
+       "en": "why did they do it that way?"
+      }
+     ],
+     "start_ms": 552000,
+     "end_ms": 554000,
+     "ko": "왜 그렇게 했을까?",
+     "en": "why did they do it that way?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 554000,
+       "end_ms": 556000,
+       "ko": "그러니까요",
+       "en": "I know, right."
+      },
+      {
+       "start_ms": 556000,
+       "end_ms": 560000,
+       "ko": "교복 너무 별로였던 거 같아요",
+       "en": "I think I really disliked the school uniform."
+      }
+     ],
+     "start_ms": 554000,
+     "end_ms": 560000,
+     "ko": "그러니까요\n교복 너무 별로였던 거 같아요",
+     "en": "I know, right. I think I really disliked the school uniform."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 560000,
+       "end_ms": 562000,
+       "ko": "교복 싫었어요 입는 거?",
+       "en": "You didn't like wearing the uniform?"
+      }
+     ],
+     "start_ms": 560000,
+     "end_ms": 562000,
+     "ko": "교복 싫었어요 입는 거?",
+     "en": "You didn't like wearing the uniform?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 562000,
+       "end_ms": 565000,
+       "ko": "장단점이 있었어요",
+       "en": "There were pros and cons."
+      },
+      {
+       "start_ms": 565000,
+       "end_ms": 567000,
+       "ko": "고민 안 해도 되잖아요",
+       "en": "You don't have to worry about what to wear, right?"
+      }
+     ],
+     "start_ms": 562000,
+     "end_ms": 567000,
+     "ko": "장단점이 있었어요\n고민 안 해도 되잖아요",
+     "en": "There were pros and cons. You don't have to worry about what to wear, right?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 567000,
+       "end_ms": 568000,
+       "ko": "맞아요",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 567000,
+     "end_ms": 568000,
+     "ko": "맞아요",
+     "en": "Right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 568000,
+       "end_ms": 573000,
+       "ko": "그냥 이것만 입으면 된다 하는 장점이 있는데",
+       "en": "There's the advantage that you just put on this one thing and you're done,"
+      },
+      {
+       "start_ms": 573000,
+       "end_ms": 581000,
+       "ko": "근데 고민 없이 항상 입어야 하는 그 옷 자체가 너무 답답해서",
+       "en": "but having to always wear that same outfit without any choice felt so suffocating,"
+      },
+      {
+       "start_ms": 582000,
+       "end_ms": 584000,
+       "ko": "너무 번거롭고",
+       "en": "so bothersome,"
+      }
+     ],
+     "start_ms": 568000,
+     "end_ms": 584000,
+     "ko": "그냥 이것만 입으면 된다 하는 장점이 있는데\n근데 고민 없이 항상 입어야 하는 그 옷 자체가 너무 답답해서\n너무 번거롭고",
+     "en": "There's the advantage that you just put on this one thing and you're done, but having to always wear that same outfit without any choice felt so suffocating, so bothersome,"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 586000,
+       "end_ms": 591000,
+       "ko": "중학교쯤 되면 좀 멋을 부리기 시작하잖아요",
+       "en": "by middle school you start to care about style, right?"
+      },
+      {
+       "start_ms": 591000,
+       "end_ms": 595000,
+       "ko": "교복을 수선해서 입거나",
+       "en": "Some friends would alter their uniforms"
+      },
+      {
+       "start_ms": 595000,
+       "end_ms": 599000,
+       "ko": "바지를 줄여 입는다거나 그런 친구들이 있었는데",
+       "en": "or shorten their pants and things like that,"
+      },
+      {
+       "start_ms": 599000,
+       "end_ms": 600000,
+       "ko": "어땠어요?",
+       "en": "how was it for you?"
+      }
+     ],
+     "start_ms": 586000,
+     "end_ms": 600000,
+     "ko": "중학교쯤 되면 좀 멋을 부리기 시작하잖아요\n교복을 수선해서 입거나\n바지를 줄여 입는다거나 그런 친구들이 있었는데\n어땠어요?",
+     "en": "by middle school you start to care about style, right? Some friends would alter their uniforms or shorten their pants and things like that, how was it for you?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 600000,
+       "end_ms": 601680,
+       "ko": "저는 그러진 않았어요.",
+       "en": "I didn't do that."
+      }
+     ],
+     "start_ms": 600000,
+     "end_ms": 601680,
+     "ko": "저는 그러진 않았어요.",
+     "en": "I didn't do that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 601680,
+       "end_ms": 603000,
+       "ko": "오오오",
+       "en": "Ohhh."
+      }
+     ],
+     "start_ms": 601680,
+     "end_ms": 603000,
+     "ko": "오오오",
+     "en": "Ohhh."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 603000,
+       "end_ms": 605480,
+       "ko": "저는 그냥",
+       "en": "I just"
+      }
+     ],
+     "start_ms": 603000,
+     "end_ms": 605480,
+     "ko": "저는 그냥",
+     "en": "I just"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 605480,
+       "end_ms": 606800,
+       "ko": "바른 학생이잖아?",
+       "en": "was a well-behaved student, right?"
+      }
+     ],
+     "start_ms": 605480,
+     "end_ms": 606800,
+     "ko": "바른 학생이잖아?",
+     "en": "was a well-behaved student, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 606800,
+       "end_ms": 610480,
+       "ko": "네, 저는 그냥 있는 대로, 주는 대로 입었어요.",
+       "en": "Yes, I just wore it as it was, as they gave it to me."
+      }
+     ],
+     "start_ms": 606800,
+     "end_ms": 610480,
+     "ko": "네, 저는 그냥 있는 대로, 주는 대로 입었어요.",
+     "en": "Yes, I just wore it as it was, as they gave it to me."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 610480,
+       "end_ms": 613480,
+       "ko": "허어, 착해라.",
+       "en": "Aww, how good of you."
+      },
+      {
+       "start_ms": 613480,
+       "end_ms": 617480,
+       "ko": "저는 차마 줄일 용기는 없고",
+       "en": "I didn't have the courage to actually shorten it,"
+      },
+      {
+       "start_ms": 617480,
+       "end_ms": 622000,
+       "ko": "치마를 보통 저 때는 짧게 입었는데",
+       "en": "skirts were usually worn short back then,"
+      },
+      {
+       "start_ms": 622000,
+       "end_ms": 625480,
+       "ko": "저는 줄이진 않고 이렇게 접어 입었어요.",
+       "en": "so I didn't shorten mine, I just folded it like this to wear it."
+      },
+      {
+       "start_ms": 625480,
+       "end_ms": 630480,
+       "ko": "접어서 짧게 만들어서 입고 그랬던 기억은 있어요.",
+       "en": "I remember folding it to make it shorter and wearing it that way."
+      }
+     ],
+     "start_ms": 610480,
+     "end_ms": 630480,
+     "ko": "허어, 착해라.\n저는 차마 줄일 용기는 없고\n치마를 보통 저 때는 짧게 입었는데\n저는 줄이진 않고 이렇게 접어 입었어요.\n접어서 짧게 만들어서 입고 그랬던 기억은 있어요.",
+     "en": "Aww, how good of you. I didn't have the courage to actually shorten it, skirts were usually worn short back then, so I didn't shorten mine, I just folded it like this to wear it. I remember folding it to make it shorter and wearing it that way."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 630480,
+       "end_ms": 632480,
+       "ko": "길이는?",
+       "en": "The length?"
+      }
+     ],
+     "start_ms": 630480,
+     "end_ms": 632480,
+     "ko": "길이는?",
+     "en": "The length?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 632480,
+       "end_ms": 636480,
+       "ko": "근데 그렇게 길이를 짧게 입으면 등교할 때",
+       "en": "But when you wear the length that short like that,"
+      },
+      {
+       "start_ms": 636480,
+       "end_ms": 638480,
+       "ko": "교문 앞에 선생님이 항상 서 있어요.",
+       "en": "there's always a teacher standing in front of the school gate when you arrive."
+      }
+     ],
+     "start_ms": 632480,
+     "end_ms": 638480,
+     "ko": "근데 그렇게 길이를 짧게 입으면 등교할 때\n교문 앞에 선생님이 항상 서 있어요.",
+     "en": "But when you wear the length that short like that, there's always a teacher standing in front of the school gate when you arrive."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 638480,
+       "end_ms": 639480,
+       "ko": "맞아요.",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 638480,
+     "end_ms": 639480,
+     "ko": "맞아요.",
+     "en": "Right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 639480,
+       "end_ms": 641480,
+       "ko": "그래서 불러요.",
+       "en": "So they call you over."
+      },
+      {
+       "start_ms": 641480,
+       "end_ms": 645480,
+       "ko": "너 일로 와. 해서 자로 막 재고.",
+       "en": "\"You, come here.\" And they measure it with a ruler."
+      },
+      {
+       "start_ms": 645480,
+       "end_ms": 649480,
+       "ko": "그거 지금 생각하면 진짜 이상하지 않아요?",
+       "en": "When you think about it now, isn't that really strange?"
+      },
+      {
+       "start_ms": 649480,
+       "end_ms": 651480,
+       "ko": "이제는 안 그러나? 아예 안 그래요?",
+       "en": "Is it not like that anymore? Not at all anymore?"
+      }
+     ],
+     "start_ms": 639480,
+     "end_ms": 651480,
+     "ko": "그래서 불러요.\n너 일로 와. 해서 자로 막 재고.\n그거 지금 생각하면 진짜 이상하지 않아요?\n이제는 안 그러나? 아예 안 그래요?",
+     "en": "So they call you over. \"You, come here.\" And they measure it with a ruler. When you think about it now, isn't that really strange? Is it not like that anymore? Not at all anymore?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 651480,
+       "end_ms": 653480,
+       "ko": "안 그러지 않아요?",
+       "en": "Isn't it still like that?"
+      }
+     ],
+     "start_ms": 651480,
+     "end_ms": 653480,
+     "ko": "안 그러지 않아요?",
+     "en": "Isn't it still like that?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 653480,
+       "end_ms": 654480,
+       "ko": "그래요?",
+       "en": "Is it?"
+      }
+     ],
+     "start_ms": 653480,
+     "end_ms": 654480,
+     "ko": "그래요?",
+     "en": "Is it?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 654480,
+       "end_ms": 659480,
+       "ko": "지금은 너무 심한 거 아니면 안 잡는 걸로 알고 있긴 해요.",
+       "en": "I understand that now they don't crack down unless it's really severe."
+      },
+      {
+       "start_ms": 659480,
+       "end_ms": 662480,
+       "ko": "근데 저도 얘기하려고 했던 게",
+       "en": "But what I was trying to talk about was"
+      },
+      {
+       "start_ms": 662480,
+       "end_ms": 666480,
+       "ko": "두발 단속을 했거든요?",
+       "en": "hair length inspections, you know?"
+      }
+     ],
+     "start_ms": 654480,
+     "end_ms": 666480,
+     "ko": "지금은 너무 심한 거 아니면 안 잡는 걸로 알고 있긴 해요.\n근데 저도 얘기하려고 했던 게\n두발 단속을 했거든요?",
+     "en": "I understand that now they don't crack down unless it's really severe. But what I was trying to talk about was hair length inspections, you know?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 666480,
+       "end_ms": 667480,
+       "ko": "네.",
+       "en": "Yes."
+      },
+      {
+       "start_ms": 667480,
+       "end_ms": 668480,
+       "ko": "두발 단속.",
+       "en": "Hair length inspections."
+      }
+     ],
+     "start_ms": 666480,
+     "end_ms": 668480,
+     "ko": "네.\n두발 단속.",
+     "en": "Yes. Hair length inspections."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 668480,
+       "end_ms": 673480,
+       "ko": "초등학교 졸업하고 중학교로 입학할 때",
+       "en": "When I graduated elementary school and entered middle school"
+      },
+      {
+       "start_ms": 673480,
+       "end_ms": 679480,
+       "ko": "가장 임팩트가 컸던, 기세에 눌렸던",
+       "en": "the thing that had the biggest impact, that really intimidated me"
+      },
+      {
+       "start_ms": 679480,
+       "end_ms": 684480,
+       "ko": "그 제도가, 시스템이 두발 단속 제도였어요.",
+       "en": "that system, that rule was the hair length inspection system."
+      }
+     ],
+     "start_ms": 668480,
+     "end_ms": 684480,
+     "ko": "초등학교 졸업하고 중학교로 입학할 때\n가장 임팩트가 컸던, 기세에 눌렸던\n그 제도가, 시스템이 두발 단속 제도였어요.",
+     "en": "When I graduated elementary school and entered middle school the thing that had the biggest impact, that really intimidated me that system, that rule was the hair length inspection system."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 684480,
+       "end_ms": 686480,
+       "ko": "머리에 제한이 있는 거죠?",
+       "en": "There were restrictions on your hair, right?"
+      }
+     ],
+     "start_ms": 684480,
+     "end_ms": 686480,
+     "ko": "머리에 제한이 있는 거죠?",
+     "en": "There were restrictions on your hair, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 686480,
+       "end_ms": 689480,
+       "ko": "네. 두발, 머리카락.",
+       "en": "Yes. Hair length."
+      },
+      {
+       "start_ms": 689480,
+       "end_ms": 693480,
+       "ko": "머리카락이 몇 센치 이상 기르면 안 되는.",
+       "en": "If your hair grew past a certain number of centimeters, you couldn't do it."
+      }
+     ],
+     "start_ms": 686480,
+     "end_ms": 693480,
+     "ko": "네. 두발, 머리카락.\n머리카락이 몇 센치 이상 기르면 안 되는.",
+     "en": "Yes. Hair length. If your hair grew past a certain number of centimeters, you couldn't do it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 693480,
+       "end_ms": 696480,
+       "ko": "남자들은 기준이 어땠어요?",
+       "en": "What was the standard for boys?"
+      }
+     ],
+     "start_ms": 693480,
+     "end_ms": 696480,
+     "ko": "남자들은 기준이 어땠어요?",
+     "en": "What was the standard for boys?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 696480,
+       "end_ms": 698480,
+       "ko": "제가 다녔던 중학교는",
+       "en": "At the middle school I attended"
+      },
+      {
+       "start_ms": 698480,
+       "end_ms": 701480,
+       "ko": "얼마였더라? 2센치였나? 3센치였나?",
+       "en": "how much was it? Two centimeters? Three centimeters?"
+      }
+     ],
+     "start_ms": 696480,
+     "end_ms": 701480,
+     "ko": "제가 다녔던 중학교는\n얼마였더라? 2센치였나? 3센치였나?",
+     "en": "At the middle school I attended how much was it? Two centimeters? Three centimeters?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 701480,
+       "end_ms": 704480,
+       "ko": "뭐 어떻게, 어느 기준으로요?",
+       "en": "Well, how, by what standard?"
+      }
+     ],
+     "start_ms": 701480,
+     "end_ms": 704480,
+     "ko": "뭐 어떻게, 어느 기준으로요?",
+     "en": "Well, how, by what standard?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 704480,
+       "end_ms": 708480,
+       "ko": "구레나룻 옆머리였나?",
+       "en": "Was it the sideburns area?"
+      }
+     ],
+     "start_ms": 704480,
+     "end_ms": 708480,
+     "ko": "구레나룻 옆머리였나?",
+     "en": "Was it the sideburns area?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 708480,
+       "end_ms": 711480,
+       "ko": "옆머리가 짧아야 되는 거예요?",
+       "en": "Your sideburns had to be short?"
+      }
+     ],
+     "start_ms": 708480,
+     "end_ms": 711480,
+     "ko": "옆머리가 짧아야 되는 거예요?",
+     "en": "Your sideburns had to be short?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 711480,
+       "end_ms": 714480,
+       "ko": "네. 옆머리랑 뒷머리였나?",
+       "en": "Yes. The sideburns and the back of the hair, I think?"
+      }
+     ],
+     "start_ms": 711480,
+     "end_ms": 714480,
+     "ko": "네. 옆머리랑 뒷머리였나?",
+     "en": "Yes. The sideburns and the back of the hair, I think?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 714480,
+       "end_ms": 718480,
+       "ko": "여자들은 딱 규칙이 있었거든요. 귀 밑 몇 센치.",
+       "en": "For girls there was a strict rule. A certain number of centimeters below the ears."
+      },
+      {
+       "start_ms": 718480,
+       "end_ms": 720480,
+       "ko": "제가 중학교 때 없어졌어요.",
+       "en": "It was gone by the time I was in middle school."
+      }
+     ],
+     "start_ms": 714480,
+     "end_ms": 720480,
+     "ko": "여자들은 딱 규칙이 있었거든요. 귀 밑 몇 센치.\n제가 중학교 때 없어졌어요.",
+     "en": "For girls there was a strict rule. A certain number of centimeters below the ears. It was gone by the time I was in middle school."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 720480,
+       "end_ms": 721480,
+       "ko": "없어졌어요?",
+       "en": "It was gone?"
+      }
+     ],
+     "start_ms": 720480,
+     "end_ms": 721480,
+     "ko": "없어졌어요?",
+     "en": "It was gone?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 721480,
+       "end_ms": 723480,
+       "ko": "없어졌어요.",
+       "en": "It was gone."
+      },
+      {
+       "start_ms": 723480,
+       "end_ms": 728479,
+       "ko": "중1까지 좀 하다가 없어졌던 것 같아요.",
+       "en": "I think they did it until first year of middle school and then it was gone."
+      }
+     ],
+     "start_ms": 721480,
+     "end_ms": 728479,
+     "ko": "없어졌어요.\n중1까지 좀 하다가 없어졌던 것 같아요.",
+     "en": "It was gone. I think they did it until first year of middle school and then it was gone."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 728479,
+       "end_ms": 732479,
+       "ko": "와, 그때도 그 교문에 있던 선생님이",
+       "en": "Wow, even back then the teachers at the school gate"
+      },
+      {
+       "start_ms": 732479,
+       "end_ms": 735479,
+       "ko": "아침에 우르르 학생들이 들어갈 때",
+       "en": "when students would rush in in the morning"
+      },
+      {
+       "start_ms": 735479,
+       "end_ms": 739479,
+       "ko": "딱 보다가 제 머리카락 좀 길다 싶으면",
+       "en": "would just look and if they thought my hair was a bit long"
+      },
+      {
+       "start_ms": 739479,
+       "end_ms": 743479,
+       "ko": "너 일로 와 해서 자로 재서",
+       "en": "they'd say come here and measure it with a ruler"
+      },
+      {
+       "start_ms": 743479,
+       "end_ms": 746479,
+       "ko": "머리 몇 센치 길었다.",
+       "en": "and say your hair was this many centimeters long."
+      },
+      {
+       "start_ms": 746479,
+       "end_ms": 749479,
+       "ko": "몇 센치보다 길다.",
+       "en": "Longer than this many centimeters."
+      },
+      {
+       "start_ms": 749479,
+       "end_ms": 753479,
+       "ko": "그러면 얘 몇 학년 몇 반 몇 번인지 기록을 해놓고",
+       "en": "Then they'd record which grade, which class, which number student you were"
+      }
+     ],
+     "start_ms": 728479,
+     "end_ms": 753479,
+     "ko": "와, 그때도 그 교문에 있던 선생님이\n아침에 우르르 학생들이 들어갈 때\n딱 보다가 제 머리카락 좀 길다 싶으면\n너 일로 와 해서 자로 재서\n머리 몇 센치 길었다.\n몇 센치보다 길다.\n그러면 얘 몇 학년 몇 반 몇 번인지 기록을 해놓고",
+     "en": "Wow, even back then the teachers at the school gate when students would rush in in the morning would just look and if they thought my hair was a bit long they'd say come here and measure it with a ruler and say your hair was this many centimeters long. Longer than this many centimeters. Then they'd record which grade, which class, which number student you were"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 753479,
+       "end_ms": 755479,
+       "ko": "맞아.",
+       "en": "right."
+      }
+     ],
+     "start_ms": 753479,
+     "end_ms": 755479,
+     "ko": "맞아.",
+     "en": "right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 755479,
+       "end_ms": 757479,
+       "ko": "그렇게 확인을 했죠. 다음에.",
+       "en": "That's how they'd check. Next time."
+      },
+      {
+       "start_ms": 757479,
+       "end_ms": 760479,
+       "ko": "그게 기록을 해서 뭐가 안 좋냐면",
+       "en": "The problem with recording it like that was"
+      },
+      {
+       "start_ms": 760479,
+       "end_ms": 763479,
+       "ko": "순간순간 벌을 주는 것도 있고",
+       "en": "sometimes they'd give you punishment right away"
+      },
+      {
+       "start_ms": 763479,
+       "end_ms": 765479,
+       "ko": "학교에 남아라 이런 것도 있고",
+       "en": "or make you stay after school and things like that"
+      },
+      {
+       "start_ms": 765479,
+       "end_ms": 768479,
+       "ko": "아니면 그거 성적에 다 들어가잖아요.",
+       "en": "or it would all go into your grades, you know?"
+      },
+      {
+       "start_ms": 768479,
+       "end_ms": 774479,
+       "ko": "고등학교 진학할 때 벌점 이런 거 다 기록해두고 이래서",
+       "en": "When applying to high school they'd record all the demerits and stuff like that"
+      },
+      {
+       "start_ms": 774479,
+       "end_ms": 779479,
+       "ko": "그거 없애려면 봉사해야 되고 그랬던 게 있었어요.",
+       "en": "and to get rid of it you'd have to do volunteer work and things like that."
+      }
+     ],
+     "start_ms": 755479,
+     "end_ms": 779479,
+     "ko": "그렇게 확인을 했죠. 다음에.\n그게 기록을 해서 뭐가 안 좋냐면\n순간순간 벌을 주는 것도 있고\n학교에 남아라 이런 것도 있고\n아니면 그거 성적에 다 들어가잖아요.\n고등학교 진학할 때 벌점 이런 거 다 기록해두고 이래서\n그거 없애려면 봉사해야 되고 그랬던 게 있었어요.",
+     "en": "That's how they'd check. Next time. The problem with recording it like that was sometimes they'd give you punishment right away or make you stay after school and things like that or it would all go into your grades, you know? When applying to high school they'd record all the demerits and stuff like that and to get rid of it you'd have to do volunteer work and things like that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 779479,
+       "end_ms": 783479,
+       "ko": "진짜 뭘 위해 그렇게 했는지",
+       "en": "I really don't know what they were doing it for"
+      }
+     ],
+     "start_ms": 779479,
+     "end_ms": 783479,
+     "ko": "진짜 뭘 위해 그렇게 했는지",
+     "en": "I really don't know what they were doing it for"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 783479,
+       "end_ms": 787479,
+       "ko": "공부하라고 그랬던 것 같아요.",
+       "en": "but it seemed like they were saying study."
+      },
+      {
+       "start_ms": 787479,
+       "end_ms": 790479,
+       "ko": "다른 거 신경 쓰지 말고 공부해라.",
+       "en": "Don't worry about anything else and just study."
+      },
+      {
+       "start_ms": 790479,
+       "end_ms": 795479,
+       "ko": "멋 부리지 말고.",
+       "en": "Don't try to look cool."
+      },
+      {
+       "start_ms": 795479,
+       "end_ms": 803479,
+       "ko": "그러니까 저 같은 학생은 그렇게 머리가 잘리고",
+       "en": "So a student like me would have my hair cut"
+      },
+      {
+       "start_ms": 803479,
+       "end_ms": 808479,
+       "ko": "그리고 몸에 안 맞는 답답한 옷을 입고",
+       "en": "and wear uncomfortable, ill-fitting clothes"
+      },
+      {
+       "start_ms": 808479,
+       "end_ms": 814479,
+       "ko": "1교시부터 6교시 그런 넘는 시간 동안",
+       "en": "and sit through from first period to sixth period and beyond"
+      },
+      {
+       "start_ms": 814479,
+       "end_ms": 818479,
+       "ko": "앉아서 버티는 거예요.",
+       "en": "just enduring it."
+      }
+     ],
+     "start_ms": 783479,
+     "end_ms": 818479,
+     "ko": "공부하라고 그랬던 것 같아요.\n다른 거 신경 쓰지 말고 공부해라.\n멋 부리지 말고.\n그러니까 저 같은 학생은 그렇게 머리가 잘리고\n그리고 몸에 안 맞는 답답한 옷을 입고\n1교시부터 6교시 그런 넘는 시간 동안\n앉아서 버티는 거예요.",
+     "en": "but it seemed like they were saying study. Don't worry about anything else and just study. Don't try to look cool. So a student like me would have my hair cut and wear uncomfortable, ill-fitting clothes and sit through from first period to sixth period and beyond just enduring it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 818479,
+       "end_ms": 821479,
+       "ko": "공부 못했어요?",
+       "en": "You didn't do well in school?"
+      }
+     ],
+     "start_ms": 818479,
+     "end_ms": 821479,
+     "ko": "공부 못했어요?",
+     "en": "You didn't do well in school?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 821479,
+       "end_ms": 825479,
+       "ko": "저는 고등학교 들어갈 때부터 잘했어요.",
+       "en": "I started doing well from high school onwards."
+      }
+     ],
+     "start_ms": 821479,
+     "end_ms": 825479,
+     "ko": "저는 고등학교 들어갈 때부터 잘했어요.",
+     "en": "I started doing well from high school onwards."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 825479,
+       "end_ms": 827479,
+       "ko": "진짜? 그 전에 안 했어요?",
+       "en": "Really? You didn't do well before that?"
+      }
+     ],
+     "start_ms": 825479,
+     "end_ms": 827479,
+     "ko": "진짜? 그 전에 안 했어요?",
+     "en": "Really? You didn't do well before that?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 827479,
+       "end_ms": 829479,
+       "ko": "안 했어요.",
+       "en": "I didn't."
+      }
+     ],
+     "start_ms": 827479,
+     "end_ms": 829479,
+     "ko": "안 했어요.",
+     "en": "I didn't."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 829479,
+       "end_ms": 830479,
+       "ko": "괜찮았어요?",
+       "en": "That was okay?"
+      }
+     ],
+     "start_ms": 829479,
+     "end_ms": 830479,
+     "ko": "괜찮았어요?",
+     "en": "That was okay?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 830479,
+       "end_ms": 836479,
+       "ko": "손에도 안 들어오고 손에도 안 잡히고 눈에도 안 들어오고",
+       "en": "It didn't stick in my hands and I couldn't grasp it and it didn't enter my eyes"
+      },
+      {
+       "start_ms": 836479,
+       "end_ms": 839479,
+       "ko": "관심이 없었어요.",
+       "en": "I had no interest."
+      },
+      {
+       "start_ms": 839479,
+       "end_ms": 843479,
+       "ko": "근데 고등학교 가서 적당히 잘하긴 했는데",
+       "en": "But when I went to high school I did reasonably well"
+      },
+      {
+       "start_ms": 843479,
+       "end_ms": 850479,
+       "ko": "중학교 때는 선생님들이 저를 되게 특이하게 생각하셨던 것 같아요.",
+       "en": "but in middle school the teachers seemed to think I was really strange."
+      },
+      {
+       "start_ms": 850479,
+       "end_ms": 858480,
+       "ko": "수업 태도는 너무 좋은데 시험만 쳤다 하면 엄청 성적이 낮아요.",
+       "en": "My attitude in class was really good but whenever I took a test my grades were really low."
+      }
+     ],
+     "start_ms": 830479,
+     "end_ms": 858480,
+     "ko": "손에도 안 들어오고 손에도 안 잡히고 눈에도 안 들어오고\n관심이 없었어요.\n근데 고등학교 가서 적당히 잘하긴 했는데\n중학교 때는 선생님들이 저를 되게 특이하게 생각하셨던 것 같아요.\n수업 태도는 너무 좋은데 시험만 쳤다 하면 엄청 성적이 낮아요.",
+     "en": "It didn't stick in my hands and I couldn't grasp it and it didn't enter my eyes I had no interest. But when I went to high school I did reasonably well but in middle school the teachers seemed to think I was really strange. My attitude in class was really good but whenever I took a test my grades were really low."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 858480,
+       "end_ms": 861480,
+       "ko": "수업 태도가 좋았던 건 그냥 버티고 있었던 거죠?",
+       "en": "Your good attitude in class was just you enduring it, right?"
+      }
+     ],
+     "start_ms": 858480,
+     "end_ms": 861480,
+     "ko": "수업 태도가 좋았던 건 그냥 버티고 있었던 거죠?",
+     "en": "Your good attitude in class was just you enduring it, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 861480,
+       "end_ms": 862480,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 861480,
+     "end_ms": 862480,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 862480,
+       "end_ms": 863480,
+       "ko": "꿋꿋하게?",
+       "en": "Steadfastly?"
+      }
+     ],
+     "start_ms": 862480,
+     "end_ms": 863480,
+     "ko": "꿋꿋하게?",
+     "en": "Steadfastly?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 863480,
+       "end_ms": 864480,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 863480,
+     "end_ms": 864480,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 864480,
+       "end_ms": 866480,
+       "ko": "그것도 진짜 특이하다.",
+       "en": "That's really unusual too."
+      }
+     ],
+     "start_ms": 864480,
+     "end_ms": 866480,
+     "ko": "그것도 진짜 특이하다.",
+     "en": "That's really unusual too."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 866480,
+       "end_ms": 872480,
+       "ko": "그러니까 얘가 잠도 안 자.",
+       "en": "So this guy didn't even sleep."
+      },
+      {
+       "start_ms": 873480,
+       "end_ms": 877480,
+       "ko": "불량하지도 않고.",
+       "en": "And he wasn't a troublemaker either."
+      },
+      {
+       "start_ms": 877480,
+       "end_ms": 881480,
+       "ko": "근데 대답하면 모르고.",
+       "en": "But when you ask him to answer, he doesn't know."
+      },
+      {
+       "start_ms": 881480,
+       "end_ms": 885480,
+       "ko": "대답을 시키면 이거 답 뭐야? 이러면 모르고.",
+       "en": "When you ask him to answer, he's like, \"What's the answer?\" and he doesn't know."
+      },
+      {
+       "start_ms": 885480,
+       "end_ms": 891480,
+       "ko": "무슨 얘기인지 모르고.",
+       "en": "He doesn't understand what you're talking about."
+      },
+      {
+       "start_ms": 891480,
+       "end_ms": 897480,
+       "ko": "근데 착한데 시험 치면 문제는 다 틀리고.",
+       "en": "But even though he's a good kid, when he takes a test, he gets all the problems wrong."
+      }
+     ],
+     "start_ms": 866480,
+     "end_ms": 897480,
+     "ko": "그러니까 얘가 잠도 안 자.\n불량하지도 않고.\n근데 대답하면 모르고.\n대답을 시키면 이거 답 뭐야? 이러면 모르고.\n무슨 얘기인지 모르고.\n근데 착한데 시험 치면 문제는 다 틀리고.",
+     "en": "So this guy didn't even sleep. And he wasn't a troublemaker either. But when you ask him to answer, he doesn't know. When you ask him to answer, he's like, \"What's the answer?\" and he doesn't know. He doesn't understand what you're talking about. But even though he's a good kid, when he takes a test, he gets all the problems wrong."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 898480,
+       "end_ms": 902480,
+       "ko": "그때는 뭐 했어요?",
+       "en": "What were you doing back then?"
+      }
+     ],
+     "start_ms": 898480,
+     "end_ms": 902480,
+     "ko": "그때는 뭐 했어요?",
+     "en": "What were you doing back then?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 902480,
+       "end_ms": 905480,
+       "ko": "그때 뭐 했지?",
+       "en": "What were you doing back then?"
+      },
+      {
+       "start_ms": 905480,
+       "end_ms": 908480,
+       "ko": "그때까지도 그림을 그렸던 것 같고.",
+       "en": "I think I was drawing pictures up until then too."
+      },
+      {
+       "start_ms": 908480,
+       "end_ms": 915480,
+       "ko": "중학교 때는 영화를 되게 많이 봤던 것 같아요.",
+       "en": "In middle school, I watched a lot of movies."
+      },
+      {
+       "start_ms": 915480,
+       "end_ms": 923480,
+       "ko": "영화를 되게 많이 봤고 혼자 상상의 영화 장면 펼치고.",
+       "en": "I watched a lot of movies and would unfold imaginary movie scenes by myself."
+      }
+     ],
+     "start_ms": 902480,
+     "end_ms": 923480,
+     "ko": "그때 뭐 했지?\n그때까지도 그림을 그렸던 것 같고.\n중학교 때는 영화를 되게 많이 봤던 것 같아요.\n영화를 되게 많이 봤고 혼자 상상의 영화 장면 펼치고.",
+     "en": "What were you doing back then? I think I was drawing pictures up until then too. In middle school, I watched a lot of movies. I watched a lot of movies and would unfold imaginary movie scenes by myself."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 923480,
+       "end_ms": 925480,
+       "ko": "수업 시간에 그러고 있었어요?",
+       "en": "Were you doing that during class?"
+      }
+     ],
+     "start_ms": 923480,
+     "end_ms": 925480,
+     "ko": "수업 시간에 그러고 있었어요?",
+     "en": "Were you doing that during class?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 925480,
+       "end_ms": 930480,
+       "ko": "네. 혼자 망상하고 있고.",
+       "en": "Yes. I was daydreaming by myself."
+      },
+      {
+       "start_ms": 930480,
+       "end_ms": 935480,
+       "ko": "그리고 노래도 되게 많이 들었거든요.",
+       "en": "And I listened to a lot of music too."
+      }
+     ],
+     "start_ms": 925480,
+     "end_ms": 935480,
+     "ko": "네. 혼자 망상하고 있고.\n그리고 노래도 되게 많이 들었거든요.",
+     "en": "Yes. I was daydreaming by myself. And I listened to a lot of music too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 935480,
+       "end_ms": 938480,
+       "ko": "그때 좋아했던 가수 있어요? 노래나 가수?",
+       "en": "Was there a singer you liked back then? Any songs or artists?"
+      }
+     ],
+     "start_ms": 935480,
+     "end_ms": 938480,
+     "ko": "그때 좋아했던 가수 있어요? 노래나 가수?",
+     "en": "Was there a singer you liked back then? Any songs or artists?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 938480,
+       "end_ms": 942480,
+       "ko": "저 그때 힙합에 입문을 해서 중학생 때.",
+       "en": "I got into hip-hop back then, in middle school."
+      }
+     ],
+     "start_ms": 938480,
+     "end_ms": 942480,
+     "ko": "저 그때 힙합에 입문을 해서 중학생 때.",
+     "en": "I got into hip-hop back then, in middle school."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 942480,
+       "end_ms": 943480,
+       "ko": "에미넴?",
+       "en": "Eminem?"
+      }
+     ],
+     "start_ms": 942480,
+     "end_ms": 943480,
+     "ko": "에미넴?",
+     "en": "Eminem?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 943480,
+       "end_ms": 944480,
+       "ko": "초6인가? 중1 때.",
+       "en": "Was it 6th grade or 1st year of middle school?"
+      },
+      {
+       "start_ms": 944480,
+       "end_ms": 948480,
+       "ko": "아니요. 저는 다이나믹 듀오 1집.",
+       "en": "No. I listened to Dynamic Duo's first album."
+      }
+     ],
+     "start_ms": 943480,
+     "end_ms": 948480,
+     "ko": "초6인가? 중1 때.\n아니요. 저는 다이나믹 듀오 1집.",
+     "en": "Was it 6th grade or 1st year of middle school? No. I listened to Dynamic Duo's first album."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 948480,
+       "end_ms": 950480,
+       "ko": "한국 힙합?",
+       "en": "Korean hip-hop?"
+      }
+     ],
+     "start_ms": 948480,
+     "end_ms": 950480,
+     "ko": "한국 힙합?",
+     "en": "Korean hip-hop?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 951480,
+       "end_ms": 956480,
+       "ko": "다이나믹 듀오 1집, 에픽하이 2집 이런 거 들었거든요.",
+       "en": "Dynamic Duo's first album, Epik High's second album, things like that."
+      }
+     ],
+     "start_ms": 951480,
+     "end_ms": 956480,
+     "ko": "다이나믹 듀오 1집, 에픽하이 2집 이런 거 들었거든요.",
+     "en": "Dynamic Duo's first album, Epik High's second album, things like that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 956480,
+       "end_ms": 959480,
+       "ko": "진짜 오래되나? 한국 힙합 1세대.",
+       "en": "Is that really old? First generation Korean hip-hop."
+      }
+     ],
+     "start_ms": 956480,
+     "end_ms": 959480,
+     "ko": "진짜 오래되나? 한국 힙합 1세대.",
+     "en": "Is that really old? First generation Korean hip-hop."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 959480,
+       "end_ms": 965480,
+       "ko": "그래서 계속 속으로 랩 계속 하고.",
+       "en": "So I kept rapping to myself continuously."
+      },
+      {
+       "start_ms": 965480,
+       "end_ms": 972480,
+       "ko": "아 맞다. 그리고 비트박스를 해서.",
+       "en": "Oh right. And I did beatboxing."
+      }
+     ],
+     "start_ms": 959480,
+     "end_ms": 972480,
+     "ko": "그래서 계속 속으로 랩 계속 하고.\n아 맞다. 그리고 비트박스를 해서.",
+     "en": "So I kept rapping to myself continuously. Oh right. And I did beatboxing."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 972480,
+       "end_ms": 975480,
+       "ko": "비트박스 해서 인기 많았어요.",
+       "en": "You did beatboxing and were popular?"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 972480,
+     "end_ms": 975480,
+     "ko": "비트박스 해서 인기 많았어요.",
+     "en": "You did beatboxing and were popular?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 975480,
+       "end_ms": 978480,
+       "ko": "동성 친구들한테 인기 많았어요.",
+       "en": "I was popular with my male friends."
+      }
+     ],
+     "start_ms": 975480,
+     "end_ms": 978480,
+     "ko": "동성 친구들한테 인기 많았어요.",
+     "en": "I was popular with my male friends."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 978480,
+       "end_ms": 979480,
+       "ko": "태용쌤이? 할 수 있어서?",
+       "en": "Teacher Tae-woong was? Because you could do it?"
+      }
+     ],
+     "start_ms": 978480,
+     "end_ms": 979480,
+     "ko": "태용쌤이? 할 수 있어서?",
+     "en": "Teacher Tae-woong was? Because you could do it?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 979480,
+       "end_ms": 980480,
+       "ko": "네. 제가. 제가.",
+       "en": "Yes. I could. I could."
+      }
+     ],
+     "start_ms": 979480,
+     "end_ms": 980480,
+     "ko": "네. 제가. 제가.",
+     "en": "Yes. I could. I could."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 980480,
+       "end_ms": 981480,
+       "ko": "대박.",
+       "en": "Wow."
+      }
+     ],
+     "start_ms": 980480,
+     "end_ms": 981480,
+     "ko": "대박.",
+     "en": "Wow."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 981480,
+       "end_ms": 982480,
+       "ko": "네. 중1 때부터.",
+       "en": "Yes. From 1st year of middle school."
+      }
+     ],
+     "start_ms": 981480,
+     "end_ms": 982480,
+     "ko": "네. 중1 때부터.",
+     "en": "Yes. From 1st year of middle school."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 982480,
+       "end_ms": 984480,
+       "ko": "지금도 할 수 있어요?",
+       "en": "Can you still do it now?"
+      }
+     ],
+     "start_ms": 982480,
+     "end_ms": 984480,
+     "ko": "지금도 할 수 있어요?",
+     "en": "Can you still do it now?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 984480,
+       "end_ms": 985480,
+       "ko": "할 수 있어요.",
+       "en": "I can."
+      },
+      {
+       "start_ms": 985480,
+       "end_ms": 990480,
+       "ko": "근데 좀 부끄러워서 안 할 거고요.",
+       "en": "But I'm a bit embarrassed so I won't do it."
+      }
+     ],
+     "start_ms": 984480,
+     "end_ms": 990480,
+     "ko": "할 수 있어요.\n근데 좀 부끄러워서 안 할 거고요.",
+     "en": "I can. But I'm a bit embarrassed so I won't do it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 990480,
+       "end_ms": 992480,
+       "ko": "아 진짜 웃겨.",
+       "en": "Oh that's really funny."
+      },
+      {
+       "start_ms": 992480,
+       "end_ms": 993480,
+       "ko": "비트박스요?",
+       "en": "Beatboxing?"
+      }
+     ],
+     "start_ms": 990480,
+     "end_ms": 993480,
+     "ko": "아 진짜 웃겨.\n비트박스요?",
+     "en": "Oh that's really funny. Beatboxing?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 993480,
+       "end_ms": 995480,
+       "ko": "네네.",
+       "en": "Yes, yes."
+      },
+      {
+       "start_ms": 995480,
+       "end_ms": 1000480,
+       "ko": "요즘은 초등학교 때부터 있다고 하는데",
+       "en": "These days they say it starts from elementary school"
+      },
+      {
+       "start_ms": 1000480,
+       "end_ms": 1005480,
+       "ko": "중학교 때부터 소위 무서운 친구들이 생기잖아요.",
+       "en": "But from middle school, so-called scary kids start appearing, right?"
+      },
+      {
+       "start_ms": 1005480,
+       "end_ms": 1006480,
+       "ko": "그 학교 안에.",
+       "en": "In that school."
+      },
+      {
+       "start_ms": 1007480,
+       "end_ms": 1009480,
+       "ko": "한국에서는 일진, 날라리.",
+       "en": "In Korea, we call them \"il-jin\" or \"nalari.\""
+      }
+     ],
+     "start_ms": 993480,
+     "end_ms": 1009480,
+     "ko": "네네.\n요즘은 초등학교 때부터 있다고 하는데\n중학교 때부터 소위 무서운 친구들이 생기잖아요.\n그 학교 안에.\n한국에서는 일진, 날라리.",
+     "en": "Yes, yes. These days they say it starts from elementary school But from middle school, so-called scary kids start appearing, right? In that school. In Korea, we call them \"il-jin\" or \"nalari.\""
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1009480,
+       "end_ms": 1010480,
+       "ko": "맞아요.",
+       "en": "That's right."
+      }
+     ],
+     "start_ms": 1009480,
+     "end_ms": 1010480,
+     "ko": "맞아요.",
+     "en": "That's right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1010480,
+       "end_ms": 1011480,
+       "ko": "이렇게 불러요.",
+       "en": "We call them that."
+      },
+      {
+       "start_ms": 1011480,
+       "end_ms": 1016480,
+       "ko": "네. 일진, 날라리라고 하는 험악한 무리가 생기는데",
+       "en": "Yes. These rough groups called \"il-jin\" or \"nalari\" form"
+      },
+      {
+       "start_ms": 1016480,
+       "end_ms": 1022480,
+       "ko": "근데 그 무리 중에 핵심 인물들 몇 명이",
+       "en": "And a few key people in that group"
+      },
+      {
+       "start_ms": 1022480,
+       "end_ms": 1026480,
+       "ko": "비보잉 댄스 이런 거를 좋아했거든요.",
+       "en": "Really liked b-boying and dancing like that."
+      },
+      {
+       "start_ms": 1026480,
+       "end_ms": 1031480,
+       "ko": "근데 그 중에 한 명이 저랑 같은 반이었는데",
+       "en": "And one of them was in my class"
+      },
+      {
+       "start_ms": 1031480,
+       "end_ms": 1034480,
+       "ko": "저는 비트박스를 했잖아요. 하잖아요.",
+       "en": "I did beatboxing, right? I could do it."
+      },
+      {
+       "start_ms": 1034480,
+       "end_ms": 1038480,
+       "ko": "그리고 얘가 힙합 음악도 많이 알고",
+       "en": "And he knew a lot of hip-hop music too"
+      },
+      {
+       "start_ms": 1038480,
+       "end_ms": 1044480,
+       "ko": "그래서 저는 일진 무리와 전혀 공통점이 없음에도 불구하고",
+       "en": "So even though I had nothing in common with the il-jin group at all"
+      },
+      {
+       "start_ms": 1044480,
+       "end_ms": 1048480,
+       "ko": "나름의 존중을 받았달까요.",
+       "en": "I received a kind of respect, you could say."
+      }
+     ],
+     "start_ms": 1010480,
+     "end_ms": 1048480,
+     "ko": "이렇게 불러요.\n네. 일진, 날라리라고 하는 험악한 무리가 생기는데\n근데 그 무리 중에 핵심 인물들 몇 명이\n비보잉 댄스 이런 거를 좋아했거든요.\n근데 그 중에 한 명이 저랑 같은 반이었는데\n저는 비트박스를 했잖아요. 하잖아요.\n그리고 얘가 힙합 음악도 많이 알고\n그래서 저는 일진 무리와 전혀 공통점이 없음에도 불구하고\n나름의 존중을 받았달까요.",
+     "en": "We call them that. Yes. These rough groups called \"il-jin\" or \"nalari\" form And a few key people in that group Really liked b-boying and dancing like that. And one of them was in my class I did beatboxing, right? I could do it. And he knew a lot of hip-hop music too So even though I had nothing in common with the il-jin group at all I received a kind of respect, you could say."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1048480,
+       "end_ms": 1050480,
+       "ko": "비트박스를 할 줄 알아서요?",
+       "en": "Because you could do beatboxing?"
+      }
+     ],
+     "start_ms": 1048480,
+     "end_ms": 1050480,
+     "ko": "비트박스를 할 줄 알아서요?",
+     "en": "Because you could do beatboxing?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1050480,
+       "end_ms": 1051480,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1050480,
+     "end_ms": 1051480,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1051480,
+       "end_ms": 1053480,
+       "ko": "특이하네.",
+       "en": "That's interesting."
+      }
+     ],
+     "start_ms": 1051480,
+     "end_ms": 1053480,
+     "ko": "특이하네.",
+     "en": "That's interesting."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1053480,
+       "end_ms": 1060480,
+       "ko": "그래서 쟤는 좀 놀 수 있는 애.",
+       "en": "So he was seen as a kid who could hang out."
+      },
+      {
+       "start_ms": 1060480,
+       "end_ms": 1063480,
+       "ko": "그런 인식이었던 것 같아요.",
+       "en": "That's the impression I think I had."
+      }
+     ],
+     "start_ms": 1053480,
+     "end_ms": 1063480,
+     "ko": "그래서 쟤는 좀 놀 수 있는 애.\n그런 인식이었던 것 같아요.",
+     "en": "So he was seen as a kid who could hang out. That's the impression I think I had."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1063480,
+       "end_ms": 1065480,
+       "ko": "마침 그게 맞았네요.",
+       "en": "That turned out to be exactly right."
+      }
+     ],
+     "start_ms": 1063480,
+     "end_ms": 1065480,
+     "ko": "마침 그게 맞았네요.",
+     "en": "That turned out to be exactly right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1065480,
+       "end_ms": 1066480,
+       "ko": "네. 특이하죠.",
+       "en": "Yes. It's quite unusual, isn't it?"
+      }
+     ],
+     "start_ms": 1065480,
+     "end_ms": 1066480,
+     "ko": "네. 특이하죠.",
+     "en": "Yes. It's quite unusual, isn't it?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1066480,
+       "end_ms": 1069480,
+       "ko": "태용쌤 학교 일진들이랑.",
+       "en": "Teacher Tae-woong and the school delinquents."
+      }
+     ],
+     "start_ms": 1066480,
+     "end_ms": 1069480,
+     "ko": "태용쌤 학교 일진들이랑.",
+     "en": "Teacher Tae-woong and the school delinquents."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1069480,
+       "end_ms": 1074480,
+       "ko": "다 그런 건 아니었는데 진짜 소수의 어떤 애들 이렇게 돼서.",
+       "en": "Not all of them were like that, but there were really just a small number of kids who ended up that way."
+      }
+     ],
+     "start_ms": 1069480,
+     "end_ms": 1074480,
+     "ko": "다 그런 건 아니었는데 진짜 소수의 어떤 애들 이렇게 돼서.",
+     "en": "Not all of them were like that, but there were really just a small number of kids who ended up that way."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1074480,
+       "end_ms": 1075480,
+       "ko": "신기하다.",
+       "en": "It's fascinating."
+      }
+     ],
+     "start_ms": 1074480,
+     "end_ms": 1075480,
+     "ko": "신기하다.",
+     "en": "It's fascinating."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1075480,
+       "end_ms": 1077480,
+       "ko": "그래도 무서웠죠.",
+       "en": "Still, it was scary."
+      }
+     ],
+     "start_ms": 1075480,
+     "end_ms": 1077480,
+     "ko": "그래도 무서웠죠.",
+     "en": "Still, it was scary."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1077480,
+       "end_ms": 1083480,
+       "ko": "저는 중학교 때 일진 무리들이 있었거든요. 저희 학교에도.",
+       "en": "I had delinquent groups at my middle school. At our school too."
+      },
+      {
+       "start_ms": 1083480,
+       "end_ms": 1089480,
+       "ko": "근데 되게 미용에 관심이 많은 사람들이 많아요.",
+       "en": "But there were a lot of people who were really interested in beauty and appearance."
+      },
+      {
+       "start_ms": 1089480,
+       "end_ms": 1095480,
+       "ko": "옷도 예쁜 옷 입고 머리도 예쁘게 하고 화장도 하고.",
+       "en": "They wore pretty clothes, did their hair nicely, and wore makeup."
+      },
+      {
+       "start_ms": 1095480,
+       "end_ms": 1101480,
+       "ko": "근데 그 중에서 선배들이 되게 멋있었거든요.",
+       "en": "But among them, the older students were really cool."
+      },
+      {
+       "start_ms": 1101480,
+       "end_ms": 1105480,
+       "ko": "하는 행동이 멋있었는지 어떤지 모르겠지만 그냥 하고 다니는 게.",
+       "en": "Whether their actions were cool or what, I'm not sure, but just the way they carried themselves."
+      },
+      {
+       "start_ms": 1105480,
+       "end_ms": 1110480,
+       "ko": "그래서 저 친구들이랑 되게 따라다니고 이랬던 기억도 있어요.",
+       "en": "So I have memories of following those friends around a lot like that."
+      }
+     ],
+     "start_ms": 1077480,
+     "end_ms": 1110480,
+     "ko": "저는 중학교 때 일진 무리들이 있었거든요. 저희 학교에도.\n근데 되게 미용에 관심이 많은 사람들이 많아요.\n옷도 예쁜 옷 입고 머리도 예쁘게 하고 화장도 하고.\n근데 그 중에서 선배들이 되게 멋있었거든요.\n하는 행동이 멋있었는지 어떤지 모르겠지만 그냥 하고 다니는 게.\n그래서 저 친구들이랑 되게 따라다니고 이랬던 기억도 있어요.",
+     "en": "I had delinquent groups at my middle school. At our school too. But there were a lot of people who were really interested in beauty and appearance. They wore pretty clothes, did their hair nicely, and wore makeup. But among them, the older students were really cool. Whether their actions were cool or what, I'm not sure, but just the way they carried themselves. So I have memories of following those friends around a lot like that."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1110480,
+       "end_ms": 1111480,
+       "ko": "진짜요?",
+       "en": "Really?"
+      }
+     ],
+     "start_ms": 1110480,
+     "end_ms": 1111480,
+     "ko": "진짜요?",
+     "en": "Really?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1111480,
+       "end_ms": 1116479,
+       "ko": "대놓고 그러진 않았는데 저 사람 멋있다.",
+       "en": "I didn't do it openly, but I remember thinking that person is cool."
+      },
+      {
+       "start_ms": 1116479,
+       "end_ms": 1119479,
+       "ko": "이렇게 했던 기억도 꽤 있어요.",
+       "en": "I have quite a few memories of that."
+      }
+     ],
+     "start_ms": 1111480,
+     "end_ms": 1119479,
+     "ko": "대놓고 그러진 않았는데 저 사람 멋있다.\n이렇게 했던 기억도 꽤 있어요.",
+     "en": "I didn't do it openly, but I remember thinking that person is cool. I have quite a few memories of that."
+    }
+   ]
+  },
+  {
+   "part": 3,
+   "title_ko": "싸이월드, 학원, 장래 희망, 댄스부",
+   "title_en": "Cyworld, academies, future dreams, dance club",
+   "start_ms": 1119479,
+   "end_ms": 1579640,
+   "hangul_chars": 1685,
+   "turns": [
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1119479,
+       "end_ms": 1122479,
+       "ko": "중학교 때부터 좀 그런 거 있지 않나요?",
+       "en": "Doesn't that kind of thing start from middle school?"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1119479,
+     "end_ms": 1122479,
+     "ko": "중학교 때부터 좀 그런 거 있지 않나요?",
+     "en": "Doesn't that kind of thing start from middle school?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1122479,
+       "end_ms": 1123479,
+       "ko": "어떤?",
+       "en": "What kind of thing?"
+      }
+     ],
+     "start_ms": 1122479,
+     "end_ms": 1123479,
+     "ko": "어떤?",
+     "en": "What kind of thing?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1123479,
+       "end_ms": 1127479,
+       "ko": "연애나 누구 좋아하고.",
+       "en": "Dating or liking someone."
+      }
+     ],
+     "start_ms": 1123479,
+     "end_ms": 1127479,
+     "ko": "연애나 누구 좋아하고.",
+     "en": "Dating or liking someone."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1127479,
+       "end_ms": 1130479,
+       "ko": "그렇죠. 그때부터 시작인 것 같아요.",
+       "en": "Right. It seems like that's when it starts."
+      }
+     ],
+     "start_ms": 1127479,
+     "end_ms": 1130479,
+     "ko": "그렇죠. 그때부터 시작인 것 같아요.",
+     "en": "Right. It seems like that's when it starts."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1130479,
+       "end_ms": 1133479,
+       "ko": "그러니까요. 싸이월드 이런 거 하고.",
+       "en": "Exactly. And doing things like Cyworld."
+      }
+     ],
+     "start_ms": 1130479,
+     "end_ms": 1133479,
+     "ko": "그러니까요. 싸이월드 이런 거 하고.",
+     "en": "Exactly. And doing things like Cyworld."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1133479,
+       "end_ms": 1135479,
+       "ko": "싸이월드 맞아.",
+       "en": "Cyworld, right."
+      }
+     ],
+     "start_ms": 1133479,
+     "end_ms": 1135479,
+     "ko": "싸이월드 맞아.",
+     "en": "Cyworld, right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1135479,
+       "end_ms": 1136479,
+       "ko": "했어요?",
+       "en": "You did that?"
+      }
+     ],
+     "start_ms": 1135479,
+     "end_ms": 1136479,
+     "ko": "했어요?",
+     "en": "You did that?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1136479,
+       "end_ms": 1137479,
+       "ko": "했죠.",
+       "en": "I did."
+      },
+      {
+       "start_ms": 1137479,
+       "end_ms": 1139479,
+       "ko": "네이톤 싸이월드.",
+       "en": "Nate Cyworld."
+      }
+     ],
+     "start_ms": 1136479,
+     "end_ms": 1139479,
+     "ko": "했죠.\n네이톤 싸이월드.",
+     "en": "I did. Nate Cyworld."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1139479,
+       "end_ms": 1144479,
+       "ko": "지금으로 치면 SNS 같은 거죠.",
+       "en": "It's like SNS if you think about it now."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1139479,
+     "end_ms": 1144479,
+     "ko": "지금으로 치면 SNS 같은 거죠.",
+     "en": "It's like SNS if you think about it now."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1144479,
+       "end_ms": 1146479,
+       "ko": "한국의 원조 SNS죠.",
+       "en": "It's the original Korean SNS."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1144479,
+     "end_ms": 1146479,
+     "ko": "한국의 원조 SNS죠.",
+     "en": "It's the original Korean SNS."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1146479,
+       "end_ms": 1148479,
+       "ko": "맞아요.",
+       "en": "That's right."
+      }
+     ],
+     "start_ms": 1146479,
+     "end_ms": 1148479,
+     "ko": "맞아요.",
+     "en": "That's right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1148479,
+       "end_ms": 1150479,
+       "ko": "미니홈피? 미니홈페이지?",
+       "en": "Mini homepage? Mini homepage?"
+      }
+     ],
+     "start_ms": 1148479,
+     "end_ms": 1150479,
+     "ko": "미니홈피? 미니홈페이지?",
+     "en": "Mini homepage? Mini homepage?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1150479,
+       "end_ms": 1154479,
+       "ko": "자기 페이지를 만들어서 놀러가고 이런 거 있었어요.",
+       "en": "You'd create your own page and visit others' pages and stuff like that."
+      }
+     ],
+     "start_ms": 1150479,
+     "end_ms": 1154479,
+     "ko": "자기 페이지를 만들어서 놀러가고 이런 거 있었어요.",
+     "en": "You'd create your own page and visit others' pages and stuff like that."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1154479,
+       "end_ms": 1157479,
+       "ko": "미니홈피. 블로그 같은 건데",
+       "en": "Mini homepage. It's like a blog,"
+      }
+     ],
+     "start_ms": 1154479,
+     "end_ms": 1157479,
+     "ko": "미니홈피. 블로그 같은 건데",
+     "en": "Mini homepage. It's like a blog,"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1157479,
+       "end_ms": 1158479,
+       "ko": "맞아.",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 1157479,
+     "end_ms": 1158479,
+     "ko": "맞아.",
+     "en": "Right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1158479,
+       "end_ms": 1161479,
+       "ko": "좀 더 아기자기하게 만들어 놓은.",
+       "en": "But made more cute and decorative."
+      },
+      {
+       "start_ms": 1161479,
+       "end_ms": 1165479,
+       "ko": "그래서 그 홈 화면, 처음 들어가는 화면에",
+       "en": "So on that home screen, the first screen you'd see when you entered,"
+      },
+      {
+       "start_ms": 1165479,
+       "end_ms": 1170479,
+       "ko": "자기의 캐릭터랑 자기 방을 꾸며 놓을 수 있었어요.",
+       "en": "You could decorate your character and your room."
+      }
+     ],
+     "start_ms": 1158479,
+     "end_ms": 1170479,
+     "ko": "좀 더 아기자기하게 만들어 놓은.\n그래서 그 홈 화면, 처음 들어가는 화면에\n자기의 캐릭터랑 자기 방을 꾸며 놓을 수 있었어요.",
+     "en": "But made more cute and decorative. So on that home screen, the first screen you'd see when you entered, You could decorate your character and your room."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1170479,
+       "end_ms": 1173479,
+       "ko": "맞아요. BGM도 선택해서 넣을 수 있었어요.",
+       "en": "Right. You could also choose and add BGM."
+      }
+     ],
+     "start_ms": 1170479,
+     "end_ms": 1173479,
+     "ko": "맞아요. BGM도 선택해서 넣을 수 있었어요.",
+     "en": "Right. You could also choose and add BGM."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1173479,
+       "end_ms": 1174479,
+       "ko": "맞아요.",
+       "en": "Yeah."
+      }
+     ],
+     "start_ms": 1173479,
+     "end_ms": 1174479,
+     "ko": "맞아요.",
+     "en": "Yeah."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1174479,
+       "end_ms": 1177479,
+       "ko": "태용쌤 BGM은 힙합이었겠네요?",
+       "en": "So Teacher Tae-woong's BGM was hip-hop, right?"
+      }
+     ],
+     "start_ms": 1174479,
+     "end_ms": 1177479,
+     "ko": "태용쌤 BGM은 힙합이었겠네요?",
+     "en": "So Teacher Tae-woong's BGM was hip-hop, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1177479,
+       "end_ms": 1178479,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1177479,
+     "end_ms": 1178479,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1182479,
+       "end_ms": 1187479,
+       "ko": "그때부터 관심 있는 이성도 생길 때고.",
+       "en": "And that's also when you start developing interest in the opposite sex."
+      }
+     ],
+     "start_ms": 1182479,
+     "end_ms": 1187479,
+     "ko": "그때부터 관심 있는 이성도 생길 때고.",
+     "en": "And that's also when you start developing interest in the opposite sex."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1187479,
+       "end_ms": 1188479,
+       "ko": "맞아.",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 1187479,
+     "end_ms": 1188479,
+     "ko": "맞아.",
+     "en": "Right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1188479,
+       "end_ms": 1193479,
+       "ko": "그리고 누가 멋있다 해서 인기 있는 친구들도 생기고.",
+       "en": "And then some friends become popular because people think they're cool."
+      }
+     ],
+     "start_ms": 1188479,
+     "end_ms": 1193479,
+     "ko": "그리고 누가 멋있다 해서 인기 있는 친구들도 생기고.",
+     "en": "And then some friends become popular because people think they're cool."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1193479,
+       "end_ms": 1195479,
+       "ko": "그랬죠.",
+       "en": "That's how it was."
+      },
+      {
+       "start_ms": 1195479,
+       "end_ms": 1199479,
+       "ko": "하지만 아쉽게도 저는 중학생 때부터 인기를 잃었습니다.",
+       "en": "But unfortunately, I lost my popularity starting from middle school."
+      }
+     ],
+     "start_ms": 1193479,
+     "end_ms": 1199479,
+     "ko": "그랬죠.\n하지만 아쉽게도 저는 중학생 때부터 인기를 잃었습니다.",
+     "en": "That's how it was. But unfortunately, I lost my popularity starting from middle school."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1200000,
+       "end_ms": 1201840,
+       "ko": "인기가 중학생 때 끝났어요?",
+       "en": "Your popularity ended in middle school?"
+      }
+     ],
+     "start_ms": 1200000,
+     "end_ms": 1201840,
+     "ko": "인기가 중학생 때 끝났어요?",
+     "en": "Your popularity ended in middle school?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1201840,
+       "end_ms": 1202600,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1201840,
+     "end_ms": 1202600,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1202600,
+       "end_ms": 1204160,
+       "ko": "아...",
+       "en": "Ah..."
+      },
+      {
+       "start_ms": 1204160,
+       "end_ms": 1205880,
+       "ko": "머리를 짧게 잘라서 그런가?",
+       "en": "Was it because you cut your hair short?"
+      }
+     ],
+     "start_ms": 1202600,
+     "end_ms": 1205880,
+     "ko": "아...\n머리를 짧게 잘라서 그런가?",
+     "en": "Ah... Was it because you cut your hair short?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1205880,
+       "end_ms": 1206960,
+       "ko": "그런 것 같아요.",
+       "en": "I think that was part of it."
+      },
+      {
+       "start_ms": 1209960,
+       "end_ms": 1216000,
+       "ko": "근데 그런 제약을 어떻게든 무시하려고 하고",
+       "en": "But people try to ignore those restrictions somehow,"
+      },
+      {
+       "start_ms": 1216000,
+       "end_ms": 1220280,
+       "ko": "좀 싸우면서 멋을 부리면 부릴 수 있잖아요.",
+       "en": "And if you fight a bit while trying to look cool, you can pull it off, right?"
+      },
+      {
+       "start_ms": 1220280,
+       "end_ms": 1225360,
+       "ko": "근데 그러려면 선생님들과의 관계가 안 좋아질 수 있고",
+       "en": "But to do that, your relationship with teachers could get worse,"
+      },
+      {
+       "start_ms": 1225360,
+       "end_ms": 1229360,
+       "ko": "그런 갈등을 저는 버틸 수 없었어요.",
+       "en": "And I couldn't handle that kind of conflict."
+      },
+      {
+       "start_ms": 1229360,
+       "end_ms": 1232000,
+       "ko": "저는 그냥 순한 아이였기 때문에.",
+       "en": "I was just a gentle kid."
+      }
+     ],
+     "start_ms": 1205880,
+     "end_ms": 1232000,
+     "ko": "그런 것 같아요.\n근데 그런 제약을 어떻게든 무시하려고 하고\n좀 싸우면서 멋을 부리면 부릴 수 있잖아요.\n근데 그러려면 선생님들과의 관계가 안 좋아질 수 있고\n그런 갈등을 저는 버틸 수 없었어요.\n저는 그냥 순한 아이였기 때문에.",
+     "en": "I think that was part of it. But people try to ignore those restrictions somehow, And if you fight a bit while trying to look cool, you can pull it off, right? But to do that, your relationship with teachers could get worse, And I couldn't handle that kind of conflict. I was just a gentle kid."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1232000,
+       "end_ms": 1233799,
+       "ko": "그랬구나.",
+       "en": "I see."
+      },
+      {
+       "start_ms": 1233799,
+       "end_ms": 1237080,
+       "ko": "맞아. 초등학교 때부터는 아니 중학교 때부터는",
+       "en": "Right. From elementary school, or rather from middle school,"
+      },
+      {
+       "start_ms": 1237080,
+       "end_ms": 1240959,
+       "ko": "좀 인기 있어지는 친구들의 기준도 달라지는 것 같아요.",
+       "en": "The standards for what makes friends popular seem to change."
+      },
+      {
+       "start_ms": 1240959,
+       "end_ms": 1243040,
+       "ko": "순한 친구들보다는.",
+       "en": "More than gentle friends."
+      }
+     ],
+     "start_ms": 1232000,
+     "end_ms": 1243040,
+     "ko": "그랬구나.\n맞아. 초등학교 때부터는 아니 중학교 때부터는\n좀 인기 있어지는 친구들의 기준도 달라지는 것 같아요.\n순한 친구들보다는.",
+     "en": "I see. Right. From elementary school, or rather from middle school, The standards for what makes friends popular seem to change. More than gentle friends."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1243040,
+       "end_ms": 1244439,
+       "ko": "맞아요.",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 1243040,
+     "end_ms": 1244439,
+     "ko": "맞아요.",
+     "en": "Right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1244439,
+       "end_ms": 1251799,
+       "ko": "좀 더 튀는 친구들이 인기가 있었던 것 같아요.",
+       "en": "Friends who stood out more seemed to be more popular."
+      },
+      {
+       "start_ms": 1251799,
+       "end_ms": 1254279,
+       "ko": "학원도 다녔어요?",
+       "en": "Did you go to hagwons too?"
+      }
+     ],
+     "start_ms": 1244439,
+     "end_ms": 1254279,
+     "ko": "좀 더 튀는 친구들이 인기가 있었던 것 같아요.\n학원도 다녔어요?",
+     "en": "Friends who stood out more seemed to be more popular. Did you go to hagwons too?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1254279,
+       "end_ms": 1258680,
+       "ko": "학원은 그 수학 학원하고",
+       "en": "There was this math academy and"
+      },
+      {
+       "start_ms": 1258680,
+       "end_ms": 1263279,
+       "ko": "그리고 영어 학원을 잠깐 다닌 적이 있고",
+       "en": "and I went to an English academy for a bit too"
+      },
+      {
+       "start_ms": 1263279,
+       "end_ms": 1267599,
+       "ko": "그때부터 드럼을 다녔어요. 드럼 학원.",
+       "en": "and from then on I went to drum lessons. A drum academy."
+      }
+     ],
+     "start_ms": 1254279,
+     "end_ms": 1267599,
+     "ko": "학원은 그 수학 학원하고\n그리고 영어 학원을 잠깐 다닌 적이 있고\n그때부터 드럼을 다녔어요. 드럼 학원.",
+     "en": "There was this math academy and and I went to an English academy for a bit too and from then on I went to drum lessons. A drum academy."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1267599,
+       "end_ms": 1268279,
+       "ko": "음악?",
+       "en": "Music?"
+      }
+     ],
+     "start_ms": 1267599,
+     "end_ms": 1268279,
+     "ko": "음악?",
+     "en": "Music?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1268279,
+       "end_ms": 1269599,
+       "ko": "네네네.",
+       "en": "Yes, yes, yes."
+      },
+      {
+       "start_ms": 1269599,
+       "end_ms": 1271440,
+       "ko": "그래서 그건 재밌었어요.",
+       "en": "So that was fun."
+      }
+     ],
+     "start_ms": 1268279,
+     "end_ms": 1271440,
+     "ko": "네네네.\n그래서 그건 재밌었어요.",
+     "en": "Yes, yes, yes. So that was fun."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1271440,
+       "end_ms": 1273360,
+       "ko": "다니고 싶다고 해서 다닌 거예요?",
+       "en": "Did you ask to go, and then they sent you?"
+      }
+     ],
+     "start_ms": 1271440,
+     "end_ms": 1273360,
+     "ko": "다니고 싶다고 해서 다닌 거예요?",
+     "en": "Did you ask to go, and then they sent you?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1273360,
+       "end_ms": 1274080,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1273360,
+     "end_ms": 1274080,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1274080,
+       "end_ms": 1276000,
+       "ko": "우와.",
+       "en": "Wow."
+      },
+      {
+       "start_ms": 1276000,
+       "end_ms": 1278440,
+       "ko": "우와. 부모님이 짱이다.",
+       "en": "Wow. Your parents are the best."
+      }
+     ],
+     "start_ms": 1274080,
+     "end_ms": 1278440,
+     "ko": "우와.\n우와. 부모님이 짱이다.",
+     "en": "Wow. Wow. Your parents are the best."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1278440,
+       "end_ms": 1280000,
+       "ko": "그렇죠.",
+       "en": "That's right."
+      }
+     ],
+     "start_ms": 1278440,
+     "end_ms": 1280000,
+     "ko": "그렇죠.",
+     "en": "That's right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1280000,
+       "end_ms": 1284839,
+       "ko": "절대 안 보내주실 것 같아요. 저희 부모님은.",
+       "en": "I don't think my parents would ever send me. My parents."
+      }
+     ],
+     "start_ms": 1280000,
+     "end_ms": 1284839,
+     "ko": "절대 안 보내주실 것 같아요. 저희 부모님은.",
+     "en": "I don't think my parents would ever send me. My parents."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1284959,
+       "end_ms": 1288879,
+       "ko": "저희 부모님께서 생각을 많이 하셨던 것 같아요.",
+       "en": "It seems like my parents thought about it a lot."
+      },
+      {
+       "start_ms": 1288879,
+       "end_ms": 1293279,
+       "ko": "그러니까 얘가 초등학교 편에서 얘기했듯이",
+       "en": "So like, as he mentioned in the elementary school episode"
+      },
+      {
+       "start_ms": 1293279,
+       "end_ms": 1296040,
+       "ko": "얘가 그림 그리는 거 좋아해서",
+       "en": "he liked drawing"
+      },
+      {
+       "start_ms": 1296040,
+       "end_ms": 1299879,
+       "ko": "미술 학원 데려갔더니 안 한다고 그러고",
+       "en": "so we took him to an art academy and he said he didn't want to do it"
+      },
+      {
+       "start_ms": 1299879,
+       "end_ms": 1302400,
+       "ko": "막 그런 식이었거든요 항상.",
+       "en": "it was always like that."
+      },
+      {
+       "start_ms": 1302400,
+       "end_ms": 1305680,
+       "ko": "저희 부모님은 제가 좋아하는 걸 찾아서",
+       "en": "My parents wanted to find what I liked"
+      },
+      {
+       "start_ms": 1305680,
+       "end_ms": 1308199,
+       "ko": "그걸 시켜주시고 싶었어요.",
+       "en": "and have me do that."
+      },
+      {
+       "start_ms": 1308199,
+       "end_ms": 1308879,
+       "ko": "싶으셨어요.",
+       "en": "They wanted to."
+      },
+      {
+       "start_ms": 1308879,
+       "end_ms": 1311080,
+       "ko": "그런데 얘가 알아서",
+       "en": "But then he"
+      },
+      {
+       "start_ms": 1311080,
+       "end_ms": 1314360,
+       "ko": "나 어디 학원 가고 싶어요 라고 얘기를 하니까",
+       "en": "said \"I want to go to this academy\" on his own"
+      },
+      {
+       "start_ms": 1314360,
+       "end_ms": 1316120,
+       "ko": "바로 보내주셨던 것 같아요.",
+       "en": "so they sent me right away, it seems."
+      }
+     ],
+     "start_ms": 1284959,
+     "end_ms": 1316120,
+     "ko": "저희 부모님께서 생각을 많이 하셨던 것 같아요.\n그러니까 얘가 초등학교 편에서 얘기했듯이\n얘가 그림 그리는 거 좋아해서\n미술 학원 데려갔더니 안 한다고 그러고\n막 그런 식이었거든요 항상.\n저희 부모님은 제가 좋아하는 걸 찾아서\n그걸 시켜주시고 싶었어요.\n싶으셨어요.\n그런데 얘가 알아서\n나 어디 학원 가고 싶어요 라고 얘기를 하니까\n바로 보내주셨던 것 같아요.",
+     "en": "It seems like my parents thought about it a lot. So like, as he mentioned in the elementary school episode he liked drawing so we took him to an art academy and he said he didn't want to do it it was always like that. My parents wanted to find what I liked and have me do that. They wanted to. But then he said \"I want to go to this academy\" on his own so they sent me right away, it seems."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1316120,
+       "end_ms": 1317720,
+       "ko": "우와.",
+       "en": "Wow."
+      }
+     ],
+     "start_ms": 1316120,
+     "end_ms": 1317720,
+     "ko": "우와.",
+     "en": "Wow."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1317720,
+       "end_ms": 1323279,
+       "ko": "그런데 그조차도 드럼 학원 가고 싶어요.",
+       "en": "But even then, he said he wanted to go to drum academy."
+      },
+      {
+       "start_ms": 1323279,
+       "end_ms": 1325959,
+       "ko": "드럼 배우고 싶어요. 얘기했다가",
+       "en": "He said he wanted to learn drums, and then"
+      },
+      {
+       "start_ms": 1325959,
+       "end_ms": 1329600,
+       "ko": "며칠 뒤에 비트박스 배워서",
+       "en": "a few days later he learned beatboxing"
+      },
+      {
+       "start_ms": 1329600,
+       "end_ms": 1331600,
+       "ko": "엄마한테 저 이제 비트박스 배워서",
+       "en": "and told his mom, \"Mom, now that I've learned beatboxing"
+      },
+      {
+       "start_ms": 1331600,
+       "end_ms": 1335279,
+       "ko": "드럼 안 배워도 될 것 같아요. 이렇게",
+       "en": "I don't think I need to learn drums anymore.\" Like that"
+      },
+      {
+       "start_ms": 1335279,
+       "end_ms": 1339639,
+       "ko": "그렇게 얘기했는데 엄마가 아 그러지 마라.",
+       "en": "he said that, but mom said, \"No, don't do that."
+      },
+      {
+       "start_ms": 1339639,
+       "end_ms": 1343000,
+       "ko": "한번 학원 가서 얘기를 해봐라.",
+       "en": "Go to the academy once and talk about it there.\""
+      },
+      {
+       "start_ms": 1343320,
+       "end_ms": 1345839,
+       "ko": "그래서 일단 학원에 데리고 가면",
+       "en": "So once they took me to the academy"
+      },
+      {
+       "start_ms": 1345839,
+       "end_ms": 1349279,
+       "ko": "저는 네 할게요. 이렇게 하는 애였어요.",
+       "en": "I was the type to say, \"Okay, I'll do it.\""
+      },
+      {
+       "start_ms": 1349279,
+       "end_ms": 1353240,
+       "ko": "그래서 학원에 다니고 재미있게 했죠.",
+       "en": "So I went to the academy and had fun with it."
+      }
+     ],
+     "start_ms": 1317720,
+     "end_ms": 1353240,
+     "ko": "그런데 그조차도 드럼 학원 가고 싶어요.\n드럼 배우고 싶어요. 얘기했다가\n며칠 뒤에 비트박스 배워서\n엄마한테 저 이제 비트박스 배워서\n드럼 안 배워도 될 것 같아요. 이렇게\n그렇게 얘기했는데 엄마가 아 그러지 마라.\n한번 학원 가서 얘기를 해봐라.\n그래서 일단 학원에 데리고 가면\n저는 네 할게요. 이렇게 하는 애였어요.\n그래서 학원에 다니고 재미있게 했죠.",
+     "en": "But even then, he said he wanted to go to drum academy. He said he wanted to learn drums, and then a few days later he learned beatboxing and told his mom, \"Mom, now that I've learned beatboxing I don't think I need to learn drums anymore.\" Like that he said that, but mom said, \"No, don't do that. Go to the academy once and talk about it there.\" So once they took me to the academy I was the type to say, \"Okay, I'll do it.\" So I went to the academy and had fun with it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1353240,
+       "end_ms": 1357360,
+       "ko": "고민이 많으셨겠네요. 부모님께서.",
+       "en": "Your parents must have had a lot to think about."
+      },
+      {
+       "start_ms": 1357360,
+       "end_ms": 1361080,
+       "ko": "애는 착한데",
+       "en": "The kid is good"
+      },
+      {
+       "start_ms": 1361080,
+       "end_ms": 1363679,
+       "ko": "뭘 하고 싶어 하는지 모르겠고.",
+       "en": "but we didn't know what he wanted to do."
+      }
+     ],
+     "start_ms": 1353240,
+     "end_ms": 1363679,
+     "ko": "고민이 많으셨겠네요. 부모님께서.\n애는 착한데\n뭘 하고 싶어 하는지 모르겠고.",
+     "en": "Your parents must have had a lot to think about. The kid is good but we didn't know what he wanted to do."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1363679,
+       "end_ms": 1364559,
+       "ko": "그렇죠.",
+       "en": "That's right."
+      }
+     ],
+     "start_ms": 1363679,
+     "end_ms": 1364559,
+     "ko": "그렇죠.",
+     "en": "That's right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1364559,
+       "end_ms": 1367440,
+       "ko": "또 직업이랑 연관짓기도 어려우니까.",
+       "en": "And it's hard to connect it to a career too."
+      }
+     ],
+     "start_ms": 1364559,
+     "end_ms": 1367440,
+     "ko": "또 직업이랑 연관짓기도 어려우니까.",
+     "en": "And it's hard to connect it to a career too."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1367440,
+       "end_ms": 1368039,
+       "ko": "맞아요.",
+       "en": "That's true."
+      }
+     ],
+     "start_ms": 1367440,
+     "end_ms": 1368039,
+     "ko": "맞아요.",
+     "en": "That's true."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1368039,
+       "end_ms": 1370080,
+       "ko": "태용쌤이 관심 있어 하시는 것들이.",
+       "en": "The things Teacher Tae-woong is interested in."
+      }
+     ],
+     "start_ms": 1368039,
+     "end_ms": 1370080,
+     "ko": "태용쌤이 관심 있어 하시는 것들이.",
+     "en": "The things Teacher Tae-woong is interested in."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1370080,
+       "end_ms": 1371880,
+       "ko": "네.",
+       "en": "Yes."
+      },
+      {
+       "start_ms": 1371919,
+       "end_ms": 1378559,
+       "ko": "그래서 진짜 저는 초등학교, 중학교, 고등학교",
+       "en": "So honestly, in elementary school, middle school, and high school"
+      },
+      {
+       "start_ms": 1378559,
+       "end_ms": 1382160,
+       "ko": "모두 한 번씩 학교에서 장래희망.",
+       "en": "I had to write about my future dream once in each."
+      }
+     ],
+     "start_ms": 1370080,
+     "end_ms": 1382160,
+     "ko": "네.\n그래서 진짜 저는 초등학교, 중학교, 고등학교\n모두 한 번씩 학교에서 장래희망.",
+     "en": "Yes. So honestly, in elementary school, middle school, and high school I had to write about my future dream once in each."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1382160,
+       "end_ms": 1383000,
+       "ko": "그러니까요.",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 1382160,
+     "end_ms": 1383000,
+     "ko": "그러니까요.",
+     "en": "Right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1383000,
+       "end_ms": 1384960,
+       "ko": "나중에 무슨 직업을 가지고 싶은지",
+       "en": "Like, what job I wanted to have later"
+      },
+      {
+       "start_ms": 1384960,
+       "end_ms": 1387160,
+       "ko": "뭐가 되고 싶은지 적잖아요.",
+       "en": "what I wanted to become, you write it down."
+      },
+      {
+       "start_ms": 1387160,
+       "end_ms": 1388839,
+       "ko": "그때 진심으로 뭐가 되고 싶어서",
+       "en": "At that time, I never once"
+      },
+      {
+       "start_ms": 1388839,
+       "end_ms": 1391199,
+       "ko": "쓴 적이 단 한 번도 없어요.",
+       "en": "wrote it sincerely about what I wanted to become."
+      }
+     ],
+     "start_ms": 1383000,
+     "end_ms": 1391199,
+     "ko": "나중에 무슨 직업을 가지고 싶은지\n뭐가 되고 싶은지 적잖아요.\n그때 진심으로 뭐가 되고 싶어서\n쓴 적이 단 한 번도 없어요.",
+     "en": "Like, what job I wanted to have later what I wanted to become, you write it down. At that time, I never once wrote it sincerely about what I wanted to become."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1391199,
+       "end_ms": 1393800,
+       "ko": "그러면요. 대충 써서 냈어요?",
+       "en": "So you just wrote it roughly?"
+      }
+     ],
+     "start_ms": 1391199,
+     "end_ms": 1393800,
+     "ko": "그러면요. 대충 써서 냈어요?",
+     "en": "So you just wrote it roughly?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1393800,
+       "end_ms": 1395199,
+       "ko": "네. 대충.",
+       "en": "Yes. Roughly."
+      },
+      {
+       "start_ms": 1395199,
+       "end_ms": 1397600,
+       "ko": "그냥 뭐 지나가면서 누나가",
+       "en": "Like, my older sister just mentioned in passing"
+      },
+      {
+       "start_ms": 1397600,
+       "end_ms": 1399279,
+       "ko": "아 저 직업 하면 멋있을 것 같다.",
+       "en": "\"Oh, that job would seem cool.\""
+      },
+      {
+       "start_ms": 1399279,
+       "end_ms": 1403160,
+       "ko": "이렇게 얘기했던 거 들어서 쓰고.",
+       "en": "I heard her say that and wrote it down."
+      },
+      {
+       "start_ms": 1403160,
+       "end_ms": 1405559,
+       "ko": "엄마한테 그냥 대충 물어봐서",
+       "en": "I just asked my mom casually"
+      },
+      {
+       "start_ms": 1405559,
+       "end_ms": 1407800,
+       "ko": "글쎄 전문직이 좋지 않을까? 이래서",
+       "en": "and she said, \"Well, wouldn't a professional job be good?\" so"
+      },
+      {
+       "start_ms": 1407800,
+       "end_ms": 1414199,
+       "ko": "장래희망의 전문직. 이렇게 쓰고.",
+       "en": "I wrote \"professional job\" as my future dream."
+      },
+      {
+       "start_ms": 1414199,
+       "end_ms": 1416559,
+       "ko": "그랬었어요.",
+       "en": "That's what I did."
+      }
+     ],
+     "start_ms": 1393800,
+     "end_ms": 1416559,
+     "ko": "네. 대충.\n그냥 뭐 지나가면서 누나가\n아 저 직업 하면 멋있을 것 같다.\n이렇게 얘기했던 거 들어서 쓰고.\n엄마한테 그냥 대충 물어봐서\n글쎄 전문직이 좋지 않을까? 이래서\n장래희망의 전문직. 이렇게 쓰고.\n그랬었어요.",
+     "en": "Yes. Roughly. Like, my older sister just mentioned in passing \"Oh, that job would seem cool.\" I heard her say that and wrote it down. I just asked my mom casually and she said, \"Well, wouldn't a professional job be good?\" so I wrote \"professional job\" as my future dream. That's what I did."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1416559,
+       "end_ms": 1419000,
+       "ko": "사실 저는 그때 뭔가 하고 싶은 게",
+       "en": "Actually, I think it's harder to have something you want to do back then"
+      },
+      {
+       "start_ms": 1419000,
+       "end_ms": 1422279,
+       "ko": "있는 게 더 어려운 것 같아서.",
+       "en": "than not having anything."
+      }
+     ],
+     "start_ms": 1416559,
+     "end_ms": 1422279,
+     "ko": "사실 저는 그때 뭔가 하고 싶은 게\n있는 게 더 어려운 것 같아서.",
+     "en": "Actually, I think it's harder to have something you want to do back then than not having anything."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1422279,
+       "end_ms": 1424440,
+       "ko": "아 맞아요. 맞아요. 맞아.",
+       "en": "Yeah, that's right. That's right. Yeah."
+      },
+      {
+       "start_ms": 1424440,
+       "end_ms": 1425600,
+       "ko": "있을 수가 없어요.",
+       "en": "There's no way that could happen."
+      }
+     ],
+     "start_ms": 1422279,
+     "end_ms": 1425600,
+     "ko": "아 맞아요. 맞아요. 맞아.\n있을 수가 없어요.",
+     "en": "Yeah, that's right. That's right. Yeah. There's no way that could happen."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1425600,
+       "end_ms": 1426720,
+       "ko": "그게 당연하지.",
+       "en": "That's only natural."
+      },
+      {
+       "start_ms": 1426720,
+       "end_ms": 1428240,
+       "ko": "얼마나 경험해봤다고.",
+       "en": "How much experience could you have had?"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1425600,
+     "end_ms": 1428240,
+     "ko": "그게 당연하지.\n얼마나 경험해봤다고.",
+     "en": "That's only natural. How much experience could you have had?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1428240,
+       "end_ms": 1429000,
+       "ko": "그러니까요.",
+       "en": "Exactly."
+      }
+     ],
+     "start_ms": 1428240,
+     "end_ms": 1429000,
+     "ko": "그러니까요.",
+     "en": "Exactly."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1429720,
+       "end_ms": 1432399,
+       "ko": "정확히 무슨 일 하는지도 모를 때잖아요.",
+       "en": "You didn't even know what the job actually was, right?"
+      }
+     ],
+     "start_ms": 1429720,
+     "end_ms": 1432399,
+     "ko": "정확히 무슨 일 하는지도 모를 때잖아요.",
+     "en": "You didn't even know what the job actually was, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1432399,
+       "end_ms": 1435600,
+       "ko": "음 그렇죠.",
+       "en": "Yeah, that's true."
+      }
+     ],
+     "start_ms": 1432399,
+     "end_ms": 1435600,
+     "ko": "음 그렇죠.",
+     "en": "Yeah, that's true."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1435600,
+       "end_ms": 1439440,
+       "ko": "맞아. 그게 당연했던 거죠.",
+       "en": "Right. That was only natural back then."
+      },
+      {
+       "start_ms": 1439440,
+       "end_ms": 1441360,
+       "ko": "괴로웠겠네요. 그래도.",
+       "en": "That must have been tough though."
+      }
+     ],
+     "start_ms": 1435600,
+     "end_ms": 1441360,
+     "ko": "맞아. 그게 당연했던 거죠.\n괴로웠겠네요. 그래도.",
+     "en": "Right. That was only natural back then. That must have been tough though."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1441360,
+       "end_ms": 1444559,
+       "ko": "진짜 괴로웠습니다.",
+       "en": "It really was tough."
+      }
+     ],
+     "start_ms": 1441360,
+     "end_ms": 1444559,
+     "ko": "진짜 괴로웠습니다.",
+     "en": "It really was tough."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1444559,
+       "end_ms": 1446479,
+       "ko": "아 갑자기 생각났다.",
+       "en": "Oh, I just remembered something."
+      },
+      {
+       "start_ms": 1446479,
+       "end_ms": 1447919,
+       "ko": "저는 갑자기 그러다가",
+       "en": "Suddenly I"
+      },
+      {
+       "start_ms": 1447919,
+       "end_ms": 1450960,
+       "ko": "그 질풍노도의 중학교 1학년 생활을 보내다가",
+       "en": "went through that stormy first year of middle school"
+      },
+      {
+       "start_ms": 1450960,
+       "end_ms": 1453279,
+       "ko": "중2가 돼서는",
+       "en": "and then in second year"
+      },
+      {
+       "start_ms": 1453279,
+       "end_ms": 1455479,
+       "ko": "케이팝에 관심이 많아졌거든요.",
+       "en": "I became really interested in K-pop."
+      }
+     ],
+     "start_ms": 1444559,
+     "end_ms": 1455479,
+     "ko": "아 갑자기 생각났다.\n저는 갑자기 그러다가\n그 질풍노도의 중학교 1학년 생활을 보내다가\n중2가 돼서는\n케이팝에 관심이 많아졌거든요.",
+     "en": "Oh, I just remembered something. Suddenly I went through that stormy first year of middle school and then in second year I became really interested in K-pop."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1455479,
+       "end_ms": 1457279,
+       "ko": "케이팝?",
+       "en": "K-pop?"
+      }
+     ],
+     "start_ms": 1455479,
+     "end_ms": 1457279,
+     "ko": "케이팝?",
+     "en": "K-pop?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1457279,
+       "end_ms": 1458399,
+       "ko": "아이돌.",
+       "en": "Idols."
+      }
+     ],
+     "start_ms": 1457279,
+     "end_ms": 1458399,
+     "ko": "아이돌.",
+     "en": "Idols."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1458440,
+       "end_ms": 1460079,
+       "ko": "빅뱅 때였나?",
+       "en": "Was it around the time of Big Bang?"
+      }
+     ],
+     "start_ms": 1458440,
+     "end_ms": 1460079,
+     "ko": "빅뱅 때였나?",
+     "en": "Was it around the time of Big Bang?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1460079,
+       "end_ms": 1460959,
+       "ko": "비스트.",
+       "en": "Beast."
+      }
+     ],
+     "start_ms": 1460079,
+     "end_ms": 1460959,
+     "ko": "비스트.",
+     "en": "Beast."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1460959,
+       "end_ms": 1463000,
+       "ko": "비스트. 아.",
+       "en": "Beast. Ah."
+      }
+     ],
+     "start_ms": 1460959,
+     "end_ms": 1463000,
+     "ko": "비스트. 아.",
+     "en": "Beast. Ah."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1463000,
+       "end_ms": 1465119,
+       "ko": "비스트.",
+       "en": "Beast."
+      },
+      {
+       "start_ms": 1465119,
+       "end_ms": 1467720,
+       "ko": "막 엑소 나오고 이랬었는데",
+       "en": "Like when EXO came out and all that"
+      },
+      {
+       "start_ms": 1467720,
+       "end_ms": 1469760,
+       "ko": "전 비스트를 좋아했어서",
+       "en": "but I liked Beast"
+      },
+      {
+       "start_ms": 1469760,
+       "end_ms": 1472279,
+       "ko": "그때 케이팝에 한창 빠져서",
+       "en": "so I was really into K-pop back then"
+      },
+      {
+       "start_ms": 1472279,
+       "end_ms": 1474200,
+       "ko": "콘서트도 다니고",
+       "en": "and went to concerts"
+      },
+      {
+       "start_ms": 1474200,
+       "end_ms": 1476079,
+       "ko": "그러다가",
+       "en": "and then"
+      },
+      {
+       "start_ms": 1476079,
+       "end_ms": 1477920,
+       "ko": "춤에 제가",
+       "en": "I got into dancing"
+      },
+      {
+       "start_ms": 1477920,
+       "end_ms": 1480399,
+       "ko": "춤을 추기 시작했어요.",
+       "en": "and started dancing."
+      },
+      {
+       "start_ms": 1480399,
+       "end_ms": 1481480,
+       "ko": "댄스 동아리.",
+       "en": "A dance club."
+      }
+     ],
+     "start_ms": 1463000,
+     "end_ms": 1481480,
+     "ko": "비스트.\n막 엑소 나오고 이랬었는데\n전 비스트를 좋아했어서\n그때 케이팝에 한창 빠져서\n콘서트도 다니고\n그러다가\n춤에 제가\n춤을 추기 시작했어요.\n댄스 동아리.",
+     "en": "Beast. Like when EXO came out and all that but I liked Beast so I was really into K-pop back then and went to concerts and then I got into dancing and started dancing. A dance club."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1481480,
+       "end_ms": 1484440,
+       "ko": "아니 충격의 연속이네.",
+       "en": "Wow, it's one shock after another."
+      },
+      {
+       "start_ms": 1484440,
+       "end_ms": 1486839,
+       "ko": "대박.",
+       "en": "That's amazing."
+      }
+     ],
+     "start_ms": 1481480,
+     "end_ms": 1486839,
+     "ko": "아니 충격의 연속이네.\n대박.",
+     "en": "Wow, it's one shock after another. That's amazing."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1486839,
+       "end_ms": 1488359,
+       "ko": "그래서 중고등학교는",
+       "en": "So in middle and high school"
+      },
+      {
+       "start_ms": 1488359,
+       "end_ms": 1490040,
+       "ko": "댄스부였어요.",
+       "en": "I was in the dance club."
+      }
+     ],
+     "start_ms": 1486839,
+     "end_ms": 1490040,
+     "ko": "그래서 중고등학교는\n댄스부였어요.",
+     "en": "So in middle and high school I was in the dance club."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1490040,
+       "end_ms": 1492000,
+       "ko": "케이팝.",
+       "en": "K-pop."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1490040,
+     "end_ms": 1492000,
+     "ko": "케이팝.",
+     "en": "K-pop."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1492000,
+       "end_ms": 1493760,
+       "ko": "그래서 축제 때 공연하고",
+       "en": "So we performed at the school festival"
+      },
+      {
+       "start_ms": 1493760,
+       "end_ms": 1495399,
+       "ko": "그런 게 재밌었어요.",
+       "en": "and stuff like that was fun."
+      }
+     ],
+     "start_ms": 1492000,
+     "end_ms": 1495399,
+     "ko": "그래서 축제 때 공연하고\n그런 게 재밌었어요.",
+     "en": "So we performed at the school festival and stuff like that was fun."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1495399,
+       "end_ms": 1496519,
+       "ko": "와 대박.",
+       "en": "Wow, that's incredible."
+      },
+      {
+       "start_ms": 1496519,
+       "end_ms": 1501239,
+       "ko": "와 근데 어릴 때 좀 해봤으면",
+       "en": "Wow, but if you did it a bit when you were younger"
+      },
+      {
+       "start_ms": 1501239,
+       "end_ms": 1502559,
+       "ko": "뭐 안 한 지 오래 됐더라도",
+       "en": "even if you haven't done it in a long time"
+      },
+      {
+       "start_ms": 1502559,
+       "end_ms": 1504559,
+       "ko": "다시 하면 좀 하기 쉽겠네요.",
+       "en": "it would be easier to do it again, right?"
+      }
+     ],
+     "start_ms": 1495399,
+     "end_ms": 1504559,
+     "ko": "와 대박.\n와 근데 어릴 때 좀 해봤으면\n뭐 안 한 지 오래 됐더라도\n다시 하면 좀 하기 쉽겠네요.",
+     "en": "Wow, that's incredible. Wow, but if you did it a bit when you were younger even if you haven't done it in a long time it would be easier to do it again, right?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1504559,
+       "end_ms": 1507480,
+       "ko": "뭐 안 해봤는데",
+       "en": "I haven't done it before"
+      },
+      {
+       "start_ms": 1507480,
+       "end_ms": 1509320,
+       "ko": "재밌을 것 같아요. 다시 해도.",
+       "en": "but I think it would be fun to try again."
+      }
+     ],
+     "start_ms": 1504559,
+     "end_ms": 1509320,
+     "ko": "뭐 안 해봤는데\n재밌을 것 같아요. 다시 해도.",
+     "en": "I haven't done it before but I think it would be fun to try again."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1509320,
+       "end_ms": 1511839,
+       "ko": "음.",
+       "en": "Mm."
+      },
+      {
+       "start_ms": 1511839,
+       "end_ms": 1515320,
+       "ko": "아 부럽다.",
+       "en": "Oh, I'm jealous."
+      }
+     ],
+     "start_ms": 1509320,
+     "end_ms": 1515320,
+     "ko": "음.\n아 부럽다.",
+     "en": "Mm. Oh, I'm jealous."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1515320,
+       "end_ms": 1517320,
+       "ko": "비트박스담과",
+       "en": "You're listening to the beatbox club and dance club podcast."
+      },
+      {
+       "start_ms": 1517320,
+       "end_ms": 1519920,
+       "ko": "댄스부녀의 팟캐스트를 듣고 계십니다.",
+       "en": "That's right. Oh, I really want to be good at dancing."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1515320,
+     "end_ms": 1519920,
+     "ko": "비트박스담과\n댄스부녀의 팟캐스트를 듣고 계십니다.",
+     "en": "You're listening to the beatbox club and dance club podcast. That's right. Oh, I really want to be good at dancing."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1519920,
+       "end_ms": 1522519,
+       "ko": "그렇네요. 아 저 춤 잘 추고 싶거든요.",
+       "en": "Really?"
+      }
+     ],
+     "start_ms": 1519920,
+     "end_ms": 1522519,
+     "ko": "그렇네요. 아 저 춤 잘 추고 싶거든요.",
+     "en": "Really?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1522519,
+       "end_ms": 1523320,
+       "ko": "진짜요?",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1522519,
+     "end_ms": 1523320,
+     "ko": "진짜요?",
+     "en": "Yes."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1523320,
+       "end_ms": 1524720,
+       "ko": "네.",
+       "en": "Want to learn?"
+      }
+     ],
+     "start_ms": 1523320,
+     "end_ms": 1524720,
+     "ko": "네.",
+     "en": "Want to learn?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1524720,
+       "end_ms": 1525959,
+       "ko": "배워봐요?",
+       "en": "Well actually"
+      }
+     ],
+     "start_ms": 1524720,
+     "end_ms": 1525959,
+     "ko": "배워봐요?",
+     "en": "Well actually"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1525959,
+       "end_ms": 1528320,
+       "ko": "아니 제가 사실은",
+       "en": "I'm learning right now?"
+      }
+     ],
+     "start_ms": 1525959,
+     "end_ms": 1528320,
+     "ko": "아니 제가 사실은",
+     "en": "I'm learning right now?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1528320,
+       "end_ms": 1529399,
+       "ko": "배우고 있어요?",
+       "en": "No, no, no."
+      }
+     ],
+     "start_ms": 1528320,
+     "end_ms": 1529399,
+     "ko": "배우고 있어요?",
+     "en": "No, no, no."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1529399,
+       "end_ms": 1529959,
+       "ko": "아니요 아니요.",
+       "en": "Actually I"
+      },
+      {
+       "start_ms": 1529959,
+       "end_ms": 1531480,
+       "ko": "제가 사실은",
+       "en": "before I went to Bangladesh"
+      },
+      {
+       "start_ms": 1531480,
+       "end_ms": 1534480,
+       "ko": "그 방글라데시 파견 가기 전에",
+       "en": "for a little over a month"
+      },
+      {
+       "start_ms": 1534480,
+       "end_ms": 1536600,
+       "ko": "한 달 좀 넘게",
+       "en": "I went to a dance academy."
+      },
+      {
+       "start_ms": 1536600,
+       "end_ms": 1540519,
+       "ko": "그 댄스 학원을 다녀봤어요.",
+       "en": "What kind of dance?"
+      }
+     ],
+     "start_ms": 1529399,
+     "end_ms": 1540519,
+     "ko": "아니요 아니요.\n제가 사실은\n그 방글라데시 파견 가기 전에\n한 달 좀 넘게\n그 댄스 학원을 다녀봤어요.",
+     "en": "Actually I before I went to Bangladesh for a little over a month I went to a dance academy. What kind of dance?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1540519,
+       "end_ms": 1541839,
+       "ko": "무슨 댄스요?",
+       "en": "Just like K-pop dance"
+      }
+     ],
+     "start_ms": 1540519,
+     "end_ms": 1541839,
+     "ko": "무슨 댄스요?",
+     "en": "Just like K-pop dance"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1541839,
+       "end_ms": 1543799,
+       "ko": "그냥 뭐 케이팝 댄스",
+       "en": "hip-hop dance, stuff like that?"
+      },
+      {
+       "start_ms": 1543799,
+       "end_ms": 1546760,
+       "ko": "힙합 댄스 이런 거?"
+      },
+      {
+       "start_ms": 1546760,
+       "end_ms": 1553440,
+       "ko": "아 근데 제가 진짜 재능이 없더라고요.",
+       "en": "Ah, but I really don't have any talent for it."
+      }
+     ],
+     "start_ms": 1541839,
+     "end_ms": 1553440,
+     "ko": "그냥 뭐 케이팝 댄스\n힙합 댄스 이런 거?\n아 근데 제가 진짜 재능이 없더라고요.",
+     "en": "hip-hop dance, stuff like that? Ah, but I really don't have any talent for it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1553440,
+       "end_ms": 1555320,
+       "ko": "춤이라는 게 없어요?",
+       "en": "You don't have a sense of dance?"
+      }
+     ],
+     "start_ms": 1553440,
+     "end_ms": 1555320,
+     "ko": "춤이라는 게 없어요?",
+     "en": "You don't have a sense of dance?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1555320,
+       "end_ms": 1557200,
+       "ko": "네 그게 없어요.",
+       "en": "Yes, I don't have that."
+      },
+      {
+       "start_ms": 1557200,
+       "end_ms": 1558720,
+       "ko": "너무",
+       "en": "It's just too"
+      }
+     ],
+     "start_ms": 1555320,
+     "end_ms": 1558720,
+     "ko": "네 그게 없어요.\n너무",
+     "en": "Yes, I don't have that. It's just too"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1558720,
+       "end_ms": 1559600,
+       "ko": "센스가?",
+       "en": "Sense?"
+      }
+     ],
+     "start_ms": 1558720,
+     "end_ms": 1559600,
+     "ko": "센스가?",
+     "en": "Sense?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1559600,
+       "end_ms": 1560320,
+       "ko": "센스가 없어요.",
+       "en": "I don't have a sense for it."
+      },
+      {
+       "start_ms": 1560320,
+       "end_ms": 1561760,
+       "ko": "몸도 너무 느리고",
+       "en": "My body is too slow"
+      },
+      {
+       "start_ms": 1561760,
+       "end_ms": 1563359,
+       "ko": "모양도 안 나오고",
+       "en": "The shape doesn't come out right"
+      },
+      {
+       "start_ms": 1563359,
+       "end_ms": 1566040,
+       "ko": "너무 뻣뻣하고",
+       "en": "I'm too stiff"
+      },
+      {
+       "start_ms": 1566040,
+       "end_ms": 1569079,
+       "ko": "그리고 그 안무 순서 외우지도 못하고",
+       "en": "And I can't even memorize the choreography sequence"
+      },
+      {
+       "start_ms": 1569079,
+       "end_ms": 1570679,
+       "ko": "아 물론 그 한 달만 잠깐 해서",
+       "en": "Ah, of course, I only did it for a month briefly"
+      },
+      {
+       "start_ms": 1570679,
+       "end_ms": 1572279,
+       "ko": "그런 걸 수도 있는데",
+       "en": "So that could happen"
+      },
+      {
+       "start_ms": 1572279,
+       "end_ms": 1575920,
+       "ko": "아 몰라요 뭐 다시 또 배울 수도 있고",
+       "en": "Ah, I don't know, I could learn it again"
+      }
+     ],
+     "start_ms": 1559600,
+     "end_ms": 1575920,
+     "ko": "센스가 없어요.\n몸도 너무 느리고\n모양도 안 나오고\n너무 뻣뻣하고\n그리고 그 안무 순서 외우지도 못하고\n아 물론 그 한 달만 잠깐 해서\n그런 걸 수도 있는데\n아 몰라요 뭐 다시 또 배울 수도 있고",
+     "en": "I don't have a sense for it. My body is too slow The shape doesn't come out right I'm too stiff And I can't even memorize the choreography sequence Ah, of course, I only did it for a month briefly So that could happen Ah, I don't know, I could learn it again"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1575920,
+       "end_ms": 1578160,
+       "ko": "춤 춤 잘 추면 멋있죠.",
+       "en": "Dancing, if you dance well, it's cool."
+      }
+     ],
+     "start_ms": 1575920,
+     "end_ms": 1578160,
+     "ko": "춤 춤 잘 추면 멋있죠.",
+     "en": "Dancing, if you dance well, it's cool."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1578160,
+       "end_ms": 1579640,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1578160,
+     "end_ms": 1579640,
+     "ko": "네.",
+     "en": "Yes."
+    }
+   ]
+  },
+  {
+   "part": 4,
+   "title_ko": "챌린지 보상과 노래 시험",
+   "title_en": "A challenge reward and the singing test",
+   "start_ms": 1579640,
+   "end_ms": 2054000,
+   "hangul_chars": 1747,
+   "turns": [
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1579640,
+       "end_ms": 1581519,
+       "ko": "아 그리고 디디님",
+       "en": "Ah, and Didi"
+      },
+      {
+       "start_ms": 1581519,
+       "end_ms": 1582959,
+       "ko": "그거 해요.",
+       "en": "You do that."
+      }
+     ],
+     "start_ms": 1579640,
+     "end_ms": 1582959,
+     "ko": "아 그리고 디디님\n그거 해요.",
+     "en": "Ah, and Didi You do that."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1582959,
+       "end_ms": 1583519,
+       "ko": "뭐요?",
+       "en": "What?"
+      }
+     ],
+     "start_ms": 1582959,
+     "end_ms": 1583519,
+     "ko": "뭐요?",
+     "en": "What?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1583519,
+       "end_ms": 1585519,
+       "ko": "그 챌린지 보상으로",
+       "en": "As a reward for that challenge"
+      },
+      {
+       "start_ms": 1585519,
+       "end_ms": 1587399,
+       "ko": "그거 한 번 해주세요.",
+       "en": "Please do that once."
+      }
+     ],
+     "start_ms": 1583519,
+     "end_ms": 1587399,
+     "ko": "그 챌린지 보상으로\n그거 한 번 해주세요.",
+     "en": "As a reward for that challenge Please do that once."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1587399,
+       "end_ms": 1591359,
+       "ko": "네?",
+       "en": "Huh?"
+      },
+      {
+       "start_ms": 1591359,
+       "end_ms": 1592320,
+       "ko": "뭐요?",
+       "en": "What?"
+      },
+      {
+       "start_ms": 1592320,
+       "end_ms": 1596399,
+       "ko": "아 근데 저 쇼폼 이런 거 좀 알레르기 있어가지고",
+       "en": "Ah, but I have a bit of an allergy to things like this show-off vibe"
+      }
+     ],
+     "start_ms": 1587399,
+     "end_ms": 1596399,
+     "ko": "네?\n뭐요?\n아 근데 저 쇼폼 이런 거 좀 알레르기 있어가지고",
+     "en": "Huh? What? Ah, but I have a bit of an allergy to things like this show-off vibe"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1596399,
+       "end_ms": 1599000,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1596399,
+     "end_ms": 1599000,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1599000,
+       "end_ms": 1601040,
+       "ko": "나 귀엽지 이렇게",
+       "en": "Look how cute I am, like this"
+      },
+      {
+       "start_ms": 1601040,
+       "end_ms": 1603760,
+       "ko": "나 좀 봐라 이런 느낌이잖아요.",
+       "en": "Look at me a bit, that kind of feeling, right?"
+      },
+      {
+       "start_ms": 1603760,
+       "end_ms": 1605359,
+       "ko": "그거 좀 알레르기 있어.",
+       "en": "I have an allergy to that."
+      }
+     ],
+     "start_ms": 1599000,
+     "end_ms": 1605359,
+     "ko": "나 귀엽지 이렇게\n나 좀 봐라 이런 느낌이잖아요.\n그거 좀 알레르기 있어.",
+     "en": "Look how cute I am, like this Look at me a bit, that kind of feeling, right? I have an allergy to that."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1605359,
+       "end_ms": 1609200,
+       "ko": "막 무슨 500일 일기쓰기",
+       "en": "Like some 500-day diary writing"
+      },
+      {
+       "start_ms": 1609200,
+       "end_ms": 1611119,
+       "ko": "한국어 일기쓰기",
+       "en": "Korean diary writing"
+      },
+      {
+       "start_ms": 1611119,
+       "end_ms": 1616279,
+       "ko": "챌린지 달성 리워드로",
+       "en": "As a challenge achievement reward"
+      },
+      {
+       "start_ms": 1616279,
+       "end_ms": 1619440,
+       "ko": "그 디디님의",
+       "en": "Didi's"
+      }
+     ],
+     "start_ms": 1605359,
+     "end_ms": 1619440,
+     "ko": "막 무슨 500일 일기쓰기\n한국어 일기쓰기\n챌린지 달성 리워드로\n그 디디님의",
+     "en": "Like some 500-day diary writing Korean diary writing As a challenge achievement reward Didi's"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1619440,
+       "end_ms": 1622000,
+       "ko": "500일이면 거의 2년이네요?",
+       "en": "500 days is almost 2 years, right?"
+      }
+     ],
+     "start_ms": 1619440,
+     "end_ms": 1622000,
+     "ko": "500일이면 거의 2년이네요?",
+     "en": "500 days is almost 2 years, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1622000,
+       "end_ms": 1622760,
+       "ko": "그쵸 그쵸.",
+       "en": "Right, right."
+      }
+     ],
+     "start_ms": 1622000,
+     "end_ms": 1622760,
+     "ko": "그쵸 그쵸.",
+     "en": "Right, right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1622760,
+       "end_ms": 1625040,
+       "ko": "2년 동안 저의 댄스를 보기 위해서",
+       "en": "For 2 years to watch my dance"
+      },
+      {
+       "start_ms": 1625040,
+       "end_ms": 1626160,
+       "ko": "그 정도는 해야",
+       "en": "I'd have to do that much"
+      },
+      {
+       "start_ms": 1626160,
+       "end_ms": 1628959,
+       "ko": "그걸 동기부여가 될까 모르겠네요.",
+       "en": "I'm not sure if that would be motivation."
+      }
+     ],
+     "start_ms": 1622760,
+     "end_ms": 1628959,
+     "ko": "2년 동안 저의 댄스를 보기 위해서\n그 정도는 해야\n그걸 동기부여가 될까 모르겠네요.",
+     "en": "For 2 years to watch my dance I'd have to do that much I'm not sure if that would be motivation."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1632040,
+       "end_ms": 1635440,
+       "ko": "태용쌤과 함께라면",
+       "en": "If it's with Teacher Tae-woong"
+      },
+      {
+       "start_ms": 1635440,
+       "end_ms": 1638279,
+       "ko": "동기부여가 될 수도 있을 것 같아요.",
+       "en": "It might be able to become motivation."
+      }
+     ],
+     "start_ms": 1632040,
+     "end_ms": 1638279,
+     "ko": "태용쌤과 함께라면\n동기부여가 될 수도 있을 것 같아요.",
+     "en": "If it's with Teacher Tae-woong It might be able to become motivation."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1638279,
+       "end_ms": 1639720,
+       "ko": "아니 저는",
+       "en": "Ah no, I"
+      },
+      {
+       "start_ms": 1639720,
+       "end_ms": 1641760,
+       "ko": "저는 뭐가 좋죠 그러면?",
+       "en": "What would be good for me then?"
+      }
+     ],
+     "start_ms": 1638279,
+     "end_ms": 1641760,
+     "ko": "아니 저는\n저는 뭐가 좋죠 그러면?",
+     "en": "Ah no, I What would be good for me then?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1641760,
+       "end_ms": 1648640,
+       "ko": "아 태용쌤 옆에서 비트박스 하는 거 같고",
+       "en": "Ah, it's like doing beatbox next to Teacher Tae-woong"
+      },
+      {
+       "start_ms": 1648640,
+       "end_ms": 1650880,
+       "ko": "그 정도면 뭐",
+       "en": "That much would be"
+      },
+      {
+       "start_ms": 1650880,
+       "end_ms": 1652640,
+       "ko": "동기부여가 될 것 같습니다.",
+       "en": "I think that would be motivation."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1641760,
+     "end_ms": 1652640,
+     "ko": "아 태용쌤 옆에서 비트박스 하는 거 같고\n그 정도면 뭐\n동기부여가 될 것 같습니다.",
+     "en": "Ah, it's like doing beatbox next to Teacher Tae-woong That much would be I think that would be motivation."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1652640,
+       "end_ms": 1653959,
+       "ko": "아 네.",
+       "en": "Ah yes."
+      }
+     ],
+     "start_ms": 1652640,
+     "end_ms": 1653959,
+     "ko": "아 네.",
+     "en": "Ah yes."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1653959,
+       "end_ms": 1658200,
+       "ko": "안 한다는 말이 뭔데",
+       "en": "What do you mean by saying you won't do it"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1653959,
+     "end_ms": 1658200,
+     "ko": "안 한다는 말이 뭔데",
+     "en": "What do you mean by saying you won't do it"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1658200,
+       "end_ms": 1663359,
+       "ko": "상처만 남은 에피소드 같네?",
+       "en": "It's like an episode that only left wounds?"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1658200,
+     "end_ms": 1663359,
+     "ko": "상처만 남은 에피소드 같네?",
+     "en": "It's like an episode that only left wounds?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1663359,
+       "end_ms": 1666160,
+       "ko": "근데 저 이렇게 사악한 사람 아니에요.",
+       "en": "But I'm not such an evil person."
+      },
+      {
+       "start_ms": 1666160,
+       "end_ms": 1669079,
+       "ko": "다들 알죠?",
+       "en": "Everyone knows that, right?"
+      },
+      {
+       "start_ms": 1669079,
+       "end_ms": 1672119,
+       "ko": "잠깐 정신이 그랬던 거고",
+       "en": "It was just a moment of that mindset"
+      },
+      {
+       "start_ms": 1672119,
+       "end_ms": 1675559,
+       "ko": "진짜 성장 호르몬은 무섭습니다.",
+       "en": "Growth hormones are really scary."
+      },
+      {
+       "start_ms": 1675559,
+       "end_ms": 1677839,
+       "ko": "저 어렸을 때 그런 상도 되게 많이 받았어요.",
+       "en": "I received a lot of awards like that when I was young."
+      },
+      {
+       "start_ms": 1677839,
+       "end_ms": 1681519,
+       "ko": "선행상 같은 거",
+       "en": "Like commendation awards"
+      },
+      {
+       "start_ms": 1681519,
+       "end_ms": 1685839,
+       "ko": "좀 친구들 챙겨주고 이런 거를 제가",
+       "en": "Taking care of friends and things like that, I"
+      },
+      {
+       "start_ms": 1685839,
+       "end_ms": 1689119,
+       "ko": "담당으로 좀 많이 했었어서",
+       "en": "Did a lot of that as a responsibility"
+      },
+      {
+       "start_ms": 1689119,
+       "end_ms": 1691559,
+       "ko": "아픈 친구들이나",
+       "en": "Friends who were hurting"
+      },
+      {
+       "start_ms": 1691559,
+       "end_ms": 1696160,
+       "ko": "좀 못 어울리는 친구들",
+       "en": "Friends who didn't quite fit in"
+      }
+     ],
+     "start_ms": 1663359,
+     "end_ms": 1696160,
+     "ko": "근데 저 이렇게 사악한 사람 아니에요.\n다들 알죠?\n잠깐 정신이 그랬던 거고\n진짜 성장 호르몬은 무섭습니다.\n저 어렸을 때 그런 상도 되게 많이 받았어요.\n선행상 같은 거\n좀 친구들 챙겨주고 이런 거를 제가\n담당으로 좀 많이 했었어서\n아픈 친구들이나\n좀 못 어울리는 친구들",
+     "en": "But I'm not such an evil person. Everyone knows that, right? It was just a moment of that mindset Growth hormones are really scary. I received a lot of awards like that when I was young. Like commendation awards Taking care of friends and things like that, I Did a lot of that as a responsibility Friends who were hurting Friends who didn't quite fit in"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1696160,
+       "end_ms": 1699440,
+       "ko": "좋게 마무리하고 싶어가지고",
+       "en": "I wanted to wrap things up nicely"
+      },
+      {
+       "start_ms": 1699440,
+       "end_ms": 1701959,
+       "ko": "중학교 때 있었던 에피소드",
+       "en": "An episode that happened in middle school"
+      },
+      {
+       "start_ms": 1701959,
+       "end_ms": 1704519,
+       "ko": "이런 거 하나 뭐 있나요 혹시?",
+       "en": "Is there something like this, by any chance?"
+      }
+     ],
+     "start_ms": 1696160,
+     "end_ms": 1704519,
+     "ko": "좋게 마무리하고 싶어가지고\n중학교 때 있었던 에피소드\n이런 거 하나 뭐 있나요 혹시?",
+     "en": "I wanted to wrap things up nicely An episode that happened in middle school Is there something like this, by any chance?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1704519,
+       "end_ms": 1706399,
+       "ko": "아 지금 딱 생각나는 건",
+       "en": "Ah, what just came to mind"
+      },
+      {
+       "start_ms": 1706399,
+       "end_ms": 1708839,
+       "ko": "별로 뭐 별 거 아니긴 한데",
+       "en": "It's not really a big deal, but"
+      },
+      {
+       "start_ms": 1708839,
+       "end_ms": 1711320,
+       "ko": "중학교 때는 저희",
+       "en": "Back in middle school, we"
+      },
+      {
+       "start_ms": 1711320,
+       "end_ms": 1714559,
+       "ko": "가창시험 이런 거 있었거든요.",
+       "en": "had singing tests like that."
+      },
+      {
+       "start_ms": 1714559,
+       "end_ms": 1715880,
+       "ko": "편의점 없었어요?",
+       "en": "You didn't have convenience stores?"
+      }
+     ],
+     "start_ms": 1704519,
+     "end_ms": 1715880,
+     "ko": "아 지금 딱 생각나는 건\n별로 뭐 별 거 아니긴 한데\n중학교 때는 저희\n가창시험 이런 거 있었거든요.\n편의점 없었어요?",
+     "en": "Ah, what just came to mind It's not really a big deal, but Back in middle school, we had singing tests like that. You didn't have convenience stores?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1715880,
+       "end_ms": 1717719,
+       "ko": "음악 시간에 있었어요.",
+       "en": "We had them during music class."
+      }
+     ],
+     "start_ms": 1715880,
+     "end_ms": 1717719,
+     "ko": "음악 시간에 있었어요.",
+     "en": "We had them during music class."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1717719,
+       "end_ms": 1720880,
+       "ko": "네 근데 제가 학생분들이랑 얘기하다 보면",
+       "en": "Yes, but when I talk with students,"
+      },
+      {
+       "start_ms": 1720880,
+       "end_ms": 1723359,
+       "ko": "노래 부르는 시험이 있다고 하면서",
+       "en": "when they hear that there are singing tests,"
+      },
+      {
+       "start_ms": 1723359,
+       "end_ms": 1726239,
+       "ko": "되게 놀라시더라고요.",
+       "en": "they get really surprised."
+      },
+      {
+       "start_ms": 1726239,
+       "end_ms": 1731320,
+       "ko": "한국이 춤추고 이런 문화는 많이 없는데",
+       "en": "Korea doesn't have much of a dancing culture like that,"
+      },
+      {
+       "start_ms": 1731320,
+       "end_ms": 1733400,
+       "ko": "노래방이나 노래 부르는 거",
+       "en": "but karaoke and singing,"
+      },
+      {
+       "start_ms": 1733400,
+       "end_ms": 1735280,
+       "ko": "사람들 앞에서 노래 부르는 거",
+       "en": "singing in front of people—"
+      },
+      {
+       "start_ms": 1735280,
+       "end_ms": 1738440,
+       "ko": "그런 거는 좀 있는 거 같다 얘기하면서",
+       "en": "when I mention things like that,"
+      },
+      {
+       "start_ms": 1738440,
+       "end_ms": 1740880,
+       "ko": "심지어 학교 다닐 때 시험도 있었다",
+       "en": "and even that there were tests at school,"
+      },
+      {
+       "start_ms": 1740880,
+       "end_ms": 1743479,
+       "ko": "이런 얘기 한 적 있었거든요.",
+       "en": "I've talked about things like that before."
+      },
+      {
+       "start_ms": 1743479,
+       "end_ms": 1746520,
+       "ko": "진짜 싫었는데",
+       "en": "I really hated it,"
+      },
+      {
+       "start_ms": 1746520,
+       "end_ms": 1749599,
+       "ko": "그게 뭐지 또 한국 노래도 아니에요.",
+       "en": "and it wasn't even a Korean song."
+      },
+      {
+       "start_ms": 1749599,
+       "end_ms": 1751960,
+       "ko": "독일 노래 이히 리베디히 알아요?",
+       "en": "A German song—do you know \"Ichi Liebedich\"?"
+      }
+     ],
+     "start_ms": 1717719,
+     "end_ms": 1751960,
+     "ko": "네 근데 제가 학생분들이랑 얘기하다 보면\n노래 부르는 시험이 있다고 하면서\n되게 놀라시더라고요.\n한국이 춤추고 이런 문화는 많이 없는데\n노래방이나 노래 부르는 거\n사람들 앞에서 노래 부르는 거\n그런 거는 좀 있는 거 같다 얘기하면서\n심지어 학교 다닐 때 시험도 있었다\n이런 얘기 한 적 있었거든요.\n진짜 싫었는데\n그게 뭐지 또 한국 노래도 아니에요.\n독일 노래 이히 리베디히 알아요?",
+     "en": "Yes, but when I talk with students, when they hear that there are singing tests, they get really surprised. Korea doesn't have much of a dancing culture like that, but karaoke and singing, singing in front of people— when I mention things like that, and even that there were tests at school, I've talked about things like that before. I really hated it, and it wasn't even a Korean song. A German song—do you know \"Ichi Liebedich\"?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1751960,
+       "end_ms": 1753440,
+       "ko": "오 맞아 맞아",
+       "en": "Oh yeah, that's right."
+      },
+      {
+       "start_ms": 1753440,
+       "end_ms": 1755119,
+       "ko": "그거 다 똑같은 거 배웠을 거예요.",
+       "en": "We probably all learned the same ones."
+      }
+     ],
+     "start_ms": 1751960,
+     "end_ms": 1755119,
+     "ko": "오 맞아 맞아\n그거 다 똑같은 거 배웠을 거예요.",
+     "en": "Oh yeah, that's right. We probably all learned the same ones."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1755119,
+       "end_ms": 1758520,
+       "ko": "음 그거를 외워서",
+       "en": "So we memorized that"
+      },
+      {
+       "start_ms": 1758520,
+       "end_ms": 1760400,
+       "ko": "앞에 나가서",
+       "en": "and went up front"
+      },
+      {
+       "start_ms": 1760400,
+       "end_ms": 1763080,
+       "ko": "한 명씩 노래 부르는 거 했었죠.",
+       "en": "and sang one by one."
+      },
+      {
+       "start_ms": 1763080,
+       "end_ms": 1765840,
+       "ko": "너무 끔찍했던 기억이 있어요.",
+       "en": "I have a really terrible memory of it."
+      }
+     ],
+     "start_ms": 1755119,
+     "end_ms": 1765840,
+     "ko": "음 그거를 외워서\n앞에 나가서\n한 명씩 노래 부르는 거 했었죠.\n너무 끔찍했던 기억이 있어요.",
+     "en": "So we memorized that and went up front and sang one by one. I have a really terrible memory of it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1765840,
+       "end_ms": 1768119,
+       "ko": "제 기억도 끔찍합니다.",
+       "en": "My memory of it is also terrible."
+      }
+     ],
+     "start_ms": 1765840,
+     "end_ms": 1768119,
+     "ko": "제 기억도 끔찍합니다.",
+     "en": "My memory of it is also terrible."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1768119,
+       "end_ms": 1771359,
+       "ko": "너무 긴장되잖아요.",
+       "en": "It's so nerve-wracking, you know?"
+      }
+     ],
+     "start_ms": 1768119,
+     "end_ms": 1771359,
+     "ko": "너무 긴장되잖아요.",
+     "en": "It's so nerve-wracking, you know?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1771359,
+       "end_ms": 1773000,
+       "ko": "이히 리베디희랑",
+       "en": "\"Ichi Liebedich\" and"
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1771359,
+     "end_ms": 1773000,
+     "ko": "이히 리베디희랑",
+     "en": "\"Ichi Liebedich\" and"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1773000,
+       "end_ms": 1774559,
+       "ko": "이히 리베디히",
+       "en": "\"Ichi Liebedich\"—"
+      },
+      {
+       "start_ms": 1774559,
+       "end_ms": 1776960,
+       "ko": "미녀 같은 거 하나 불렀던 거 같은데",
+       "en": "I think we sang something like \"Mina\" or something,"
+      },
+      {
+       "start_ms": 1776960,
+       "end_ms": 1779039,
+       "ko": "새타령 이런 거 불렀던 거 같은데",
+       "en": "I think we sang something like \"Saetaryeong,\""
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1773000,
+     "end_ms": 1779039,
+     "ko": "이히 리베디히\n미녀 같은 거 하나 불렀던 거 같은데\n새타령 이런 거 불렀던 거 같은데",
+     "en": "\"Ichi Liebedich\"— I think we sang something like \"Mina\" or something, I think we sang something like \"Saetaryeong,\""
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1779039,
+       "end_ms": 1781159,
+       "ko": "일출봉에 해 뜨거든",
+       "en": "\"When the sun rises on Ilchulbong,\""
+      }
+     ],
+     "start_ms": 1779039,
+     "end_ms": 1781159,
+     "ko": "일출봉에 해 뜨거든",
+     "en": "\"When the sun rises on Ilchulbong,\""
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1781159,
+       "end_ms": 1782000,
+       "ko": "그건가?",
+       "en": "Is that it?"
+      }
+     ],
+     "start_ms": 1781159,
+     "end_ms": 1782000,
+     "ko": "그건가?",
+     "en": "Is that it?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1782000,
+       "end_ms": 1786080,
+       "ko": "일출봉에 해 뜨거든 날 찾아줘",
+       "en": "\"When the sun rises on Ilchulbong, come find me\"—"
+      },
+      {
+       "start_ms": 1786080,
+       "end_ms": 1786760,
+       "ko": "이거 아니에요?",
+       "en": "Isn't it that?"
+      }
+     ],
+     "start_ms": 1782000,
+     "end_ms": 1786760,
+     "ko": "일출봉에 해 뜨거든 날 찾아줘\n이거 아니에요?",
+     "en": "\"When the sun rises on Ilchulbong, come find me\"— Isn't it that?"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1786760,
+       "end_ms": 1787960,
+       "ko": "어 그건가?",
+       "en": "Uh, is that it?"
+      },
+      {
+       "start_ms": 1787960,
+       "end_ms": 1790719,
+       "ko": "지금은 전혀 처음 들어보는 노래 같아요.",
+       "en": "It sounds like a song I've never heard before right now."
+      }
+     ],
+     "start_ms": 1786760,
+     "end_ms": 1790719,
+     "ko": "어 그건가?\n지금은 전혀 처음 들어보는 노래 같아요.",
+     "en": "Uh, is that it? It sounds like a song I've never heard before right now."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1790719,
+       "end_ms": 1792080,
+       "ko": "그건 제가 불러서 그래요.",
+       "en": "That's because I sang it."
+      }
+     ],
+     "start_ms": 1790719,
+     "end_ms": 1792080,
+     "ko": "그건 제가 불러서 그래요.",
+     "en": "That's because I sang it."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1792080,
+       "end_ms": 1794640,
+       "ko": "아하하하",
+       "en": "Ahahaha."
+      },
+      {
+       "start_ms": 1794640,
+       "end_ms": 1796239,
+       "ko": "그런 노래가 있어요?",
+       "en": "Is there a song like that?"
+      }
+     ],
+     "start_ms": 1792080,
+     "end_ms": 1796239,
+     "ko": "아하하하\n그런 노래가 있어요?",
+     "en": "Ahahaha. Is there a song like that?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1796239,
+       "end_ms": 1798320,
+       "ko": "아하하하",
+       "en": "Ahahaha."
+      }
+     ],
+     "uncertain": true,
+     "start_ms": 1796239,
+     "end_ms": 1798320,
+     "ko": "아하하하",
+     "en": "Ahahaha."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1798320,
+       "end_ms": 1800039,
+       "ko": "아 있는 노래인데 제가 불러가지고",
+       "en": "Oh, it's a real song, but because I sang it,"
+      },
+      {
+       "start_ms": 1801000,
+       "end_ms": 1806000,
+       "ko": "이전에 초등학교 편에서 말씀드렸다시피 합창단이었다 했잖아요.",
+       "en": "Like I mentioned in the elementary school episode before, I was in a choir."
+      },
+      {
+       "start_ms": 1806000,
+       "end_ms": 1817000,
+       "ko": "그때 엄마가, 저희 어머니도 그런 합창, 성악 같은 노래를 잘 부르셔서",
+       "en": "Back then my mom—my mother was also good at singing in choirs and vocal songs like that,"
+      },
+      {
+       "start_ms": 1817000,
+       "end_ms": 1824000,
+       "ko": "저한테 있던 그 재능에 대해서 욕심을 좀 부리셨던 것 같아요.",
+       "en": "and it seems she had some ambition about that talent I had."
+      },
+      {
+       "start_ms": 1824000,
+       "end_ms": 1835000,
+       "ko": "그래서 그 남자애가 여자애들처럼 합창단 소리를 내는 거예요. 고음을 올리고.",
+       "en": "So that boy was making sounds like the girls in the choir, raising his high notes."
+      },
+      {
+       "start_ms": 1835000,
+       "end_ms": 1841000,
+       "ko": "그래서 학교 합창단에도 보내고,",
+       "en": "So they sent me to the school choir,"
+      },
+      {
+       "start_ms": 1841000,
+       "end_ms": 1850000,
+       "ko": "그래서 그 합창단이 제천 초등학교가 있던 동네에 학교들 합창 대회에서도 1등을 하고",
+       "en": "and that choir won first place in a choir competition among schools in the neighborhood where Jecheon Elementary School was,"
+      },
+      {
+       "start_ms": 1850000,
+       "end_ms": 1854000,
+       "ko": "더 넓은 지역에서도 1등을 했던 것 같거든요.",
+       "en": "and it seems we won first place in a wider region too."
+      },
+      {
+       "start_ms": 1854000,
+       "end_ms": 1862000,
+       "ko": "그래서 다음 해에 대회에 축하 공연도 제가 있던 합창단이 하고.",
+       "en": "So the next year, my choir also did a congratulatory performance at the competition."
+      }
+     ],
+     "start_ms": 1798320,
+     "end_ms": 1862000,
+     "ko": "아 있는 노래인데 제가 불러가지고\n이전에 초등학교 편에서 말씀드렸다시피 합창단이었다 했잖아요.\n그때 엄마가, 저희 어머니도 그런 합창, 성악 같은 노래를 잘 부르셔서\n저한테 있던 그 재능에 대해서 욕심을 좀 부리셨던 것 같아요.\n그래서 그 남자애가 여자애들처럼 합창단 소리를 내는 거예요. 고음을 올리고.\n그래서 학교 합창단에도 보내고,\n그래서 그 합창단이 제천 초등학교가 있던 동네에 학교들 합창 대회에서도 1등을 하고\n더 넓은 지역에서도 1등을 했던 것 같거든요.\n그래서 다음 해에 대회에 축하 공연도 제가 있던 합창단이 하고.",
+     "en": "Oh, it's a real song, but because I sang it, Like I mentioned in the elementary school episode before, I was in a choir. Back then my mom—my mother was also good at singing in choirs and vocal songs like that, and it seems she had some ambition about that talent I had. So that boy was making sounds like the girls in the choir, raising his high notes. So they sent me to the school choir, and that choir won first place in a choir competition among schools in the neighborhood where Jecheon Elementary School was, and it seems we won first place in a wider region too. So the next year, my choir also did a congratulatory performance at the competition."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1862000,
+       "end_ms": 1864000,
+       "ko": "명성이 높았네요.",
+       "en": "You had quite a reputation."
+      }
+     ],
+     "start_ms": 1862000,
+     "end_ms": 1864000,
+     "ko": "명성이 높았네요.",
+     "en": "You had quite a reputation."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1864000,
+       "end_ms": 1868000,
+       "ko": "그래서 그 합창단 공연을 되게 많이 했었어요.",
+       "en": "So we performed with that choir a lot."
+      },
+      {
+       "start_ms": 1868000,
+       "end_ms": 1876000,
+       "ko": "근데 문제는 그 경험을 하면서 제가 노래 부르는 거에 진절머리가 나서",
+       "en": "But the problem was that through that experience, I got so sick of singing"
+      },
+      {
+       "start_ms": 1877000,
+       "end_ms": 1880000,
+       "ko": "목을 닫은 거예요.",
+       "en": "that I closed my throat."
+      },
+      {
+       "start_ms": 1880000,
+       "end_ms": 1886000,
+       "ko": "그리고 중학교 입학하면서 그거랑은 전혀 상관이 없었던 힙합에 관심을 가져서",
+       "en": "And when I entered middle school, I became interested in hip-hop, which had nothing to do with that,"
+      },
+      {
+       "start_ms": 1886000,
+       "end_ms": 1890000,
+       "ko": "낮은 목소리로 랩 따라 부르고.",
+       "en": "and I followed along with rap in a low voice."
+      },
+      {
+       "start_ms": 1890000,
+       "end_ms": 1896000,
+       "ko": "그래서 노래랑은 전혀 상관없이 변성기 때 목소리가 바뀐 거예요.",
+       "en": "So my voice changed during puberty, completely unrelated to singing."
+      },
+      {
+       "start_ms": 1896000,
+       "end_ms": 1898000,
+       "ko": "그렇다고 랩을 잘하는 것도 아니지만.",
+       "en": "Not that I'm good at rap either."
+      },
+      {
+       "start_ms": 1898000,
+       "end_ms": 1901000,
+       "ko": "그래서 노래를 진짜 못하거든요, 제가.",
+       "en": "So I really can't sing now."
+      }
+     ],
+     "start_ms": 1864000,
+     "end_ms": 1901000,
+     "ko": "그래서 그 합창단 공연을 되게 많이 했었어요.\n근데 문제는 그 경험을 하면서 제가 노래 부르는 거에 진절머리가 나서\n목을 닫은 거예요.\n그리고 중학교 입학하면서 그거랑은 전혀 상관이 없었던 힙합에 관심을 가져서\n낮은 목소리로 랩 따라 부르고.\n그래서 노래랑은 전혀 상관없이 변성기 때 목소리가 바뀐 거예요.\n그렇다고 랩을 잘하는 것도 아니지만.\n그래서 노래를 진짜 못하거든요, 제가.",
+     "en": "So we performed with that choir a lot. But the problem was that through that experience, I got so sick of singing that I closed my throat. And when I entered middle school, I became interested in hip-hop, which had nothing to do with that, and I followed along with rap in a low voice. So my voice changed during puberty, completely unrelated to singing. Not that I'm good at rap either. So I really can't sing now."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1901000,
+       "end_ms": 1903000,
+       "ko": "잉? 갑자기?",
+       "en": "Huh? Suddenly?"
+      }
+     ],
+     "start_ms": 1901000,
+     "end_ms": 1903000,
+     "ko": "잉? 갑자기?",
+     "en": "Huh? Suddenly?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1903000,
+       "end_ms": 1905000,
+       "ko": "그러니까 고음이 안 올라가요.",
+       "en": "So I can't hit the high notes."
+      }
+     ],
+     "start_ms": 1903000,
+     "end_ms": 1905000,
+     "ko": "그러니까 고음이 안 올라가요.",
+     "en": "So I can't hit the high notes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1905000,
+       "end_ms": 1908000,
+       "ko": "그렇게 잘하다가요? 변성기를 겪고?",
+       "en": "You were doing so well, and then you went through puberty?"
+      }
+     ],
+     "start_ms": 1905000,
+     "end_ms": 1908000,
+     "ko": "그렇게 잘하다가요? 변성기를 겪고?",
+     "en": "You were doing so well, and then you went through puberty?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1908000,
+       "end_ms": 1909000,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1908000,
+     "end_ms": 1909000,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1909000,
+       "end_ms": 1911000,
+       "ko": "우와, 그것도 신기해요.",
+       "en": "Wow, that's interesting too."
+      }
+     ],
+     "start_ms": 1909000,
+     "end_ms": 1911000,
+     "ko": "우와, 그것도 신기해요.",
+     "en": "Wow, that's interesting too."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1911000,
+       "end_ms": 1915000,
+       "ko": "그 청소년기에 몸이 막 자랄 때.",
+       "en": "During those teenage years when your body is growing so much."
+      },
+      {
+       "start_ms": 1915000,
+       "end_ms": 1917000,
+       "ko": "키도 크고 할 때.",
+       "en": "When you're getting taller and all that."
+      },
+      {
+       "start_ms": 1917000,
+       "end_ms": 1919000,
+       "ko": "그때 목소리도 바뀌잖아요.",
+       "en": "Your voice changes during that time too, doesn't it?"
+      },
+      {
+       "start_ms": 1919000,
+       "end_ms": 1922000,
+       "ko": "2차 성증이라고 하는.",
+       "en": "What they call secondary sexual characteristics."
+      },
+      {
+       "start_ms": 1922000,
+       "end_ms": 1927000,
+       "ko": "이제 꼬맹이가 점차 성인의 몸으로 좀 바뀌어나가는.",
+       "en": "A little kid gradually transforms into an adult body."
+      },
+      {
+       "start_ms": 1927000,
+       "end_ms": 1932000,
+       "ko": "그 과정에서 목소리도 바뀌는데.",
+       "en": "Your voice changes in that process."
+      },
+      {
+       "start_ms": 1932000,
+       "end_ms": 1936000,
+       "ko": "처음에는 되게 높고 카랑카랑한 목소리였는데",
+       "en": "At first, my voice was really high and clear-sounding."
+      },
+      {
+       "start_ms": 1936000,
+       "end_ms": 1940000,
+       "ko": "지금의 목소리로 바뀐 거예요.",
+       "en": "But it changed to the voice I have now."
+      },
+      {
+       "start_ms": 1940000,
+       "end_ms": 1944000,
+       "ko": "그래서 부작용으로 고음이 제가 안 올라갑니다.",
+       "en": "So as a side effect, I can't hit high notes."
+      },
+      {
+       "start_ms": 1944000,
+       "end_ms": 1948000,
+       "ko": "목소리를 높이 올릴 수 없어요.",
+       "en": "I can't raise my voice up high."
+      },
+      {
+       "start_ms": 1948000,
+       "end_ms": 1951000,
+       "ko": "그래서 노래도 잘 못 부르고.",
+       "en": "So I can't sing well either."
+      },
+      {
+       "start_ms": 1951000,
+       "end_ms": 1954000,
+       "ko": "그래서 노래방도 엄청 싫어하고.",
+       "en": "That's why I really hate noraebang."
+      }
+     ],
+     "start_ms": 1911000,
+     "end_ms": 1954000,
+     "ko": "그 청소년기에 몸이 막 자랄 때.\n키도 크고 할 때.\n그때 목소리도 바뀌잖아요.\n2차 성증이라고 하는.\n이제 꼬맹이가 점차 성인의 몸으로 좀 바뀌어나가는.\n그 과정에서 목소리도 바뀌는데.\n처음에는 되게 높고 카랑카랑한 목소리였는데\n지금의 목소리로 바뀐 거예요.\n그래서 부작용으로 고음이 제가 안 올라갑니다.\n목소리를 높이 올릴 수 없어요.\n그래서 노래도 잘 못 부르고.\n그래서 노래방도 엄청 싫어하고.",
+     "en": "During those teenage years when your body is growing so much. When you're getting taller and all that. Your voice changes during that time too, doesn't it? What they call secondary sexual characteristics. A little kid gradually transforms into an adult body. Your voice changes in that process. At first, my voice was really high and clear-sounding. But it changed to the voice I have now. So as a side effect, I can't hit high notes. I can't raise my voice up high. So I can't sing well either. That's why I really hate noraebang."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1954000,
+       "end_ms": 1955000,
+       "ko": "음, 진짜요?",
+       "en": "Really?"
+      }
+     ],
+     "start_ms": 1954000,
+     "end_ms": 1955000,
+     "ko": "음, 진짜요?",
+     "en": "Really?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1955000,
+       "end_ms": 1956000,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1955000,
+     "end_ms": 1956000,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1956000,
+       "end_ms": 1958000,
+       "ko": "지금도 잘 안 가요?",
+       "en": "Do you still not go now?"
+      }
+     ],
+     "start_ms": 1956000,
+     "end_ms": 1958000,
+     "ko": "지금도 잘 안 가요?",
+     "en": "Do you still not go now?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1958000,
+       "end_ms": 1960000,
+       "ko": "지금 안 간 지 몇 년 됐을 거예요.",
+       "en": "It's been several years since I've gone."
+      }
+     ],
+     "start_ms": 1958000,
+     "end_ms": 1960000,
+     "ko": "지금 안 간 지 몇 년 됐을 거예요.",
+     "en": "It's been several years since I've gone."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1960000,
+       "end_ms": 1961000,
+       "ko": "힙합 부르면 되잖아요.",
+       "en": "You could just sing hip-hop, right?"
+      }
+     ],
+     "start_ms": 1960000,
+     "end_ms": 1961000,
+     "ko": "힙합 부르면 되잖아요.",
+     "en": "You could just sing hip-hop, right?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1961000,
+       "end_ms": 1963000,
+       "ko": "그것도 싫어해서.",
+       "en": "I hate that too."
+      }
+     ],
+     "start_ms": 1961000,
+     "end_ms": 1963000,
+     "ko": "그것도 싫어해서.",
+     "en": "I hate that too."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1963000,
+       "end_ms": 1964000,
+       "ko": "아, 진짜요?",
+       "en": "Really?"
+      }
+     ],
+     "start_ms": 1963000,
+     "end_ms": 1964000,
+     "ko": "아, 진짜요?",
+     "en": "Really?"
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1964000,
+       "end_ms": 1965000,
+       "ko": "네.",
+       "en": "Yes."
+      },
+      {
+       "start_ms": 1965000,
+       "end_ms": 1970000,
+       "ko": "아무튼 그래서 저도 이힐리베디히.",
+       "en": "Anyway, so I also... I'll be happy."
+      },
+      {
+       "start_ms": 1970000,
+       "end_ms": 1972000,
+       "ko": "일출봉의 햇뜨거든.",
+       "en": "The sunrise of Ilchulbong."
+      },
+      {
+       "start_ms": 1972000,
+       "end_ms": 1977000,
+       "ko": "그거 반 애들 다 듣고 있는데 혼자 앞에 나가서 노래 불러야 되잖아요.",
+       "en": "All the kids in the class are listening to it, but I have to go up front and sing it, right?"
+      },
+      {
+       "start_ms": 1977000,
+       "end_ms": 1979000,
+       "ko": "최악이에요.",
+       "en": "It's the worst."
+      },
+      {
+       "start_ms": 1979000,
+       "end_ms": 1982000,
+       "ko": "그때 진짜 너무 부끄러웠어요.",
+       "en": "I was really embarrassed back then."
+      }
+     ],
+     "start_ms": 1964000,
+     "end_ms": 1982000,
+     "ko": "네.\n아무튼 그래서 저도 이힐리베디히.\n일출봉의 햇뜨거든.\n그거 반 애들 다 듣고 있는데 혼자 앞에 나가서 노래 불러야 되잖아요.\n최악이에요.\n그때 진짜 너무 부끄러웠어요.",
+     "en": "Yes. Anyway, so I also... I'll be happy. The sunrise of Ilchulbong. All the kids in the class are listening to it, but I have to go up front and sing it, right? It's the worst. I was really embarrassed back then."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1982000,
+       "end_ms": 1983000,
+       "ko": "그러니까요.",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 1982000,
+     "end_ms": 1983000,
+     "ko": "그러니까요.",
+     "en": "Right."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1983000,
+       "end_ms": 1984000,
+       "ko": "네.",
+       "en": "Yes."
+      }
+     ],
+     "start_ms": 1983000,
+     "end_ms": 1984000,
+     "ko": "네.",
+     "en": "Yes."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1984000,
+       "end_ms": 1985000,
+       "ko": "그게 뭐야.",
+       "en": "What is that."
+      },
+      {
+       "start_ms": 1985000,
+       "end_ms": 1987000,
+       "ko": "또 웃어요, 애들은 못하면.",
+       "en": "And the kids laugh when you can't do it."
+      }
+     ],
+     "start_ms": 1984000,
+     "end_ms": 1987000,
+     "ko": "그게 뭐야.\n또 웃어요, 애들은 못하면.",
+     "en": "What is that. And the kids laugh when you can't do it."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1987000,
+       "end_ms": 1988000,
+       "ko": "그러니까.",
+       "en": "Right."
+      }
+     ],
+     "start_ms": 1987000,
+     "end_ms": 1988000,
+     "ko": "그러니까.",
+     "en": "Right."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 1988000,
+       "end_ms": 1990000,
+       "ko": "실수하면 웃고.",
+       "en": "If you mess up, they laugh."
+      }
+     ],
+     "start_ms": 1988000,
+     "end_ms": 1990000,
+     "ko": "실수하면 웃고.",
+     "en": "If you mess up, they laugh."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 1990000,
+       "end_ms": 1993000,
+       "ko": "아니, 저는 웃기지 않았던 것 같은데.",
+       "en": "But I don't think I was funny."
+      },
+      {
+       "start_ms": 1993000,
+       "end_ms": 1995000,
+       "ko": "차라리 웃어주는.",
+       "en": "If they would just laugh it off."
+      },
+      {
+       "start_ms": 1995000,
+       "end_ms": 1997000,
+       "ko": "차라리 웃기게 넘어가면 좋은데.",
+       "en": "If they would just laugh and move on, that would be better."
+      },
+      {
+       "start_ms": 1997000,
+       "end_ms": 1999000,
+       "ko": "분위기가 싸해지는.",
+       "en": "But the atmosphere gets heavy."
+      },
+      {
+       "start_ms": 1999000,
+       "end_ms": 2000000,
+       "ko": "막, 어떻게.",
+       "en": "Like, how..."
+      },
+      {
+       "start_ms": 2000000,
+       "end_ms": 2002000,
+       "ko": "어떻게, 어떻게.",
+       "en": "How, how..."
+      },
+      {
+       "start_ms": 2002000,
+       "end_ms": 2005000,
+       "ko": "태웅이가? 이렇게.",
+       "en": "Tae-woong like this?"
+      },
+      {
+       "start_ms": 2005000,
+       "end_ms": 2008000,
+       "ko": "애가 막 착한 애니까.",
+       "en": "Because the kid is so kind."
+      },
+      {
+       "start_ms": 2008000,
+       "end_ms": 2012000,
+       "ko": "막, 애가 순한 애니까.",
+       "en": "Like, the kid is so gentle."
+      },
+      {
+       "start_ms": 2012000,
+       "end_ms": 2016000,
+       "ko": "막 이렇게 놀리지도 못하고, 애들이.",
+       "en": "So the other kids can't really tease him."
+      }
+     ],
+     "start_ms": 1990000,
+     "end_ms": 2016000,
+     "ko": "아니, 저는 웃기지 않았던 것 같은데.\n차라리 웃어주는.\n차라리 웃기게 넘어가면 좋은데.\n분위기가 싸해지는.\n막, 어떻게.\n어떻게, 어떻게.\n태웅이가? 이렇게.\n애가 막 착한 애니까.\n막, 애가 순한 애니까.\n막 이렇게 놀리지도 못하고, 애들이.",
+     "en": "But I don't think I was funny. If they would just laugh it off. If they would just laugh and move on, that would be better. But the atmosphere gets heavy. Like, how... How, how... Tae-woong like this? Because the kid is so kind. Like, the kid is so gentle. So the other kids can't really tease him."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 2016000,
+       "end_ms": 2017000,
+       "ko": "그랬구나.",
+       "en": "I see."
+      }
+     ],
+     "start_ms": 2016000,
+     "end_ms": 2017000,
+     "ko": "그랬구나.",
+     "en": "I see."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 2017000,
+       "end_ms": 2019000,
+       "ko": "막 쎄하게.",
+       "en": "Like, it gets heavy."
+      }
+     ],
+     "start_ms": 2017000,
+     "end_ms": 2019000,
+     "ko": "막 쎄하게.",
+     "en": "Like, it gets heavy."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 2019000,
+       "end_ms": 2022000,
+       "ko": "와, 진짜 중학교생활 상처밖에 안 나온다.",
+       "en": "Wow, middle school is nothing but trauma."
+      }
+     ],
+     "start_ms": 2019000,
+     "end_ms": 2022000,
+     "ko": "와, 진짜 중학교생활 상처밖에 안 나온다.",
+     "en": "Wow, middle school is nothing but trauma."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 2022000,
+       "end_ms": 2023000,
+       "ko": "상처만 남았어요.",
+       "en": "I'm left with only scars."
+      },
+      {
+       "start_ms": 2023000,
+       "end_ms": 2024000,
+       "ko": "너덜너덜해져서.",
+       "en": "All tattered."
+      }
+     ],
+     "start_ms": 2022000,
+     "end_ms": 2024000,
+     "ko": "상처만 남았어요.\n너덜너덜해져서.",
+     "en": "I'm left with only scars. All tattered."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 2024000,
+       "end_ms": 2025000,
+       "ko": "그러게요.",
+       "en": "Right."
+      },
+      {
+       "start_ms": 2025000,
+       "end_ms": 2028000,
+       "ko": "이제 그만 마무리하도록 하겠습니다.",
+       "en": "Now I'll wrap this up."
+      }
+     ],
+     "start_ms": 2024000,
+     "end_ms": 2028000,
+     "ko": "그러게요.\n이제 그만 마무리하도록 하겠습니다.",
+     "en": "Right. Now I'll wrap this up."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 2028000,
+       "end_ms": 2031000,
+       "ko": "네, 여기까지 합시다.",
+       "en": "Yes, let's end it here."
+      }
+     ],
+     "start_ms": 2028000,
+     "end_ms": 2031000,
+     "ko": "네, 여기까지 합시다.",
+     "en": "Yes, let's end it here."
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 2031000,
+       "end_ms": 2035000,
+       "ko": "댓글로 여러분들의 중학교 생활은 어땠는지 좀 알려주시고",
+       "en": "Please let us know in the comments what your middle school life was like."
+      },
+      {
+       "start_ms": 2035000,
+       "end_ms": 2036000,
+       "ko": "저희를 위로해주세요.",
+       "en": "And comfort us."
+      },
+      {
+       "start_ms": 2036000,
+       "end_ms": 2040000,
+       "ko": "다들 이랬다고 얘기해주세요.",
+       "en": "Tell us that you all went through this too."
+      },
+      {
+       "start_ms": 2040000,
+       "end_ms": 2044000,
+       "ko": "그래도 저희는 이제 좀 더 잘한 고등학교 편으로",
+       "en": "Still, we'll come back with a better high school episode next time."
+      },
+      {
+       "start_ms": 2044000,
+       "end_ms": 2046000,
+       "ko": "다음 에피소드 돌아오도록 하겠습니다.",
+       "en": "Yes, sounds good."
+      }
+     ],
+     "start_ms": 2031000,
+     "end_ms": 2046000,
+     "ko": "댓글로 여러분들의 중학교 생활은 어땠는지 좀 알려주시고\n저희를 위로해주세요.\n다들 이랬다고 얘기해주세요.\n그래도 저희는 이제 좀 더 잘한 고등학교 편으로\n다음 에피소드 돌아오도록 하겠습니다.",
+     "en": "Please let us know in the comments what your middle school life was like. And comfort us. Tell us that you all went through this too. Still, we'll come back with a better high school episode next time. Yes, sounds good."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 2046000,
+       "end_ms": 2048000,
+       "ko": "네, 좋습니다.",
+       "en": "So that's it for Didi and"
+      }
+     ],
+     "start_ms": 2046000,
+     "end_ms": 2048000,
+     "ko": "네, 좋습니다.",
+     "en": "So that's it for Didi and"
+    },
+    {
+     "speaker": "디디",
+     "lines": [
+      {
+       "start_ms": 2048000,
+       "end_ms": 2051000,
+       "ko": "그러면 여기까지 디디와",
+       "en": "Jeong Tae-woong."
+      }
+     ],
+     "start_ms": 2048000,
+     "end_ms": 2051000,
+     "ko": "그러면 여기까지 디디와",
+     "en": "Jeong Tae-woong."
+    },
+    {
+     "speaker": "태웅",
+     "lines": [
+      {
+       "start_ms": 2051000,
+       "end_ms": 2052000,
+       "ko": "정태웅이었습니다.",
+       "en": "Thank you."
+      }
+     ],
+     "start_ms": 2051000,
+     "end_ms": 2052000,
+     "ko": "정태웅이었습니다.",
+     "en": "Thank you."
+    },
+    {
+     "speaker": "둘",
+     "lines": [
+      {
+       "start_ms": 2052000,
+       "end_ms": 2054000,
+       "ko": "감사합니다.",
+       "en": "Thank you."
+      }
+     ],
+     "start_ms": 2052000,
+     "end_ms": 2054000,
+     "ko": "감사합니다.",
+     "en": "Thank you."
+    }
+   ]
+  }
+ ]
+}

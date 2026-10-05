@@ -18,11 +18,11 @@
  "parts": [
   {
    "part": 1,
-   "title_ko": "오프닝: 오늘의 주제는 친구",
-   "title_en": "Opening: today's topic is friends",
+   "title_ko": "친구란? 디디와 태웅은 친구일까",
+   "title_en": "What is a friend? Are Didi and Taewoong friends?",
    "start_ms": 450,
-   "end_ms": 180000,
-   "hangul_chars": 735,
+   "end_ms": 628540,
+   "hangul_chars": 2429,
    "turns": [
     {
      "speaker": "디디",
@@ -637,17 +637,7 @@
      "end_ms": 180000,
      "ko": "좋습니다",
      "en": "So what do you think a friend is, Teacher Tae-woong?"
-    }
-   ]
-  },
-  {
-   "part": 2,
-   "title_ko": "친구란 무엇일까?",
-   "title_en": "What is a friend?",
-   "start_ms": 180000,
-   "end_ms": 401060,
-   "hangul_chars": 848,
-   "turns": [
+    },
     {
      "speaker": "디디",
      "lines": [
@@ -1133,17 +1123,7 @@
      "end_ms": 401060,
      "ko": "아 근데 그 말이 맞는 것 같아요\n저도 그렇게 진짜 친구라고 생각하는 친구들을 생각해보니까\n대부분 많은 시간을 보냈거나, 오랜 시간을 보냈거나\n아니면 짧은 기간 안에 많은 경험을 같이 나눴거나\n그런 친구들이 많은 것 같네요 대부분인 것 같네요",
      "en": "Oh, but that makes sense When I think about the friends I consider real friends Most of them either spent a lot of time together or spent a long time together Or they shared a lot of experiences in a short period It seems like most of my friends are like that"
-    }
-   ]
-  },
-  {
-   "part": 3,
-   "title_ko": "디디와 태웅은 친구일까?",
-   "title_en": "Are Didi and Taewoong friends?",
-   "start_ms": 401060,
-   "end_ms": 628540,
-   "hangul_chars": 846,
-   "turns": [
+    },
     {
      "speaker": "디디",
      "lines": [
@@ -1718,12 +1698,12 @@
    ]
   },
   {
-   "part": 4,
-   "title_ko": "선생님과 학생은 친구일까?",
-   "title_en": "Can teachers and students be friends?",
+   "part": 2,
+   "title_ko": "선생님과 학생, 유튜버와 구독자",
+   "title_en": "Teachers and students, YouTubers and subscribers",
    "start_ms": 628540,
-   "end_ms": 895640,
-   "hangul_chars": 970,
+   "end_ms": 1294210,
+   "hangul_chars": 2419,
    "turns": [
     {
      "speaker": "디디",
@@ -2547,26 +2527,7 @@
        "end_ms": 895640,
        "ko": "그렇죠 쉽지 않죠",
        "en": "Right, it's not easy, is it?"
-      }
-     ],
-     "start_ms": 893570,
-     "end_ms": 895640,
-     "ko": "그렇죠 쉽지 않죠",
-     "en": "Right, it's not easy, is it?"
-    }
-   ]
-  },
-  {
-   "part": 5,
-   "title_ko": "유튜버와 구독자, 그리고 친구 무리",
-   "title_en": "YouTubers, subscribers, and friend groups",
-   "start_ms": 895640,
-   "end_ms": 1294210,
-   "hangul_chars": 1449,
-   "turns": [
-    {
-     "speaker": "태웅",
-     "lines": [
+      },
       {
        "start_ms": 895640,
        "end_ms": 901390,
@@ -2604,10 +2565,10 @@
        "en": "everyone, I'm just a person inside the monitor."
       }
      ],
-     "start_ms": 895640,
+     "start_ms": 893570,
      "end_ms": 923850,
-     "ko": "저는 그래서 좀 분리를 많이 하려고 해요\n저는 막 Comprehensible Input Korean 라이브 할 때도\n그런 말 한 적 있거든요\n'태웅쌤 한국에 가면 부산에 가면 맛있는 거 사줄게요\n같이 먹어요' 이렇게 할 때\n여러분 저는 그냥 모니터 안에 있는 사람입니다",
-     "en": "So I try to separate things a lot. Even when I do Comprehensible Input Korean live, I've said things like that before. 'Teacher Tae-woong, if you go to Korea, if you go to Busan, I'll buy you something delicious, let's eat together' when I say things like that, everyone, I'm just a person inside the monitor."
+     "ko": "그렇죠 쉽지 않죠\n저는 그래서 좀 분리를 많이 하려고 해요\n저는 막 Comprehensible Input Korean 라이브 할 때도\n그런 말 한 적 있거든요\n'태웅쌤 한국에 가면 부산에 가면 맛있는 거 사줄게요\n같이 먹어요' 이렇게 할 때\n여러분 저는 그냥 모니터 안에 있는 사람입니다",
+     "en": "Right, it's not easy, is it? So I try to separate things a lot. Even when I do Comprehensible Input Korean live, I've said things like that before. 'Teacher Tae-woong, if you go to Korea, if you go to Busan, I'll buy you something delicious, let's eat together' when I say things like that, everyone, I'm just a person inside the monitor."
     },
     {
      "speaker": "디디",
@@ -3636,12 +3597,12 @@
    ]
   },
   {
-   "part": 6,
-   "title_ko": "친한 친구일수록 예의",
-   "title_en": "The closer the friend, the more manners matter",
+   "part": 3,
+   "title_ko": "친한 친구의 예의, 어떤 사람과 친구가 될까",
+   "title_en": "Manners with close friends, and who we befriend",
    "start_ms": 1294210,
-   "end_ms": 1526530,
-   "hangul_chars": 846,
+   "end_ms": 1817330,
+   "hangul_chars": 1863,
    "turns": [
     {
      "speaker": "태웅",
@@ -4143,26 +4104,7 @@
        "end_ms": 1526530,
        "ko": "근데 뭐 사람이 다양하니까",
        "en": "But well, people are diverse,"
-      }
-     ],
-     "start_ms": 1522880,
-     "end_ms": 1526530,
-     "ko": "근데 뭐 사람이 다양하니까",
-     "en": "But well, people are diverse,"
-    }
-   ]
-  },
-  {
-   "part": 7,
-   "title_ko": "어떤 사람과 친구가 될까?",
-   "title_en": "Who do we become friends with?",
-   "start_ms": 1526530,
-   "end_ms": 1817330,
-   "hangul_chars": 1017,
-   "turns": [
-    {
-     "speaker": "디디",
-     "lines": [
+      },
       {
        "start_ms": 1526530,
        "end_ms": 1532190,
@@ -4182,10 +4124,10 @@
        "en": "people who match well with basic courtesy?"
       }
      ],
-     "start_ms": 1526530,
+     "start_ms": 1522880,
      "end_ms": 1538140,
-     "ko": "그러면 태웅쌤은 어떤 분들이랑 쉽게 친구가 되는 것 같아요?\n그런 특징이 있을까요? 뭐 아까 얘기했던\n그런 기본적인 예의가 잘 맞는 사람?",
-     "en": "so Tae-woong, what kind of people do you find it easy to become friends with? Is there a characteristic like that? Like what you mentioned earlier, people who match well with basic courtesy?"
+     "ko": "근데 뭐 사람이 다양하니까\n그러면 태웅쌤은 어떤 분들이랑 쉽게 친구가 되는 것 같아요?\n그런 특징이 있을까요? 뭐 아까 얘기했던\n그런 기본적인 예의가 잘 맞는 사람?",
+     "en": "But well, people are diverse, so Tae-woong, what kind of people do you find it easy to become friends with? Is there a characteristic like that? Like what you mentioned earlier, people who match well with basic courtesy?"
     },
     {
      "speaker": "태웅",
@@ -4929,7 +4871,7 @@
    ]
   },
   {
-   "part": 8,
+   "part": 4,
    "title_ko": "고민 상담과 내 편",
    "title_en": "Talking about worries and taking sides",
    "start_ms": 1817330,
@@ -5988,12 +5930,12 @@
    ]
   },
   {
-   "part": 9,
-   "title_ko": "우정 테스트: 생일과 음식",
-   "title_en": "Friendship test: birthdays and food",
+   "part": 5,
+   "title_ko": "우정 테스트와 마무리",
+   "title_en": "Friendship test and closing",
    "start_ms": 2183580,
-   "end_ms": 2490230,
-   "hangul_chars": 1166,
+   "end_ms": 2777820,
+   "hangul_chars": 2127,
    "turns": [
     {
      "speaker": "디디",
@@ -7371,26 +7313,7 @@
        "end_ms": 2490230,
        "ko": "3대 2이고요 다음",
        "en": "It's 3 to 2, and next."
-      }
-     ],
-     "start_ms": 2488200,
-     "end_ms": 2490230,
-     "ko": "3대 2이고요 다음",
-     "en": "It's 3 to 2, and next."
-    }
-   ]
-  },
-  {
-   "part": 10,
-   "title_ko": "우정 테스트 결과와 마무리",
-   "title_en": "Friendship test results and closing",
-   "start_ms": 2490230,
-   "end_ms": 2777820,
-   "hangul_chars": 961,
-   "turns": [
-    {
-     "speaker": "디디",
-     "lines": [
+      },
       {
        "start_ms": 2490230,
        "end_ms": 2492120,
@@ -7404,10 +7327,10 @@
        "en": "And what's the reason for that?"
       }
      ],
-     "start_ms": 2490230,
+     "start_ms": 2488200,
      "end_ms": 2493790,
-     "ko": "제가 제일 좋아하는 계절\n그리고 그 이유는 뭘까요?",
-     "en": "My favorite season And what's the reason for that?"
+     "ko": "3대 2이고요 다음\n제가 제일 좋아하는 계절\n그리고 그 이유는 뭘까요?",
+     "en": "It's 3 to 2, and next. My favorite season And what's the reason for that?"
     },
     {
      "speaker": "태웅",

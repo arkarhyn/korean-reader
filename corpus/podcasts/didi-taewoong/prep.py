@@ -153,6 +153,9 @@ def cmd_rank(args):
     sys.stdout.reconfigure(encoding="utf-8")
     with make_sessionmaker(make_engine())() as session:
         known = known_keys(session)
+        if args.assume:  # what-if: treat a word set's keys as known
+            items = json.load(open(args.assume, encoding="utf-8"))["set"]["items"]
+            known = known | {tuple(k.rsplit("/", 1)) for it in items for k in it["keys"]}
         ranks = dict(((l, p), (r, g)) for l, p, r, g in session.execute(
             select(Lexeme.lemma, Lexeme.pos, Lexeme.freq_rank, Lexeme.gloss_en)))
 
@@ -204,6 +207,8 @@ def cmd_rank(args):
                                           key=lambda kv: (-corpus_spread[kv[0]], -kv[1]))[:200]]
     print("\nTop recurring unknowns (episodes, count):")
     print("  " + ", ".join(f"{u['lemma']}({u['episodes']},{u['count']})" for u in corpus_top[:40]))
+    if args.assume:
+        return
     with open(os.path.join(HERE, "coverage.json"), "w", encoding="utf-8") as f:
         json.dump({"known_words": len(known), "episodes": results, "corpus_top_unknown": corpus_top},
                   f, ensure_ascii=False, indent=1)
@@ -218,6 +223,7 @@ def main():
     p = sub.add_parser("rank")
     p.add_argument("--db", help="SQLite path (default: server's DATABASE_PATH)")
     p.add_argument("--top", type=int, default=30)
+    p.add_argument("--assume", help="word_set.json whose keys count as known (what-if; writes no coverage.json)")
     a = ap.parse_args()
     {"cues": cmd_cues, "assemble": cmd_assemble, "rank": cmd_rank}[a.cmd](a)
 

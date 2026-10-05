@@ -18,11 +18,11 @@
  "parts": [
   {
    "part": 1,
-   "title_ko": "공지와 인스타 아이디 질문",
-   "title_en": "Announcement and the Instagram ID question",
+   "title_ko": "공지와 낯가림 극복 팁",
+   "title_en": "Announcement and tips for getting over shyness",
    "start_ms": 1000,
-   "end_ms": 268000,
-   "hangul_chars": 1030,
+   "end_ms": 600000,
+   "hangul_chars": 2290,
    "turns": [
     {
      "speaker": "디디",
@@ -758,17 +758,7 @@
      "end_ms": 268000,
      "ko": "매주 이렇게 당황을 시키고 있습니다.",
      "en": "You're catching me off guard like this every week."
-    }
-   ]
-  },
-  {
-   "part": 2,
-   "title_ko": "낯가림이란? 극복하는 팁",
-   "title_en": "What is shyness? Tips for getting over it",
-   "start_ms": 268000,
-   "end_ms": 600000,
-   "hangul_chars": 1260,
-   "turns": [
+    },
     {
      "speaker": "태웅",
      "lines": [
@@ -1937,12 +1927,12 @@
    ]
   },
   {
-   "part": 3,
-   "title_ko": "낯가림이 없어진 이유와 장점",
-   "title_en": "How shyness went away, and its upsides",
+   "part": 2,
+   "title_ko": "낯가림의 장점과 낯가리는 사람과 대화하기",
+   "title_en": "The upsides of shyness and talking with shy people",
    "start_ms": 600000,
-   "end_ms": 798919,
-   "hangul_chars": 755,
+   "end_ms": 1155239,
+   "hangul_chars": 2133,
    "turns": [
     {
      "speaker": "디디",
@@ -2303,26 +2293,7 @@
        "end_ms": 798919,
        "ko": "다 관찰당하고 있어요.",
        "en": "Everyone's being observed."
-      }
-     ],
-     "start_ms": 793960,
-     "end_ms": 798919,
-     "ko": "좋은 의미로.\n다 관찰당하고 있어요.",
-     "en": "In a good way. Everyone's being observed."
-    }
-   ]
-  },
-  {
-   "part": 4,
-   "title_ko": "낯가림이 심한 사람과 대화하기",
-   "title_en": "Talking with very shy people",
-   "start_ms": 798919,
-   "end_ms": 1155239,
-   "hangul_chars": 1378,
-   "turns": [
-    {
-     "speaker": "태웅",
-     "lines": [
+      },
       {
        "start_ms": 798919,
        "end_ms": 810759,
@@ -2330,10 +2301,10 @@
        "en": "So Didi, aside from whether you have shyness yourself, you must have met people who are shy before, right?"
       }
      ],
-     "start_ms": 798919,
+     "start_ms": 793960,
      "end_ms": 810759,
-     "ko": "그러면 디디님은 본인이 낯가림이 있는 거랑 별개로 또 자기 말고 낯가림이 있는 사람들을 만나본 적이 있을 거 아니에요?",
-     "en": "So Didi, aside from whether you have shyness yourself, you must have met people who are shy before, right?"
+     "ko": "좋은 의미로.\n다 관찰당하고 있어요.\n그러면 디디님은 본인이 낯가림이 있는 거랑 별개로 또 자기 말고 낯가림이 있는 사람들을 만나본 적이 있을 거 아니에요?",
+     "en": "In a good way. Everyone's being observed. So Didi, aside from whether you have shyness yourself, you must have met people who are shy before, right?"
     },
     {
      "speaker": "디디",
@@ -3506,12 +3477,12 @@
    ]
   },
   {
-   "part": 5,
-   "title_ko": "새 코너: 말로 하는 미니게임",
-   "title_en": "New segment: a word mini game",
+   "part": 3,
+   "title_ko": "새 코너: 첫 번째 스무고개",
+   "title_en": "New segment: Twenty Questions, round one",
    "start_ms": 1155239,
-   "end_ms": 1388000,
-   "hangul_chars": 929,
+   "end_ms": 1691000,
+   "hangul_chars": 1912,
    "turns": [
     {
      "speaker": "디디",
@@ -4239,17 +4210,7 @@
      "end_ms": 1388000,
      "ko": "알겠습니다. 좋습니다.",
      "en": "I understand. That sounds good."
-    }
-   ]
-  },
-  {
-   "part": 6,
-   "title_ko": "첫 번째 스무고개",
-   "title_en": "Twenty Questions, round one",
-   "start_ms": 1388000,
-   "end_ms": 1691000,
-   "hangul_chars": 983,
-   "turns": [
+    },
     {
      "speaker": "태웅",
      "lines": [
@@ -5966,7 +5927,7 @@
    ]
   },
   {
-   "part": 7,
+   "part": 4,
    "title_ko": "두 번째 스무고개와 마무리",
    "title_en": "Twenty Questions, round two, and goodbye",
    "start_ms": 1691000,

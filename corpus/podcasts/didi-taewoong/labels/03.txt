@@ -1,4 +1,4 @@
-# part 1 | 오프닝과 소개팅의 뜻 | Opening and what sogaeting means
+# part 1 | 소개팅이란? 왜 부담스러울까 | What sogaeting is, and why it feels like pressure
 0-1 디디
 2 태웅
 3-4 디디
@@ -52,7 +52,6 @@
 84-85 태웅
 86 디디
 87 태웅
-# part 2 | 소개팅이 부담스러운 이유 | Why blind dates feel like pressure
 88 디디
 89 태웅
 90 디디
@@ -128,7 +127,7 @@
 196 태웅
 197-200 디디
 201 태웅
-# part 3 | 소개팅의 3단계와 첫 메뉴 | The three stages and the first-date menu
+# part 2 | 첫 만남의 메뉴와 계산 | The first-date menu and who pays
 202-203 디디
 204-205 태웅
 206-208 디디
@@ -214,7 +213,6 @@
 352 디디
 353-354 태웅?
 355 디디
-# part 4 | 파스타, 덮밥, 그리고 더치페이 | Pasta, rice bowls, and splitting the bill
 356-360 디디
 361 태웅
 362-364 디디
@@ -269,7 +267,6 @@
 442-443 태웅
 444 디디
 445 태웅
-# part 5 | 한 끼 쏘기와 아이스크림 이야기 | Treating a meal and the ice cream story
 446-447 디디
 448 태웅
 449-450 디디
@@ -301,7 +298,7 @@
 503 태웅
 504-509 디디
 510 태웅
-# part 6 | 소개팅이 어려운 이유와 맞는 사람 | Why it's hard, and the right person
+# part 3 | 나와 맞는 사람 찾기 | Finding the right person
 511-513 디디
 514 태웅
 515-521 디디?
@@ -331,7 +328,6 @@
 581 태웅
 582-597 디디
 598-599 태웅
-# part 7 | 디디가 생각하는 맞는 사람 | Didi's idea of the right person
 600 태웅
 601-604 디디
 605 태웅
@@ -365,7 +361,7 @@
 655-663 디디
 664 태웅
 665-667 디디
-# part 8 | SNS를 많이 하는 사람 | People who post a lot on social media
+# part 4 | SNS, 꽈팅, 요즘의 만남 | Social media, group dates, and meeting people today
 668 디디
 669 태웅
 670 디디
@@ -386,7 +382,6 @@
 726-732 태웅
 733 디디
 734-735 태웅
-# part 9 | 디디의 꽈팅과 태웅의 누나 이야기 | Didi's group dates and Taewoong's sister
 736 태웅
 737 디디
 738 태웅
@@ -410,7 +405,6 @@
 785 태웅
 786-788 디디
 789-817 태웅
-# part 10 | 요즘의 만남과 다음 주 주제 | Meeting people today and next week's topic
 818-821 디디
 822 태웅
 823-831 디디

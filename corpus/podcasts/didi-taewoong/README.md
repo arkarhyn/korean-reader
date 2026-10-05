@@ -29,14 +29,19 @@ alignment is approximate.
 ## Stage 7 Phase A: prepared episodes (`prep.py`)
 Reader-ready input for the future Listen tab. Nothing here touches the app yet.
 - `labels/NN.txt`: one speaker per subtitle cue (`디디` / `태웅` / `둘`, trailing `?` =
-  uncertain) and ~4–6 min part breaks with ko/en titles. Written by a Claude Code
+  uncertain; shown as "?" in the app) and ~8–12 min part breaks with ko/en titles. Written by a Claude Code
   labeling pass that reads the transcript; the Korean itself is never rewritten.
 - `prepared/NN_slug.json`: parts → speaker turns → timed lines; `prepared/NN_slug.md` to read.
 - `coverage.json`: known-word coverage per clean episode (and per part where
   prepared) against the vocab DB, plus `corpus_top_unknown`: your unknown words
   ranked by how many episodes they appear in.
 
-Done so far: 03, 17, 28 (the three easiest by coverage).
+- `word_set.json`: 76 recurring "unknown" words as a word set (`podcast-common`,
+  also in `content/seed/word_sets.json`). Knowing them all lifts episode
+  coverage about 9–11 points.
+
+Done: all 23 manual-subtitle episodes. That's 106 parts and 9,626 turns, 5% of them uncertain. The 10
+auto-caption episodes are not labeled.
 
 ```
 python prep.py cues NN                 # -> work/NN.cues.txt for the labeling pass
@@ -54,7 +59,12 @@ Known caveats, found in the sample pass:
 - **Speaker labels are inferred from content:** about 5–11% of turns are marked `uncertain`,
   mostly rapid back-channel exchanges. Game segments (스무고개 etc.) are very
   fragmented one-word turns.
-- **Coverage is about 60–69% per episode and 61–77% per part (Oct 2026, 594 known words).**
+- **Some subtitle cues hold two or three speakers,** and each cue gets one label, so the
+  second voice is mislabeled. This happens in long stretches in 01 (40:00–49:50), 05 (30:00–36:05) and 18
+  (9:20–18:30), and in scattered `A - B` cues elsewhere. Fixing it would mean splitting cues.
+- **Notable episodes:** 16 is a 반말-mode special where the hosts speak casually on purpose. 31 opens with a
+  teaser clip that repeats later. Most later episodes end with a quiz and a word mini-game.
+- **Coverage is about 60–69% per episode and 54–71% per ~10-min part (Oct 2026, 594 known words).**
   It's slightly understated: `-것 같다` counts 같다, and the 예 / 그 fillers count as words.
 
 ## Refresh (new episodes)

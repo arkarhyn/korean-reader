@@ -1,4 +1,4 @@
-# part 1 | 오프닝: 오늘의 주제는 친구 | Opening: today's topic is friends
+# part 1 | 친구란? 디디와 태웅은 친구일까 | What is a friend? Are Didi and Taewoong friends?
 0-1 디디
 2 태웅
 3-5 디디
@@ -29,7 +29,6 @@
 51-54 태웅
 55 디디
 56 태웅
-# part 2 | 친구란 무엇일까? | What is a friend?
 57 디디
 58-59 태웅
 60 디디
@@ -47,7 +46,6 @@
 105 태웅
 106-108 디디
 109-113 태웅
-# part 3 | 디디와 태웅은 친구일까? | Are Didi and Taewoong friends?
 114-118 디디
 119 태웅
 120 디디
@@ -72,7 +70,7 @@
 170 태웅
 171 디디
 172 태웅
-# part 4 | 선생님과 학생은 친구일까? | Can teachers and students be friends?
+# part 2 | 선생님과 학생, 유튜버와 구독자 | Teachers and students, YouTubers and subscribers
 173-174 디디
 175 태웅
 176-177 디디
@@ -113,7 +111,6 @@
 242-247 태웅
 248-249 디디?
 250 태웅
-# part 5 | 유튜버와 구독자, 그리고 친구 무리 | YouTubers, subscribers, and friend groups
 251-256 태웅
 257 디디
 258 태웅
@@ -161,7 +158,7 @@
 346-354 태웅
 355-356 디디
 357 태웅
-# part 6 | 친한 친구일수록 예의 | The closer the friend, the more manners matter
+# part 3 | 친한 친구의 예의, 어떤 사람과 친구가 될까 | Manners with close friends, and who we befriend
 358 태웅
 359 디디
 360-366 태웅
@@ -180,7 +177,6 @@
 411 디디?
 412-413 태웅?
 414 디디
-# part 7 | 어떤 사람과 친구가 될까? | Who do we become friends with?
 415-417 디디
 418-420 태웅
 421 디디
@@ -213,7 +209,7 @@
 490 태웅?
 491-492 디디
 493 태웅
-# part 8 | 고민 상담과 내 편 | Talking about worries and taking sides
+# part 4 | 고민 상담과 내 편 | Talking about worries and taking sides
 494-503 디디
 504-506 태웅
 507-508 디디
@@ -260,7 +256,7 @@
 595-596 태웅?
 597 디디
 598 태웅
-# part 9 | 우정 테스트: 생일과 음식 | Friendship test: birthdays and food
+# part 5 | 우정 테스트와 마무리 | Friendship test and closing
 599-616 디디
 617 태웅
 618-619 디디
@@ -335,7 +331,6 @@
 715 디디
 716 태웅
 717 디디
-# part 10 | 우정 테스트 결과와 마무리 | Friendship test results and closing
 718-719 디디
 720-721 태웅
 722 디디
