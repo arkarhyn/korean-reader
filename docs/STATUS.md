@@ -19,10 +19,13 @@
   Playback/line follow not seen in the browser (the Chrome window was hidden, so video
   can't play); `activeLineAt` is unit-tested.
 
-**Not deployed.** To deploy (after Austin OKs): back up the live DB; stop the service;
-merge `stage-7`; `cd server; uv run python scripts/ingest_episodes.py --seed` (word set +
-names) and `uv run python scripts/ingest_podcasts.py --publish`; `cd web; npm run build`;
-start the service; open 듣기.
+**Deployed 2026-10-05 (Austin OK'd):** live DB backed up to
+`%TEMP%\kr5\live_backup_pre_stage7.db` (827 events, integrity ok); service stopped; `stage-6`
+fast-forwarded to `stage-7` (d78ef30); `ingest_episodes.py --seed` (migration 0004, word set,
+host names) + `ingest_podcasts.py --publish` (106 parts, 20 s; srs: 0 rows changed; replay
+stable); web rebuilt; service started; health OK (`/api/podcasts` 23 episodes / 106 parts,
+sync pull 10 story episodes, no podcasts; `/listen` 200).
+Rollback: stop service, restore the backup, reset `stage-6` to 89708ae, rebuild web, start.
 
 **Next:** Austin listens to a part on the phone (check line follow + video inline); request
 a primer, then `/generate-batch` (also Stage 6's pending acceptance). Then Phase C.
