@@ -10,6 +10,7 @@ import { segment } from "../segments";
 import { speakerColor } from "../speakers";
 import { syncer } from "../sync";
 import { tts } from "../tts";
+import { voiceFor } from "../voices";
 import type { Episode, Paragraph, Question } from "../types";
 import { type OnTap, useWordTaps } from "../useWordTaps";
 
@@ -72,7 +73,9 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
 
   function speakLine(idx: number) {
     const p = episode.paragraphs[idx];
-    if (p) tts.speak(spokenText(p.ko, speakerLabelEnd(p.ko)));
+    if (!p) return;
+    const end = speakerLabelEnd(p.ko);
+    tts.speak(spokenText(p.ko, end), voiceFor(p.ko.slice(0, end))); // narration -> default voice
   }
 
   function goTo(idx: number | null, play = autoplay) {

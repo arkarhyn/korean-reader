@@ -432,6 +432,11 @@ Do not reverse an entry without asking Austin.
     not spoken; word taps never move the cursor or replay. Not in placement. Rejected:
     Shift+click (no Shift on the phone), tapping the speaker label (narration has none),
     sentence-sized steps.
+91. **Per-character voices, quick version (Austin):** each main-cast speaker has a pitch /
+    rate profile (`web/src/voices.ts`); the male cast uses the device's second Korean voice
+    when one exists. Narration and non-main speakers use the default voice. Devices have one
+    or two Korean system voices, so this is distinguishable rather than natural; real
+    distinct voices = server-generated audio in Stage 9 (needs an engine evaluation).
 
 ## OPEN
 
