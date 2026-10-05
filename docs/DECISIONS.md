@@ -335,6 +335,12 @@ Do not reverse an entry without asking Austin.
     speakers (hard to follow who is talking); colors hashed from the name
     (would not be stable or tuned for contrast).
 
+74. **Dialogue vs narration layout (Austin, 2026-10-05):** dialogue lines get a
+    hanging indent (wrapped lines indent under the text; the English translation
+    indents to match); narration lines stay flush left with extra space around
+    them. Rejected: muting narration's color (narration is already the harder
+    text to read).
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

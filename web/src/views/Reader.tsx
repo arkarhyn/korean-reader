@@ -292,8 +292,13 @@ function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn
   const labelEnd = speakerLabelEnd(p.ko);
   const labelColor = labelEnd ? speakerColor(p.ko.slice(0, labelEnd)) : undefined;
   return (
-    <div>
-      <p className="font-body text-[19px] leading-[2.05] break-keep sm:text-[20px]">
+    // Dialogue: hanging indent, so a wrapped line never looks like a new paragraph.
+    // Narration: flush left with extra space around it, so it reads as its own beat.
+    <div className={labelEnd ? "" : "py-2"}>
+      <p
+        className="font-body text-[19px] leading-[2.05] break-keep sm:text-[20px]"
+        style={labelEnd ? { paddingLeft: "1.75em", textIndent: "-1.75em" } : undefined}
+      >
         {segs.map((s) =>
           s.start < labelEnd ? (
             <span key={s.start} className="font-bold" style={{ color: labelColor }}>
@@ -328,7 +333,11 @@ function ParagraphView({ p, active, tapped, known, showEn, canShowEn, onToggleEn
           </button>
         )}
       </p>
-      {canShowEn && showEn && <p className="mt-0.5 mb-2 border-l-2 border-rule pl-3 text-[15px] leading-relaxed text-ink-soft">{p.en}</p>}
+      {canShowEn && showEn && (
+        <p className={`mt-0.5 mb-2 border-l-2 border-rule pl-3 text-[15px] leading-relaxed text-ink-soft ${labelEnd ? "ml-8" : ""}`}>
+          {p.en}
+        </p>
+      )}
     </div>
   );
 }

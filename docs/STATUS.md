@@ -50,7 +50,8 @@ you read -- each tap widens what the next batch can use (DECISIONS 60).
 - 2026-10-05: S01E003-005 regenerated against 597 known words (95.1-95.6%),
   reviewed (4/5 each), published; all S01 episodes now one speaker per line;
   reader shows speaker labels and an inline EN toggle (DECISIONS 71-72).
-  Speaker names are color-coded per character (DECISIONS 73).
+  Speaker names are color-coded per character; dialogue has a hanging indent
+  and narration extra spacing (DECISIONS 73-74).
   Server 127 tests, web 29. Live DB backup `%TEMP%\kr5\live_backup_pre_regen.db`.
 
 **Next:** Austin works through some word sets, then the next `/generate-batch`
