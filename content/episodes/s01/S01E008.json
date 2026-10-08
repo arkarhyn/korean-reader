@@ -1,0 +1,231 @@
+{
+  "id": "S01E008",
+  "series": "main",
+  "title_ko": "공항 가는 길",
+  "title_en": "The Drive to the Airport",
+  "register_tags": [
+    "banmal",
+    "haeyo"
+  ],
+  "target_grammar": "G.FUT",
+  "status": "draft",
+  "summary": "Thursday the family arrives in the wedding city (wedding Saturday). Ethan and Dad drive to the airport to pick up 이모 (Mom's younger sister), their job from the group chat. Waiting in the car with coffee, Dad says he'll drop the formality ('나도 이제 말 놓을게') and switches to 반말 (still 이선 씨); he asks about Seoyun and says he and Mom used to go to the park a lot when young; 할머니 is waiting for photos. 이모 calls Dad 형부, asks if Ethan has eaten (Dad: just like your sister), praises his Korean, and asks about his plans after the wedding -- then means marriage plans with Seoyun. Ethan is speechless; Dad says even he hasn't asked that yet, would rather talk peppers, and tells her to ask everything at Friday's dinner. Ethan worries about Friday.",
+  "paragraphs": [
+    {
+      "ko": "목요일 오후, 가족은 결혼식이 있는 도시에 도착했다. 결혼식은 토요일이었다.",
+      "en": "Thursday afternoon, the family arrived in the city where the wedding was. The wedding was on Saturday."
+    },
+    {
+      "ko": "이선과 아빠는 공항에서 이모를 데려와야 했다.",
+      "en": "Ethan and Dad had to bring 이모 (Mom's younger sister) back from the airport."
+    },
+    {
+      "ko": "아빠: 이모 비행기는 세 시에 도착할 거예요.",
+      "en": "Dad: Her plane will arrive at three."
+    },
+    {
+      "ko": "이선: 그럼 시간이 좀 있네요.",
+      "en": "Ethan: Then we have a little time."
+    },
+    {
+      "ko": "아빠: 커피 마실 거예요?",
+      "en": "Dad: Want to get coffee?"
+    },
+    {
+      "ko": "이선: 네, 좋아요.",
+      "en": "Ethan: Yes, sounds good."
+    },
+    {
+      "ko": "두 사람은 커피를 샀다. 그리고 차 안에서 기다렸다. 아빠는 한참 말이 없었다.",
+      "en": "The two of them bought coffee. Then they waited in the car. Dad didn't say anything for a long while."
+    },
+    {
+      "ko": "아빠: 이선 씨.",
+      "en": "Dad: Ethan."
+    },
+    {
+      "ko": "이선: 네?",
+      "en": "Ethan: Yes?"
+    },
+    {
+      "ko": "아빠: 나도 이제 말 놓을게. 괜찮지?",
+      "en": "Dad: I'm going to talk casually with you now, too. That okay?"
+    },
+    {
+      "ko": "이선: 네! 편하게 하세요.",
+      "en": "Ethan: Yes! Please talk however's comfortable."
+    },
+    {
+      "ko": "아빠: 그래. 서윤이는 요즘 어때? 회사 일 많아?",
+      "en": "Dad: Okay. How's Seoyun doing these days? Lots of work at the office?"
+    },
+    {
+      "ko": "이선: 네, 요즘 일이 많아요. 그래도 주말에는 같이 공원에 가요.",
+      "en": "Ethan: Yes, she has a lot of work lately. But on weekends we go to the park together."
+    },
+    {
+      "ko": "아빠: 좋네. 나도 옛날에 서윤이 엄마랑 공원에 자주 갔어.",
+      "en": "Dad: That's nice. Back in the day I used to go to the park with Seoyun's mom a lot too."
+    },
+    {
+      "ko": "아빠: 그리고 할머니가 아침에 또 전화를 하셨어. 이선 씨 사진 기다리고 계셔.",
+      "en": "Dad: And Grandma called again this morning. She's waiting for your photos."
+    },
+    {
+      "ko": "이선: 네, 결혼식 사진 많이 찍을 거예요.",
+      "en": "Ethan: Yes, I'm going to take lots of wedding photos."
+    },
+    {
+      "ko": "세 시에 공항에서 이모가 큰 짐을 두 개 들고 나왔다. 이선은 바로 받았다.",
+      "en": "At three, 이모 came out of the airport carrying two big bags. Ethan took them right away."
+    },
+    {
+      "ko": "이모: 형부! 안녕하세요!",
+      "en": "Imo: Brother-in-law! Hello!"
+    },
+    {
+      "ko": "이모: 이 사람이 그 이선 씨예요? 서윤이 남자 친구?",
+      "en": "Imo: Is this the Ethan? Seoyun's boyfriend?"
+    },
+    {
+      "ko": "이선: 네, 안녕하세요. 이선입니다.",
+      "en": "Ethan: Yes, hello. I'm Ethan."
+    },
+    {
+      "ko": "이모: 언니는요?",
+      "en": "Imo: Where's my sister?"
+    },
+    {
+      "ko": "아빠: 호텔에 있어. 서현이랑 결혼식 준비하고 있어.",
+      "en": "Dad: At the hotel. She's getting ready for the wedding with Seohyun."
+    },
+    {
+      "ko": "이모: 우리 서현이가 벌써 결혼하네요.",
+      "en": "Imo: Our Seohyun is already getting married."
+    },
+    {
+      "ko": "아빠: …응.",
+      "en": "Dad: ...Yeah."
+    },
+    {
+      "ko": "이모: 이선 씨, 밥 먹었어요? 배고프죠?",
+      "en": "Imo: Ethan, have you eaten? You must be hungry, right?"
+    },
+    {
+      "ko": "아빠: 언니하고 하는 말이 같네.",
+      "en": "Dad: You say exactly what your sister says."
+    },
+    {
+      "ko": "이선: 아니요, 괜찮아요. 짐은 제가 차에 넣을게요.",
+      "en": "Ethan: No, I'm fine. I'll put your bags in the car."
+    },
+    {
+      "ko": "이모: 고마워요. 와, 한국어 잘하네요!",
+      "en": "Imo: Thank you. Wow, your Korean is good!"
+    },
+    {
+      "ko": "이선: 아니에요. 아직 많이 배우고 있어요.",
+      "en": "Ethan: Not at all. I'm still learning a lot."
+    },
+    {
+      "ko": "차에서 이모가 또 말했다.",
+      "en": "In the car, Imo spoke up again."
+    },
+    {
+      "ko": "이모: 이선 씨, 결혼식 끝나고 계획 있어요?",
+      "en": "Imo: Ethan, do you have plans after the wedding?"
+    },
+    {
+      "ko": "이선: 일요일에 집에 갈 거예요. 월요일에 일해야 돼요.",
+      "en": "Ethan: I'm going home on Sunday. I have to work on Monday."
+    },
+    {
+      "ko": "이모: 아니, 그거 아니고요. 서윤이랑 결혼할 계획!",
+      "en": "Imo: No, not that. Plans to marry Seoyun!"
+    },
+    {
+      "ko": "이선은 말을 못 했다.",
+      "en": "Ethan couldn't say a word."
+    },
+    {
+      "ko": "아빠: 그건 나도 아직 몰라.",
+      "en": "Dad: Even I don't know that yet."
+    },
+    {
+      "ko": "이모: 형부도 알고 싶잖아요!",
+      "en": "Imo: You want to know too, brother-in-law!"
+    },
+    {
+      "ko": "아빠: 이선 씨, 이모는 말이 많아. 서윤이 엄마처럼.",
+      "en": "Dad: Ethan, Imo talks a lot. Just like Seoyun's mom."
+    },
+    {
+      "ko": "아빠: …나는 고추 이야기가 더 좋아.",
+      "en": "Dad: ...I'd rather talk about peppers."
+    },
+    {
+      "ko": "이선: 저도요! 고추 이야기 좋아요.",
+      "en": "Ethan: Me too! I like pepper talk."
+    },
+    {
+      "ko": "이모: 언니한테 고추 이야기는 많이 들었어요. 두 사람 이야기가 잘 맞네요.",
+      "en": "Imo: I've heard plenty about the peppers from my sister. You two really hit it off."
+    },
+    {
+      "ko": "아빠: 금요일 저녁에 다 같이 밥 먹을 거야. 그때 많이 물어봐.",
+      "en": "Dad: We're all having dinner together Friday night. Ask him lots then."
+    },
+    {
+      "ko": "이선은 금요일 저녁을 조금 걱정했다. 그래도 기분은 좋았다.",
+      "en": "Ethan was a little worried about Friday night. Still, he was in a good mood."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "이선과 아버지는 왜 공항에 갔어요?",
+      "prompt_en": "Why did Ethan and Dad go to the airport?",
+      "options": [
+        "이모를 데려오려고",
+        "할머니를 만나려고",
+        "비행기를 타려고"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "차 안에서 아버지는 이선에게 뭐라고 했어요?",
+      "prompt_en": "What did Dad tell Ethan in the car?",
+      "options": [
+        "이제 말을 편하게 할 거예요",
+        "이모를 싫어해요",
+        "결혼식에 안 갈 거예요"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"공항에서 이모를 데려오다\"에서 \"데려오다\"는 무슨 뜻이에요?",
+      "prompt_en": "In 공항에서 이모를 데려오다, what does 데려오다 mean?",
+      "options": [
+        "to bring (someone) back",
+        "to call",
+        "to wait for"
+      ],
+      "answer_idx": 0,
+      "target_ref": "데려오다"
+    },
+    {
+      "kind": "grammar_check",
+      "prompt_ko": "\"이모 비행기는 세 시에 도착___.\" (= will arrive) 뭐가 맞아요?",
+      "prompt_en": "\"Her plane ___ at three.\"",
+      "options": [
+        "할 거예요",
+        "했어요",
+        "하고 싶어요"
+      ],
+      "answer_idx": 0,
+      "target_ref": "G.FUT"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "S01E010",
+  "series": "main",
+  "title_ko": "탑골프",
+  "title_en": "Topgolf",
+  "register_tags": [
+    "banmal",
+    "haeyo"
+  ],
+  "target_grammar": "G.EUN_HUE",
+  "status": "draft",
+  "summary": "Saturday morning (wedding at 5 pm) Dad, 삼촌 (Dad's younger brother), 이모, 준수, 마이클, Ethan and Seoyun go to Topgolf. Ethan has never played; 준수 vows to win, but Ethan's ball flies and Dad turns out to be good (he played a lot back in his company days). Seoyun takes photos for 할머니. 이모 finally asks how they met (last night the 대장부 business got in the way): at a climbing gym on Seoyun's first day -- she was stuck up top and Ethan helped from below; afterwards they had coffee; it's already been a year. 삼촌 asks about the military: Ethan does computer work in the 공군 and wants to keep doing it after 전역. Dad: he already asked that in the garden. 준수's ball drops right in front of him; 마이클 cheers him on. After lunch 준수 demands a rematch after the wedding.",
+  "paragraphs": [
+    {
+      "ko": "토요일 아침이었다. 결혼식은 저녁 다섯 시였다.",
+      "en": "It was Saturday morning. The wedding was at five in the evening."
+    },
+    {
+      "ko": "그 전에 아빠, 삼촌, 이모, 준수, 마이클, 그리고 이선과 서윤이가 같이 공을 치러 갔다. 큰 곳에서 공을 치고, 밥도 먹는 곳이었다.",
+      "en": "Before that, Dad, his younger brother, Imo, Junsu, Michael, and Ethan and Seoyun went to hit golf balls together. It was a big place where you hit balls and eat, too."
+    },
+    {
+      "ko": "서윤: 너 골프 쳐 봤어?",
+      "en": "Seoyun: Have you ever played golf?"
+    },
+    {
+      "ko": "이선: 아니, 한 번도 안 쳐 봤어. 오늘이 처음이야.",
+      "en": "Ethan: No, never. Today's my first time."
+    },
+    {
+      "ko": "준수: 형, 그럼 오늘은 내가 이길 거야.",
+      "en": "Junsu: Hyung, then today I'm going to win."
+    },
+    {
+      "ko": "이선: 그래? 한번 보자.",
+      "en": "Ethan: Yeah? Let's see."
+    },
+    {
+      "ko": "이선이 먼저 공을 쳤다. 공은 아주 높게 갔다.",
+      "en": "Ethan hit first. The ball went really high."
+    },
+    {
+      "ko": "준수: 와… 형, 진짜 처음이야?",
+      "en": "Junsu: Whoa... hyung, is this really your first time?"
+    },
+    {
+      "ko": "그 다음에 아빠가 쳤다. 아빠도 아주 잘 쳤다.",
+      "en": "Next Dad hit. Dad hit really well too."
+    },
+    {
+      "ko": "준수: 아빠, 골프 진짜 잘 치네요!",
+      "en": "Junsu: Dad, you're really good at golf!"
+    },
+    {
+      "ko": "아빠: 회사 다닐 때 많이 쳤어.",
+      "en": "Dad: I played a lot back when I worked at the company."
+    },
+    {
+      "ko": "이모: 서윤아, 너는 안 쳐?",
+      "en": "Imo: Seoyun, aren't you going to hit?"
+    },
+    {
+      "ko": "서윤: 저는 사진 찍을 거예요. 할머니한테 보낼 거예요.",
+      "en": "Seoyun: I'm going to take pictures. I'll send them to Grandma."
+    },
+    {
+      "ko": "서윤: 이선아, 여기 봐! 하나, 둘, 셋!",
+      "en": "Seoyun: Ethan, look here! One, two, three!"
+    },
+    {
+      "ko": "이선: 사진 잘 나왔어?",
+      "en": "Ethan: Did it come out okay?"
+    },
+    {
+      "ko": "서윤: 응, 할머니가 좋아하실 거야.",
+      "en": "Seoyun: Yeah, Grandma will like it."
+    },
+    {
+      "ko": "이모: 그런데 두 사람은 어떻게 만났어요? 어제 저녁에는 대장부 때문에 못 물어봤어요.",
+      "en": "Imo: So how did you two meet? Last night I couldn't ask because of the daejangbu thing."
+    },
+    {
+      "ko": "서윤: 클라이밍 하는 곳에서 만났어요. 제가 처음 간 날이었어요.",
+      "en": "Seoyun: We met at a climbing gym. It was my first day there."
+    },
+    {
+      "ko": "서윤: 저는 위에서 하나도 못 했어요. 그때 이선이 밑에서 도와줬어요.",
+      "en": "Seoyun: Up top I couldn't do a thing. Then Ethan helped me from below."
+    },
+    {
+      "ko": "이선: 그리고 클라이밍을 한 후에 같이 커피를 마셨어요.",
+      "en": "Ethan: And after climbing, we had coffee together."
+    },
+    {
+      "ko": "이모: 와, 좋다! 그때부터 계속 만났어요?",
+      "en": "Imo: Aww, how nice! And you've been dating ever since?"
+    },
+    {
+      "ko": "서윤: 네, 벌써 일 년 됐어요.",
+      "en": "Seoyun: Yes, it's already been a year."
+    },
+    {
+      "ko": "이모: 두 사람 정말 좋네요.",
+      "en": "Imo: You two are so lovely."
+    },
+    {
+      "ko": "서윤: 이모, 고마워요. 저도 그렇게 생각해요.",
+      "en": "Seoyun: Thanks, Imo. I think so too."
+    },
+    {
+      "ko": "삼촌: 이선 씨, 군인이라고 들었어요. 무슨 일 해요? 그리고 그 다음에는 뭐 할 거예요?",
+      "en": "Uncle: Ethan, I heard you're in the military. What do you do? And what will you do after that?"
+    },
+    {
+      "ko": "이선: 공군에서 컴퓨터 일을 해요. 전역한 후에도 계속 컴퓨터 일을 하고 싶어요.",
+      "en": "Ethan: I do computer work in the Air Force. Even after I get out, I want to keep doing computer work."
+    },
+    {
+      "ko": "아빠: 그건 내가 텃밭에서 벌써 물어봤어.",
+      "en": "Dad: I already asked him that in the garden."
+    },
+    {
+      "ko": "삼촌: 형, 이선 씨 진짜 좋아하네.",
+      "en": "Uncle: You really like Ethan, don't you."
+    },
+    {
+      "ko": "아빠: …공이나 쳐.",
+      "en": "Dad: ...Just hit your ball."
+    },
+    {
+      "ko": "다 같이 웃었다. 그 다음에 준수가 공을 쳤다. 공은 바로 앞에 떨어졌다.",
+      "en": "Everyone laughed. Next Junsu hit. His ball dropped right in front of him."
+    },
+    {
+      "ko": "준수: 아… 다음 공은 진짜 잘 칠 거야.",
+      "en": "Junsu: Ugh... I'll hit the next one for real."
+    },
+    {
+      "ko": "준수: 이 공이 문제야.",
+      "en": "Junsu: This ball is the problem."
+    },
+    {
+      "ko": "아빠: 공은 괜찮아.",
+      "en": "Dad: The ball is fine."
+    },
+    {
+      "ko": "마이클: 준수, 괜찮아요! 다음에 잘 쳐요!",
+      "en": "Michael: Junsu, it's okay! You'll hit it next time!"
+    },
+    {
+      "ko": "준수: 마이클 형, 고마워…",
+      "en": "Junsu: Thanks, Michael..."
+    },
+    {
+      "ko": "공을 다 친 후에 같이 밥을 먹었다.",
+      "en": "After they finished hitting, they all ate together."
+    },
+    {
+      "ko": "이모: 이선 씨, 많이 먹어요.",
+      "en": "Imo: Ethan, eat lots."
+    },
+    {
+      "ko": "이선: 감사합니다. 근데 어제 저녁에 너무 많이 먹었어요.",
+      "en": "Ethan: Thank you. But I ate way too much last night."
+    },
+    {
+      "ko": "준수: 형, 결혼식 끝난 후에 한 번 더 하자. 그때는 내가 이길 거야.",
+      "en": "Junsu: Hyung, let's go one more time after the wedding. I'll win then."
+    },
+    {
+      "ko": "이선: 좋아. 근데 지금은 결혼식 준비하러 가자.",
+      "en": "Ethan: Deal. But right now, let's go get ready for the wedding."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "이선과 서윤이는 어디에서 처음 만났어요?",
+      "prompt_en": "Where did Ethan and Seoyun first meet?",
+      "options": [
+        "클라이밍 하는 곳",
+        "카페",
+        "회사"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "서윤이는 왜 사진을 찍어요?",
+      "prompt_en": "Why is Seoyun taking pictures?",
+      "options": [
+        "할머니한테 보낼 거예요",
+        "준수가 부탁했어요",
+        "회사 일이에요"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"전역하다\"는 무슨 뜻이에요?",
+      "prompt_en": "What does 전역하다 mean?",
+      "options": [
+        "to leave the military",
+        "to win a game",
+        "to get married"
+      ],
+      "answer_idx": 0,
+      "target_ref": "전역하다"
+    },
+    {
+      "kind": "grammar_check",
+      "prompt_ko": "\"결혼식 끝___ 한 번 더 하자.\" (= after the wedding ends) 뭐가 맞아요?",
+      "prompt_en": "\"Let's do it once more ___ the wedding ends.\"",
+      "options": [
+        "난 후에",
+        "나기 전에",
+        "나는 동안"
+      ],
+      "answer_idx": 0,
+      "target_ref": "G.EUN_HUE"
+    }
+  ]
+}

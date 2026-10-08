@@ -1,5 +1,33 @@
 # STATUS
 
+## 2026-10-08 -- /generate-batch: S01E007-011 + primer (first batch at the DECISIONS 98 bands)
+**Done:** published to the live DB (backup `server/data/korean_reader.backup-20261008-021949-preS01E007-011.db`).
+Season 1 main arc is now complete through the wedding (E011).
+| Ep | Title | Target | Coverage | New | Due woven |
+|---|---|---|---|---|---|
+| S01E007 | 호칭 정리 | G.EOJIDA x5 (**new point: lesson card gates it**) | 95.0% / 677 hangul | 나이, 어리다, 처형, 친하다, 놀라다 | 부르다, 모두, 곧 |
+| S01E008 | 공항 가는 길 (added beat) | G.FUT x5 | 95.1% / 665 | 공항, 짐, 형부, 도착하다, 계획, 놓다 | 데려오다, 묻다 |
+| S01E009 | 대장부 사건 | G.ANIDA x4 | 95.0% / 696 | 대장부, 친척, 한자, 의미, 실수 | 단톡방 |
+| S01E010 | 탑골프 | G.EUN_HUE x4 | 95.1% / 668 | 삼촌, 골프, 이기다, 클라이밍, 공군, 대장부 | 전역하다, 텃밭, 묻다 |
+| S01E011 | 결혼식 날 | G.ADV_GE x5 | 95.0% / 743 | 울다, 신부, 예쁘다, 뵙다, 축하드리다, 대장부 | 챙기다, 드리다, 하루 |
+| primer pod-dt-29-p1 | 좋은 친구는? | -- | 95.0% / 690 | 댓글, 인기, 저희, 친하다, 본심, 자랑 | 단톡방 |
+- Batch covers 7 of the top-15 due words; not used: 댁, 식탁, 놓치다, 자라다, 지르다, 떨리다, 가지다, 대하다.
+- Due list moved mid-session (Austin read E006: 97 -> 83 due); drafts re-targeted to the new top.
+- Review: all six "ship after fixes" (3-4/5). Applied most fixes (준수 says 서현 누나; Dad's labels/narration
+  now 아빠 like E006; -시- in 할머니가 전화를 하셨어; Dad says 서윤이 엄마 to Ethan; E009 ending order;
+  E010 "대장부 때문에 못 물어봤어요"; E011 대장부 warning; primer: Ethan recognizes 本心). Skipped
+  (each adds unknown words or uses avoided grammar): 순두부집, 처제, 말씀하세요, 알아듣다, 실수해도,
+  quoted '이선아' (analyzer artifact), 올라가서 못 내려왔어요, 보기 좋다 (-기 is in grammar_avoid).
+- Deviations to note: Dad's 반말 switch happens in E008 (register map says Ep 7); E008 is an added beat;
+  마이클 limited to one Korean line in E007 per the bible.
+- Coverage is pinned at the 95% floor everywhere: at 5-8 new words the band only fits with ~260-290
+  content tokens (650-750 hangul). Analyzer artifacts to avoid: 일본어/영어 (NNP unknown), 내일/어제 as MAG,
+  진짜 before a noun or 같다 (NNG), standalone '씨', "이모: 고추…" (splits 이/모), 공 + 또/! (NR).
+- Manual glosses set: 클라이밍, 축하드리다, 대장부, 처형, 형부, 뵙다.
+
+**Next:** Austin does the -아/어지다 lesson (Up next gate before E007). Season 1 is done; Season 2
+(Florida trip) needs a story-bible design session before the next main-series batch.
+
 ## 2026-10-08 -- /generate-batch, one episode (Austin asked for 1)
 **Done:** S01E006 "할머니와 영상통화" (A Video Call with Grandma), published to the live DB
 (backup first: `server/data/korean_reader.backup-20261008-013326-preS01E006.db`).

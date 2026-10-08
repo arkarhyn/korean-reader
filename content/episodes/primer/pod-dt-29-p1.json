@@ -1,0 +1,188 @@
+{
+  "id": "primer-pod-dt-29-p1",
+  "series": "primer",
+  "source": "primer:pod-dt-29-p1",
+  "title_ko": "좋은 친구는?",
+  "title_en": "What Makes a Good Friend?",
+  "register_tags": [
+    "banmal"
+  ],
+  "target_grammar": null,
+  "status": "draft",
+  "summary": "Sunday night at Seoyun's place, she reads Ethan comments from a YouTube video asking what a good friend is: the most popular says a good friend calls first when things are hard; one jokes that their mom is closer to their friends than they are; one says a good friend is someone you can tell your true feelings (본심) to. Ethan recognizes 本心 but says Japanese usually says 本音. His 본심: Seoyun can't cook -- and she's his closest friend. She says he only brags about his peppers; he says it's not bragging, it's fact. She wants to send the comment to the family group chat; he says don't -- her dad only talks about peppers too.",
+  "paragraphs": [
+    {
+      "ko": "일요일 밤, 서윤이와 이선은 서윤이 집에서 텔레비전으로 유튜브를 보고 있었다.",
+      "en": "Sunday night, Seoyun and Ethan were watching YouTube on the TV at Seoyun's place."
+    },
+    {
+      "ko": "서윤: 이선아, 이거 봐. '좋은 친구는 어떤 친구예요?' 사람들이 댓글을 정말 많이 썼어.",
+      "en": "Seoyun: Ethan, look at this. 'What kind of friend is a good friend?' People wrote so many comments."
+    },
+    {
+      "ko": "이선: 무슨 이야기? 같이 보자.",
+      "en": "Ethan: What are they saying? Let's look together."
+    },
+    {
+      "ko": "서윤: 이게 인기가 제일 많아. 내가 읽어 볼게.",
+      "en": "Seoyun: This one is the most popular. I'll read it."
+    },
+    {
+      "ko": "서윤: '좋은 친구는 힘든 일이 있을 때 먼저 전화를 하는 친구예요.'",
+      "en": "Seoyun: 'A good friend is the one who calls first when things are hard.'"
+    },
+    {
+      "ko": "이선: 맞아. 그래서 인기가 많구나.",
+      "en": "Ethan: True. That's why it's popular."
+    },
+    {
+      "ko": "서윤: 이건 좀 재밌어. '저희 엄마는 저보다 제 친구들이랑 더 친해요. 그럼 엄마 친구예요, 제 친구예요?'",
+      "en": "Seoyun: This one's kind of funny. 'My mom is closer to my friends than I am. So are they Mom's friends or mine?'"
+    },
+    {
+      "ko": "이선: 엄마 친구지! 우리 엄마도 그래. 친구들이 다 우리 엄마를 좋아해.",
+      "en": "Ethan: Mom's friends! My mom's the same. All my friends like my mom."
+    },
+    {
+      "ko": "서윤: 우리 엄마도 내 친구들을 다 알아. 친구들 생일도 알아.",
+      "en": "Seoyun: My mom knows all my friends too. She even knows their birthdays."
+    },
+    {
+      "ko": "이선: 그건 어머님이라서 그래. 어머님은 사람을 좋아하시잖아.",
+      "en": "Ethan: That's just your mom. She loves people."
+    },
+    {
+      "ko": "서윤: 여기 '저희 엄마도요!' 하는 사람도 많아.",
+      "en": "Seoyun: Lots of people here saying 'My mom too!'"
+    },
+    {
+      "ko": "이선: 이 사람은 이렇게 썼어. '좋은 친구는 일 년에 한 번 만나도, 만나면 편한 친구예요.'",
+      "en": "Ethan: This person wrote: 'A good friend is someone who feels easy to be with, even if you only meet once a year.'"
+    },
+    {
+      "ko": "서윤: 그거 좋다. 나도 그런 친구가 있어. 한국에 있는 친구.",
+      "en": "Seoyun: That's a nice one. I have a friend like that. A friend in Korea."
+    },
+    {
+      "ko": "이선: 나도. 일본에 있는 친구.",
+      "en": "Ethan: Me too. A friend in Japan."
+    },
+    {
+      "ko": "서윤: 너 일본에도 그런 친구가 있구나.",
+      "en": "Seoyun: So you have a friend like that in Japan too."
+    },
+    {
+      "ko": "이선: 응. 친구는 많지 않아. 좋은 친구가 몇 명 있어. 그리고 너.",
+      "en": "Ethan: Yeah. I don't have a lot of friends. I have a few good ones. And you."
+    },
+    {
+      "ko": "서윤: 그리고 이것도. '친구한테도 본심을 말하는 건 어려워요. 그래도 그걸 말할 수 있는 사람이 좋은 친구예요.'",
+      "en": "Seoyun: And this one too. 'It's hard to tell even a friend your true feelings. But someone you can tell them to is a good friend.'"
+    },
+    {
+      "ko": "이선: 그 말, '本心'이랑 같은 말이야?",
+      "en": "Ethan: That word -- is it the same as 'honshin'?"
+    },
+    {
+      "ko": "서윤: 응. 속에 있는 마음. 다른 사람한테 잘 안 하는 이야기.",
+      "en": "Seoyun: Yeah. The feelings inside you. The things you don't usually tell other people."
+    },
+    {
+      "ko": "이선: 근데 일본 사람들은 보통 '本音'이라고 해.",
+      "en": "Ethan: But Japanese people usually say 'honne'."
+    },
+    {
+      "ko": "서윤: 그럼 너는 나한테 다 말해?",
+      "en": "Seoyun: So do you tell me everything?"
+    },
+    {
+      "ko": "이선: 응. 내 본심은… 너 요리는 정말 못 해.",
+      "en": "Ethan: Yeah. My true feeling is... you really can't cook."
+    },
+    {
+      "ko": "서윤: 뭐? 지난주에 내가 만든 라면은?",
+      "en": "Seoyun: What? What about the ramen I made last week?"
+    },
+    {
+      "ko": "이선: 라면은 요리가 아니야.",
+      "en": "Ethan: Ramen isn't cooking."
+    },
+    {
+      "ko": "서윤: 라면도 요리야! 내가 만든 거잖아.",
+      "en": "Seoyun: Ramen is cooking too! I made it."
+    },
+    {
+      "ko": "이선: 그래, 그래. 정말 맛있었어. 다음에 또 만들어 줘.",
+      "en": "Ethan: Okay, okay. It was really tasty. Make it again sometime."
+    },
+    {
+      "ko": "이선: 그리고 너는 나한테 가장 친한 친구야.",
+      "en": "Ethan: And you're my closest friend."
+    },
+    {
+      "ko": "서윤: 음… 그건 좋은 말이네. 근데 이 댓글도 봐. '자랑만 하는 친구는 좋은 친구가 아니에요.'",
+      "en": "Seoyun: Hmm... that's a nice thing to say. But look at this comment too. 'A friend who only brags isn't a good friend.'"
+    },
+    {
+      "ko": "서윤: 너 매일 고추 자랑만 하잖아.",
+      "en": "Seoyun: You brag about your peppers every day."
+    },
+    {
+      "ko": "이선: 그건 자랑이 아니야. 사실이야.",
+      "en": "Ethan: That's not bragging. It's a fact."
+    },
+    {
+      "ko": "서윤: 이거 가족 단톡방에 보내야겠다.",
+      "en": "Seoyun: I should send this to the family group chat."
+    },
+    {
+      "ko": "이선: 하지 마. 아버님도 매일 고추 이야기만 하시잖아.",
+      "en": "Ethan: Don't. Your dad talks about nothing but peppers every day, too."
+    },
+    {
+      "ko": "서윤: 알았어. 그럼 이건 우리 둘만 아는 이야기야.",
+      "en": "Seoyun: Okay. Then this stays just between the two of us."
+    },
+    {
+      "ko": "이선: 고마워. 너 정말 좋은 친구다.",
+      "en": "Ethan: Thanks. You really are a good friend."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "서윤이는 이선이 매일 무슨 이야기를 한다고 했어요?",
+      "prompt_en": "What does Seoyun say Ethan talks about every day?",
+      "options": [
+        "고추",
+        "요리",
+        "유튜브"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"본심\"은 무슨 뜻이에요?",
+      "prompt_en": "What does 본심 mean?",
+      "options": [
+        "one's true feelings",
+        "an online comment",
+        "popularity"
+      ],
+      "answer_idx": 0,
+      "target_ref": "본심"
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"가족 단톡방\"은 뭐예요?",
+      "prompt_en": "What is a 가족 단톡방?",
+      "options": [
+        "a family group chat",
+        "a family photo",
+        "a family dinner"
+      ],
+      "answer_idx": 0,
+      "target_ref": "단톡방"
+    }
+  ]
+}

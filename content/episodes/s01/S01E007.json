@@ -1,0 +1,203 @@
+{
+  "id": "S01E007",
+  "series": "main",
+  "title_ko": "호칭 정리",
+  "title_en": "Sorting Out What to Call Everyone",
+  "register_tags": [
+    "banmal",
+    "haeyo"
+  ],
+  "target_grammar": "G.EOJIDA",
+  "status": "draft",
+  "summary": "Friday dinner at the family's usual restaurant with 서현, 마이클 and 준수. 마이클 shows off the only three Korean words he knows. Ethan admits he doesn't know what to call 서현: she's younger than him, so not 누나; Seoyun says 씨 is like さん but isn't used for people older than you, so he settles on 서현 씨 (she'll keep 이선 씨). 준수 jokes he should start practicing 처형. Seoyun says to call her parents 어머님 / 아버님, and that Mom's '아빠' is only for the kids -- Ethan must never copy it. 서현 says it will get easier; 준수: Dad already gave him a pepper, so they're close. 마이클 hasn't gotten one yet. Ethan says 어머님 still feels hard.",
+  "paragraphs": [
+    {
+      "ko": "금요일 저녁이었다. 날씨가 많이 추워졌다.",
+      "en": "It was Friday evening. The weather had gotten much colder."
+    },
+    {
+      "ko": "이선과 서윤이는 가족이 자주 가는 식당에서 서현이와 마이클을 만났다. 준수도 같이 왔다.",
+      "en": "Ethan and Seoyun met Seohyun and Michael at the restaurant the family often goes to. Junsu came too."
+    },
+    {
+      "ko": "서현: 이선 씨, 휴가 받았죠? 너무 좋아요!",
+      "en": "Seohyun: Ethan, you got your leave, right? That's so great!"
+    },
+    {
+      "ko": "마이클: 안녕하세요! 감사합니다! 김치!",
+      "en": "Michael: Hello! Thank you! Kimchi!"
+    },
+    {
+      "ko": "이선: 와, 한국어 공부해요?",
+      "en": "Ethan: Wow, are you studying Korean?"
+    },
+    {
+      "ko": "서현: 요즘 공부하고 있어요. 근데 아직 그 세 개만 알아요.",
+      "en": "Seohyun: He's studying these days. But he only knows those three so far."
+    },
+    {
+      "ko": "준수: 그건 나도 알아.",
+      "en": "Junsu: Even I know those."
+    },
+    {
+      "ko": "서현: 준수야, 너도 한국어 잘 못 하잖아.",
+      "en": "Seohyun: Junsu, you're not good at Korean either."
+    },
+    {
+      "ko": "준수: …맞아.",
+      "en": "Junsu: ...True."
+    },
+    {
+      "ko": "이선은 서현이를 보고 말을 하려고 했다. 그런데 말이 안 나왔다.",
+      "en": "Ethan looked at Seohyun and tried to say something. But the words wouldn't come out."
+    },
+    {
+      "ko": "이선: 서윤아, 근데 네 언니는 뭐라고 불러야 돼?",
+      "en": "Ethan: Seoyun, but what should I call your sister?"
+    },
+    {
+      "ko": "서윤: 언니는 너보다 나이가 어리잖아. 그러니까 누나는 아니지.",
+      "en": "Seoyun: She's younger than you, right? So not 'nuna'."
+    },
+    {
+      "ko": "준수: 맞아, 형. 누나는 형보다 나이가 많은 여자한테만 해.",
+      "en": "Junsu: Right, hyung. 'Nuna' is only for women older than you."
+    },
+    {
+      "ko": "이선: 그럼 '서현 씨'는? 일본에서는 다 'さん'이야. 그거랑 같아?",
+      "en": "Ethan: Then what about 'Seohyun-ssi'? In Japan everyone is '-san'. Is it the same as that?"
+    },
+    {
+      "ko": "서윤: 거의 같아. 근데 너보다 위에 있는 사람한테는 그렇게 안 해. 언니는 너보다 어리니까 괜찮아.",
+      "en": "Seoyun: Almost. But you don't say it that way to people above you. My sister is younger than you, so it's fine."
+    },
+    {
+      "ko": "서현: 네, '서현 씨' 좋아요. 저는 계속 '이선 씨'라고 할게요.",
+      "en": "Seohyun: Yes, 'Seohyun-ssi' is good. I'll keep calling you 'Ethan-ssi'."
+    },
+    {
+      "ko": "준수: 아니면 '처형'! 형이 서윤 누나랑 결혼하면 서현 누나는 형 '처형'이야. 지금부터 불러 봐!",
+      "en": "Junsu: Or 'cheohyeong'! If you marry Seoyun-nuna, Seohyun-nuna is your 'cheohyeong'. Start calling her that now!"
+    },
+    {
+      "ko": "서윤: 강준수!",
+      "en": "Seoyun: Kang Junsu!"
+    },
+    {
+      "ko": "서현: 준수야, 그건 아직이야!",
+      "en": "Seohyun: Junsu, not yet!"
+    },
+    {
+      "ko": "마이클은 하나도 모르고 웃었다.",
+      "en": "Michael laughed without understanding a thing."
+    },
+    {
+      "ko": "이선: 그리고 부모님은 뭐라고 해? 나 아직 한 번도 못 해 봤어.",
+      "en": "Ethan: And what do I say to your parents? I haven't been able to say anything to them yet."
+    },
+    {
+      "ko": "서윤: '어머님', '아버님'. 남자 친구는 보통 그렇게 해.",
+      "en": "Seoyun: 'Eomeonim' and 'abeonim'. That's what boyfriends usually say."
+    },
+    {
+      "ko": "이선: 근데 어머님은 아버님을 '아빠'라고 하시잖아.",
+      "en": "Ethan: But your mom calls your dad 'appa'."
+    },
+    {
+      "ko": "서윤: 그건 엄마가 우리한테 하는 말이야. 우리 아빠니까. 너는 그렇게 하면 안 돼!",
+      "en": "Seoyun: That's how Mom talks to us. Because he's our dad. You can't do that!"
+    },
+    {
+      "ko": "준수: 형이 아빠한테 '아빠!' 하면… 아빠 진짜 놀랄 거야.",
+      "en": "Junsu: If you called Dad 'appa!'... he'd be really shocked."
+    },
+    {
+      "ko": "서현: 아니면 좋아하실 수도 있어.",
+      "en": "Seohyun: Or he might like it."
+    },
+    {
+      "ko": "모두 크게 웃었다.",
+      "en": "Everyone laughed out loud."
+    },
+    {
+      "ko": "서현: 이선 씨, 처음에는 다 어려워요. 그런데 곧 편해질 거예요. 우리 가족은 다 좋은 사람들이에요.",
+      "en": "Seohyun: Ethan, it's all hard at first. But it'll get easier soon. Everyone in our family is a good person."
+    },
+    {
+      "ko": "이선: 서현 씨, 고마워요. 빨리 가족분들이랑 친해지고 싶어요.",
+      "en": "Ethan: Thank you, Seohyun. I want to get close to the family soon."
+    },
+    {
+      "ko": "준수: 형은 벌써 친해졌어. 아빠가 고추도 줬잖아.",
+      "en": "Junsu: You're already close. Dad even gave you a pepper."
+    },
+    {
+      "ko": "서현: 마이클은 아직 고추 못 받았어.",
+      "en": "Seohyun: Michael hasn't gotten a pepper yet."
+    },
+    {
+      "ko": "서현: 마이클, 너는 아빠랑 먼저 이야기를 많이 해 봐.",
+      "en": "Seohyun: Michael, you should talk with Dad a lot first."
+    },
+    {
+      "ko": "집에 가는 길에 서윤이가 말했다.",
+      "en": "On the way home, Seoyun said:"
+    },
+    {
+      "ko": "서윤: 너 한국어 진짜 많이 좋아졌어.",
+      "en": "Seoyun: Your Korean has gotten so much better."
+    },
+    {
+      "ko": "이선: 진짜? 이제 '서현 씨'는 할 수 있어. 근데 '어머님'은… 아직 좀 어려워.",
+      "en": "Ethan: Really? I can do 'Seohyun-ssi' now. But 'eomeonim'... is still kind of hard."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "이선은 왜 서현이를 '누나'라고 안 해요?",
+      "prompt_en": "Why doesn't Ethan call Seohyun 'nuna'?",
+      "options": [
+        "서현이가 이선보다 나이가 어려요",
+        "서현이가 싫어해요",
+        "마이클이 싫어해요"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "이선이 하면 안 되는 말은 뭐예요?",
+      "prompt_en": "What must Ethan not say?",
+      "options": [
+        "아빠",
+        "아버님",
+        "서현 씨"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"뭐라고 불러?\"에서 \"부르다\"는 무슨 뜻이에요?",
+      "prompt_en": "In 뭐라고 불러?, what does 부르다 mean?",
+      "options": [
+        "to call (someone something)",
+        "to eat",
+        "to marry"
+      ],
+      "answer_idx": 0,
+      "target_ref": "부르다"
+    },
+    {
+      "kind": "grammar_check",
+      "prompt_ko": "\"너 한국어 진짜 많이 ___.\" (= has gotten better) 뭐가 맞아요?",
+      "prompt_en": "\"Your Korean has ___ so much.\"",
+      "options": [
+        "좋아졌어",
+        "좋아했어",
+        "좋았어"
+      ],
+      "answer_idx": 0,
+      "target_ref": "G.EOJIDA"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "id": "S01E011",
+  "series": "main",
+  "title_ko": "결혼식 날",
+  "title_en": "The Wedding Day",
+  "register_tags": [
+    "banmal",
+    "haeyo",
+    "hasipsio"
+  ],
+  "target_grammar": "G.ADV_GE",
+  "status": "draft",
+  "summary": "Saturday evening: the ceremony has almost no Korean; Ethan is nervous about the parents' friends (Seoyun: just don't say 대장부). At the reception Mom has him greet her friends (처음 뵙겠습니다); one says to date Seoyun nicely, another asks if he's 'that 대장부'. Mom tells him to look after Seoyun. Ethan congratulates bride 서현 (축하드려요) and tells her and 마이클 to live happily; 마이클: 'we're family now'. Ethan and Seoyun hand in their joint 축의금 envelope; 준수 swears he wrote his name. Mom has been crying since the ceremony; she and Dad tease each other with 당신 (Dad 'got something in his eye'). Ethan asks '어머님, 괜찮으세요?' -- his first 어머님 -- and this time Mom laughs. Dad: '이선아, 오늘 고마웠다. 이제 너도 우리 가족이야.' Ethan: '네, 아버님.' Grandma calls after the photos; Seoyun had never heard Dad say 이선아; next stop: Seoul, where Grandma is waiting.",
+  "paragraphs": [
+    {
+      "ko": "토요일 저녁, 결혼식이 있었다. 결혼식에서 한국어는 거의 없었다.",
+      "en": "Saturday evening was the wedding. There was almost no Korean at the ceremony."
+    },
+    {
+      "ko": "신부 서현이는 정말 아름다웠다. 마이클은 계속 웃고 있었다.",
+      "en": "Seohyun, the bride, was truly beautiful. Michael couldn't stop smiling."
+    },
+    {
+      "ko": "결혼식이 끝나고 파티가 있었다. 부모님 친구들이 많이 왔다. 음식도 정말 많았다. 이선은 조금 긴장했다.",
+      "en": "After the ceremony there was a party. Lots of the parents' friends came. There was so much food, too. Ethan was a little nervous."
+    },
+    {
+      "ko": "서윤: 긴장하지 마. 그냥 '안녕하세요'만 해. '대장부'는 하지 마!",
+      "en": "Seoyun: Don't be nervous. Just say 'hello'. And don't say 'daejangbu'!"
+    },
+    {
+      "ko": "이선: 알았어. 그 말은 안 할게.",
+      "en": "Ethan: Got it. I won't say that word."
+    },
+    {
+      "ko": "엄마: 이선 씨, 와 봐. 친구들이야.",
+      "en": "Mom: Ethan, come here. These are my friends."
+    },
+    {
+      "ko": "이선: 안녕하십니까. 처음 뵙겠습니다. 이선입니다.",
+      "en": "Ethan: Good evening. It's a pleasure to meet you. I'm Ethan."
+    },
+    {
+      "ko": "엄마 친구: 와, 한국어 정말 잘하네요!",
+      "en": "Mom's friend: Wow, your Korean is really good!"
+    },
+    {
+      "ko": "이선: 아닙니다. 아직 많이 배우고 있습니다.",
+      "en": "Ethan: Not at all. I'm still learning a lot."
+    },
+    {
+      "ko": "엄마 친구: 서윤이 엄마가 이선 씨 이야기를 매일 해요.",
+      "en": "Mom's friend: Seoyun's mom talks about you every day."
+    },
+    {
+      "ko": "엄마 친구: 서윤이랑 예쁘게 잘 만나요.",
+      "en": "Mom's friend: You two take good care of each other."
+    },
+    {
+      "ko": "다른 친구: 아, 이 사람이 그 대장부?",
+      "en": "Another friend: Oh, so this is that daejangbu?"
+    },
+    {
+      "ko": "이선: 네… 저예요.",
+      "en": "Ethan: Yes... that's me."
+    },
+    {
+      "ko": "엄마: 이선 씨, 오늘 서윤이 잘 챙겨.",
+      "en": "Mom: Ethan, look after Seoyun tonight."
+    },
+    {
+      "ko": "이선: 네, 걱정하지 마세요.",
+      "en": "Ethan: Yes, don't worry."
+    },
+    {
+      "ko": "그때 신부 서현이가 왔다.",
+      "en": "Just then Seohyun, the bride, came over."
+    },
+    {
+      "ko": "이선: 서현 씨, 축하드려요. 오늘 정말 예뻐요.",
+      "en": "Ethan: Seohyun, congratulations. You look really beautiful today."
+    },
+    {
+      "ko": "서현: 이선 씨, 고마워요. 오늘 재밌게 놀아요!",
+      "en": "Seohyun: Thank you, Ethan. Have fun tonight!"
+    },
+    {
+      "ko": "이선: 마이클이랑 행복하게 사세요.",
+      "en": "Ethan: Live happily with Michael."
+    },
+    {
+      "ko": "마이클: 이선, 우리 이제 가족이에요!",
+      "en": "Michael: Ethan, we're family now!"
+    },
+    {
+      "ko": "서현: 마이클, 한국어 잘했어!",
+      "en": "Seohyun: Michael, nice Korean!"
+    },
+    {
+      "ko": "이선과 서윤이는 축의금 봉투를 같이 냈다. 봉투에는 두 사람 이름이 있었다.",
+      "en": "Ethan and Seoyun handed in their gift envelope together. Both their names were on it."
+    },
+    {
+      "ko": "서윤: 준수야, 이번에는 이름 썼어?",
+      "en": "Seoyun: Junsu, did you write your name this time?"
+    },
+    {
+      "ko": "준수: 썼어! 이번에는 진짜 썼어!",
+      "en": "Junsu: I did! This time I really did!"
+    },
+    {
+      "ko": "엄마: 진짜? 엄마가 볼게.",
+      "en": "Mom: Really? I'll check."
+    },
+    {
+      "ko": "준수: 형, 결혼식 끝났어. 이제 한 번 더 치러 가자!",
+      "en": "Junsu: Hyung, the wedding's over. Now let's go hit balls one more time!"
+    },
+    {
+      "ko": "엄마는 결혼식 때부터 계속 울고 있었다.",
+      "en": "Mom had been crying on and off since the ceremony."
+    },
+    {
+      "ko": "아빠: 당신, 또 울어?",
+      "en": "Dad: Honey, crying again?"
+    },
+    {
+      "ko": "엄마: 당신도 결혼식에서 울었잖아.",
+      "en": "Mom: You cried at the ceremony too."
+    },
+    {
+      "ko": "아빠: 나는… 눈에 뭐가 들어갔어.",
+      "en": "Dad: I... got something in my eye."
+    },
+    {
+      "ko": "이선이 엄마 옆에 앉았다.",
+      "en": "Ethan sat down next to Mom."
+    },
+    {
+      "ko": "이선: 어머님, 괜찮으세요? 물 드릴까요?",
+      "en": "Ethan: Eomeonim, are you all right? Can I get you some water?"
+    },
+    {
+      "ko": "엄마: 지금… '어머님'이라고 했어?",
+      "en": "Mom: Did you just... call me 'eomeonim'?"
+    },
+    {
+      "ko": "이선: 네, 어머님.",
+      "en": "Ethan: Yes, eomeonim."
+    },
+    {
+      "ko": "엄마는 이번에는 크게 웃었다.",
+      "en": "This time Mom laughed out loud."
+    },
+    {
+      "ko": "아빠: 이선아, 오늘 고마웠다. 이제 너도 우리 가족이야.",
+      "en": "Dad: Ethan, thank you for today. You're part of our family now too."
+    },
+    {
+      "ko": "이선은 마음이 따뜻했다.",
+      "en": "Ethan felt warm inside."
+    },
+    {
+      "ko": "이선: 네, 아버님.",
+      "en": "Ethan: Yes, abeonim."
+    },
+    {
+      "ko": "그날 밤, 이선은 할머니에게 결혼식 사진을 많이 보냈다. 할머니는 바로 전화를 했다.",
+      "en": "That night, Ethan sent Grandma lots of wedding photos. Grandma called right away."
+    },
+    {
+      "ko": "할머니: 이선 씨, 사진 고마워요. 결혼식 사진 정말 좋아요. 우리 서현이 정말 행복하네. 다음에는 서울에서 꼭 만나요.",
+      "en": "Grandma: Ethan, thank you for the photos. The wedding photos are wonderful. Our Seohyun looks so happy. Next time let's meet in Seoul for sure."
+    },
+    {
+      "ko": "이선: 네, 할머니. 다음에는 꼭 서울에 가겠습니다.",
+      "en": "Ethan: Yes, Grandma. Next time I'll be sure to come to Seoul."
+    },
+    {
+      "ko": "서윤: 오늘 정말 긴 하루였다. 아빠 말 들었어? 아빠가 너한테 그렇게 하는 거, 나 처음 들었어.",
+      "en": "Seoyun: What a long day. Did you hear what Dad said? That's the first time I've heard him talk to you like that."
+    },
+    {
+      "ko": "이선: 나도 오늘 '어머님' 처음 했어.",
+      "en": "Ethan: And today was my first 'eomeonim', too."
+    },
+    {
+      "ko": "서윤: 다음은 서울이야. 할머니가 기다리고 계셔.",
+      "en": "Seoyun: Next is Seoul. Grandma's waiting."
+    },
+    {
+      "ko": "이선: 응. 같이 가자.",
+      "en": "Ethan: Yeah. Let's go together."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "이선은 서윤이 엄마를 처음으로 뭐라고 불렀어요?",
+      "prompt_en": "What did Ethan call Seoyun's mom for the first time?",
+      "options": [
+        "어머님",
+        "엄마",
+        "이모"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "아버지는 이선에게 뭐라고 했어요?",
+      "prompt_en": "What did Dad say to Ethan?",
+      "options": [
+        "이제 너도 우리 가족이야",
+        "골프 또 치자",
+        "더 먹어"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"오늘 서윤이 잘 챙겨\"에서 \"챙기다\"는 무슨 뜻이에요?",
+      "prompt_en": "In 오늘 서윤이 잘 챙겨, what does 챙기다 mean?",
+      "options": [
+        "to look after",
+        "to call",
+        "to forget"
+      ],
+      "answer_idx": 0,
+      "target_ref": "챙기다"
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"정말 긴 하루였다\"에서 \"하루\"는 뭐예요?",
+      "prompt_en": "In 정말 긴 하루였다, what is 하루?",
+      "options": [
+        "a day",
+        "a week",
+        "a night out"
+      ],
+      "answer_idx": 0,
+      "target_ref": "하루"
+    },
+    {
+      "kind": "grammar_check",
+      "prompt_ko": "\"마이클이랑 ___ 사세요.\" (= live happily) 뭐가 맞아요?",
+      "prompt_en": "\"Live ___ with Michael.\"",
+      "options": [
+        "행복하게",
+        "행복한",
+        "행복해서"
+      ],
+      "answer_idx": 0,
+      "target_ref": "G.ADV_GE"
+    }
+  ]
+}
