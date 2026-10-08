@@ -1,5 +1,26 @@
 # STATUS
 
+## 2026-10-08 -- /generate-batch, one episode (Austin asked for 1)
+**Done:** S01E006 "할머니와 영상통화" (A Video Call with Grandma), published to the live DB
+(backup first: `server/data/korean_reader.backup-20261008-013326-preS01E006.db`).
+- Coverage 95.9% of 266 tokens, 696 hangul; target G.GO_ITDA x4 (웃고 있는, 먹고 있어요,
+  키우고 있어요, 기다리고 있을게요).
+- New words (4): 진지, 주무시다, 드시다 (manual gloss), 부탁하다. Due woven in (4): 결국,
+  긴장하다, 키우다, 마음 (meaning checks on 긴장하다, 마음). Top-15 due covered 2/15; unused:
+  생기다, 가슴, 고개, 전쟁, 축의금, 넣다, 당신, 전, 긴장, 그릇, 댁, 데려오다, 단톡방.
+- Resolves the E005 leave thread (approved Wednesday). No new grammar point introduced:
+  G.WIHAE (first in `next_new_targets`) is the arc's Ep 10 focus; Stage 8's first new target
+  is still pending.
+- Review: 4/5, ship after fixes; applied most. Skipped 처음 인사드립니다 / 뵙겠습니다 and
+  영상통화 in the text (each adds an unknown word; coverage was tight).
+- Honorific -시- / 높임 words show as untested-grammar warnings (expected for this beat).
+- Note: the worktree has no `server/data`; run export/check/ingest with `DATABASE_PATH`,
+  `KRDICT_LOCAL_PATH`, `KRDICT_CACHE_PATH` pointed at the main checkout's `server/data`
+  (ingest without `--live` also needs a placeholder `KRDICT_API_KEY`).
+
+**Not done:** the pending primer request (pod-dt-29-p1, "친구란?") -- skipped because only
+one story was asked for. Next batch: Ep 7 호칭 정리 (first new target: G.EOJIDA fits 친해지다).
+
 ## 2026-10-05 -- Stage 8 grammar track (Claude Code, built straight through; DECISIONS 92-97)
 **Done (branch `stage-8`, worktree `.claude/worktrees/stage-8`, on top of `stage-6`):**
 - SYLLABUS_MAP: Kiwi patterns for all 54 L1-28 points + 36 new points (HTSK L29-50, L34

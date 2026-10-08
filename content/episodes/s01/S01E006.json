@@ -1,0 +1,212 @@
+{
+  "id": "S01E006",
+  "series": "main",
+  "title_ko": "할머니와 영상통화",
+  "title_en": "A Video Call with Grandma",
+  "register_tags": [
+    "haeyo",
+    "hasipsio",
+    "banmal"
+  ],
+  "target_grammar": "G.GO_ITDA",
+  "status": "draft",
+  "summary": "Wednesday Ethan's superior approves his leave (someone from another team will cover his job). That evening at the parents' house the family video-calls 할머니 in Seoul (Thursday morning there). Seoyun says '잘 잤어요' and Mom corrects her to '주무셨어요'; Mom says she heard about the leave. Ethan introduces himself and asks '진지 드셨어요?', which delights her. Dad says Ethan grows peppers; Grandma is amazed Dad gave him one. She can't make the 14-hour flight, so she asks Ethan to look after the family and send lots of photos; he promises to visit Seoul. Afterwards Seoyun admits he's better than her; Ethan (learned 진지 on YouTube) says from now on they'll study together.",
+  "paragraphs": [
+    {
+      "ko": "수요일 오후, 상사가 이선에게 말했다.",
+      "en": "Wednesday afternoon, Ethan's superior spoke to him."
+    },
+    {
+      "ko": "상사: 이선 씨, 휴가 문제 말이에요. 그 주말에는 다른 팀 사람이 이선 씨 일을 할 거예요. 결혼식에 가도 돼요.",
+      "en": "Superior: Ethan, about your leave. That weekend someone from another team will do your job. You can go to the wedding."
+    },
+    {
+      "ko": "이선: 정말요? 감사합니다!",
+      "en": "Ethan: Really? Thank you!"
+    },
+    {
+      "ko": "이선은 바로 서윤이에게 전화를 했다.",
+      "en": "Ethan called Seoyun right away."
+    },
+    {
+      "ko": "이선: 서윤아, 나 결국 휴가 받았어!",
+      "en": "Ethan: Seoyun, I got my leave after all!"
+    },
+    {
+      "ko": "서윤: 진짜? 너무 좋다! 나 지금 엄마 집에 있는데, 너도 빨리 와. 여덟 시에 할머니한테서 전화가 올 거야. 컴퓨터로 얼굴 보면서 할 거야.",
+      "en": "Seoyun: Really? That's great! I'm at Mom's house right now, so come over quick. Grandma's calling at eight. We'll talk on the computer, face to face."
+    },
+    {
+      "ko": "그날 저녁 여덟 시, 가족이 컴퓨터 앞에 앉았다. 서울은 목요일 아침이었다.",
+      "en": "That evening at eight, the family sat in front of the computer. In Seoul it was Thursday morning."
+    },
+    {
+      "ko": "엄마: 이선 씨, 휴가 이야기 들었어. 진짜 좋다! 그리고 긴장하지 마. 할머니 좋으셔.",
+      "en": "Mom: Ethan, I heard about your leave. That's so good! And don't be nervous. Grandma is nice."
+    },
+    {
+      "ko": "할머니: 우리 서윤이! 잘 있었어?",
+      "en": "Grandma: My Seoyun! Have you been well?"
+    },
+    {
+      "ko": "서윤: 네, 할머니! 할머니도… 잘 잤어요?",
+      "en": "Seoyun: Yes, Grandma! Did you... sleep well?"
+    },
+    {
+      "ko": "엄마: 서윤아, '잘 잤어요' 아니야. '주무셨어요'야.",
+      "en": "Mom: Seoyun, not 'jal jasseoyo'. It's 'jumusyeosseoyo' (the honorific 'did you sleep')."
+    },
+    {
+      "ko": "서윤: 아, 맞다. 할머니, 잘 주무셨어요?",
+      "en": "Seoyun: Oh, right. Grandma, did you sleep well?"
+    },
+    {
+      "ko": "할머니: 그래, 잘 잤어. 근데 옆에서 웃고 있는 사람은 누구야?",
+      "en": "Grandma: Yes, I slept well. But who's that smiling next to you?"
+    },
+    {
+      "ko": "이선: 할머니, 안녕하세요. 저는 이선입니다.",
+      "en": "Ethan: Hello, Grandma. I'm Ethan."
+    },
+    {
+      "ko": "할머니: 응? 뭐라고?",
+      "en": "Grandma: Hm? What was that?"
+    },
+    {
+      "ko": "서윤: 할머니, 이선이요! 제… 남자 친구예요.",
+      "en": "Seoyun: Grandma, it's Ethan! My... boyfriend."
+    },
+    {
+      "ko": "할머니: 아, 그래요. 이선 씨, 이야기 많이 들었어요.",
+      "en": "Grandma: Ah, I see. Ethan, I've heard a lot about you."
+    },
+    {
+      "ko": "이선: 할머니, 진지 드셨어요?",
+      "en": "Ethan: Grandma, have you had your meal?"
+    },
+    {
+      "ko": "할머니: 와, '진지'도 알아요? 지금 아침 먹고 있어요. 우리 서윤이보다 더 잘하네.",
+      "en": "Grandma: Wow, you even know 'jinji'? I'm eating breakfast right now. You speak better than our Seoyun."
+    },
+    {
+      "ko": "서윤: 할머니!",
+      "en": "Seoyun: Grandma!"
+    },
+    {
+      "ko": "아빠: 어머니, 이선 씨도 집에서 고추를 키우고 있어요.",
+      "en": "Dad: Mother, Ethan grows peppers at home too."
+    },
+    {
+      "ko": "할머니: 그래? 그럼 우리 정호 마음에 들었겠네.",
+      "en": "Grandma: Really? Then our Jeongho must have liked him."
+    },
+    {
+      "ko": "엄마: 어머님, 이 사람이 이선 씨한테 제일 큰 고추까지 줬어요.",
+      "en": "Mom: Mother, this man even gave Ethan his biggest pepper."
+    },
+    {
+      "ko": "할머니: 뭐? 정호가 고추를 줬어? 나한테는 한 번도 안 줬어!",
+      "en": "Grandma: What? Jeongho gave you a pepper? He's never once given me one!"
+    },
+    {
+      "ko": "아빠는 말없이 웃었다.",
+      "en": "Dad just smiled without a word."
+    },
+    {
+      "ko": "할머니: 이선 씨, 나는 결혼식에 못 가요. 비행기로 열네 시간이에요. 이제 나한테는 너무 힘들어요.",
+      "en": "Grandma: Ethan, I can't go to the wedding. It's fourteen hours by plane. It's too hard for me now."
+    },
+    {
+      "ko": "할머니: 그러니까 이선 씨가 우리 가족 좀 잘 부탁해요. 그리고 사진 많이 보내 줘요.",
+      "en": "Grandma: So, Ethan, please look after our family for me. And send me lots of pictures."
+    },
+    {
+      "ko": "이선: 네, 할머니. 걱정하지 마세요. 사진 많이 찍고 바로 보내 드리겠습니다.",
+      "en": "Ethan: Yes, Grandma. Don't worry. I'll take lots of pictures and send them to you right away."
+    },
+    {
+      "ko": "할머니: 고마워요. 여기서 기다리고 있을게요.",
+      "en": "Grandma: Thank you. I'll be here waiting."
+    },
+    {
+      "ko": "이선: 할머니, 다음에는 제가 서울에 꼭 가겠습니다.",
+      "en": "Ethan: Grandma, next time I'll be sure to come to Seoul."
+    },
+    {
+      "ko": "할머니: 그래요. 꼭 와요. 내가 맛있는 거 해 줄게요.",
+      "en": "Grandma: All right. Be sure to come. I'll make you something delicious."
+    },
+    {
+      "ko": "전화가 끝나고 서윤이가 작은 목소리로 말했다.",
+      "en": "After the call, Seoyun said in a small voice:"
+    },
+    {
+      "ko": "서윤: 너 진짜 나보다 잘한다. '진지'는 언제 배웠어?",
+      "en": "Seoyun: You really are better than me. When did you learn 'jinji'?"
+    },
+    {
+      "ko": "이선: 유튜브에서. 이제 우리 같이 공부하자.",
+      "en": "Ethan: On YouTube. From now on, let's study together."
+    }
+  ],
+  "questions": [
+    {
+      "kind": "comprehension",
+      "prompt_ko": "할머니는 왜 결혼식에 못 가요?",
+      "prompt_en": "Why can't Grandma go to the wedding?",
+      "options": [
+        "비행기로 열네 시간이라서 힘들어요",
+        "서울에서 일이 많아요",
+        "고추를 키우고 있어요"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "comprehension",
+      "prompt_ko": "할머니는 이선에게 뭘 부탁했어요?",
+      "prompt_en": "What did Grandma ask Ethan to do?",
+      "options": [
+        "가족을 부탁하고, 사진을 보내 달라고",
+        "고추를 서울에 보내 달라고",
+        "한국어를 매일 공부하라고"
+      ],
+      "answer_idx": 0
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"긴장하지 마\"는 무슨 뜻이에요?",
+      "prompt_en": "What does 긴장하지 마 mean?",
+      "options": [
+        "don't be nervous",
+        "don't be late",
+        "don't eat too much"
+      ],
+      "answer_idx": 0,
+      "target_ref": "긴장하다"
+    },
+    {
+      "kind": "meaning_check",
+      "prompt_ko": "\"정호 마음에 들었겠네\"에서 \"마음\"은 무슨 뜻이에요?",
+      "prompt_en": "In 정호 마음에 들었겠네, what does 마음 mean?",
+      "options": [
+        "heart / mind",
+        "garden",
+        "phone call"
+      ],
+      "answer_idx": 0,
+      "target_ref": "마음"
+    },
+    {
+      "kind": "grammar_check",
+      "prompt_ko": "\"할머니는 지금 아침을 먹___.\" (= is eating right now) 뭐가 맞아요?",
+      "prompt_en": "\"Grandma ___ breakfast right now.\"",
+      "options": [
+        "고 있어요",
+        "고 싶어요",
+        "지 못해요"
+      ],
+      "answer_idx": 0,
+      "target_ref": "G.GO_ITDA"
+    }
+  ]
+}
