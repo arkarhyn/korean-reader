@@ -4,15 +4,29 @@ import WordPopover from "../components/WordPopover";
 import WordSpans from "../components/WordSpans";
 import YouTubePlayer, { type PlayerHandle } from "../components/YouTubePlayer";
 import { db } from "../db";
-import { activeLineAt, formatMs, loadPart, loadPodcasts, type LineRef, splitByLines } from "../podcasts";
+import {
+  activeLineAt,
+  formatMs,
+  lineCheck,
+  lineIndex,
+  lineToArm,
+  loadPart,
+  loadPodcasts,
+  type LineRef,
+  splitByLines,
+  type TimedLine,
+  timedLines,
+} from "../podcasts";
+import { readerKey } from "../readAloud";
 import { segment } from "../segments";
 import { speakerColor } from "../speakers";
 import { syncer } from "../sync";
 import type { Episode, Paragraph } from "../types";
 import { type OnTap, useWordTaps } from "../useWordTaps";
-import { EnToggle, HighlightToggle, loadHighlight, saveHighlight } from "./Reader";
+import { barBtn, EnToggle, HighlightToggle, loadHighlight, saveHighlight } from "./Reader";
 
 const FOLLOW_KEY = "listen.follow";
+const LINE_MODE_KEY = "listen.lineByLine";
 
 export default function ListenPart() {
   const { id = "" } = useParams();
@@ -68,16 +82,115 @@ function PartView({ part }: { part: Episode }) {
     });
   }, [part.id]);
 
+  // Line by line (like the Reader's cursor, DECISIONS 98): each line plays once and the video
+  // pauses at its end; ◀ ↻ ▶ step / replay. `armed` is the line allowed to play.
+  const lines = useMemo(() => timedLines(part.paragraphs), [part.paragraphs]);
+  const [lineMode, setLineMode] = useState(() => {
+    try {
+      return localStorage.getItem(LINE_MODE_KEY) !== "0";
+    } catch {
+      return true;
+    }
+  });
+  const lineModeRef = useRef(lineMode);
+  lineModeRef.current = lineMode;
+  const armed = useRef<TimedLine | null>(null);
+  const seeking = useRef<{ line: TimedLine; at: number } | null>(null);
+  const currentRef = useRef<LineRef | null>(null);
+  const [playing, setPlaying] = useState(false);
+
   // Follow the video: highlight the line being spoken (and keep it in view when "follow" is on).
   useEffect(() => {
     const t = window.setInterval(() => {
-      const ms = player.current?.timeMs();
-      if (ms == null) return;
-      const at = activeLineAt(ms, part.paragraphs);
-      setCurrent((cur) => (cur?.para === at?.para && cur?.line === at?.line ? cur : at));
-    }, 250);
+      const p = player.current;
+      const ms = p?.timeMs();
+      if (!p || ms == null) return;
+      // Just after a seek the player can still report the old time: wait until it is in the new line.
+      const s = seeking.current;
+      if (s) {
+        if (ms < s.line.start_ms - 500 || ms >= s.line.stop_ms) {
+          if (Date.now() - s.at < 1500) return;
+        }
+        seeking.current = null;
+      }
+      const isPlaying = p.playing();
+      setPlaying(isPlaying);
+      let at: LineRef | null;
+      if (isPlaying && lineModeRef.current) {
+        let a = armed.current;
+        if (!a || lineCheck(ms, a) === "rearm") {
+          const i = lineToArm(lines, ms);
+          a = i >= 0 ? lines[i] : null;
+        }
+        armed.current = a;
+        if (a && lineCheck(ms, a) === "pause") {
+          p.pause();
+          armed.current = null;
+          setPlaying(false);
+        }
+        at = a ?? activeLineAt(ms, part.paragraphs);
+      } else if (isPlaying) {
+        armed.current = null;
+        at = activeLineAt(ms, part.paragraphs);
+      } else {
+        // Paused: keep the line just played (its tail can overlap the next line's start).
+        const cur = lines[lineIndex(lines, currentRef.current)];
+        at = cur && lineCheck(ms, cur) !== "rearm" ? cur : activeLineAt(ms, part.paragraphs);
+      }
+      const ref = at && { para: at.para, line: at.line };
+      setCurrent((c) => (c?.para === ref?.para && c?.line === ref?.line ? c : ref));
+      currentRef.current = ref;
+    }, 100);
     return () => window.clearInterval(t);
-  }, [part.paragraphs]);
+  }, [lines, part.paragraphs]);
+
+  function playLine(i: number) {
+    const l = lines[i];
+    if (!l || !player.current) return;
+    armed.current = l;
+    seeking.current = { line: l, at: Date.now() };
+    currentRef.current = { para: l.para, line: l.line };
+    setCurrent(currentRef.current);
+    player.current.seekMs(l.start_ms);
+    document.getElementById(`line-${l.para}-${l.line}`)?.scrollIntoView({ block: "center", behavior: "smooth" });
+  }
+
+  const cursor = lineIndex(lines, current);
+  const move = (delta: number) => playLine(cursor < 0 ? 0 : Math.min(lines.length - 1, Math.max(0, cursor + delta)));
+  const replay = () => playLine(Math.max(0, cursor));
+  function togglePlay() {
+    if (player.current?.playing()) player.current.pause();
+    else player.current?.play();
+  }
+
+  function toggleLineMode() {
+    const on = !lineMode;
+    setLineMode(on);
+    try {
+      localStorage.setItem(LINE_MODE_KEY, on ? "1" : "0");
+    } catch {
+      /* preference only */
+    }
+  }
+
+  // Laptop: Space / → next line, ← back, R replay, K play/pause (not while typing).
+  const keyRef = useRef<(e: KeyboardEvent) => void>(() => {});
+  keyRef.current = (e) => {
+    const t = e.target as HTMLElement | null;
+    if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.isContentEditable)) return;
+    const action = readerKey(e) ?? (!e.ctrlKey && !e.metaKey && !e.altKey && (e.key === "k" || e.key === "K") ? "toggle" : null);
+    if (!action) return;
+    e.preventDefault();
+    if (action === "next") move(1);
+    else if (action === "prev") move(-1);
+    else if (action === "replay") replay();
+    else togglePlay();
+  };
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => keyRef.current(e);
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, []);
 
   useEffect(() => {
     if (!follow || !current || !player.current?.playing()) return;
@@ -187,7 +300,7 @@ function PartView({ part }: { part: Episode }) {
                 return n;
               })
             }
-            onSeek={(ms) => player.current?.seekMs(ms)}
+            onSeek={(line) => playLine(lineIndex(lines, { para: p.idx, line }))}
             onTap={tap}
           />
         ))}
@@ -220,6 +333,33 @@ function PartView({ part }: { part: Episode }) {
         )}
       </div>
 
+      <div className="fixed inset-x-0 bottom-0 z-10 border-t border-rule bg-paper/95 pb-[max(0.5rem,env(safe-area-inset-bottom))] backdrop-blur">
+        <div className="mx-auto flex max-w-[40rem] items-center gap-2 px-4 pt-2">
+          <button type="button" onClick={() => move(-1)} aria-label="Previous line" className={barBtn}>
+            ◀
+          </button>
+          <button type="button" onClick={replay} aria-label="Replay line" className={barBtn}>
+            ↻
+          </button>
+          <button type="button" onClick={() => move(1)} aria-label="Next line" className={barBtn}>
+            ▶
+          </button>
+          <button type="button" onClick={togglePlay} aria-label={playing ? "Pause" : "Play"} className={barBtn}>
+            {playing ? "❚❚" : "⏵"}
+          </button>
+          <button
+            type="button"
+            onClick={toggleLineMode}
+            aria-pressed={lineMode}
+            className="ml-1 flex min-h-11 items-center gap-2 rounded-full px-2 text-xs text-ink-soft active:bg-paper-deep"
+          >
+            <span className={`inline-block size-3 rounded-sm border border-rule ${lineMode ? "bg-seal-wash" : ""}`} />
+            Line by line
+          </button>
+          <span className="ml-auto hidden text-[11px] text-ink-soft sm:inline">Space/→ next · ← back · R replay · K pause</span>
+        </div>
+      </div>
+
       {active && w.activeLexeme && (
         <WordPopover
           lexeme={w.activeLexeme}
@@ -248,7 +388,8 @@ type TurnProps = {
   known?: Set<number>;
   showEn: boolean;
   onToggleEn: () => void;
-  onSeek: (ms: number) => void;
+  /** Play this line of the turn (from its timestamp). */
+  onSeek: (line: number) => void;
   onTap: OnTap;
 };
 
@@ -279,7 +420,7 @@ function Turn({ p, current, active, tapped, known, showEn, onToggleEn, onSeek, o
               {line && (
                 <button
                   type="button"
-                  onClick={() => onSeek(line.start_ms)}
+                  onClick={() => onSeek(i)}
                   aria-label={`Play from ${formatMs(line.start_ms)}`}
                   className="w-10 shrink-0 py-1 text-left font-ui text-[11px] text-ink-soft active:text-accent"
                 >

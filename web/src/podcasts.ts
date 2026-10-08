@@ -101,3 +101,45 @@ export function formatMs(ms: number): string {
   const s = Math.floor(ms / 1000);
   return `${Math.floor(s / 60)}:${String(s % 60).padStart(2, "0")}`;
 }
+
+// Line-by-line listening: one subtitle line per step, pausing at each line's end.
+
+export type TimedLine = LineRef & { start_ms: number; stop_ms: number };
+
+/** Subtitle lines can end a beat before the voice does: play this much past `end_ms`, never into the next line. */
+export const LINE_TAIL_MS = 250;
+
+/** Every subtitle line of the part in order, with where line-by-line playback stops it. */
+export function timedLines(paragraphs: Paragraph[]): TimedLine[] {
+  const out: TimedLine[] = [];
+  for (const p of paragraphs)
+    (p.meta?.lines ?? []).forEach((l, i) => out.push({ para: p.idx, line: i, start_ms: l.start_ms, stop_ms: l.end_ms }));
+  out.forEach((l, i) => {
+    const next = out[i + 1]?.start_ms ?? Infinity;
+    l.stop_ms = Math.max(l.stop_ms, Math.min(l.stop_ms + LINE_TAIL_MS, next));
+  });
+  return out;
+}
+
+/** Index of `ref` in the flat line list, or -1. */
+export function lineIndex(lines: TimedLine[], ref: LineRef | null): number {
+  return ref ? lines.findIndex((l) => l.para === ref.para && l.line === ref.line) : -1;
+}
+
+/**
+ * While a line plays in line-by-line mode: "pause" once playback reaches its stop point,
+ * "rearm" if the video was moved elsewhere (scrubber, timestamp), else "keep".
+ */
+export function lineCheck(ms: number, armed: TimedLine): "pause" | "rearm" | "keep" {
+  if (ms < armed.start_ms - 500 || ms > armed.stop_ms + 1500) return "rearm";
+  return ms >= armed.stop_ms ? "pause" : "keep";
+}
+
+/** Line to arm when playback (re)starts at `ms`: the one playing, or the next if that one is already done. */
+export function lineToArm(lines: TimedLine[], ms: number): number {
+  let i = -1;
+  while (i + 1 < lines.length && lines[i + 1].start_ms <= ms) i++;
+  if (i < 0) return lines.length ? 0 : -1;
+  if (ms >= lines[i].stop_ms - 50) return i + 1 < lines.length ? i + 1 : -1;
+  return i;
+}

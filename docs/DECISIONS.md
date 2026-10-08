@@ -470,6 +470,15 @@ Do not reverse an entry without asking Austin.
 97. **Lessons can be done ahead from the Grammar list** (`/grammar`, linked at the Library's
     foot); finishing one unblocks the point for the generator without waiting for the gate.
 
+## 2026-10-08 (Listen follow-up, Claude Code)
+
+98. **Line-by-line listening (Austin):** podcast parts get the Reader's bottom bar (◀ ↻ ▶ +
+    play/pause, Space/→, ←, R, K) and a "Line by line" toggle (on by default, saved per
+    device) that pauses the video at the end of each subtitle line (`end_ms` + 250 ms, never
+    into the next line). Line timestamps play that one line. Resuming from YouTube's own
+    controls continues with the next line. Rejected: ±N-second skip buttons (lines are the
+    unit you want to re-hear), pausing per turn (turns can be long monologues).
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.
