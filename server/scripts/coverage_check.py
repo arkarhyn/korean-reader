@@ -2,8 +2,8 @@
 
     uv run python scripts/coverage_check.py DRAFT.json [...] [--json]
 
-Per draft: coverage (95-98%), new words (3-6), due words woven in, target grammar
-count (4-6), length (400-700 hangul), and grammar used at state `new`. Unknown
+Per draft: coverage (95-98%), new words (5-8), due words woven in, target grammar
+count (4-6), length (500-900 hangul), and grammar used at state `new`. Unknown
 words are listed so they can be swapped. Exit code 1 if any draft fails.
 """
 import argparse

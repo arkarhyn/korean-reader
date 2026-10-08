@@ -76,7 +76,8 @@ No HTSK vocab priors.
   design session).
 - Register switching is a core thread: 반말 with girlfriend; 해요체/합니다체,
   -(으)시-, humble verbs, honorific nouns with her parents.
-- Episodes ~400-700 Korean characters; 1 target grammar point; 3-6 new words;
+- Episodes ~500-900 Korean characters; 1 target grammar point; 5-8 new words
+  (DECISIONS 98; was 400-700 / 3-6);
   due reviews woven in.
 - Formats vary: narration, dialogue, KakaoTalk-style chats, diary, phone
   calls, occasional parent-POV side stories, occasional folktale side stories.

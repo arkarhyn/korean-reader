@@ -470,6 +470,14 @@ Do not reverse an entry without asking Austin.
 97. **Lessons can be done ahead from the Grammar list** (`/grammar`, linked at the Library's
     foot); finishing one unblocks the point for the generator without waiting for the gate.
 
+## 2026-10-08 (Claude Code)
+98. **Episode bands raised: 5-8 new words (was 3-6), 500-900 hangul (was 400-700); coverage
+    floor stays 95-98%** (Austin: episodes felt too light). Episodes stay the consolidation +
+    speech-practice layer; bulk new vocabulary comes from podcasts, with primers (5-10 new
+    words) as the bridge. The longer length makes room for the extra words without raising
+    density. Primers share the length band. Rejected: dropping coverage toward 90% (turns
+    reading into decoding; placement narrative at ~64% known was 3/5 comprehension).
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

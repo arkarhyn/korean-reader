@@ -18,6 +18,12 @@
   `KRDICT_LOCAL_PATH`, `KRDICT_CACHE_PATH` pointed at the main checkout's `server/data`
   (ingest without `--live` also needs a placeholder `KRDICT_API_KEY`).
 
+**Then (same session, DECISIONS 98):** episode bands raised to 5-8 new words and 500-900
+hangul (coverage still 95-98%) in `server/app/generation.py`, checker docstring, skill, SPEC,
+STORY_BIBLE. Server tests 179 passed. Not yet deployed: the live service (main checkout on
+`stage-6`) still serves the old `targets` from `/api/export/generation-context` until
+`stage-6` is fast-forwarded to `stage-8` and the service restarted.
+
 **Not done:** the pending primer request (pod-dt-29-p1, "친구란?") -- skipped because only
 one story was asked for. Next batch: Ep 7 호칭 정리 (first new target: G.EOJIDA fits 친해지다).
 

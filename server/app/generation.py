@@ -25,9 +25,9 @@ from .ingest import due_lexeme_ids, known_keys, known_lexeme_ids
 from .srs import due_now, load_card, retrievability
 
 BAND = (0.95, 0.98)
-NEW_WORDS = (3, 6)
+NEW_WORDS = (5, 8)  # DECISIONS 98
 TARGET_GRAMMAR = (4, 6)
-HANGUL_CHARS = (400, 700)
+HANGUL_CHARS = (500, 900)
 GRAMMAR_USABLE = ("introduced", "practicing", "solid")
 CONTENT_SERIES = ("main", "side-parent", "side-folk", "primer")
 NEW_WORD_CANDIDATES = 150

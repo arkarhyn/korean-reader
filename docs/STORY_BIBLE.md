@@ -65,7 +65,7 @@ Names are fictional. Nothing here is based on real people.
 | 9 | 탑골프 | Wedding-weekend outing to a driving-range bar with the family. 준수 trash-talks; a family friend asks how Ethan and Seoyun met; an uncle asks about the military | Dialogue | -(으)ㄴ 후에, passives, 에 대해 |
 | 10 | 결혼식 날 | English ceremony; Korean at the reception. Ethan greets the parents' friends properly, congratulates 서현 (축하드려요), says 어머님 for the first time. Father calls him 이선아 | Dialogue-led | -(스)ㅂ니다, 위해, 축하드리다 |
 
-Episodes are short (~400-700 chars) and mostly dialogue: placement
+Episodes are short (~500-900 chars; DECISIONS 98) and mostly dialogue: placement
 (LEARNER_PROFILE, 2026-10-04) put literary narration at ~38% known vs ~90%
 for everyday 해요체. Keep narration to linking lines. Grammar targets come
 from the profile's Practicing / To-learn lists, not beyond HTSK 1-28. An arc beat may span 2 episodes if

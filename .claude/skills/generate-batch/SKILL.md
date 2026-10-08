@@ -14,7 +14,7 @@ uv run python scripts/export_context.py            # -> content/generation-conte
 ```
 Read the JSON plus `docs/STORY_BIBLE.md` (arc table, cast, register map, canon log)
 and `docs/LEARNER_PROFILE.md`. Key fields:
-- `next_episode_id`, `targets` (coverage 95-98%, 3-6 new words, target grammar 4-6x, 400-700 hangul)
+- `next_episode_id`, `targets` (coverage 95-98%, 5-8 new words, target grammar 4-6x, 500-900 hangul)
 - `known` (lemma/POS strings), `proper_nouns` (count as known; add new canon names to
   `content/seed/proper_nouns.json` BEFORE checking)
 - `due` (hidden SRS, Stage 6): FSRS-due words in priority order -- reviewed words least
