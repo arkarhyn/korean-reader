@@ -2,7 +2,16 @@ import "fake-indexeddb/auto";
 import { describe, expect, it } from "vitest";
 import { ReaderDB } from "./db";
 import { buildSections, liveCoverage } from "./library";
-import { activeLineAt, fetchPodcasts, loadPart, splitByLines, upNextPart } from "./podcasts";
+import {
+  activeLineAt,
+  fetchPodcasts,
+  lineCheck,
+  lineToArm,
+  loadPart,
+  splitByLines,
+  timedLines,
+  upNextPart,
+} from "./podcasts";
 import { segment } from "./segments";
 import type { Episode, Paragraph, PodcastShow } from "./types";
 
@@ -42,6 +51,32 @@ describe("activeLineAt", () => {
     expect(activeLineAt(3500, [turn, second])).toEqual({ para: 0, line: 1 });
     expect(activeLineAt(6500, [turn, second])).toEqual({ para: 0, line: 1 }); // gap keeps the last line
     expect(activeLineAt(7000, [turn, second])).toEqual({ para: 1, line: 0 });
+  });
+});
+
+describe("line by line", () => {
+  // turn: lines 0-2900, 3000-6000; second: 7000-9000
+  const lines = timedLines([turn, second]);
+
+  it("lists every line with a stop point padded but never into the next line", () => {
+    expect(lines.map((l) => [l.para, l.line, l.start_ms, l.stop_ms])).toEqual([
+      [0, 0, 0, 3000],
+      [0, 1, 3000, 6250],
+      [1, 0, 7000, 9250],
+    ]);
+  });
+
+  it("pauses at the stop point and re-arms after a jump", () => {
+    expect(lineCheck(2000, lines[0])).toBe("keep");
+    expect(lineCheck(3050, lines[0])).toBe("pause");
+    expect(lineCheck(8000, lines[0])).toBe("rearm");
+  });
+
+  it("arms the playing line, or the next one when resuming from a finished line", () => {
+    expect(lineToArm(lines, 1000)).toBe(0);
+    expect(lineToArm(lines, 6300)).toBe(2); // paused in the gap after line 1
+    expect(lineToArm(lines, 9300)).toBe(-1);
+    expect(lineToArm(timedLines([second]), 0)).toBe(0); // before the first line
   });
 });
 

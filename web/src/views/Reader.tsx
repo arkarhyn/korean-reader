@@ -274,7 +274,7 @@ export function EpisodeView({ episode, placement }: { episode: Episode; placemen
   );
 }
 
-const barBtn = "flex size-11 items-center justify-center rounded-full border border-rule text-base active:bg-paper-deep";
+export const barBtn = "flex size-11 items-center justify-center rounded-full border border-rule text-base active:bg-paper-deep";
 
 export function HighlightToggle({ on, onToggle }: { on: boolean; onToggle: () => void }) {
   return (

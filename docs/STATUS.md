@@ -54,6 +54,18 @@ STORY_BIBLE. Server tests 179 passed. Not yet deployed: the live service (main c
 
 **Not done:** the pending primer request (pod-dt-29-p1, "친구란?") -- skipped because only
 one story was asked for. Next batch: Ep 7 호칭 정리 (first new target: G.EOJIDA fits 친해지다).
+## 2026-10-08 -- Listen: line-by-line controls (Claude Code; DECISIONS 99, numbered 98 on its branch)
+**Done (branch `listen-line-controls`, off `stage-6`; web-only, not deployed):** `/listen/:id`
+has a bottom bar (◀ ↻ ▶, play/pause, "Line by line", keys Space/→ ← R K). With Line by line
+on, the video pauses after each subtitle line; ↻ replays it, ▶ plays the next. Timestamps
+play just that line. Helpers `timedLines` / `lineCheck` / `lineToArm` in `podcasts.ts`
+(unit-tested). Web tests 57 passed, tsc + build OK.
+
+**Next:** Austin tries it on the phone; if OK, fast-forward `stage-6`, rebuild web, restart.
+
+**Open issues:** not yet seen playing in a browser (same limitation as Stage 7: the
+automation Chrome window can't play video). Pause lands up to ~100 ms after the stop point
+(poll interval); subtitle timing quality decides how clean the cut is.
 
 ## 2026-10-05 -- Stage 8 grammar track (Claude Code, built straight through; DECISIONS 92-97)
 **Done (branch `stage-8`, worktree `.claude/worktrees/stage-8`, on top of `stage-6`):**
