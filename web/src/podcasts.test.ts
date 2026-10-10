@@ -8,6 +8,8 @@ import {
   lineCheck,
   lineToArm,
   loadPart,
+  msUntilStop,
+  PAUSE_LEAD_MS,
   splitByLines,
   timedLines,
   upNextPart,
@@ -77,6 +79,14 @@ describe("line by line", () => {
     expect(lineToArm(lines, 6300)).toBe(2); // paused in the gap after line 1
     expect(lineToArm(lines, 9300)).toBe(-1);
     expect(lineToArm(timedLines([second]), 0)).toBe(0); // before the first line
+  });
+
+  it("times the pause in wall ms at the playback rate", () => {
+    // line 0 stops at 3000
+    expect(msUntilStop(2000, lines[0], 1, 100)).toBeNull(); // a second away: the poll handles it
+    expect(msUntilStop(2950, lines[0], 1, 100)).toBe(50 - PAUSE_LEAD_MS);
+    expect(msUntilStop(2950, lines[0], 0.5, 100)).toBe(100 - PAUSE_LEAD_MS); // half speed: twice the wall time
+    expect(msUntilStop(3010, lines[0], 1, 100)).toBe(0); // already past: now
   });
 });
 

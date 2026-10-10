@@ -13,6 +13,8 @@ import {
   loadPart,
   loadPodcasts,
   type LineRef,
+  msUntilStop,
+  SPEEDS,
   splitByLines,
   type TimedLine,
   timedLines,
@@ -27,6 +29,25 @@ import { barBtn, EnToggle, HighlightToggle, loadHighlight, saveHighlight } from 
 
 const FOLLOW_KEY = "listen.follow";
 const LINE_MODE_KEY = "listen.lineByLine";
+const RATE_KEY = "listen.rate";
+const POLL_MS = 100;
+
+function loadRate(): number {
+  try {
+    const r = Number(localStorage.getItem(RATE_KEY));
+    return r >= 0.25 && r <= 2 && r % 0.25 === 0 ? r : 1;
+  } catch {
+    return 1;
+  }
+}
+
+function saveRate(r: number) {
+  try {
+    localStorage.setItem(RATE_KEY, String(r));
+  } catch {
+    /* preference only */
+  }
+}
 
 export default function ListenPart() {
   const { id = "" } = useParams();
@@ -98,6 +119,21 @@ function PartView({ part }: { part: Episode }) {
   const seeking = useRef<{ line: TimedLine; at: number } | null>(null);
   const currentRef = useRef<LineRef | null>(null);
   const [playing, setPlaying] = useState(false);
+  const stopTimer = useRef<{ line: TimedLine; id: number } | null>(null);
+
+  // Playback speed (saved per device, like Autoplay and the voices): 1 / 0.75 / 0.5 on the bar.
+  const [rate, setRate] = useState(loadRate);
+  function changeRate(r: number) {
+    setRate(r);
+    saveRate(r);
+  }
+
+  function stopAtLineEnd() {
+    const p = player.current;
+    armed.current = null;
+    if (p?.playing()) p.pause();
+    setPlaying(false);
+  }
 
   // Follow the video: highlight the line being spoken (and keep it in view when "follow" is on).
   useEffect(() => {
@@ -123,10 +159,23 @@ function PartView({ part }: { part: Episode }) {
           a = i >= 0 ? lines[i] : null;
         }
         armed.current = a;
-        if (a && lineCheck(ms, a) === "pause") {
-          p.pause();
-          armed.current = null;
-          setPlaying(false);
+        if (stopTimer.current && stopTimer.current.line !== a) {
+          window.clearTimeout(stopTimer.current.id);
+          stopTimer.current = null;
+        }
+        if (a && lineCheck(ms, a) === "pause") stopAtLineEnd();
+        else if (a && !stopTimer.current) {
+          // The end is less than a poll away: pause on a timer so the stop lands on time.
+          const wait = msUntilStop(ms, a, p.rate(), POLL_MS);
+          const line = a;
+          if (wait !== null)
+            stopTimer.current = {
+              line,
+              id: window.setTimeout(() => {
+                stopTimer.current = null;
+                if (armed.current === line && lineModeRef.current) stopAtLineEnd();
+              }, wait),
+            };
         }
         at = a ?? activeLineAt(ms, part.paragraphs);
       } else if (isPlaying) {
@@ -140,14 +189,20 @@ function PartView({ part }: { part: Episode }) {
       const ref = at && { para: at.para, line: at.line };
       setCurrent((c) => (c?.para === ref?.para && c?.line === ref?.line ? c : ref));
       currentRef.current = ref;
-    }, 100);
-    return () => window.clearInterval(t);
+    }, POLL_MS);
+    return () => {
+      window.clearInterval(t);
+      if (stopTimer.current) window.clearTimeout(stopTimer.current.id);
+      stopTimer.current = null;
+    };
   }, [lines, part.paragraphs]);
 
   function playLine(i: number) {
     const l = lines[i];
     if (!l || !player.current) return;
     armed.current = l;
+    if (stopTimer.current) window.clearTimeout(stopTimer.current.id);
+    stopTimer.current = null;
     seeking.current = { line: l, at: Date.now() };
     currentRef.current = { para: l.para, line: l.line };
     setCurrent(currentRef.current);
@@ -272,6 +327,8 @@ function PartView({ part }: { part: Episode }) {
           startMs={media.start_ms}
           endMs={media.end_ms}
           onEnded={() => setEnded(true)}
+          rate={rate}
+          onRateChange={changeRate}
         />
       </div>
 
@@ -334,7 +391,7 @@ function PartView({ part }: { part: Episode }) {
       </div>
 
       <div className="fixed inset-x-0 bottom-0 z-10 border-t border-rule bg-paper/95 pb-[max(0.5rem,env(safe-area-inset-bottom))] backdrop-blur">
-        <div className="mx-auto flex max-w-[40rem] items-center gap-2 px-4 pt-2">
+        <div className="mx-auto flex max-w-[40rem] flex-wrap items-center gap-x-2 gap-y-2 px-4 pt-2">
           <button type="button" onClick={() => move(-1)} aria-label="Previous line" className={barBtn}>
             ◀
           </button>
@@ -356,6 +413,21 @@ function PartView({ part }: { part: Episode }) {
             <span className={`inline-block size-3 rounded-sm border border-rule ${lineMode ? "bg-seal-wash" : ""}`} />
             Line by line
           </button>
+          <div role="group" aria-label="Speed" className="flex items-center rounded-full border border-rule">
+            {SPEEDS.map((r) => (
+              <button
+                key={r}
+                type="button"
+                onClick={() => changeRate(r)}
+                aria-pressed={rate === r}
+                className={`flex min-h-11 min-w-11 items-center justify-center rounded-full px-1.5 font-ui text-xs active:bg-paper-deep ${
+                  rate === r ? "bg-seal-wash font-bold text-ink" : "text-ink-soft"
+                }`}
+              >
+                {r === 1 ? "1×" : `${String(r).slice(1)}×`}
+              </button>
+            ))}
+          </div>
           <span className="ml-auto hidden text-[11px] text-ink-soft sm:inline">Space/→ next · ← back · R replay · K pause</span>
         </div>
       </div>

@@ -143,3 +143,18 @@ export function lineToArm(lines: TimedLine[], ms: number): number {
   if (ms >= lines[i].stop_ms - 50) return i + 1 < lines.length ? i + 1 : -1;
   return i;
 }
+
+/** Wall ms a pause request takes to land in the iframe (postMessage + the video element pausing). */
+export const PAUSE_LEAD_MS = 30;
+
+/**
+ * Wall ms from now until the armed line's pause should be sent, when that is within `horizon`
+ * ms (the poll interval): a one-shot timer then stops it on time instead of up to a poll late.
+ */
+export function msUntilStop(ms: number, armed: TimedLine, rate: number, horizon: number): number | null {
+  const wait = (armed.stop_ms - ms) / rate - PAUSE_LEAD_MS;
+  return wait <= horizon ? Math.max(0, wait) : null;
+}
+
+/** Speeds offered one tap away on the Listen bar (any of YouTube's rates still work from its menu). */
+export const SPEEDS = [1, 0.75, 0.5] as const;
