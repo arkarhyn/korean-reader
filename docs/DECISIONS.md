@@ -487,6 +487,19 @@ Do not reverse an entry without asking Austin.
     controls continues with the next line. Rejected: ±N-second skip buttons (lines are the
     unit you want to re-hear), pausing per turn (turns can be long monologues).
 
+## 2026-10-10 (Stage 9 audio polish, Claude Code)
+
+100. **Listen speed = the YouTube player's own rates (Austin):** `setPlaybackRate` with 1 / 0.75 /
+     0.5 one tap away on the Listen bar (Austin shadows at 0.75 and 0.5), saved per device
+     (`listen.rate`); a speed picked in YouTube's own menu is adopted and saved too. Rejected:
+     arbitrary rates via downloaded audio (would mean pulling media off YouTube; the discrete
+     rates cover how Austin shadows). Line stops (99) are timed from an extrapolated clock (the
+     iframe reports its time only a few times a second; `PlaybackClock`) and, once a line's end
+     is under a poll away, a one-shot timer sends the pause 30 ms early. Rejected: trusting
+     `getCurrentTime()` at a 100 ms poll (could stop 100-300 ms into the next line, and the
+     lines are back-to-back in 94% of gaps). The 250 ms tail from 99 never applies on this
+     corpus for the same reason.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.

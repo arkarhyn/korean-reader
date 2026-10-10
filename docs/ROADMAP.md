@@ -46,7 +46,7 @@ each calibration passage's observed tap rate falls inside the leave-one-out
 **Accept:** batch of 5 episodes all in 95-98% band, target grammar 4-6x each,
 due words included; Austin reads 3 and rates naturalness >= 4/5.
 
-## Stage 6 -- Hidden SRS  <- CURRENT (built 2026-10-05; "due words appear in next batch" checked by the next /generate-batch)
+## Stage 6 -- Hidden SRS  DONE (deployed 2026-10-05; last check met 2026-10-08: S01E006-011 wove in due words, 7 of the top 15)
 - Event -> FSRS derivation job (words + grammar); replayable.
 - Meaning checks (~1 in 5 due words); generator due-weighting.
 - Optional Quick review (tap-only, stored context + audio).
@@ -62,14 +62,17 @@ appear in next batch; no backlog UI exists.
 - Phase C (deferred by Austin; podcasts are enough for now): paste / .srt / .vtt ingest
   page with a coverage report (same pipeline).
 **Accept (Phase B):** a part plays with line follow; taps/Learn this/finish sync; finishing
-creates no cards for untapped new words; a primer request reaches the next batch.
+creates no cards for untapped new words; a primer request reaches the next batch (met
+2026-10-08: primer for pod-dt-29-p1 published with S01E007-011).
 
-## Stage 8 -- Grammar track  <- CURRENT (built 2026-10-05, not yet deployed; DECISIONS 92-97)
+## Stage 8 -- Grammar track  DONE (deployed 2026-10-05; DECISIONS 92-97; L29+ map rows still await Austin's review)
 - Design session first (Project): SYLLABUS_MAP.md (HTSK lesson -> code ->
   JP parallel -> Kiwi pattern).
 - Lesson cards + select-only drills; generator grammar gating.
 - Built: map L1-50 + threads with Kiwi patterns (L29+ pending Austin's review), 8 lesson
   cards, Up next gate + /grammar, checker gating, lesson completion in the replay.
 
-## Stage 9 -- Audio polish
+## Stage 9 -- Audio polish  <- CURRENT (Listen part started 2026-10-10; DECISIONS 99-100)
 - Shadowing loop mode, speed control, TTS cache; provider swap hook.
+- Built (not deployed): Listen tab line by line (pause at each line end, ◀ ↻ ▶) and speed
+  1 / 0.75 / 0.5 via the YouTube player. Left: story TTS cache, provider swap hook.

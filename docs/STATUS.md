@@ -1,5 +1,36 @@
 # STATUS
 
+## 2026-10-10 -- Stage 9 (part): Listen speed + line-by-line merged (Claude Code; DECISIONS 99-100)
+**Done (branch `stage-9-audio`, worktree `.claude/worktrees/stage-9-audio`, off `stage-6` c8dfd8c;
+web-only, not deployed):**
+- Merged `listen-line-controls` (the 2026-10-08 line-by-line bar, never deployed); its decision
+  is renumbered 98 -> 99 because trunk used 98 for the generation bands.
+- Speed: 1× / .75× / .5× chips on the Listen bar (second row on phones), YouTube
+  `setPlaybackRate`, saved per device (`listen.rate`); a speed set from YouTube's own menu is adopted.
+- Line stops on time: `PlaybackClock` (`web/src/playbackClock.ts`) extrapolates between the
+  iframe's time reports, anchored at when the player's message arrived; when a line's end is
+  under a poll (100 ms) away a one-shot timer pauses it 30 ms early (`msUntilStop`).
+- Docs: ROADMAP now shows Stage 6 and 8 as done (Stage 8 was still marked "not yet deployed" and
+  both were `<- CURRENT`), Stage 9 current.
+- Tests: web 62 passed, tsc + build OK. Checked in the browser pane at phone width (copy of the
+  live DB): bar fits in two rows, speed choice survives a reload, Line by line on by default.
+
+**Not verified:** actual playback. YouTube shows "Sign in to confirm you're not a bot" in the
+automation browser, so the rate change and the stop timing were never seen on a playing video.
+Stop precision is a design argument plus unit tests, not a measurement.
+
+**Next (Austin, on the phone):** open a part from episode 20+ (millisecond subtitle timing), turn
+on Line by line, set .75 and .5, play ~10 lines: does each stop before the next line's first
+syllable, and does the speed stick? If OK: fast-forward `stage-6` to `stage-9-audio`, rebuild
+web, restart the service (web-only; no migration). If stops still bleed, try a larger
+`PAUSE_LEAD_MS` in `web/src/podcasts.ts` before anything else.
+
+**Open issues:**
+- Subtitle cues in episodes 01-19 are often rounded to whole seconds (14-80% of lines per
+  episode; 0% from ep 20 on), so their line ends can be ~0.5 s off whatever the player does.
+- `listen-line-controls` is still on origin (now merged here); delete it after deploy.
+- Rate on iPhone's embedded player is untested (the API documents it; iOS not checked).
+
 ## 2026-10-08 -- /generate-batch: S01E007-011 + primer (first batch at the DECISIONS 98 bands)
 **Done:** published to the live DB (backup `server/data/korean_reader.backup-20261008-021949-preS01E007-011.db`).
 Season 1 main arc is now complete through the wedding (E011).
