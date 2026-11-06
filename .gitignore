@@ -30,3 +30,6 @@ Thumbs.db
 *.swp
 content/generation-context.json
 .claude/worktrees/
+
+# build artifacts
+*.tsbuildinfo
