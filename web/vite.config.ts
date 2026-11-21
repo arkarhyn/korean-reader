@@ -1,10 +1,42 @@
 /// <reference types="vitest/config" />
 import react from "@vitejs/plugin-react";
 import tailwindcss from "@tailwindcss/vite";
-import { defineConfig } from "vite";
+import { readFileSync } from "node:fs";
+import { networkInterfaces } from "node:os";
+import { defineConfig, type ServerOptions } from "vite";
 import { VitePWA } from "vite-plugin-pwa";
 
-export default defineConfig({
+// `npm run dev:phone`: hot-reloading dev server reachable from the iPhone over
+// Tailscale. HTTPS is required (crypto.randomUUID in sync.ts needs a secure
+// context), so it reuses the service's tailscale cert. /api goes to the live
+// service on :8443, i.e. the phone sees and writes the real data.
+// Listens on the Tailscale address only (100.64.0.0/10), not the home LAN;
+// open it on the desktop via the same ts.net URL.
+// Override with KR_CERT_DIR / KR_API.
+function tailnetAddress(): string {
+  for (const addrs of Object.values(networkInterfaces())) {
+    for (const a of addrs ?? []) {
+      const [o1, o2] = a.address.split(".").map(Number);
+      if (a.family === "IPv4" && o1 === 100 && o2 >= 64 && o2 <= 127) return a.address;
+    }
+  }
+  throw new Error("dev:phone: no Tailscale IPv4 address found -- is Tailscale up?");
+}
+
+function phoneServer(): ServerOptions {
+  const certDir = process.env.KR_CERT_DIR ?? "C:/ProgramData/korean-reader/certs";
+  const api = { target: process.env.KR_API ?? "https://127.0.0.1:8443", secure: false, changeOrigin: true };
+  return {
+    host: tailnetAddress(),
+    port: 5173,
+    strictPort: true,
+    allowedHosts: [".ts.net"],
+    https: { cert: readFileSync(`${certDir}/server.crt`), key: readFileSync(`${certDir}/server.key`) },
+    proxy: { "/api": api, "/health": api },
+  };
+}
+
+export default defineConfig(({ mode }) => ({
   plugins: [
     react(),
     tailwindcss(),
@@ -41,10 +73,8 @@ export default defineConfig({
       },
     }),
   ],
-  server: {
-    proxy: { "/api": "http://127.0.0.1:8000" },
-  },
+  server: mode === "phone" ? phoneServer() : { proxy: { "/api": "http://127.0.0.1:8000" } },
   test: {
     environment: "jsdom",
   },
-});
+}));

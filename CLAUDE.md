@@ -40,6 +40,9 @@ Reference as needed: `docs/SPEC.md`, `docs/DATA_MODEL.md`,
 - web setup: `cd web; npm install` (Node at `C:\Program Files\nodejs`)
 - web dev: `cd web; npm run dev` (proxies `/api` to the server on :8000:
   `cd server; $env:SERVER_PORT=8000; uv run python scripts/serve.py`)
+- web dev on the iPhone (live reload over Tailscale): `cd web; npm run dev:phone`, open
+  `https://arka18-desktop.tail91f88.ts.net:5173` in Safari. Uses the service's cert and proxies
+  `/api` to the LIVE service on :8443 (real data; DECISIONS 101).
 - web build: `cd web; npm run build` (FastAPI serves `web/dist` at `/`)
 - web tests: `cd web; npm test`
 - ingest episodes: `cd server; uv run python scripts/ingest_episodes.py [paths] --publish [--seed] [--live | --offline]`

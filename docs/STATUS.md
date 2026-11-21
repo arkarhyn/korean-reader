@@ -1,5 +1,28 @@
 # STATUS
 
+## 2026-11-20 -- Review + phone dev mode (Claude Code; DECISIONS 101)
+**State found:** `main` = `stage-9-audio` (fast-forwarded 2026-11-05), but `web/dist` is still the
+2026-10-05 build, so line-by-line + speed are NOT live yet (web-only: `npm run build` deploys).
+Service running from `main` (restarted 2026-11-12). Last app event 2026-10-09; read through
+S01E007, E008-011 unread. Server 183 passed (live krdict tests pass again: API is back), web 62.
+
+**Done (branch `phone-dev`):** `npm run dev:phone` -- hot-reload dev server for the phone over
+Tailscale (HTTPS with the service cert, Tailscale-only bind, `/api` -> live :8443). Verified
+from the desktop via the ts.net URL (page, HMR client, API 200; LAN address refused).
+Not yet opened on the iPhone.
+
+**Code review findings (not fixed):**
+- Pull cursor can skip rows: `routes.py:92` takes `server_time` before reading while a batch's
+  replay may not have committed yet -> fix with an overlap on `since` (pulls are idempotent).
+- One rejected (422) event blocks the client queue forever (`web/src/sync.ts:37-49`).
+- YouTube API loader never retries after a failed script load (`YouTubePlayer.tsx:40-52`).
+- Double tap on finish logs two `episode_complete` (`ListenPart.tsx:456`, likely `Reader.tsx:146`).
+- Event logged mid-sync waits for the next trigger (`sync.ts:105-117`).
+- Minor: line-stop timer not cancelled on manual pause; throttled tab skips stops.
+
+**Cleanup left:** stale dir `.claude/worktrees/listen-line-controls`; remote branches
+`listen-line-controls`, `stage-8` (merged).
+
 ## 2026-10-10 -- Stage 9 (part): Listen speed + line-by-line merged (Claude Code; DECISIONS 99-100)
 **Done (branch `stage-9-audio`, worktree `.claude/worktrees/stage-9-audio`, off `stage-6` c8dfd8c;
 web-only, not deployed):**

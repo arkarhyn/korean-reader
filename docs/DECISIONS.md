@@ -500,6 +500,17 @@ Do not reverse an entry without asking Austin.
      lines are back-to-back in 94% of gaps). The 250 ms tail from 99 never applies on this
      corpus for the same reason.
 
+## 2026-11-20 (dev tooling, Claude Code)
+
+101. **Phone dev mode = Vite over HTTPS on the tailnet, proxied to the live service:**
+     `npm run dev:phone` serves hot-reloading UI at `https://<desktop>.ts.net:5173`, reusing the
+     service's tailscale cert, bound to the Tailscale address only, with `/api` + `/health`
+     proxied to :8443 (`KR_API` overrides). HTTPS is required: `crypto.randomUUID` (event ids)
+     only exists in a secure context, so plain http on the tailnet would break all logging.
+     Rejected: plain http + `host: true` (no event ids; also exposed on the home LAN);
+     rebuilding `web/dist` per change (no live reload). Trade-off: dev UI writes real events
+     to the live log, so server-side or risky event work still goes against a DB copy on :8000.
+
 ## OPEN
 
 - ~~O1 HTTPS~~ -> resolved, see 31.
